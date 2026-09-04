@@ -1,0 +1,643 @@
+{
+  "date": {
+    "month": 3,
+    "day": 23,
+    "formatted": "03-23"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "03-23-1983-29304d0b",
+      "year": 1983,
+      "text": "Strategic Defense Initiative: President Ronald Reagan makes his initial proposal to develop technology to intercept enemy missiles.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+        "width": 2399,
+        "height": 3000,
+        "title": "Ronald Reagan",
+        "description": "President of the United States from 1981 to 1989",
+        "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+          "width": 2399,
+          "height": 3000,
+          "title": "Ronald Reagan",
+          "description": "President of the United States from 1981 to 1989",
+          "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/LIM-49A_Spartan_mockup.png/330px-LIM-49A_Spartan_mockup.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/LIM-49A_Spartan_mockup.png/330px-LIM-49A_Spartan_mockup.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "lim-49a_spartan_mockup.png",
+          "width": 800,
+          "height": 600,
+          "title": "The Extended Range Nike Zeus/Spartan missile of the late-1960s was designed to provide full-country defense as part of the Sentinel-Safeguard programs. Projected to cost $40 billion ($397 billion in 2025), the system was expected to provide only limited protection in the event of a large-scale Soviet strike.[21]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Strategic_Defense_Initiative",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Strategic Defense Initiative",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Strategic_Defense_Initiative",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-23-1965-1b220c5d",
+      "year": 1965,
+      "text": "NASA launches Gemini 3, the United States' first two-man space flight (crew: Gus Grissom and John Young).",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/G3C_spacesuit_Gemini_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/G3C_spacesuit_Gemini_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "g3c_spacesuit_gemini_3.jpg",
+        "width": 300,
+        "height": 410,
+        "title": "Gemini 3",
+        "description": "1965 American crewed space mission",
+        "extract": "Gemini 3 was the first crewed mission in NASA's Project Gemini and was the first time two American astronauts flew together into space. On March 23, 1965, astronauts Gus Grissom and John Young flew three low Earth orbits in their spacecraft, which they nicknamed Molly Brown. It was the first U.S. mission in which the crew fired thrusters to change the size and shape of their orbit, a key test of spacecraft maneuverability vital for planned flights to the Moon. It was also the final crewed flight controlled from Cape Kennedy Air Force Station in Florida, before mission control functions were moved to a new control center at the newly opened Manned Spacecraft Center in Houston, Texas.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gemini_3",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/G3C_spacesuit_Gemini_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/G3C_spacesuit_Gemini_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "g3c_spacesuit_gemini_3.jpg",
+          "width": 300,
+          "height": 410,
+          "title": "Gemini 3",
+          "description": "1965 American crewed space mission",
+          "extract": "Gemini 3 was the first crewed mission in NASA's Project Gemini and was the first time two American astronauts flew together into space. On March 23, 1965, astronauts Gus Grissom and John Young flew three low Earth orbits in their spacecraft, which they nicknamed Molly Brown. It was the first U.S. mission in which the crew fired thrusters to change the size and shape of their orbit, a key test of spacecraft maneuverability vital for planned flights to the Moon. It was also the final crewed flight controlled from Cape Kennedy Air Force Station in Florida, before mission control functions were moved to a new control center at the newly opened Manned Spacecraft Center in Houston, Texas.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gemini_3",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Virgil_I._%28Gus%29_Grissom_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Virgil_I._%28Gus%29_Grissom_portrait.jpg/330px-Virgil_I._%28Gus%29_Grissom_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "virgil_i._(gus)_grissom_portrait.jpg",
+          "width": 3699,
+          "height": 4526,
+          "title": "Gus Grissom",
+          "description": "American astronaut (1926–1967)",
+          "extract": "Virgil Ivan \"Gus\" Grissom was an American astronaut, and one of the original Mercury Seven selected by the National Aeronautics and Space Administration (NASA) for Project Mercury, a program to train and launch astronauts into outer space. Grissom went on to be a Project Gemini and Apollo program astronaut for NASA. As a member of the NASA Astronaut Corps, Grissom was the second American to fly in space in 1961. He was also the second American to fly in space twice, preceded only by Joe Walker with his sub-orbital X-15 flights.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gus_Grissom",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/John_Watts_Young.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/John_Watts_Young.jpg/330px-John_Watts_Young.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "john_watts_young.jpg",
+          "width": 2400,
+          "height": 3000,
+          "title": "John Young (astronaut)",
+          "description": "American astronaut and lunar explorer (1930–2018)",
+          "extract": "John Watts Young was an American astronaut, naval officer and aviator, test pilot, and aeronautical engineer. He became the ninth person to walk on the Moon as commander of the Apollo 16 mission in 1972.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_Young_(astronaut)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-23-1982-9c7d6f3c",
+      "year": 1982,
+      "text": "Guatemala's government, headed by Fernando Romeo Lucas García was overthrown in a military coup by right-wing General Efraín Ríos Montt.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Retrato_oficial_de_Presidente_Fernando_Romeo_Lucas_Garcia_%28cropped_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Retrato_oficial_de_Presidente_Fernando_Romeo_Lucas_Garcia_%28cropped_1%29.jpg/330px-Retrato_oficial_de_Presidente_Fernando_Romeo_Lucas_Garcia_%28cropped_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "retrato_oficial_de_presidente_fernando_romeo_lucas_garcia_(cropped_1).jpg",
+        "width": 563,
+        "height": 727,
+        "title": "Fernando Romeo Lucas García",
+        "description": "37th President of Guatemala from 1978 to 1982",
+        "extract": "Fernando Romeo Lucas García was a military officer and politician who served as the 37th president of Guatemala from July 1, 1978, to March 23, 1982. He was elected as the nominee for the Institutional Democratic Party. During Lucas García's regime, tensions between the radical left and the government increased. The military started to murder political opponents while counterinsurgency measures further terrorized populations of poor civilians.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fernando_Romeo_Lucas_Garc%C3%ADa",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Retrato_oficial_de_Presidente_Fernando_Romeo_Lucas_Garcia_%28cropped_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Retrato_oficial_de_Presidente_Fernando_Romeo_Lucas_Garcia_%28cropped_1%29.jpg/330px-Retrato_oficial_de_Presidente_Fernando_Romeo_Lucas_Garcia_%28cropped_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "retrato_oficial_de_presidente_fernando_romeo_lucas_garcia_(cropped_1).jpg",
+          "width": 563,
+          "height": 727,
+          "title": "Fernando Romeo Lucas García",
+          "description": "37th President of Guatemala from 1978 to 1982",
+          "extract": "Fernando Romeo Lucas García was a military officer and politician who served as the 37th president of Guatemala from July 1, 1978, to March 23, 1982. He was elected as the nominee for the Institutional Democratic Party. During Lucas García's regime, tensions between the radical left and the government increased. The military started to murder political opponents while counterinsurgency measures further terrorized populations of poor civilians.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fernando_Romeo_Lucas_Garc%C3%ADa",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Retrato_oficial_de_Presidente_Efra%C3%ADn_R%C3%ADos_Montt_%28cropped_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Retrato_oficial_de_Presidente_Efra%C3%ADn_R%C3%ADos_Montt_%28cropped_3%29.jpg/330px-Retrato_oficial_de_Presidente_Efra%C3%ADn_R%C3%ADos_Montt_%28cropped_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "retrato_oficial_de_presidente_efraín_ríos_montt_(cropped_3).jpg",
+          "width": 572,
+          "height": 764,
+          "title": "Efraín Ríos Montt",
+          "description": "38th President of Guatemala from 1982 to 1983",
+          "extract": "José Efraín Ríos Montt was a Guatemalan military officer who served as de facto President of Guatemala from 1982 to 1983. His brief tenure as chief executive was one of the bloodiest periods in the long-running Guatemalan Civil War. Ríos Montt's counter-insurgency strategies significantly weakened the Marxist guerrillas organized under the umbrella of the Guatemalan National Revolutionary Unity (URNG), while also leading to accusations of war crimes and acts of genocide perpetrated by the Guatemalan Army under his leadership.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Efra%C3%ADn_R%C3%ADos_Montt",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Fernando Romeo Lucas García",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Fernando_Romeo_Lucas_Garc%C3%ADa",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-23-1977-e4222952",
+      "year": 1977,
+      "text": "British journalist David Frost began a series of interviews with former U.S. president Richard Nixon, starting with the Watergate scandal.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/David_Frost_Rumsfeld_interview_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/David_Frost_Rumsfeld_interview_cropped.jpg/330px-David_Frost_Rumsfeld_interview_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "david_frost_rumsfeld_interview_cropped.jpg",
+        "width": 679,
+        "height": 869,
+        "title": "David Frost",
+        "description": "English TV host and journalist (1939–2013)",
+        "extract": "Sir David Paradine Frost was an English television host, journalist, comedian, and writer. He rose to prominence during the satire boom in the United Kingdom when he was chosen to host the satirical television programme That Was the Week That Was in 1962. His success on this show led to work as a host on American television.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/David_Frost",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/David_Frost_Rumsfeld_interview_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/David_Frost_Rumsfeld_interview_cropped.jpg/330px-David_Frost_Rumsfeld_interview_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "david_frost_rumsfeld_interview_cropped.jpg",
+          "width": 679,
+          "height": 869,
+          "title": "David Frost",
+          "description": "English TV host and journalist (1939–2013)",
+          "extract": "Sir David Paradine Frost was an English television host, journalist, comedian, and writer. He rose to prominence during the satire boom in the United Kingdom when he was chosen to host the satirical television programme That Was the Week That Was in 1962. His success on this show led to work as a host on American television.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/David_Frost",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mamie_Eisenhower%2C_David_Frost%2C_Pat_Nixon%2C_Mona_Frost%2C_and_President_Richard_Nixon_in_Front_of_a_White_House_Christmas_Tree_-_DPLA_-_1a45718a7d0589b9ec659ea917d63f8f.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mamie_Eisenhower%2C_David_Frost%2C_Pat_Nixon%2C_Mona_Frost%2C_and_President_Richard_Nixon_in_Front_of_a_White_House_Christmas_Tree_-_DPLA_-_1a45718a7d0589b9ec659ea917d63f8f.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mamie_eisenhower,_david_frost,_pat_nixon,_mona_frost,_and_president_richard_nixon_in_front_of_a_white_house_christmas_tree_-_dpla_-_1a45718a7d0589b9ec659ea917d63f8f.jpg",
+          "width": 1348,
+          "height": 2048,
+          "title": "David Frost's interviews with Richard Nixon",
+          "description": "1977 interviews of Richard Nixon by David Frost",
+          "extract": "The Nixon interviews were a series of conversations between former American president Richard Nixon and British journalist David Frost, produced by John Birt. They were recorded and broadcast on television and radio in four programs in 1977. The interviews later became the central subject of Peter Morgan's play Frost/Nixon in 2006.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/David_Frost's_interviews_with_Richard_Nixon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
+          "width": 2136,
+          "height": 2830,
+          "title": "Richard Nixon",
+          "description": "President of the United States from 1969 to 1974",
+          "extract": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "David Frost",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/David_Frost",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-23-1918-9e992225",
+      "year": 1918,
+      "text": "First World War: On the third day of the German Spring Offensive, the 10th Battalion of the Royal West Kent Regiment is annihilated with many of the men becoming prisoners of war.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bataille_de_verdun_1916.jpg",
+        "width": 1875,
+        "height": 1402,
+        "title": "World War I",
+        "description": "Global conflict from 1914 to 1918",
+        "extract": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bataille_de_verdun_1916.jpg",
+          "width": 1875,
+          "height": 1402,
+          "title": "World War I",
+          "description": "Global conflict from 1914 to 1918",
+          "extract": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Somme-1918_battlefield_copy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Somme-1918_battlefield_copy.jpg/330px-Somme-1918_battlefield_copy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "somme-1918_battlefield_copy.jpg",
+          "width": 800,
+          "height": 933,
+          "title": "Operation Michael",
+          "description": "1918 German offensive during World War I",
+          "extract": "Operation Michael was a major German military offensive during World War I that began the German spring offensive on 21 March 1918. It was launched from the Hindenburg Line, in the vicinity of Saint-Quentin, France. Its goal was to break through the Allied (Entente) lines and advance in a north-westerly direction to seize the Channel Ports, which supplied the British Expeditionary Force (BEF), and to drive the BEF into the sea, all before the Americans could arrive in full numbers to turn the tide of the war. Two days later, General Erich Ludendorff, the chief of the German General Staff, adjusted his plan and pushed for an offensive due west, along the whole of the British front north of the River Somme. This was designed to first separate the French and British Armies before continuing with the original concept of pushing the BEF into the sea. The offensive ended at Villers-Bretonneux, to the east of the Allied communications centre at Amiens, where the Allies managed to halt the German advance; the German Army had suffered many casualties and was unable to maintain supplies to the advancing troops.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Michael",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Royal_West_Kent_Regiment_helmet_plate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Royal_West_Kent_Regiment_helmet_plate.jpg/330px-Royal_West_Kent_Regiment_helmet_plate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "royal_west_kent_regiment_helmet_plate.jpg",
+          "width": 400,
+          "height": 500,
+          "title": "Queen's Own Royal West Kent Regiment",
+          "description": "Military unit",
+          "extract": "The Queen's Own Royal West Kent Regiment was a line infantry regiment of the British Army based in the county of Kent in existence from 1881 to 1961. The regiment was created on 1 July 1881 as part of the Childers Reforms, originally as the Queen's Own (Royal West Kent Regiment), by the amalgamation of the 50th (Queen's Own) Regiment of Foot and the 97th (The Earl of Ulster's) Regiment of Foot. In January 1921, the regiment was renamed the Royal West Kent Regiment (Queen's Own) and, in April of the same year, was again renamed, this time as the Queen's Own Royal West Kent Regiment.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Queen's_Own_Royal_West_Kent_Regiment",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "World War I",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_I",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-23-2001-f6b1ec30",
+      "year": 2001,
+      "text": "The Russian space agency deorbited the space station Mir, causing it to reenter the Earth's atmosphere and break up over the Pacific Ocean.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg/330px-Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mir_space_station_viewed_from_endeavour_during_sts-89.jpg",
+        "width": 3124,
+        "height": 3044,
+        "title": "Mir",
+        "description": "Soviet/Russian space station (1986–2001)",
+        "extract": "Mir was a space station operated in low Earth orbit from 1986 to 2001, first by the Soviet Union and later by the Russian Federation. Mir was the first modular space station and was assembled in orbit from 1986 to 1996. At the time it was the largest artificial satellite in orbit, only being succeeded by the International Space Station (ISS) after Mir's deorbiting in 2001. The station served as a microgravity research laboratory in which crews conducted experiments in biology, human biology, physics, astronomy, meteorology, and spacecraft systems with a goal of developing technologies required for permanent occupation of space.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mir",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg/330px-Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mir_space_station_viewed_from_endeavour_during_sts-89.jpg",
+          "width": 3124,
+          "height": 3044,
+          "title": "Mir",
+          "description": "Soviet/Russian space station (1986–2001)",
+          "extract": "Mir was a space station operated in low Earth orbit from 1986 to 2001, first by the Soviet Union and later by the Russian Federation. Mir was the first modular space station and was assembled in orbit from 1986 to 1996. At the time it was the largest artificial satellite in orbit, only being succeeded by the International Space Station (ISS) after Mir's deorbiting in 2001. The station served as a microgravity research laboratory in which crews conducted experiments in biology, human biology, physics, astronomy, meteorology, and spacecraft systems with a goal of developing technologies required for permanent occupation of space.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mir",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Entry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Entry.jpg/330px-Entry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "entry.jpg",
+          "width": 1280,
+          "height": 1028,
+          "title": "Atmospheric entry",
+          "description": "Passage of an object through the gases of an atmosphere from outer space",
+          "extract": "Atmospheric entry is the movement of an object from outer space into and through the gases of an atmosphere of a planet, dwarf planet, or natural satellite. Atmospheric entry may be uncontrolled entry, as in the entry of astronomical objects, space debris, or bolides, or it may be controlled entry of a spacecraft that can be navigated or follow a predetermined course. Methods for controlled atmospheric entry, descent, and landing of spacecraft are collectively termed as EDL.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Atmospheric_entry",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/National_Space_Centre3.jpg/500px-National_Space_Centre3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/National_Space_Centre3.jpg/500px-National_Space_Centre3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "national_space_centre3.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "National_Space_Centre3",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Roscosmos",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Roscosmos",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Roscosmos",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-23-1889-6d1c9468",
+      "year": 1889,
+      "text": "Mirza Ghulam Ahmad founded the Ahmadiyya Islamic religious movement in British India.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mirza_Ghulam_Ahmad_%28c._1897%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mirza_Ghulam_Ahmad_%28c._1897%29.jpg/330px-Mirza_Ghulam_Ahmad_%28c._1897%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mirza_ghulam_ahmad_(c._1897).jpg",
+        "width": 1475,
+        "height": 2127,
+        "title": "Mirza Ghulam Ahmad",
+        "description": "Indian religious leader and founder of the Ahmadiyya community (1835–1908)",
+        "extract": "Mirza Ghulam Ahmad was an Indian religious leader and the founder of the Ahmadiyya movement in Islam. He claimed to have been divinely appointed as initially the Mujaddid of the 14th Islamic century, followed by the claim to be both the promised Messiah and Mahdi, in regard to Islamic prophecies regarding the end times, as well as being Krishna, an Avatar of Vishnu, for the Hindus.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mirza_Ghulam_Ahmad",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mirza_Ghulam_Ahmad_%28c._1897%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mirza_Ghulam_Ahmad_%28c._1897%29.jpg/330px-Mirza_Ghulam_Ahmad_%28c._1897%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mirza_ghulam_ahmad_(c._1897).jpg",
+          "width": 1475,
+          "height": 2127,
+          "title": "Mirza Ghulam Ahmad",
+          "description": "Indian religious leader and founder of the Ahmadiyya community (1835–1908)",
+          "extract": "Mirza Ghulam Ahmad was an Indian religious leader and the founder of the Ahmadiyya movement in Islam. He claimed to have been divinely appointed as initially the Mujaddid of the 14th Islamic century, followed by the claim to be both the promised Messiah and Mahdi, in regard to Islamic prophecies regarding the end times, as well as being Krishna, an Avatar of Vishnu, for the Hindus.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mirza_Ghulam_Ahmad",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Liwa-e-Ahmadiyya_and_Minarat-ul-Massih.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Liwa-e-Ahmadiyya_and_Minarat-ul-Massih.jpg/330px-Liwa-e-Ahmadiyya_and_Minarat-ul-Massih.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "liwa-e-ahmadiyya_and_minarat-ul-massih.jpg",
+          "width": 1625,
+          "height": 878,
+          "title": "Ahmadiyya",
+          "description": "Islamic messianic movement founded by Mirza Ghulam Ahmad",
+          "extract": "Ahmadiyya, officially the Ahmadiyya Muslim Jama'at is an Islamic messianic movement originating in British India in the late 19th century. It was founded by Mirza Ghulam Ahmad (1835–1908), who said he had been divinely appointed as both the promised Messiah and Mahdi expected by Muslims to appear towards the end times and bring about, by peaceful means, the final triumph of Islam; as well as to embody, in this capacity, the expected eschatological figure of other major religious traditions. Adherents of the Ahmadiyya—a term adopted expressly in reference to Muhammad's alternative name Ahmad—are known as Ahmadi Muslims or simply Ahmadis.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ahmadiyya",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg/330px-British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "british_indian_empire_1909_imperial_gazetteer_of_india.jpg",
+          "width": 1498,
+          "height": 1223,
+          "title": "British Raj",
+          "description": "1858–1947 Crown rule in India",
+          "extract": "The British Raj was the period of rule of the British Crown on the Indian subcontinent, lasting from 1858 to 1947. It is also called Crown rule in India, or direct rule in India. The region under British control was commonly called India in contemporaneous usage and included areas directly administered by the United Kingdom, which were collectively called British India, and areas ruled by indigenous rulers, but under British paramountcy, called the princely states. The region was sometimes called the Indian Empire, though not officially. As India, it was a founding member of the League of Nations and a founding member of the United Nations in San Francisco in 1945. India was a participating state in the Summer Olympics in 1900, 1920, 1928, 1932, and 1936.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/British_Raj",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Mirza Ghulam Ahmad",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mirza_Ghulam_Ahmad",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-23-1839-8dc827e2",
+      "year": 1839,
+      "text": "A massive earthquake destroys the former capital Inwa of the Konbaung dynasty, present-day Myanmar.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Le_Tour_du_monde-02-p293.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Le_Tour_du_monde-02-p293.jpg/330px-Le_Tour_du_monde-02-p293.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "le_tour_du_monde-02-p293.jpg",
+        "width": 1231,
+        "height": 827,
+        "title": "1839 Ava earthquake",
+        "description": "Earthquake in British India",
+        "extract": "The 1839 Ava earthquake, also known as the Amarapura earthquake or Inwa earthquake, was a disastrous seismic event that struck present-day central Myanmar on March 23. This earthquake with an estimated moment magnitude as high as 8.3, was one of the largest in the country, since 1762. It was assigned a maximum of XI (Extreme) on the Modified Mercalli intensity scale, and was felt in Rangoon and Bhamo. Damage was enormous in Ava, resulting in the death of hundreds.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1839_Ava_earthquake",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Le_Tour_du_monde-02-p293.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Le_Tour_du_monde-02-p293.jpg/330px-Le_Tour_du_monde-02-p293.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "le_tour_du_monde-02-p293.jpg",
+          "width": 1231,
+          "height": 827,
+          "title": "1839 Ava earthquake",
+          "description": "Earthquake in British India",
+          "extract": "The 1839 Ava earthquake, also known as the Amarapura earthquake or Inwa earthquake, was a disastrous seismic event that struck present-day central Myanmar on March 23. This earthquake with an estimated moment magnitude as high as 8.3, was one of the largest in the country, since 1762. It was assigned a maximum of XI (Extreme) on the Modified Mercalli intensity scale, and was felt in Rangoon and Bhamo. Damage was enormous in Ava, resulting in the death of hundreds.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1839_Ava_earthquake",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Ruins%2C_Innwa%2C_Mandalay_Division%2C_Burma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ruins%2C_Innwa%2C_Mandalay_Division%2C_Burma.jpg/330px-Ruins%2C_Innwa%2C_Mandalay_Division%2C_Burma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ruins,_innwa,_mandalay_division,_burma.jpg",
+          "width": 3504,
+          "height": 2336,
+          "title": "Inwa",
+          "description": "14th–19th-century Burmese imperial capital",
+          "extract": "Inwa, located in Mandalay Region, Myanmar, is an ancient imperial capital of successive Burmese kingdoms from the 14th to 19th centuries. Throughout history, it was sacked and rebuilt numerous times. The capital city was finally abandoned after it was destroyed by a series of major earthquakes in March 1839. Though only a few traces of its former grandeur remain today, the former capital is a popular day-trip tourist destination from Mandalay.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Inwa",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "1839 Ava earthquake",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1839_Ava_earthquake",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-23-2025-974b91f0",
+      "year": 2025,
+      "text": "Gaza war: Israel Defense Forces killed 15 aid workers in the Rafah paramedic massacre.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/2/24/A_frame_from_the_palestinian_paramedics_video_published_by_NYT.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/A_frame_from_the_palestinian_paramedics_video_published_by_NYT.png/330px-A_frame_from_the_palestinian_paramedics_video_published_by_NYT.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "a_frame_from_the_palestinian_paramedics_video_published_by_nyt.png",
+        "width": 421,
+        "height": 237,
+        "title": "Rafah paramedic massacre",
+        "description": "2025 Israeli mass killing of Palestinians",
+        "extract": "On 23 March 2025, the Israel Defense Forces (IDF) attacked several humanitarian vehicles, including five ambulances, a fire truck, and a United Nations vehicle, in Al-Hashashin area in southern Rafah, Gaza Strip. The massacre resulted in the deaths of 15 aid workers, including eight members of the Palestine Red Crescent Society, five civil defense, and one UN agency employee. It was not until 30 March that most of the missing bodies were retrieved from a mass grave in Rafah, although one ambulance officer who was initially declared missing was kept under Israeli custody.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rafah_paramedic_massacre",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/24/A_frame_from_the_palestinian_paramedics_video_published_by_NYT.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/A_frame_from_the_palestinian_paramedics_video_published_by_NYT.png/330px-A_frame_from_the_palestinian_paramedics_video_published_by_NYT.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "a_frame_from_the_palestinian_paramedics_video_published_by_nyt.png",
+          "width": 421,
+          "height": 237,
+          "title": "Rafah paramedic massacre",
+          "description": "2025 Israeli mass killing of Palestinians",
+          "extract": "On 23 March 2025, the Israel Defense Forces (IDF) attacked several humanitarian vehicles, including five ambulances, a fire truck, and a United Nations vehicle, in Al-Hashashin area in southern Rafah, Gaza Strip. The massacre resulted in the deaths of 15 aid workers, including eight members of the Palestine Red Crescent Society, five civil defense, and one UN agency employee. It was not until 30 March that most of the missing bodies were retrieved from a mass grave in Rafah, although one ambulance officer who was initially declared missing was kept under Israeli custody.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rafah_paramedic_massacre",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Timeline_of_Israel-Palestine_fatalities_2008-2023.png/500px-Timeline_of_Israel-Palestine_fatalities_2008-2023.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Timeline_of_Israel-Palestine_fatalities_2008-2023.png/500px-Timeline_of_Israel-Palestine_fatalities_2008-2023.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "timeline_of_israel-palestine_fatalities_2008-2023.png",
+          "width": 800,
+          "height": 600,
+          "title": "Israeli and Palestinian deaths preceding the 2023 Hamas-led attack on Israel. Most of these deaths were civilians.[84][85]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gaza_war",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Gaza war",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Gaza_war",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-23-2021-3a6f6b12",
+      "year": 2021,
+      "text": "A container ship ran aground and obstructed the Suez Canal for six days.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ever_Given_in_Suez_Canal_viewed_from_ISS_%28cropped%29_3_to_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ever_Given_in_Suez_Canal_viewed_from_ISS_%28cropped%29_3_to_2.jpg/330px-Ever_Given_in_Suez_Canal_viewed_from_ISS_%28cropped%29_3_to_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ever_given_in_suez_canal_viewed_from_iss_(cropped)_3_to_2.jpg",
+        "width": 1674,
+        "height": 1116,
+        "title": "2021 Suez Canal obstruction",
+        "description": "Maritime incident caused by grounded vessel",
+        "extract": "The Suez Canal was blocked for six days from 23 to 29 March 2021 by the Ever Given, a container ship that had run aground in the canal. The 400-metre-long (1,300 ft), 224,000-ton, 20,000 TEU vessel was buffeted by strong winds on the morning of 23 March, and ended up wedged across the waterway with its bow and stern stuck on opposite canal banks, blocking all traffic until it could be freed. Egyptian authorities said that \"technical or human errors\" may have also been involved. The obstruction occurred south of the two-channel section of the canal, so other ships could not pass. The Suez Canal Authority (SCA) hired Royal Boskalis through its subsidiary Smit International to manage marine salvage operations. The blockage of one of the world's busiest trade routes slowed trade between Europe, Asia, and the Middle East, tying up goods worth an estimated US$9.6 billion per day. By 28 March, at least 369 ships were queuing to pass through the canal.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ever_Given_in_Suez_Canal_viewed_from_ISS_%28cropped%29_3_to_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ever_Given_in_Suez_Canal_viewed_from_ISS_%28cropped%29_3_to_2.jpg/330px-Ever_Given_in_Suez_Canal_viewed_from_ISS_%28cropped%29_3_to_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ever_given_in_suez_canal_viewed_from_iss_(cropped)_3_to_2.jpg",
+          "width": 1674,
+          "height": 1116,
+          "title": "2021 Suez Canal obstruction",
+          "description": "Maritime incident caused by grounded vessel",
+          "extract": "The Suez Canal was blocked for six days from 23 to 29 March 2021 by the Ever Given, a container ship that had run aground in the canal. The 400-metre-long (1,300 ft), 224,000-ton, 20,000 TEU vessel was buffeted by strong winds on the morning of 23 March, and ended up wedged across the waterway with its bow and stern stuck on opposite canal banks, blocking all traffic until it could be freed. Egyptian authorities said that \"technical or human errors\" may have also been involved. The obstruction occurred south of the two-channel section of the canal, so other ships could not pass. The Suez Canal Authority (SCA) hired Royal Boskalis through its subsidiary Smit International to manage marine salvage operations. The blockage of one of the world's busiest trade routes slowed trade between Europe, Asia, and the Middle East, tying up goods worth an estimated US$9.6 billion per day. By 28 March, at least 369 ships were queuing to pass through the canal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Iss016e019375.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Iss016e019375.jpg/330px-Iss016e019375.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss016e019375.jpg",
+          "width": 2000,
+          "height": 3032,
+          "title": "Suez Canal",
+          "description": "Artificial sea-level waterway in Egypt",
+          "extract": "The Suez Canal is an artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea through the Isthmus of Suez and dividing Africa and Asia. It is the border between Africa and Asia. The 193.3-kilometre-long (120.1-mile) canal is a key trade route between Europe and Asia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Suez_Canal",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/EVER_GIVEN_%2849643352087%29.jpg/1280px-EVER_GIVEN_%2849643352087%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/EVER_GIVEN_%2849643352087%29.jpg/1280px-EVER_GIVEN_%2849643352087%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "ever_given_(49643352087).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Ever Given in March 2020",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "2021 Suez Canal obstruction",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2021_Suez_Canal_obstruction",
+      "relatedPagesCount": 2
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 2,
+    "day": 5,
+    "formatted": "02-05"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "02-05-1971-5776fe5f",
+      "year": 1971,
+      "text": "Astronauts land on the Moon in the Apollo 14 mission.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Apollo_14_Shepard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Apollo_14_Shepard.jpg/330px-Apollo_14_Shepard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "apollo_14_shepard.jpg",
+        "width": 2340,
+        "height": 2359,
+        "title": "Apollo 14",
+        "description": "Third crewed Moon landing",
+        "extract": "Apollo 14 was the eighth crewed mission in the United States Apollo program operated by NASA, the third to land on the Moon, and the first to land in the lunar highlands. It was the last of the \"H missions\", landings at specific sites of scientific interest on the Moon for two-day stays with two lunar extravehicular activities.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_14",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Apollo_14_Shepard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Apollo_14_Shepard.jpg/330px-Apollo_14_Shepard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "apollo_14_shepard.jpg",
+          "width": 2340,
+          "height": 2359,
+          "title": "Apollo 14",
+          "description": "Third crewed Moon landing",
+          "extract": "Apollo 14 was the eighth crewed mission in the United States Apollo program operated by NASA, the third to land on the Moon, and the first to land in the lunar highlands. It was the last of the \"H missions\", landings at specific sites of scientific interest on the Moon for two-day stays with two lunar extravehicular activities.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_14",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Apollo_14-insignia.png/1280px-Apollo_14-insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Apollo_14-insignia.png/1280px-Apollo_14-insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "apollo_14-insignia.png",
+          "width": 800,
+          "height": 600,
+          "title": "Apollo_14-insignia",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_14",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Apollo_14_crew.jpg/1280px-Apollo_14_crew.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Apollo_14_crew.jpg/1280px-Apollo_14_crew.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "apollo_14_crew.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Apollo_14_crew",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_14",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Apollo 14",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Apollo_14",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "02-05-1924-890ce211",
+      "year": 1924,
+      "text": "The Royal Greenwich Observatory begins broadcasting the hourly time signals known as the Greenwich Time Signal.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Royal_observatory_greenwich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Royal_observatory_greenwich.jpg/330px-Royal_observatory_greenwich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "royal_observatory_greenwich.jpg",
+        "width": 449,
+        "height": 600,
+        "title": "Royal Observatory, Greenwich",
+        "description": "Observatory in London, England",
+        "extract": "The Royal Observatory, Greenwich is an observatory situated on a hill in Greenwich Park in south east London, overlooking the River Thames to the north. It played a major role in the history of astronomy and navigation, and because the Prime Meridian passed through it, it gave its name to Greenwich Mean Time, the precursor to today's Coordinated Universal Time (UTC). The ROG has the IAU observatory code of 000, the first in the list. ROG, the National Maritime Museum, the Queen's House and the clipper ship Cutty Sark are collectively designated Royal Museums Greenwich.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Royal_Observatory%2C_Greenwich",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Royal_observatory_greenwich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Royal_observatory_greenwich.jpg/330px-Royal_observatory_greenwich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "royal_observatory_greenwich.jpg",
+          "width": 449,
+          "height": 600,
+          "title": "Royal Observatory, Greenwich",
+          "description": "Observatory in London, England",
+          "extract": "The Royal Observatory, Greenwich is an observatory situated on a hill in Greenwich Park in south east London, overlooking the River Thames to the north. It played a major role in the history of astronomy and navigation, and because the Prime Meridian passed through it, it gave its name to Greenwich Mean Time, the precursor to today's Coordinated Universal Time (UTC). The ROG has the IAU observatory code of 000, the first in the list. ROG, the National Maritime Museum, the Queen's House and the clipper ship Cutty Sark are collectively designated Royal Museums Greenwich.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Royal_Observatory%2C_Greenwich",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Royal Observatory, Greenwich",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Royal_Observatory%2C_Greenwich",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-05-1919-f28e27c1",
+      "year": 1919,
+      "text": "Charlie Chaplin, Mary Pickford, Douglas Fairbanks, and D. W. Griffith launch United Artists.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/330px-Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "charlie_chaplin_portrait_getty_1739411952.jpg",
+        "width": 2878,
+        "height": 4101,
+        "title": "Charlie Chaplin",
+        "description": "English actor and filmmaker (1889–1977)",
+        "extract": "Sir Charles Spencer Chaplin Jr. was an English comic actor, filmmaker, singer, film editor and composer who rose to fame in the era of silent film. He became a worldwide icon through his screen persona, the Tramp, and is considered one of the film industry's most important figures. His career spanned more than 75 years, from his childhood in the Victorian era until a year before his death in 1977.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charlie_Chaplin",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/330px-Charlie_Chaplin_portrait_Getty_1739411952.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "charlie_chaplin_portrait_getty_1739411952.jpg",
+          "width": 2878,
+          "height": 4101,
+          "title": "Charlie Chaplin",
+          "description": "English actor and filmmaker (1889–1977)",
+          "extract": "Sir Charles Spencer Chaplin Jr. was an English comic actor, filmmaker, singer, film editor and composer who rose to fame in the era of silent film. He became a worldwide icon through his screen persona, the Tramp, and is considered one of the film industry's most important figures. His career spanned more than 75 years, from his childhood in the Victorian era until a year before his death in 1977.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Charlie_Chaplin",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Mary_Pickford_cph.3c17995u.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mary_Pickford_cph.3c17995u.jpg/330px-Mary_Pickford_cph.3c17995u.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mary_pickford_cph.3c17995u.jpg",
+          "width": 2934,
+          "height": 3726,
+          "title": "Mary Pickford",
+          "description": "Canadian actress and producer (1892–1979)",
+          "extract": "Gladys Louise Smith, baptised as Gladys Marie Smith, known professionally as Mary Pickford, was a Canadian American film actress and producer. A pioneer in the American film industry with a Hollywood career spanning five decades, Pickford was one of the most popular actresses of the silent film era. Beginning her film career in 1909, Pickford became Hollywood's first millionaire by 1916, and, at the height of her career, had complete creative control of her films and was one of the most recognizable women in the world. Due to her popularity, unprecedented international fame, and success as an actress and businesswoman, she was known as the \"Queen of the Movies\". She was a significant figure in the development of film acting and is credited with having defined the ingénue type in cinema, a persona that also earned her the nickname \"America's Sweetheart\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mary_Pickford",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Douglas_Fairbanks_cropped.jpg/3840px-Douglas_Fairbanks_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Douglas_Fairbanks_cropped.jpg/330px-Douglas_Fairbanks_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "douglas_fairbanks_cropped.jpg",
+          "width": 7440,
+          "height": 9264,
+          "title": "Douglas Fairbanks",
+          "description": "American actor and filmmaker (1883–1939)",
+          "extract": "Douglas Elton Fairbanks Sr. was an American actor and filmmaker best known for being the first actor to play the masked vigilante Zorro and other swashbuckling roles in silent films. One of the biggest stars of the silent era, Fairbanks was referred to as \"The King of Hollywood\". He was also a founding member of United Artists as well as the Motion Picture Academy and hosted the 1st Academy Awards in 1929.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Douglas_Fairbanks",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Charlie Chaplin",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Charlie_Chaplin",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "02-05-1985-dff63e9f",
+      "year": 1985,
+      "text": "Ugo Vetere, then the mayor of Rome, and Chedli Klibi, then the mayor of Carthage, meet in Tunis to sign a treaty of friendship officially ending the Third Punic War which lasted 2,131 years.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ugo_Vetere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ugo_Vetere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "ugo_vetere.jpg",
+        "width": 227,
+        "height": 276,
+        "title": "Ugo Vetere",
+        "description": "Italian politician (1924–2013)",
+        "extract": "Ugo Vetere was an Italian Communist Party politician. He was born in Reggio Calabria. He became mayor of Rome in 1981, after the death of his predecessor and served until 1985. He served in the Chamber of Deputies of Italy in Legislature VI, Legislature VII, Legislature VIII and in the Senate of the Republic in Legislature X.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ugo_Vetere",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ugo_Vetere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ugo_Vetere.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "ugo_vetere.jpg",
+          "width": 227,
+          "height": 276,
+          "title": "Ugo Vetere",
+          "description": "Italian politician (1924–2013)",
+          "extract": "Ugo Vetere was an Italian Communist Party politician. He was born in Reggio Calabria. He became mayor of Rome in 1981, after the death of his predecessor and served until 1985. He served in the Chamber of Deputies of Italy in Legislature VI, Legislature VII, Legislature VIII and in the Senate of the Republic in Legislature X.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ugo_Vetere",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Chadli_klibi.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Chadli_klibi.JPG/330px-Chadli_klibi.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chadli_klibi.jpg",
+          "width": 3000,
+          "height": 4000,
+          "title": "Chedli Klibi",
+          "description": "Tunisian politician (1925–2020)",
+          "extract": "Chedli Klibi was a Tunisian politician. He was Secretary-General of the Arab League, and the only non-Egyptian to hold the post.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chedli_Klibi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Montage_ville_de_Carthage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Montage_ville_de_Carthage.png/330px-Montage_ville_de_Carthage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "montage_ville_de_carthage.png",
+          "width": 1612,
+          "height": 1884,
+          "title": "Carthage",
+          "description": "Ancient city in Tunisia",
+          "extract": "Carthage was an ancient city in northern Africa founded by the legendary Phoenician queen Dido on the eastern side of the Lake of Tunis in what is now Tunisia. Carthage was one of the most important trading hubs of the Ancient Mediterranean and one of the most affluent cities of the classical world. It became the capital city of the civilization of Ancient Carthage and later Roman Carthage.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Carthage",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Ugo Vetere",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ugo_Vetere",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "02-05-1994-83fc246b",
+      "year": 1994,
+      "text": "Byron De La Beckwith is convicted of the 1963 murder of civil rights leader Medgar Evers.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Byron_De_La_Beckwith%2C_Associated_Press_1964.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Byron_De_La_Beckwith%2C_Associated_Press_1964.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "byron_de_la_beckwith,_associated_press_1964.png",
+        "width": 277,
+        "height": 513,
+        "title": "Byron De La Beckwith",
+        "description": "American white supremacist, Klansman, and convicted murderer",
+        "extract": "Byron De La Beckwith Jr. was an American white supremacist and member of the Ku Klux Klan who murdered civil rights leader Medgar Evers on June 12, 1963, in Jackson, Mississippi.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Byron_De_La_Beckwith",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Byron_De_La_Beckwith%2C_Associated_Press_1964.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Byron_De_La_Beckwith%2C_Associated_Press_1964.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "byron_de_la_beckwith,_associated_press_1964.png",
+          "width": 277,
+          "height": 513,
+          "title": "Byron De La Beckwith",
+          "description": "American white supremacist, Klansman, and convicted murderer",
+          "extract": "Byron De La Beckwith Jr. was an American white supremacist and member of the Ku Klux Klan who murdered civil rights leader Medgar Evers on June 12, 1963, in Jackson, Mississippi.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Byron_De_La_Beckwith",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Medgar_Evers_press_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Medgar_Evers_press_photo.jpg/330px-Medgar_Evers_press_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "medgar_evers_press_photo.jpg",
+          "width": 1544,
+          "height": 1984,
+          "title": "Medgar Evers",
+          "description": "American civil rights activist (1925–1963)",
+          "extract": "Medgar Wiley Evers was an American civil rights activist who was the NAACP's first field secretary in Mississippi. A United States Army veteran who served in World War II, he was engaged in efforts to overturn racial segregation at the University of Mississippi, end the segregation of public facilities, and expand opportunities for African Americans, including the enforcement of voting rights, prior to his assassination.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Medgar_Evers",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Byron De La Beckwith",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Byron_De_La_Beckwith",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-05-1981-9bbed8b8",
+      "year": 1981,
+      "text": "Operation Soap: The Metropolitan Toronto Police Force raids four gay bathhouses in Toronto, Ontario, Canada, arresting just under 300, triggering mass protest and rallies.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg/3840px-Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg/330px-Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "toronto_skyline_from_olympic_island,_june_20_2026_(5-3_cropped).jpg",
+        "width": 6632,
+        "height": 3982,
+        "title": "Toronto",
+        "description": "Most populous city in Canada",
+        "extract": "Toronto is the most populous city in Canada and the capital city of the Canadian province of Ontario. It is located on a harbour at the northwestern shore of Lake Ontario. The city is the fourth-most populous city in North America, behind Mexico City, New York City, and Los Angeles, with a census population of 2,794,356 as of 2021. The Greater Toronto Area (GTA) is constituted of Toronto proper and four surrounding regions, Peel, York, Durham, and Halton, and has a population of 6,712,341, while the Toronto census metropolitan area (CMA), with a somewhat different definition, has a population of 7,106,379. Toronto is an international centre of business, finance, arts, sports, and culture, and is recognized as one of the most multicultural and cosmopolitan cities in the world.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Toronto",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg/3840px-Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg/330px-Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "toronto_skyline_from_olympic_island,_june_20_2026_(5-3_cropped).jpg",
+          "width": 6632,
+          "height": 3982,
+          "title": "Toronto",
+          "description": "Most populous city in Canada",
+          "extract": "Toronto is the most populous city in Canada and the capital city of the Canadian province of Ontario. It is located on a harbour at the northwestern shore of Lake Ontario. The city is the fourth-most populous city in North America, behind Mexico City, New York City, and Los Angeles, with a census population of 2,794,356 as of 2021. The Greater Toronto Area (GTA) is constituted of Toronto proper and four surrounding regions, Peel, York, Durham, and Halton, and has a population of 6,712,341, while the Toronto census metropolitan area (CMA), with a somewhat different definition, has a population of 7,106,379. Toronto is an international centre of business, finance, arts, sports, and culture, and is recognized as one of the most multicultural and cosmopolitan cities in the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Toronto",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Operation Soap",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Operation_Soap",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-05-2020-32bc582b",
+      "year": 2020,
+      "text": "United States President Donald Trump is acquitted by the United States Senate in his first impeachment trial.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "official_presidential_portrait_of_president_donald_j._trump_(2025).jpg",
+        "width": 1638,
+        "height": 2048,
+        "title": "Donald Trump",
+        "description": "President of the United States (2017–2021; since 2025)",
+        "extract": "Donald John Trump is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_presidential_portrait_of_president_donald_j._trump_(2025).jpg",
+          "width": 1638,
+          "height": 2048,
+          "title": "Donald Trump",
+          "description": "President of the United States (2017–2021; since 2025)",
+          "extract": "Donald John Trump is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Chief_Justice_John_Roberts_presides_over_the_impeachment_trial_of_Donald_Trump.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chief_Justice_John_Roberts_presides_over_the_impeachment_trial_of_Donald_Trump.jpg/330px-Chief_Justice_John_Roberts_presides_over_the_impeachment_trial_of_Donald_Trump.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chief_justice_john_roberts_presides_over_the_impeachment_trial_of_donald_trump.jpg",
+          "width": 3839,
+          "height": 2160,
+          "title": "First impeachment trial of Donald Trump",
+          "description": "2020 trial in the US Senate",
+          "extract": "The first impeachment trial of Donald Trump, the 45th president of the United States, began in the U.S. Senate on January 16, 2020, and concluded with his acquittal on February 5. After an inquiry between September and November 2019, Trump was impeached by the U.S. House of Representatives on December 18, 2019; the articles of impeachment charged him with abuse of power and obstruction of Congress. It was the third impeachment trial of a U.S. president, preceded by those of Andrew Johnson and of Bill Clinton.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/First_impeachment_trial_of_Donald_Trump",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4_close_cropped%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4_close_cropped%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "official_presidential_portrait_of_president_donald_j._trump_(2025)_(3x4_close_cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025)_(3x4_close_cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Donald Trump",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-05-2009-6da63c56",
+      "year": 2009,
+      "text": "The United States Navy guided missile cruiser  Port Royal ran aground (pictured) on a coral reef off the island of Oahu.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/USS_Port_Royal_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/USS_Port_Royal_1.JPG/330px-USS_Port_Royal_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "uss_port_royal_1.jpg",
+        "width": 2400,
+        "height": 1539,
+        "title": "USS Port Royal (CG-73)",
+        "description": "US Ticonderoga-class cruiser",
+        "extract": "USS Port Royal (CG-73) is a decommissioned Ticonderoga-class guided missile cruiser that served in the United States Navy. She was commissioned on 9 July 1994, as the 27th and final ship of the class. Port Royal was named in honor of the two naval battles of Port Royal Sound, South Carolina, one during the American Revolutionary War, the other during the American Civil War. She was decommissioned on 29 September 2022. The ship is the second to bear the name, with the first being a steam-powered, side-wheel gunboat, from New York City, in commission from 1862 to 1866.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/USS_Port_Royal_(CG-73)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/USS_Port_Royal_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/USS_Port_Royal_1.JPG/330px-USS_Port_Royal_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "uss_port_royal_1.jpg",
+          "width": 2400,
+          "height": 1539,
+          "title": "USS Port Royal (CG-73)",
+          "description": "US Ticonderoga-class cruiser",
+          "extract": "USS Port Royal (CG-73) is a decommissioned Ticonderoga-class guided missile cruiser that served in the United States Navy. She was commissioned on 9 July 1994, as the 27th and final ship of the class. Port Royal was named in honor of the two naval battles of Port Royal Sound, South Carolina, one during the American Revolutionary War, the other during the American Civil War. She was decommissioned on 29 September 2022. The ship is the second to bear the name, with the first being a steam-powered, side-wheel gunboat, from New York City, in commission from 1862 to 1866.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/USS_Port_Royal_(CG-73)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/US_Navy_090207-N-0000X-007_The_Pearl_Harbor-based_guided-missile_cruiser_USS_Port_Royal_%28CG_73%29_takes_a_starboard_list_as_the_USNS_Salvor_%28T-ARS_52%29_tries_to_free_the_ship_after_it_ran_aground_Feb._5_about_a_half-mile_south_of.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/US_Navy_090207-N-0000X-007_The_Pearl_Harbor-based_guided-missile_cruiser_USS_Port_Royal_%28CG_73%29_takes_a_starboard_list_as_the_USNS_Salvor_%28T-ARS_52%29_tries_to_free_the_ship_after_it_ran_aground_Feb._5_about_a_half-mile_south_of.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "us_navy_090207-n-0000x-007_the_pearl_harbor-based_guided-missile_cruiser_uss_port_royal_(cg_73)_takes_a_starboard_list_as_the_usns_salvor_(t-ars_52)_tries_to_free_the_ship_after_it_ran_aground_feb._5_about_a_half-mile_south_of.jpg",
+          "width": 2100,
+          "height": 1500,
+          "title": "2009 USS Port Royal grounding",
+          "description": "2009 shipwreck",
+          "extract": "The 2009 USS Port Royal grounding was a ship grounding by the United States Navy guided missile cruiser Port Royal off Oahu, Hawaii on 5 February 2009. The ship ran aground on a coral reef, damaging both the ship and the reef. The incident received wide press coverage in Hawaii, in part because of the damage caused to a sensitive coral environment, and also because the stranded ship was within sight of Honolulu off the airport.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2009_USS_Port_Royal_grounding",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Oahu.jpg/3840px-Oahu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Oahu.jpg/330px-Oahu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "oahu.jpg",
+          "width": 5000,
+          "height": 4000,
+          "title": "Oʻahu",
+          "description": "Third largest island in Hawaii",
+          "extract": "Oʻahu, sometimes written Oahu, is the third-largest and most populated island of the Hawaiian Islands and of the U.S. state of Hawaii. The state capital, Honolulu, is on Oʻahu's southeastern coast. The island of Oʻahu and the uninhabited Northwestern Hawaiian Islands constitute the City and County of Honolulu. In 2025, Oʻahu had a population of 988,703, a decline of 27,791 from 1,016,494 in 2020.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/O%CA%BBahu",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "United States Navy",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/United_States_Navy",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-05-2008-07c7ef77",
+      "year": 2008,
+      "text": "Eighty-seven tornadoes occurred over the course of the Super Tuesday tornado outbreak across multiple U.S. states, causing 56 deaths and over $1 billion in damage.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/F5_tornado_Elie_Manitoba_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/F5_tornado_Elie_Manitoba_2007.jpg/330px-F5_tornado_Elie_Manitoba_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "f5_tornado_elie_manitoba_2007.jpg",
+        "width": 2592,
+        "height": 1944,
+        "title": "Tornado",
+        "description": "Violently rotating column of air",
+        "extract": "A tornado, also known as a twister, is a rapidly rotating column of air that extends vertically from the surface of the Earth to the base of a cumulonimbus or cumulus cloud. Tornadoes are often visible in the form of a condensation funnel originating from the cloud base, with a cloud of rotating debris and dust close to the ground. Most tornadoes have wind speeds less than 180 kilometers per hour, are about 80 meters across, and travel several kilometers before dissipating. The most extreme tornadoes can attain wind speeds of more than 480 kilometers per hour (300 mph), can be more than 3 kilometers (2 mi) in diameter, and can stay on the ground for more than 100 km (62 mi).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tornado",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/F5_tornado_Elie_Manitoba_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/F5_tornado_Elie_Manitoba_2007.jpg/330px-F5_tornado_Elie_Manitoba_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "f5_tornado_elie_manitoba_2007.jpg",
+          "width": 2592,
+          "height": 1944,
+          "title": "Tornado",
+          "description": "Violently rotating column of air",
+          "extract": "A tornado, also known as a twister, is a rapidly rotating column of air that extends vertically from the surface of the Earth to the base of a cumulonimbus or cumulus cloud. Tornadoes are often visible in the form of a condensation funnel originating from the cloud base, with a cloud of rotating debris and dust close to the ground. Most tornadoes have wind speeds less than 180 kilometers per hour, are about 80 meters across, and travel several kilometers before dissipating. The most extreme tornadoes can attain wind speeds of more than 480 kilometers per hour (300 mph), can be more than 3 kilometers (2 mi) in diameter, and can stay on the ground for more than 100 km (62 mi).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tornado",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Noaa-outbreak-graphic.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Noaa-outbreak-graphic.png/330px-Noaa-outbreak-graphic.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "noaa-outbreak-graphic.png",
+          "width": 765,
+          "height": 511,
+          "title": "2008 Super Tuesday tornado outbreak",
+          "description": "Deadly tornado outbreak in the southern United States",
+          "extract": "A deadly tornado outbreak affected the Southern United States and the lower Ohio Valley on February 5 and 6, 2008. The outbreak began on Super Tuesday, while 24 states in the United States were holding primary elections and caucuses to select the presidential candidates for the upcoming presidential election. Missouri, Illinois, Arkansas, Alabama, and Tennessee were among the affected regions in which primaries were being held. Some voting locations were forced to close early due to the approaching severe weather.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2008_Super_Tuesday_tornado_outbreak",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/AllTdots.png/1280px-AllTdots.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/AllTdots.png/1280px-AllTdots.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "alltdots.png",
+          "width": 800,
+          "height": 600,
+          "title": "Tornadoes in the US, 1950–2013, highest F-scale on top, source NOAA Storm Prediction Center.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tornado",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Tornado",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Tornado",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-05-2004-2f60ee20",
+      "year": 2004,
+      "text": "At least 21 cockle-gatherers were drowned by an incoming tide in Morecambe Bay, England, prompting the establishment of the British government's Gangmasters Licensing Authority.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Coque_blanche_%28Cerastoderma_edule%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Coque_blanche_%28Cerastoderma_edule%29.jpg/330px-Coque_blanche_%28Cerastoderma_edule%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "coque_blanche_(cerastoderma_edule).jpg",
+        "width": 1944,
+        "height": 2592,
+        "title": "Common cockle",
+        "description": "Species of bivalve",
+        "extract": "The common cockle is a species of edible saltwater clam, a marine bivalve mollusc in the family Cardiidae, the cockles. It is found in waters off Europe, from Iceland in the north, south into waters off western Africa as far south as Senegal. The ribbed oval shells can reach 6 centimetres (2.4 in) across and are white, yellowish or brown in colour. The common cockle is harvested commercially and eaten in much of its range.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Common_cockle",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Coque_blanche_%28Cerastoderma_edule%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Coque_blanche_%28Cerastoderma_edule%29.jpg/330px-Coque_blanche_%28Cerastoderma_edule%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "coque_blanche_(cerastoderma_edule).jpg",
+          "width": 1944,
+          "height": 2592,
+          "title": "Common cockle",
+          "description": "Species of bivalve",
+          "extract": "The common cockle is a species of edible saltwater clam, a marine bivalve mollusc in the family Cardiidae, the cockles. It is found in waters off Europe, from Iceland in the north, south into waters off western Africa as far south as Senegal. The ribbed oval shells can reach 6 centimetres (2.4 in) across and are white, yellowish or brown in colour. The common cockle is harvested commercially and eaten in much of its range.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Common_cockle",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Morecambebay_pan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Morecambebay_pan_%28cropped%29.jpg/330px-Morecambebay_pan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "morecambebay_pan_(cropped).jpg",
+          "width": 2397,
+          "height": 1348,
+          "title": "Morecambe Bay cockling disaster",
+          "description": "2004 mass drowning in Morecambe Bay, England",
+          "extract": "On the evening of 5 February 2004, at least 22 Chinese labourers were drowned by an incoming tide at Morecambe Bay in Lancashire, North West England, while illegally harvesting cockles off the coast. Fifteen other labourers from the same group managed to return safely to shore.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Morecambe_Bay_cockling_disaster",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/GLAA_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/d/d3/GLAA_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "glaa_logo.png",
+          "width": 307,
+          "height": 125,
+          "title": "Gangmasters and Labour Abuse Authority",
+          "description": "Non-departmental public body in the United Kingdom",
+          "extract": "The Gangmasters and Labour Abuse Authority (GLAA) was the foremost intelligence and investigative agency for labour exploitation in the UK. Its role was to work in partnership with police and other law enforcement agencies such as the National Crime Agency to protect vulnerable and exploited workers and disrupt and dismantle serious and organised crime. The agency was headquartered at Loxley House in Nottingham, England. In April 2026 it became part of the Fair Work Agency.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gangmasters_and_Labour_Abuse_Authority",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Common cockle",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Common_cockle",
+      "relatedPagesCount": 4
+    }
+  ]
+}

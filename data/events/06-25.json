@@ -1,0 +1,619 @@
+{
+  "date": {
+    "month": 6,
+    "day": 25,
+    "formatted": "06-25"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "06-25-2022-9407ca2b",
+      "year": 2022,
+      "text": "Russian invasion of Ukraine: Russian forces captured the city of Sievierodonetsk, Ukraine, after six weeks of fighting.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Attack_on_the_center_of_Severodonetsk_by_Russian_forces.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Attack_on_the_center_of_Severodonetsk_by_Russian_forces.jpg/330px-Attack_on_the_center_of_Severodonetsk_by_Russian_forces.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "attack_on_the_center_of_severodonetsk_by_russian_forces.jpg",
+        "width": 768,
+        "height": 715,
+        "title": "Battle of Sievierodonetsk (2022)",
+        "description": "Battle in the Russo-Ukrainian war",
+        "extract": "The Battle of Sievierodonetsk was a military engagement in the wider battle of Donbas of the eastern Ukraine campaign during the Russian invasion of Ukraine.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Sievierodonetsk_(2022)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Attack_on_the_center_of_Severodonetsk_by_Russian_forces.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Attack_on_the_center_of_Severodonetsk_by_Russian_forces.jpg/330px-Attack_on_the_center_of_Severodonetsk_by_Russian_forces.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "attack_on_the_center_of_severodonetsk_by_russian_forces.jpg",
+          "width": 768,
+          "height": 715,
+          "title": "Battle of Sievierodonetsk (2022)",
+          "description": "Battle in the Russo-Ukrainian war",
+          "extract": "The Battle of Sievierodonetsk was a military engagement in the wider battle of Donbas of the eastern Ukraine campaign during the Russian invasion of Ukraine.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Sievierodonetsk_(2022)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/44-129-0013_%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B8_%D1%85%D1%96%D0%BC%D1%96%D0%BA%D1%96%D0%B2%2C_%D0%A1%D1%94%D0%B2%D1%94%D1%80%D0%BE%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%2C_%D0%B1%D1%83%D0%BB._%D0%94%D1%80%D1%83%D0%B6%D0%B1%D0%B8_%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D1%96%D0%B2_%28%D0%B2%D1%83%D0%BB._%D0%9B%D0%B5%D0%BD%D1%96%D0%BD%D0%B0%29%2C_37.jpg/3840px-44-129-0013_%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B8_%D1%85%D1%96%D0%BC%D1%96%D0%BA%D1%96%D0%B2%2C_%D0%A1%D1%94%D0%B2%D1%94%D1%80%D0%BE%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%2C_%D0%B1%D1%83%D0%BB._%D0%94%D1%80%D1%83%D0%B6%D0%B1%D0%B8_%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D1%96%D0%B2_%28%D0%B2%D1%83%D0%BB._%D0%9B%D0%B5%D0%BD%D1%96%D0%BD%D0%B0%29%2C_37.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/44-129-0013_%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B8_%D1%85%D1%96%D0%BC%D1%96%D0%BA%D1%96%D0%B2%2C_%D0%A1%D1%94%D0%B2%D1%94%D1%80%D0%BE%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%2C_%D0%B1%D1%83%D0%BB._%D0%94%D1%80%D1%83%D0%B6%D0%B1%D0%B8_%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D1%96%D0%B2_%28%D0%B2%D1%83%D0%BB._%D0%9B%D0%B5%D0%BD%D1%96%D0%BD%D0%B0%29%2C_37.jpg/330px-44-129-0013_%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B8_%D1%85%D1%96%D0%BC%D1%96%D0%BA%D1%96%D0%B2%2C_%D0%A1%D1%94%D0%B2%D1%94%D1%80%D0%BE%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%2C_%D0%B1%D1%83%D0%BB._%D0%94%D1%80%D1%83%D0%B6%D0%B1%D0%B8_%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D1%96%D0%B2_%28%D0%B2%D1%83%D0%BB._%D0%9B%D0%B5%D0%BD%D1%96%D0%BD%D0%B0%29%2C_37.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "44-129-0013_палац_культури_хіміків,_сєвєродонецьк,_бул._дружби_народів_(вул._леніна),_37.jpg",
+          "width": 5458,
+          "height": 3437,
+          "title": "Sievierodonetsk",
+          "description": "City in Luhansk Oblast, Ukraine",
+          "extract": "Sievierodonetsk or Severodonetsk, officially since 2024 Siverskodonetsk, is a city in Luhansk Oblast, eastern Ukraine. It is located to the northeast of the left bank of the Donets river and approximately 110 km (68 mi) to the northwest from the administrative center of the oblast, Luhansk. Sievierodonetsk faces neighbouring Lysychansk across the river. The city, whose name comes from the above-mentioned river, had a population of 99,067, making it then the second-most populous city in the oblast. Since June 2022, it has been militarily occupied and administered by Russia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sievierodonetsk",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Presidents_after_signing_the_Trilateral_Statement%2C_Moscow%2C_1994.png/500px-Presidents_after_signing_the_Trilateral_Statement%2C_Moscow%2C_1994.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Presidents_after_signing_the_Trilateral_Statement%2C_Moscow%2C_1994.png/500px-Presidents_after_signing_the_Trilateral_Statement%2C_Moscow%2C_1994.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "presidents_after_signing_the_trilateral_statement,_moscow,_1994.png",
+          "width": 800,
+          "height": 600,
+          "title": "US president Clinton, Russian president Yeltsin, and Ukrainian president Kravchuk after signing the Trilateral Statement (1994). Russia and the US agreed to uphold Ukraine's independence and territorial integrity in return for Ukraine giving up its nuclear weapons.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war_(2022%E2%80%93present)",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Russo-Ukrainian war (2022–present)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war_(2022%E2%80%93present)",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-25-2009-03ad4535",
+      "year": 2009,
+      "text": "Singer Michael Jackson died as a result of the combination of drugs in his body.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/330px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "michael_jackson_1983_(3x4_cropped)_(contrast).jpg",
+        "width": 2291,
+        "height": 3046,
+        "title": "Michael Jackson",
+        "description": "American singer (1958–2009)",
+        "extract": "Michael Joseph Jackson was an American singer, songwriter, dancer, and philanthropist. Dubbed the \"King of Pop\", he is widely regarded as one of the most culturally significant figures of the 20th century. His musical achievements broke American racial barriers and made him a dominant figure worldwide. Through his songs, music videos, concerts, and fashion, he transformed visual performance in popular music, popularizing street dance moves such as the moonwalk, the robot, and the anti-gravity lean. Jackson is often deemed the greatest entertainer of all time.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_Jackson",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg/330px-Michael_Jackson_1983_%283x4_cropped%29_%28contrast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "michael_jackson_1983_(3x4_cropped)_(contrast).jpg",
+          "width": 2291,
+          "height": 3046,
+          "title": "Michael Jackson",
+          "description": "American singer (1958–2009)",
+          "extract": "Michael Joseph Jackson was an American singer, songwriter, dancer, and philanthropist. Dubbed the \"King of Pop\", he is widely regarded as one of the most culturally significant figures of the 20th century. His musical achievements broke American racial barriers and made him a dominant figure worldwide. Through his songs, music videos, concerts, and fashion, he transformed visual performance in popular music, popularizing street dance moves such as the moonwalk, the robot, and the anti-gravity lean. Jackson is often deemed the greatest entertainer of all time.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Michael_Jackson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Michael_Jackson_Star.JPG/3840px-Michael_Jackson_Star.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Michael_Jackson_Star.JPG/330px-Michael_Jackson_Star.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "michael_jackson_star.jpg",
+          "width": 4752,
+          "height": 3168,
+          "title": "Death of Michael Jackson",
+          "description": "2009 death of American singer",
+          "extract": "On June 25, 2009, American singer Michael Jackson died of acute propofol intoxication in Los Angeles, California, at the age of 50. His personal physician, Conrad Murray, said that he found Jackson in his bedroom at his North Carolwood Drive home in the Holmby Hills area of the city not breathing and with a weak pulse; he administered cardiopulmonary resuscitation (CPR) to no avail, and security called 911 at 12:21 p.m. Pacific Daylight Time (UTC–7). Paramedics treated Jackson at the scene, but he was pronounced dead at Ronald Reagan UCLA Medical Center in Westwood at 2:26 p.m.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Death_of_Michael_Jackson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Citrus_paradisi_%28Grapefruit%2C_pink%29_white_bg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Citrus_paradisi_%28Grapefruit%2C_pink%29_white_bg.jpg/330px-Citrus_paradisi_%28Grapefruit%2C_pink%29_white_bg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "citrus_paradisi_(grapefruit,_pink)_white_bg.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": "Drug interaction",
+          "description": "Change in the action or side effects of a drug caused",
+          "extract": "In pharmaceutical sciences, drug interactions occur when a drug's mechanism of action is affected by the concomitant administration of substances such as foods, beverages, or other drugs. A popular example of drug–food interaction is the effect of grapefruit on the metabolism of drugs.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Drug_interaction",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Michael Jackson",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Michael_Jackson",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-25-1992-e4bb62da",
+      "year": 1992,
+      "text": "Space Shuttle Columbia launches on STS-50, the first shuttle mission to carry Extended Duration Orbiter hardware.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+        "width": 868,
+        "height": 521,
+        "title": "Space Shuttle Columbia",
+        "description": "Space Shuttle orbiter (1981–2003)",
+        "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+          "width": 868,
+          "height": 521,
+          "title": "Space Shuttle Columbia",
+          "description": "Space Shuttle orbiter (1981–2003)",
+          "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Spacelab_Module_in_Cargo_Bay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Spacelab_Module_in_Cargo_Bay.jpg/330px-Spacelab_Module_in_Cargo_Bay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "spacelab_module_in_cargo_bay.jpg",
+          "width": 2977,
+          "height": 2340,
+          "title": "STS-50",
+          "description": "1992 American crewed spaceflight",
+          "extract": "STS-50 was a NASA Space Shuttle mission, the 12th mission of the Columbia orbiter. Columbia landed at Kennedy Space Center for the first time ever due to bad weather at Edwards Air Force Base caused by the remnants of Hurricane Darby.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-50",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/566175main_columbia-opf.jpg/1280px-566175main_columbia-opf.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/566175main_columbia-opf.jpg/1280px-566175main_columbia-opf.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "566175main_columbia-opf.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Columbia in the Orbiter Processing Facility after delivery to Kennedy Space Center in 1979. About 8,000 of 30,000 tiles had not yet been installed.[7]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Columbia",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-25-1978-b1e20e9c",
+      "year": 1978,
+      "text": "Hosts Argentina defeat the Netherlands by a score of 3–1 in the final to win their first ever FIFA World Cup.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/EstadioMonumental1978FIFA.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/EstadioMonumental1978FIFA.png/330px-EstadioMonumental1978FIFA.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "estadiomonumental1978fifa.png",
+        "width": 1525,
+        "height": 969,
+        "title": "1978 FIFA World Cup final",
+        "description": "World Cup final, held in Argentina",
+        "extract": "The final match of the 1978 FIFA World Cup, the eleventh edition of FIFA's football compilation for men's national teams, was played at the Estadio Monumental in Buenos Aires, Argentina, on 25 June 1978, and was contested by Argentina and the Netherlands.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/EstadioMonumental1978FIFA.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/EstadioMonumental1978FIFA.png/330px-EstadioMonumental1978FIFA.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "estadiomonumental1978fifa.png",
+          "width": 1525,
+          "height": 969,
+          "title": "1978 FIFA World Cup final",
+          "description": "World Cup final, held in Argentina",
+          "extract": "The final match of the 1978 FIFA World Cup, the eleventh edition of FIFA's football compilation for men's national teams, was played at the Estadio Monumental in Buenos Aires, Argentina, on 25 June 1978, and was contested by Argentina and the Netherlands.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_final",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Estadio_mas_monumental.jpg/1280px-Estadio_mas_monumental.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Estadio_mas_monumental.jpg/1280px-Estadio_mas_monumental.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "estadio_mas_monumental.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Estadio Monumental, Argentina's most frequent home venue",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Argentina_national_football_team",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Argentina national football team",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Argentina_national_football_team",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "06-25-1981-b025ecbd",
+      "year": 1981,
+      "text": "Microsoft is restructured to become an incorporated business in its home state of Washington.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/3840px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "aerial_microsoft_west_campus_august_2009.jpg",
+        "width": 4752,
+        "height": 3168,
+        "title": "Microsoft",
+        "description": "American multinational technology company",
+        "extract": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence, video gaming, and more. A Big Tech company, Microsoft is the largest software company by revenue, one of the most valuable public companies, and one of the most valuable brands globally.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Microsoft",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/3840px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aerial_microsoft_west_campus_august_2009.jpg",
+          "width": 4752,
+          "height": 3168,
+          "title": "Microsoft",
+          "description": "American multinational technology company",
+          "extract": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence, video gaming, and more. A Big Tech company, Microsoft is the largest software company by revenue, one of the most valuable public companies, and one of the most valuable brands globally.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Microsoft",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bill_Gates_at_the_European_Commission_-_2025_-_P067383-605791_%28cropped%29.jpg/500px-Bill_Gates_at_the_European_Commission_-_2025_-_P067383-605791_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bill_Gates_at_the_European_Commission_-_2025_-_P067383-605791_%28cropped%29.jpg/500px-Bill_Gates_at_the_European_Commission_-_2025_-_P067383-605791_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bill_gates_at_the_european_commission_-_2025_-_p067383-605791_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Bill_Gates_at_the_European_Commission_-_2025_-_P067383-605791_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Microsoft",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Altair_8800_and_Model_33_ASR_Teletype.jpg/1280px-Altair_8800_and_Model_33_ASR_Teletype.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Altair_8800_and_Model_33_ASR_Teletype.jpg/1280px-Altair_8800_and_Model_33_ASR_Teletype.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "altair_8800_and_model_33_asr_teletype.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "An Altair 8800 computer (left) with the popular Model 33 ASR Teletype as terminal, paper tape reader, and paper tape punch",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Microsoft",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Microsoft",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Microsoft",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "06-25-1944-d393d7cd",
+      "year": 1944,
+      "text": "The final page of the comic Krazy Kat is published, exactly two months after its author George Herriman died.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Krazy_Kat_and_Ignatz_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Krazy_Kat_and_Ignatz_1.png/330px-Krazy_Kat_and_Ignatz_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "krazy_kat_and_ignatz_1.png",
+        "width": 843,
+        "height": 469,
+        "title": "Krazy Kat",
+        "description": "American comic strip",
+        "extract": "Krazy Kat is an American newspaper comic strip created by cartoonist George Herriman, which ran from 1913 to 1944. It first appeared in the New York Evening Journal, whose owner, William Randolph Hearst, was a major booster for the strip throughout its run. The characters had been introduced previously in a side strip with Herriman's earlier creation, The Dingbat Family, after earlier appearances in the Herriman comic strip Baron Bean. The phrase \"Krazy Kat\" originated there, said by the mouse by way of describing the cat. Set in a dreamlike portrayal of Herriman's vacation home of Coconino County, Arizona, Krazy Kat's mixture of offbeat surrealism, innocent playfulness and poetic, idiosyncratic language has made it a favorite of comics aficionados and art critics for more than 80 years.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Krazy_Kat",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Krazy_Kat_and_Ignatz_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Krazy_Kat_and_Ignatz_1.png/330px-Krazy_Kat_and_Ignatz_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "krazy_kat_and_ignatz_1.png",
+          "width": 843,
+          "height": 469,
+          "title": "Krazy Kat",
+          "description": "American comic strip",
+          "extract": "Krazy Kat is an American newspaper comic strip created by cartoonist George Herriman, which ran from 1913 to 1944. It first appeared in the New York Evening Journal, whose owner, William Randolph Hearst, was a major booster for the strip throughout its run. The characters had been introduced previously in a side strip with Herriman's earlier creation, The Dingbat Family, after earlier appearances in the Herriman comic strip Baron Bean. The phrase \"Krazy Kat\" originated there, said by the mouse by way of describing the cat. Set in a dreamlike portrayal of Herriman's vacation home of Coconino County, Arizona, Krazy Kat's mixture of offbeat surrealism, innocent playfulness and poetic, idiosyncratic language has made it a favorite of comics aficionados and art critics for more than 80 years.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Krazy_Kat",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/George_Herriman_undated.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/George_Herriman_undated.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "george_herriman_undated.png",
+          "width": 321,
+          "height": 445,
+          "title": "George Herriman",
+          "description": "American cartoonist (1880–1944)",
+          "extract": "George Joseph Herriman III was an American cartoonist best known for the comic strip Krazy Kat (1913–1944). More influential than popular, Krazy Kat had an appreciative audience among those in the arts. Gilbert Seldes' article \"The Krazy Kat Who Walks by Himself\" was the earliest example of a critic from the high arts giving serious attention to a comic strip. The Comics Journal placed the strip first on its list of the greatest comics of the 20th century. Herriman's work has been a primary influence on cartoonists such as Elzie C. Segar, Will Eisner, Walt Kelly, Charles M. Schulz, Robert Crumb, Art Spiegelman, Bill Watterson, and Chris Ware.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/George_Herriman",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/1922_0121_krazykat_det_650.jpg/500px-1922_0121_krazykat_det_650.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/1922_0121_krazykat_det_650.jpg/500px-1922_0121_krazykat_det_650.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "1922_0121_krazykat_det_650.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "This January 21, 1922 page demonstrates the strip's charactaristic ever-changing backgrounds as Krazy tries to understand why Door Mouse is carrying a door.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Krazy_Kat",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Krazy Kat",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Krazy_Kat",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "06-25-1997-29009222",
+      "year": 1997,
+      "text": "An uncrewed Progress spacecraft collides with the Russian space station Mir.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg/330px-Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mir_space_station_viewed_from_endeavour_during_sts-89.jpg",
+        "width": 3124,
+        "height": 3044,
+        "title": "Mir",
+        "description": "Soviet/Russian space station (1986–2001)",
+        "extract": "Mir was a space station operated in low Earth orbit from 1986 to 2001, first by the Soviet Union and later by the Russian Federation. Mir was the first modular space station and was assembled in orbit from 1986 to 1996. At the time it was the largest artificial satellite in orbit, only being succeeded by the International Space Station (ISS) after Mir's deorbiting in 2001. The station served as a microgravity research laboratory in which crews conducted experiments in biology, human biology, physics, astronomy, meteorology, and spacecraft systems with a goal of developing technologies required for permanent occupation of space.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mir",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg/330px-Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mir_space_station_viewed_from_endeavour_during_sts-89.jpg",
+          "width": 3124,
+          "height": 3044,
+          "title": "Mir",
+          "description": "Soviet/Russian space station (1986–2001)",
+          "extract": "Mir was a space station operated in low Earth orbit from 1986 to 2001, first by the Soviet Union and later by the Russian Federation. Mir was the first modular space station and was assembled in orbit from 1986 to 1996. At the time it was the largest artificial satellite in orbit, only being succeeded by the International Space Station (ISS) after Mir's deorbiting in 2001. The station served as a microgravity research laboratory in which crews conducted experiments in biology, human biology, physics, astronomy, meteorology, and spacecraft systems with a goal of developing technologies required for permanent occupation of space.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mir",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Progress M-34",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Progress_M-34",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-25-1996-88adcef9",
+      "year": 1996,
+      "text": "The Khobar Towers bombing in Saudi Arabia kills 19 U.S. servicemen.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/AnschalgInZahran1996_KhobarTower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AnschalgInZahran1996_KhobarTower.jpg/330px-AnschalgInZahran1996_KhobarTower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "anschalginzahran1996_khobartower.jpg",
+        "width": 1967,
+        "height": 1305,
+        "title": "Khobar Towers bombing",
+        "description": "1996 terrorist attack in Khobar, Saudi Arabia",
+        "extract": "The Khobar Towers bombing was an attack on part of a housing complex in the city of Khobar, Saudi Arabia, near the national oil company headquarters of Dhahran and nearby King Abdulaziz Air Base on 25 June 1996. At that time, Khobar Towers was being used as living quarters for coalition forces who were assigned to Operation Southern Watch, a no-fly zone operation in southern Iraq, as part of the Iraqi no-fly zones.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Khobar_Towers_bombing",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/AnschalgInZahran1996_KhobarTower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AnschalgInZahran1996_KhobarTower.jpg/330px-AnschalgInZahran1996_KhobarTower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anschalginzahran1996_khobartower.jpg",
+          "width": 1967,
+          "height": 1305,
+          "title": "Khobar Towers bombing",
+          "description": "1996 terrorist attack in Khobar, Saudi Arabia",
+          "extract": "The Khobar Towers bombing was an attack on part of a housing complex in the city of Khobar, Saudi Arabia, near the national oil company headquarters of Dhahran and nearby King Abdulaziz Air Base on 25 June 1996. At that time, Khobar Towers was being used as living quarters for coalition forces who were assigned to Operation Southern Watch, a no-fly zone operation in southern Iraq, as part of the Iraqi no-fly zones.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Khobar_Towers_bombing",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Khobar_towers_and_crater.jpg/500px-Khobar_towers_and_crater.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Khobar_towers_and_crater.jpg/500px-Khobar_towers_and_crater.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "khobar_towers_and_crater.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The crater remaining after the truck bomb explosion. Building #131 is on the right.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Khobar_Towers_bombing",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Khobar Towers bombing",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Khobar_Towers_bombing",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-25-2024-6e2be47c",
+      "year": 2024,
+      "text": "Thousands of people storm Kenya's Parliament Buildings protesting the passing of the government's 2024/25 Finance Bill.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Parliament_of_Kenya_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Parliament_of_Kenya_02.JPG/330px-Parliament_of_Kenya_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "parliament_of_kenya_02.jpg",
+        "width": 2448,
+        "height": 3264,
+        "title": "2024 storming of the Kenyan Parliament",
+        "description": "Storming of the Kenyan parliament by protesters",
+        "extract": "On 25 June 2024, thousands of protesters stormed the Kenyan Parliament Building in Nairobi in response to the passing of the Kenya Finance Bill 2024, part of a larger series of protests against the proposed tax increases. The protest escalated when the police opened fire and killed peaceful protesters. Nineteen people died in Nairobi during the demonstrations as the police responded by shooting at the protesters. President William Ruto vetoed the bill the following day.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2024_storming_of_the_Kenyan_Parliament",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Parliament_of_Kenya_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Parliament_of_Kenya_02.JPG/330px-Parliament_of_Kenya_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "parliament_of_kenya_02.jpg",
+          "width": 2448,
+          "height": 3264,
+          "title": "2024 storming of the Kenyan Parliament",
+          "description": "Storming of the Kenyan parliament by protesters",
+          "extract": "On 25 June 2024, thousands of protesters stormed the Kenyan Parliament Building in Nairobi in response to the passing of the Kenya Finance Bill 2024, part of a larger series of protests against the proposed tax increases. The protest escalated when the police opened fire and killed peaceful protesters. Nineteen people died in Nairobi during the demonstrations as the police responded by shooting at the protesters. President William Ruto vetoed the bill the following day.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2024_storming_of_the_Kenyan_Parliament",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "2024 storming of the Kenyan Parliament",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2024_storming_of_the_Kenyan_Parliament",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "06-25-2013-82c21967",
+      "year": 2013,
+      "text": "In response to a Freedom of Information Act request, the CIA acknowledged the existence of Area 51 (diagram pictured), a secretive U.S. Air Force facility in Nevada and a subject of various UFO, and other, conspiracy theories.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Sentinel-Homey.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sentinel-Homey.png/330px-Sentinel-Homey.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sentinel-homey.png",
+        "width": 998,
+        "height": 1249,
+        "title": "Area 51",
+        "description": "U.S. Air Force facility in Nevada",
+        "extract": "Area 51 is a highly classified United States Air Force (USAF) facility within the Nevada Test and Training Range in southern Nevada, 83 miles (134 km) north-northwest of Las Vegas.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Area_51",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Sentinel-Homey.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Sentinel-Homey.png/330px-Sentinel-Homey.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sentinel-homey.png",
+          "width": 998,
+          "height": 1249,
+          "title": "Area 51",
+          "description": "U.S. Air Force facility in Nevada",
+          "extract": "Area 51 is a highly classified United States Air Force (USAF) facility within the Nevada Test and Training Range in southern Nevada, 83 miles (134 km) north-northwest of Las Vegas.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Area_51",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm/500px--Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm/330px--Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm.jpg",
+          "canonicalKey": "-gimbal_the_first_official_uap_footage_from_the_usg_for_public_release.webm.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "Unidentified flying object",
+          "description": "Apparent unusual observation in the sky",
+          "extract": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are also known as unidentified aerial phenomena or unidentified anomalous phenomena (UAPs). Upon investigation, most UFOs are identified as known objects, natural phenomena, hoaxes, or mirages, while a small number remain unexplained.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Unidentified_flying_object",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Dollarnote_siegel_hq.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Dollarnote_siegel_hq.jpg/330px-Dollarnote_siegel_hq.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dollarnote_siegel_hq.jpg",
+          "width": 720,
+          "height": 726,
+          "title": "Conspiracy theory",
+          "description": "Attributing events to an improbable conspiracy",
+          "extract": "A conspiracy theory is an explanation for an event or situation that asserts the existence of a conspiracy, when other explanations are more probable. The term generally has a negative connotation, as it can often be based in prejudice, emotional conviction, insufficient evidence or paranoia. A conspiracy theory is distinct from a conspiracy; it refers to a hypothesized conspiracy with specific characteristics, including but not limited to opposition to the mainstream consensus among those who are qualified to evaluate its accuracy, such as scientists or historians. As such, conspiracy theories are identified as lay theories.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Conspiracy_theory",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Freedom of Information Act (United States)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Freedom_of_Information_Act_(United_States)",
+      "relatedPagesCount": 7
+    }
+  ]
+}

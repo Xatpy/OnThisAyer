@@ -1,0 +1,595 @@
+{
+  "date": {
+    "month": 3,
+    "day": 11,
+    "formatted": "03-11"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "03-11-2008-a87a32d4",
+      "year": 2008,
+      "text": "Space Shuttle Endeavour launches on STS-123, carrying the first component of the Japanese Kibō module to the International Space Station.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+        "width": 3680,
+        "height": 2448,
+        "title": "Space Shuttle Endeavour",
+        "description": "Space Shuttle orbiter (1992–2011)",
+        "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+          "width": 3680,
+          "height": 2448,
+          "title": "Space Shuttle Endeavour",
+          "description": "Space Shuttle orbiter (1992–2011)",
+          "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/S123e006082.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/S123e006082.jpg/330px-S123e006082.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "s123e006082.jpg",
+          "width": 3032,
+          "height": 2006,
+          "title": "STS-123",
+          "description": "2008 American crewed spaceflight to the ISS",
+          "extract": "STS-123 was a Space Shuttle mission to the International Space Station (ISS) which was flown by Space Shuttle Endeavour. STS-123 was the 1J/A ISS assembly mission. The original launch target date was February 14, 2008, but after the delay of STS-122, the shuttle was launched on March 11, 2008. It was the twenty-fifth shuttle mission to visit the ISS, and delivered the first module of the Japanese laboratory, Japanese Experiment Module (Kibō), and the Canadian Special Purpose Dexterous Manipulator, (SPDM) Dextre robotics system to the station. The mission duration was 15 days and 18 hours, and it was the first mission to fully utilize the Station-to-Shuttle Power Transfer System (SSPTS), allowing space station power to augment the shuttle power systems. The mission set a record for a shuttle's longest stay at the ISS.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-123",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Japanese_Experiment_Module_exterior_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Japanese_Experiment_Module_exterior_-_cropped.jpg/330px-Japanese_Experiment_Module_exterior_-_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "japanese_experiment_module_exterior_-_cropped.jpg",
+          "width": 2300,
+          "height": 1600,
+          "title": "Kibō (ISS module)",
+          "description": "Japanese ISS module, used on ISS press conferences",
+          "extract": "Kibō , also known as the Japanese Experiment Module (JEM), is a Japanese science module for the International Space Station (ISS) developed by JAXA. It is the largest single ISS pressurized module by volume, attached to the Harmony module, and the second largest space station module ever, after Skylab's core. The first two pieces of the module were launched on Space Shuttle missions STS-123 and STS-124. The third and final components were launched on STS-127.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kib%C5%8D_(ISS_module)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Endeavour",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-11-2010-b5cfded4",
+      "year": 2010,
+      "text": "Economist and businessman Sebastián Piñera is sworn in as President of Chile. Aftershocks of the 2010 Pichilemu earthquakes hit central Chile during the ceremony.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Retrato_Oficial_Presidente_Pi%C3%B1era_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Retrato_Oficial_Presidente_Pi%C3%B1era_2018.jpg/330px-Retrato_Oficial_Presidente_Pi%C3%B1era_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "retrato_oficial_presidente_piñera_2018.jpg",
+        "width": 2008,
+        "height": 2598,
+        "title": "Sebastián Piñera",
+        "description": "President of Chile (2010–2014; 2018–2022)",
+        "extract": "Miguel Juan Sebastián Piñera Echenique was a Chilean businessman and politician who served as 34th and 36th president of Chile from 2010 to 2014 and from 2018 to 2022. The son of a Christian Democratic politician and diplomat, he studied business administration at the Pontifical Catholic University of Chile and economics at Harvard University. At the time of his death, he had an estimated net worth of US$2.7 billion, according to Forbes, making him the third richest person in Chile.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Retrato_Oficial_Presidente_Pi%C3%B1era_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Retrato_Oficial_Presidente_Pi%C3%B1era_2018.jpg/330px-Retrato_Oficial_Presidente_Pi%C3%B1era_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "retrato_oficial_presidente_piñera_2018.jpg",
+          "width": 2008,
+          "height": 2598,
+          "title": "Sebastián Piñera",
+          "description": "President of Chile (2010–2014; 2018–2022)",
+          "extract": "Miguel Juan Sebastián Piñera Echenique was a Chilean businessman and politician who served as 34th and 36th president of Chile from 2010 to 2014 and from 2018 to 2022. The son of a Christian Democratic politician and diplomat, he studied business administration at the Pontifical Catholic University of Chile and economics at Harvard University. At the time of his death, he had an estimated net worth of US$2.7 billion, according to Forbes, making him the third richest person in Chile.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Structural_damage_after_Pichilemu_earthquake%2C_as_seen_in_April_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Structural_damage_after_Pichilemu_earthquake%2C_as_seen_in_April_2011.jpg/330px-Structural_damage_after_Pichilemu_earthquake%2C_as_seen_in_April_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "structural_damage_after_pichilemu_earthquake,_as_seen_in_april_2011.jpg",
+          "width": 3648,
+          "height": 2736,
+          "title": "2010 Pichilemu earthquakes",
+          "description": "Intraplate earthquakes in Chile",
+          "extract": "The 2010 Pichilemu earthquakes, also known as the Libertador O'Higgins earthquakes, were a pair of intraplate earthquakes measuring 6.9 and 7.0 Mw that struck Chile's O'Higgins Region on 11 March 2010 about 16 minutes apart. The earthquakes were centred 15 kilometres (9.3 mi) northwest of the city of Pichilemu.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2010_Pichilemu_earthquakes",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Firma_Sebasti%C3%A1n_Pi%C3%B1era.png/330px-Firma_Sebasti%C3%A1n_Pi%C3%B1era.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Firma_Sebasti%C3%A1n_Pi%C3%B1era.png/330px-Firma_Sebasti%C3%A1n_Pi%C3%B1era.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "firma_sebastián_piñera.png",
+          "width": 800,
+          "height": 600,
+          "title": "Firma_Sebastián_Piñera",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Sebastián Piñera",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-11-1990-9a6d391c",
+      "year": 1990,
+      "text": "Patricio Aylwin is sworn in as the first democratically elected President of Chile since 1970.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Aylwin_Banda_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Aylwin_Banda_%282%29.jpg/330px-Aylwin_Banda_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "aylwin_banda_(2).jpg",
+        "width": 1014,
+        "height": 1351,
+        "title": "Patricio Aylwin",
+        "description": "President of Chile from 1990 to 1994",
+        "extract": "Patricio Aylwin Azócar was a Chilean politician, lawyer, author, professor and former senator who was the 30th president of Chile from 1990 to 1994. He was the first president to be elected after the end of Augusto Pinochet's military dictatorship following the 1988 Chilean presidential referendum, marking the Chilean transition to democracy in 1990. He was from the Christian Democratic Party.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Patricio_Aylwin",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Aylwin_Banda_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Aylwin_Banda_%282%29.jpg/330px-Aylwin_Banda_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aylwin_banda_(2).jpg",
+          "width": 1014,
+          "height": 1351,
+          "title": "Patricio Aylwin",
+          "description": "President of Chile from 1990 to 1994",
+          "extract": "Patricio Aylwin Azócar was a Chilean politician, lawyer, author, professor and former senator who was the 30th president of Chile from 1990 to 1994. He was the first president to be elected after the end of Augusto Pinochet's military dictatorship following the 1988 Chilean presidential referendum, marking the Chilean transition to democracy in 1990. He was from the Christian Democratic Party.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Patricio_Aylwin",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aylwin_Allende.jpg/1280px-Aylwin_Allende.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Aylwin_Allende.jpg/1280px-Aylwin_Allende.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "aylwin_allende.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "President Salvador Allende with then-senator Aylwin",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Patricio_Aylwin",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Patricio Aylwin",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Patricio_Aylwin",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-11-1984-e0b20291",
+      "year": 1984,
+      "text": "The anime film Nausicaä of the Valley of the Wind by Hayao Miyazaki was released.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%9F%E3%82%8B%E3%82%82%E3%81%AE%EF%BC%81%EF%BD%9E%E5%AB%8C%E3%82%8F%E3%82%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%A8%E5%86%85%E7%B7%92%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%EF%BD%9E%E3%80%8D%E7%AC%AC2%E5%BC%BEPV_-_4%E6%9C%887%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B.webm/1920px--TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%9F%E3%82%8B%E3%82%82%E3%81%AE%EF%BC%81%EF%BD%9E%E5%AB%8C%E3%82%8F%E3%82%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%A8%E5%86%85%E7%B7%92%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%EF%BD%9E%E3%80%8D%E7%AC%AC2%E5%BC%BEPV_-_4%E6%9C%887%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B.webm.jpg",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%9F%E3%82%8B%E3%82%82%E3%81%AE%EF%BC%81%EF%BD%9E%E5%AB%8C%E3%82%8F%E3%82%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%A8%E5%86%85%E7%B7%92%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%EF%BD%9E%E3%80%8D%E7%AC%AC2%E5%BC%BEPV_-_4%E6%9C%887%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B.webm/330px--TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%9F%E3%82%8B%E3%82%82%E3%81%AE%EF%BC%81%EF%BD%9E%E5%AB%8C%E3%82%8F%E3%82%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%A8%E5%86%85%E7%B7%92%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%EF%BD%9E%E3%80%8D%E7%AC%AC2%E5%BC%BEPV_-_4%E6%9C%887%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B.webm.jpg",
+        "canonicalKey": "-tvアニメ「ヒロインたるもの！～嫌われヒロインと内緒のお仕事～」第2弾pv_-_4月7日（木）放送開始.webm.jpg",
+        "width": 1920,
+        "height": 1080,
+        "title": "Anime",
+        "description": "Japanese animation",
+        "extract": "Anime  is animation originating from Japan. Outside Japan and in English, anime refers specifically to animation produced in Japan. However, anime, in Japan and in Japanese, describes all animated works, regardless of style or origin. Many works of animation with a similar style to Japanese animation are also produced outside Japan. Video games sometimes also feature themes and art styles that may be labelled as anime.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anime",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%9F%E3%82%8B%E3%82%82%E3%81%AE%EF%BC%81%EF%BD%9E%E5%AB%8C%E3%82%8F%E3%82%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%A8%E5%86%85%E7%B7%92%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%EF%BD%9E%E3%80%8D%E7%AC%AC2%E5%BC%BEPV_-_4%E6%9C%887%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B.webm/1920px--TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%9F%E3%82%8B%E3%82%82%E3%81%AE%EF%BC%81%EF%BD%9E%E5%AB%8C%E3%82%8F%E3%82%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%A8%E5%86%85%E7%B7%92%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%EF%BD%9E%E3%80%8D%E7%AC%AC2%E5%BC%BEPV_-_4%E6%9C%887%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B.webm.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%9F%E3%82%8B%E3%82%82%E3%81%AE%EF%BC%81%EF%BD%9E%E5%AB%8C%E3%82%8F%E3%82%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%A8%E5%86%85%E7%B7%92%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%EF%BD%9E%E3%80%8D%E7%AC%AC2%E5%BC%BEPV_-_4%E6%9C%887%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B.webm/330px--TV%E3%82%A2%E3%83%8B%E3%83%A1%E3%80%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%9F%E3%82%8B%E3%82%82%E3%81%AE%EF%BC%81%EF%BD%9E%E5%AB%8C%E3%82%8F%E3%82%8C%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3%E3%81%A8%E5%86%85%E7%B7%92%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%EF%BD%9E%E3%80%8D%E7%AC%AC2%E5%BC%BEPV_-_4%E6%9C%887%E6%97%A5%EF%BC%88%E6%9C%A8%EF%BC%89%E6%94%BE%E9%80%81%E9%96%8B%E5%A7%8B.webm.jpg",
+          "canonicalKey": "-tvアニメ「ヒロインたるもの！～嫌われヒロインと内緒のお仕事～」第2弾pv_-_4月7日（木）放送開始.webm.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Anime",
+          "description": "Japanese animation",
+          "extract": "Anime  is animation originating from Japan. Outside Japan and in English, anime refers specifically to animation produced in Japan. However, anime, in Japan and in Japanese, describes all animated works, regardless of style or origin. Many works of animation with a similar style to Japanese animation are also produced outside Japan. Video games sometimes also feature themes and art styles that may be labelled as anime.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anime",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/b/bc/Nausicaaposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/b/bc/Nausicaaposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "nausicaaposter.jpg",
+          "width": 265,
+          "height": 376,
+          "title": "Nausicaä of the Valley of the Wind (film)",
+          "description": "1984 film by Hayao Miyazaki",
+          "extract": "Nausicaä of the Valley of the Wind is a 1984 Japanese animated post-apocalyptic fantasy film written and directed by Hayao Miyazaki, based on his 1982 manga of the same name. It was produced by Topcraft and distributed by Toei Company. Joe Hisaishi, in his first collaboration with Miyazaki, composed the score. The film stars the voices of Sumi Shimamoto, Gorō Naya, Yōji Matsuda, Yoshiko Sakakibara, and Iemasa Kayumi. Set in a post-nuclear futuristic world, it tells the story of Nausicaä (Shimamoto), the pacifist teenage princess of the Valley of the Wind who becomes embroiled in a struggle with Tolmekia, an empire that attempts to use an ancient weapon to eradicate a jungle populated by oversized, mutant insects.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nausica%C3%A4_of_the_Valley_of_the_Wind_(film)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HayaoMiyazakiCCJuly09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/HayaoMiyazakiCCJuly09.jpg/330px-HayaoMiyazakiCCJuly09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hayaomiyazakiccjuly09.jpg",
+          "width": 342,
+          "height": 519,
+          "title": "Hayao Miyazaki",
+          "description": "Japanese animator and artist (born 1941)",
+          "extract": "Hayao Miyazaki  is a Japanese animator, filmmaker, and manga artist. He co-founded Studio Ghibli and serves as its honorary chairman. Throughout his career, Miyazaki has attained international acclaim as a masterful storyteller and creator of Japanese animated feature films, and is widely regarded as one of the greatest and most accomplished filmmakers in the history of animation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hayao_Miyazaki",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Anime",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Anime",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-11-1708-2374215a",
+      "year": 1708,
+      "text": "Queen Anne withheld royal assent from the Scottish Militia Bill, in the most recent veto by a British monarch of a bill that had been passed by Parliament.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg/330px-Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "dahl,_michael_-_queen_anne_-_npg_6187.jpg",
+        "width": 2400,
+        "height": 3966,
+        "title": "Anne, Queen of Great Britain",
+        "description": "Queen of Great Britain and Ireland from 1702 to 1714",
+        "extract": "Anne was Queen of England, Scotland, and Ireland from 8 March 1702, and Queen of Great Britain and Ireland following the ratification of the Acts of Union 1707 merging the kingdoms of England and Scotland, until her death in 1714.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne%2C_Queen_of_Great_Britain",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg/330px-Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dahl,_michael_-_queen_anne_-_npg_6187.jpg",
+          "width": 2400,
+          "height": 3966,
+          "title": "Anne, Queen of Great Britain",
+          "description": "Queen of Great Britain and Ireland from 1702 to 1714",
+          "extract": "Anne was Queen of England, Scotland, and Ireland from 8 March 1702, and Queen of Great Britain and Ireland following the ratification of the Acts of Union 1707 merging the kingdoms of England and Scotland, until her death in 1714.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anne%2C_Queen_of_Great_Britain",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/RoyalVisitSenate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RoyalVisitSenate.jpg/330px-RoyalVisitSenate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "royalvisitsenate.jpg",
+          "width": 600,
+          "height": 751,
+          "title": "Royal assent",
+          "description": "Formal approval of a proposed law in monarchies",
+          "extract": "Royal assent is the method by which a monarch formally approves an act of the legislature, either directly or through an official acting on the monarch's behalf. In some jurisdictions, royal assent is equivalent to promulgation, while in others that is a separate step. Under a modern constitutional monarchy, royal assent is considered little more than a formality. Even in nations such as the United Kingdom, Norway, the Netherlands, Liechtenstein and Monaco which still, in theory, permit their monarch to withhold assent to laws, the monarch almost never does so, except in a dire political emergency or on advice of government. While the power to veto by withholding royal assent was once exercised often by European monarchs, such an occurrence has been very rare since the eighteenth century.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Royal_assent",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/President_Ronald_Reagan_Signing_Veto_of_Defense_Authorization_Bill_with_George_Bush_Ken_Duberstein_Colin_Powell_in_The_Oval_Office_-_DPLA_-_9b8dbe0254eefd3899fe180c33c09b4d.jpg/3840px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/President_Ronald_Reagan_Signing_Veto_of_Defense_Authorization_Bill_with_George_Bush_Ken_Duberstein_Colin_Powell_in_The_Oval_Office_-_DPLA_-_9b8dbe0254eefd3899fe180c33c09b4d.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "thumbnail.jpg",
+          "width": 4000,
+          "height": 2631,
+          "title": "Veto",
+          "description": "Legal power to stop an official action",
+          "extract": "A veto is a legal power to unilaterally stop an official action. In the most typical case, a president or monarch vetoes a bill to stop it from becoming law. In many countries, veto powers are established in the country's constitution. Veto powers are also found at other levels of government, such as in state, provincial or local government, and in international bodies.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Veto",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Anne, Queen of Great Britain",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Anne%2C_Queen_of_Great_Britain",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "03-11-2023-55dc8b27",
+      "year": 2023,
+      "text": "The Burmese military kills at least 30 villagers, including 3 Buddhist monks, during the Pinlaung massacre in Shan State, Myanmar.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Phutthamonthon_Buddha.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Phutthamonthon_Buddha.JPG/330px-Phutthamonthon_Buddha.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "phutthamonthon_buddha.jpg",
+        "width": 1280,
+        "height": 960,
+        "title": "Bhikkhu",
+        "description": "Buddhist monk",
+        "extract": "A bhikkhu is an ordained male in Buddhist monasticism. Male and female monastics (bhikkhunī) are members of the Sangha.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bhikkhu",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Phutthamonthon_Buddha.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Phutthamonthon_Buddha.JPG/330px-Phutthamonthon_Buddha.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "phutthamonthon_buddha.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": "Bhikkhu",
+          "description": "Buddhist monk",
+          "extract": "A bhikkhu is an ordained male in Buddhist monasticism. Male and female monastics (bhikkhunī) are members of the Sangha.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bhikkhu",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Tatmadaw",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Tatmadaw",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-11-2021-b7f00acf",
+      "year": 2021,
+      "text": "US President Joe Biden signs the $1.9 trillion American Rescue Plan into law.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Joe_Biden_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/330px-Joe_Biden_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "joe_biden_presidential_portrait.jpg",
+        "width": 2400,
+        "height": 3000,
+        "title": "Joe Biden",
+        "description": "President of the United States from 2021 to 2025",
+        "extract": "Joseph Robinette Biden Jr. is an American retired politician who was the 46th president of the United States from 2021 to 2025. A member of the Democratic Party, he represented Delaware in the United States Senate from 1973 to 2009 and also served as the 47th vice president under President Barack Obama from 2009 to 2017.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joe_Biden",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Joe_Biden_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/330px-Joe_Biden_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "joe_biden_presidential_portrait.jpg",
+          "width": 2400,
+          "height": 3000,
+          "title": "Joe Biden",
+          "description": "President of the United States from 2021 to 2025",
+          "extract": "Joseph Robinette Biden Jr. is an American retired politician who was the 46th president of the United States from 2021 to 2025. A member of the Democratic Party, he represented Delaware in the United States Senate from 1973 to 2009 and also served as the 47th vice president under President Barack Obama from 2009 to 2017.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Joe_Biden",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "official_presidential_portrait_of_president_donald_j._trump_(2025).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/President_of_the_United_States",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "President of the United States",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/President_of_the_United_States",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-11-2007-0b62bc5e",
+      "year": 2007,
+      "text": "Georgian authorities accused Russia of orchestrating a helicopter attack in the Kodori Valley, in the breakaway territory of Abkhazia.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Abkhazia_Kodori_Valley.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Abkhazia_Kodori_Valley.PNG/330px-Abkhazia_Kodori_Valley.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "abkhazia_kodori_valley.png",
+        "width": 1485,
+        "height": 1114,
+        "title": "2007 Georgia helicopter incident",
+        "description": "Diplomatic incident involving Russia",
+        "extract": "On 11 March 2007, three military helicopters attacked the village of Chkhalta in Abkhazia, a breakaway republic in north-western Georgia. The village lies in the Kodori Gorge, at the time the only portion of Abkhazia still under Georgian control. Georgia accused Russia of being behind the attack, which damaged a school and the government headquarters of the Georgian-backed Abkhaz government-in-exile. Russia denied the accusations and said all its aircraft near the area were grounded over the weekend.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2007_Georgia_helicopter_incident",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Abkhazia_Kodori_Valley.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Abkhazia_Kodori_Valley.PNG/330px-Abkhazia_Kodori_Valley.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "abkhazia_kodori_valley.png",
+          "width": 1485,
+          "height": 1114,
+          "title": "2007 Georgia helicopter incident",
+          "description": "Diplomatic incident involving Russia",
+          "extract": "On 11 March 2007, three military helicopters attacked the village of Chkhalta in Abkhazia, a breakaway republic in north-western Georgia. The village lies in the Kodori Gorge, at the time the only portion of Abkhazia still under Georgian control. Georgia accused Russia of being behind the attack, which damaged a school and the government headquarters of the Georgian-backed Abkhaz government-in-exile. Russia denied the accusations and said all its aircraft near the area were grounded over the weekend.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2007_Georgia_helicopter_incident",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "2007 Georgia helicopter incident",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2007_Georgia_helicopter_incident",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-11-2006-34777287",
+      "year": 2006,
+      "text": "Michelle Bachelet is inaugurated as the first female president of Chile.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Portrait_Michelle_Bachelet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Portrait_Michelle_Bachelet.jpg/330px-Portrait_Michelle_Bachelet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "portrait_michelle_bachelet.jpg",
+        "width": 1628,
+        "height": 2065,
+        "title": "Michelle Bachelet",
+        "description": "President of Chile (2006–2010; 2014–2018)",
+        "extract": "Verónica Michelle Bachelet Jeria is a Chilean physician and politician who served as President of Chile from 2006 to 2010 and again from 2014 to 2018. A member of the Socialist Party, she was the first woman to be elected president of Chile and the first woman to serve as Chile's minister of health and minister of national defense.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michelle_Bachelet",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Portrait_Michelle_Bachelet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Portrait_Michelle_Bachelet.jpg/330px-Portrait_Michelle_Bachelet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "portrait_michelle_bachelet.jpg",
+          "width": 1628,
+          "height": 2065,
+          "title": "Michelle Bachelet",
+          "description": "President of Chile (2006–2010; 2014–2018)",
+          "extract": "Verónica Michelle Bachelet Jeria is a Chilean physician and politician who served as President of Chile from 2006 to 2010 and again from 2014 to 2018. A member of the Socialist Party, she was the first woman to be elected president of Chile and the first woman to serve as Chile's minister of health and minister of national defense.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Michelle_Bachelet",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Michelle Bachelet",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Michelle_Bachelet",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "03-11-1993-d61b97df",
+      "year": 1993,
+      "text": "The U.S. Senate unanimously confirmed Janet Reno as the first female United States attorney general.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Janet_Reno-us-Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Janet_Reno-us-Portrait.jpg/330px-Janet_Reno-us-Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "janet_reno-us-portrait.jpg",
+        "width": 442,
+        "height": 539,
+        "title": "Janet Reno",
+        "description": "American lawyer and public official (1938–2016)",
+        "extract": "Janet Wood Reno  was an American lawyer and public official who served as the 78th United States attorney general from 1993 to 2001 under President Bill Clinton. A member of the Democratic Party, Reno was the second-longest serving attorney general, behind only William Wirt, and the first woman to serve in the position.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Janet_Reno",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Janet_Reno-us-Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Janet_Reno-us-Portrait.jpg/330px-Janet_Reno-us-Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "janet_reno-us-portrait.jpg",
+          "width": 442,
+          "height": 539,
+          "title": "Janet Reno",
+          "description": "American lawyer and public official (1938–2016)",
+          "extract": "Janet Wood Reno  was an American lawyer and public official who served as the 78th United States attorney general from 1993 to 2001 under President Bill Clinton. A member of the Democratic Party, Reno was the second-longest serving attorney general, behind only William Wirt, and the first woman to serve in the position.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Janet_Reno",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/United_States_Senate_Floor.jpg/500px-United_States_Senate_Floor.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/United_States_Senate_Floor.jpg/500px-United_States_Senate_Floor.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "senatefloor.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Senatefloor",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/United_States_Senate",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Combined--Control_of_the_U.S._House_of_Representatives_-_Control_of_the_U.S._Senate.png/1280px-Combined--Control_of_the_U.S._House_of_Representatives_-_Control_of_the_U.S._Senate.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Combined--Control_of_the_U.S._House_of_Representatives_-_Control_of_the_U.S._Senate.png/1280px-Combined--Control_of_the_U.S._House_of_Representatives_-_Control_of_the_U.S._Senate.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "combined--control_of_the_u.s._house_of_representatives_-_control_of_the_u.s._senate.png",
+          "width": 800,
+          "height": 600,
+          "title": "A graph of party control of the U.S. Senate, U.S. House of Representatives, and the Presidency since 1855",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/United_States_Senate",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "United States Senate",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/United_States_Senate",
+      "relatedPagesCount": 3
+    }
+  ]
+}

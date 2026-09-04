@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 8,
+    "day": 8,
+    "formatted": "08-08"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "08-08-2007-1c52d750",
+      "year": 2007,
+      "text": "Space Shuttle program: STS-118 Mission: Endeavour takes off on a mission to the International Space Station.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/STS-118_approaching_ISS.jpg/330px-STS-118_approaching_ISS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-118_approaching_iss.jpg",
+        "width": 1492,
+        "height": 1005,
+        "title": "STS-118",
+        "description": "2007 American crewed spaceflight to the ISS",
+        "extract": "STS-118 was a Space Shuttle mission to the International Space Station (ISS) flown by the orbiter Endeavour. STS-118 lifted off on August 8, 2007, from launch pad 39A at Kennedy Space Center (KSC), Florida and landed at the Shuttle Landing Facility at KSC on August 21, 2007.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/STS-118",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-118_approaching_ISS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/STS-118_approaching_ISS.jpg/330px-STS-118_approaching_ISS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-118_approaching_iss.jpg",
+          "width": 1492,
+          "height": 1005,
+          "title": "STS-118",
+          "description": "2007 American crewed spaceflight to the ISS",
+          "extract": "STS-118 was a Space Shuttle mission to the International Space Station (ISS) flown by the orbiter Endeavour. STS-118 lifted off on August 8, 2007, from launch pad 39A at Kennedy Space Center (KSC), Florida and landed at the Shuttle Landing Facility at KSC on August 21, 2007.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-118",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+          "width": 3680,
+          "height": 2448,
+          "title": "Space Shuttle Endeavour",
+          "description": "Space Shuttle orbiter (1992–2011)",
+          "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/STS-118_patch_new.png/1280px-STS-118_patch_new.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/STS-118_patch_new.png/1280px-STS-118_patch_new.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "sts-118_patch_new.png",
+          "width": 800,
+          "height": 600,
+          "title": "STS-118_patch_new",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-118",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "STS-118",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/STS-118",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-08-1989-0bb57349",
+      "year": 1989,
+      "text": "Space Shuttle program: STS-28 Mission: Space Shuttle Columbia takes off on a secret five-day military mission.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/SILTS_Image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/SILTS_Image.jpg/330px-SILTS_Image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "silts_image.jpg",
+        "width": 500,
+        "height": 503,
+        "title": "STS-28",
+        "description": "1989 American crewed spaceflight for the Department of Defense",
+        "extract": "STS-28 was the 30th NASA Space Shuttle mission, the fourth shuttle mission dedicated to United States Department of Defense (DoD) purposes, and the eighth flight of Space Shuttle Columbia. The mission launched on August 8, 1989, and traveled 3,400,000 km (2,100,000 mi) during 81 orbits of the Earth, before landing on runway 17 of Edwards Air Force Base, California, on August 13, 1989. STS-28 was also Columbia's first flight since January 1986, when it had flown STS-61-C, the mission directly preceding the Challenger disaster of STS-51-L. The mission details of STS-28 are classified, but the payload is widely believed to have been the first SDS-2 relay communications satellite. The altitude of the mission was between 295 km (183 mi) and 307 km (191 mi).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/STS-28",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/SILTS_Image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/SILTS_Image.jpg/330px-SILTS_Image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "silts_image.jpg",
+          "width": 500,
+          "height": 503,
+          "title": "STS-28",
+          "description": "1989 American crewed spaceflight for the Department of Defense",
+          "extract": "STS-28 was the 30th NASA Space Shuttle mission, the fourth shuttle mission dedicated to United States Department of Defense (DoD) purposes, and the eighth flight of Space Shuttle Columbia. The mission launched on August 8, 1989, and traveled 3,400,000 km (2,100,000 mi) during 81 orbits of the Earth, before landing on runway 17 of Edwards Air Force Base, California, on August 13, 1989. STS-28 was also Columbia's first flight since January 1986, when it had flown STS-61-C, the mission directly preceding the Challenger disaster of STS-51-L. The mission details of STS-28 are classified, but the payload is widely believed to have been the first SDS-2 relay communications satellite. The altitude of the mission was between 295 km (183 mi) and 307 km (191 mi).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-28",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+          "width": 868,
+          "height": 521,
+          "title": "Space Shuttle Columbia",
+          "description": "Space Shuttle orbiter (1981–2003)",
+          "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Space_Shuttle_concepts.jpg/330px-Space_Shuttle_concepts.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Space_Shuttle_concepts.jpg/330px-Space_Shuttle_concepts.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_concepts.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Early U.S. space shuttle concepts",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-08-1969-893e0529",
+      "year": 1969,
+      "text": "At a zebra crossing (pictured) on Abbey Road in London, Iain Macmillan took the photograph that was used for the cover of the Beatles' album Abbey Road.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Abbey_Road_Zebra.jpg/3840px-Abbey_Road_Zebra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Abbey_Road_Zebra.jpg/330px-Abbey_Road_Zebra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "abbey_road_zebra.jpg",
+        "width": 3888,
+        "height": 2592,
+        "title": "Zebra crossing",
+        "description": "Type of pedestrian crossing",
+        "extract": "A zebra crossing or a marked crosswalk is a pedestrian crossing marked with white stripes. Normally, pedestrians are afforded precedence over vehicular traffic, although the significance of the markings may vary by jurisdiction.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Zebra_crossing",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Abbey_Road_Zebra.jpg/3840px-Abbey_Road_Zebra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Abbey_Road_Zebra.jpg/330px-Abbey_Road_Zebra.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "abbey_road_zebra.jpg",
+          "width": 3888,
+          "height": 2592,
+          "title": "Zebra crossing",
+          "description": "Type of pedestrian crossing",
+          "extract": "A zebra crossing or a marked crosswalk is a pedestrian crossing marked with white stripes. Normally, pedestrians are afforded precedence over vehicular traffic, although the significance of the markings may vary by jurisdiction.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Zebra_crossing",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Abbey_Road_zebra_crossing%2C_London_2007-03-31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Abbey_Road_zebra_crossing%2C_London_2007-03-31.jpg/330px-Abbey_Road_zebra_crossing%2C_London_2007-03-31.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "abbey_road_zebra_crossing,_london_2007-03-31.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": "Abbey Road, London",
+          "description": "Road in London",
+          "extract": "Abbey Road is a thoroughfare in the borough of Camden and the City of Westminster in Greater London running roughly northwest to southeast through St John's Wood near Lord's Cricket Ground. It is part of the road B507. The road is best known for the Abbey Road Studios and for featuring on the cover of the Beatles' album of the same name, which was released in September 1969.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Abbey_Road%2C_London",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/cc/Iain_Macmillan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/c/cc/Iain_Macmillan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "iain_macmillan.jpg",
+          "width": 318,
+          "height": 287,
+          "title": "Iain Macmillan",
+          "description": "20th-century Scottish photographer",
+          "extract": "Iain Stewart Macmillan was the Scottish photographer famous for taking the cover photograph for the Beatles' album Abbey Road in 1969. He grew up in Scotland, then moved to London to become a professional photographer. He used a photo of Yoko Ono in a book that he published in 1966, and Ono invited him to photograph her exhibit at Indica Gallery. She introduced him to John Lennon, and Lennon invited him to photograph the cover for Abbey Road. He worked with Lennon and Ono for several years, staying for a while at their home in New York.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iain_Macmillan",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Zebra crossing",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Zebra_crossing",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "08-08-1974-cc56bb4e",
+      "year": 1974,
+      "text": "President Richard Nixon, in a nationwide television address, announces his resignation from the office of the President of the United States effective noon the next day.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
+        "width": 2136,
+        "height": 2830,
+        "title": "Richard Nixon",
+        "description": "President of the United States from 1969 to 1974",
+        "extract": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
+          "width": 2136,
+          "height": 2830,
+          "title": "Richard Nixon",
+          "description": "President of the United States from 1969 to 1974",
+          "extract": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Nixon_Resignation_Speech_1974_with_Alvin_Snyder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nixon_Resignation_Speech_1974_with_Alvin_Snyder.jpg/330px-Nixon_Resignation_Speech_1974_with_Alvin_Snyder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nixon_resignation_speech_1974_with_alvin_snyder.jpg",
+          "width": 1409,
+          "height": 1085,
+          "title": "Richard Nixon's resignation speech",
+          "description": "1974 address by the President of the United States",
+          "extract": "U.S. president Richard Nixon delivered a national television address from the Oval Office on August 8, 1974, announcing his intention to resign the presidency the following day, August 9, 1974, due to the Watergate scandal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon's_resignation_speech",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Richard_Nixon_presidential_portrait_crop.jpg/1280px-Richard_Nixon_presidential_portrait_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Richard_Nixon_presidential_portrait_crop.jpg/1280px-Richard_Nixon_presidential_portrait_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "richard_nixon_presidential_portrait_crop.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Richard_Nixon_presidential_portrait_crop",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Richard Nixon",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-08-1946-d5e7b512",
+      "year": 1946,
+      "text": "First flight of the nuclear capable Convair B-36, heaviest mass-produced piston-engined aircraft at the time.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Convair_B-36_Peacemaker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Convair_B-36_Peacemaker.jpg/330px-Convair_B-36_Peacemaker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "convair_b-36_peacemaker.jpg",
+        "width": 640,
+        "height": 373,
+        "title": "Convair B-36 Peacemaker",
+        "description": "US Air Force strategic bomber (1949–1959)",
+        "extract": "The Convair B-36 \"Peacemaker\" was a piston-engined, strategic bomber built by Convair and operated by the United States Air Force's Strategic Air Command from 1948 to 1959. With 384 units built, the B-36 remains the largest mass-produced, piston-engined aircraft and has the longest wingspan of any combat aircraft. The B-36 was capable of intercontinental flight without refueling.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Convair_B-36_Peacemaker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Convair_B-36_Peacemaker.jpg/330px-Convair_B-36_Peacemaker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "convair_b-36_peacemaker.jpg",
+          "width": 640,
+          "height": 373,
+          "title": "Convair B-36 Peacemaker",
+          "description": "US Air Force strategic bomber (1949–1959)",
+          "extract": "The Convair B-36 \"Peacemaker\" was a piston-engined, strategic bomber built by Convair and operated by the United States Air Force's Strategic Air Command from 1948 to 1959. With 384 units built, the B-36 remains the largest mass-produced, piston-engined aircraft and has the longest wingspan of any combat aircraft. The B-36 was capable of intercontinental flight without refueling.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Convair_XB-36_in_flight_just_after_takeoff_or_just_before_landing_061128-F-1234S-025.jpg/1280px-Convair_XB-36_in_flight_just_after_takeoff_or_just_before_landing_061128-F-1234S-025.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Convair_XB-36_in_flight_just_after_takeoff_or_just_before_landing_061128-F-1234S-025.jpg/1280px-Convair_XB-36_in_flight_just_after_takeoff_or_just_before_landing_061128-F-1234S-025.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "convair_xb-36_in_flight_just_after_takeoff_or_just_before_landing_061128-f-1234s-025.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The prototype XB-36",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/B-36aarrivalcarswell1948.jpg/500px-B-36aarrivalcarswell1948.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/B-36aarrivalcarswell1948.jpg/500px-B-36aarrivalcarswell1948.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "b-36aarrivalcarswell1948.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The XB-36 (right) alongside a Boeing B-29 Superfortress",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Convair B-36 Peacemaker",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "08-08-2004-cd7a2e44",
+      "year": 2004,
+      "text": "A tour bus belonging to the Dave Matthews Band dumps approximately 800 pounds of human waste onto a boat full of passengers.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dave_Matthews_Band_-_Band_Shot_Melbourne_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dave_Matthews_Band_-_Band_Shot_Melbourne_2005.jpg/330px-Dave_Matthews_Band_-_Band_Shot_Melbourne_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "dave_matthews_band_-_band_shot_melbourne_2005.jpg",
+        "width": 1807,
+        "height": 1233,
+        "title": "Dave Matthews Band",
+        "description": "American rock band",
+        "extract": "Dave Matthews Band is an American rock band formed in Charlottesville, Virginia, in 1991. The band's founding members are singer-songwriter and guitarist Dave Matthews, bassist Stefan Lessard, drummer and backing vocalist Carter Beauford, violinist and backing vocalist Boyd Tinsley, and saxophonist LeRoi Moore. As of 2026, Matthews, Lessard, and Beauford are the only remaining founding members.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dave_Matthews_Band",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Dave_Matthews_Band_-_Band_Shot_Melbourne_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dave_Matthews_Band_-_Band_Shot_Melbourne_2005.jpg/330px-Dave_Matthews_Band_-_Band_Shot_Melbourne_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dave_matthews_band_-_band_shot_melbourne_2005.jpg",
+          "width": 1807,
+          "height": 1233,
+          "title": "Dave Matthews Band",
+          "description": "American rock band",
+          "extract": "Dave Matthews Band is an American rock band formed in Charlottesville, Virginia, in 1991. The band's founding members are singer-songwriter and guitarist Dave Matthews, bassist Stefan Lessard, drummer and backing vocalist Carter Beauford, violinist and backing vocalist Boyd Tinsley, and saxophonist LeRoi Moore. As of 2026, Matthews, Lessard, and Beauford are the only remaining founding members.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dave_Matthews_Band",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/4b/Dave_Matthews_Band_incident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Dave_Matthews_Band_incident.jpg/330px-Dave_Matthews_Band_incident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dave_matthews_band_incident.jpg",
+          "width": 425,
+          "height": 235,
+          "title": "Dave Matthews Band bus incident",
+          "description": "2004 environmental incident in the Chicago River",
+          "extract": "On August 8, 2004, a tour bus belonging to the American rock group Dave Matthews Band dumped an estimated 800 pounds (360 kg) of human waste from the bus' blackwater tank through the Kinzie Street Bridge in Chicago onto an open-top passenger sightseeing boat sailing in the Chicago River below. The incident has been referred to as \"Poopgate\" in retrospective assessments.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dave_Matthews_Band_bus_incident",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Miller_Cville.JPG/1280px-Miller_Cville.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Miller_Cville.JPG/1280px-Miller_Cville.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "miller_cville.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Miller's Bar on the Downtown Mall in Charlottesville",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dave_Matthews_Band",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Dave Matthews Band",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Dave_Matthews_Band",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-08-1503-ec40af6b",
+      "year": 1503,
+      "text": "King James IV of Scotland marries Margaret Tudor, daughter of King Henry VII of England, at Holyrood Abbey in Edinburgh, Scotland.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/James_IV_of_Scotland_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/James_IV_of_Scotland_%282%29.jpg/330px-James_IV_of_Scotland_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "james_iv_of_scotland_(2).jpg",
+        "width": 992,
+        "height": 1296,
+        "title": "James IV",
+        "description": "King of Scotland from 1488 to 1513",
+        "extract": "James IV was King of Scotland from 11 June 1488 until his death at the Battle of Flodden in 1513. He inherited the throne at the age of fifteen on the death of his father, James III, at the Battle of Sauchieburn, following a rebellion in which the younger James was the figurehead of the rebels. James IV is generally regarded as the most successful of the Stewart monarchs of Scotland. He was responsible for a major expansion of the Scottish royal navy, which included the founding of two royal dockyards and the acquisition or construction of 38 ships, including Great Michael, the largest warship of her time.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_IV",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/James_IV_of_Scotland_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/James_IV_of_Scotland_%282%29.jpg/330px-James_IV_of_Scotland_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "james_iv_of_scotland_(2).jpg",
+          "width": 992,
+          "height": 1296,
+          "title": "James IV",
+          "description": "King of Scotland from 1488 to 1513",
+          "extract": "James IV was King of Scotland from 11 June 1488 until his death at the Battle of Flodden in 1513. He inherited the throne at the age of fifteen on the death of his father, James III, at the Battle of Sauchieburn, following a rebellion in which the younger James was the figurehead of the rebels. James IV is generally regarded as the most successful of the Stewart monarchs of Scotland. He was responsible for a major expansion of the Scottish royal navy, which included the founding of two royal dockyards and the acquisition or construction of 38 ships, including Great Michael, the largest warship of her time.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/James_IV",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Daniel_Mytens_%28c._1590-1647%29_-_Margaret_Tudor%2C_Queen_of_Scotland_%281489-1541%29_-_RCIN_401181_-_Royal_Collection_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Daniel_Mytens_%28c._1590-1647%29_-_Margaret_Tudor%2C_Queen_of_Scotland_%281489-1541%29_-_RCIN_401181_-_Royal_Collection_%28cropped%29_2.jpg/330px-Daniel_Mytens_%28c._1590-1647%29_-_Margaret_Tudor%2C_Queen_of_Scotland_%281489-1541%29_-_RCIN_401181_-_Royal_Collection_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "daniel_mytens_(c._1590-1647)_-_margaret_tudor,_queen_of_scotland_(1489-1541)_-_rcin_401181_-_royal_collection_(cropped)_2.jpg",
+          "width": 737,
+          "height": 1320,
+          "title": "Margaret Tudor",
+          "description": "Queen of Scotland from 1503 to 1513",
+          "extract": "Margaret Tudor was Queen of Scotland from 1503 until 1513 as the wife of James IV. She then served as regent of Scotland during her son's minority, and fought to extend her regency. Margaret was the eldest daughter and second child of Henry VII of England and Elizabeth of York, and the elder sister of Henry VIII. Through her descendants, the House of Stuart eventually acceded to the thrones of England and Ireland, culminating in the \"Union of the Crowns\" under her great-grandson James VI and I in 1603 following the death of her niece Elizabeth I.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Tudor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Enrique_VII_de_Inglaterra%2C_por_un_artista_an%C3%B3nimo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Enrique_VII_de_Inglaterra%2C_por_un_artista_an%C3%B3nimo.jpg/330px-Enrique_VII_de_Inglaterra%2C_por_un_artista_an%C3%B3nimo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "enrique_vii_de_inglaterra,_por_un_artista_anónimo.jpg",
+          "width": 935,
+          "height": 1288,
+          "title": "Henry VII of England",
+          "description": "King of England from 1485 to 1509",
+          "extract": "Henry VII, also known as Henry Tudor, was King of England and Lord of Ireland from his seizure of the crown on 22 August 1485 until his death in 1509. He was the first monarch of the House of Tudor.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "James IV",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/James_IV",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "08-08-2019-aadd378f",
+      "year": 2019,
+      "text": "An explosion at the State Central Navy Testing Range in Nyonoksa, Russia, kills five people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Nenoksa-satphoto-2019-08-08-russia-explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nenoksa-satphoto-2019-08-08-russia-explosion.jpg/330px-Nenoksa-satphoto-2019-08-08-russia-explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "nenoksa-satphoto-2019-08-08-russia-explosion.jpg",
+        "width": 2554,
+        "height": 1436,
+        "title": "Nyonoksa radiation accident",
+        "description": "2019 radiation accident in Russia",
+        "extract": "The Nyonoksa radiation accident, Arkhangelsk explosion or Nyonoksa explosion occurred on 8 August 2019 near Nyonoksa, a village under the administrative jurisdiction of Severodvinsk, Arkhangelsk Oblast, Russian Federation. Five military and civilian specialists were killed and three were injured.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nyonoksa_radiation_accident",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Nenoksa-satphoto-2019-08-08-russia-explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nenoksa-satphoto-2019-08-08-russia-explosion.jpg/330px-Nenoksa-satphoto-2019-08-08-russia-explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nenoksa-satphoto-2019-08-08-russia-explosion.jpg",
+          "width": 2554,
+          "height": 1436,
+          "title": "Nyonoksa radiation accident",
+          "description": "2019 radiation accident in Russia",
+          "extract": "The Nyonoksa radiation accident, Arkhangelsk explosion or Nyonoksa explosion occurred on 8 August 2019 near Nyonoksa, a village under the administrative jurisdiction of Severodvinsk, Arkhangelsk Oblast, Russian Federation. Five military and civilian specialists were killed and three were injured.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nyonoksa_radiation_accident",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/NASA_FIRMS_2025-08-08_Nyonoksa.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/NASA_FIRMS_2025-08-08_Nyonoksa.png/330px-NASA_FIRMS_2025-08-08_Nyonoksa.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nasa_firms_2025-08-08_nyonoksa.png",
+          "width": 1112,
+          "height": 384,
+          "title": "State Central Navy Testing Range",
+          "description": "Rocket launching site",
+          "extract": "The State Central Navy Testing Range at Nyonoksa is the main rocket launching site of the Soviet Navy and later the Russian Navy. The site is located east of the settlement of Sopka 2 kilometres (1.2 mi) north of Nyonoksa.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/State_Central_Navy_Testing_Range",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D1%8B%D1%85_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B5%D0%B9_%D0%B2_%D0%9D%D1%91%D0%BD%D0%BE%D0%BA%D1%81%D0%B5.jpg/3840px-%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D1%8B%D1%85_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B5%D0%B9_%D0%B2_%D0%9D%D1%91%D0%BD%D0%BE%D0%BA%D1%81%D0%B5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D1%8B%D1%85_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B5%D0%B9_%D0%B2_%D0%9D%D1%91%D0%BD%D0%BE%D0%BA%D1%81%D0%B5.jpg/330px-%D0%92%D0%B8%D0%B4_%D0%BD%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D1%8B%D1%85_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B5%D0%B9_%D0%B2_%D0%9D%D1%91%D0%BD%D0%BE%D0%BA%D1%81%D0%B5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "вид_на_комплекс_деревянных_церквей_в_нёноксе.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": "Nyonoksa",
+          "description": "Selo in Arkhangelsk Oblast, Russia",
+          "extract": "Nyonoksa, also Nenoksa, is a rural locality under the administrative jurisdiction of Severodvinsk Town of Oblast Significance, Arkhangelsk Oblast, Russia. It is located at the coast of the Dvina Bay of the White Sea 19 miles (31 km) northwest of the city of Severodvinsk.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nyonoksa",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Nyonoksa radiation accident",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Nyonoksa_radiation_accident",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-08-2016-b8829cf8",
+      "year": 2016,
+      "text": "Terrorists attack a government hospital in Quetta, Pakistan with a suicide blast and shooting, killing between 70 and 94 people, and injuring around 130 others.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quetta_cantt.jpg/3840px-Quetta_cantt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quetta_cantt.jpg/330px-Quetta_cantt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "quetta_cantt.jpg",
+        "width": 5254,
+        "height": 2611,
+        "title": "Quetta",
+        "description": "Capital of Balochistan, Pakistan",
+        "extract": "Quetta is the capital and largest city of the Pakistani province of Balochistan. It is the ninth largest city in Pakistan with an estimated population of over 1.7 million in 2024. It is situated in the south-west of the country, lying in the Quetta Valley region surrounded by mountains on all sides. Quetta is at an average elevation of 1,680 metres above sea level, making it Pakistan's highest-altitude major city.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Quetta",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quetta_cantt.jpg/3840px-Quetta_cantt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quetta_cantt.jpg/330px-Quetta_cantt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "quetta_cantt.jpg",
+          "width": 5254,
+          "height": 2611,
+          "title": "Quetta",
+          "description": "Capital of Balochistan, Pakistan",
+          "extract": "Quetta is the capital and largest city of the Pakistani province of Balochistan. It is the ninth largest city in Pakistan with an estimated population of over 1.7 million in 2024. It is situated in the south-west of the country, lying in the Quetta Valley region surrounded by mountains on all sides. Quetta is at an average elevation of 1,680 metres above sea level, making it Pakistan's highest-altitude major city.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Quetta",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/August_2016_Quetta_attacks_1.jpg/500px-August_2016_Quetta_attacks_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/August_2016_Quetta_attacks_1.jpg/500px-August_2016_Quetta_attacks_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "august_2016_quetta_attacks_1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Rescue after the attack.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/August_2016_Quetta_attacks",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "August 2016 Quetta attacks",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/August_2016_Quetta_attacks",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-08-2013-9568d746",
+      "year": 2013,
+      "text": "A suicide bombing at a funeral in the Pakistani city of Quetta kills at least 31 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quetta_cantt.jpg/3840px-Quetta_cantt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quetta_cantt.jpg/330px-Quetta_cantt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "quetta_cantt.jpg",
+        "width": 5254,
+        "height": 2611,
+        "title": "Quetta",
+        "description": "Capital of Balochistan, Pakistan",
+        "extract": "Quetta is the capital and largest city of the Pakistani province of Balochistan. It is the ninth largest city in Pakistan with an estimated population of over 1.7 million in 2024. It is situated in the south-west of the country, lying in the Quetta Valley region surrounded by mountains on all sides. Quetta is at an average elevation of 1,680 metres above sea level, making it Pakistan's highest-altitude major city.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Quetta",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quetta_cantt.jpg/3840px-Quetta_cantt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quetta_cantt.jpg/330px-Quetta_cantt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "quetta_cantt.jpg",
+          "width": 5254,
+          "height": 2611,
+          "title": "Quetta",
+          "description": "Capital of Balochistan, Pakistan",
+          "extract": "Quetta is the capital and largest city of the Pakistani province of Balochistan. It is the ninth largest city in Pakistan with an estimated population of over 1.7 million in 2024. It is situated in the south-west of the country, lying in the Quetta Valley region surrounded by mountains on all sides. Quetta is at an average elevation of 1,680 metres above sea level, making it Pakistan's highest-altitude major city.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Quetta",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "August 2013 Quetta bombing",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/August_2013_Quetta_bombing",
+      "relatedPagesCount": 3
+    }
+  ]
+}

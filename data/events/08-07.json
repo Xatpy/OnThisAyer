@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 8,
+    "day": 7,
+    "formatted": "08-07"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "08-07-1997-7300f7c8",
+      "year": 1997,
+      "text": "Space Shuttle Program: The Space Shuttle Discovery launches on STS-85 from the Kennedy Space Center in Cape Canaveral, Florida.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/STS120LaunchHiRes-edit1.jpg/330px-STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts120launchhires-edit1.jpg",
+        "width": 1888,
+        "height": 2956,
+        "title": "Space Shuttle",
+        "description": "Partially reusable launch system and space plane",
+        "extract": "The Space Shuttle is a retired, partially reusable low Earth orbital spacecraft system operated from 1981 to 2011 by the U.S. National Aeronautics and Space Administration (NASA) as part of the Space Shuttle program. Its official program name was the Space Transportation System (STS), taken from the 1969 plan led by U.S. vice president Spiro Agnew for a system of reusable spacecraft where it was the only item funded for development.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/STS120LaunchHiRes-edit1.jpg/330px-STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts120launchhires-edit1.jpg",
+          "width": 1888,
+          "height": 2956,
+          "title": "Space Shuttle",
+          "description": "Partially reusable launch system and space plane",
+          "extract": "The Space Shuttle is a retired, partially reusable low Earth orbital spacecraft system operated from 1981 to 2011 by the U.S. National Aeronautics and Space Administration (NASA) as part of the Space Shuttle program. Its official program name was the Space Transportation System (STS), taken from the 1969 plan led by U.S. vice president Spiro Agnew for a system of reusable spacecraft where it was the only item funded for development.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+          "width": 3336,
+          "height": 2507,
+          "title": "Space Shuttle Discovery",
+          "description": "Space Shuttle orbiter (1984–2011)",
+          "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Crista-spas_launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Crista-spas_launch.jpg/330px-Crista-spas_launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "crista-spas_launch.jpg",
+          "width": 3072,
+          "height": 2042,
+          "title": "STS-85",
+          "description": "1997 American crewed spaceflight mission to support multiple space science packages",
+          "extract": "STS-85 was the 23rd flight of Space Shuttle Discovery that performed multiple space science packages. It was launched from Kennedy Space Center, Florida, on 7 August 1997. The main STS-85 payloads included the satellite known as Cryogenic Infrared Spectrometers and Telescopes for the Atmosphere-Shuttle Pallet Satellite-2 CRISTA-SPAS-02.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-85",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "08-07-1985-6c057f13",
+      "year": 1985,
+      "text": "Takao Doi, Mamoru Mohri and Chiaki Mukai are chosen to be Japan's first astronauts.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Doi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Doi.jpg/330px-Doi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "doi.jpg",
+        "width": 2400,
+        "height": 3000,
+        "title": "Takao Doi",
+        "description": "Japanese astronaut and engineer (born 1954)",
+        "extract": "Takao Doi  is a Japanese astronaut, engineer and veteran of two NASA Space Shuttle missions.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Takao_Doi",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Doi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Doi.jpg/330px-Doi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "doi.jpg",
+          "width": 2400,
+          "height": 3000,
+          "title": "Takao Doi",
+          "description": "Japanese astronaut and engineer (born 1954)",
+          "extract": "Takao Doi  is a Japanese astronaut, engineer and veteran of two NASA Space Shuttle missions.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Takao_Doi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mamoru_Mohri_portrait_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mamoru_Mohri_portrait_%284x5_cropped%29.jpg/330px-Mamoru_Mohri_portrait_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mamoru_mohri_portrait_(4x5_cropped).jpg",
+          "width": 1490,
+          "height": 1856,
+          "title": "Mamoru Mohri",
+          "description": "Japanese astronaut and engineer (born 1948)",
+          "extract": "Mamoru \"Mark\" Mohri, is a Japanese scientist, a former NASDA astronaut, and a veteran of two NASA Space Shuttle missions. He is the first Japanese astronaut who was part of an official Japanese space program. The first Japanese person in space, Toyohiro Akiyama, was a journalist who was trained in the Soviet Union.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mamoru_Mohri",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Chiaki_Mukai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Chiaki_Mukai.jpg/330px-Chiaki_Mukai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chiaki_mukai.jpg",
+          "width": 989,
+          "height": 1200,
+          "title": "Chiaki Mukai",
+          "description": "Japanese physician and JAXA astronaut (born 1952)",
+          "extract": "Chiaki Mukai  is a Japanese physician and JAXA astronaut. She was the first Japanese woman in space, the first Japanese citizen to have two spaceflights, and the first Asian woman in space. Both were Space Shuttle missions; her first was STS-65 aboard Space Shuttle Columbia in July 1994, which was a Spacelab mission. Her second spaceflight was STS-95 aboard Space Shuttle Discovery in 1998. In total she has spent 23 days in space.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chiaki_Mukai",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Takao Doi",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Takao_Doi",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "08-07-1976-06e61f29",
+      "year": 1976,
+      "text": "Viking program: Viking 2 enters orbit around Mars.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Viking_Orbiter_releasing_the_lander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Viking_Orbiter_releasing_the_lander.jpg/330px-Viking_Orbiter_releasing_the_lander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "viking_orbiter_releasing_the_lander.jpg",
+        "width": 1200,
+        "height": 1315,
+        "title": "Viking program",
+        "description": "Pair of NASA landers and orbiters sent to Mars in 1976",
+        "extract": "The Viking program consisted of a pair of identical American space probes, Viking 1 and Viking 2 both launched in 1975, and landed on Mars in 1976. The mission effort began in 1968 and was managed by the NASA Langley Research Center. Each spacecraft was composed of two main parts: an orbiter spacecraft which photographed the surface of Mars from orbit, and a lander which studied the planet from the surface. The orbiters also served as communication relays for the landers once they touched down.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Viking_program",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Viking_Orbiter_releasing_the_lander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Viking_Orbiter_releasing_the_lander.jpg/330px-Viking_Orbiter_releasing_the_lander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "viking_orbiter_releasing_the_lander.jpg",
+          "width": 1200,
+          "height": 1315,
+          "title": "Viking program",
+          "description": "Pair of NASA landers and orbiters sent to Mars in 1976",
+          "extract": "The Viking program consisted of a pair of identical American space probes, Viking 1 and Viking 2 both launched in 1975, and landed on Mars in 1976. The mission effort began in 1968 and was managed by the NASA Langley Research Center. Each spacecraft was composed of two main parts: an orbiter spacecraft which photographed the surface of Mars from orbit, and a lander which studied the planet from the surface. The orbiters also served as communication relays for the landers once they touched down.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Viking_program",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Viking_spacecraft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Viking_spacecraft.jpg/330px-Viking_spacecraft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "viking_spacecraft.jpg",
+          "width": 1528,
+          "height": 1200,
+          "title": "Viking 2",
+          "description": "Space orbiter and lander sent to Mars",
+          "extract": "The Viking 2 mission is part of the American Viking program to Mars, and consisted of an orbiter and a lander essentially identical to that of the Viking 1 mission. Viking 2 was operational on Mars for 1281 sols. The Viking 2 lander operated on the surface for 1,316 days, or 1281 sols, and was turned off on April 12, 1980, when its batteries eventually failed. The orbiter worked until July 25, 1978, returning almost 16,000 images in 706 orbits around Mars.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Viking_2",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mars_-_august_30_2021_-_flickr_-_kevin_m._gill.png",
+          "width": 1558,
+          "height": 1558,
+          "title": "Mars",
+          "description": "Fourth planet from the Sun",
+          "extract": "Mars is the fourth planet from the Sun. It is also known as the \"Red Planet\", for its orange-red appearance. Mars is a desert-like rocky planet with a tenuous atmosphere that is primarily carbon dioxide. At the average surface level the atmospheric pressure is a few thousandths of Earth's, atmospheric temperature ranges from −153 to 20 °C, and cosmic radiation is high. Mars retains some water, in the ground as well as thinly in the atmosphere, forming cirrus clouds, fog, frost, larger polar regions of permafrost and ice caps, but no bodies of liquid surface water. Its surface gravity is roughly a third of Earth's or double that of the Moon. Its mean diameter, 6,779 km (4,212 mi), is about half the Earth's, or twice the Moon's, and its surface area is the size of all the dry land of Earth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Viking program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Viking_program",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-07-1909-ffadb977",
+      "year": 1909,
+      "text": "Alice Huyler Ramsey and three friends become the first women to complete a transcontinental auto trip, taking 59 days to travel from New York, New York to San Francisco, California.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Alice_Ramsey_ggbain.03065_%28headshot%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Alice_Ramsey_ggbain.03065_%28headshot%29.jpg/330px-Alice_Ramsey_ggbain.03065_%28headshot%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "alice_ramsey_ggbain.03065_(headshot).jpg",
+        "width": 720,
+        "height": 720,
+        "title": "Alice Huyler Ramsey",
+        "description": "Vehicular pioneer (1886–1983)",
+        "extract": "Alice Huyler Ramsey was an American who was the first woman to drive an automobile across the United States from coast to coast, a feat she completed on August 7, 1909.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alice_Huyler_Ramsey",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Alice_Ramsey_ggbain.03065_%28headshot%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Alice_Ramsey_ggbain.03065_%28headshot%29.jpg/330px-Alice_Ramsey_ggbain.03065_%28headshot%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "alice_ramsey_ggbain.03065_(headshot).jpg",
+          "width": 720,
+          "height": 720,
+          "title": "Alice Huyler Ramsey",
+          "description": "Vehicular pioneer (1886–1983)",
+          "extract": "Alice Huyler Ramsey was an American who was the first woman to drive an automobile across the United States from coast to coast, a feat she completed on August 7, 1909.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Alice_Huyler_Ramsey",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/3840px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/330px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "zeppelin-ride-020100925-195_(5029394846).jpg",
+          "width": 4000,
+          "height": 3000,
+          "title": "San Francisco",
+          "description": "City and county in California, US",
+          "extract": "San Francisco, officially the City and County of San Francisco, is the fourth-most populous city in California and the 17th-most populous in the United States, with a population of 826,079 in 2025. Among U.S. cities with a population of 200,000 or more, San Francisco is ranked first by per capita income, third by population density, and sixth by aggregate income as of 2024. Some 4.6 million residents live in the city's metropolitan statistical area, which is the 13th-largest in the United States. Around 9.2 million live in the San Jose–San Francisco–Oakland combined statistical area, the fifth-largest in the United States.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/San_Francisco",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Alice Huyler Ramsey",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Alice_Huyler_Ramsey",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-07-2007-9293036e",
+      "year": 2007,
+      "text": "At AT&T Park, Barry Bonds hits his 756th career home run to surpass Hank Aaron's 33-year-old record.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oracle_Park_2021.jpg/3840px-Oracle_Park_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oracle_Park_2021.jpg/330px-Oracle_Park_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "oracle_park_2021.jpg",
+        "width": 3916,
+        "height": 2822,
+        "title": "Oracle Park",
+        "description": "Baseball park in San Francisco, United States",
+        "extract": "Oracle Park is a ballpark in the South Beach neighborhood of San Francisco, California, United States. Since 2000, it has been the home of the San Francisco Giants of Major League Baseball (MLB). The stadium stands along San Francisco Bay; the section of the bay beyond Oracle Park's right field wall is unofficially known as McCovey Cove, in honor of former Giants player Willie McCovey. Previously named Pacific Bell Park, SBC Park, and AT&T Park, the stadium's existing name was purchased by Oracle Corporation in 2019.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Oracle_Park",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oracle_Park_2021.jpg/3840px-Oracle_Park_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Oracle_Park_2021.jpg/330px-Oracle_Park_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "oracle_park_2021.jpg",
+          "width": 3916,
+          "height": 2822,
+          "title": "Oracle Park",
+          "description": "Baseball park in San Francisco, United States",
+          "extract": "Oracle Park is a ballpark in the South Beach neighborhood of San Francisco, California, United States. Since 2000, it has been the home of the San Francisco Giants of Major League Baseball (MLB). The stadium stands along San Francisco Bay; the section of the bay beyond Oracle Park's right field wall is unofficially known as McCovey Cove, in honor of former Giants player Willie McCovey. Previously named Pacific Bell Park, SBC Park, and AT&T Park, the stadium's existing name was purchased by Oracle Corporation in 2019.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Oracle_Park",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/TSM350_2015_-_Barry_Bonds_2_-_Stierch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TSM350_2015_-_Barry_Bonds_2_-_Stierch.jpg/330px-TSM350_2015_-_Barry_Bonds_2_-_Stierch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tsm350_2015_-_barry_bonds_2_-_stierch.jpg",
+          "width": 1854,
+          "height": 2317,
+          "title": "Barry Bonds",
+          "description": "American baseball player (born 1964)",
+          "extract": "Barry Lamar Bonds is an American former professional baseball left fielder who played 22 seasons in Major League Baseball (MLB). Bonds was a member of the Pittsburgh Pirates from 1986 to 1992 and the San Francisco Giants from 1993 to 2007. He is considered one of the greatest baseball players of all time.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Barry_Bonds",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/20060825_Barry_Bonds_follow_through.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20060825_Barry_Bonds_follow_through.jpg/330px-20060825_Barry_Bonds_follow_through.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "20060825_barry_bonds_follow_through.jpg",
+          "width": 1930,
+          "height": 1562,
+          "title": "Home run",
+          "description": "Four-base hit resulting in a run by the batter in baseball",
+          "extract": "In baseball, a home run is scored when the ball is hit in such a way that the batter is able to circle the bases and reach home plate safely in one play without any errors being committed by the defensive team. A home run is usually achieved by hitting the ball over the outfield fence between the foul poles without the ball touching the field.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Home_run",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Oracle Park",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Oracle_Park",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "08-07-1959-3e18a5d5",
+      "year": 1959,
+      "text": "Explorer program: Explorer 6 launches from the Atlantic Missile Range in Cape Canaveral, Florida.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 80,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pointing_X-ray_Eyes_at_our_Resident_Supermassive_Black_Hole.jpg/3840px-Pointing_X-ray_Eyes_at_our_Resident_Supermassive_Black_Hole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pointing_X-ray_Eyes_at_our_Resident_Supermassive_Black_Hole.jpg/330px-Pointing_X-ray_Eyes_at_our_Resident_Supermassive_Black_Hole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "pointing_x-ray_eyes_at_our_resident_supermassive_black_hole.jpg",
+        "width": 4000,
+        "height": 3000,
+        "title": "Explorers Program",
+        "description": "Ongoing NASA space exploration program",
+        "extract": "The Explorers Program is a NASA exploration program that provides flight opportunities for physics, geophysics, heliophysics, and astrophysics investigations from space. Launched in 1958, Explorer 1 was the first spacecraft of the United States to achieve orbit. Over 90 space missions have been launched since. Starting with Explorer 6, it has been operated by NASA, with regular collaboration with a variety of other institutions, including many international partners.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Explorers_Program",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pointing_X-ray_Eyes_at_our_Resident_Supermassive_Black_Hole.jpg/3840px-Pointing_X-ray_Eyes_at_our_Resident_Supermassive_Black_Hole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Pointing_X-ray_Eyes_at_our_Resident_Supermassive_Black_Hole.jpg/330px-Pointing_X-ray_Eyes_at_our_Resident_Supermassive_Black_Hole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pointing_x-ray_eyes_at_our_resident_supermassive_black_hole.jpg",
+          "width": 4000,
+          "height": 3000,
+          "title": "Explorers Program",
+          "description": "Ongoing NASA space exploration program",
+          "extract": "The Explorers Program is a NASA exploration program that provides flight opportunities for physics, geophysics, heliophysics, and astrophysics investigations from space. Launched in 1958, Explorer 1 was the first spacecraft of the United States to achieve orbit. Over 90 space missions have been launched since. Starting with Explorer 6, it has been operated by NASA, with regular collaboration with a variety of other institutions, including many international partners.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Explorers_Program",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Explorer_6_paddles_up.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Explorer_6_paddles_up.jpg/330px-Explorer_6_paddles_up.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "explorer_6_paddles_up.jpg",
+          "width": 1218,
+          "height": 777,
+          "title": "Explorer 6",
+          "description": "NASA satellite of the Explorer program",
+          "extract": "Explorer 6, or S-2, was a NASA satellite, launched on 7 August 1959, at 14:24:20 GMT. It was a small, spherical satellite designed to study trapped radiation of various energies, galactic cosmic rays, geomagnetism, radio propagation in the upper atmosphere, and the flux of micrometeorites. It also tested a scanning device designed for photographing the Earth's cloud cover. On 14 August 1959, Explorer 6 took the first photos of Earth from a satellite.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Explorer_6",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cape_Canaveral_City_Hall_FL.jpg/3840px-Cape_Canaveral_City_Hall_FL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cape_Canaveral_City_Hall_FL.jpg/330px-Cape_Canaveral_City_Hall_FL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cape_canaveral_city_hall_fl.jpg",
+          "width": 5712,
+          "height": 4284,
+          "title": "Cape Canaveral, Florida",
+          "description": "Small city in Florida, US",
+          "extract": "Cape Canaveral is a city in Brevard County, Florida. It is part of the Palm Bay–Melbourne–Titusville Metropolitan Statistical Area. The population was 9,912 at the 2020 US census.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cape_Canaveral%2C_Florida",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Explorers Program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Explorers_Program",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "08-07-1947-eabf1e8a",
+      "year": 1947,
+      "text": "Thor Heyerdahl's balsa wood raft, the Kon-Tiki, smashes into the reef at Raroia in the Tuamotu Islands after a 101-day, 7,000 kilometres (4,300 mi) journey across the Pacific Ocean in an attempt to prove that pre-historic peoples could have traveled from South America.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/ThorHeyerdahl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ThorHeyerdahl.jpg/330px-ThorHeyerdahl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "thorheyerdahl.jpg",
+        "width": 346,
+        "height": 501,
+        "title": "Thor Heyerdahl",
+        "description": "Norwegian anthropologist and adventurer (1914–2002)",
+        "extract": "Thor Heyerdahl KStJ was a Norwegian adventurer and ethnographer with a background in biology with specialization in zoology, botany and geography.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Thor_Heyerdahl",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/ThorHeyerdahl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ThorHeyerdahl.jpg/330px-ThorHeyerdahl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "thorheyerdahl.jpg",
+          "width": 346,
+          "height": 501,
+          "title": "Thor Heyerdahl",
+          "description": "Norwegian anthropologist and adventurer (1914–2002)",
+          "extract": "Thor Heyerdahl KStJ was a Norwegian adventurer and ethnographer with a background in biology with specialization in zoology, botany and geography.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Thor_Heyerdahl",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Balso_%28Ochroma_pyramidale%29_%2814723405443%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Balso_%28Ochroma_pyramidale%29_%2814723405443%29.jpg/330px-Balso_%28Ochroma_pyramidale%29_%2814723405443%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "balso_(ochroma_pyramidale)_(14723405443).jpg",
+          "width": 3043,
+          "height": 2357,
+          "title": "Ochroma",
+          "description": "Genus of trees",
+          "extract": "Ochroma pyramidale, commonly known as balsa, is a large, fast-growing tree native to the Americas. It is the sole member of the genus Ochroma, and is classified in the subfamily Bombacoideae of the mallow family Malvaceae. The tree is famous for its wide usage in woodworking, due to its softness and its high strength compared to its low density. The name balsa is the Spanish word for \"raft\" and the Portuguese word for ferry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ochroma",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kon-Tiki%2C_Kon-Tiki_Museum%2C_2019_%2802%29.jpg/3840px-Kon-Tiki%2C_Kon-Tiki_Museum%2C_2019_%2802%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kon-Tiki%2C_Kon-Tiki_Museum%2C_2019_%2802%29.jpg/330px-Kon-Tiki%2C_Kon-Tiki_Museum%2C_2019_%2802%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kon-tiki,_kon-tiki_museum,_2019_(02).jpg",
+          "width": 4016,
+          "height": 5010,
+          "title": "Kon-Tiki expedition",
+          "description": "1947 raft journey from South America to Polynesia",
+          "extract": "The Kon-Tiki expedition was a 1947 journey by raft across the Pacific Ocean from South America to the Polynesian islands, led by Norwegian explorer and ethnographer Thor Heyerdahl. The raft was named Kon-Tiki after the Inca god Viracocha, for whom \"Kon-Tiki\" was said to be an old name. Heyerdahl's book on the expedition was entitled The Kon-Tiki Expedition: By Raft Across the South Seas. A 1950 documentary film won the Academy Award for Best Documentary Feature. A 2012 dramatized feature film was nominated for the Academy Award for Best Foreign Language Film.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kon-Tiki_expedition",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Thor Heyerdahl",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Thor_Heyerdahl",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "08-07-2026-6248ef76",
+      "year": 2026,
+      "text": "Debsirin Nonthaburi school shooting",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/2026_Nonthaburi_shootings_CCTV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2026_Nonthaburi_shootings_CCTV.jpg/330px-2026_Nonthaburi_shootings_CCTV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2026_nonthaburi_shootings_cctv.jpg",
+        "width": 2044,
+        "height": 1170,
+        "title": "2026 Nonthaburi shootings",
+        "description": "School shooting in Thailand",
+        "extract": "On 7 August 2026, a school shooting occurred at Debsirin Nonthaburi School in Bang Kruai, Nonthaburi, Thailand. Patchata Yimruang, a 14-year-old student, killed six people and injured at least twenty-three others before killing himself. Patchata had also shot and killed his two grandparents in Bang Bua Thong prior to the shooting.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2026_Nonthaburi_shootings",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/2026_Nonthaburi_shootings_CCTV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2026_Nonthaburi_shootings_CCTV.jpg/330px-2026_Nonthaburi_shootings_CCTV.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2026_nonthaburi_shootings_cctv.jpg",
+          "width": 2044,
+          "height": 1170,
+          "title": "2026 Nonthaburi shootings",
+          "description": "School shooting in Thailand",
+          "extract": "On 7 August 2026, a school shooting occurred at Debsirin Nonthaburi School in Bang Kruai, Nonthaburi, Thailand. Patchata Yimruang, a 14-year-old student, killed six people and injured at least twenty-three others before killing himself. Patchata had also shot and killed his two grandparents in Bang Bua Thong prior to the shooting.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2026_Nonthaburi_shootings",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "2026 Nonthaburi shootings",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2026_Nonthaburi_shootings",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "08-07-2008-2615e78a",
+      "year": 2008,
+      "text": "The start of the Russo-Georgian War over the territory of South Ossetia.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ruins_of_a_burnt_apartment_building_in_Gori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ruins_of_a_burnt_apartment_building_in_Gori.jpg/330px-Ruins_of_a_burnt_apartment_building_in_Gori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ruins_of_a_burnt_apartment_building_in_gori.jpg",
+        "width": 2464,
+        "height": 1632,
+        "title": "Russo-Georgian War",
+        "description": "2008 war between Russia and Georgia",
+        "extract": "The August 2008 Russo-Georgian War, also known as the Russian invasion of Georgia, was a war waged against Georgia by the Russian Federation and the Russian-backed separatist regions of South Ossetia and Abkhazia. The fighting took place in the strategically important South Caucasus region. It is regarded as the first European war of the 21st century.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Georgian_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ruins_of_a_burnt_apartment_building_in_Gori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ruins_of_a_burnt_apartment_building_in_Gori.jpg/330px-Ruins_of_a_burnt_apartment_building_in_Gori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ruins_of_a_burnt_apartment_building_in_gori.jpg",
+          "width": 2464,
+          "height": 1632,
+          "title": "Russo-Georgian War",
+          "description": "2008 war between Russia and Georgia",
+          "extract": "The August 2008 Russo-Georgian War, also known as the Russian invasion of Georgia, was a war waged against Georgia by the Russian Federation and the Russian-backed separatist regions of South Ossetia and Abkhazia. The fighting took place in the strategically important South Caucasus region. It is regarded as the first European war of the 21st century.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Georgian_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Anatoly_Lebed_12.jpg/500px-Anatoly_Lebed_12.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Anatoly_Lebed_12.jpg/500px-Anatoly_Lebed_12.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "anatoly_lebed_12.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Anatoly_Lebed_12",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Georgian_War",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Humanitarian_supplies_for_Georgia.jpg/1280px-Humanitarian_supplies_for_Georgia.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Humanitarian_supplies_for_Georgia.jpg/1280px-Humanitarian_supplies_for_Georgia.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "humanitarian_supplies_for_georgia.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Humanitarian_supplies_for_Georgia",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Georgian_War",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Russo-Georgian War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Russo-Georgian_War",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-07-1998-ffa7fa2f",
+      "year": 1998,
+      "text": "Car bombs exploded simultaneously at the American embassies in the East African capital cities of Dar es Salaam, Tanzania, and Nairobi, Kenya, killing more than 200 people and injuring more than 4,000 others.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg/330px-1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "1998_united_states_embassy_in_nairobi_bombings_idf_relief_vii.jpg",
+        "width": 3072,
+        "height": 2048,
+        "title": "1998 United States embassy bombings",
+        "description": "Attacks on US embassies in Africa",
+        "extract": "The 1998 United States embassy bombings were a series of terrorist attacks that occurred on August 7, 1998. More than 220 people were killed in two nearly simultaneous truck bomb explosions in two East African capital cities, one at the United States embassy in Dar es Salaam, Tanzania, and the other at the United States embassy in Nairobi, Kenya.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1998_United_States_embassy_bombings",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg/330px-1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1998_united_states_embassy_in_nairobi_bombings_idf_relief_vii.jpg",
+          "width": 3072,
+          "height": 2048,
+          "title": "1998 United States embassy bombings",
+          "description": "Attacks on US embassies in Africa",
+          "extract": "The 1998 United States embassy bombings were a series of terrorist attacks that occurred on August 7, 1998. More than 220 people were killed in two nearly simultaneous truck bomb explosions in two East African capital cities, one at the United States embassy in Dar es Salaam, Tanzania, and the other at the United States embassy in Nairobi, Kenya.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1998_United_States_embassy_bombings",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/St_Joseph%27s_Catholic_Cathedral_%2834895613805%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St_Joseph%27s_Catholic_Cathedral_%2834895613805%29.jpg/330px-St_Joseph%27s_Catholic_Cathedral_%2834895613805%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "st_joseph's_catholic_cathedral_(34895613805).jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Dar es Salaam",
+          "description": "Largest city in Tanzania and capital of Dar es Salaam Region",
+          "extract": "Dar es Salaam is the largest city and financial hub of Tanzania and capital of the Dar es Salaam Region. It is located on the Swahili coast. With a population of over 7 million people, Dar es Salaam is the largest city in East Africa by population and the fifth-largest in Africa. Dar es Salaam remains an important economic centre and one of the fastest-growing cities in the world. Experts predict that the city's population will grow to over 10 million before 2030.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dar_es_Salaam",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nairobi_skyline_from_Gem_Hotel.jpg/3840px-Nairobi_skyline_from_Gem_Hotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nairobi_skyline_from_Gem_Hotel.jpg/330px-Nairobi_skyline_from_Gem_Hotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nairobi_skyline_from_gem_hotel.jpg",
+          "width": 7360,
+          "height": 4912,
+          "title": "Nairobi",
+          "description": "Capital and largest city of Kenya",
+          "extract": "Nairobi, is the capital and largest city of Kenya, located in the south-central part of the country. As of 2026, it has a population of 5.6 million and a metropolitan population of 15.95 million, making it the 8th most populous city in Africa and the 4th most populous metropolitan area. The city goes beyond its borders and has expanded into neighbouring counties, making it the 4th largest metropolitan area in Africa.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nairobi",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "1998 United States embassy bombings",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1998_United_States_embassy_bombings",
+      "relatedPagesCount": 4
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 11,
+    "day": 30,
+    "formatted": "11-30"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "11-30-2000-d4383ec8",
+      "year": 2000,
+      "text": "NASA launches STS-97, the 101st Space Shuttle mission.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/STS-97_Second_Spacewalk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/STS-97_Second_Spacewalk.jpg/330px-STS-97_Second_Spacewalk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-97_second_spacewalk.jpg",
+        "width": 2998,
+        "height": 1984,
+        "title": "STS-97",
+        "description": "2000 American crewed spaceflight to the ISS",
+        "extract": "STS-97 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Endeavour. The mission launched from Kennedy Space Center, Florida on 1 December 2000, and was the 15th flight of Endeavour and the 101st Space Shuttle mission. The crew installed the first set of solar arrays to the ISS, prepared a docking port for arrival of the Destiny Laboratory Module, and delivered supplies for the station's crew. It was the last human spaceflight of the 20th century.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/STS-97",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/STS-97_Second_Spacewalk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/STS-97_Second_Spacewalk.jpg/330px-STS-97_Second_Spacewalk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-97_second_spacewalk.jpg",
+          "width": 2998,
+          "height": 1984,
+          "title": "STS-97",
+          "description": "2000 American crewed spaceflight to the ISS",
+          "extract": "STS-97 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Endeavour. The mission launched from Kennedy Space Center, Florida on 1 December 2000, and was the 15th flight of Endeavour and the 101st Space Shuttle mission. The crew installed the first set of solar arrays to the ISS, prepared a docking port for arrival of the Destiny Laboratory Module, and delivered supplies for the station's crew. It was the last human spaceflight of the 20th century.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-97",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/STS-97_crew.jpg/1280px-STS-97_crew.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/STS-97_crew.jpg/1280px-STS-97_crew.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "sts-97_crew.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "STS-97_crew",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-97",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "STS-97",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/STS-97",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-30-1979-f29f84a2",
+      "year": 1979,
+      "text": "The Wall, a rock opera and concept album by the English band Pink Floyd, was first released.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/13/PinkFloydWallCoverOriginalNoText.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/PinkFloydWallCoverOriginalNoText.jpg/330px-PinkFloydWallCoverOriginalNoText.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "pinkfloydwallcoveroriginalnotext.jpg",
+        "width": 1414,
+        "height": 1414,
+        "title": "The Wall",
+        "description": "1979 studio album by Pink Floyd",
+        "extract": "The Wall is the eleventh studio album by the English rock band Pink Floyd, released on 30 November 1979 by Harvest/EMI and Columbia/CBS Records. It is the last album to include all four post-Barrett–era band members. A double album rock opera, it follows the story of \"Pink\", a jaded rock star, as he builds a psychological \"wall\" of isolation around himself. The Wall topped the US charts for 15 weeks and reached number three in the UK. It initially received mixed reviews from critics, many of whom found it overblown and pretentious, but later received accolades as one of the greatest albums of all time.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Wall",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/13/PinkFloydWallCoverOriginalNoText.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/PinkFloydWallCoverOriginalNoText.jpg/330px-PinkFloydWallCoverOriginalNoText.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pinkfloydwallcoveroriginalnotext.jpg",
+          "width": 1414,
+          "height": 1414,
+          "title": "The Wall",
+          "description": "1979 studio album by Pink Floyd",
+          "extract": "The Wall is the eleventh studio album by the English rock band Pink Floyd, released on 30 November 1979 by Harvest/EMI and Columbia/CBS Records. It is the last album to include all four post-Barrett–era band members. A double album rock opera, it follows the story of \"Pink\", a jaded rock star, as he builds a psychological \"wall\" of isolation around himself. The Wall topped the US charts for 15 weeks and reached number three in the UK. It initially received mixed reviews from critics, many of whom found it overblown and pretentious, but later received accolades as one of the greatest albums of all time.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Wall",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/The_Who%27s_Tommy_%285171688334%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_Who%27s_Tommy_%285171688334%29_%28cropped%29.jpg/330px-The_Who%27s_Tommy_%285171688334%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_who's_tommy_(5171688334)_(cropped).jpg",
+          "width": 2044,
+          "height": 2312,
+          "title": "Rock opera",
+          "description": "Rock music with a story told over multiple parts",
+          "extract": "A rock opera is a collection of rock music songs, especially a concept album, with lyrics that relate to a common story. The use of various character roles within the song lyrics is a common storytelling device. The success of rock opera has inspired similar works in other musical styles, such as rap opera.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rock_opera",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bundesarchiv_Bild_183-1990-0722-401%2C_Berlin%2C_Auff%C3%BChrung_der_Rockoper_%22The_Wall%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bundesarchiv_Bild_183-1990-0722-401%2C_Berlin%2C_Auff%C3%BChrung_der_Rockoper_%22The_Wall%22.jpg/330px-Bundesarchiv_Bild_183-1990-0722-401%2C_Berlin%2C_Auff%C3%BChrung_der_Rockoper_%22The_Wall%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_183-1990-0722-401,_berlin,_aufführung_der_rockoper_\"the_wall\".jpg",
+          "width": 519,
+          "height": 726,
+          "title": "Concept album",
+          "description": "Album that tells a self-contained story",
+          "extract": "A concept album is a musical album whose tracks hold a larger purpose or meaning collectively than they do individually. This is typically achieved through a single central narrative or theme, which can be instrumental, compositional, or lyrical. Alternatively, the term may signify an album that lacks any explicit musical or lyrical motif, but is considered to be of \"uniform excellence\". Music critics remain divided on the precise definition of a concept album.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Concept_album",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "The Wall",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Wall",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-30-1962-124dbe3a",
+      "year": 1962,
+      "text": "Eastern Air Lines Flight 512 crashes at Idlewild Airport, killing 25 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/AP_Photofax_%E2%80%93_SCENE_OF_AIRLINER_CRASH.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/AP_Photofax_%E2%80%93_SCENE_OF_AIRLINER_CRASH.png/330px-AP_Photofax_%E2%80%93_SCENE_OF_AIRLINER_CRASH.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ap_photofax_–_scene_of_airliner_crash.png",
+        "width": 1356,
+        "height": 940,
+        "title": "Eastern Air Lines Flight 512",
+        "description": "1962 aviation accident",
+        "extract": "Eastern Air Lines Flight 512 was a scheduled American domestic passenger flight operated by Eastern Air Lines from Charlotte Municipal Airport in Charlotte, North Carolina, to Idlewild Airport in New York City. On November 30, 1962, while attempting to abort an attempted landing at its destination, the Douglas DC-7B operating the flight crashed after it failed to gain altitude and struck the ground. 25 of the 51 occupants of the plane died in the accident. Emergency crews responded, but rescuers were delayed by the thick fog and the soft terrain. An investigation launched after the crash found that the probable cause of the accident was that the pilots had made critical mistakes during the go-around that prevented the aircraft from gaining altitude.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_512",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/AP_Photofax_%E2%80%93_SCENE_OF_AIRLINER_CRASH.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/AP_Photofax_%E2%80%93_SCENE_OF_AIRLINER_CRASH.png/330px-AP_Photofax_%E2%80%93_SCENE_OF_AIRLINER_CRASH.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ap_photofax_–_scene_of_airliner_crash.png",
+          "width": 1356,
+          "height": 940,
+          "title": "Eastern Air Lines Flight 512",
+          "description": "1962 aviation accident",
+          "extract": "Eastern Air Lines Flight 512 was a scheduled American domestic passenger flight operated by Eastern Air Lines from Charlotte Municipal Airport in Charlotte, North Carolina, to Idlewild Airport in New York City. On November 30, 1962, while attempting to abort an attempted landing at its destination, the Douglas DC-7B operating the flight crashed after it failed to gain altitude and struck the ground. 25 of the 51 occupants of the plane died in the accident. Emergency crews responded, but rescuers were delayed by the thick fog and the soft terrain. An investigation launched after the crash found that the probable cause of the accident was that the pilots had made critical mistakes during the go-around that prevented the aircraft from gaining altitude.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_512",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/3840px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/330px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jfk_aerial_nov_14_2018.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": "John F. Kennedy International Airport",
+          "description": "International airport serving New York City",
+          "extract": "John F. Kennedy International Airport is the primary international airport serving the New York metropolitan area. It is located on the southwestern shore of Long Island, in Queens, New York City, bordering Jamaica Bay. It is the busiest of the three airports in the New York airport system, the sixth-busiest airport in the United States. The airport, which covers 5,200 acres (2,104 ha), is the largest in the New York metropolitan area. Nearly 100 airlines operate from JFK Airport, with nonstop or direct flights to destinations on all six permanently inhabited continents.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Douglas_DC-7B%2C_Eastern_Air_Lines_JP7385912.jpg/500px-Douglas_DC-7B%2C_Eastern_Air_Lines_JP7385912.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Douglas_DC-7B%2C_Eastern_Air_Lines_JP7385912.jpg/500px-Douglas_DC-7B%2C_Eastern_Air_Lines_JP7385912.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "douglas_dc-7b,_eastern_air_lines_jp7385912.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Douglas_DC-7B,_Eastern_Air_Lines_JP7385912",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_512",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Eastern Air Lines Flight 512",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_512",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-30-2004-55255af8",
+      "year": 2004,
+      "text": "A McDonnell Douglas MD-82, operating as Lion Air Flight 538, overran the runway at Adisoemarmo Airport and crashed, killing 25 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/MD83_Aircraft_of_TezJet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MD83_Aircraft_of_TezJet.jpg/330px-MD83_Aircraft_of_TezJet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "md83_aircraft_of_tezjet.jpg",
+        "width": 1600,
+        "height": 1067,
+        "title": "McDonnell Douglas MD-80",
+        "description": "Jet airliner model, series based on the DC-9",
+        "extract": "The McDonnell Douglas MD-80 is a series of five-abreast single-aisle airliners developed by McDonnell Douglas. It was produced by the developer company until August 1997 and then by Boeing Commercial Airplanes. The MD-80 was the second generation of the DC-9 family, originally designated as the DC-9-80 and later stylized as the DC-9 Super 80 .\n\nWith a stretched, enlarged wing and powered by higher bypass Pratt & Whitney JT8D-200 engines, the aircraft program was launched in October 1977.\nThe MD-80 made its first flight on October 18, 1979, and was certified on August 25, 1980. The first airliner was delivered to launch customer Swissair on September 13, 1980, which introduced it into service on October 10, 1980.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/McDonnell_Douglas_MD-80",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/MD83_Aircraft_of_TezJet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/MD83_Aircraft_of_TezJet.jpg/330px-MD83_Aircraft_of_TezJet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "md83_aircraft_of_tezjet.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": "McDonnell Douglas MD-80",
+          "description": "Jet airliner model, series based on the DC-9",
+          "extract": "The McDonnell Douglas MD-80 is a series of five-abreast single-aisle airliners developed by McDonnell Douglas. It was produced by the developer company until August 1997 and then by Boeing Commercial Airplanes. The MD-80 was the second generation of the DC-9 family, originally designated as the DC-9-80 and later stylized as the DC-9 Super 80 .\n\nWith a stretched, enlarged wing and powered by higher bypass Pratt & Whitney JT8D-200 engines, the aircraft program was launched in October 1977.\nThe MD-80 made its first flight on October 18, 1979, and was certified on August 25, 1980. The first airliner was delivered to launch customer Swissair on September 13, 1980, which introduced it into service on October 10, 1980.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/McDonnell_Douglas_MD-80",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Lion_Air_McDonnell_Douglas_MD-82_%28DC-9-82%29_PK-LMN_MRD-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Lion_Air_McDonnell_Douglas_MD-82_%28DC-9-82%29_PK-LMN_MRD-1.jpg/330px-Lion_Air_McDonnell_Douglas_MD-82_%28DC-9-82%29_PK-LMN_MRD-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lion_air_mcdonnell_douglas_md-82_(dc-9-82)_pk-lmn_mrd-1.jpg",
+          "width": 1200,
+          "height": 897,
+          "title": "Lion Air Flight 538",
+          "description": "2004 aircraft crash in Surakarta, Indonesia",
+          "extract": "Lion Air Flight 538 (JT538/LNI538) was a scheduled domestic passenger flight from Jakarta to Surabaya, with a stopover at Surakarta, all in Indonesia. On 30 November 2004, whilst landing at Surakarta, the McDonnell Douglas MD-82 overran the rain-soaked runway of Adi Sumarmo Airport, and impacted a concrete localizer antenna base beyond the end of the runway, causing the aircraft to break apart; 25 people on board were killed in the crash, including the captain.\nThe investigation conducted by the Indonesian National Transportation Safety Committee concluded that the crash was caused by hydroplaning, which was aggravated by wind shear.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lion_Air_Flight_538",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Southwest_Airlines_Flight_1248_-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Southwest_Airlines_Flight_1248_-1.jpg/330px-Southwest_Airlines_Flight_1248_-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "southwest_airlines_flight_1248_-1.jpg",
+          "width": 1200,
+          "height": 865,
+          "title": "Runway excursion",
+          "description": "Aircraft runway accident",
+          "extract": "A runway excursion is a runway safety incident in which an aircraft makes an inappropriate exit from the runway. This happens mainly due to late landings or inappropriate runway choice.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Runway_excursion",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "McDonnell Douglas MD-80",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/McDonnell_Douglas_MD-80",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-30-1872-095bc163",
+      "year": 1872,
+      "text": "The first international football match (pictured) took place at Hamilton Crescent, Glasgow, between Scotland and England.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/England_v_scotland_1872_ad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/England_v_scotland_1872_ad.jpg/330px-England_v_scotland_1872_ad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "england_v_scotland_1872_ad.jpg",
+        "width": 1920,
+        "height": 1152,
+        "title": "1872 Scotland v England football match",
+        "description": "First international football match",
+        "extract": "The 1872 association football match between the national teams of Scotland and England is officially recognised by FIFA as the first international. It took place on 30 November 1872 at Hamilton Crescent, the West of Scotland Cricket Club's ground in Partick, Glasgow. The match was watched by 4,000 spectators and finished as a 0–0 draw.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1872_Scotland_v_England_football_match",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/England_v_scotland_1872_ad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/England_v_scotland_1872_ad.jpg/330px-England_v_scotland_1872_ad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "england_v_scotland_1872_ad.jpg",
+          "width": 1920,
+          "height": 1152,
+          "title": "1872 Scotland v England football match",
+          "description": "First international football match",
+          "extract": "The 1872 association football match between the national teams of Scotland and England is officially recognised by FIFA as the first international. It took place on 30 November 1872 at Hamilton Crescent, the West of Scotland Cricket Club's ground in Partick, Glasgow. The match was watched by 4,000 spectators and finished as a 0–0 draw.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1872_Scotland_v_England_football_match",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/West_of_Scotland_Cricket_Ground_-_geograph.org.uk_-_47582.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/West_of_Scotland_Cricket_Ground_-_geograph.org.uk_-_47582.jpg/330px-West_of_Scotland_Cricket_Ground_-_geograph.org.uk_-_47582.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "west_of_scotland_cricket_ground_-_geograph.org.uk_-_47582.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "Hamilton Crescent",
+          "description": "Cricket ground in Glasgow, Scotland",
+          "extract": "Hamilton Crescent is a cricket ground in the Partick area of Glasgow, Scotland, which is the home of the West of Scotland Cricket Club. It was previously also used for association football and hosted the first international football match in 1872, between Scotland and England.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hamilton_Crescent",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Glasgow_-_aerial_-_2025-04-17_14.jpg/3840px-Glasgow_-_aerial_-_2025-04-17_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Glasgow_-_aerial_-_2025-04-17_14.jpg/330px-Glasgow_-_aerial_-_2025-04-17_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "glasgow_-_aerial_-_2025-04-17_14.jpg",
+          "width": 4032,
+          "height": 2268,
+          "title": "Glasgow",
+          "description": "Largest city in Scotland",
+          "extract": "Glasgow is the most populous city in Scotland, located on the banks of the River Clyde in west central Scotland. It is the third-most populous city in the United Kingdom and the 27th-most populous city in Europe, and comprises 23 wards which represent the areas within the city boundaries. Glasgow is a leading city in Scotland for university education and research, finance, industry, commerce, shopping, culture and fashion, and was commonly referred to as the \"second city of the British Empire\" for much of the Victorian and Edwardian eras.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Glasgow",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "1872 Scotland v England football match",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1872_Scotland_v_England_football_match",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "11-30-1786-ab502827",
+      "year": 1786,
+      "text": "The Grand Duchy of Tuscany, under Pietro Leopoldo I, becomes the first modern state to abolish the death penalty (later commemorated as Cities for Life Day).",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Anton_Hickel_-_Portrait_of_Emperor_Leopold_II%2C_formerly_identified_as_Joseph_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Anton_Hickel_-_Portrait_of_Emperor_Leopold_II%2C_formerly_identified_as_Joseph_II.jpg/330px-Anton_Hickel_-_Portrait_of_Emperor_Leopold_II%2C_formerly_identified_as_Joseph_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "anton_hickel_-_portrait_of_emperor_leopold_ii,_formerly_identified_as_joseph_ii.jpg",
+        "width": 3154,
+        "height": 4187,
+        "title": "Leopold II, Holy Roman Emperor",
+        "description": "Holy Roman Emperor from 1790 to 1792",
+        "extract": "Leopold II was the penultimate Holy Roman Emperor, as well as King of Hungary, Croatia and Bohemia, and Archduke of Austria from 1790 to 1792, and Grand Duke of Tuscany from 1765 to 1790 as Leopold I. He was a son of Empress Maria Theresa and Emperor Francis I, and the brother of Queen Marie Antoinette of France, Queen Maria Carolina, Duchess Maria Amalia of Parma, and Emperor Joseph II. Leopold was a moderate proponent of enlightened absolutism like his brother Joseph II. He granted the Academy of Georgofili his protection. Unusually for his time, he opposed the death penalty and torture and abolished it in Tuscany on 30 November 1786 during his rule there, making it the first nation in modern history to abolish the death penalty. This act has been commemorated since 2000 by a regional custom known as the Feast of Tuscany, held every 30 November. Despite his brief reign, he is highly regarded. The historian Paul W. Schroeder called him \"one of the most shrewd and sensible monarchs ever to wear a crown\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leopold_II%2C_Holy_Roman_Emperor",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Anton_Hickel_-_Portrait_of_Emperor_Leopold_II%2C_formerly_identified_as_Joseph_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Anton_Hickel_-_Portrait_of_Emperor_Leopold_II%2C_formerly_identified_as_Joseph_II.jpg/330px-Anton_Hickel_-_Portrait_of_Emperor_Leopold_II%2C_formerly_identified_as_Joseph_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anton_hickel_-_portrait_of_emperor_leopold_ii,_formerly_identified_as_joseph_ii.jpg",
+          "width": 3154,
+          "height": 4187,
+          "title": "Leopold II, Holy Roman Emperor",
+          "description": "Holy Roman Emperor from 1790 to 1792",
+          "extract": "Leopold II was the penultimate Holy Roman Emperor, as well as King of Hungary, Croatia and Bohemia, and Archduke of Austria from 1790 to 1792, and Grand Duke of Tuscany from 1765 to 1790 as Leopold I. He was a son of Empress Maria Theresa and Emperor Francis I, and the brother of Queen Marie Antoinette of France, Queen Maria Carolina, Duchess Maria Amalia of Parma, and Emperor Joseph II. Leopold was a moderate proponent of enlightened absolutism like his brother Joseph II. He granted the Academy of Georgofili his protection. Unusually for his time, he opposed the death penalty and torture and abolished it in Tuscany on 30 November 1786 during his rule there, making it the first nation in modern history to abolish the death penalty. This act has been commemorated since 2000 by a regional custom known as the Feast of Tuscany, held every 30 November. Despite his brief reign, he is highly regarded. The historian Paul W. Schroeder called him \"one of the most shrewd and sensible monarchs ever to wear a crown\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Leopold_II%2C_Holy_Roman_Emperor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Execution_of_Louis_XVI.jpg/3840px-Execution_of_Louis_XVI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Execution_of_Louis_XVI.jpg/330px-Execution_of_Louis_XVI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "execution_of_louis_xvi.jpg",
+          "width": 5043,
+          "height": 3016,
+          "title": "Capital punishment",
+          "description": "Legal killing of a person as punishment",
+          "extract": "Capital punishment, also known as the death penalty and formerly called judicial homicide, is the state-sanctioned killing of a person as punishment for actual or supposed misconduct. The sentence ordering that an offender be punished in such a manner is called a death sentence, and the act of carrying out the sentence is an execution. A prisoner who has been sentenced to death and awaits execution is condemned and is commonly referred to as being \"on death row\". Etymologically, the term capital refers to execution by beheading, but executions are carried out by many methods.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Capital_punishment",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Granduchy_of_Tuscany_1815_%28location%29.png/500px-Granduchy_of_Tuscany_1815_%28location%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Granduchy_of_Tuscany_1815_%28location%29.png/500px-Granduchy_of_Tuscany_1815_%28location%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "granduchy_of_tuscany_1815_(location).png",
+          "width": 800,
+          "height": 600,
+          "title": "Granduchy_of_Tuscany_1815_(location)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Tuscany",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Grand Duchy of Tuscany",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Grand_Duchy_of_Tuscany",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-30-1954-1c8aca1f",
+      "year": 1954,
+      "text": "In Sylacauga, Alabama, United States, the Hodges meteorite crashes through a roof and hits a woman taking an afternoon nap; this is the only documented case in the Western Hemisphere of a human being hit by a rock from space.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 80,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sylacauga_Alabama.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sylacauga_Alabama.JPG/330px-Sylacauga_Alabama.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sylacauga_alabama.jpg",
+        "width": 3184,
+        "height": 2278,
+        "title": "Sylacauga, Alabama",
+        "description": "City in Alabama, United States",
+        "extract": "Sylacauga is a city in Talladega County, Alabama, United States. At the 2020 census, the population was 12,578.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sylacauga%2C_Alabama",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Sylacauga_Alabama.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sylacauga_Alabama.JPG/330px-Sylacauga_Alabama.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sylacauga_alabama.jpg",
+          "width": 3184,
+          "height": 2278,
+          "title": "Sylacauga, Alabama",
+          "description": "City in Alabama, United States",
+          "extract": "Sylacauga is a city in Talladega County, Alabama, United States. At the 2020 census, the population was 12,578.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sylacauga%2C_Alabama",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/2024-10-21_-_Tuscaloosa%2C_AL%2C_USA_-_Hodges_%28Sylacauga%29_Meteorite_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2024-10-21_-_Tuscaloosa%2C_AL%2C_USA_-_Hodges_%28Sylacauga%29_Meteorite_%28cropped%29.jpg/330px-2024-10-21_-_Tuscaloosa%2C_AL%2C_USA_-_Hodges_%28Sylacauga%29_Meteorite_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2024-10-21_-_tuscaloosa,_al,_usa_-_hodges_(sylacauga)_meteorite_(cropped).jpg",
+          "width": 1400,
+          "height": 1407,
+          "title": "Sylacauga (meteorite)",
+          "description": "Meteorite that fell in 1954 in Alabama",
+          "extract": "The Sylacauga meteorite fell on November 30, 1954, at 12:46 p.m. local time in Oak Grove, Alabama, near Sylacauga, in the United States. It is also commonly called the Hodges meteorite because a fragment of it struck Ann Elizabeth Fowler Hodges (1920–1972).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sylacauga_(meteorite)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Western_Hemisphere_LamAz.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Western_Hemisphere_LamAz.png/330px-Western_Hemisphere_LamAz.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "western_hemisphere_lamaz.png",
+          "width": 785,
+          "height": 785,
+          "title": "Western Hemisphere",
+          "description": "Half of Earth west of the Prime Meridian",
+          "extract": "The Western Hemisphere is the half of the planet Earth that lies west of the Prime Meridian and east of the 180th meridian. The other half is called the Eastern Hemisphere. In the United States, the term \"Western Hemisphere\" is often used as a metonym for the Americas, even though geographically, the hemisphere also includes parts of other continents.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Western_Hemisphere",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Sylacauga, Alabama",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Sylacauga%2C_Alabama",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-30-1957-9782870e",
+      "year": 1957,
+      "text": "President Sukarno of Indonesia escapes a grenade attack that kills multiple bystanders.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Presiden_Sukarno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Presiden_Sukarno.jpg/330px-Presiden_Sukarno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "presiden_sukarno.jpg",
+        "width": 3156,
+        "height": 4557,
+        "title": "Sukarno",
+        "description": "President of Indonesia from 1945 to 1967",
+        "extract": "Sukarno was an Indonesian statesman, activist, and revolutionary who served as the first president of Indonesia from 1945 to 1967.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sukarno",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Presiden_Sukarno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Presiden_Sukarno.jpg/330px-Presiden_Sukarno.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "presiden_sukarno.jpg",
+          "width": 3156,
+          "height": 4557,
+          "title": "Sukarno",
+          "description": "President of Indonesia from 1945 to 1967",
+          "extract": "Sukarno was an Indonesian statesman, activist, and revolutionary who served as the first president of Indonesia from 1945 to 1967.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sukarno",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Sukarno%2C_Indonesia_Tanah_Airku%2C_p5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sukarno%2C_Indonesia_Tanah_Airku%2C_p5.jpg/330px-Sukarno%2C_Indonesia_Tanah_Airku%2C_p5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sukarno,_indonesia_tanah_airku,_p5.jpg",
+          "width": 1081,
+          "height": 1317,
+          "title": "Cikini Incident",
+          "description": "",
+          "extract": "The Cikini Incident or Cikini Affair, also known in Indonesia as the Cikini Tragedy, was an assassination attempt against President Sukarno of Indonesia. On 30 November 1957, Sukarno attended the fifteenth anniversary celebrations of the Cikini School in Cikini, Jakarta, with his son Guntur and daughter Megawati. While his children entered the school to watch a film, Sukarno walked towards his limousine as a crowd gathered around him. When he was approximately halfway to the vehicle, five grenades were thrown from individuals hidden within the crowd. Sukarno was initially thrown to the ground by his aide Sudarto, who then worked with two bodyguards to rush him into a building across the street.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cikini_Incident",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dr._Ir._Soekarno%2C_10_Orang_Indonesia_Terbesar_Sekarang_%281952%29%2C_p7_%283x4_close_cropped%29.jpg/1280px-Dr._Ir._Soekarno%2C_10_Orang_Indonesia_Terbesar_Sekarang_%281952%29%2C_p7_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dr._Ir._Soekarno%2C_10_Orang_Indonesia_Terbesar_Sekarang_%281952%29%2C_p7_%283x4_close_cropped%29.jpg/1280px-Dr._Ir._Soekarno%2C_10_Orang_Indonesia_Terbesar_Sekarang_%281952%29%2C_p7_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "dr._ir._soekarno,_10_orang_indonesia_terbesar_sekarang_(1952),_p7_(3x4_close_cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Dr._Ir._Soekarno,_10_Orang_Indonesia_Terbesar_Sekarang_(1952),_p7_(3x4_close_cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sukarno",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Sukarno",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Sukarno",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-30-2022-81218768",
+      "year": 2022,
+      "text": "The AI chatbot ChatGPT is launched by OpenAI.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1515_Third_Street.jpg/3840px-1515_Third_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1515_Third_Street.jpg/330px-1515_Third_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "1515_third_street.jpg",
+        "width": 6000,
+        "height": 4000,
+        "title": "OpenAI",
+        "description": "American artificial intelligence company",
+        "extract": "OpenAI is an American artificial intelligence (AI) public benefit corporation (PBC) headquartered in San Francisco. It develops proprietary generative AI models, particularly its generative pre-trained transformer (GPT) series of large language models (LLMs). Its release of ChatGPT in November 2022 has been credited with catalyzing the AI boom; as of September 2026, ChatGPT is the fifth-most-visited website globally. OpenAI also releases the GPT Image models and Codex, an AI coding agent. In March 2026, OpenAI closed a funding round with a post-money valuation of US$852 billion, making it one of the most valuable AI pure play companies in the world, rivalled only by Anthropic.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/OpenAI",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1515_Third_Street.jpg/3840px-1515_Third_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1515_Third_Street.jpg/330px-1515_Third_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1515_third_street.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": "OpenAI",
+          "description": "American artificial intelligence company",
+          "extract": "OpenAI is an American artificial intelligence (AI) public benefit corporation (PBC) headquartered in San Francisco. It develops proprietary generative AI models, particularly its generative pre-trained transformer (GPT) series of large language models (LLMs). Its release of ChatGPT in November 2022 has been credited with catalyzing the AI boom; as of September 2026, ChatGPT is the fifth-most-visited website globally. OpenAI also releases the GPT Image models and Codex, an AI coding agent. In March 2026, OpenAI closed a funding round with a post-money valuation of US$852 billion, making it one of the most valuable AI pure play companies in the world, rivalled only by Anthropic.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/OpenAI",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "ChatGPT",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/ChatGPT",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-30-1999-15dbc7e9",
+      "year": 1999,
+      "text": "A series of protests by anti-globalization activists against the World Trade Organization Ministerial Conference of 1999 in Seattle forced the cancellation of the opening ceremonies.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/WTO_protests_in_Seattle_November_30_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/WTO_protests_in_Seattle_November_30_1999.jpg/330px-WTO_protests_in_Seattle_November_30_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "wto_protests_in_seattle_november_30_1999.jpg",
+        "width": 2048,
+        "height": 1244,
+        "title": "1999 Seattle WTO protests",
+        "description": "Series of anti-globalization demonstrations",
+        "extract": "The 1999 Seattle WTO protests, sometimes referred to as the Battle of Seattle, were a series of anti-globalization protests surrounding the WTO Ministerial Conference of 1999, where members of the World Trade Organization (WTO) convened at the Washington State Convention and Trade Center in Seattle, Washington on November 30, 1999. The Conference was to be the launch of a new millennial round of trade negotiations.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1999_Seattle_WTO_protests",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/WTO_protests_in_Seattle_November_30_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/WTO_protests_in_Seattle_November_30_1999.jpg/330px-WTO_protests_in_Seattle_November_30_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wto_protests_in_seattle_november_30_1999.jpg",
+          "width": 2048,
+          "height": 1244,
+          "title": "1999 Seattle WTO protests",
+          "description": "Series of anti-globalization demonstrations",
+          "extract": "The 1999 Seattle WTO protests, sometimes referred to as the Battle of Seattle, were a series of anti-globalization protests surrounding the WTO Ministerial Conference of 1999, where members of the World Trade Organization (WTO) convened at the Washington State Convention and Trade Center in Seattle, Washington on November 30, 1999. The Conference was to be the launch of a new millennial round of trade negotiations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1999_Seattle_WTO_protests",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Demonstration_2004_AB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Demonstration_2004_AB.jpg/330px-Demonstration_2004_AB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "demonstration_2004_ab.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": "Anti-globalization movement",
+          "description": "Worldwide political movement against multinational corporations",
+          "extract": "The anti-globalization movement, or counter-globalization movement, is a social movement critical of economic globalization. The movement is also commonly referred to as the global justice movement, alter-globalization movement, anti-globalist movement, anti-corporate globalization movement, or movement against neoliberal globalization. There are many definitions of anti-globalization.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anti-globalization_movement",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Seattle_Ministerial_Conference_30_November-3_December_1999_%289308794108%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Seattle_Ministerial_Conference_30_November-3_December_1999_%289308794108%29.jpg/330px-Seattle_Ministerial_Conference_30_November-3_December_1999_%289308794108%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "seattle_ministerial_conference_30_november-3_december_1999_(9308794108).jpg",
+          "width": 959,
+          "height": 589,
+          "title": "World Trade Organization Ministerial Conference of 1999",
+          "description": "Meeting of the World Trade Organization",
+          "extract": "The WTO Ministerial Conference of 1999 was the third Ministerial-level meeting of the World Trade Organization, convened at the Washington State Convention and Trade Center in Seattle, Washington, USA, over the course of four days, from Tuesday, 30 November 1999 to Friday, 3 December 1999. Anti-globalization activists organized large-scale protests of the meeting, sometimes known as the Battle of Seattle. Direct action tactics forced the WTO Ministerial Conference to begin late on 30 November and contributed to the meeting ending without agreement on 3 December.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_Trade_Organization_Ministerial_Conference_of_1999",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "1999 Seattle WTO protests",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1999_Seattle_WTO_protests",
+      "relatedPagesCount": 4
+    }
+  ]
+}

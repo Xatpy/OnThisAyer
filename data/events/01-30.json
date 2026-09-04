@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 1,
+    "day": 30,
+    "formatted": "01-30"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "01-30-2005-2d53677e",
+      "year": 2005,
+      "text": "Forty-six years to the day after the sinking of the Danish ocean liner MS Hans Hedtoft, Queen Margrethe II unveiled a memorial in Copenhagen to the 95 passengers and crew who perished.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/80/MS_Hans_Hedtoft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/MS_Hans_Hedtoft.jpg/330px-MS_Hans_Hedtoft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ms_hans_hedtoft.jpg",
+        "width": 467,
+        "height": 213,
+        "title": "MS Hans Hedtoft",
+        "description": "20th-century Danish ship",
+        "extract": " MS Hans Hedtoft was a Danish cargo passenger liner that struck an iceberg and sank on 30 January 1959 on her maiden voyage off the coast of Western Greenland. The only piece of the wreckage found was a lifebelt.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/MS_Hans_Hedtoft",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/80/MS_Hans_Hedtoft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/MS_Hans_Hedtoft.jpg/330px-MS_Hans_Hedtoft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ms_hans_hedtoft.jpg",
+          "width": 467,
+          "height": 213,
+          "title": "MS Hans Hedtoft",
+          "description": "20th-century Danish ship",
+          "extract": " MS Hans Hedtoft was a Danish cargo passenger liner that struck an iceberg and sank on 30 January 1959 on her maiden voyage off the coast of Western Greenland. The only piece of the wreckage found was a lifebelt.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/MS_Hans_Hedtoft",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Drottning_Margrethe_av_Danmark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Drottning_Margrethe_av_Danmark.jpg/330px-Drottning_Margrethe_av_Danmark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "drottning_margrethe_av_danmark.jpg",
+          "width": 2832,
+          "height": 4256,
+          "title": "Margrethe II",
+          "description": "Queen of Denmark from 1972 to 2024",
+          "extract": "Margrethe II is a member of the Danish royal family who reigned as Queen of Denmark from 14 January 1972 until her abdication on 14 January 2024. Having reigned for exactly 52 years, she is the second-longest-reigning Danish monarch after Christian IV.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Margrethe_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2018_-_Christiansborg_from_the_Marble_Bridge.jpg/3840px-2018_-_Christiansborg_from_the_Marble_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/2018_-_Christiansborg_from_the_Marble_Bridge.jpg/330px-2018_-_Christiansborg_from_the_Marble_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2018_-_christiansborg_from_the_marble_bridge.jpg",
+          "width": 4545,
+          "height": 3000,
+          "title": "Copenhagen",
+          "description": "Capital and most populous city of Denmark",
+          "extract": "Copenhagen is the capital and most populous city of Denmark, with an urban population of 1.4 million. The city is situated mainly on the island of Zealand (Sjælland), with a smaller part on the island of Amager. Copenhagen is separated from Malmö, Sweden, by the Øresund strait. The Øresund Bridge connects the two cities by rail and road.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Copenhagen",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "MS Hans Hedtoft",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/MS_Hans_Hedtoft",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-30-1982-2f929abf",
+      "year": 1982,
+      "text": "Richard Skrenta writes the first PC virus code, which is 400 lines long and disguised as an Apple boot program called \"Elk Cloner\".",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rich_Skrenta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rich_Skrenta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "rich_skrenta.jpg",
+        "width": 185,
+        "height": 180,
+        "title": "Rich Skrenta",
+        "description": "American computer programmer (born 1967)",
+        "extract": "Richard J. Skrenta Jr. is an American computer programmer and Silicon Valley entrepreneur who created the web search engine Blekko. He is currently the executive director of Common Crawl.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rich_Skrenta",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rich_Skrenta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rich_Skrenta.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "rich_skrenta.jpg",
+          "width": 185,
+          "height": 180,
+          "title": "Rich Skrenta",
+          "description": "American computer programmer (born 1967)",
+          "extract": "Richard J. Skrenta Jr. is an American computer programmer and Silicon Valley entrepreneur who created the web search engine Blekko. He is currently the executive director of Common Crawl.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rich_Skrenta",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Brain-virus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Brain-virus.jpg/330px-Brain-virus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "brain-virus.jpg",
+          "width": 1238,
+          "height": 646,
+          "title": "Computer virus",
+          "description": "Computer program that modifies other programs to replicate itself and spread",
+          "extract": "A computer virus is a type of malware that, when executed, replicates itself by modifying other computer programs and inserting its own code into those programs. If this replication succeeds, the affected areas are then said to be \"infected\" with a computer virus, a metaphor derived from biological viruses.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Computer_virus",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Elk_Cloner_poem.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Elk_Cloner_poem.png/330px-Elk_Cloner_poem.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "elk_cloner_poem.png",
+          "width": 560,
+          "height": 384,
+          "title": "Elk Cloner",
+          "description": "Microcomputer virus",
+          "extract": "Elk Cloner is one of the first known microcomputer viruses that spread \"in the wild\", i.e., outside the computer system or laboratory in which it was written. It attached itself to the Apple II operating system and spread by floppy disk. It was written around 1982 by programmer and entrepreneur Rich Skrenta as a 15-year-old high school student, originally as a joke, and put onto a game disk.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elk_Cloner",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Rich Skrenta",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Rich_Skrenta",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-30-2007-0b83dc70",
+      "year": 2007,
+      "text": "Microsoft Corporation releases Windows Vista, a major release of the operating system Microsoft Windows and the NT based kernel.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/3840px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "aerial_microsoft_west_campus_august_2009.jpg",
+        "width": 4752,
+        "height": 3168,
+        "title": "Microsoft",
+        "description": "American multinational technology company",
+        "extract": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence, video gaming, and more. A Big Tech company, Microsoft is the largest software company by revenue, one of the most valuable public companies, and one of the most valuable brands globally.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Microsoft",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/3840px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aerial_microsoft_west_campus_august_2009.jpg",
+          "width": 4752,
+          "height": 3168,
+          "title": "Microsoft",
+          "description": "American multinational technology company",
+          "extract": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence, video gaming, and more. A Big Tech company, Microsoft is the largest software company by revenue, one of the most valuable public companies, and one of the most valuable brands globally.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Microsoft",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/Windows_Vista.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Windows_Vista.png/330px-Windows_Vista.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "windows_vista.png",
+          "width": 640,
+          "height": 480,
+          "title": "Windows Vista",
+          "description": "2006 Microsoft operating system version",
+          "extract": "Windows Vista is a major release of the Windows NT operating system developed by Microsoft. It was the direct successor to Windows XP, released five years earlier, which was then the longest time span between successive releases of Microsoft Windows. It was released to manufacturing on November 8, 2006, and over the following two months, it was released in stages to business customers, original equipment manufacturers (OEMs), and retail channels. On January 30, 2007, it was released internationally and was made available for purchase and download from the Windows Marketplace; it is the first release of Windows to be made available through a digital distribution platform.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Windows_Vista",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bill_Gates_at_the_European_Commission_-_2025_-_P067383-605791_%28cropped%29.jpg/500px-Bill_Gates_at_the_European_Commission_-_2025_-_P067383-605791_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bill_Gates_at_the_European_Commission_-_2025_-_P067383-605791_%28cropped%29.jpg/500px-Bill_Gates_at_the_European_Commission_-_2025_-_P067383-605791_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bill_gates_at_the_european_commission_-_2025_-_p067383-605791_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Bill_Gates_at_the_European_Commission_-_2025_-_P067383-605791_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Microsoft",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Microsoft",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Microsoft",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-30-2013-4a92a801",
+      "year": 2013,
+      "text": "The Korea Aerospace Research Institute launched Naro-1, South Korea's first carrier rocket and their first launch vehicle to achieve Earth orbit.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Korea_Aerospace_Research_Institute_-_%ED%95%9C%EA%B5%AD%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EC%97%B0%EA%B5%AC%EC%9B%90.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Korea_Aerospace_Research_Institute_-_%ED%95%9C%EA%B5%AD%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EC%97%B0%EA%B5%AC%EC%9B%90.jpg/330px-Korea_Aerospace_Research_Institute_-_%ED%95%9C%EA%B5%AD%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EC%97%B0%EA%B5%AC%EC%9B%90.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "korea_aerospace_research_institute_-_한국항공우주연구원.jpg",
+        "width": 1846,
+        "height": 2976,
+        "title": "Korea Aerospace Research Institute",
+        "description": "South Korean space agency",
+        "extract": "The Korea Aerospace Research Institute, established in 1989, is the aeronautics and space agency of South Korea. Its main laboratories are located in Daejeon, in the Daedeok Science Town. KARI's vision is to continue building upon indigenous launch capabilities, strengthen national safety and public service, industrialize satellite information and applications technology, explore the Moon, and develop environmentally-friendly and highly-efficient cutting-edge aircraft and core aerospace technology. Current projects include the KSLV-2 launcher. Past projects include the 1999 Arirang-1 satellite. The agency was founded in 1989. Prior to South Korea's entry into the Institute for Advanced Engineering (IAE) in 1992, it focused primarily on aerospace technology. As of May 2024, KARI is an affiliated research institute of the Korea AeroSpace Administration.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Korea_Aerospace_Research_Institute_-_%ED%95%9C%EA%B5%AD%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EC%97%B0%EA%B5%AC%EC%9B%90.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Korea_Aerospace_Research_Institute_-_%ED%95%9C%EA%B5%AD%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EC%97%B0%EA%B5%AC%EC%9B%90.jpg/330px-Korea_Aerospace_Research_Institute_-_%ED%95%9C%EA%B5%AD%ED%95%AD%EA%B3%B5%EC%9A%B0%EC%A3%BC%EC%97%B0%EA%B5%AC%EC%9B%90.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "korea_aerospace_research_institute_-_한국항공우주연구원.jpg",
+          "width": 1846,
+          "height": 2976,
+          "title": "Korea Aerospace Research Institute",
+          "description": "South Korean space agency",
+          "extract": "The Korea Aerospace Research Institute, established in 1989, is the aeronautics and space agency of South Korea. Its main laboratories are located in Daejeon, in the Daedeok Science Town. KARI's vision is to continue building upon indigenous launch capabilities, strengthen national safety and public service, industrialize satellite information and applications technology, explore the Moon, and develop environmentally-friendly and highly-efficient cutting-edge aircraft and core aerospace technology. Current projects include the KSLV-2 launcher. Past projects include the 1999 Arirang-1 satellite. The agency was founded in 1989. Prior to South Korea's entry into the Institute for Advanced Engineering (IAE) in 1992, it focused primarily on aerospace technology. As of May 2024, KARI is an affiliated research institute of the Korea AeroSpace Administration.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/%EB%82%98%EB%A1%9C%ED%98%B8%28KSLV-I%29_%EB%B0%9C%EC%82%AC_%EC%9E%A5%EB%A9%B4_%2812%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/%EB%82%98%EB%A1%9C%ED%98%B8%28KSLV-I%29_%EB%B0%9C%EC%82%AC_%EC%9E%A5%EB%A9%B4_%2812%29.jpg/330px-%EB%82%98%EB%A1%9C%ED%98%B8%28KSLV-I%29_%EB%B0%9C%EC%82%AC_%EC%9E%A5%EB%A9%B4_%2812%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "나로호(kslv-i)_발사_장면_(12).jpg",
+          "width": 1037,
+          "height": 1509,
+          "title": "Naro-1",
+          "description": "South Korea's first carrier rocket (2009–2013)",
+          "extract": "Naro-1, previously designated the Korea Space Launch Vehicle or KSLV, was South Korea's first carrier rocket, and the first South Korean launch vehicle to achieve Earth orbit. On 30 January 2013, the third Naro-1 vehicle built successfully placed STSAT-2C into low Earth orbit.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Naro-1",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/STS115_Atlantis_undock_ISS_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/STS115_Atlantis_undock_ISS_edit2.jpg/330px-STS115_Atlantis_undock_ISS_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts115_atlantis_undock_iss_edit2.jpg",
+          "width": 2928,
+          "height": 1920,
+          "title": "Launch vehicle",
+          "description": "Rocket used to carry a spacecraft into space",
+          "extract": "A launch vehicle is typically a rocket-powered vehicle designed to carry a payload from Earth's surface or lower atmosphere to outer space. The most common form is the ballistic missile-shaped multistage rocket, but the term is more general and also encompasses vehicles like the Space Shuttle. Most launch vehicles operate from a launch pad, supported by a launch control center and systems such as vehicle assembly and fueling. Launch vehicles are engineered with advanced aerodynamics and technologies, which contribute to high operating costs.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Launch_vehicle",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Korea Aerospace Research Institute",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Korea_Aerospace_Research_Institute",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-30-1969-e623cf78",
+      "year": 1969,
+      "text": "The Beatles' last public performance, on the roof of Apple Records in London. The impromptu concert is broken up by the police.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 80,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/330px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "the_beatles_1963_dezo_hoffman_capitol_records_press_photo_2.jpg",
+        "width": 3621,
+        "height": 2817,
+        "title": "The Beatles",
+        "description": "English rock band (1960–1970)",
+        "extract": "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/330px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_beatles_1963_dezo_hoffman_capitol_records_press_photo_2.jpg",
+          "width": 3621,
+          "height": 2817,
+          "title": "The Beatles",
+          "description": "English rock band (1960–1970)",
+          "extract": "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d1/The_Beatles_rooftop_concert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/d/d1/The_Beatles_rooftop_concert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "the_beatles_rooftop_concert.jpg",
+          "width": 240,
+          "height": 320,
+          "title": "The Beatles' rooftop concert",
+          "description": "Final public performance of the Beatles",
+          "extract": "On 30 January 1969, the Beatles performed a concert from the rooftop of their Apple Corps headquarters at 3 Savile Row, in central London's office and fashion district. Joined by guest keyboardist Billy Preston, the band played a 42-minute set before the Metropolitan Police arrived and told them to reduce the volume. It was the final public performance of their career.\nThey performed nine takes of five new songs as crowds of onlookers, many on lunch breaks, congregated in the streets and on the rooftops of nearby buildings to listen. The concert ended with \"Get Back\", and John Lennon jokingly said, \"I'd like to say thank you on behalf of the group and ourselves, and I hope we've passed the audition.\"",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles'_rooftop_concert",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "The Beatles",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-30-2000-19083b7e",
+      "year": 2000,
+      "text": "Kenya Airways Flight 431 crashed into the Atlantic Ocean near Ivory Coast shortly after takeoff, killing 169 on board.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Kenya_Airways_Airbus_A310-304_5Y-BEN_at_London_Heathrow_Airport_%28LHR%2C_EGLL%29_on_6_June_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kenya_Airways_Airbus_A310-304_5Y-BEN_at_London_Heathrow_Airport_%28LHR%2C_EGLL%29_on_6_June_1999.jpg/330px-Kenya_Airways_Airbus_A310-304_5Y-BEN_at_London_Heathrow_Airport_%28LHR%2C_EGLL%29_on_6_June_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "kenya_airways_airbus_a310-304_5y-ben_at_london_heathrow_airport_(lhr,_egll)_on_6_june_1999.jpg",
+        "width": 1600,
+        "height": 1067,
+        "title": "Kenya Airways Flight 431",
+        "description": "2000 aviation accident in the Atlantic Ocean",
+        "extract": "Kenya Airways Flight 431 was an international scheduled Abidjan–Lagos–Nairobi passenger service, operated by Kenyan national airline Kenya Airways. On 30 January 2000, the Airbus A310 serving the flight crashed into the sea off the Ivory Coast, shortly after takeoff at night from Félix-Houphouët-Boigny International Airport, Abidjan. There were 179 people on board, of whom 169 were passengers. Only ten people survived.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenya_Airways_Flight_431",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Kenya_Airways_Airbus_A310-304_5Y-BEN_at_London_Heathrow_Airport_%28LHR%2C_EGLL%29_on_6_June_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Kenya_Airways_Airbus_A310-304_5Y-BEN_at_London_Heathrow_Airport_%28LHR%2C_EGLL%29_on_6_June_1999.jpg/330px-Kenya_Airways_Airbus_A310-304_5Y-BEN_at_London_Heathrow_Airport_%28LHR%2C_EGLL%29_on_6_June_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kenya_airways_airbus_a310-304_5y-ben_at_london_heathrow_airport_(lhr,_egll)_on_6_june_1999.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": "Kenya Airways Flight 431",
+          "description": "2000 aviation accident in the Atlantic Ocean",
+          "extract": "Kenya Airways Flight 431 was an international scheduled Abidjan–Lagos–Nairobi passenger service, operated by Kenyan national airline Kenya Airways. On 30 January 2000, the Airbus A310 serving the flight crashed into the sea off the Ivory Coast, shortly after takeoff at night from Félix-Houphouët-Boigny International Airport, Abidjan. There were 179 people on board, of whom 169 were passengers. Only ten people survived.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kenya_Airways_Flight_431",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Kenya Airways Flight 431",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Kenya_Airways_Flight_431",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "01-30-1995-e9737993",
+      "year": 1995,
+      "text": "Hydroxycarbamide becomes the first approved preventive treatment for sickle cell disease.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Sickle_cell_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sickle_cell_01.jpg/330px-Sickle_cell_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sickle_cell_01.jpg",
+        "width": 375,
+        "height": 600,
+        "title": "Sickle cell disease",
+        "description": "Medical condition",
+        "extract": "Sickle cell disease (SCD), also simply called sickle cell, is a group of inherited hemoglobin-related blood disorders. Sickle cell disease is caused by an abnormality in the oxygen-carrying protein haemoglobin found in red blood cells. This leads to the red blood cells adopting an abnormal sickle-like shape under certain circumstances. With this shape, they cannot deform as they pass through capillaries, causing blockages.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sickle_cell_disease",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Sickle_cell_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sickle_cell_01.jpg/330px-Sickle_cell_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sickle_cell_01.jpg",
+          "width": 375,
+          "height": 600,
+          "title": "Sickle cell disease",
+          "description": "Medical condition",
+          "extract": "Sickle cell disease (SCD), also simply called sickle cell, is a group of inherited hemoglobin-related blood disorders. Sickle cell disease is caused by an abnormality in the oxygen-carrying protein haemoglobin found in red blood cells. This leads to the red blood cells adopting an abnormal sickle-like shape under certain circumstances. With this shape, they cannot deform as they pass through capillaries, causing blockages.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sickle_cell_disease",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hydroxyurea-3D-balls.png/1280px-Hydroxyurea-3D-balls.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hydroxyurea-3D-balls.png/1280px-Hydroxyurea-3D-balls.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "hydroxyurea-3d-balls.png",
+          "width": 800,
+          "height": 600,
+          "title": "Hydroxyurea-3D-balls",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hydroxycarbamide",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Hydroxycarbamide",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Hydroxycarbamide",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-30-1979-2a2a1eae",
+      "year": 1979,
+      "text": "A Varig Boeing 707-323C freighter, flown by the same commander as Flight 820, disappears over the Pacific Ocean 30 minutes after taking off from Tokyo.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/McDonnell_Douglas_MD-11%2C_Varig_AN0521263.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/McDonnell_Douglas_MD-11%2C_Varig_AN0521263.jpg/330px-McDonnell_Douglas_MD-11%2C_Varig_AN0521263.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mcdonnell_douglas_md-11,_varig_an0521263.jpg",
+        "width": 1024,
+        "height": 674,
+        "title": "Varig",
+        "description": "Airline of Brazil (1927–2006)",
+        "extract": "Varig was the first airline founded in Brazil, in 1927. From 1965 until 1990, it was Brazil's leading airline and virtually its only international one. In 2005, Varig went into judicial restructuring, and in 2006 it was split into two companies: Flex Linhas Aéreas, informally known as \"old\" Varig, heir to the original airline, now defunct; and \"new\" Varig, a new company, fully integrated into Gol Linhas Aéreas Inteligentes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Varig",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/McDonnell_Douglas_MD-11%2C_Varig_AN0521263.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/McDonnell_Douglas_MD-11%2C_Varig_AN0521263.jpg/330px-McDonnell_Douglas_MD-11%2C_Varig_AN0521263.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mcdonnell_douglas_md-11,_varig_an0521263.jpg",
+          "width": 1024,
+          "height": 674,
+          "title": "Varig",
+          "description": "Airline of Brazil (1927–2006)",
+          "extract": "Varig was the first airline founded in Brazil, in 1927. From 1965 until 1990, it was Brazil's leading airline and virtually its only international one. In 2005, Varig went into judicial restructuring, and in 2006 it was split into two companies: Flex Linhas Aéreas, informally known as \"old\" Varig, heir to the original airline, now defunct; and \"new\" Varig, a new company, fully integrated into Gol Linhas Aéreas Inteligentes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Varig",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Boeing_707-321B_Pan_Am_Freer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Boeing_707-321B_Pan_Am_Freer.jpg/330px-Boeing_707-321B_Pan_Am_Freer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "boeing_707-321b_pan_am_freer.jpg",
+          "width": 1024,
+          "height": 678,
+          "title": "Boeing 707",
+          "description": "Four-engined single-aisle airliner family",
+          "extract": "The Boeing 707 is an early American long-range narrow-body airliner, the first jetliner developed and produced by Boeing Commercial Airplanes.\n\nDeveloped from the Boeing 367-80 prototype, the initial 707-120 first flew on December 20, 1957. Pan Am, the launch customer, began regular service with the 707 on October 26, 1958.\n\nWith versions produced until 1979, the 707 is a swept wing quadjet with podded engines. Its larger fuselage cross-section allowed six-abreast economy seating, retained in the later 720, 727, and 737 models.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Boeing_707",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/CrashVarig820_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/CrashVarig820_%28cropped%29.jpg/330px-CrashVarig820_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "crashvarig820_(cropped).jpg",
+          "width": 1080,
+          "height": 549,
+          "title": "Varig Flight 820",
+          "description": "1973 aviation accident in France",
+          "extract": "Varig Flight 820 was a scheduled flight of the Brazilian airline Varig that departed from Galeão International Airport in Rio de Janeiro, Brazil, on 11 July 1973, for Orly Airport, in Paris, France. The Boeing 707, registration PP-VJZ, made an emergency landing in onion fields about 5 km (2.7 nmi) from Orly Airport, due to smoke in the cabin from a lavatory fire. The fire caused 123 deaths; there were only 11 survivors .\nRelief Captain Antonio Fuzimoto was the pilot who handled the controls and landed the plane in the field.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Varig_Flight_820",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Varig",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Varig",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-30-1975-68ff43e8",
+      "year": 1975,
+      "text": "The Monitor National Marine Sanctuary is established as the first United States National Marine Sanctuary.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Monitor_National_Marine_Sanctuary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Monitor_National_Marine_Sanctuary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "monitor_national_marine_sanctuary.jpg",
+        "width": 300,
+        "height": 250,
+        "title": "Monitor National Marine Sanctuary",
+        "description": "Protected marine area near Cape Hatteras, North Carolina, United States",
+        "extract": "Monitor National Marine Sanctuary is the site of the wreck of the USS Monitor, one of the most famous shipwrecks in U.S. history. It was designated as the country's first National Marine Sanctuary on February 5, 1975, and is one of only two of the seventeen national marine sanctuaries created to protect a cultural resource rather than a natural resource. The sanctuary comprises a column of water 1 nautical mile in diameter extending from the ocean's surface to the seabed around the wreck of the American Civil War ironclad warship, which lies 16 nautical miles south-southeast of Cape Hatteras, North Carolina. Average water depth in the sanctuary is 230 feet (70 m). Since it sank in 1862, Monitor has become an artificial reef attracting numerous fish species, including amberjack, black sea bass, oyster toadfish, and great barracuda.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Monitor_National_Marine_Sanctuary",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Monitor_National_Marine_Sanctuary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Monitor_National_Marine_Sanctuary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "monitor_national_marine_sanctuary.jpg",
+          "width": 300,
+          "height": 250,
+          "title": "Monitor National Marine Sanctuary",
+          "description": "Protected marine area near Cape Hatteras, North Carolina, United States",
+          "extract": "Monitor National Marine Sanctuary is the site of the wreck of the USS Monitor, one of the most famous shipwrecks in U.S. history. It was designated as the country's first National Marine Sanctuary on February 5, 1975, and is one of only two of the seventeen national marine sanctuaries created to protect a cultural resource rather than a natural resource. The sanctuary comprises a column of water 1 nautical mile in diameter extending from the ocean's surface to the seabed around the wreck of the American Civil War ironclad warship, which lies 16 nautical miles south-southeast of Cape Hatteras, North Carolina. Average water depth in the sanctuary is 230 feet (70 m). Since it sank in 1862, Monitor has become an artificial reef attracting numerous fish species, including amberjack, black sea bass, oyster toadfish, and great barracuda.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Monitor_National_Marine_Sanctuary",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/USS_Monitor_-_H58758.jpg/500px-USS_Monitor_-_H58758.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/USS_Monitor_-_H58758.jpg/500px-USS_Monitor_-_H58758.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "uss_monitor_-_h58758.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Engraving of Monitor sinking.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Monitor_National_Marine_Sanctuary",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Monitor_National_Marine_Sanctuary_dedication_ceremony.PNG/500px-Monitor_National_Marine_Sanctuary_dedication_ceremony.PNG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Monitor_National_Marine_Sanctuary_dedication_ceremony.PNG/500px-Monitor_National_Marine_Sanctuary_dedication_ceremony.PNG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "monitor_national_marine_sanctuary_dedication_ceremony.png",
+          "width": 800,
+          "height": 600,
+          "title": "The dedication ceremony for the sanctuary in 1975.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Monitor_National_Marine_Sanctuary",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Monitor National Marine Sanctuary",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Monitor_National_Marine_Sanctuary",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-30-1920-0ac614fa",
+      "year": 1920,
+      "text": "Japanese carmaker Mazda is founded, initially as a cork-producing company.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Jug_with_cork_stopper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jug_with_cork_stopper.jpg/330px-Jug_with_cork_stopper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jug_with_cork_stopper.jpg",
+        "width": 2592,
+        "height": 3872,
+        "title": "Stopper (plug)",
+        "description": "Conical closure used to seal a container",
+        "extract": "A stopper, bung, or cork is a cylindrical or conical closure used to seal a container, such as a bottle, tube, or barrel.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stopper_(plug)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Jug_with_cork_stopper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jug_with_cork_stopper.jpg/330px-Jug_with_cork_stopper.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jug_with_cork_stopper.jpg",
+          "width": 2592,
+          "height": 3872,
+          "title": "Stopper (plug)",
+          "description": "Conical closure used to seal a container",
+          "extract": "A stopper, bung, or cork is a cylindrical or conical closure used to seal a container, such as a bottle, tube, or barrel.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Stopper_(plug)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Mazda_head_office_20200607.JPG/1280px-Mazda_head_office_20200607.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Mazda_head_office_20200607.JPG/1280px-Mazda_head_office_20200607.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "mazda_head_office_20200607.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Mazda_head_office_20200607",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mazda",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Mazda",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mazda",
+      "relatedPagesCount": 2
+    }
+  ]
+}

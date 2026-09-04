@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 2,
+    "day": 19,
+    "formatted": "02-19"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "02-19-2026-d5d16fd0",
+      "year": 2026,
+      "text": "Andrew Mountbatten-Windsor became the first member of the British royal family to be arrested in 379 years.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/The_Duke_of_York_in_Belfast_%28cropped_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Duke_of_York_in_Belfast_%28cropped_3%29.jpg/330px-The_Duke_of_York_in_Belfast_%28cropped_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "the_duke_of_york_in_belfast_(cropped_3).jpg",
+        "width": 504,
+        "height": 671,
+        "title": "Andrew Mountbatten-Windsor",
+        "description": "Former British prince (born 1960)",
+        "extract": "Andrew Albert Christian Edward Mountbatten-Windsor, formerly Prince Andrew, Duke of York, is the third child and second son of Queen Elizabeth II and Prince Philip, Duke of Edinburgh, and a younger brother of King Charles III. Andrew was born second in the line of succession to the British throne and is eighth as of 2026.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Andrew_Mountbatten-Windsor",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/The_Duke_of_York_in_Belfast_%28cropped_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Duke_of_York_in_Belfast_%28cropped_3%29.jpg/330px-The_Duke_of_York_in_Belfast_%28cropped_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_duke_of_york_in_belfast_(cropped_3).jpg",
+          "width": 504,
+          "height": 671,
+          "title": "Andrew Mountbatten-Windsor",
+          "description": "Former British prince (born 1960)",
+          "extract": "Andrew Albert Christian Edward Mountbatten-Windsor, formerly Prince Andrew, Duke of York, is the third child and second son of Queen Elizabeth II and Prince Philip, Duke of Edinburgh, and a younger brother of King Charles III. Andrew was born second in the line of succession to the British throne and is eighth as of 2026.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Andrew_Mountbatten-Windsor",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Andrew Mountbatten-Windsor",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Andrew_Mountbatten-Windsor",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-19-2002-efa5ab1a",
+      "year": 2002,
+      "text": "NASA's Mars Odyssey space probe begins to map the surface of Mars using its thermal emission imaging system.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Mars_Odyssey_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mars_Odyssey_spacecraft_model.png/330px-Mars_Odyssey_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mars_odyssey_spacecraft_model.png",
+        "width": 1700,
+        "height": 1100,
+        "title": "2001 Mars Odyssey",
+        "description": "NASA orbiter for geology and hydrology",
+        "extract": "2001 Mars Odyssey is a robotic spacecraft orbiting the planet Mars. The project was developed by NASA, and contracted out to Lockheed Martin, with an expected cost for the entire mission of US$297 million. Its mission is to use spectrometers and a thermal imager to detect evidence of past or present water and ice, as well as study the planet's geology and radiation environment. The data Odyssey obtains is intended to help answer the question of whether life once existed on Mars and create a risk-assessment of the radiation that future astronauts on Mars might experience. It also acts as a relay for communications between the Curiosity rover, and previously the Mars Exploration Rovers and Phoenix lander, to Earth. The mission was named as a tribute to Arthur C. Clarke, evoking the name of his and Stanley Kubrick's 1968 film 2001: A Space Odyssey.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2001_Mars_Odyssey",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Mars_Odyssey_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mars_Odyssey_spacecraft_model.png/330px-Mars_Odyssey_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mars_odyssey_spacecraft_model.png",
+          "width": 1700,
+          "height": 1100,
+          "title": "2001 Mars Odyssey",
+          "description": "NASA orbiter for geology and hydrology",
+          "extract": "2001 Mars Odyssey is a robotic spacecraft orbiting the planet Mars. The project was developed by NASA, and contracted out to Lockheed Martin, with an expected cost for the entire mission of US$297 million. Its mission is to use spectrometers and a thermal imager to detect evidence of past or present water and ice, as well as study the planet's geology and radiation environment. The data Odyssey obtains is intended to help answer the question of whether life once existed on Mars and create a risk-assessment of the radiation that future astronauts on Mars might experience. It also acts as a relay for communications between the Curiosity rover, and previously the Mars Exploration Rovers and Phoenix lander, to Earth. The mission was named as a tribute to Arthur C. Clarke, evoking the name of his and Stanley Kubrick's 1968 film 2001: A Space Odyssey.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2001_Mars_Odyssey",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Progress_M-06M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Progress_M-06M.jpg/330px-Progress_M-06M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "progress_m-06m.jpg",
+          "width": 2100,
+          "height": 1400,
+          "title": "Uncrewed spacecraft",
+          "description": "Spacecraft without people on board",
+          "extract": "Uncrewed spacecraft or robotic spacecraft are spacecraft without people on board. Uncrewed spacecraft may have varying levels of autonomy from human input, such as remote control, or remote guidance. They may also be autonomous, in which they have a pre-programmed list of operations that will be executed unless otherwise instructed. A robotic spacecraft for scientific measurements is often called a space probe or space observatory.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Uncrewed_spacecraft",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mars_-_august_30_2021_-_flickr_-_kevin_m._gill.png",
+          "width": 1558,
+          "height": 1558,
+          "title": "Mars",
+          "description": "Fourth planet from the Sun",
+          "extract": "Mars is the fourth planet from the Sun. It is also known as the \"Red Planet\", for its orange-red appearance. Mars is a desert-like rocky planet with a tenuous atmosphere that is primarily carbon dioxide. At the average surface level the atmospheric pressure is a few thousandths of Earth's, atmospheric temperature ranges from −153 to 20 °C, and cosmic radiation is high. Mars retains some water, in the ground as well as thinly in the atmosphere, forming cirrus clouds, fog, frost, larger polar regions of permafrost and ice caps, but no bodies of liquid surface water. Its surface gravity is roughly a third of Earth's or double that of the Moon. Its mean diameter, 6,779 km (4,212 mi), is about half the Earth's, or twice the Moon's, and its surface area is the size of all the dry land of Earth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-19-1910-ee17a431",
+      "year": 1910,
+      "text": "Old Trafford, a football stadium in Greater Manchester, England, hosted its inaugural match, between Manchester United and Liverpool.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg/3840px-2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg/330px-2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2023_07_31_arne_mueseler_00060-verbessert-rr_(53106651455).jpg",
+        "width": 4995,
+        "height": 3741,
+        "title": "Old Trafford",
+        "description": "Football stadium in Manchester, England",
+        "extract": "Old Trafford is a football stadium in the Old Trafford area of Greater Manchester, England. It is the home ground of Manchester United. With a capacity of 74,158, it is the largest club football stadium in the United Kingdom, and the eleventh-largest in Europe. It is about half a mile from Old Trafford Cricket Ground and the adjacent tram stop.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Old_Trafford",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg/3840px-2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg/330px-2023_07_31_arne_mueseler_00060-Verbessert-RR_%2853106651455%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2023_07_31_arne_mueseler_00060-verbessert-rr_(53106651455).jpg",
+          "width": 4995,
+          "height": 3741,
+          "title": "Old Trafford",
+          "description": "Football stadium in Manchester, England",
+          "extract": "Old Trafford is a football stadium in the Old Trafford area of Greater Manchester, England. It is the home ground of Manchester United. With a capacity of 74,158, it is the largest club football stadium in the United Kingdom, and the eleventh-largest in Europe. It is about half a mile from Old Trafford Cricket Ground and the adjacent tram stop.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Old_Trafford",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/330px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "football_in_bloomington,_indiana,_1995.jpg",
+          "width": 3420,
+          "height": 2328,
+          "title": "Association football",
+          "description": "Team sport played with a ball",
+          "extract": "Association football, commonly known as football or soccer, is a team sport played between two teams of 11 players who mostly use their feet to kick an inflated ball around a pitch.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Association_football",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Tower_Blocks_over_Knott_Mill%2C_geograph_6866152_by_David_Dixon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tower_Blocks_over_Knott_Mill%2C_geograph_6866152_by_David_Dixon.jpg/330px-Tower_Blocks_over_Knott_Mill%2C_geograph_6866152_by_David_Dixon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tower_blocks_over_knott_mill,_geograph_6866152_by_david_dixon.jpg",
+          "width": 1024,
+          "height": 788,
+          "title": "Greater Manchester",
+          "description": "Ceremonial county in North West England",
+          "extract": "Greater Manchester is a metropolitan and ceremonial county in North West England. It borders Lancashire to the north, West Yorkshire and Derbyshire to the east, Cheshire to the south, and Merseyside to the west. Its largest settlement is the city of Manchester.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Greater_Manchester",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Old Trafford",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Old_Trafford",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "02-19-2021-5a0b7298",
+      "year": 2021,
+      "text": "Mya Thwe Thwe Khine, a 19-year-old protester, becomes the first known casualty of anti-coup protests that formed in response to the 2021 Myanmar coup d'état.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/48/Mya_Thwe_Thwe_Khine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/48/Mya_Thwe_Thwe_Khine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "mya_thwe_thwe_khine.jpg",
+        "width": 290,
+        "height": 348,
+        "title": "Killing of Mya Thwe Thwe Khine",
+        "description": "Burmese protester",
+        "extract": "Mya Thwe Thwe Khine was a young Burmese woman who became the first known casualty of the 2021 Myanmar protests, which formed in the aftermath of the 2021 Myanmar coup d'état. Pro-democracy protesters and international groups alike have rallied around her shooting.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Killing_of_Mya_Thwe_Thwe_Khine",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/48/Mya_Thwe_Thwe_Khine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/48/Mya_Thwe_Thwe_Khine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "mya_thwe_thwe_khine.jpg",
+          "width": 290,
+          "height": 348,
+          "title": "Killing of Mya Thwe Thwe Khine",
+          "description": "Burmese protester",
+          "extract": "Mya Thwe Thwe Khine was a young Burmese woman who became the first known casualty of the 2021 Myanmar protests, which formed in the aftermath of the 2021 Myanmar coup d'état. Pro-democracy protesters and international groups alike have rallied around her shooting.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Killing_of_Mya_Thwe_Thwe_Khine",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/2021_Myanmar_Protest_in_Hleden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/2021_Myanmar_Protest_in_Hleden.jpg/330px-2021_Myanmar_Protest_in_Hleden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2021_myanmar_protest_in_hleden.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": "Myanmar protests (2021–present)",
+          "description": "Protests against the February 2021 coup",
+          "extract": "Protests in Myanmar, known locally as the Spring Revolution, began in early 2021 in opposition to the coup d'état on 1 February, staged by Min Aung Hlaing, the commander-in-chief of the country's armed forces, the Tatmadaw. As of 23 June 2022, at least 2000 protesters had been killed, 14,000 arrested and 700,000 displaced by the military junta.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Myanmar_protests_(2021%E2%80%93present)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/c5/2021_Myanmar_coup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/2021_Myanmar_coup.jpg/330px-2021_Myanmar_coup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2021_myanmar_coup.jpg",
+          "width": 419,
+          "height": 238,
+          "title": "2021 Myanmar coup d'état",
+          "description": "2021 military coup in Myanmar",
+          "extract": "A coup d'état in Myanmar began on the morning of 1 February 2021, when democratically elected members of the country's ruling party, the National League for Democracy (NLD), were deposed by the Tatmadaw, Myanmar's military, which then vested power in a military junta. Acting President of Myanmar Myint Swe proclaimed a year-long state of emergency and declared power had been transferred to Commander-in-Chief of Defence Services Senior General Min Aung Hlaing. It declared the results of the November 2020 general election invalid and stated its intent to hold a new election at the end of the state of emergency. The coup d'état occurred the day before the Parliament of Myanmar was to swear in the members elected in the 2020 election, thereby preventing this from occurring.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2021_Myanmar_coup_d'%C3%A9tat",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Killing of Mya Thwe Thwe Khine",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Killing_of_Mya_Thwe_Thwe_Khine",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-19-1986-4b3a9651",
+      "year": 1986,
+      "text": "Akkaraipattu massacre: the Sri Lankan Army massacres 80 Tamil farm workers in eastern Sri Lanka.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Sri_Lanka_Army_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Sri_Lanka_Army_Logo.png/330px-Sri_Lanka_Army_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sri_lanka_army_logo.png",
+        "width": 346,
+        "height": 288,
+        "title": "Sri Lanka Army",
+        "description": "Land force branch of the Sri Lankan armed forces",
+        "extract": "The Sri Lanka Army is the oldest and largest of the Sri Lanka Armed Forces. The army was officially established as the Ceylon Army in 1949, though the army traces its roots back to 1881 when Ceylon Light Infantry Volunteers was created; the army was renamed as the 'Sri Lanka Army' when Sri Lanka became a republic in 1972. In 2024, the Army had approximately 150,000 personnel.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sri_Lanka_Army",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Sri_Lanka_Army_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Sri_Lanka_Army_Logo.png/330px-Sri_Lanka_Army_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sri_lanka_army_logo.png",
+          "width": 346,
+          "height": 288,
+          "title": "Sri Lanka Army",
+          "description": "Land force branch of the Sri Lankan armed forces",
+          "extract": "The Sri Lanka Army is the oldest and largest of the Sri Lanka Armed Forces. The army was officially established as the Ceylon Army in 1949, though the army traces its roots back to 1881 when Ceylon Light Infantry Volunteers was created; the army was renamed as the 'Sri Lanka Army' when Sri Lanka became a republic in 1972. In 2024, the Army had approximately 150,000 personnel.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sri_Lanka_Army",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pongal_Festival.jpg/3840px-Pongal_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pongal_Festival.jpg/330px-Pongal_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pongal_festival.jpg",
+          "width": 4000,
+          "height": 3000,
+          "title": "Tamils",
+          "description": "Dravidian ethnic group",
+          "extract": "The Tamils, also known by their demonym Tamilar, are a Dravidian ethnic group who natively speak the Tamil language and trace their ancestry mainly to the southern part of the Indian subcontinent. Tamil is one of the longest-surviving languages, with over two thousand years of written history, dating back to the Sangam period. Tamils constitute about 5.7% of the Indian population and form the majority in the South Indian state of Tamil Nadu and the union territory of Puducherry. They also form significant proportions of the populations in Sri Lanka (15.3%), Malaysia (7%) and Singapore (5%). Tamils have migrated world-wide since the 19th century CE and a significant population exists in South Africa, Mauritius, Fiji, as well as other regions such as the Southeast Asia, Middle East, Caribbean and parts of the Western World.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tamils",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Akkaraipattu massacre",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Akkaraipattu_massacre",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-19-1985-08a73055",
+      "year": 1985,
+      "text": "William J. Schroeder becomes the first recipient of an artificial heart to leave the hospital.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/CardioWest%E2%84%A2_temporary_Total_Artificial_Heart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CardioWest%E2%84%A2_temporary_Total_Artificial_Heart.jpg/330px-CardioWest%E2%84%A2_temporary_Total_Artificial_Heart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "cardiowest™_temporary_total_artificial_heart.jpg",
+        "width": 2362,
+        "height": 3543,
+        "title": "Artificial heart",
+        "description": "Mechanical device which replaces the heart",
+        "extract": "An artificial heart is a device that replaces the heart. Artificial hearts are typically used as a bridge to heart transplantation, but ongoing research aims to develop a device that could permanently replace the heart when a transplant—whether from a deceased human or, experimentally, from a genetically engineered pig—is unavailable or not viable. As of December 2023, there are two commercially available full artificial heart devices; both are intended for temporary use for patients with total heart failure who are awaiting a human heart transplant.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Artificial_heart",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/CardioWest%E2%84%A2_temporary_Total_Artificial_Heart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CardioWest%E2%84%A2_temporary_Total_Artificial_Heart.jpg/330px-CardioWest%E2%84%A2_temporary_Total_Artificial_Heart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cardiowest™_temporary_total_artificial_heart.jpg",
+          "width": 2362,
+          "height": 3543,
+          "title": "Artificial heart",
+          "description": "Mechanical device which replaces the heart",
+          "extract": "An artificial heart is a device that replaces the heart. Artificial hearts are typically used as a bridge to heart transplantation, but ongoing research aims to develop a device that could permanently replace the heart when a transplant—whether from a deceased human or, experimentally, from a genetically engineered pig—is unavailable or not viable. As of December 2023, there are two commercially available full artificial heart devices; both are intended for temporary use for patients with total heart failure who are awaiting a human heart transplant.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Artificial_heart",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "William J. Schroeder",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/William_J._Schroeder",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-19-1976-daf874fe",
+      "year": 1976,
+      "text": "Executive Order 9066, which led to the relocation of Japanese Americans to internment camps, is rescinded by President Gerald Ford's Proclamation 4417.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Instructions_to_japanese.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Instructions_to_japanese.png/330px-Instructions_to_japanese.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "instructions_to_japanese.png",
+        "width": 492,
+        "height": 600,
+        "title": "Executive Order 9066",
+        "description": "1942 U.S. presidential order for the internment of Japanese-Americans",
+        "extract": "Executive Order 9066 was a United States presidential executive order signed and issued during World War II by United States president Franklin D. Roosevelt on February 19, 1942. According to the National Archives and Records Administration, the order \"authorized the forced removal of all persons deemed a threat to national security\" from the West Coast to inland 'relocation centers'. It resulted in the mass incarceration of Japanese Americans. Two-thirds of the 125,000 people displaced were U.S. citizens.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Executive_Order_9066",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Instructions_to_japanese.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Instructions_to_japanese.png/330px-Instructions_to_japanese.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "instructions_to_japanese.png",
+          "width": 492,
+          "height": 600,
+          "title": "Executive Order 9066",
+          "description": "1942 U.S. presidential order for the internment of Japanese-Americans",
+          "extract": "Executive Order 9066 was a United States presidential executive order signed and issued during World War II by United States president Franklin D. Roosevelt on February 19, 1942. According to the National Archives and Records Administration, the order \"authorized the forced removal of all persons deemed a threat to national security\" from the West Coast to inland 'relocation centers'. It resulted in the mass incarceration of Japanese Americans. Two-thirds of the 125,000 people displaced were U.S. citizens.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Executive_Order_9066",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg/330px-Gerald_Ford_presidential_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gerald_ford_presidential_portrait_(cropped).jpg",
+          "width": 2200,
+          "height": 2741,
+          "title": "Gerald Ford",
+          "description": "President of the United States from 1974 to 1977",
+          "extract": "Gerald Rudolph Ford Jr. was the 38th president of the United States, serving from 1974 to 1977. He assumed the presidency after the resignation of Richard Nixon, under whom he served as the 40th vice president from 1973 to 1974 after the resignation of Spiro Agnew. A member of the Republican Party, Ford previously served in the United States House of Representatives from 1949 to 1973.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gerald_Ford",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Japanese-American_owned_grocery_store%2C_Oakland%2C_California%2C_March_1942_-_3a24566v.jpg/500px-Japanese-American_owned_grocery_store%2C_Oakland%2C_California%2C_March_1942_-_3a24566v.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Japanese-American_owned_grocery_store%2C_Oakland%2C_California%2C_March_1942_-_3a24566v.jpg/500px-Japanese-American_owned_grocery_store%2C_Oakland%2C_California%2C_March_1942_-_3a24566v.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "japanese-american_owned_grocery_store,_oakland,_california,_march_1942_-_3a24566v.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A Japanese-American owned grocery store, Oakland, California, March 1942",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Executive_Order_9066",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Executive Order 9066",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Executive_Order_9066",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-19-1965-835180ca",
+      "year": 1965,
+      "text": "Colonel Phạm Ngọc Thảo of the Army of the Republic of Vietnam, along with Generals Lâm Văn Phát and Trần Thiện Khiêm attempted a coup against the military junta of Nguyễn Khánh.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 55,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Ph%E1%BA%A1m_Ng%E1%BB%8Dc_Th%E1%BA%A3o_%281922%E2%80%931965%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ph%E1%BA%A1m_Ng%E1%BB%8Dc_Th%E1%BA%A3o_%281922%E2%80%931965%29.png/330px-Ph%E1%BA%A1m_Ng%E1%BB%8Dc_Th%E1%BA%A3o_%281922%E2%80%931965%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "phạm_ngọc_thảo_(1922–1965).png",
+        "width": 1488,
+        "height": 2116,
+        "title": "Phạm Ngọc Thảo",
+        "description": "North Vietnamese spy (1922–1965)",
+        "extract": "Phạm Ngọc Thảo, also known as Albert Thảo, was a Vietnamese military officer and spy. He was a sleeper agent of the Việt Minh who infiltrated the Army of the Republic of Vietnam (ARVN) and also became a major provincial leader in South Vietnam. In 1962, he was made overseer of Ngô Đình Nhu's Strategic Hamlet Program in South Vietnam and deliberately forced it forward at an unsustainable speed, causing the production of poorly equipped and poorly defended villages and the growth of rural resentment toward the regime of President Ngô Đình Diệm, Nhu's elder brother. In light of the failed land reform efforts in North Vietnam, the Hanoi government welcomed Thao's efforts to undermine Diem.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Ng%E1%BB%8Dc_Th%E1%BA%A3o",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Ph%E1%BA%A1m_Ng%E1%BB%8Dc_Th%E1%BA%A3o_%281922%E2%80%931965%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ph%E1%BA%A1m_Ng%E1%BB%8Dc_Th%E1%BA%A3o_%281922%E2%80%931965%29.png/330px-Ph%E1%BA%A1m_Ng%E1%BB%8Dc_Th%E1%BA%A3o_%281922%E2%80%931965%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "phạm_ngọc_thảo_(1922–1965).png",
+          "width": 1488,
+          "height": 2116,
+          "title": "Phạm Ngọc Thảo",
+          "description": "North Vietnamese spy (1922–1965)",
+          "extract": "Phạm Ngọc Thảo, also known as Albert Thảo, was a Vietnamese military officer and spy. He was a sleeper agent of the Việt Minh who infiltrated the Army of the Republic of Vietnam (ARVN) and also became a major provincial leader in South Vietnam. In 1962, he was made overseer of Ngô Đình Nhu's Strategic Hamlet Program in South Vietnam and deliberately forced it forward at an unsustainable speed, causing the production of poorly equipped and poorly defended villages and the growth of rural resentment toward the regime of President Ngô Đình Diệm, Nhu's elder brother. In light of the failed land reform efforts in North Vietnam, the Hanoi government welcomed Thao's efforts to undermine Diem.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Ng%E1%BB%8Dc_Th%E1%BA%A3o",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cgs_lamvanphat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cgs_lamvanphat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "cgs_lamvanphat.jpg",
+          "width": 161,
+          "height": 230,
+          "title": "Lâm Văn Phát",
+          "description": "20th-century South Vietnamese commander",
+          "extract": "Lâm Văn Phát was a Major general in the South Vietnamese Army of the Republic of Vietnam (ARVN). He is best known for leading two coup attempts against General Nguyễn Khánh in September 1964 and February 1965. Although both failed to result in his taking power, the latter caused enough instability that it forced Khánh to resign and go into exile.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/L%C3%A2m_V%C4%83n_Ph%C3%A1t",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/%E8%B6%8A%E5%8D%97%E9%A7%90%E8%8F%AF%E5%A4%A7%E4%BD%BF%E9%99%B3%E5%96%84%E8%AC%99_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/%E8%B6%8A%E5%8D%97%E9%A7%90%E8%8F%AF%E5%A4%A7%E4%BD%BF%E9%99%B3%E5%96%84%E8%AC%99_%28cropped%29.jpg/330px-%E8%B6%8A%E5%8D%97%E9%A7%90%E8%8F%AF%E5%A4%A7%E4%BD%BF%E9%99%B3%E5%96%84%E8%AC%99_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "越南駐華大使陳善謙_(cropped).jpg",
+          "width": 928,
+          "height": 1356,
+          "title": "Trần Thiện Khiêm",
+          "description": "Prime Minister of South Vietnam from 1969 to 1975",
+          "extract": "Trần Thiện Khiêm was a South Vietnamese soldier and politician, who served as a General in the Army of the Republic of Vietnam (ARVN) during the Vietnam War. He was born in Saigon, Cochinchina, French Indochina. During the 1960s, he was involved in several coups. He helped President Ngô Đình Diệm put down a November 1960 coup attempt and was rewarded with a promotion. In 1963, however, he was involved in the coup that deposed and assassinated Diêm.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_Thi%E1%BB%87n_Khi%C3%AAm",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Phạm Ngọc Thảo",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ph%E1%BA%A1m_Ng%E1%BB%8Dc_Th%E1%BA%A3o",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "02-19-1963-85ff7e47",
+      "year": 1963,
+      "text": "Betty Friedan's The Feminine Mystique, a non-fiction book credited with sparking the beginning of second-wave feminism in the United States, was first published.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 55,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Betty_Friedan_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Betty_Friedan_1960.jpg/330px-Betty_Friedan_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "betty_friedan_1960.jpg",
+        "width": 2884,
+        "height": 3695,
+        "title": "Betty Friedan",
+        "description": "American feminist writer and activist (1921–2006)",
+        "extract": "Betty Friedan was an American feminist writer and activist. A leading figure in the women's movement in the United States, her 1963 book The Feminine Mystique is often credited with sparking the second wave of American feminism in the 20th century. In 1966, Friedan co-founded and was elected the first president of the National Organization for Women (NOW), which aimed to bring women \"into the mainstream of American society now [in] fully equal partnership with men.\"",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Betty_Friedan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Betty_Friedan_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Betty_Friedan_1960.jpg/330px-Betty_Friedan_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "betty_friedan_1960.jpg",
+          "width": 2884,
+          "height": 3695,
+          "title": "Betty Friedan",
+          "description": "American feminist writer and activist (1921–2006)",
+          "extract": "Betty Friedan was an American feminist writer and activist. A leading figure in the women's movement in the United States, her 1963 book The Feminine Mystique is often credited with sparking the second wave of American feminism in the 20th century. In 1966, Friedan co-founded and was elected the first president of the National Organization for Women (NOW), which aimed to bring women \"into the mainstream of American society now [in] fully equal partnership with men.\"",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Betty_Friedan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/8f/The_Feminine_Mystique.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/The_Feminine_Mystique.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "the_feminine_mystique.jpg",
+          "width": 263,
+          "height": 386,
+          "title": "The Feminine Mystique",
+          "description": "1963 book by Betty Friedan",
+          "extract": "The Feminine Mystique is a book by American author Betty Friedan, widely credited with sparking second-wave feminism in the United States. First published by W. W. Norton on February 19, 1963, The Feminine Mystique became a bestseller, initially selling over a million copies. Friedan used the book to challenge the widely shared belief that \"fulfillment as a woman had only one definition for American women after 1949—the housewife-mother.\"",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Feminine_Mystique",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Betty_friedan_%C2%A9Lynn_Gilbert.jpg/1280px-Betty_friedan_%C2%A9Lynn_Gilbert.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Betty_friedan_%C2%A9Lynn_Gilbert.jpg/1280px-Betty_friedan_%C2%A9Lynn_Gilbert.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "betty_friedan_©lynn_gilbert.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Betty Friedan photographed by Lynn Gilbert, 1981",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Betty_Friedan",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Betty Friedan",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Betty_Friedan",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-19-1960-6d2e68d5",
+      "year": 1960,
+      "text": "China successfully launches the T-7, its first sounding rocket.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 55,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zhongguo_Diyimei_Zixing_Sheji_Zhizaode_Shiyan_Tankong_Huojian_T-7M_Fashechang_Yizhi.jpg/3840px-Zhongguo_Diyimei_Zixing_Sheji_Zhizaode_Shiyan_Tankong_Huojian_T-7M_Fashechang_Yizhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zhongguo_Diyimei_Zixing_Sheji_Zhizaode_Shiyan_Tankong_Huojian_T-7M_Fashechang_Yizhi.jpg/330px-Zhongguo_Diyimei_Zixing_Sheji_Zhizaode_Shiyan_Tankong_Huojian_T-7M_Fashechang_Yizhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "zhongguo_diyimei_zixing_sheji_zhizaode_shiyan_tankong_huojian_t-7m_fashechang_yizhi.jpg",
+        "width": 4032,
+        "height": 3024,
+        "title": "T-7 (rocket)",
+        "description": "China's first sounding rocket",
+        "extract": "The T-7 was China's first sounding rocket. A test rocket, dubbed the T-7M, was first successfully launched on 19 February 1960 in Nanhui, Shanghai, and a full-scale rocket was launched on 13 September 1960. Wang Xiji of the Shanghai Institute of Mechanical and Electrical Engineering was the chief designer. Twenty-four T-7 rockets were launched between 1960 and 1965, and it was retired after a final launch in 1969.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/T-7_(rocket)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zhongguo_Diyimei_Zixing_Sheji_Zhizaode_Shiyan_Tankong_Huojian_T-7M_Fashechang_Yizhi.jpg/3840px-Zhongguo_Diyimei_Zixing_Sheji_Zhizaode_Shiyan_Tankong_Huojian_T-7M_Fashechang_Yizhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Zhongguo_Diyimei_Zixing_Sheji_Zhizaode_Shiyan_Tankong_Huojian_T-7M_Fashechang_Yizhi.jpg/330px-Zhongguo_Diyimei_Zixing_Sheji_Zhizaode_Shiyan_Tankong_Huojian_T-7M_Fashechang_Yizhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "zhongguo_diyimei_zixing_sheji_zhizaode_shiyan_tankong_huojian_t-7m_fashechang_yizhi.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": "T-7 (rocket)",
+          "description": "China's first sounding rocket",
+          "extract": "The T-7 was China's first sounding rocket. A test rocket, dubbed the T-7M, was first successfully launched on 19 February 1960 in Nanhui, Shanghai, and a full-scale rocket was launched on 13 September 1960. Wang Xiji of the Shanghai Institute of Mechanical and Electrical Engineering was the chief designer. Twenty-four T-7 rockets were launched between 1960 and 1965, and it was retired after a final launch in 1969.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/T-7_(rocket)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Black_Brant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Black_Brant.jpg/330px-Black_Brant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "black_brant.jpg",
+          "width": 942,
+          "height": 1183,
+          "title": "Sounding rocket",
+          "description": "Rocket designed to take measurements during its flight",
+          "extract": "A sounding rocket or rocketsonde, sometimes called a research rocket or a suborbital rocket, is an instrument-carrying rocket designed to take measurements and perform scientific experiments during its sub-orbital flight. The rockets are often used to launch instruments from 50 to 150 km above the surface of the Earth, the altitude generally between weather balloons and satellites; the maximum altitude for balloons is about 40 km (25 mi), and the minimum for satellites is approximately 120 km (75 mi).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sounding_rocket",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/T-7M%281%29.jpg/500px-T-7M%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/T-7M%281%29.jpg/500px-T-7M%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "t-7m(1).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "T-7M is shown to Chairman Mao Zedong, 28 May 1960",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/T-7_(rocket)",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "T-7 (rocket)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/T-7_(rocket)",
+      "relatedPagesCount": 2
+    }
+  ]
+}

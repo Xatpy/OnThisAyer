@@ -1,0 +1,619 @@
+{
+  "date": {
+    "month": 4,
+    "day": 20,
+    "formatted": "04-20"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "04-20-2023-d5ade92f",
+      "year": 2023,
+      "text": "SpaceX's Starship launched for the first time before exploding four minutes into flight.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Starship_-_Flight_13_%28Sunset%29.jpg/3840px-Starship_-_Flight_13_%28Sunset%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Starship_-_Flight_13_%28Sunset%29.jpg/330px-Starship_-_Flight_13_%28Sunset%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "starship_-_flight_13_(sunset).jpg",
+        "width": 4096,
+        "height": 2304,
+        "title": "SpaceX",
+        "description": "American spaceflight and AI company",
+        "extract": "Space Exploration Technologies Corp., doing business as SpaceX, is an American aerospace manufacturer and provider of space transportation, telecommunications, and artificial intelligence services, headquartered at the Starbase development site in Starbase, Texas. The company operates three primary segments: Space, which develops and flies the Falcon 9, Falcon Heavy, and Starship launch vehicles, as well as the Dragon spacecraft, and conducts more orbital launches annually than any other launch provider ; Connectivity, which operates the Starlink satellite constellation and satellite-based high-speed broadband internet service; and AI, conducted through its wholly owned subsidiary SpaceXAI, which develops the Grok family of large language models (LLMs) and related products, operates the social network X, and builds and runs large-scale data centers.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/SpaceX",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Starship_-_Flight_13_%28Sunset%29.jpg/3840px-Starship_-_Flight_13_%28Sunset%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Starship_-_Flight_13_%28Sunset%29.jpg/330px-Starship_-_Flight_13_%28Sunset%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "starship_-_flight_13_(sunset).jpg",
+          "width": 4096,
+          "height": 2304,
+          "title": "SpaceX",
+          "description": "American spaceflight and AI company",
+          "extract": "Space Exploration Technologies Corp., doing business as SpaceX, is an American aerospace manufacturer and provider of space transportation, telecommunications, and artificial intelligence services, headquartered at the Starbase development site in Starbase, Texas. The company operates three primary segments: Space, which develops and flies the Falcon 9, Falcon Heavy, and Starship launch vehicles, as well as the Dragon spacecraft, and conducts more orbital launches annually than any other launch provider ; Connectivity, which operates the Starlink satellite constellation and satellite-based high-speed broadband internet service; and AI, conducted through its wholly owned subsidiary SpaceXAI, which develops the Grok family of large language models (LLMs) and related products, operates the social network X, and builds and runs large-scale data centers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/SpaceX",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Elon_Musk_%283x4_close_cropped%29.jpg/1280px-Elon_Musk_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Elon_Musk_%283x4_close_cropped%29.jpg/1280px-Elon_Musk_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "elon_musk_(3x4_close_cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Elon_Musk_(3x4_close_cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/SpaceX",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "SpaceX",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/SpaceX",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-20-1972-2ae473e7",
+      "year": 1972,
+      "text": "Apollo program: The Apollo 16 Lunar Module Orion, commanded by John Young and piloted by Charles Duke, lands on the Moon.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/John_W._Young_on_the_Moon.jpg/3840px-John_W._Young_on_the_Moon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/John_W._Young_on_the_Moon.jpg/330px-John_W._Young_on_the_Moon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "john_w._young_on_the_moon.jpg",
+        "width": 3928,
+        "height": 3928,
+        "title": "Apollo 16",
+        "description": "Fifth crewed Moon landing",
+        "extract": "Apollo 16 was the tenth crewed mission in the United States Apollo space program, administered by NASA, and the fifth and penultimate to land on the Moon. It was the second of Apollo's \"J missions\", with an extended stay on the lunar surface, a focus on science, and the use of the Lunar Roving Vehicle (LRV). The landing and exploration were in the Descartes Highlands, a site chosen because some scientists expected it to be an area formed by volcanic action, though this proved not to be the case.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_16",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/John_W._Young_on_the_Moon.jpg/3840px-John_W._Young_on_the_Moon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/John_W._Young_on_the_Moon.jpg/330px-John_W._Young_on_the_Moon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "john_w._young_on_the_moon.jpg",
+          "width": 3928,
+          "height": 3928,
+          "title": "Apollo 16",
+          "description": "Fifth crewed Moon landing",
+          "extract": "Apollo 16 was the tenth crewed mission in the United States Apollo space program, administered by NASA, and the fifth and penultimate to land on the Moon. It was the second of Apollo's \"J missions\", with an extended stay on the lunar surface, a focus on science, and the use of the Lunar Roving Vehicle (LRV). The landing and exploration were in the Descartes Highlands, a site chosen because some scientists expected it to be an area formed by volcanic action, though this proved not to be the case.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_16",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apollo_14_Lunar_Module_%28LM%29_on_the_moon.jpg/3840px-Apollo_14_Lunar_Module_%28LM%29_on_the_moon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apollo_14_Lunar_Module_%28LM%29_on_the_moon.jpg/330px-Apollo_14_Lunar_Module_%28LM%29_on_the_moon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "apollo_14_lunar_module_(lm)_on_the_moon.jpg",
+          "width": 3892,
+          "height": 3892,
+          "title": "Apollo Lunar Module",
+          "description": "NASA crewed Moon landing spacecraft (1969–1972)",
+          "extract": "The Apollo Lunar Module, originally designated the Lunar Excursion Module (LEM), was the lunar lander spacecraft that was flown between lunar orbit and the Moon's surface during the United States' Apollo program. It was the first crewed spacecraft to operate exclusively in space, and remains the only crewed vehicle to land anywhere beyond Earth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_Lunar_Module",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/John_Watts_Young.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/John_Watts_Young.jpg/330px-John_Watts_Young.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "john_watts_young.jpg",
+          "width": 2400,
+          "height": 3000,
+          "title": "John Young (astronaut)",
+          "description": "American astronaut and lunar explorer (1930–2018)",
+          "extract": "John Watts Young was an American astronaut, naval officer and aviator, test pilot, and aeronautical engineer. He became the ninth person to walk on the Moon as commander of the Apollo 16 mission in 1972.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_Young_(astronaut)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Apollo program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Apollo_program",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "04-20-2007-530b54b5",
+      "year": 2007,
+      "text": "Johnson Space Center shooting: William Phillips barricades himself with a handgun in NASA's Johnson Space Center in Houston, Texas, before killing a male hostage and himself.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Aerial_View_of_the_Johnson_Space_Center_-_GPN-2000-001112.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Aerial_View_of_the_Johnson_Space_Center_-_GPN-2000-001112.jpg/330px-Aerial_View_of_the_Johnson_Space_Center_-_GPN-2000-001112.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "aerial_view_of_the_johnson_space_center_-_gpn-2000-001112.jpg",
+        "width": 3000,
+        "height": 3000,
+        "title": "Johnson Space Center shooting",
+        "description": "2007 hostage situation and shooting in Houston, Texas",
+        "extract": "The Johnson Space Center shooting was an incident of hostage taking that occurred on April 20, 2007, in Building 44, the Communication and Tracking Development Laboratory, at the Lyndon B. Johnson Space Center (JSC) in Houston, Texas, United States. The gunman, William Phillips, an employee for Jacobs Engineering who worked at Building 44, shot and killed one person and took a hostage for over three hours before committing suicide. Police said Phillips was under review for poor job performance and he feared being dismissed.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Johnson_Space_Center_shooting",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Aerial_View_of_the_Johnson_Space_Center_-_GPN-2000-001112.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Aerial_View_of_the_Johnson_Space_Center_-_GPN-2000-001112.jpg/330px-Aerial_View_of_the_Johnson_Space_Center_-_GPN-2000-001112.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aerial_view_of_the_johnson_space_center_-_gpn-2000-001112.jpg",
+          "width": 3000,
+          "height": 3000,
+          "title": "Johnson Space Center shooting",
+          "description": "2007 hostage situation and shooting in Houston, Texas",
+          "extract": "The Johnson Space Center shooting was an incident of hostage taking that occurred on April 20, 2007, in Building 44, the Communication and Tracking Development Laboratory, at the Lyndon B. Johnson Space Center (JSC) in Houston, Texas, United States. The gunman, William Phillips, an employee for Jacobs Engineering who worked at Building 44, shot and killed one person and took a hostage for over three hours before committing suicide. Police said Phillips was under review for poor job performance and he feared being dismissed.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Johnson_Space_Center_shooting",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Handgun_collection.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Handgun_collection.JPG/330px-Handgun_collection.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "handgun_collection.jpg",
+          "width": 540,
+          "height": 364,
+          "title": "Handgun",
+          "description": "Short-barreled firearm designed to be operated with one hand",
+          "extract": "A handgun is a firearm designed to be usable with only one hand. It is distinguished from a long gun which typically is intended to be held by both hands and braced against the shoulder. Handguns have shorter effective ranges compared to long guns, lack stocks, and are much harder to shoot accurately. While most early handguns were single-shot pistols, following the mass production of the Colt Paterson revolver starting in 1836, most handguns today are revolvers and semi-automatic pistols.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Handgun",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Texas_medical_center.jpg/3840px-Texas_medical_center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Texas_medical_center.jpg/330px-Texas_medical_center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "texas_medical_center.jpg",
+          "width": 4592,
+          "height": 3056,
+          "title": "Houston",
+          "description": "Largest city in Texas, United States",
+          "extract": "Houston is the most populous city in the U.S. state of Texas and the Southern United States. It is the fourth-most populous city in the United States, with a population of 2.3 million at the 2020 census. The Greater Houston metropolitan area, at 7.8 million residents, is the fifth-most populous metropolitan area in the nation and second-most populous in Texas. Located in Southeast Texas near Galveston Bay and the Gulf of Mexico, Houston is the county seat of Harris County. Covering a total area of 640.4 square miles (1,659 km2), it is the ninth largest city in the country and the largest whose municipal government is not consolidated with a county, parish, or borough. Although primarily located within Harris County, portions of the city extend into Fort Bend and Montgomery counties. Houston also functions as the southeastern anchor of the Texas Triangle megaregion.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Houston",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Johnson Space Center shooting",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Johnson_Space_Center_shooting",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "04-20-1978-1c5722ce",
+      "year": 1978,
+      "text": "Korean Air Lines Flight 902 was shot down after violating Soviet airspace and was forced to make an emergency landing.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Korean_Air_Lines_902_on_land.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Korean_Air_Lines_902_on_land.jpg/330px-Korean_Air_Lines_902_on_land.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "korean_air_lines_902_on_land.jpg",
+        "width": 373,
+        "height": 266,
+        "title": "Korean Air Lines Flight 902",
+        "description": "1978 aircraft shootdown over the Soviet Union",
+        "extract": "Korean Air Lines Flight 902 was a scheduled Korean Air Lines flight from Paris to Seoul via Anchorage. On 20 April 1978, the Soviet air defense shot down the aircraft serving the flight, a Boeing 707, near Murmansk, Soviet Union, after the aircraft violated Soviet airspace.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_902",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/4c/Korean_Air_Lines_902_on_land.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Korean_Air_Lines_902_on_land.jpg/330px-Korean_Air_Lines_902_on_land.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "korean_air_lines_902_on_land.jpg",
+          "width": 373,
+          "height": 266,
+          "title": "Korean Air Lines Flight 902",
+          "description": "1978 aircraft shootdown over the Soviet Union",
+          "extract": "Korean Air Lines Flight 902 was a scheduled Korean Air Lines flight from Paris to Seoul via Anchorage. On 20 April 1978, the Soviet air defense shot down the aircraft serving the flight, a Boeing 707, near Murmansk, Soviet Union, after the aircraft violated Soviet airspace.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_902",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/HL7429_Boeing_707-321B%2C_Osaka_Itami_1977.jpg/1280px-HL7429_Boeing_707-321B%2C_Osaka_Itami_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/HL7429_Boeing_707-321B%2C_Osaka_Itami_1977.jpg/1280px-HL7429_Boeing_707-321B%2C_Osaka_Itami_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "hl7429_boeing_707-321b,_osaka_itami_1977.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "HL7429_Boeing_707-321B,_Osaka_Itami_1977",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_902",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Korean Air Lines Flight 902",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_902",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "04-20-1752-a37b4e45",
+      "year": 1752,
+      "text": "Start of Konbaung–Hanthawaddy War, a new phase in the Burmese Civil War (1740–57).",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Konbaung-hanthawaddy-war-1755-1757.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Konbaung-hanthawaddy-war-1755-1757.png/330px-Konbaung-hanthawaddy-war-1755-1757.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "konbaung-hanthawaddy-war-1755-1757.png",
+        "width": 513,
+        "height": 467,
+        "title": "Konbaung–Hanthawaddy War",
+        "description": "Conflict between states of Burma (Myanmar) from 1752–57",
+        "extract": "The Konbaung–Hanthawaddy War was the war fought between the Konbaung Dynasty and the Restored Hanthawaddy Kingdom of Burma (Myanmar) from 1752 to 1757. The war was the last of several wars between the Burmese-speaking north and the Mon-speaking south that ended the Mon people's centuries-long dominance of the south.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Konbaung%E2%80%93Hanthawaddy_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Konbaung-hanthawaddy-war-1755-1757.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Konbaung-hanthawaddy-war-1755-1757.png/330px-Konbaung-hanthawaddy-war-1755-1757.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "konbaung-hanthawaddy-war-1755-1757.png",
+          "width": 513,
+          "height": 467,
+          "title": "Konbaung–Hanthawaddy War",
+          "description": "Conflict between states of Burma (Myanmar) from 1752–57",
+          "extract": "The Konbaung–Hanthawaddy War was the war fought between the Konbaung Dynasty and the Restored Hanthawaddy Kingdom of Burma (Myanmar) from 1752 to 1757. The war was the last of several wars between the Burmese-speaking north and the Mon-speaking south that ended the Mon people's centuries-long dominance of the south.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Konbaung%E2%80%93Hanthawaddy_War",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Konbaung–Hanthawaddy War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Konbaung%E2%80%93Hanthawaddy_War",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "04-20-1152-92ce16cb",
+      "year": 1152,
+      "text": "After an eight-year conflict, Baldwin III of Jerusalem wins sole control of the Kingdom of Jerusalem from his mother Melisende.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Baudouin_III_apprenant_la_nouvelle_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Baudouin_III_apprenant_la_nouvelle_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "baudouin_iii_apprenant_la_nouvelle_(cropped).jpg",
+        "width": 301,
+        "height": 447,
+        "title": "Baldwin III of Jerusalem",
+        "description": "King of Jerusalem from 1143 to 1163",
+        "extract": "Baldwin III was the king of Jerusalem from 1143 until his death. Although he only took up sole rule in 1152 and died young, he was the longest-reigning of the 12th-century kings of Jerusalem. He expanded the borders of the kingdom, paved the way for the later kings' attempts to conquer Egypt, and acted as the defender of the other crusader states in the Levant.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_III_of_Jerusalem",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Baudouin_III_apprenant_la_nouvelle_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Baudouin_III_apprenant_la_nouvelle_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "baudouin_iii_apprenant_la_nouvelle_(cropped).jpg",
+          "width": 301,
+          "height": 447,
+          "title": "Baldwin III of Jerusalem",
+          "description": "King of Jerusalem from 1143 to 1163",
+          "extract": "Baldwin III was the king of Jerusalem from 1143 until his death. Although he only took up sole rule in 1152 and died young, he was the longest-reigning of the 12th-century kings of Jerusalem. He expanded the borders of the kingdom, paved the way for the later kings' attempts to conquer Egypt, and acted as the defender of the other crusader states in the Levant.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_III_of_Jerusalem",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Coronation_of_Melisende.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Coronation_of_Melisende.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "coronation_of_melisende.jpg",
+          "width": 317,
+          "height": 430,
+          "title": "Melisende of Jerusalem",
+          "description": "Crusader ruler from 1131 to 1152",
+          "extract": "Melisende was the queen of Jerusalem from 1131 to 1152. She was the first female ruler of the Kingdom of Jerusalem and the first woman to hold a public office in the crusader kingdom. Her fame grew in her lifetime for her generous support of the various Christian communities in her kingdom. Contemporary chronicler William of Tyre praised her wisdom and abilities, while modern historians differ in their assessment.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Melisende_of_Jerusalem",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Baldwin_II%2C_Fulk%2C_and_Melisende.jpg/500px-Baldwin_II%2C_Fulk%2C_and_Melisende.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Baldwin_II%2C_Fulk%2C_and_Melisende.jpg/500px-Baldwin_II%2C_Fulk%2C_and_Melisende.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "baldwin_ii,_fulk,_and_melisende.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "On his deathbed, Baldwin II conferred the kingdom on Fulk, Melisende, and Baldwin III.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Baldwin_III_of_Jerusalem",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Baldwin III of Jerusalem",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Baldwin_III_of_Jerusalem",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-20-1961-8287a6af",
+      "year": 1961,
+      "text": "Cold War: Failure of the Bay of Pigs Invasion of US-backed Cuban exiles against Cuba.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Attack_near_Playa_Giron._April_19%2C_1961._-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Attack_near_Playa_Giron._April_19%2C_1961._-_panoramio.jpg/330px-Attack_near_Playa_Giron._April_19%2C_1961._-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "attack_near_playa_giron._april_19,_1961._-_panoramio.jpg",
+        "width": 1024,
+        "height": 693,
+        "title": "Bay of Pigs Invasion",
+        "description": "1961 failed landing operation of Cuba",
+        "extract": "The Bay of Pigs Invasion, also known as Playa Girón in Cuba, after the beach where the battle took place, was a failed military landing operation on the southwestern coast of Cuba in April 1961 by the United States and the Cuban Democratic Revolutionary Front (DRF), consisting of Cuban exiles who opposed Fidel Castro's Cuban Revolution, clandestinely and directly financed by the U.S. government. The operation took place at the height of the Cold War, and its failure influenced relations between Cuba, the United States, and the Soviet Union.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Attack_near_Playa_Giron._April_19%2C_1961._-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Attack_near_Playa_Giron._April_19%2C_1961._-_panoramio.jpg/330px-Attack_near_Playa_Giron._April_19%2C_1961._-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "attack_near_playa_giron._april_19,_1961._-_panoramio.jpg",
+          "width": 1024,
+          "height": 693,
+          "title": "Bay of Pigs Invasion",
+          "description": "1961 failed landing operation of Cuba",
+          "extract": "The Bay of Pigs Invasion, also known as Playa Girón in Cuba, after the beach where the battle took place, was a failed military landing operation on the southwestern coast of Cuba in April 1961 by the United States and the Cuban Democratic Revolutionary Front (DRF), consisting of Cuban exiles who opposed Fidel Castro's Cuban Revolution, clandestinely and directly financed by the U.S. government. The operation took place at the height of the Cold War, and its failure influenced relations between Cuba, the United States, and the Soviet Union.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cold War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-20-1949-1cdc595a",
+      "year": 1949,
+      "text": "Amethyst incident: The People's Liberation Army attacks HMS Amethyst (F116) travelling to the British embassy in Nanjing during the Chinese Civil War.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/HMS_Amethyst_WWII_IWM_A_30156.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/HMS_Amethyst_WWII_IWM_A_30156.jpg/330px-HMS_Amethyst_WWII_IWM_A_30156.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hms_amethyst_wwii_iwm_a_30156.jpg",
+        "width": 800,
+        "height": 602,
+        "title": "Amethyst incident",
+        "description": "Chinese civil war incident",
+        "extract": "The Amethyst incident, also known as the Yangtze incident, was a historic event that occurred on the Yangtze River for three months in the summer of 1949, during the late phase of the Chinese Civil War. The incident involved the Communist People's Liberation Army (PLA), who were in the process of a river-crossing offensive to overthrow the Nationalist Government, and four British Royal Navy ships HMS Amethyst, HMS Black Swan, HMS Consort and HMS London. The British warships, whose claimed right of passage along the Yangtze had been unchallenged previously since the 1858 Treaty of Tientsin with the late Qing dynasty, came under bombardment by PLA artillery and were forced to withdraw permanently from Chinese territorial waters.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Amethyst_incident",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/HMS_Amethyst_WWII_IWM_A_30156.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/HMS_Amethyst_WWII_IWM_A_30156.jpg/330px-HMS_Amethyst_WWII_IWM_A_30156.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hms_amethyst_wwii_iwm_a_30156.jpg",
+          "width": 800,
+          "height": 602,
+          "title": "Amethyst incident",
+          "description": "Chinese civil war incident",
+          "extract": "The Amethyst incident, also known as the Yangtze incident, was a historic event that occurred on the Yangtze River for three months in the summer of 1949, during the late phase of the Chinese Civil War. The incident involved the Communist People's Liberation Army (PLA), who were in the process of a river-crossing offensive to overthrow the Nationalist Government, and four British Royal Navy ships HMS Amethyst, HMS Black Swan, HMS Consort and HMS London. The British warships, whose claimed right of passage along the Yangtze had been unchallenged previously since the 1858 Treaty of Tientsin with the late Qing dynasty, came under bombardment by PLA artillery and were forced to withdraw permanently from Chinese territorial waters.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Amethyst_incident",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Nanjing_CBD_from_City_Wall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nanjing_CBD_from_City_Wall.jpg/330px-Nanjing_CBD_from_City_Wall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nanjing_cbd_from_city_wall.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": "Nanjing",
+          "description": "Capital of Jiangsu, China",
+          "extract": "Nanjing is the capital of Jiangsu, East China. The city, which is located in the southwestern corner of the province, has 11 districts, an administrative area of 6,600 square kilometres (2,500 sq mi), and as of 2021 a population of 9,423,400.\nSituated in the Yangtze River Delta, Nanjing has a prominent place in Chinese history and culture, having served as the capital of various Chinese dynasties, kingdoms and republican governments dating from the 3rd century to 1949, and has thus long been a major center of culture, education, research, politics, economy, transport networks and tourism, being home to one of the world's largest inland ports. The city is also one of the fifteen sub-provincial cities in the People's Republic of China's administrative structure, enjoying jurisdictional and economic autonomy only slightly less than that of a province. It has also been awarded the title of 2008 Habitat Scroll of Honor of China, Special UN Habitat Scroll of Honor Award and National Civilized City. Nanjing is also considered a Beta city classification, together with Chongqing, Hangzhou and Tianjin by the Globalization and World Cities Research Network, and ranked as one of the world's top 100 cities in the Global Financial Centres Index.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nanjing",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Battle_of_Siping03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Battle_of_Siping03.jpg/330px-Battle_of_Siping03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "battle_of_siping03.jpg",
+          "width": 572,
+          "height": 284,
+          "title": "Chinese Civil War",
+          "description": "1927–1949 civil war in China",
+          "extract": "The Chinese Civil War was fought between the government of the Republic of China (ROC), led by the Kuomintang (KMT), and the Chinese Communist Party (CCP). Armed conflict continued intermittently from 1 August 1927 until Communist victory that led to the Kuomintang's retreat to Taiwan on 7 December 1949.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chinese_Civil_War",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Amethyst incident",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Amethyst_incident",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "04-20-2020-5ef8c7c8",
+      "year": 2020,
+      "text": "For the first time in history, oil prices drop below zero, an effect of the 2020 Russia-Saudi Arabia oil price war.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Oil_price_benchmarks.webp/3840px-Oil_price_benchmarks.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Oil_price_benchmarks.webp/330px-Oil_price_benchmarks.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "oil_price_benchmarks.webp.png",
+        "width": 4413,
+        "height": 1544,
+        "title": "Price of oil",
+        "description": "Spot price of a barrel of benchmark crude oil",
+        "extract": "The price of oil, or the oil price, generally refers to the spot price of a barrel of benchmark crude oil—a reference price for buyers and sellers of crude oil such as West Texas Intermediate (WTI), Brent Crude, Dubai Crude, OPEC Reference Basket, Tapis crude, Bonny Light, Urals oil, Isthmus, and Western Canadian Select (WCS) among others. Oil prices are determined by global supply and demand, rather than any country's domestic production level, although the Organization of the Petroleum Exporting Countries (OPEC) cartel increases oil prices.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Price_of_oil",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Oil_price_benchmarks.webp/3840px-Oil_price_benchmarks.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Oil_price_benchmarks.webp/330px-Oil_price_benchmarks.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "oil_price_benchmarks.webp.png",
+          "width": 4413,
+          "height": 1544,
+          "title": "Price of oil",
+          "description": "Spot price of a barrel of benchmark crude oil",
+          "extract": "The price of oil, or the oil price, generally refers to the spot price of a barrel of benchmark crude oil—a reference price for buyers and sellers of crude oil such as West Texas Intermediate (WTI), Brent Crude, Dubai Crude, OPEC Reference Basket, Tapis crude, Bonny Light, Urals oil, Isthmus, and Western Canadian Select (WCS) among others. Oil prices are determined by global supply and demand, rather than any country's domestic production level, although the Organization of the Petroleum Exporting Countries (OPEC) cartel increases oil prices.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Price_of_oil",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/WTI_price_2019-2020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/WTI_price_2019-2020.png/330px-WTI_price_2019-2020.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wti_price_2019-2020.png",
+          "width": 1209,
+          "height": 604,
+          "title": "Negative pricing",
+          "description": "Prices below zero",
+          "extract": "In economics, negative pricing can occur when demand for a product drops or supply increases to an extent that owners or suppliers are prepared to pay others to accept it, in effect setting the price to a negative number. This can happen because it costs money to transport, store, and dispose of a product even when there is little demand to buy it, or because halting production would be more expensive than selling at a negative price.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Negative_pricing",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Oil_price_benchmarks.webp/1280px-Oil_price_benchmarks.webp.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Oil_price_benchmarks.webp/1280px-Oil_price_benchmarks.webp.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "oil_price_benchmarks.webp",
+          "width": 800,
+          "height": 600,
+          "title": "The price of oil from 1983 to 2023\n.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}  West Texas Intermediate\n  Brent Crude\n  Urals oil (Russian export mix)\n  Dubai Crude\n  OPEC Reference Basket\n",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Price_of_oil",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Price of oil",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Price_of_oil",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-20-2012-67bcc39a",
+      "year": 2012,
+      "text": "One hundred twenty-seven people are killed when a plane crashes in a residential area near the Benazir Bhutto International Airport near Islamabad, Pakistan.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/ZS-OLB_B737-200_BA_Comair_JHB_140309_%284319671136%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ZS-OLB_B737-200_BA_Comair_JHB_140309_%284319671136%29_%282%29.jpg/330px-ZS-OLB_B737-200_BA_Comair_JHB_140309_%284319671136%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "zs-olb_b737-200_ba_comair_jhb_140309_(4319671136)_(2).jpg",
+        "width": 1024,
+        "height": 683,
+        "title": "Bhoja Air Flight 213",
+        "description": "2012 aviation accident in Rawalpindi, Pakistan",
+        "extract": "Bhoja Air Flight 213 was a domestic scheduled passenger flight operated by Pakistani private airline Bhoja Air from Karachi to Islamabad. On 20 April 2012, the Boeing 737-200 aircraft serving the route crashed in bad weather during the final approach, killing all 121 passengers and 6 crew on board. It remains the second deadliest air disaster in Pakistan, after the 2010 crash of Airblue Flight 202.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bhoja_Air_Flight_213",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/ZS-OLB_B737-200_BA_Comair_JHB_140309_%284319671136%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ZS-OLB_B737-200_BA_Comair_JHB_140309_%284319671136%29_%282%29.jpg/330px-ZS-OLB_B737-200_BA_Comair_JHB_140309_%284319671136%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "zs-olb_b737-200_ba_comair_jhb_140309_(4319671136)_(2).jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Bhoja Air Flight 213",
+          "description": "2012 aviation accident in Rawalpindi, Pakistan",
+          "extract": "Bhoja Air Flight 213 was a domestic scheduled passenger flight operated by Pakistani private airline Bhoja Air from Karachi to Islamabad. On 20 April 2012, the Boeing 737-200 aircraft serving the route crashed in bad weather during the final approach, killing all 121 passengers and 6 crew on board. It remains the second deadliest air disaster in Pakistan, after the 2010 crash of Airblue Flight 202.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bhoja_Air_Flight_213",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Islamabad_International_Airport_%285519124095%29.jpg/3840px-Islamabad_International_Airport_%285519124095%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Islamabad_International_Airport_%285519124095%29.jpg/330px-Islamabad_International_Airport_%285519124095%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "islamabad_international_airport_(5519124095).jpg",
+          "width": 4288,
+          "height": 2848,
+          "title": "Benazir Bhutto International Airport",
+          "description": "Airport in Islamabad, Pakistan (1930–2018)",
+          "extract": "Benazir Bhutto International Airport was an airport which formerly served the Islamabad–Rawalpindi metropolitan area. It was the second-largest airport by air traffic in Pakistan, until 1 May 2018 when it was replaced by the new Islamabad International Airport. Also known as Chaklala Airbase, it was renamed after the late Pakistani prime minister Benazir Bhutto (1953–2007) in June 2008. The airport handled 4,767,860 passengers in 2015–16, compared to 3,610,566 in 2010–11.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Benazir_Bhutto_International_Airport",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg/3840px-Faisal_Mosque%2C_Islamabad_III.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg/330px-Faisal_Mosque%2C_Islamabad_III.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "faisal_mosque,_islamabad_iii.jpg",
+          "width": 4618,
+          "height": 3464,
+          "title": "Islamabad",
+          "description": "Capital of Pakistan",
+          "extract": "Islamabad is the capital city of Pakistan. It is the country's tenth-most populous city with a population of over 1.1 million; and is federally administered by the Pakistani government as part of the Islamabad Capital Territory — with a metropolitan population of over 2.3 million. Built as a planned city along the Margalla Hills in the 1960s and established in 1967, Islamabad replaced Karachi as Pakistan's national capital. It is located in the northern Punjab region, north of the city of Rawalpindi — with which it forms a metropolitan area of over 5.7 million inhabitants.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Islamabad",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Bhoja Air Flight 213",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bhoja_Air_Flight_213",
+      "relatedPagesCount": 3
+    }
+  ]
+}

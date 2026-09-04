@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 2,
+    "day": 24,
+    "formatted": "02-24"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "02-24-2011-18bf1441",
+      "year": 2011,
+      "text": "Space Shuttle Discovery launches on its final mission, STS-133.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+        "width": 3336,
+        "height": 2507,
+        "title": "Space Shuttle Discovery",
+        "description": "Space Shuttle orbiter (1984–2011)",
+        "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+          "width": 3336,
+          "height": 2507,
+          "title": "Space Shuttle Discovery",
+          "description": "Space Shuttle orbiter (1984–2011)",
+          "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/STS-133_Installation_PMM_3.jpg/3840px-STS-133_Installation_PMM_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/STS-133_Installation_PMM_3.jpg/330px-STS-133_Installation_PMM_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_installation_pmm_3.jpg",
+          "width": 4256,
+          "height": 2832,
+          "title": "STS-133",
+          "description": "2011 American crewed spaceflight to the ISS and final flight of Space Shuttle Discovery",
+          "extract": "STS-133 was the 133rd mission in NASA's Space Shuttle program; during the mission, Space Shuttle Discovery docked with the International Space Station. It was Discovery's 39th and final mission. The mission launched on February 24, 2011, and landed on March 9, 2011. The crew consisted of six American astronauts, all of whom had been on prior spaceflights, headed by Commander Steven Lindsey. The crew joined the long-duration six person crew of Expedition 26, who were already aboard the space station. About a month before lift-off, one of the original crew members, Tim Kopra, was injured in a bicycle accident. He was replaced by Stephen Bowen.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-133",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Space_Shuttle_Discovery_at_Udvar-Hazy_Center.jpg/1280px-Space_Shuttle_Discovery_at_Udvar-Hazy_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Space_Shuttle_Discovery_at_Udvar-Hazy_Center.jpg/1280px-Space_Shuttle_Discovery_at_Udvar-Hazy_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_discovery_at_udvar-hazy_center.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Space Shuttle Discovery at the Steven F. Udvar-Hazy Center",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Discovery",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-24-2022-984a9783",
+      "year": 2022,
+      "text": "Russo-Ukrainian War: Days after recognising Donetsk and Luhansk as independent states, Russian president Vladimir Putin orders the 2022 Russian invasion of Ukraine.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "anti-terrorist_operation_in_eastern_ukraine_(war_ukraine)_(27843153986).jpg",
+        "width": 2496,
+        "height": 1664,
+        "title": "Russo-Ukrainian war",
+        "description": "Ongoing conflict since 2014",
+        "extract": "The Russo-Ukrainian war began in February 2014 and is ongoing. Following Ukraine's Revolution of Dignity, Russia occupied Crimea and annexed it from Ukraine. It then supported Russian separatist armed groups who started a war in the eastern Donbas region against Ukraine's military. In 2018, Ukraine declared the region to be occupied by Russia. The first eight years of conflict also involved naval incidents and cyberwarfare. In February 2022, Russia launched a full-scale invasion of Ukraine and began occupying more of the country, starting the current phase of the war, the largest conflict in Europe since World War II. The war has resulted in a refugee crisis and hundreds of thousands of deaths.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anti-terrorist_operation_in_eastern_ukraine_(war_ukraine)_(27843153986).jpg",
+          "width": 2496,
+          "height": 1664,
+          "title": "Russo-Ukrainian war",
+          "description": "Ongoing conflict since 2014",
+          "extract": "The Russo-Ukrainian war began in February 2014 and is ongoing. Following Ukraine's Revolution of Dignity, Russia occupied Crimea and annexed it from Ukraine. It then supported Russian separatist armed groups who started a war in the eastern Donbas region against Ukraine's military. In 2018, Ukraine declared the region to be occupied by Russia. The first eight years of conflict also involved naval incidents and cyberwarfare. In February 2022, Russia launched a full-scale invasion of Ukraine and began occupying more of the country, starting the current phase of the war, the largest conflict in Europe since World War II. The war has resulted in a refugee crisis and hundreds of thousands of deaths.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%D0%9E%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8_2022-02-21.webm/1280px--%D0%9E%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8_2022-02-21.webm.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%D0%9E%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8_2022-02-21.webm/330px--%D0%9E%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8_2022-02-21.webm.jpg",
+          "canonicalKey": "-обращение_президента_российской_федерации_2022-02-21.webm.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Vladimir Putin speech on recognising the Donetsk and Luhansk people's republics",
+          "description": "2022 televised address by Vladimir Putin",
+          "extract": "On 21 February 2022, a televised speech by Russian president Vladimir Putin was broadcast, announcing that the Russian government would recognise the Ukrainian separatist regions of the Donetsk People's Republic and the Luhansk People's Republic as independent.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vladimir_Putin_speech_on_recognising_the_Donetsk_and_Luhansk_people's_republics",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Donetsk_and_Lugansk_Peoples_Republics_in_Ukraine.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Donetsk_and_Lugansk_Peoples_Republics_in_Ukraine.png/330px-Donetsk_and_Lugansk_Peoples_Republics_in_Ukraine.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "donetsk_and_lugansk_peoples_republics_in_ukraine.png",
+          "width": 1100,
+          "height": 783,
+          "title": "International recognition of the Donetsk People's Republic and the Luhansk People's Republic",
+          "description": "",
+          "extract": "The Donetsk People's Republic (DPR) and the Luhansk People's Republic (LPR) are two regions that broke away from Ukraine when they were initially declared by Russian separatists to be independent sovereign states during the pro-Russian unrest in Ukraine in April 2014. Their secession occurred just one month after Russia annexed Crimea from Ukraine and triggered the War in Donbas. Both separatist movements received support from Russia, but their declarations of independence gained only limited international recognition. In September 2022, Russia annexed the DPR and the LPR, incorporating both of them as Russian republics with no sovereignty.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/International_recognition_of_the_Donetsk_People's_Republic_and_the_Luhansk_People's_Republic",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Russo-Ukrainian war",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+      "relatedPagesCount": 8
+    },
+    {
+      "id": "02-24-1978-bfb7a041",
+      "year": 1978,
+      "text": "The Yuba County Five disappear in California. Four of their bodies are found four months later.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/e/e7/Gary_Mathias.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e7/Gary_Mathias.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "gary_mathias.png",
+        "width": 300,
+        "height": 344,
+        "title": "Yuba County Five",
+        "description": "1978 deaths and disappearance in California",
+        "extract": "The Yuba County Five were young men from Yuba County, California, United States, each with mild intellectual disabilities or psychiatric conditions, who were reported missing after attending a college basketball game at California State University, Chico, on the night of February 24, 1978. Four of them—Bill Sterling, 29; Jack Huett, 24; Ted Weiher, 32; and Jack Madruga, 30—were later found dead; the fifth, Gary Mathias, 25, has never been found.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Yuba_County_Five",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/e7/Gary_Mathias.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e7/Gary_Mathias.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "gary_mathias.png",
+          "width": 300,
+          "height": 344,
+          "title": "Yuba County Five",
+          "description": "1978 deaths and disappearance in California",
+          "extract": "The Yuba County Five were young men from Yuba County, California, United States, each with mild intellectual disabilities or psychiatric conditions, who were reported missing after attending a college basketball game at California State University, Chico, on the night of February 24, 1978. Four of them—Bill Sterling, 29; Jack Huett, 24; Ted Weiher, 32; and Jack Madruga, 30—were later found dead; the fifth, Gary Mathias, 25, has never been found.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Yuba_County_Five",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Yuba County Five",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Yuba_County_Five",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "02-24-1875-a8d5ea22",
+      "year": 1875,
+      "text": "The SS Gothenburg hits the Great Barrier Reef and sinks off the Australian east coast, killing approximately 100, including a number of high-profile civil servants and dignitaries.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/SS_Gothenburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/SS_Gothenburg.jpg/330px-SS_Gothenburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ss_gothenburg.jpg",
+        "width": 500,
+        "height": 311,
+        "title": "SS Gothenburg",
+        "description": "British steamship wrecked on the Great Barrier Reef",
+        "extract": "SS Gothenburg was an iron-hulled sail- and steamship that was built in England in 1854 and sailed between England and Sweden until 1862. She then moved to Australia, where she operated across the Tasman Sea to and from New Zealand until 1873, when she was rebuilt. After her rebuild, she operated in the Australian coastal trade.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/SS_Gothenburg",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/SS_Gothenburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/SS_Gothenburg.jpg/330px-SS_Gothenburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ss_gothenburg.jpg",
+          "width": 500,
+          "height": 311,
+          "title": "SS Gothenburg",
+          "description": "British steamship wrecked on the Great Barrier Reef",
+          "extract": "SS Gothenburg was an iron-hulled sail- and steamship that was built in England in 1854 and sailed between England and Sweden until 1862. She then moved to Australia, where she operated across the Tasman Sea to and from New Zealand until 1873, when she was rebuilt. After her rebuild, she operated in the Australian coastal trade.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/SS_Gothenburg",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg/330px-ISS-45_StoryOfWater%2C_Great_Barrier_Reef%2C_Australia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss-45_storyofwater,_great_barrier_reef,_australia.jpg",
+          "width": 1600,
+          "height": 1065,
+          "title": "Great Barrier Reef",
+          "description": "Coral reef system in Queensland, Australia",
+          "extract": "The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometres (1,400 mi) over an area of approximately 344,400 square kilometres (133,000 mi2). The reef is located in the Coral Sea, off the coast of Queensland, Australia. It is separated from the coast by a channel 160 kilometres (100 mi) wide in places and over 61 metres (200 ft) deep. The Great Barrier Reef can be seen from outer space and is the world's biggest single structure made by living organisms. This reef structure is composed of and built by billions of tiny organisms, known as coral polyps. It supports a wide diversity of life and was selected as a World Heritage Site in 1981. CNN labelled it one of the Seven Natural Wonders of the World in 1997. Australian World Heritage places included it in its list in 2007. The Queensland National Trust named it a state icon of Queensland in 2006.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "SS Gothenburg",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/SS_Gothenburg",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-24-1711-e212d7e5",
+      "year": 1711,
+      "text": "George Frideric Handel's Rinaldo, the first Italian-language opera written specifically for the London stage, premiered.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/330px-George_Frideric_Handel_by_Balthasar_Denner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "george_frideric_handel_by_balthasar_denner.jpg",
+        "width": 2400,
+        "height": 2901,
+        "title": "George Frideric Handel",
+        "description": "German-British composer (1685–1759)",
+        "extract": "George Frideric Handel was a German-British Baroque composer well-known for his operas, oratorios, anthems, concerti grossi, and organ concerti.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/330px-George_Frideric_Handel_by_Balthasar_Denner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "george_frideric_handel_by_balthasar_denner.jpg",
+          "width": 2400,
+          "height": 2901,
+          "title": "George Frideric Handel",
+          "description": "German-British composer (1685–1759)",
+          "extract": "George Frideric Handel was a German-British Baroque composer well-known for his operas, oratorios, anthems, concerti grossi, and organ concerti.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Handel%2C_Lascia_ch%E2%80%99io_pianga_autograph_score%2C_1711.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Handel%2C_Lascia_ch%E2%80%99io_pianga_autograph_score%2C_1711.jpg/330px-Handel%2C_Lascia_ch%E2%80%99io_pianga_autograph_score%2C_1711.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "handel,_lascia_ch’io_pianga_autograph_score,_1711.jpg",
+          "width": 954,
+          "height": 743,
+          "title": "Rinaldo (opera)",
+          "description": "1711 opera by George Frideric Handel",
+          "extract": "Rinaldo is an opera by George Frideric Handel, composed in 1711, and was the first Italian-language opera written specifically for the London stage. The libretto was prepared by Giacomo Rossi from a scenario provided by Aaron Hill, and the work was first performed at the Queen's Theatre in London's Haymarket on 24 February 1711. The story of love, war and redemption, set at the time of the First Crusade, is loosely based on Torquato Tasso's epic poem Gerusalemme liberata, and its staging involved many original and vivid effects. It was a great success with the public, despite negative reactions from literary critics hostile to the contemporary trend towards Italian entertainment in English theatres.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rinaldo_(opera)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Interior_of_La_Fenice_in_1837._Original_at_Museo_Correr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Interior_of_La_Fenice_in_1837._Original_at_Museo_Correr.jpg/330px-Interior_of_La_Fenice_in_1837._Original_at_Museo_Correr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "interior_of_la_fenice_in_1837._original_at_museo_correr.jpg",
+          "width": 2178,
+          "height": 1470,
+          "title": "Italian opera",
+          "description": "Operas in Italy or in the Italian language",
+          "extract": "Italian opera is both the art of opera in Italy and opera in the Italian language. Opera was born in Italy around the year 1600 and Italian opera has continued to play a dominant role in the history of the form until the present day. Many famous operas in Italian were written by foreign composers, including Handel, Gluck and Mozart. Works by native Italian composers of the 19th and early 20th centuries, such as Rossini, Bellini, Donizetti, Verdi and Puccini, are amongst the most famous operas ever written and today are performed in opera houses across the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Italian_opera",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "George Frideric Handel",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-24-2020-98746290",
+      "year": 2020,
+      "text": "Mahathir Mohamad resigns as Prime Minister of Malaysia following an attempt to replace the Pakatan Harapan government, which triggered the 2020-2022 Malaysian political crisis.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Mahathir_Mohamad_13112018_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mahathir_Mohamad_13112018_%28cropped%29.jpg/330px-Mahathir_Mohamad_13112018_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mahathir_mohamad_13112018_(cropped).jpg",
+        "width": 659,
+        "height": 878,
+        "title": "Mahathir Mohamad",
+        "description": "Prime Minister of Malaysia (1981–2003, 2018–2020)",
+        "extract": "Mahathir bin Mohamad is a Malaysian politician, physician and author who served as the fourth and seventh prime minister of Malaysia from 1981 to 2003 and again from 2018 to 2020. He was the country's longest-serving prime minister, serving for a cumulative total of 24 years. His political career has spanned more than 75 years, from joining protests opposing citizenship policies for non-Malays in the Malayan Union in the 1940s to forming the Gerakan Tanah Air coalition in 2022. During his premiership, Mahathir was granted the title \"Father of Modernisation\" for his pivotal role in transforming the country's economy and infrastructure. At 101 years old, he is the second-oldest living former state leader in the world and the first Malaysian prime minister to reach that age.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mahathir_Mohamad",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Mahathir_Mohamad_13112018_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mahathir_Mohamad_13112018_%28cropped%29.jpg/330px-Mahathir_Mohamad_13112018_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mahathir_mohamad_13112018_(cropped).jpg",
+          "width": 659,
+          "height": 878,
+          "title": "Mahathir Mohamad",
+          "description": "Prime Minister of Malaysia (1981–2003, 2018–2020)",
+          "extract": "Mahathir bin Mohamad is a Malaysian politician, physician and author who served as the fourth and seventh prime minister of Malaysia from 1981 to 2003 and again from 2018 to 2020. He was the country's longest-serving prime minister, serving for a cumulative total of 24 years. His political career has spanned more than 75 years, from joining protests opposing citizenship policies for non-Malays in the Malayan Union in the 1940s to forming the Gerakan Tanah Air coalition in 2022. During his premiership, Mahathir was granted the title \"Father of Modernisation\" for his pivotal role in transforming the country's economy and infrastructure. At 101 years old, he is the second-oldest living former state leader in the world and the first Malaysian prime minister to reach that age.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mahathir_Mohamad",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/0a/Office-of-Prime-Minister-Of-Malaysia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Office-of-Prime-Minister-Of-Malaysia.png/330px-Office-of-Prime-Minister-Of-Malaysia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "office-of-prime-minister-of-malaysia.png",
+          "width": 447,
+          "height": 223,
+          "title": "Prime Minister of Malaysia",
+          "description": "Head of government",
+          "extract": "The prime minister of Malaysia is the head of government of Malaysia. The prime minister directs the executive branch of the federal government. The Yang di-Pertuan Agong appoints the prime minister who is a member of Parliament (MP) who, in his opinion, is most likely to command the confidence of a majority of MPs. The prime minister is usually the leader of the party winning the most seats in a general election.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Prime_Minister_of_Malaysia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/PM_Mahathir_Mohamad_during_official_welcome_in_Indonesia_2018-06-28_%281%29_%28cropped%29.jpg/500px-PM_Mahathir_Mohamad_during_official_welcome_in_Indonesia_2018-06-28_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/PM_Mahathir_Mohamad_during_official_welcome_in_Indonesia_2018-06-28_%281%29_%28cropped%29.jpg/500px-PM_Mahathir_Mohamad_during_official_welcome_in_Indonesia_2018-06-28_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "pm_mahathir_mohamad_during_official_welcome_in_indonesia_2018-06-28_(1)_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "PM_Mahathir_Mohamad_during_official_welcome_in_Indonesia_2018-06-28_(1)_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mahathir_Mohamad",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Mahathir Mohamad",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mahathir_Mohamad",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-24-2015-d91248bb",
+      "year": 2015,
+      "text": "A Metrolink train derails in Oxnard, California following a collision with a truck, leaving more than 30 injured.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Train_Waiting_at_Chatsworth_Station.jpg/1920px-Train_Waiting_at_Chatsworth_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Train_Waiting_at_Chatsworth_Station.jpg/330px-Train_Waiting_at_Chatsworth_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "train_waiting_at_chatsworth_station.jpg",
+        "width": 2992,
+        "height": 2248,
+        "title": "Metrolink (California)",
+        "description": "Regional commuter rail system in Southern California",
+        "extract": "Metrolink is a commuter rail system in Southern California, serving Los Angeles, Orange, Riverside, San Bernardino, San Diego and Ventura counties. The system consists of eight lines and 68 stations operating on 545.6 miles (878.1 km) of track. This includes Arrow, which Metrolink operates under a contract with the San Bernardino County Transportation Authority (SBCTA).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Metrolink_(California)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Train_Waiting_at_Chatsworth_Station.jpg/1920px-Train_Waiting_at_Chatsworth_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Train_Waiting_at_Chatsworth_Station.jpg/330px-Train_Waiting_at_Chatsworth_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "train_waiting_at_chatsworth_station.jpg",
+          "width": 2992,
+          "height": 2248,
+          "title": "Metrolink (California)",
+          "description": "Regional commuter rail system in Southern California",
+          "extract": "Metrolink is a commuter rail system in Southern California, serving Los Angeles, Orange, Riverside, San Bernardino, San Diego and Ventura counties. The system consists of eight lines and 68 stations operating on 545.6 miles (878.1 km) of track. This includes Arrow, which Metrolink operates under a contract with the San Bernardino County Transportation Authority (SBCTA).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Metrolink_(California)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Hyundai_Rotem_Cab_Car.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Hyundai_Rotem_Cab_Car.jpg/330px-Hyundai_Rotem_Cab_Car.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hyundai_rotem_cab_car.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "2015 Oxnard train derailment",
+          "description": "2015 rail transport disaster in Oxnard, California, USA",
+          "extract": "The 2015 Oxnard train derailment occurred on February 24, 2015, at 5:44 a.m. local time when a Metrolink passenger train collided with a truck that a driver had mistakenly turned from Rice Avenue onto the tracks and became stuck. After the impact, the train derailed at Oxnard, California, United States. As a result of the crash, the train engineer died from his injuries a week later and 32 passengers and crew members were injured. The truck driver exited his vehicle and ran from the scene prior to the crash; he sustained minor injuries that were unrelated to the crash sequence.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2015_Oxnard_train_derailment",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Embassy_Suites_Lobby_Front%2C_Oxnard%2C_CA%2CUSA_May_2009_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Embassy_Suites_Lobby_Front%2C_Oxnard%2C_CA%2CUSA_May_2009_-_panoramio_%28cropped%29.jpg/330px-Embassy_Suites_Lobby_Front%2C_Oxnard%2C_CA%2CUSA_May_2009_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "embassy_suites_lobby_front,_oxnard,_ca,usa_may_2009_-_panoramio_(cropped).jpg",
+          "width": 1026,
+          "height": 766,
+          "title": "Oxnard, California",
+          "description": "City in California, United States",
+          "extract": "Oxnard is a city in Ventura County, California, United States. On California's Central Coast, it is the most populous city in Ventura County and the 22nd-most-populous city in California. Incorporated in 1903, Oxnard lies approximately 60 miles (97 km) northwest of downtown Los Angeles.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Oxnard%2C_California",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Metrolink (California)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Metrolink_(California)",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-24-2008-7a2a2cfc",
+      "year": 2008,
+      "text": "Fidel Castro retires as the President of Cuba and the Council of Ministers after 32 years. He would remain as head of the Communist Party for another three years.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Fidel_Castro%2C_Prime_Minister_of_Cuba._Castro_at_the_United_Nations%2C_New_York_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Fidel_Castro%2C_Prime_Minister_of_Cuba._Castro_at_the_United_Nations%2C_New_York_%283x4_cropped%29.jpg/330px-Fidel_Castro%2C_Prime_Minister_of_Cuba._Castro_at_the_United_Nations%2C_New_York_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "fidel_castro,_prime_minister_of_cuba._castro_at_the_united_nations,_new_york_(3x4_cropped).jpg",
+        "width": 1716,
+        "height": 2286,
+        "title": "Fidel Castro",
+        "description": "Leader of Cuba from 1959 to 2011",
+        "extract": "Fidel Alejandro Castro Ruz was a Cuban communist revolutionary and politician who was the leader of Cuba from 1959 to 2011. He served as prime minister from 1959 to 1976, president from 1976 to 2008, and first secretary of the Communist Party of Cuba from 1965 until 2011. Ideologically a Marxist–Leninist and Cuban nationalist, under his administration Cuba became a one-party communist state; industry and business were nationalized, and socialist reforms were implemented throughout society.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Fidel_Castro%2C_Prime_Minister_of_Cuba._Castro_at_the_United_Nations%2C_New_York_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Fidel_Castro%2C_Prime_Minister_of_Cuba._Castro_at_the_United_Nations%2C_New_York_%283x4_cropped%29.jpg/330px-Fidel_Castro%2C_Prime_Minister_of_Cuba._Castro_at_the_United_Nations%2C_New_York_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fidel_castro,_prime_minister_of_cuba._castro_at_the_united_nations,_new_york_(3x4_cropped).jpg",
+          "width": 1716,
+          "height": 2286,
+          "title": "Fidel Castro",
+          "description": "Leader of Cuba from 1959 to 2011",
+          "extract": "Fidel Alejandro Castro Ruz was a Cuban communist revolutionary and politician who was the leader of Cuba from 1959 to 2011. He served as prime minister from 1959 to 1976, president from 1976 to 2008, and first secretary of the Communist Party of Cuba from 1965 until 2011. Ideologically a Marxist–Leninist and Cuban nationalist, under his administration Cuba became a one-party communist state; industry and business were nationalized, and socialist reforms were implemented throughout society.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fidel_Castro%E2%80%99s_Parents.jpg/500px-Fidel_Castro%E2%80%99s_Parents.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fidel_Castro%E2%80%99s_Parents.jpg/500px-Fidel_Castro%E2%80%99s_Parents.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "fidel_castro’s_parents.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Fidel's parents, Ángel Castro y Argiz and Lina Ruz González",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fidelcastro_colegio_de_belen_1943._Havana_Cuba.jpg/500px-Fidelcastro_colegio_de_belen_1943._Havana_Cuba.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fidelcastro_colegio_de_belen_1943._Havana_Cuba.jpg/500px-Fidelcastro_colegio_de_belen_1943._Havana_Cuba.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "fidelcastro_colegio_de_belen_1943._havana_cuba.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Castro, second from left, at Colegio de Belén, Havana, 1943",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Fidel Castro",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-24-2007-b66f529f",
+      "year": 2007,
+      "text": "Japan launches its fourth spy satellite, stepping up its ability to monitor potential threats such as North Korea.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/U.S._RecSat_Big_Picture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/U.S._RecSat_Big_Picture.jpg/330px-U.S._RecSat_Big_Picture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "u.s._recsat_big_picture.jpg",
+        "width": 3563,
+        "height": 2367,
+        "title": "Reconnaissance satellite",
+        "description": "Satellite that covertly collects data for intelligence or military applications",
+        "extract": "A reconnaissance satellite or intelligence satellite is an Earth observation satellite or communications satellite deployed for military or intelligence applications.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Reconnaissance_satellite",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/U.S._RecSat_Big_Picture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/U.S._RecSat_Big_Picture.jpg/330px-U.S._RecSat_Big_Picture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "u.s._recsat_big_picture.jpg",
+          "width": 3563,
+          "height": 2367,
+          "title": "Reconnaissance satellite",
+          "description": "Satellite that covertly collects data for intelligence or military applications",
+          "extract": "A reconnaissance satellite or intelligence satellite is an Earth observation satellite or communications satellite deployed for military or intelligence applications.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Reconnaissance_satellite",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/CIA_aerial_view_Osama_bin_Laden_compound_Abbottabad.jpg/500px-CIA_aerial_view_Osama_bin_Laden_compound_Abbottabad.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/CIA_aerial_view_Osama_bin_Laden_compound_Abbottabad.jpg/500px-CIA_aerial_view_Osama_bin_Laden_compound_Abbottabad.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "cia_aerial_view_osama_bin_laden_compound_abbottabad.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Aerial view of Osama bin Laden's compound in the Pakistani city of Abbottabad made by the CIA.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Reconnaissance_satellite",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kh-4b_corona.jpg/500px-Kh-4b_corona.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kh-4b_corona.jpg/500px-Kh-4b_corona.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "kh-4b_corona.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "KH-4B Corona satellite",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Reconnaissance_satellite",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Reconnaissance satellite",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Reconnaissance_satellite",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-24-2004-3db3d96d",
+      "year": 2004,
+      "text": "The 6.3 Mw Al Hoceima earthquake strikes northern Morocco with a maximum Mercalli intensity of IX (Violent). At least 628 people are killed, 926 are injured, and up to 15,000 are displaced.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/2004_03_Maroc_-_S%C3%A9isme_Al_Hoceima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2004_03_Maroc_-_S%C3%A9isme_Al_Hoceima.jpg/330px-2004_03_Maroc_-_S%C3%A9isme_Al_Hoceima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2004_03_maroc_-_séisme_al_hoceima.jpg",
+        "width": 900,
+        "height": 675,
+        "title": "2004 Al Hoceima earthquake",
+        "description": "Earthquake near the northern Moroccan coast",
+        "extract": "On 24 February 2004 at 03:27 CET, an earthquake with a moment magnitude of 6.3 and maximum Mercalli intensity of IX (Violent) struck Morocco's Al Hoceïma Province. The earthquake's epicenter was located about 13 km (8.1 mi) south-southwest of the provincial capital of Al Hoceima. It killed 631 people, injured 926 others and destroyed over 2,500 homes, mostly in several villages within the Rif Mountains which were devastated.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2004_Al_Hoceima_earthquake",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/2004_03_Maroc_-_S%C3%A9isme_Al_Hoceima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/2004_03_Maroc_-_S%C3%A9isme_Al_Hoceima.jpg/330px-2004_03_Maroc_-_S%C3%A9isme_Al_Hoceima.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2004_03_maroc_-_séisme_al_hoceima.jpg",
+          "width": 900,
+          "height": 675,
+          "title": "2004 Al Hoceima earthquake",
+          "description": "Earthquake near the northern Moroccan coast",
+          "extract": "On 24 February 2004 at 03:27 CET, an earthquake with a moment magnitude of 6.3 and maximum Mercalli intensity of IX (Violent) struck Morocco's Al Hoceïma Province. The earthquake's epicenter was located about 13 km (8.1 mi) south-southwest of the provincial capital of Al Hoceima. It killed 631 people, injured 926 others and destroyed over 2,500 homes, mostly in several villages within the Rif Mountains which were devastated.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2004_Al_Hoceima_earthquake",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/1755_Lisbon_earthquake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/1755_Lisbon_earthquake.jpg/330px-1755_Lisbon_earthquake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1755_lisbon_earthquake.jpg",
+          "width": 998,
+          "height": 593,
+          "title": "Modified Mercalli intensity scale",
+          "description": "Seismic intensity scale used to quantify the degree of shaking during earthquakes",
+          "extract": "The Modified Mercalli intensity scale measures the effects of an earthquake at a given location. This is in contrast with the seismic magnitude usually reported for an earthquake.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Modified_Mercalli_intensity_scale",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/1906_San_Francisco_earthquake_seismograph.png/500px-1906_San_Francisco_earthquake_seismograph.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/1906_San_Francisco_earthquake_seismograph.png/500px-1906_San_Francisco_earthquake_seismograph.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "1906_san_francisco_earthquake_seismograph.png",
+          "width": 800,
+          "height": 600,
+          "title": "Typical seismogram. The compressive P waves (following the red lines) – essentially sound passing through rock – are the fastest seismic waves, and arrive first, typically in about 10 seconds for an earthquake around 50 km away. The sideways-shaking S waves (following the green lines) arrive some seconds later, traveling a little over half the speed of the P waves; the delay is a direct indication of the distance to the quake. S waves may take an hour to reach a point 1000 km away. Both of these are body-waves, that pass directly through the earth's crust. Following the S waves are various kinds of surface-waves – Love waves and Rayleigh waves – that travel only at the earth's surface. Surface waves are smaller for deep earthquakes, which have less interaction with the surface. For shallow earthquakes – less than roughly 60 km deep – the surface waves are stronger, and may last several minutes; these carry most of the energy of the quake, and cause the most severe damage.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Seismic_magnitude_scales",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Seismic magnitude scales",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Seismic_magnitude_scales",
+      "relatedPagesCount": 4
+    }
+  ]
+}

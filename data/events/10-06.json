@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 10,
+    "day": 6,
+    "formatted": "10-06"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "10-06-2008-10c3d04b",
+      "year": 2008,
+      "text": "The MESSENGER probe discovered Mercury's Rembrandt (pictured) – the second largest impact crater on the planet.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/MESSENGER_-_spacecraft_at_mercury_-_atmercury_lg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/MESSENGER_-_spacecraft_at_mercury_-_atmercury_lg.jpg/330px-MESSENGER_-_spacecraft_at_mercury_-_atmercury_lg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "messenger_-_spacecraft_at_mercury_-_atmercury_lg.jpg",
+        "width": 2130,
+        "height": 1737,
+        "title": "MESSENGER",
+        "description": "NASA mission to Mercury",
+        "extract": "MESSENGER was a NASA robotic space probe that orbited the planet Mercury between 2011 and 2015, studying Mercury's chemical composition, geology, and magnetic field. The name is a backronym for Mercury Surface, Space Environment, Geochemistry, and Ranging, and a reference to the messenger god Mercury from Roman mythology.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/MESSENGER",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/MESSENGER_-_spacecraft_at_mercury_-_atmercury_lg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/MESSENGER_-_spacecraft_at_mercury_-_atmercury_lg.jpg/330px-MESSENGER_-_spacecraft_at_mercury_-_atmercury_lg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "messenger_-_spacecraft_at_mercury_-_atmercury_lg.jpg",
+          "width": 2130,
+          "height": 1737,
+          "title": "MESSENGER",
+          "description": "NASA mission to Mercury",
+          "extract": "MESSENGER was a NASA robotic space probe that orbited the planet Mercury between 2011 and 2015, studying Mercury's chemical composition, geology, and magnetic field. The name is a backronym for Mercury Surface, Space Environment, Geochemistry, and Ranging, and a reference to the messenger god Mercury from Roman mythology.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/MESSENGER",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Rembrandt_crater_mosaic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rembrandt_crater_mosaic.jpg/330px-Rembrandt_crater_mosaic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rembrandt_crater_mosaic.jpg",
+          "width": 860,
+          "height": 867,
+          "title": "Rembrandt (crater)",
+          "description": "Crater on Mercury",
+          "extract": "Rembrandt is a large impact crater on Mercury. With a diameter of 716 km it is the second-largest impact basin on the planet, after Caloris, and is one of the larger craters in the Solar System. It was discovered by MESSENGER during its second flyby of Mercury on October 6, 2008. The crater is 3.9 billion years old, and was created during the period of Late Heavy Bombardment. The density and size distribution of impact craters along Rembrandt's rim indicate that it is one of the youngest impact basins on Mercury.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rembrandt_(crater)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Iapetus_as_seen_by_the_Cassini_probe_-_20071008.jpg/3840px-Iapetus_as_seen_by_the_Cassini_probe_-_20071008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Iapetus_as_seen_by_the_Cassini_probe_-_20071008.jpg/330px-Iapetus_as_seen_by_the_Cassini_probe_-_20071008.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iapetus_as_seen_by_the_cassini_probe_-_20071008.jpg",
+          "width": 4032,
+          "height": 4032,
+          "title": "Impact crater",
+          "description": "Circular depression in a solid astronomical body formed by the impact of a smaller object",
+          "extract": "An impact crater is a depression in the surface of a solid astronomical body formed by the hypervelocity impact of a smaller object. In contrast to volcanic craters, which result from explosion or internal collapse, impact craters typically have raised rims and floors that are lower in elevation than the surrounding terrain. Impact craters are typically circular, though they can be elliptical in shape or even irregular due to events such as landslides. Impact craters range in size from microscopic craters seen on lunar rocks returned by the Apollo Program to simple bowl-shaped depressions and vast, complex, multi-ringed impact basins. Meteor Crater is a well-known example of a small impact crater on Earth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Impact_crater",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "MESSENGER",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/MESSENGER",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-06-1990-ca5aa038",
+      "year": 1990,
+      "text": "Space Shuttle Discovery is launched on STS-41, and deploys the Ulysses space probe to study the Sun's polar regions.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+        "width": 3336,
+        "height": 2507,
+        "title": "Space Shuttle Discovery",
+        "description": "Space Shuttle orbiter (1984–2011)",
+        "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+          "width": 3336,
+          "height": 2507,
+          "title": "Space Shuttle Discovery",
+          "description": "Space Shuttle orbiter (1984–2011)",
+          "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ulysses_in_Discovery%27s_payload_bay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Ulysses_in_Discovery%27s_payload_bay.jpg/330px-Ulysses_in_Discovery%27s_payload_bay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ulysses_in_discovery's_payload_bay.jpg",
+          "width": 410,
+          "height": 293,
+          "title": "STS-41",
+          "description": "1990 American crewed spaceflight to deploy Ulysses",
+          "extract": "STS-41 was the 36th Space Shuttle mission and the eleventh mission of the Space Shuttle Discovery. The four-day mission had a primary objective of launching the Ulysses probe as part of the \"International Solar Polar Mission\" (ISPM).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-41",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Ulysses_spacecraft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ulysses_spacecraft.jpg/330px-Ulysses_spacecraft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ulysses_spacecraft.jpg",
+          "width": 1004,
+          "height": 811,
+          "title": "Ulysses (spacecraft)",
+          "description": "NASA/ESA solar probe launched in 1990",
+          "extract": "Ulysses was a robotic space probe whose primary mission was to orbit the Sun and study it at all latitudes. It was launched in 1990 and made three \"fast latitude scans\" of the Sun in 1994/1995, 2000/2001, and 2007/2008. In addition, the probe studied several comets. Ulysses was a joint venture of the European Space Agency (ESA) and the United States' National Aeronautics and Space Administration (NASA), under leadership of ESA with participation from Canada's National Research Council. The last day for mission operations on Ulysses was 30 June 2009.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ulysses_(spacecraft)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Discovery",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "10-06-2010-7864ec66",
+      "year": 2010,
+      "text": "Instagram, a mainstream photo-sharing application, is founded.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Instagram_screenshot_%2812_January_2026%2C_16h30m39s%2C_UTC_-3%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Instagram_screenshot_%2812_January_2026%2C_16h30m39s%2C_UTC_-3%29.png/330px-Instagram_screenshot_%2812_January_2026%2C_16h30m39s%2C_UTC_-3%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "instagram_screenshot_(12_january_2026,_16h30m39s,_utc_-3).png",
+        "width": 1920,
+        "height": 911,
+        "title": "Instagram",
+        "description": "Social media platform owned by Meta",
+        "extract": "Instagram is an American photo and short-form video sharing social networking service owned by Meta Platforms. It allows users to upload media that can be edited with filters, be organized by hashtags, and be associated with a location via geographical tagging. Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tags and locations, view trending content, like photos, and follow other users to add their content to a personal feed. A Meta-operated image-centric social media platform, it is available on iOS, Android, Windows, and the Web. Users can take photos and edit them using built-in filters and other tools, then share them on other social media platforms like Facebook. It supports 33 languages including English, Hindi, Spanish, French, Japanese, and Korean.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Instagram",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Instagram_screenshot_%2812_January_2026%2C_16h30m39s%2C_UTC_-3%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Instagram_screenshot_%2812_January_2026%2C_16h30m39s%2C_UTC_-3%29.png/330px-Instagram_screenshot_%2812_January_2026%2C_16h30m39s%2C_UTC_-3%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "instagram_screenshot_(12_january_2026,_16h30m39s,_utc_-3).png",
+          "width": 1920,
+          "height": 911,
+          "title": "Instagram",
+          "description": "Social media platform owned by Meta",
+          "extract": "Instagram is an American photo and short-form video sharing social networking service owned by Meta Platforms. It allows users to upload media that can be edited with filters, be organized by hashtags, and be associated with a location via geographical tagging. Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tags and locations, view trending content, like photos, and follow other users to add their content to a personal feed. A Meta-operated image-centric social media platform, it is available on iOS, Android, Windows, and the Web. Users can take photos and edit them using built-in filters and other tools, then share them on other social media platforms like Facebook. It supports 33 languages including English, Hindi, Spanish, French, Japanese, and Korean.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Instagram",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Instagram",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Instagram",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-06-1995-6b374f13",
+      "year": 1995,
+      "text": "Astronomers Michel Mayor and Didier Queloz reported the discovery of a planet orbiting 51 Pegasi (depicted) as the first known exoplanet around a main-sequence star.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Michel_Mayor%2C_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Michel_Mayor%2C_2012_%28cropped%29.jpg/330px-Michel_Mayor%2C_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "michel_mayor,_2012_(cropped).jpg",
+        "width": 546,
+        "height": 752,
+        "title": "Michel Mayor",
+        "description": "Swiss astrophysicist & Nobel laureate of Physics",
+        "extract": "Michel Gustave Édouard Mayor is a Swiss astrophysicist and professor emeritus at the University of Geneva's Department of Astronomy. He formally retired in 2007, but remains active as a researcher at the Observatory of Geneva. He is co-laureate of the 2019 Nobel Prize in Physics along with Jim Peebles and Didier Queloz, and the winner of the 2010 Viktor Ambartsumian International Prize and the 2015 Kyoto Prize.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michel_Mayor",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Michel_Mayor%2C_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Michel_Mayor%2C_2012_%28cropped%29.jpg/330px-Michel_Mayor%2C_2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "michel_mayor,_2012_(cropped).jpg",
+          "width": 546,
+          "height": 752,
+          "title": "Michel Mayor",
+          "description": "Swiss astrophysicist & Nobel laureate of Physics",
+          "extract": "Michel Gustave Édouard Mayor is a Swiss astrophysicist and professor emeritus at the University of Geneva's Department of Astronomy. He formally retired in 2007, but remains active as a researcher at the Observatory of Geneva. He is co-laureate of the 2019 Nobel Prize in Physics along with Jim Peebles and Didier Queloz, and the winner of the 2010 Viktor Ambartsumian International Prize and the 2015 Kyoto Prize.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Michel_Mayor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Queloz_profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Queloz_profile.jpg/330px-Queloz_profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queloz_profile.jpg",
+          "width": 1422,
+          "height": 1585,
+          "title": "Didier Queloz",
+          "description": "Swiss astronomer (born 1966)",
+          "extract": "Didier Patrick Queloz is a Swiss astronomer. He is the Jacksonian Professor of Natural Philosophy at the University of Cambridge, where he is also a fellow of Trinity College, Cambridge, as well as a professor of physics at ETH Zurich. Together with Michel Mayor in 1995, he discovered 51 Pegasi b, the first extrasolar planet orbiting a Sun-like star, 51 Pegasi. For this discovery, he shared the 2019 Nobel Prize in Physics with Mayor and Jim Peebles. In 2022, he is the founding director of the Center for the Origin and Prevalence of Life at ETH Zurich.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Didier_Queloz",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Artist_impression_of_the_exoplanet_51_Pegasi_b.jpg/3840px-Artist_impression_of_the_exoplanet_51_Pegasi_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Artist_impression_of_the_exoplanet_51_Pegasi_b.jpg/330px-Artist_impression_of_the_exoplanet_51_Pegasi_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "artist_impression_of_the_exoplanet_51_pegasi_b.jpg",
+          "width": 5000,
+          "height": 3144,
+          "title": "51 Pegasi b",
+          "description": "Exoplanet orbiting 51 Pegasi",
+          "extract": "51 Pegasi b, officially named Dimidium, is an extrasolar planet approximately 50 light-years away in the Pegasus constellation. Dimidium was the first planet to be discovered orbiting a main-sequence star, the Sun-like 51 Pegasi — a major astronomical discovery. It is the prototype for a class of planets called hot Jupiters.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/51_Pegasi_b",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Michel Mayor",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Michel_Mayor",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "10-06-2025-c7cacf38",
+      "year": 2025,
+      "text": "The 2025 Alberta teachers' strike begins, leaving approximately 51,000 teachers off-work, impacting about 730,000 Albertan students.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Rallying_in_Edmonton_for_Alberta_strike.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rallying_in_Edmonton_for_Alberta_strike.png/330px-Rallying_in_Edmonton_for_Alberta_strike.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "rallying_in_edmonton_for_alberta_strike.png",
+        "width": 950,
+        "height": 394,
+        "title": "2025 Alberta teachers' strike",
+        "description": "Public education labour dispute",
+        "extract": "The 2025 Alberta teachers' strike was a public education teachers' strike and labour dispute that took place across Alberta, Canada, and affected the province's education system, resulting in a suspension of classes from October 6, 2025, to October 29, 2025. It was ended after the Notwithstanding Clause was invoked.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2025_Alberta_teachers'_strike",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Rallying_in_Edmonton_for_Alberta_strike.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rallying_in_Edmonton_for_Alberta_strike.png/330px-Rallying_in_Edmonton_for_Alberta_strike.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rallying_in_edmonton_for_alberta_strike.png",
+          "width": 950,
+          "height": 394,
+          "title": "2025 Alberta teachers' strike",
+          "description": "Public education labour dispute",
+          "extract": "The 2025 Alberta teachers' strike was a public education teachers' strike and labour dispute that took place across Alberta, Canada, and affected the province's education system, resulting in a suspension of classes from October 6, 2025, to October 29, 2025. It was ended after the Notwithstanding Clause was invoked.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2025_Alberta_teachers'_strike",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2025_Alberta_teachers%27_strike_interview_with_two_kids.png/500px-2025_Alberta_teachers%27_strike_interview_with_two_kids.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2025_Alberta_teachers%27_strike_interview_with_two_kids.png/500px-2025_Alberta_teachers%27_strike_interview_with_two_kids.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "2025_alberta_teachers'_strike_interview_with_two_kids.png",
+          "width": 800,
+          "height": 600,
+          "title": "Two children being interviewed about the strike",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2025_Alberta_teachers'_strike",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2025_Alberta_teacher_strike_sign.png/330px-2025_Alberta_teacher_strike_sign.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2025_Alberta_teacher_strike_sign.png/330px-2025_Alberta_teacher_strike_sign.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "2025_alberta_teacher_strike_sign.png",
+          "width": 800,
+          "height": 600,
+          "title": "At a rally, with one of the signs saying \"38 kids in my class is too many,\" highlighting concerns about Alberta's overcrowded classrooms.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2025_Alberta_teachers'_strike",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "2025 Alberta teachers' strike",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2025_Alberta_teachers'_strike",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-06-2022-27e7ac3b",
+      "year": 2022,
+      "text": "Annie Ernaux is awarded the Nobel Prize in Literature.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Annie_Ernaux_in_2022_%284_av_11%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Annie_Ernaux_in_2022_%284_av_11%29.jpg/330px-Annie_Ernaux_in_2022_%284_av_11%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "annie_ernaux_in_2022_(4_av_11).jpg",
+        "width": 1500,
+        "height": 1337,
+        "title": "Annie Ernaux",
+        "description": "French writer (born 1940)",
+        "extract": "Annie Thérèse Blanche Ernaux is a French writer who was awarded the 2022 Nobel Prize in Literature \"for the courage and clinical acuity with which she uncovers the roots, estrangements, and collective restraints of personal memory\". Her literary work, mostly autobiographical, maintains close links with sociology.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Annie_Ernaux",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Annie_Ernaux_in_2022_%284_av_11%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Annie_Ernaux_in_2022_%284_av_11%29.jpg/330px-Annie_Ernaux_in_2022_%284_av_11%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "annie_ernaux_in_2022_(4_av_11).jpg",
+          "width": 1500,
+          "height": 1337,
+          "title": "Annie Ernaux",
+          "description": "French writer (born 1940)",
+          "extract": "Annie Thérèse Blanche Ernaux is a French writer who was awarded the 2022 Nobel Prize in Literature \"for the courage and clinical acuity with which she uncovers the roots, estrangements, and collective restraints of personal memory\". Her literary work, mostly autobiographical, maintains close links with sociology.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Annie_Ernaux",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Annie_Ernaux_al_Salone_del_Libro_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Annie_Ernaux_al_Salone_del_Libro_%28cropped%29.jpg/330px-Annie_Ernaux_al_Salone_del_Libro_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "annie_ernaux_al_salone_del_libro_(cropped).jpg",
+          "width": 759,
+          "height": 1081,
+          "title": "2022 Nobel Prize in Literature",
+          "description": "Award",
+          "extract": "The 2022 Nobel Prize in Literature was awarded to the French author Annie Ernaux \"for the courage and clinical acuity with which she uncovers the roots, estrangements and collective restraints of personal memory\". It was announced by the Swedish Academy on 6 October 2022. Ernaux was the 16th French writer – the first Frenchwoman – and the 17th female author, to receive the Nobel Prize in Literature.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2022_Nobel_Prize_in_Literature",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/ed/Nobel_Prize.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Nobel_Prize.png/330px-Nobel_Prize.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nobel_prize.png",
+          "width": 500,
+          "height": 492,
+          "title": "Nobel Prize in Literature",
+          "description": "Prize established in 1895 by Alfred Nobel",
+          "extract": "The Nobel Prize in Literature, here meaning for Literature, is a Swedish literature prize that is awarded annually to an author from any country who has, in the words of Alfred Nobel, \"in the field of literature, produced the most outstanding work in an idealistic direction\". Though individual works are sometimes cited as being particularly noteworthy, the award is based on an author's body of work as a whole. The Swedish Academy decides who, if anyone, will receive the prize.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nobel_Prize_in_Literature",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Annie Ernaux",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Annie_Ernaux",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-06-2007-73458ee7",
+      "year": 2007,
+      "text": "Jason Lewis completes the first human-powered circumnavigation of the Earth.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jason_Lewis_bicycling_near_Ostend%2C_Sept_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jason_Lewis_bicycling_near_Ostend%2C_Sept_2007.jpg/330px-Jason_Lewis_bicycling_near_Ostend%2C_Sept_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jason_lewis_bicycling_near_ostend,_sept_2007.jpg",
+        "width": 1728,
+        "height": 1152,
+        "title": "Jason Lewis (adventurer)",
+        "description": "English author and sustainability advocate",
+        "extract": "Jason Lewis is an English author, explorer and sustainability campaigner credited with being the first person to circumnavigate the globe by human power. He is also the first person to cross North America on inline skates (1996), and the first to cross the Pacific Ocean by pedal power (2000). Together with Stevie Smith, Lewis completed the first crossing of the Atlantic Ocean from mainland Europe to North America by human power (1995).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jason_Lewis_(adventurer)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jason_Lewis_bicycling_near_Ostend%2C_Sept_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Jason_Lewis_bicycling_near_Ostend%2C_Sept_2007.jpg/330px-Jason_Lewis_bicycling_near_Ostend%2C_Sept_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jason_lewis_bicycling_near_ostend,_sept_2007.jpg",
+          "width": 1728,
+          "height": 1152,
+          "title": "Jason Lewis (adventurer)",
+          "description": "English author and sustainability advocate",
+          "extract": "Jason Lewis is an English author, explorer and sustainability campaigner credited with being the first person to circumnavigate the globe by human power. He is also the first person to cross North America on inline skates (1996), and the first to cross the Pacific Ocean by pedal power (2000). Together with Stevie Smith, Lewis completed the first crossing of the Atlantic Ocean from mainland Europe to North America by human power (1995).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jason_Lewis_(adventurer)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pedal_Boat_Moksha_on_River_Thames.jpg/1280px-Pedal_Boat_Moksha_on_River_Thames.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Pedal_Boat_Moksha_on_River_Thames.jpg/1280px-Pedal_Boat_Moksha_on_River_Thames.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "pedal_boat_moksha_on_river_thames.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Lewis pedalling his boat Moksha on the River Thames in London, shortly before completing the first human-powered circumnavigation of the Earth (2007)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jason_Lewis_(adventurer)",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Jason Lewis (adventurer)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Jason_Lewis_(adventurer)",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-06-2002-31c0c982",
+      "year": 2002,
+      "text": "Al-Qaeda bombed the oil tanker Limburg, causing oil to leak into the Gulf of Aden.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Envisat_image_of_the_Gulf_of_Aden_ESA219526.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Envisat_image_of_the_Gulf_of_Aden_ESA219526.jpg/330px-Envisat_image_of_the_Gulf_of_Aden_ESA219526.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "envisat_image_of_the_gulf_of_aden_esa219526.jpg",
+        "width": 775,
+        "height": 787,
+        "title": "Gulf of Aden",
+        "description": "Gulf between the Horn of Africa and Yemen in the Arabian Peninsula",
+        "extract": "The Gulf of Aden is a deepwater gulf of the Indian Ocean between Yemen to the north, the Arabian Sea to the east, Djibouti to the west, and the Guardafui Channel, the Socotra Archipelago, Puntland in Somalia and Somaliland to the south. In the northwest, it connects with the Red Sea through the Bab-el-Mandeb strait, and it connects with the Arabian Sea to the east. To the west, it narrows into the Gulf of Tadjoura in Djibouti. The Aden Ridge lies along the middle of the gulf, and tectonic activity at the ridge is causing the gulf to widen by about 15 mm (0.59 in) per year.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gulf_of_Aden",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Envisat_image_of_the_Gulf_of_Aden_ESA219526.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Envisat_image_of_the_Gulf_of_Aden_ESA219526.jpg/330px-Envisat_image_of_the_Gulf_of_Aden_ESA219526.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "envisat_image_of_the_gulf_of_aden_esa219526.jpg",
+          "width": 775,
+          "height": 787,
+          "title": "Gulf of Aden",
+          "description": "Gulf between the Horn of Africa and Yemen in the Arabian Peninsula",
+          "extract": "The Gulf of Aden is a deepwater gulf of the Indian Ocean between Yemen to the north, the Arabian Sea to the east, Djibouti to the west, and the Guardafui Channel, the Socotra Archipelago, Puntland in Somalia and Somaliland to the south. In the northwest, it connects with the Red Sea through the Bab-el-Mandeb strait, and it connects with the Arabian Sea to the east. To the west, it narrows into the Gulf of Tadjoura in Djibouti. The Aden Ridge lies along the middle of the gulf, and tectonic activity at the ridge is causing the gulf to widen by about 15 mm (0.59 in) per year.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gulf_of_Aden",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Al-Qaida_au_Maghreb_Islamique_combattants_%284x3%29.png/500px-Al-Qaida_au_Maghreb_Islamique_combattants_%284x3%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Al-Qaida_au_Maghreb_Islamique_combattants_%284x3%29.png/500px-Al-Qaida_au_Maghreb_Islamique_combattants_%284x3%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "al-qaida_au_maghreb_islamique_combattants_(4x3).png",
+          "width": 800,
+          "height": 600,
+          "title": "Al-Qaeda members pose with grenades and rifles, 2010",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Al-Qaeda",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Al-Qaida_cr%C3%A9e_une_brigade_dirig%C3%A9e_par_des_Touaregs_%288246938011%29.jpg/1280px-Al-Qaida_cr%C3%A9e_une_brigade_dirig%C3%A9e_par_des_Touaregs_%288246938011%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Al-Qaida_cr%C3%A9e_une_brigade_dirig%C3%A9e_par_des_Touaregs_%288246938011%29.jpg/1280px-Al-Qaida_cr%C3%A9e_une_brigade_dirig%C3%A9e_par_des_Touaregs_%288246938011%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "al-qaida_crée_une_brigade_dirigée_par_des_touaregs_(8246938011).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Al-Qaeda militant in Sahel armed with a Type 56 assault rifle, 2012",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Al-Qaeda",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Al-Qaeda",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Al-Qaeda",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-06-2000-46ed325d",
+      "year": 2000,
+      "text": "Denouncing corruption in Argentine president Fernando de la Rúa's administration and the Senate, Vice President Carlos Álvarez resigned.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg/330px-Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "fernando_de_la_rúa_con_bastón_y_banda_de_presidente.jpg",
+        "width": 1080,
+        "height": 1350,
+        "title": "Fernando de la Rúa",
+        "description": "President of Argentina from 1999 to 2001",
+        "extract": "Fernando de la Rúa was an Argentine politician who served as the President of Argentina from 1999 until his resignation in 2001. A member of the Radical Civic Union, he previously served as national senator for Buenos Aires across non-consecutive terms from 1973 to 1996, national deputy for Buenos Aires from 1991 to 1992, the first Chief of Government of Buenos Aires between 1996 and 1999, and President of the National Committee of the Radical Civic Union from 1997 to 1999.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fernando_de_la_R%C3%BAa",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg/330px-Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fernando_de_la_rúa_con_bastón_y_banda_de_presidente.jpg",
+          "width": 1080,
+          "height": 1350,
+          "title": "Fernando de la Rúa",
+          "description": "President of Argentina from 1999 to 2001",
+          "extract": "Fernando de la Rúa was an Argentine politician who served as the President of Argentina from 1999 until his resignation in 2001. A member of the Radical Civic Union, he previously served as national senator for Buenos Aires across non-consecutive terms from 1973 to 1996, national deputy for Buenos Aires from 1991 to 1992, the first Chief of Government of Buenos Aires between 1996 and 1999, and President of the National Committee of the Radical Civic Union from 1997 to 1999.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fernando_de_la_R%C3%BAa",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Carlos_Chacho_%C3%81lvarez_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Carlos_Chacho_%C3%81lvarez_%28cropped%29.jpg/330px-Carlos_Chacho_%C3%81lvarez_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "carlos_chacho_álvarez_(cropped).jpg",
+          "width": 737,
+          "height": 986,
+          "title": "Carlos Álvarez (Argentine politician)",
+          "description": "Argentine politician (born 1948)",
+          "extract": "Carlos Alberto Álvarez is an Argentine politician. He was Vice President of Argentina during the first 10 months of President Fernando de la Rúa's term, and headed the ALADI Secretariat from 2011 to 2017.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Carlos_%C3%81lvarez_(Argentine_politician)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/UCR1973.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/UCR1973.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "ucr1973.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Advertisement for the September 1973 general elections, for the Ricardo Balbín-Fernando de la Rúa ticket",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fernando_de_la_R%C3%BAa",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Fernando de la Rúa",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Fernando_de_la_R%C3%BAa",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-06-1981-5a386436",
+      "year": 1981,
+      "text": "Egyptian president Anwar Sadat (pictured) was assassinated while attending a parade in Cairo to mark the eighth anniversary of the Crossing of the Bar Lev Line at the start of the 1973 Arab-Israeli War.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anwar_Sadat_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Anwar_Sadat_cropped.jpg/330px-Anwar_Sadat_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "anwar_sadat_cropped.jpg",
+        "width": 547,
+        "height": 808,
+        "title": "Anwar Sadat",
+        "description": "President of Egypt from 1970 to 1981",
+        "extract": "Muhammad Anwar es-Sadat was an Egyptian politician and military officer who was the third president of Egypt from 1970 until his assassination in 1981. A former member of the Free Officers movement, Sadat was vice president under Gamal Abdel Nasser on two occasions and assumed the office on Nasser's death in 1970.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anwar_Sadat",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anwar_Sadat_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Anwar_Sadat_cropped.jpg/330px-Anwar_Sadat_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anwar_sadat_cropped.jpg",
+          "width": 547,
+          "height": 808,
+          "title": "Anwar Sadat",
+          "description": "President of Egypt from 1970 to 1981",
+          "extract": "Muhammad Anwar es-Sadat was an Egyptian politician and military officer who was the third president of Egypt from 1970 until his assassination in 1981. A former member of the Free Officers movement, Sadat was vice president under Gamal Abdel Nasser on two occasions and assumed the office on Nasser's death in 1970.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anwar_Sadat",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Egyptianbridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Egyptianbridge.jpg/330px-Egyptianbridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "egyptianbridge.jpg",
+          "width": 748,
+          "height": 368,
+          "title": "Operation Badr (1973)",
+          "description": "Egyptian military operation against Israel",
+          "extract": "Operation Badr, also known as Plan Badr, was an Egyptian military offensive and operation across the Suez Canal that destroyed the Bar-Lev Line, a chain of Israeli fortifications along the frontline of the Israeli-occupied Sinai Peninsula, on 6 October 1973. It was launched in conjunction with a Syrian military offensive against the Israeli-occupied Golan Heights, triggering the Yom Kippur War. During the War of Attrition, which preceded Operation Badr, both Egypt and Syria had been seeking to recover the territories that Israel had captured from them during the 1967 Arab–Israeli War.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Badr_(1973)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Bar_Lev_line_fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bar_Lev_line_fort.jpg/330px-Bar_Lev_line_fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bar_lev_line_fort.jpg",
+          "width": 689,
+          "height": 1000,
+          "title": "Bar Lev Line",
+          "description": "Chain of Israeli fortifications on the Suez Canal",
+          "extract": "The Bar Lev Line was a chain of fortifications built by Israel along the eastern bank of the Suez Canal shortly after the 1967 Arab–Israeli War, during which Egypt lost the entire Sinai Peninsula. It was considered impenetrable by the Israeli military until it was overrun in less than two hours during Egypt's Operation Badr, which sparked the Yom Kippur War.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bar_Lev_Line",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Anwar Sadat",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Anwar_Sadat",
+      "relatedPagesCount": 4
+    }
+  ]
+}

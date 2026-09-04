@@ -1,0 +1,571 @@
+{
+  "date": {
+    "month": 10,
+    "day": 15,
+    "formatted": "10-15"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "10-15-2001-722fc551",
+      "year": 2001,
+      "text": "NASA's Galileo spacecraft passes within 112 miles (180 km) of Jupiter's moon Io.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Artwork_Galileo-Io-Jupiter.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Artwork_Galileo-Io-Jupiter.JPG/330px-Artwork_Galileo-Io-Jupiter.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "artwork_galileo-io-jupiter.jpg",
+        "width": 3014,
+        "height": 2422,
+        "title": "Galileo (spacecraft)",
+        "description": "First NASA mission to orbit Jupiter (1989–2003)",
+        "extract": "Galileo was an American robotic space probe that studied the planet Jupiter and its moons, as well as the asteroids Gaspra and Ida. Named after the Italian astronomer Galileo Galilei, it consisted of an orbiter and an entry probe. It was delivered into Earth orbit on October 18, 1989, by Space Shuttle Atlantis, during STS-34. Galileo arrived at Jupiter on December 7, 1995, after gravitational assist flybys of Venus and Earth, and became the first spacecraft to orbit an outer planet.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Galileo_(spacecraft)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Artwork_Galileo-Io-Jupiter.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Artwork_Galileo-Io-Jupiter.JPG/330px-Artwork_Galileo-Io-Jupiter.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "artwork_galileo-io-jupiter.jpg",
+          "width": 3014,
+          "height": 2422,
+          "title": "Galileo (spacecraft)",
+          "description": "First NASA mission to orbit Jupiter (1989–2003)",
+          "extract": "Galileo was an American robotic space probe that studied the planet Jupiter and its moons, as well as the asteroids Gaspra and Ida. Named after the Italian astronomer Galileo Galilei, it consisted of an orbiter and an entry probe. It was delivered into Earth orbit on October 18, 1989, by Space Shuttle Atlantis, during STS-34. Galileo arrived at Jupiter on December 7, 1995, after gravitational assist flybys of Venus and Earth, and became the first spacecraft to orbit an outer planet.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Galileo_(spacecraft)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Galileo_mission_patch.png/500px-Galileo_mission_patch.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Galileo_mission_patch.png/500px-Galileo_mission_patch.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "galileo_mission_patch.png",
+          "width": 800,
+          "height": 600,
+          "title": "Galileo_mission_patch",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Galileo_(spacecraft)",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Galileo_Preparations_-_GPN-2000-000672.jpg/1280px-Galileo_Preparations_-_GPN-2000-000672.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Galileo_Preparations_-_GPN-2000-000672.jpg/1280px-Galileo_Preparations_-_GPN-2000-000672.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "galileo_preparations_-_gpn-2000-000672.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "In the Vertical Processing Facility (VPF), Galileo is prepared for mating with the Inertial Upper Stage booster.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Galileo_(spacecraft)",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Galileo (spacecraft)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Galileo_(spacecraft)",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-15-1997-ab5cacae",
+      "year": 1997,
+      "text": "The Cassini probe launches from Cape Canaveral on its way to Saturn.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/3840px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/330px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "cassini_saturn_orbit_insertion.jpg",
+        "width": 14400,
+        "height": 9600,
+        "title": "Cassini–Huygens",
+        "description": "Mission to Saturn (1997–2017)",
+        "extract": "Cassini–Huygens, commonly called Cassini, was a joint space-research mission by NASA, the European Space Agency (ESA), and the Italian Space Agency (ASI) to send a space probe to study the planet Saturn and its system, including its rings and natural satellites. The Flagship-class robotic spacecraft comprised both NASA's Cassini space probe and ESA's Huygens lander, which landed on Saturn's largest moon, Titan. Cassini was the fourth space probe to visit Saturn and the first to enter its orbit, where it stayed from 2004 to 2017. The two craft took their names from the astronomers Giovanni Cassini and Christiaan Huygens.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/3840px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/330px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cassini_saturn_orbit_insertion.jpg",
+          "width": 14400,
+          "height": 9600,
+          "title": "Cassini–Huygens",
+          "description": "Mission to Saturn (1997–2017)",
+          "extract": "Cassini–Huygens, commonly called Cassini, was a joint space-research mission by NASA, the European Space Agency (ESA), and the Italian Space Agency (ASI) to send a space probe to study the planet Saturn and its system, including its rings and natural satellites. The Flagship-class robotic spacecraft comprised both NASA's Cassini space probe and ESA's Huygens lander, which landed on Saturn's largest moon, Titan. Cassini was the fourth space probe to visit Saturn and the first to enter its orbit, where it stayed from 2004 to 2017. The two craft took their names from the astronomers Giovanni Cassini and Christiaan Huygens.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cassini–Huygens",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-15-2011-6ce3e66c",
+      "year": 2011,
+      "text": "Global demonstrations against economic inequality, corporate influence on government, and other issues, were held in more than 950 cities in 82 countries.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Combination_of_October_2011_global_protests.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Combination_of_October_2011_global_protests.jpg/330px-Combination_of_October_2011_global_protests.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "combination_of_october_2011_global_protests.jpg",
+        "width": 1166,
+        "height": 1260,
+        "title": "15 October 2011 global protests",
+        "description": "Series of protests",
+        "extract": "The 15 October 2011 global protests were part of a series of protests inspired by the Arab Spring, the Icelandic protests, the Portuguese \"Geração à Rasca\", the Spanish \"Indignants\", the Greek protests, and the Occupy movement. The protests were launched under the slogan \"United for #GlobalChange\", to which the slogan \"United for Global Democracy\" was added by many people's assemblies. The protest was first called for by the Spanish Plataforma ¡Democracia Real YA! in May 2011 and endorsed by people's assemblies across the world. Reasons were varied but mainly targeted growing economic inequality, corporate influence over government and international institutions, and the lack of truly democratic institutions allowing direct public participation at all levels, local to global. Global demonstrations were held on 15 October in more than 950 cities in 82 countries. The date was chosen to coincide with the 5-month anniversary of the first protest in Spain. General assemblies, the social network n-1, mailing lists, Mumble voice chat, open pads such as Pirate Pad and Titan Pad, and Facebook were used to coordinate the events. Some protests were only a few hundred in number, whereas others numbered in the hundreds of thousands, with the largest in Madrid numbering half a million and the second largest city Barcelona with 400,000.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/15_October_2011_global_protests",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Combination_of_October_2011_global_protests.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Combination_of_October_2011_global_protests.jpg/330px-Combination_of_October_2011_global_protests.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "combination_of_october_2011_global_protests.jpg",
+          "width": 1166,
+          "height": 1260,
+          "title": "15 October 2011 global protests",
+          "description": "Series of protests",
+          "extract": "The 15 October 2011 global protests were part of a series of protests inspired by the Arab Spring, the Icelandic protests, the Portuguese \"Geração à Rasca\", the Spanish \"Indignants\", the Greek protests, and the Occupy movement. The protests were launched under the slogan \"United for #GlobalChange\", to which the slogan \"United for Global Democracy\" was added by many people's assemblies. The protest was first called for by the Spanish Plataforma ¡Democracia Real YA! in May 2011 and endorsed by people's assemblies across the world. Reasons were varied but mainly targeted growing economic inequality, corporate influence over government and international institutions, and the lack of truly democratic institutions allowing direct public participation at all levels, local to global. Global demonstrations were held on 15 October in more than 950 cities in 82 countries. The date was chosen to coincide with the 5-month anniversary of the first protest in Spain. General assemblies, the social network n-1, mailing lists, Mumble voice chat, open pads such as Pirate Pad and Titan Pad, and Facebook were used to coordinate the events. Some protests were only a few hundred in number, whereas others numbered in the hundreds of thousands, with the largest in Madrid numbering half a million and the second largest city Barcelona with 400,000.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/15_October_2011_global_protests",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Occupy_world_locations.png/1280px-Occupy_world_locations.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Occupy_world_locations.png/1280px-Occupy_world_locations.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "occupy_world_locations.png",
+          "width": 800,
+          "height": 600,
+          "title": "Locations with related protests of over 1000 people",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/15_October_2011_global_protests",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "15 October 2011 global protests",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/15_October_2011_global_protests",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-15-1939-6bf7e481",
+      "year": 1939,
+      "text": "The New York Municipal Airport (later renamed LaGuardia Airport) is dedicated.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/North_Shore_of_Long_Island_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/North_Shore_of_Long_Island_2021_%28cropped%29.jpg/330px-North_Shore_of_Long_Island_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "north_shore_of_long_island_2021_(cropped).jpg",
+        "width": 930,
+        "height": 620,
+        "title": "LaGuardia Airport",
+        "description": "Airport in East Elmhurst, Queens, New York City, U.S.",
+        "extract": "LaGuardia Airport is a civil airport in East Elmhurst, Queens, New York City, United States, situated on the northwestern shore of Long Island, bordering Flushing Bay. It covers 680 acres (280 ha) as of July 1, 2026. The facility was established in 1929 and began operating as a public airport in 1939. It is named after Fiorello La Guardia, a former mayor of New York City.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/LaGuardia_Airport",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/North_Shore_of_Long_Island_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/North_Shore_of_Long_Island_2021_%28cropped%29.jpg/330px-North_Shore_of_Long_Island_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "north_shore_of_long_island_2021_(cropped).jpg",
+          "width": 930,
+          "height": 620,
+          "title": "LaGuardia Airport",
+          "description": "Airport in East Elmhurst, Queens, New York City, U.S.",
+          "extract": "LaGuardia Airport is a civil airport in East Elmhurst, Queens, New York City, United States, situated on the northwestern shore of Long Island, bordering Flushing Bay. It covers 680 acres (280 ha) as of July 1, 2026. The facility was established in 1929 and began operating as a public airport in 1939. It is named after Fiorello La Guardia, a former mayor of New York City.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/LaGuardia_Airport",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bowery-and-Flushing-Bays-1886.png/1280px-Bowery-and-Flushing-Bays-1886.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bowery-and-Flushing-Bays-1886.png/1280px-Bowery-and-Flushing-Bays-1886.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bowery-and-flushing-bays-1886.png",
+          "width": 800,
+          "height": 600,
+          "title": "Coastline of northwest Queens, circa 1866",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/LaGuardia_Airport",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "LaGuardia Airport",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/LaGuardia_Airport",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-15-1932-0f0fe27f",
+      "year": 1932,
+      "text": "Tata Airlines (later to become Air India) makes its first flight.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/VT-JRF_%40_JFK%2C_2024-11-04_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VT-JRF_%40_JFK%2C_2024-11-04_%28cropped%29.png/330px-VT-JRF_%40_JFK%2C_2024-11-04_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "vt-jrf_@_jfk,_2024-11-04_(cropped).png",
+        "width": 2990,
+        "height": 1682,
+        "title": "Air India",
+        "description": "National airline of India",
+        "extract": "Air India is the flag carrier of India, headquartered in Gurugram, Haryana. Its primary hub is located at Indira Gandhi International Airport in Delhi, with secondary hubs at Kempegowda International Airport and Chhatrapati Shivaji Maharaj International Airport. The airline is owned by Air India Limited, which is owned by the Tata Group (74.9%) and Singapore Airlines (25.1%). As of November 2025, the airline serves 87 domestic and international destinations, operates a variety of Airbus and Boeing aircraft, and is the second-largest airline in India by passenger volume, after IndiGo. Air India became the 27th member of Star Alliance on 11 July 2014.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Air_India",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/VT-JRF_%40_JFK%2C_2024-11-04_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VT-JRF_%40_JFK%2C_2024-11-04_%28cropped%29.png/330px-VT-JRF_%40_JFK%2C_2024-11-04_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "vt-jrf_@_jfk,_2024-11-04_(cropped).png",
+          "width": 2990,
+          "height": 1682,
+          "title": "Air India",
+          "description": "National airline of India",
+          "extract": "Air India is the flag carrier of India, headquartered in Gurugram, Haryana. Its primary hub is located at Indira Gandhi International Airport in Delhi, with secondary hubs at Kempegowda International Airport and Chhatrapati Shivaji Maharaj International Airport. The airline is owned by Air India Limited, which is owned by the Tata Group (74.9%) and Singapore Airlines (25.1%). As of November 2025, the airline serves 87 domestic and international destinations, operates a variety of Airbus and Boeing aircraft, and is the second-largest airline in India by passenger volume, after IndiGo. Air India became the 27th member of Star Alliance on 11 July 2014.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Air_India",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Air India",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Air_India",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-15-2003-18a1e6bd",
+      "year": 2003,
+      "text": "China launches Shenzhou 5, its first crewed space mission.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%BB%BA%E9%80%A0%E2%80%9C1%2B1%3D1%E2%80%9D2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%BB%BA%E9%80%A0%E2%80%9C1%2B1%3D1%E2%80%9D2.png/330px-%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%BB%BA%E9%80%A0%E2%80%9C1%2B1%3D1%E2%80%9D2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "中国空间站建造“1+1=1”2.png",
+        "width": 667,
+        "height": 335,
+        "title": "Shenzhou 5",
+        "description": "2003 first human spaceflight mission of China",
+        "extract": "Shenzhou 5 was the first human spaceflight mission of the Chinese space program, launched on 15 October 2003. The Shenzhou spacecraft was launched on a Long March 2F launch vehicle. There had been four previous flights of uncrewed Shenzhou missions since 1999. China became the third country in the world to have independent human spaceflight capability after the Soviet Union/Russia and the United States. As of September 2026, this mission marks the last recent time an astronaut was launched alone to conduct an entirely solo orbital mission.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Shenzhou_5",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%BB%BA%E9%80%A0%E2%80%9C1%2B1%3D1%E2%80%9D2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%BB%BA%E9%80%A0%E2%80%9C1%2B1%3D1%E2%80%9D2.png/330px-%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%BB%BA%E9%80%A0%E2%80%9C1%2B1%3D1%E2%80%9D2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "中国空间站建造“1+1=1”2.png",
+          "width": 667,
+          "height": 335,
+          "title": "Shenzhou 5",
+          "description": "2003 first human spaceflight mission of China",
+          "extract": "Shenzhou 5 was the first human spaceflight mission of the Chinese space program, launched on 15 October 2003. The Shenzhou spacecraft was launched on a Long March 2F launch vehicle. There had been four previous flights of uncrewed Shenzhou missions since 1999. China became the third country in the world to have independent human spaceflight capability after the Soviet Union/Russia and the United States. As of September 2026, this mission marks the last recent time an astronaut was launched alone to conduct an entirely solo orbital mission.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Shenzhou_5",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Shenzhou_5_mission_insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/5/5b/Shenzhou_5_mission_insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "shenzhou_5_mission_insignia.png",
+          "width": 800,
+          "height": 600,
+          "title": "Shenzhou_5_mission_insignia",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Shenzhou_5",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Yang_Liwei%28cropped%29.jpg/500px-Yang_Liwei%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Yang_Liwei%28cropped%29.jpg/500px-Yang_Liwei%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "yang_liwei(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Yang_Liwei(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Shenzhou_5",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Shenzhou 5",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Shenzhou_5",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-15-1987-4aff9d5f",
+      "year": 1987,
+      "text": "A coup d'état in Burkina Faso overthrows and kills then President Thomas Sankara.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Thomas_Sankara_in_Harlem_%281984%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Thomas_Sankara_in_Harlem_%281984%29.png/330px-Thomas_Sankara_in_Harlem_%281984%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "thomas_sankara_in_harlem_(1984).png",
+        "width": 671,
+        "height": 860,
+        "title": "Thomas Sankara",
+        "description": "President of Burkina Faso from 1983 to 1987",
+        "extract": "Thomas Isidore Noël Sankara was a Burkinabé military officer, politician and revolutionary who served as the first president of Burkina Faso from 1983 until his assassination in 1987. Ideologically a Marxist and pan-Africanist, he previously also served as the fifth prime minister of Upper Volta from January to May 1983.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_Sankara",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Thomas_Sankara_in_Harlem_%281984%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Thomas_Sankara_in_Harlem_%281984%29.png/330px-Thomas_Sankara_in_Harlem_%281984%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "thomas_sankara_in_harlem_(1984).png",
+          "width": 671,
+          "height": 860,
+          "title": "Thomas Sankara",
+          "description": "President of Burkina Faso from 1983 to 1987",
+          "extract": "Thomas Isidore Noël Sankara was a Burkinabé military officer, politician and revolutionary who served as the first president of Burkina Faso from 1983 until his assassination in 1987. Ideologically a Marxist and pan-Africanist, he previously also served as the fifth prime minister of Upper Volta from January to May 1983.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_Sankara",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "1987 Burkina Faso coup d'état",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1987_Burkina_Faso_coup_d'%C3%A9tat",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-15-1793-8c8b00bf",
+      "year": 1793,
+      "text": "Queen Marie Antoinette of France is tried and convicted of treason.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg/3840px-Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg/330px-Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "louise_elisabeth_vigée-lebrun_-_marie-antoinette_dit_«_à_la_rose_»_-_google_art_project.jpg",
+        "width": 3894,
+        "height": 4728,
+        "title": "Marie Antoinette",
+        "description": "Queen of France from 1774 to 1792",
+        "extract": "Marie Antoinette was Queen of France as the wife of Louis XVI from 10 May 1774 until the abolition of the French monarchy in 1792 during the French Revolution.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marie_Antoinette",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg/3840px-Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg/330px-Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "louise_elisabeth_vigée-lebrun_-_marie-antoinette_dit_«_à_la_rose_»_-_google_art_project.jpg",
+          "width": 3894,
+          "height": 4728,
+          "title": "Marie Antoinette",
+          "description": "Queen of France from 1774 to 1792",
+          "extract": "Marie Antoinette was Queen of France as the wife of Louis XVI from 10 May 1774 until the abolition of the French monarchy in 1792 during the French Revolution.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Marie_Antoinette",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Liotard_-_Archduchess_Maria_Antonia_-_Sch%C3%B6nbrunn%2C_Study_and_Salon_of_Franz_Karl.jpg/500px-Liotard_-_Archduchess_Maria_Antonia_-_Sch%C3%B6nbrunn%2C_Study_and_Salon_of_Franz_Karl.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Liotard_-_Archduchess_Maria_Antonia_-_Sch%C3%B6nbrunn%2C_Study_and_Salon_of_Franz_Karl.jpg/500px-Liotard_-_Archduchess_Maria_Antonia_-_Sch%C3%B6nbrunn%2C_Study_and_Salon_of_Franz_Karl.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "liotard_-_archduchess_maria_antonia_-_schönbrunn,_study_and_salon_of_franz_karl.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Archduchess Maria Antonia c. 1762 by Jean-Étienne Liotard",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Marie_Antoinette",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Meister_der_Erzherzoginnen-Portr%C3%A4t_-_Erzherzogin_Maria_Antonia.jpg/1280px-Meister_der_Erzherzoginnen-Portr%C3%A4t_-_Erzherzogin_Maria_Antonia.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Meister_der_Erzherzoginnen-Portr%C3%A4t_-_Erzherzogin_Maria_Antonia.jpg/1280px-Meister_der_Erzherzoginnen-Portr%C3%A4t_-_Erzherzogin_Maria_Antonia.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "meister_der_erzherzoginnen-porträt_-_erzherzogin_maria_antonia.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Portrait by Martin van Meytens, c. 1767–1768",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Marie_Antoinette",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Marie Antoinette",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Marie_Antoinette",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-15-2016-0d5c93bf",
+      "year": 2016,
+      "text": "One hundred and ninety-seven nations amend the Montreal Protocol to include a phase-out of hydrofluorocarbons.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ozone_Hole_2024_Update.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ozone_Hole_2024_Update.webp/330px-Ozone_Hole_2024_Update.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ozone_hole_2024_update.webp",
+        "width": 1440,
+        "height": 1480,
+        "title": "Montreal Protocol",
+        "description": "1987 treaty to protect the ozone layer",
+        "extract": "The Montreal Protocol, officially the Montreal Protocol on Substances That Deplete the Ozone Layer, is an international treaty designed to protect the ozone layer by phasing out the production of numerous substances that are responsible for ozone depletion. It was agreed on 16 September 1987, and entered into force on 1 January 1989. Since then it has undergone several amendments and adjustments, with revisions agreed to in 1990 (London), 1992 (Copenhagen), 1995 (Vienna), 1997 (Montreal), 1999 (Beijing), 2007 (Montreal), 2016 (Kigali) and 2018 (Quito).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Montreal_Protocol",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ozone_Hole_2024_Update.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ozone_Hole_2024_Update.webp/330px-Ozone_Hole_2024_Update.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ozone_hole_2024_update.webp",
+          "width": 1440,
+          "height": 1480,
+          "title": "Montreal Protocol",
+          "description": "1987 treaty to protect the ozone layer",
+          "extract": "The Montreal Protocol, officially the Montreal Protocol on Substances That Deplete the Ozone Layer, is an international treaty designed to protect the ozone layer by phasing out the production of numerous substances that are responsible for ozone depletion. It was agreed on 16 September 1987, and entered into force on 1 January 1989. Since then it has undergone several amendments and adjustments, with revisions agreed to in 1990 (London), 1992 (Copenhagen), 1995 (Vienna), 1997 (Montreal), 1999 (Beijing), 2007 (Montreal), 2016 (Kigali) and 2018 (Quito).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Montreal_Protocol",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Montreal Protocol",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Montreal_Protocol",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-15-2013-3334dee4",
+      "year": 2013,
+      "text": "A 7.2-magnitude earthquake struck Bohol in the Philippines, resulting in 222 deaths.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Loon_2_earthquake.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Loon_2_earthquake.JPG/330px-Loon_2_earthquake.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "loon_2_earthquake.jpg",
+        "width": 2592,
+        "height": 1944,
+        "title": "2013 Bohol earthquake",
+        "description": "Magnitude 7.2 earthquake in Bohol",
+        "extract": "The 2013 Bohol earthquake occurred on October 15 at 8:12:31 PST in Bohol, an island province located in Central Visayas, Philippines. The magnitude of the earthquake was recorded at Mw 7.2, its epicenter in the vicinity of 6 kilometres (3.7 mi) S 24° W of Sagbayan, and its depth of focus at 12 kilometres (7.5 mi). It affected the whole Central Visayas region, particularly Bohol and Cebu. The earthquake was felt in the whole Visayas area and as far as Masbate island in the north and Cotabato provinces in southern Mindanao.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2013_Bohol_earthquake",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Loon_2_earthquake.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Loon_2_earthquake.JPG/330px-Loon_2_earthquake.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "loon_2_earthquake.jpg",
+          "width": 2592,
+          "height": 1944,
+          "title": "2013 Bohol earthquake",
+          "description": "Magnitude 7.2 earthquake in Bohol",
+          "extract": "The 2013 Bohol earthquake occurred on October 15 at 8:12:31 PST in Bohol, an island province located in Central Visayas, Philippines. The magnitude of the earthquake was recorded at Mw 7.2, its epicenter in the vicinity of 6 kilometres (3.7 mi) S 24° W of Sagbayan, and its depth of focus at 12 kilometres (7.5 mi). It affected the whole Central Visayas region, particularly Bohol and Cebu. The earthquake was felt in the whole Visayas area and as far as Masbate island in the north and Cotabato provinces in southern Mindanao.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2013_Bohol_earthquake",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Chocolate_Hills_Bohol_Philippines.jpg/3840px-Chocolate_Hills_Bohol_Philippines.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Chocolate_Hills_Bohol_Philippines.jpg/330px-Chocolate_Hills_Bohol_Philippines.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chocolate_hills_bohol_philippines.jpg",
+          "width": 3872,
+          "height": 2592,
+          "title": "Bohol",
+          "description": "Province of the Philippines",
+          "extract": "Bohol, officially the Province of Bohol, is an island province of the Philippines located in the Central Visayas region, consisting of the island itself and 75 minor surrounding islands. It is home to Boholano people. Its capital is Tagbilaran, the province's largest city. With a land area of 4,821 km2 (1,861 sq mi) and a coastline 261 km (162 mi) long, Bohol is the tenth largest island of the Philippines.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bohol",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/7.2_Bohol%2C_Philippines_quake.jpg/500px-7.2_Bohol%2C_Philippines_quake.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/7.2_Bohol%2C_Philippines_quake.jpg/500px-7.2_Bohol%2C_Philippines_quake.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "7.2_bohol,_philippines_quake.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "7.2_Bohol,_Philippines_quake",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2013_Bohol_earthquake",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "2013 Bohol earthquake",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2013_Bohol_earthquake",
+      "relatedPagesCount": 2
+    }
+  ]
+}

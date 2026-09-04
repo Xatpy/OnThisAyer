@@ -1,0 +1,679 @@
+{
+  "date": {
+    "month": 4,
+    "day": 10,
+    "formatted": "04-10"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "04-10-2019-f42f16f9",
+      "year": 2019,
+      "text": "Scientists from the Event Horizon Telescope project released the first image of the black hole at the center of the galaxy M87.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg/330px-Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "event_horizon_telescope_collaboration_(testing-general-relativity-with-the-event-horizon).jpg",
+        "width": 2358,
+        "height": 1762,
+        "title": "Event Horizon Telescope",
+        "description": "Global radio telescope array",
+        "extract": "The Event Horizon Telescope (EHT) is a telescope array consisting of a global network of radio telescopes. The EHT project combines data from several very-long-baseline interferometry (VLBI) stations around Earth, which form a combined array with an angular resolution sufficient to observe objects the size of a supermassive black hole's event horizon. The project's observational targets include the two black holes with the largest angular diameter as observed from Earth: the black hole at the center of the supergiant elliptical galaxy Messier 87, and Sagittarius A*, at the center of the Milky Way.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg/330px-Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "event_horizon_telescope_collaboration_(testing-general-relativity-with-the-event-horizon).jpg",
+          "width": 2358,
+          "height": 1762,
+          "title": "Event Horizon Telescope",
+          "description": "Global radio telescope array",
+          "extract": "The Event Horizon Telescope (EHT) is a telescope array consisting of a global network of radio telescopes. The EHT project combines data from several very-long-baseline interferometry (VLBI) stations around Earth, which form a combined array with an angular resolution sufficient to observe objects the size of a supermassive black hole's event horizon. The project's observational targets include the two black holes with the largest angular diameter as observed from Earth: the black hole at the center of the supergiant elliptical galaxy Messier 87, and Sagittarius A*, at the center of the Milky Way.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/3840px-Black_hole_-_Messier_87_crop_max_res.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/330px-Black_hole_-_Messier_87_crop_max_res.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "black_hole_-_messier_87_crop_max_res.jpg",
+          "width": 4320,
+          "height": 4320,
+          "title": "Black hole",
+          "description": "Compact astronomical body",
+          "extract": "A black hole is an astronomical body so compact that its gravity prevents anything, including light, from escaping. Albert Einstein's theory of general relativity, which describes gravitation as the curvature of spacetime, predicts that any sufficiently compact mass will form a black hole. The boundary of no escape is called the event horizon. In general relativity, crossing a black hole's event horizon traps an object inside but produces no locally detectable change. General relativity also predicts that every black hole should have a central singularity, where the curvature of spacetime is infinite.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Black_hole",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Messier_87_Hubble_WikiSky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Messier_87_Hubble_WikiSky.jpg/330px-Messier_87_Hubble_WikiSky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "messier_87_hubble_wikisky.jpg",
+          "width": 2160,
+          "height": 2160,
+          "title": "Messier 87",
+          "description": "Galaxy in the constellation Virgo",
+          "extract": "Messier 87 is a supergiant elliptical galaxy in the constellation Virgo that contains several trillion stars. One of the largest and most massive galaxies in the local universe, it has a large population of globular clusters—about 15,000 compared with the 150–200 orbiting the Milky Way—and a jet of energetic plasma that originates at the core and extends at least 1,500 parsecs, traveling at a relativistic speed. It is one of the brightest radio sources in the sky and a popular target for both amateur and professional astronomers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Messier_87",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Event Horizon Telescope",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-10-1970-cb085674",
+      "year": 1970,
+      "text": "In the midst of business disagreements with his bandmates, Paul McCartney announced his departure from the Beatles.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/MaccaLyricsRFH051121_%2815_of_18%29_%28updated%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/MaccaLyricsRFH051121_%2815_of_18%29_%28updated%29_%28cropped%29.jpg/330px-MaccaLyricsRFH051121_%2815_of_18%29_%28updated%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "maccalyricsrfh051121_(15_of_18)_(updated)_(cropped).jpg",
+        "width": 1209,
+        "height": 1613,
+        "title": "Paul McCartney",
+        "description": "English musician and songwriter (born 1942)",
+        "extract": "Sir James Paul McCartney is an English musician and songwriter. He gained global fame with the Beatles, for whom he was the bassist and keyboardist, and shared primary songwriting and lead vocal duties with John Lennon. McCartney is known for his melodic approach to bass-playing, versatile tenor vocal range and musical eclecticism, exploring genres ranging from pre–rock and roll pop to classical, ballads and electronica. His songwriting partnership with Lennon was the most successful in music history.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Paul_McCartney",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/MaccaLyricsRFH051121_%2815_of_18%29_%28updated%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/MaccaLyricsRFH051121_%2815_of_18%29_%28updated%29_%28cropped%29.jpg/330px-MaccaLyricsRFH051121_%2815_of_18%29_%28updated%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "maccalyricsrfh051121_(15_of_18)_(updated)_(cropped).jpg",
+          "width": 1209,
+          "height": 1613,
+          "title": "Paul McCartney",
+          "description": "English musician and songwriter (born 1942)",
+          "extract": "Sir James Paul McCartney is an English musician and songwriter. He gained global fame with the Beatles, for whom he was the bassist and keyboardist, and shared primary songwriting and lead vocal duties with John Lennon. McCartney is known for his melodic approach to bass-playing, versatile tenor vocal range and musical eclecticism, exploring genres ranging from pre–rock and roll pop to classical, ballads and electronica. His songwriting partnership with Lennon was the most successful in music history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Paul_McCartney",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/330px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_beatles_1963_dezo_hoffman_capitol_records_press_photo_2.jpg",
+          "width": 3621,
+          "height": 2817,
+          "title": "The Beatles",
+          "description": "English rock band (1960–1970)",
+          "extract": "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20_forthlin_road.jpg/500px-20_forthlin_road.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/20_forthlin_road.jpg/500px-20_forthlin_road.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "20_forthlin_road.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "20 Forthlin Road, Allerton, where the McCartney family moved in 1955",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Paul_McCartney",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Paul McCartney",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Paul_McCartney",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-10-1991-42469206",
+      "year": 1991,
+      "text": "A rare tropical storm develops in the South Atlantic Ocean near Angola, the first to be documented by satellites.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/South_Atlantic_tropical_cyclone_tracks.png/3840px-South_Atlantic_tropical_cyclone_tracks.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/South_Atlantic_tropical_cyclone_tracks.png/330px-South_Atlantic_tropical_cyclone_tracks.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "south_atlantic_tropical_cyclone_tracks.png",
+        "width": 4323,
+        "height": 2958,
+        "title": "South Atlantic tropical cyclone",
+        "description": "Tropical cyclones in the South Atlantic Ocean",
+        "extract": "South Atlantic tropical cyclones are unusual weather events that occur in the Southern Hemisphere. Strong wind shear, which disrupts the formation of cyclones, as well as a lack of weather disturbances favorable for development in the South Atlantic Ocean, make any strong tropical system extremely rare, and Hurricane Catarina in 2004 is the only recorded South Atlantic hurricane in history. Storms can develop year-round in the South Atlantic, with activity peaking during the months from November through May. Since 2011, the Brazilian Navy Hydrographic Center has assigned names to tropical and subtropical systems in the western side of the basin, near the eastern coast of Brazil, when they have sustained wind speeds of at least 65 km/h (40 mph), the generally accepted minimum sustained wind speed for a disturbance to be designated as a tropical storm in the North Atlantic basin. Below is a list of notable South Atlantic tropical and subtropical cyclones.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/South_Atlantic_tropical_cyclone",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/South_Atlantic_tropical_cyclone_tracks.png/3840px-South_Atlantic_tropical_cyclone_tracks.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/South_Atlantic_tropical_cyclone_tracks.png/330px-South_Atlantic_tropical_cyclone_tracks.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "south_atlantic_tropical_cyclone_tracks.png",
+          "width": 4323,
+          "height": 2958,
+          "title": "South Atlantic tropical cyclone",
+          "description": "Tropical cyclones in the South Atlantic Ocean",
+          "extract": "South Atlantic tropical cyclones are unusual weather events that occur in the Southern Hemisphere. Strong wind shear, which disrupts the formation of cyclones, as well as a lack of weather disturbances favorable for development in the South Atlantic Ocean, make any strong tropical system extremely rare, and Hurricane Catarina in 2004 is the only recorded South Atlantic hurricane in history. Storms can develop year-round in the South Atlantic, with activity peaking during the months from November through May. Since 2011, the Brazilian Navy Hydrographic Center has assigned names to tropical and subtropical systems in the western side of the basin, near the eastern coast of Brazil, when they have sustained wind speeds of at least 65 km/h (40 mph), the generally accepted minimum sustained wind speed for a disturbance to be designated as a tropical storm in the North Atlantic basin. Below is a list of notable South Atlantic tropical and subtropical cyclones.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/South_Atlantic_tropical_cyclone",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/3840px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/330px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dramatic_views_of_hurricane_florence_from_the_international_space_station_from_9_12_(42828603210)_(cropped).jpg",
+          "width": 4750,
+          "height": 3250,
+          "title": "Tropical cyclone",
+          "description": "Rapidly rotating storm system",
+          "extract": "A tropical cyclone is a rapidly rotating storm system with a low-pressure area, a closed low-level atmospheric circulation, strong winds, and a spiral arrangement of thunderstorms that produce heavy rain and squalls. Depending on its location and strength, a tropical cyclone is called a hurricane, typhoon, tropical storm, cyclonic storm, tropical depression, or simply cyclone. A hurricane is a strong tropical cyclone that occurs in the Atlantic Ocean or northeastern Pacific Ocean. A typhoon is the same thing which occurs in the northwestern Pacific Ocean. In the Indian Ocean and South Pacific, comparable storms are referred to as \"tropical cyclones\". In modern times, on average around 80 to 90 named tropical cyclones form each year around the world, over half of which develop hurricane-force winds of 65 kn or more.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Atlantic_Ocean_-_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Atlantic_Ocean_-_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "atlantic_ocean_-_en.png",
+          "width": 328,
+          "height": 328,
+          "title": "Atlantic Ocean",
+          "description": "Oceanic division",
+          "extract": "The Atlantic Ocean is the second largest of the world's five oceans, with an area of about 85,133,000 square kilometers (32,870,000 sq mi). It covers approximately 17% of Earth's surface and about 24% of its water surface area. During the Age of Discovery, it was known for separating the New World of the Americas from the Old World of Afro-Eurasia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Atlantic_Ocean",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "South Atlantic tropical cyclone",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/South_Atlantic_tropical_cyclone",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "04-10-2009-3807224f",
+      "year": 2009,
+      "text": "President of Fiji Ratu Josefa Iloilo announces the abrogation of the constitution and assumes all governance in the country, creating a constitutional crisis.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josefa_Iloilo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josefa_Iloilo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "josefa_iloilo.jpg",
+        "width": 117,
+        "height": 153,
+        "title": "Josefa Iloilo",
+        "description": "President of Fiji from 2000 to 2009",
+        "extract": "Ratu Josefa Iloilovatu Uluivuda, was a Fijian politician who served as the 3rd President of Fiji from 2000 until 2009 following the 2000 Fijian coup d'état, excluding a brief period from 5 December 2006 to 4 January 2007 amid the 2006 coup d'état. He held the traditional title of Tui Vuda, the paramount chief of the Vuda district in Ba Province on Fiji's northwest coast. Like many Fijian people, he rarely used his surname and was known simply as Josefa Iloilo. He announced on 28 July 2009 that he would be leaving office on 30 July. At the age of 88, he was the world's oldest incumbent head of state.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Josefa_Iloilo",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josefa_Iloilo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Josefa_Iloilo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "josefa_iloilo.jpg",
+          "width": 117,
+          "height": 153,
+          "title": "Josefa Iloilo",
+          "description": "President of Fiji from 2000 to 2009",
+          "extract": "Ratu Josefa Iloilovatu Uluivuda, was a Fijian politician who served as the 3rd President of Fiji from 2000 until 2009 following the 2000 Fijian coup d'état, excluding a brief period from 5 December 2006 to 4 January 2007 amid the 2006 coup d'état. He held the traditional title of Tui Vuda, the paramount chief of the Vuda district in Ba Province on Fiji's northwest coast. Like many Fijian people, he rarely used his surname and was known simply as Josefa Iloilo. He announced on 28 July 2009 that he would be leaving office on 30 July. At the age of 88, he was the world's oldest incumbent head of state.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Josefa_Iloilo",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Naiqama_Lalabalavu_March_2023_%28cropped%29_2.jpg/500px-Naiqama_Lalabalavu_March_2023_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Naiqama_Lalabalavu_March_2023_%28cropped%29_2.jpg/500px-Naiqama_Lalabalavu_March_2023_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "naiqama_lalabalavu_march_2023_(cropped)_2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Naiqama_Lalabalavu_March_2023_(cropped)_2",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/President_of_Fiji",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "President of Fiji",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/President_of_Fiji",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "04-10-1896-925963f5",
+      "year": 1896,
+      "text": "Summer Olympics: The Olympic marathon is run ending with the victory of Greek athlete Spyridon Louis.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Commemorative_album_of_1896_Olympic_Games_-_cover_by_E._Gilli%C3%A9ron.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Commemorative_album_of_1896_Olympic_Games_-_cover_by_E._Gilli%C3%A9ron.jpg/330px-Commemorative_album_of_1896_Olympic_Games_-_cover_by_E._Gilli%C3%A9ron.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "commemorative_album_of_1896_olympic_games_-_cover_by_e._gilliéron.jpg",
+        "width": 1287,
+        "height": 1600,
+        "title": "1896 Summer Olympics",
+        "description": "Multi-sport event in Athens, Greece",
+        "extract": "The 1896 Summer Olympics, officially known as the Games of the I Olympiad, and commonly known as Athens 1896, were the first international Olympic Games held in modern history. Organised by the International Olympic Committee (IOC), which had been created by French aristocrat Pierre de Coubertin, the event was held in Athens, Greece, from 6 to 15 April 1896.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1896_Summer_Olympics",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Commemorative_album_of_1896_Olympic_Games_-_cover_by_E._Gilli%C3%A9ron.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Commemorative_album_of_1896_Olympic_Games_-_cover_by_E._Gilli%C3%A9ron.jpg/330px-Commemorative_album_of_1896_Olympic_Games_-_cover_by_E._Gilli%C3%A9ron.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "commemorative_album_of_1896_olympic_games_-_cover_by_e._gilliéron.jpg",
+          "width": 1287,
+          "height": 1600,
+          "title": "1896 Summer Olympics",
+          "description": "Multi-sport event in Athens, Greece",
+          "extract": "The 1896 Summer Olympics, officially known as the Games of the I Olympiad, and commonly known as Athens 1896, were the first international Olympic Games held in modern history. Organised by the International Olympic Committee (IOC), which had been created by French aristocrat Pierre de Coubertin, the event was held in Athens, Greece, from 6 to 15 April 1896.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1896_Summer_Olympics",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BSK_CSOB_MARATON046_%2833791445325%29.jpg/3840px-BSK_CSOB_MARATON046_%2833791445325%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/BSK_CSOB_MARATON046_%2833791445325%29.jpg/330px-BSK_CSOB_MARATON046_%2833791445325%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bsk_csob_maraton046_(33791445325).jpg",
+          "width": 5472,
+          "height": 3648,
+          "title": "Marathon",
+          "description": "Long-distance running event of 42.195 kilometres",
+          "extract": "The marathon is a long-distance foot race with a distance of 42.195 kilometres, usually run as a road race, but the distance can be covered on trail routes. The marathon can be completed by running or with a run/walk strategy. There are also wheelchair divisions. More than 800 marathons are held worldwide each year, with the vast majority of competitors being recreational athletes, as larger marathons can have tens of thousands of participants.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Marathon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Spyridon_Louis_1896.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Spyridon_Louis_1896.jpg/330px-Spyridon_Louis_1896.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "spyridon_louis_1896.jpg",
+          "width": 699,
+          "height": 999,
+          "title": "Spyridon Louis",
+          "description": "Greek amateur athlete (1873–1940)",
+          "extract": "Spyridon Louis, commonly known as Spyros Louis, was a Greek water carrier who won the first modern-day Olympic marathon at the 1896 Summer Olympics. Following his victory, he was celebrated as a national hero.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Spyridon_Louis",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "1896 Summer Olympics",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1896_Summer_Olympics",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-10-1858-38699de9",
+      "year": 1858,
+      "text": "Big Ben, the bell in the Palace of Westminster's clock tower in London, was cast after the original bell cracked during testing.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg/3840px-Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg/330px-Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "elizabeth_tower_and_the_north_front_of_the_palace_of_westminster,_london.jpg",
+        "width": 4347,
+        "height": 7728,
+        "title": "Big Ben",
+        "description": "Clock tower in London, England",
+        "extract": "Big Ben is the nickname for the Great Bell of the Great Clock of Westminster, and, by extension, for the clock tower that stands at the north end of the Palace of Westminster in London, England. Originally named the Clock Tower, the structure was renamed the Elizabeth Tower in 2012 to mark the Diamond Jubilee of Queen Elizabeth II. The clock is a striking clock with five bells.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Big_Ben",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg/3840px-Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg/330px-Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "elizabeth_tower_and_the_north_front_of_the_palace_of_westminster,_london.jpg",
+          "width": 4347,
+          "height": 7728,
+          "title": "Big Ben",
+          "description": "Clock tower in London, England",
+          "extract": "Big Ben is the nickname for the Great Bell of the Great Clock of Westminster, and, by extension, for the clock tower that stands at the north end of the Palace of Westminster in London, England. Originally named the Clock Tower, the structure was renamed the Elizabeth Tower in 2012 to mark the Diamond Jubilee of Queen Elizabeth II. The clock is a striking clock with five bells.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Big_Ben",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg/3840px-Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg/330px-Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "palace_of_westminster_as_seen_from_westminster_bridge.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": "Palace of Westminster",
+          "description": "Meeting place of the UK Parliament",
+          "extract": "The Palace of Westminster is the meeting place of the Parliament of the United Kingdom and is located in London, England. It is colloquially known as the Houses of Parliament after the House of Commons and the House of Lords, the two legislative chambers which occupy the building. The palace is one of the centres of political life in the United Kingdom; \"Westminster\" has become a metonym for the UK Parliament and the British Government, and the Westminster system of government commemorates the name of the palace. The Elizabeth Tower of the palace houses the bell nicknamed Big Ben and is a landmark of London and the United Kingdom in general. The palace has been a Grade I listed building since 1970 and part of a UNESCO World Heritage Site since 1987.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Palace_of_Westminster",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cast_iron_melting.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Cast_iron_melting.JPG/330px-Cast_iron_melting.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cast_iron_melting.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": "Casting",
+          "description": "Manufacturing process in which a liquid is poured into a mold to solidify",
+          "extract": "Casting is a manufacturing process in which a liquid material is usually poured into a mold, which contains a hollow cavity of the desired shape, and then allowed to solidify. The solidified part is also known as a casting, which is ejected or broken out of the mold to complete the process. Casting materials are usually metals or various time setting materials that cure after mixing two or more components together; examples are epoxy, concrete, plaster and clay. Casting is most often used for making complex shapes that would be otherwise difficult or uneconomical to make by other methods. Heavy equipment like machine tool beds, ships' propellers, etc. can be cast easily in the required size, rather than fabricating by joining several small pieces. Casting is a 7,000-year-old process. The oldest surviving casting is a copper frog from 3200 BC.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Casting",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Big Ben",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Big_Ben",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-10-1972-e61b92f9",
+      "year": 1972,
+      "text": "Vietnam War: For the first time since November 1967, American B-52 bombers reportedly begin bombing North Vietnam.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 80,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "u.s._army_uh-1h_hueys_insert_arvn_troops_at_khâm_đức,_vietnam,_12_july_1970_(79431435).jpg",
+        "width": 1085,
+        "height": 664,
+        "title": "Vietnam War",
+        "description": "1955–1975 war in Southeast Asia",
+        "extract": "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the Indochina wars and a proxy war of the Cold War. The Vietnam War was one of the postcolonial wars of national liberation, a theater in the Cold War, and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965 until US forces were withdrawn in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vietnam_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "u.s._army_uh-1h_hueys_insert_arvn_troops_at_khâm_đức,_vietnam,_12_july_1970_(79431435).jpg",
+          "width": 1085,
+          "height": 664,
+          "title": "Vietnam War",
+          "description": "1955–1975 war in Southeast Asia",
+          "extract": "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the Indochina wars and a proxy war of the Cold War. The Vietnam War was one of the postcolonial wars of national liberation, a theater in the Cold War, and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965 until US forces were withdrawn in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vietnam_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Israeli_tanks_advancing_on_the_Golan_Heights._June_1967._D327-098.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Israeli_tanks_advancing_on_the_Golan_Heights._June_1967._D327-098.jpg/330px-Israeli_tanks_advancing_on_the_Golan_Heights._June_1967._D327-098.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "israeli_tanks_advancing_on_the_golan_heights._june_1967._d327-098.jpg",
+          "width": 3072,
+          "height": 2048,
+          "title": "1967",
+          "description": "Calendar year",
+          "extract": "1967 (MCMLXVII) was a common year starting on Sunday of the Gregorian calendar, the 1967th year of the Common Era (CE) and Anno Domini (AD) designations, the 967th year of the 2nd millennium, the 67th year of the 20th century, and the 8th year of the 1960s decade. ",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1967",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/330px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "b-52_stratofortress_assigned_to_the_307th_bomb_wing_(cropped).jpg",
+          "width": 3579,
+          "height": 2436,
+          "title": "Boeing B-52 Stratofortress",
+          "description": "American strategic bomber aircraft",
+          "extract": "The Boeing B-52 Stratofortress is an American nuclear-capable subsonic jet-powered strategic bomber. The B-52 was designed and built by Boeing, which has continued to provide support and upgrades. It has been operated by the United States Air Force (USAF) since 1955 and was flown by NASA from 1959 to 2007. The bomber can carry up to 70,000 pounds (32,000 kg) of weapons and has a typical combat range of around 8,800 miles (14,200 km) without aerial refueling.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Vietnam War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Vietnam_War",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "04-10-2023-d09bd5a5",
+      "year": 2023,
+      "text": "A mass shooting occurs at the Old National Bank in Louisville, Kentucky, that leaves five victims dead and eight wounded.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Louisville_Shooting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Louisville_Shooting.jpg/330px-Louisville_Shooting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "louisville_shooting.jpg",
+        "width": 474,
+        "height": 266,
+        "title": "2023 Louisville bank shooting",
+        "description": "Mass shooting in Kentucky, U.S.",
+        "extract": "On April 10, 2023, a mass shooting occurred at an Old National Bank branch in Louisville, Kentucky, United States. Five people were killed, and eight others were injured, including two responding police officers. The shooter, 25-year-old former employee Connor James Sturgeon, was fatally shot by police at the scene.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2023_Louisville_bank_shooting",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Louisville_Shooting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Louisville_Shooting.jpg/330px-Louisville_Shooting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "louisville_shooting.jpg",
+          "width": 474,
+          "height": 266,
+          "title": "2023 Louisville bank shooting",
+          "description": "Mass shooting in Kentucky, U.S.",
+          "extract": "On April 10, 2023, a mass shooting occurred at an Old National Bank branch in Louisville, Kentucky, United States. Five people were killed, and eight others were injured, including two responding police officers. The shooter, 25-year-old former employee Connor James Sturgeon, was fatally shot by police at the scene.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2023_Louisville_bank_shooting",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Onb_headquarters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Onb_headquarters.jpg/330px-Onb_headquarters.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "onb_headquarters.jpg",
+          "width": 450,
+          "height": 600,
+          "title": "Old National Bank",
+          "description": "American Regional Bank",
+          "extract": "Old National Bank is an American regional bank with nearly 200 retail branches operated by Old National Bancorp and based in Chicago and Evansville, Indiana. With assets at $48.5 billion and 250 banking centers, Old National Bancorp is the largest financial services bank holding company headquartered in Indiana and one of the top 30 banking companies in the U.S. Old National Bank has locations in Illinois, Indiana, Iowa, Kentucky, Michigan, Minnesota, North Dakota, Tennessee, and Wisconsin.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Old_National_Bank",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Louisville_Skyline_2021_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Louisville_Skyline_2021_%283%29.jpg/330px-Louisville_Skyline_2021_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "louisville_skyline_2021_(3).jpg",
+          "width": 1415,
+          "height": 777,
+          "title": "Louisville, Kentucky",
+          "description": "Most populous city in Kentucky, United States",
+          "extract": "Louisville is the most populous city in the U.S. state of Kentucky, sixth-most populous city in the Southeast, and the 27th-most-populous city in the United States. By land area, it is the country's 24th-largest city; however, by population density, it is the 265th most dense city. Louisville is the historical county seat and, since 2003, the nominal seat of Jefferson County, on the Indiana state line.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Louisville%2C_Kentucky",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "2023 Louisville bank shooting",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2023_Louisville_bank_shooting",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-10-2016-0998fac0",
+      "year": 2016,
+      "text": "The Paravur temple accident, in which a devastating fire caused by the explosion of firecrackers stored for Vishu kills more than one hundred people out of the thousands gathered for the seventh day of Bhadrakali worship.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%E0%B4%AA%E0%B5%81%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BD_%E0%B4%A6%E0%B5%87%E0%B4%B5%E0%B4%BF_%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%E0%B4%AA%E0%B5%81%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BD_%E0%B4%A6%E0%B5%87%E0%B4%B5%E0%B4%BF_%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82.jpg/330px-%E0%B4%AA%E0%B5%81%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BD_%E0%B4%A6%E0%B5%87%E0%B4%B5%E0%B4%BF_%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "പുറ്റിങ്ങൽ_ദേവി_ക്ഷേത്രം.jpg",
+        "width": 800,
+        "height": 533,
+        "title": "Puttingal temple fire",
+        "description": "2016 explosion in Paravur, Kerala, India",
+        "extract": "On 10 April 2016 at approximately 03:30 am IST, the Puttingal Temple in Paravur, Kollam, Kerala, India, experienced a fireworks accident after firework celebrations went awry. As a result, 111 people were killed and more than 350 were injured, including some with severe burns. The temple and at least 150 houses in the area of the temple were damaged by the blast. According to local reports and eyewitnesses, the explosion and fire were caused by sparks from a firecracker being used in a competitive fireworks display igniting fireworks in a concrete storehouse. About 15,000 pilgrims were visiting the temple to mark local Hindu celebrations during the last day of a seven-day festival of the goddess Bhadrakali.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Puttingal_temple_fire",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%E0%B4%AA%E0%B5%81%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BD_%E0%B4%A6%E0%B5%87%E0%B4%B5%E0%B4%BF_%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%E0%B4%AA%E0%B5%81%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BD_%E0%B4%A6%E0%B5%87%E0%B4%B5%E0%B4%BF_%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82.jpg/330px-%E0%B4%AA%E0%B5%81%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BD_%E0%B4%A6%E0%B5%87%E0%B4%B5%E0%B4%BF_%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B5%87%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "പുറ്റിങ്ങൽ_ദേവി_ക്ഷേത്രം.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "Puttingal temple fire",
+          "description": "2016 explosion in Paravur, Kerala, India",
+          "extract": "On 10 April 2016 at approximately 03:30 am IST, the Puttingal Temple in Paravur, Kollam, Kerala, India, experienced a fireworks accident after firework celebrations went awry. As a result, 111 people were killed and more than 350 were injured, including some with severe burns. The temple and at least 150 houses in the area of the temple were damaged by the blast. According to local reports and eyewitnesses, the explosion and fire were caused by sparks from a firecracker being used in a competitive fireworks display igniting fireworks in a concrete storehouse. About 15,000 pilgrims were visiting the temple to mark local Hindu celebrations during the last day of a seven-day festival of the goddess Bhadrakali.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Puttingal_temple_fire",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Vishu_Kani_foods.jpg/3840px-Vishu_Kani_foods.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Vishu_Kani_foods.jpg/330px-Vishu_Kani_foods.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "vishu_kani_foods.jpg",
+          "width": 4160,
+          "height": 3120,
+          "title": "Vishu",
+          "description": "Indian festival",
+          "extract": "Vishu is a Hindu harvest festival celebrated by the Malayalis in Kerala and Mahe of India. Vishu falls on the first day of the month of Medam, the first month of the Solar calendar used in Malabar of Kerala,, signifying the solar new year as the sun moves into the zodiac sign of Aries. It is the traditional new year, while the Kollam era calendar, which was later formed at Kollam in 825 CE, new year falls on the 1st Chingham.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vishu",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Goddess_Bhadrakali.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Goddess_Bhadrakali.jpg/330px-Goddess_Bhadrakali.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "goddess_bhadrakali.jpg",
+          "width": 446,
+          "height": 466,
+          "title": "Bhadrakali",
+          "description": "Hindu goddess",
+          "extract": "Bhadrakali is a fierce form of the Hindu supreme goddess Adi Shakti. She is worshipped predominantly in the South Indian state of Kerala and Nashik.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bhadrakali",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Puttingal temple fire",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Puttingal_temple_fire",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-10-1988-e39a6fd7",
+      "year": 1988,
+      "text": "The Ojhri Camp explosion kills or injures more than 1,000 people in Rawalpindi and Islamabad, Pakistan.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rawalpindi_railway_station_4.JPG/3840px-Rawalpindi_railway_station_4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rawalpindi_railway_station_4.JPG/330px-Rawalpindi_railway_station_4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "rawalpindi_railway_station_4.jpg",
+        "width": 3920,
+        "height": 2204,
+        "title": "Rawalpindi",
+        "description": "Metropolis in Punjab, Pakistan",
+        "extract": "Rawalpindi, colloquially known as Pindi, is the third-largest city in the Pakistani province of Punjab and the fourth-most populous city in Pakistan. Located along the Soan River in north-western Punjab, Rawalpindi lies adjacent to Pakistan's capital, Islamabad, and the two are jointly known as the \"twin cities\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rawalpindi",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rawalpindi_railway_station_4.JPG/3840px-Rawalpindi_railway_station_4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Rawalpindi_railway_station_4.JPG/330px-Rawalpindi_railway_station_4.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rawalpindi_railway_station_4.jpg",
+          "width": 3920,
+          "height": 2204,
+          "title": "Rawalpindi",
+          "description": "Metropolis in Punjab, Pakistan",
+          "extract": "Rawalpindi, colloquially known as Pindi, is the third-largest city in the Pakistani province of Punjab and the fourth-most populous city in Pakistan. Located along the Soan River in north-western Punjab, Rawalpindi lies adjacent to Pakistan's capital, Islamabad, and the two are jointly known as the \"twin cities\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rawalpindi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg/3840px-Faisal_Mosque%2C_Islamabad_III.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg/330px-Faisal_Mosque%2C_Islamabad_III.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "faisal_mosque,_islamabad_iii.jpg",
+          "width": 4618,
+          "height": 3464,
+          "title": "Islamabad",
+          "description": "Capital of Pakistan",
+          "extract": "Islamabad is the capital city of Pakistan. It is the country's tenth-most populous city with a population of over 1.1 million; and is federally administered by the Pakistani government as part of the Islamabad Capital Territory — with a metropolitan population of over 2.3 million. Built as a planned city along the Margalla Hills in the 1960s and established in 1967, Islamabad replaced Karachi as Pakistan's national capital. It is located in the northern Punjab region, north of the city of Rawalpindi — with which it forms a metropolitan area of over 5.7 million inhabitants.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Islamabad",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/General_Muhammad_Zia-Ul-Haq.jpg/330px-General_Muhammad_Zia-Ul-Haq.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/General_Muhammad_Zia-Ul-Haq.jpg/330px-General_Muhammad_Zia-Ul-Haq.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "general_muhammad_zia-ul-haq.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "General_Muhammad_Zia-Ul-Haq",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ojhri_Camp_disaster",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Ojhri Camp disaster",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ojhri_Camp_disaster",
+      "relatedPagesCount": 3
+    }
+  ]
+}

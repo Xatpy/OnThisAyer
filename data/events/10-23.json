@@ -1,0 +1,619 @@
+{
+  "date": {
+    "month": 10,
+    "day": 23,
+    "formatted": "10-23"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "10-23-2007-9ae63dc4",
+      "year": 2007,
+      "text": "Space Shuttle Discovery is launched on STS-120, with Pamela Melroy becoming the second female space shuttle commander.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+        "width": 3336,
+        "height": 2507,
+        "title": "Space Shuttle Discovery",
+        "description": "Space Shuttle orbiter (1984–2011)",
+        "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+          "width": 3336,
+          "height": 2507,
+          "title": "Space Shuttle Discovery",
+          "description": "Space Shuttle orbiter (1984–2011)",
+          "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/STS-120_EVA_Scott_Parazynski.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/STS-120_EVA_Scott_Parazynski.jpg/330px-STS-120_EVA_Scott_Parazynski.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-120_eva_scott_parazynski.jpg",
+          "width": 3032,
+          "height": 2008,
+          "title": "STS-120",
+          "description": "2007 American crewed spaceflight to the ISS",
+          "extract": "STS-120 was a Space Shuttle mission to the International Space Station (ISS) that launched on October 23, 2007, from the Kennedy Space Center, Florida. The mission is also referred to as ISS-10A by the ISS program. STS-120 delivered the Harmony module and reconfigured a portion of the station in preparation for future assembly missions. STS-120 was flown by Space Shuttle Discovery, and was the twenty-third Space Shuttle mission to the ISS. It was Discovery's 34th flight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-120",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/NASA_Deputy_Administrator_Pam_Melroy_Official_Portrait_%28NHQ202303020038%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/NASA_Deputy_Administrator_Pam_Melroy_Official_Portrait_%28NHQ202303020038%29.jpeg/330px-NASA_Deputy_Administrator_Pam_Melroy_Official_Portrait_%28NHQ202303020038%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nasa_deputy_administrator_pam_melroy_official_portrait_(nhq202303020038).jpeg",
+          "width": 3133,
+          "height": 3916,
+          "title": "Pamela Melroy",
+          "description": "American astronaut and USAF officer (born 1961)",
+          "extract": "Pamela Ann Melroy is an American retired United States Air Force officer and NASA astronaut who also served as the deputy administrator of NASA. She served as pilot on Space Shuttle missions STS-92 and STS-112 and commanded mission STS-120 before leaving the agency in August 2009. After serving as deputy program manager of Space Exploration Initiatives with Lockheed Martin, Melroy joined the Federal Aviation Administration in 2011, where she was a senior technical advisor and director of field operations for the FAA's Office of Commercial Space Transportation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pamela_Melroy",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Discovery",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-23-2001-be3d3b40",
+      "year": 2001,
+      "text": "Grand Theft Auto III was released, helping to popularize open-world and mature-content video games.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/b/be/GTA3boxcover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/GTA3boxcover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "gta3boxcover.jpg",
+        "width": 280,
+        "height": 362,
+        "title": "Grand Theft Auto III",
+        "description": "2001 video game",
+        "extract": "Grand Theft Auto III is a 2001 action-adventure game developed by DMA Design and published by Rockstar Games. It is the first 3D game in the Grand Theft Auto series. Set in Liberty City, loosely based on New York City, the game follows Claude, a silent protagonist who becomes entangled in a world of crime, drugs, gang warfare, and corruption while pursuing revenge against his ex-girlfriend. The game is played from a third-person perspective and its world is navigated on foot or by vehicle. Its open world design lets the player freely roam Liberty City, which consists of three islands.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/b/be/GTA3boxcover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/b/be/GTA3boxcover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "gta3boxcover.jpg",
+          "width": 280,
+          "height": 362,
+          "title": "Grand Theft Auto III",
+          "description": "2001 video game",
+          "extract": "Grand Theft Auto III is a 2001 action-adventure game developed by DMA Design and published by Rockstar Games. It is the first 3D game in the Grand Theft Auto series. Set in Liberty City, loosely based on New York City, the game follows Claude, a silent protagonist who becomes entangled in a world of crime, drugs, gang warfare, and corruption while pursuing revenge against his ex-girlfriend. The game is played from a third-person perspective and its world is navigated on foot or by vehicle. Its open world design lets the player freely roam Liberty City, which consists of three islands.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/A_Short_Hike_Screenshot_5.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/A_Short_Hike_Screenshot_5.png/330px-A_Short_Hike_Screenshot_5.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "a_short_hike_screenshot_5.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Open world",
+          "description": "Type of video game design",
+          "extract": "In video games, an open world is a virtual world in which the player can approach objectives freely, as opposed to a world with more linear and structured gameplay. Notable games in this category include Grand Theft Auto: San Andreas (2004), The Legend of Zelda: Breath of the Wild (2017), Red Dead Redemption 2 (2018), and Minecraft (2011).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Open_world",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Gta3-pc-walking.jpeg/330px-Gta3-pc-walking.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Gta3-pc-walking.jpeg/330px-Gta3-pc-walking.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "gta3-pc-walking.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": "The player can freely roam the game's world and use weapons to accomplish tasks.[4]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Grand Theft Auto III",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_III",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-23-1995-790b9f35",
+      "year": 1995,
+      "text": "The runway show for Alexander McQueen's collection The Hunger was staged at London's Natural History Museum.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Alexander_McQueen_by_FashionWirePress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Alexander_McQueen_by_FashionWirePress.jpg/330px-Alexander_McQueen_by_FashionWirePress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "alexander_mcqueen_by_fashionwirepress.jpg",
+        "width": 346,
+        "height": 511,
+        "title": "Alexander McQueen",
+        "description": "British fashion designer (1969–2010)",
+        "extract": "Lee Alexander McQueen was a British fashion designer and couturier. He founded the eponymous fashion house Alexander McQueen in 1992, and worked as chief designer at Givenchy from 1996 to 2001. He won four British Designer of the Year awards, and the CFDA International Designer of the Year award in 2003.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_McQueen",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Alexander_McQueen_by_FashionWirePress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Alexander_McQueen_by_FashionWirePress.jpg/330px-Alexander_McQueen_by_FashionWirePress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "alexander_mcqueen_by_fashionwirepress.jpg",
+          "width": 346,
+          "height": 511,
+          "title": "Alexander McQueen",
+          "description": "British fashion designer (1969–2010)",
+          "extract": "Lee Alexander McQueen was a British fashion designer and couturier. He founded the eponymous fashion house Alexander McQueen in 1992, and worked as chief designer at Givenchy from 1996 to 2001. He won four British Designer of the Year awards, and the CFDA International Designer of the Year award in 2003.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_McQueen",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/53/The_worm_corset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/The_worm_corset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "the_worm_corset.jpg",
+          "width": 273,
+          "height": 365,
+          "title": "The Hunger (collection)",
+          "description": "1996 fashion collection by Alexander McQueen",
+          "extract": "The Hunger is the seventh collection by British designer Alexander McQueen, released for the Spring/Summer 1996 season of his eponymous fashion house. The collection was primarily inspired by The Hunger, a 1983 erotic horror film about vampires. McQueen had limited financial backing, so the collection was created on a minimal budget. Typically for McQueen in the early stages of his career, the collection centred around sharply tailored garments and emphasised female sexuality. It was his first collection to include menswear.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Hunger_(collection)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Alexander McQueen",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Alexander_McQueen",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-23-1906-2f5941f9",
+      "year": 1906,
+      "text": "Alberto Santos-Dumont flew his biplane 14-bis for 50 metres (160 ft) at an altitude of about four metres (13 ft).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Alberto_Santos-Dumont_by_Zaida_Ben-Yusuf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alberto_Santos-Dumont_by_Zaida_Ben-Yusuf.jpg/330px-Alberto_Santos-Dumont_by_Zaida_Ben-Yusuf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "alberto_santos-dumont_by_zaida_ben-yusuf.jpg",
+        "width": 2395,
+        "height": 3155,
+        "title": "Alberto Santos-Dumont",
+        "description": "Brazilian aviation pioneer (1873–1932)",
+        "extract": "Alberto Santos-Dumont was a Brazilian aeronaut, sportsman, inventor, and one of the few people to have contributed significantly to the early development of both lighter-than-air and heavier-than-air aircraft. The heir of a wealthy family of coffee producers, he dedicated himself to aeronautical study and experimentation in Paris, where he spent most of his adult life. He designed, built, and flew the first powered airships and won the Deutsch prize in 1901, when he flew around the Eiffel Tower in his airship No. 6, becoming one of the most famous people in the world in the early 20th century.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Alberto_Santos-Dumont_by_Zaida_Ben-Yusuf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alberto_Santos-Dumont_by_Zaida_Ben-Yusuf.jpg/330px-Alberto_Santos-Dumont_by_Zaida_Ben-Yusuf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "alberto_santos-dumont_by_zaida_ben-yusuf.jpg",
+          "width": 2395,
+          "height": 3155,
+          "title": "Alberto Santos-Dumont",
+          "description": "Brazilian aviation pioneer (1873–1932)",
+          "extract": "Alberto Santos-Dumont was a Brazilian aeronaut, sportsman, inventor, and one of the few people to have contributed significantly to the early development of both lighter-than-air and heavier-than-air aircraft. The heir of a wealthy family of coffee producers, he dedicated himself to aeronautical study and experimentation in Paris, where he spent most of his adult life. He designed, built, and flew the first powered airships and won the Deutsch prize in 1901, when he flew around the Eiffel Tower in his airship No. 6, becoming one of the most famous people in the world in the early 20th century.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sopwith_Camel_-_Season_Premiere_Airshow_2018_%2842058141172%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sopwith_Camel_-_Season_Premiere_Airshow_2018_%2842058141172%29.jpg/330px-Sopwith_Camel_-_Season_Premiere_Airshow_2018_%2842058141172%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sopwith_camel_-_season_premiere_airshow_2018_(42058141172).jpg",
+          "width": 3499,
+          "height": 2333,
+          "title": "Biplane",
+          "description": "Airplane wing configuration with two vertically stacked main flying surfaces",
+          "extract": "A biplane is a fixed-wing aircraft with two main wings stacked one above the other. The first powered, controlled aeroplane to fly, the Wright Flyer, used a biplane wing arrangement, as did many aircraft in the early years of aviation. While a biplane wing structure has a structural advantage over a monoplane, it produces more drag than a monoplane wing. Improved structural techniques, better materials and higher speeds made the biplane configuration obsolete for most purposes by the late 1930s.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Biplane",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/14-bis_de_Alberto_Santos_Dumont.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/14-bis_de_Alberto_Santos_Dumont.jpg/330px-14-bis_de_Alberto_Santos_Dumont.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "14-bis_de_alberto_santos_dumont.jpg",
+          "width": 2632,
+          "height": 1814,
+          "title": "Santos-Dumont 14-bis",
+          "description": "Aircraft created by Brazilian aviation pioneer Alberto Santos-Dumont in 1906",
+          "extract": "The 14-bis (French: Quatorze-bis;, also known as Oiseau de proie, was a pioneer era, canard-style biplane designed and built by Brazilian aviation pioneer Alberto Santos-Dumont. In 1906, near Paris, the 14-bis made a manned powered flight that was the first to be publicly witnessed by a crowd and also filmed. It was the first powered flight by a non–Wright Brothers airplane aside from short powered \"hops\" by Clément Ader and Traian Vuia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Santos-Dumont_14-bis",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Alberto Santos-Dumont",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-23-1958-290e7db2",
+      "year": 1958,
+      "text": "Belgian artist Peyo's comic characters, the Smurfs, make their debut in Spirou magazine.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Peyo_%281990%29_by_Erling_Mandelmann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Peyo_%281990%29_by_Erling_Mandelmann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "peyo_(1990)_by_erling_mandelmann.jpg",
+        "width": 201,
+        "height": 300,
+        "title": "Peyo",
+        "description": "Belgian comics cartoonist and scriptwriter (1928–1992)",
+        "extract": "Pierre Culliford was a Belgian comics writer and artist who worked under the pseudonym Peyo. His best-known works are the comic book series The Smurfs and Johan and Peewit, in the latter of which the Smurfs made their first appearance.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Peyo",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Peyo_%281990%29_by_Erling_Mandelmann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Peyo_%281990%29_by_Erling_Mandelmann.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "peyo_(1990)_by_erling_mandelmann.jpg",
+          "width": 201,
+          "height": 300,
+          "title": "Peyo",
+          "description": "Belgian comics cartoonist and scriptwriter (1928–1992)",
+          "extract": "Pierre Culliford was a Belgian comics writer and artist who worked under the pseudonym Peyo. His best-known works are the comic book series The Smurfs and Johan and Peewit, in the latter of which the Smurfs made their first appearance.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Peyo",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/7e/JournalDeSpirou-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/JournalDeSpirou-01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "journaldespirou-01.jpg",
+          "width": 268,
+          "height": 372,
+          "title": "Spirou (magazine)",
+          "description": "Weekly Franco-Belgian comics magazine",
+          "extract": "Spirou is a weekly Belgian comics magazine published by the Dupuis company since April 21, 1938. It is an anthology magazine with new features appearing regularly, containing a mix of short humor strips and serialized features, of which the most popular series would be collected as albums by Dupuis afterwards.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Spirou_(magazine)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Belgium",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Belgium",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "10-23-1957-04d524df",
+      "year": 1957,
+      "text": "A screening of Mother India, one of the most influential Indian films in history, was held for President Rajendra Prasad and Prime Minister Jawaharlal Nehru two days before its release.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/2/20/Mother_India_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/Mother_India_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "mother_india_poster.jpg",
+        "width": 269,
+        "height": 370,
+        "title": "Mother India",
+        "description": "1957 film directed by Mehboob Khan",
+        "extract": "Mother India is a 1957 Indian epic drama film, directed by Mehboob Khan and starring Nargis, Sunil Dutt, Rajendra Kumar and Raaj Kumar. A remake of Khan's earlier film Aurat (1940), it is the story of a poverty-stricken village woman named Radha (Nargis), who in the absence of her husband, struggles to raise her sons and survive against a cunning money-lender amidst many troubles.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mother_India",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/20/Mother_India_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/Mother_India_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "mother_india_poster.jpg",
+          "width": 269,
+          "height": 370,
+          "title": "Mother India",
+          "description": "1957 film directed by Mehboob Khan",
+          "extract": "Mother India is a 1957 Indian epic drama film, directed by Mehboob Khan and starring Nargis, Sunil Dutt, Rajendra Kumar and Raaj Kumar. A remake of Khan's earlier film Aurat (1940), it is the story of a poverty-stricken village woman named Radha (Nargis), who in the absence of her husband, struggles to raise her sons and survive against a cunning money-lender amidst many troubles.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mother_India",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Rajendra_Prasad_%28Indian_President%29%2C_signed_image_for_Walter_Nash_%28NZ_Prime_Minister%29%2C_1958_%2816017609534%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Rajendra_Prasad_%28Indian_President%29%2C_signed_image_for_Walter_Nash_%28NZ_Prime_Minister%29%2C_1958_%2816017609534%29.jpg/330px-Rajendra_Prasad_%28Indian_President%29%2C_signed_image_for_Walter_Nash_%28NZ_Prime_Minister%29%2C_1958_%2816017609534%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rajendra_prasad_(indian_president),_signed_image_for_walter_nash_(nz_prime_minister),_1958_(16017609534).jpg",
+          "width": 2481,
+          "height": 3074,
+          "title": "Rajendra Prasad",
+          "description": "President of India from 1950 to 1962",
+          "extract": "Rajendra Prasad was an Indian politician, lawyer, journalist and scholar who served as the first president of India from 1950 to 1962 for two terms. He joined the Indian National Congress during the Indian independence movement and became a major leader from the region of Bihar. A supporter of Mahatma Gandhi, Prasad was imprisoned by British authorities during the Salt Satyagraha of 1930 and the Quit India movement of 1942. After the constituent assembly 1946 elections, Prasad served as 1st Minister of Food and Agriculture in the central government from 1947 to 1948. Upon independence in 1947, Prasad was elected as President of the Constituent Assembly of India, which prepared the Constitution of India and which served as its provisional Parliament.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rajendra_Prasad",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Nehru_in_the_Netherlands%2C_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nehru_in_the_Netherlands%2C_1957.jpg/330px-Nehru_in_the_Netherlands%2C_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nehru_in_the_netherlands,_1957.jpg",
+          "width": 1536,
+          "height": 1993,
+          "title": "Jawaharlal Nehru",
+          "description": "Prime Minister of India from 1947 to 1964",
+          "extract": "Jawaharlal Nehru was an Indian lawyer, anti-colonial nationalist, secular humanist, social democrat, and statesman who was a central figure in India during the middle of the 20th century. Nehru was a principal leader of the Indian nationalist movement in the 1930s and 1940s. Upon India's independence in 1947, he served as the country's first prime minister, holding office for 16 years 286 days. Nehru promoted parliamentary democracy, secularism, and science and technology during the 1950s, powerfully influencing India's arc as a modern nation. In international affairs, he steered India clear of the two blocs of the Cold War. A well-regarded author, he wrote books such as Letters from a Father to His Daughter (1929), An Autobiography (1936) and The Discovery of India (1946), that have been read around the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Mother India",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mother_India",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-23-2022-b06fe725",
+      "year": 2022,
+      "text": "Myanmar civil war: Burmese military forces launched airstrikes that killed at least 80 concertgoers in Kachin State.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Mon_State_Kyomaro_Township_bombed_2024-03-28_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mon_State_Kyomaro_Township_bombed_2024-03-28_%28cropped%29.jpg/330px-Mon_State_Kyomaro_Township_bombed_2024-03-28_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mon_state_kyomaro_township_bombed_2024-03-28_(cropped).jpg",
+        "width": 1397,
+        "height": 677,
+        "title": "Myanmar civil war (2021–present)",
+        "description": "Ongoing armed conflict in Southeast Asia",
+        "extract": "The Myanmar civil war began following the military coup on 1 February 2021. The seizure of power triggered mass anti-coup demonstrations and a violent crackdown by the Tatmadaw, which significantly escalated the country's longstanding insurgencies.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021%E2%80%93present)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Mon_State_Kyomaro_Township_bombed_2024-03-28_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Mon_State_Kyomaro_Township_bombed_2024-03-28_%28cropped%29.jpg/330px-Mon_State_Kyomaro_Township_bombed_2024-03-28_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mon_state_kyomaro_township_bombed_2024-03-28_(cropped).jpg",
+          "width": 1397,
+          "height": 677,
+          "title": "Myanmar civil war (2021–present)",
+          "description": "Ongoing armed conflict in Southeast Asia",
+          "extract": "The Myanmar civil war began following the military coup on 1 February 2021. The seizure of power triggered mass anti-coup demonstrations and a violent crackdown by the Tatmadaw, which significantly escalated the country's longstanding insurgencies.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021%E2%80%93present)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Moengkaung.jpg/3840px-Moengkaung.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Moengkaung.jpg/330px-Moengkaung.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "moengkaung.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": "Kachin State",
+          "description": "State of Myanmar",
+          "extract": "Kachin State is the northernmost state of Myanmar. It is bordered by China to the north and east, Shan State to the south, and Sagaing Region and India to the west. It lies between north latitude 23° 27' and 28° 25' longitude 96° 0' and 98° 44'. The area of Kachin State is 89,041 km2 (34,379 sq mi). The capital of the state is Myitkyina. Other important towns include Bhamo, Mohnyin and Putao.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kachin_State",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burma1948.png/500px-Burma1948.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Burma1948.png/500px-Burma1948.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "burma1948.png",
+          "width": 800,
+          "height": 600,
+          "title": "Burma1948",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021%E2%80%93present)",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Myanmar civil war (2021–present)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021%E2%80%93present)",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-23-2020-3264088d",
+      "year": 2020,
+      "text": "Second Libyan Civil War: The Second Libyan Civil War comes to an end as all parties to the 5+5 Joint Libyan Military Commission agree to a ceasefire.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Libya.sire.2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Libya.sire.2017.jpg/330px-Libya.sire.2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "libya.sire.2017.jpg",
+        "width": 1224,
+        "height": 1632,
+        "title": "Libyan civil war (2014–2020)",
+        "description": "Multilateral civil war in North Africa",
+        "extract": "The Libyan civil war (2014–2020), also known as the Second Libyan Civil War, was a multilateral civil war which was fought in Libya among a number of armed groups, but mainly the House of Representatives (HoR) and the Government of National Accord (GNA), for six years from 2014 to 2020.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Libyan_civil_war_(2014%E2%80%932020)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Libya.sire.2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Libya.sire.2017.jpg/330px-Libya.sire.2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "libya.sire.2017.jpg",
+          "width": 1224,
+          "height": 1632,
+          "title": "Libyan civil war (2014–2020)",
+          "description": "Multilateral civil war in North Africa",
+          "extract": "The Libyan civil war (2014–2020), also known as the Second Libyan Civil War, was a multilateral civil war which was fought in Libya among a number of armed groups, but mainly the House of Representatives (HoR) and the Government of National Accord (GNA), for six years from 2014 to 2020.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Libyan_civil_war_(2014%E2%80%932020)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Libyan civil war (2014–2020)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Libyan_civil_war_(2014%E2%80%932020)",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-23-2018-311971e6",
+      "year": 2018,
+      "text": "An escalator accident in Rome left 24 people injured, mostly fans of the CSKA Moscow football team who were in town for a UEFA Champions League match against Roma.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Metro_A_Repubblica_1000043.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Metro_A_Repubblica_1000043.JPG/330px-Metro_A_Repubblica_1000043.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "metro_a_repubblica_1000043.jpg",
+        "width": 2816,
+        "height": 2112,
+        "title": "2018 Rome escalator accident",
+        "description": "2018 escalator accident in Rome, Italy",
+        "extract": "On 23 October 2018, twenty-four people, mostly fans of the CSKA Moscow football team, were injured after a crowded escalator at a Rome Metro station malfunctioned. It suddenly sped up, and hurled people down the escalator.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2018_Rome_escalator_accident",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Metro_A_Repubblica_1000043.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Metro_A_Repubblica_1000043.JPG/330px-Metro_A_Repubblica_1000043.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "metro_a_repubblica_1000043.jpg",
+          "width": 2816,
+          "height": 2112,
+          "title": "2018 Rome escalator accident",
+          "description": "2018 escalator accident in Rome, Italy",
+          "extract": "On 23 October 2018, twenty-four people, mostly fans of the CSKA Moscow football team, were injured after a crowded escalator at a Rome Metro station malfunctioned. It suddenly sped up, and hurled people down the escalator.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2018_Rome_escalator_accident",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "2018 Rome escalator accident",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2018_Rome_escalator_accident",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-23-2017-85e32d07",
+      "year": 2017,
+      "text": "War against the Islamic State: Philippine defense secretary Delfin Lorenzana declares the end of the Siege of Marawi.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/ISOF_APC_on_the_street_of_Mosul%2C_Northern_Iraq%2C_Western_Asia._16_November%2C_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/ISOF_APC_on_the_street_of_Mosul%2C_Northern_Iraq%2C_Western_Asia._16_November%2C_2016.jpg/330px-ISOF_APC_on_the_street_of_Mosul%2C_Northern_Iraq%2C_Western_Asia._16_November%2C_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "isof_apc_on_the_street_of_mosul,_northern_iraq,_western_asia._16_november,_2016.jpg",
+        "width": 3500,
+        "height": 2338,
+        "title": "War against the Islamic State",
+        "description": "Military actions against the Islamic State",
+        "extract": "Many states began to intervene against the Islamic State (IS), in both the Syrian civil war and the War in Iraq (2013–2017), in response to its rapid territorial gains from its 2014 invasion of Iraq, widely condemned executions, human rights abuses and the fear of further spillovers of the Syrian civil war. In later years, there were also minor interventions by some states against IS-affiliated groups in Nigeria and Libya. All these efforts significantly degraded the Islamic State's capabilities by around 2019–2020. While moderate fighting continues in Syria, as of 2026, IS has been contained to a small area and force capability.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/War_against_the_Islamic_State",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/ISOF_APC_on_the_street_of_Mosul%2C_Northern_Iraq%2C_Western_Asia._16_November%2C_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/ISOF_APC_on_the_street_of_Mosul%2C_Northern_Iraq%2C_Western_Asia._16_November%2C_2016.jpg/330px-ISOF_APC_on_the_street_of_Mosul%2C_Northern_Iraq%2C_Western_Asia._16_November%2C_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "isof_apc_on_the_street_of_mosul,_northern_iraq,_western_asia._16_november,_2016.jpg",
+          "width": 3500,
+          "height": 2338,
+          "title": "War against the Islamic State",
+          "description": "Military actions against the Islamic State",
+          "extract": "Many states began to intervene against the Islamic State (IS), in both the Syrian civil war and the War in Iraq (2013–2017), in response to its rapid territorial gains from its 2014 invasion of Iraq, widely condemned executions, human rights abuses and the fear of further spillovers of the Syrian civil war. In later years, there were also minor interventions by some states against IS-affiliated groups in Nigeria and Libya. All these efforts significantly degraded the Islamic State's capabilities by around 2019–2020. While moderate fighting continues in Syria, as of 2026, IS has been contained to a small area and force capability.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/War_against_the_Islamic_State",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Delfin_Lorenzana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Delfin_Lorenzana.jpg/330px-Delfin_Lorenzana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "delfin_lorenzana.jpg",
+          "width": 900,
+          "height": 932,
+          "title": "Delfin Lorenzana",
+          "description": "Filipino government official and former Philippine Army general",
+          "extract": "Delfin Negrillo Lorenzana, OLH, KGOR is a retired Philippine Army general who served as Chairman of the Bases Conversion and Development Authority from 2022 until September 2024. He previously served as Secretary of National Defense in the Cabinet of President Rodrigo Duterte from 2016 to 2022. He served in the Philippine Army from 1973 to 2004.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Delfin_Lorenzana",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bombing_on_Marawi_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bombing_on_Marawi_City.jpg/330px-Bombing_on_Marawi_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bombing_on_marawi_city.jpg",
+          "width": 728,
+          "height": 485,
+          "title": "Siege of Marawi",
+          "description": "2017 conflict between the Philippine government and the Maute Group",
+          "extract": "The siege of Marawi, also known as the Marawi crisis and the Battle of Marawi, was a five-month-long armed conflict in Marawi, Philippines, that started on May 23, 2017, between Philippine government security forces against militants affiliated with the Islamic State (IS), including the Maute and Abu Sayyaf Salafi jihadist groups. The battle also became the longest urban battle in the modern history of the Philippines.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Marawi",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "War against the Islamic State",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/War_against_the_Islamic_State",
+      "relatedPagesCount": 4
+    }
+  ]
+}

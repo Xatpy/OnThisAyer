@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 9,
+    "day": 5,
+    "formatted": "09-05"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "09-05-1984-52e972c4",
+      "year": 1984,
+      "text": "STS-41-D: The Space Shuttle Discovery lands after its maiden voyage.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/STS41D-01-021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/STS41D-01-021.jpg/330px-STS41D-01-021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts41d-01-021.jpg",
+        "width": 2608,
+        "height": 3925,
+        "title": "STS-41-D",
+        "description": "1984 American crewed spaceflight",
+        "extract": "STS-41-D was the 12th flight of NASA's Space Shuttle program, and the maiden flight of Space Shuttle Discovery. It was launched from Kennedy Space Center, Florida, on August 30, 1984, and landed at Edwards Air Force Base, California, on September 5, 1984. Three commercial communications satellites were deployed into orbit during the six-day mission, and a number of scientific experiments were conducted, including a prototype extendable solar array that would eventually form the basis of the main solar arrays on the International Space Station (ISS).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/STS-41-D",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/STS41D-01-021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/STS41D-01-021.jpg/330px-STS41D-01-021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts41d-01-021.jpg",
+          "width": 2608,
+          "height": 3925,
+          "title": "STS-41-D",
+          "description": "1984 American crewed spaceflight",
+          "extract": "STS-41-D was the 12th flight of NASA's Space Shuttle program, and the maiden flight of Space Shuttle Discovery. It was launched from Kennedy Space Center, Florida, on August 30, 1984, and landed at Edwards Air Force Base, California, on September 5, 1984. Three commercial communications satellites were deployed into orbit during the six-day mission, and a number of scientific experiments were conducted, including a prototype extendable solar array that would eventually form the basis of the main solar arrays on the International Space Station (ISS).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-41-D",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+          "width": 3336,
+          "height": 2507,
+          "title": "Space Shuttle Discovery",
+          "description": "Space Shuttle orbiter (1984–2011)",
+          "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sts-41-d-patch.png/1280px-Sts-41-d-patch.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sts-41-d-patch.png/1280px-Sts-41-d-patch.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "sts-41-d-patch.png",
+          "width": 800,
+          "height": 600,
+          "title": "Sts-41-d-patch",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-41-D",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "STS-41-D",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/STS-41-D",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-05-1977-8ba3ca44",
+      "year": 1977,
+      "text": "NASA launched the space probe Voyager 1, currently the farthest spacecraft from Earth, from Launch Complex 41 at Cape Canaveral Air Force Station.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/3840px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/330px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "cassini_saturn_orbit_insertion.jpg",
+        "width": 14400,
+        "height": 9600,
+        "title": "Space probe",
+        "description": "Unmanned robotic spacecraft",
+        "extract": "A space probe is an uncrewed robotic spacecraft designed to explore outer space and transmit scientific data back to Earth. Space probes are used to investigate the Moon, planets, moons, asteroids, comets, the Sun, and interstellar space. Unlike artificial satellites, which usually remain in orbit around Earth, probes are sent beyond Earth orbit toward other celestial bodies or into deep space.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_probe",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/3840px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/330px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cassini_saturn_orbit_insertion.jpg",
+          "width": 14400,
+          "height": 9600,
+          "title": "Space probe",
+          "description": "Unmanned robotic spacecraft",
+          "extract": "A space probe is an uncrewed robotic spacecraft designed to explore outer space and transmit scientific data back to Earth. Space probes are used to investigate the Moon, planets, moons, asteroids, comets, the Sun, and interstellar space. Unlike artificial satellites, which usually remain in orbit around Earth, probes are sent beyond Earth orbit toward other celestial bodies or into deep space.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_probe",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "voyager_spacecraft_model.png",
+          "width": 1700,
+          "height": 1233,
+          "title": "Voyager 1",
+          "description": "NASA space probe launched in 1977",
+          "extract": "Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program, to study the outer Solar System and the interstellar space beyond the Sun's heliosphere. It was launched 16 days after its twin, Voyager 2. It communicates through the NASA Deep Space Network (DSN) to receive routine commands and to transmit data to Earth. Real-time distance and velocity data are provided by NASA and JPL. At a distance of 171.19 AU as of August 2026, it is the most distant human-made object from Earth. Voyager 1 is projected to reach a distance of one light day from Earth in November 2026.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_1",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/NASA%E2%80%99s_Boeing_Crew_Flight_Test_SLC-41_%28NHQ202405050002%29.jpg/3840px-NASA%E2%80%99s_Boeing_Crew_Flight_Test_SLC-41_%28NHQ202405050002%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/NASA%E2%80%99s_Boeing_Crew_Flight_Test_SLC-41_%28NHQ202405050002%29.jpg/330px-NASA%E2%80%99s_Boeing_Crew_Flight_Test_SLC-41_%28NHQ202405050002%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nasa’s_boeing_crew_flight_test_slc-41_(nhq202405050002).jpg",
+          "width": 8221,
+          "height": 4602,
+          "title": "Cape Canaveral Space Launch Complex 41",
+          "description": "Rocket launch site in Florida, US",
+          "extract": "Space Launch Complex 41 (SLC-41), sometimes referred to as \"Slick Forty-one,\" is one of two launch sites at the Integrate-Transfer-Launch Complex in Cape Canaveral Space Force Station, Florida. Originally built as Launch Complex 41 (LC-41), it and the neighboring Space Launch Complex 40 were designed for the United States Air Force's Titan III rocket program, where it launched the Titan IIIC in the 1960s and the Titan IIIE in the 1970s. In the 1990s, the Air Force and Martin Marietta upgraded the pad for use by the Titan III's successor, the Titan IV.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Launch_Complex_41",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "09-05-1960-4939c6b0",
+      "year": 1960,
+      "text": "Muhammad Ali (then known as Cassius Clay) wins the gold medal in the light heavyweight boxing competition at the Olympic Games in Rome.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Muhammad_Ali_NYWTS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/330px-Muhammad_Ali_NYWTS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "muhammad_ali_nywts.jpg",
+        "width": 2932,
+        "height": 3669,
+        "title": "Muhammad Ali",
+        "description": "American boxer and activist (1942–2016)",
+        "extract": "Muhammad Ali was an American professional boxer and activist. A global cultural icon, widely known by the nickname \"the Greatest\", he is often regarded as the greatest heavyweight boxer of all time. He held the Ring magazine heavyweight title from 1964 to 1970, was the undisputed champion from 1974 to 1978, and was the WBA and Ring heavyweight champion from 1978 to 1979. In 1999, he was named Sportsman of the Century by Sports Illustrated and the Sports Personality of the Century by the BBC.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Muhammad_Ali_NYWTS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/330px-Muhammad_Ali_NYWTS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "muhammad_ali_nywts.jpg",
+          "width": 2932,
+          "height": 3669,
+          "title": "Muhammad Ali",
+          "description": "American boxer and activist (1942–2016)",
+          "extract": "Muhammad Ali was an American professional boxer and activist. A global cultural icon, widely known by the nickname \"the Greatest\", he is often regarded as the greatest heavyweight boxer of all time. He held the Ring magazine heavyweight title from 1964 to 1970, was the undisputed champion from 1974 to 1978, and was the WBA and Ring heavyweight champion from 1978 to 1979. In 1999, he was named Sportsman of the Century by Sports Illustrated and the Sports Personality of the Century by the BBC.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/JoeEMartinCassiusClay1960.jpg/500px-JoeEMartinCassiusClay1960.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/JoeEMartinCassiusClay1960.jpg/500px-JoeEMartinCassiusClay1960.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "joeemartincassiusclay1960.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Cassius Clay and his trainer Joe E. Martin, January 1960",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zbigniew_Pietrzykowski_and_Muhammad_Ali_1960.jpg/500px-Zbigniew_Pietrzykowski_and_Muhammad_Ali_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Zbigniew_Pietrzykowski_and_Muhammad_Ali_1960.jpg/500px-Zbigniew_Pietrzykowski_and_Muhammad_Ali_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "zbigniew_pietrzykowski_and_muhammad_ali_1960.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Clay defeated veteran Pole Zbigniew Pietrzykowski to win gold in the 1960 Summer Olympics.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Muhammad Ali",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Muhammad_Ali",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-05-1972-fa967546",
+      "year": 1972,
+      "text": "Munich massacre: A Palestinian terrorist group called \"Black September\" attacks and takes hostage 11 Israeli athletes at the Munich Olympic Games. Two die in the attack and nine are murdered the following day.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 80,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Germany_Israel_Olympics_Attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Germany_Israel_Olympics_Attack.jpg/330px-Germany_Israel_Olympics_Attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "germany_israel_olympics_attack.jpg",
+        "width": 3000,
+        "height": 2152,
+        "title": "Munich massacre",
+        "description": "1972 Summer Olympics terrorist attack",
+        "extract": "The Munich massacre was a terrorist attack during the 1972 Summer Olympics in Munich, West Germany, carried out by eight members of the Palestinian militant organisation Black September. The militants infiltrated the Olympic Village, killed two members of the Israeli Olympic team, and took nine other Israeli team members hostage. Those hostages were later also killed by the militants during a failed rescue attempt.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Munich_massacre",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Germany_Israel_Olympics_Attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Germany_Israel_Olympics_Attack.jpg/330px-Germany_Israel_Olympics_Attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "germany_israel_olympics_attack.jpg",
+          "width": 3000,
+          "height": 2152,
+          "title": "Munich massacre",
+          "description": "1972 Summer Olympics terrorist attack",
+          "extract": "The Munich massacre was a terrorist attack during the 1972 Summer Olympics in Munich, West Germany, carried out by eight members of the Palestinian militant organisation Black September. The militants infiltrated the Olympic Village, killed two members of the Israeli Olympic team, and took nine other Israeli team members hostage. Those hostages were later also killed by the militants during a failed rescue attempt.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Munich_massacre",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Resistance_of_Palestinian_men_and_women.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Resistance_of_Palestinian_men_and_women.png/330px-Resistance_of_Palestinian_men_and_women.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "resistance_of_palestinian_men_and_women.png",
+          "width": 1820,
+          "height": 1360,
+          "title": "Palestinian political violence",
+          "description": "",
+          "extract": "As Palestinians have not had a fully recognized state with a regular army, much of Palestinian political violence in the context of the Israeli–Palestinian conflict has taken the form of insurgency. Common objectives of political violence by Palestinian groups include self-determination in or sovereignty over the region of Palestine, seeking a one-state solution, or the recognition of a Palestinian state. This includes the objective of ending the Israeli occupation. Goals also include the release of Palestinian prisoners held by Israel and recognition of the Palestinian right of return.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Palestinian_political_violence",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Munich massacre",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Munich_massacre",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "09-05-2022-6815948f",
+      "year": 2022,
+      "text": "Liz Truss is declared the winner of the UK Conservative Party leadership election, beating Rishi Sunak.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg/330px-Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "official_portrait_of_liz_truss_(3x4_cropped_b).jpg",
+        "width": 2622,
+        "height": 3500,
+        "title": "Liz Truss",
+        "description": "Prime Minister of the United Kingdom in 2022",
+        "extract": "Mary Elizabeth Truss is a British politician who was Prime Minister of the United Kingdom and Leader of the Conservative Party from September to October 2022. On her fiftieth day in office, she stepped down amid a government crisis, making her the shortest-serving prime minister in British history. The member of Parliament (MP) for South West Norfolk from 2010 to 2024, Truss held various Cabinet positions under three prime ministers – David Cameron, Theresa May and Boris Johnson – lastly as foreign secretary from 2021 to 2022.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Liz_Truss",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg/330px-Official_portrait_of_Liz_Truss_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_portrait_of_liz_truss_(3x4_cropped_b).jpg",
+          "width": 2622,
+          "height": 3500,
+          "title": "Liz Truss",
+          "description": "Prime Minister of the United Kingdom in 2022",
+          "extract": "Mary Elizabeth Truss is a British politician who was Prime Minister of the United Kingdom and Leader of the Conservative Party from September to October 2022. On her fiftieth day in office, she stepped down amid a government crisis, making her the shortest-serving prime minister in British history. The member of Parliament (MP) for South West Norfolk from 2010 to 2024, Truss held various Cabinet positions under three prime ministers – David Cameron, Theresa May and Boris Johnson – lastly as foreign secretary from 2021 to 2022.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Liz_Truss",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Liz_Truss_Official_Cabinet_Portrait%2C_September_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Liz_Truss_Official_Cabinet_Portrait%2C_September_2021_%28cropped%29.jpg/330px-Liz_Truss_Official_Cabinet_Portrait%2C_September_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "liz_truss_official_cabinet_portrait,_september_2021_(cropped).jpg",
+          "width": 2174,
+          "height": 2897,
+          "title": "July–September 2022 Conservative Party leadership election",
+          "description": "British leadership election to replace Boris Johnson",
+          "extract": "The July–September 2022 Conservative Party leadership election was triggered by Boris Johnson's announcement on 7 July 2022 that he would resign as Leader of the Conservative Party and Prime Minister of the United Kingdom, following a series of political controversies. Liz Truss was elected to replace him.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/July%E2%80%93September_2022_Conservative_Party_leadership_election",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Portrait_of_Prime_Minister_Rishi_Sunak_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Portrait_of_Prime_Minister_Rishi_Sunak_%28cropped%29.jpg/330px-Portrait_of_Prime_Minister_Rishi_Sunak_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "portrait_of_prime_minister_rishi_sunak_(cropped).jpg",
+          "width": 2331,
+          "height": 3153,
+          "title": "Rishi Sunak",
+          "description": "Prime Minister of the United Kingdom from 2022 to 2024",
+          "extract": "Rishi Sunak is a British politician who served as Prime Minister of the United Kingdom and Leader of the Conservative Party from 2022 to 2024. Following his defeat to Keir Starmer's Labour Party in the 2024 general election, he became Leader of the Opposition, serving in this role from July to November 2024. He previously held two Cabinet positions under Boris Johnson, latterly as Chancellor of the Exchequer from 2020 to 2022. Sunak has been the Member of Parliament (MP) for Richmond and Northallerton, previously Richmond (Yorks), since 2015.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rishi_Sunak",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Liz Truss",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Liz_Truss",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-05-2021-f8400f37",
+      "year": 2021,
+      "text": "The President of Guinea, Alpha Condé is captured by armed forces during a coup d'état.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/His_Excellency_President_Alpha_Cond%C3%A9_of_Guinea%2C_speaking_at_the_UK-Africa_Investment_Summit_in_London%2C_20_January_2020_20200120120724ZJW_4283_%2849418933596%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/His_Excellency_President_Alpha_Cond%C3%A9_of_Guinea%2C_speaking_at_the_UK-Africa_Investment_Summit_in_London%2C_20_January_2020_20200120120724ZJW_4283_%2849418933596%29_%28cropped%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "his_excellency_president_alpha_condé_of_guinea,_speaking_at_the_uk-africa_investment_summit_in_london,_20_january_2020_20200120120724zjw_4283_(49418933596)_(cropped).jpg",
+        "width": 2034,
+        "height": 2930,
+        "title": "Alpha Condé",
+        "description": "President of Guinea from 2010 to 2021",
+        "extract": "Alpha Condé is a Guinean politician who served as the fourth president of Guinea from 2010 to 2021. He spent decades in opposition to a succession of regimes in Guinea, unsuccessfully running against then-President Lansana Conté in the 1993 and 1998 presidential elections and leading the Rally of the Guinean People (RPG), an opposition party.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alpha_Cond%C3%A9",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/His_Excellency_President_Alpha_Cond%C3%A9_of_Guinea%2C_speaking_at_the_UK-Africa_Investment_Summit_in_London%2C_20_January_2020_20200120120724ZJW_4283_%2849418933596%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/His_Excellency_President_Alpha_Cond%C3%A9_of_Guinea%2C_speaking_at_the_UK-Africa_Investment_Summit_in_London%2C_20_January_2020_20200120120724ZJW_4283_%2849418933596%29_%28cropped%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "his_excellency_president_alpha_condé_of_guinea,_speaking_at_the_uk-africa_investment_summit_in_london,_20_january_2020_20200120120724zjw_4283_(49418933596)_(cropped).jpg",
+          "width": 2034,
+          "height": 2930,
+          "title": "Alpha Condé",
+          "description": "President of Guinea from 2010 to 2021",
+          "extract": "Alpha Condé is a Guinean politician who served as the fourth president of Guinea from 2010 to 2021. He spent decades in opposition to a succession of regimes in Guinea, unsuccessfully running against then-President Lansana Conté in the 1993 and 1998 presidential elections and leading the Rally of the Guinean People (RPG), an opposition party.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Alpha_Cond%C3%A9",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Parade_militaire_apr%C3%A8s_le_Coup_d%27%C3%A9tat_2021_en_Guin%C3%A9e_1.jpg/3840px-Parade_militaire_apr%C3%A8s_le_Coup_d%27%C3%A9tat_2021_en_Guin%C3%A9e_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Parade_militaire_apr%C3%A8s_le_Coup_d%27%C3%A9tat_2021_en_Guin%C3%A9e_1.jpg/330px-Parade_militaire_apr%C3%A8s_le_Coup_d%27%C3%A9tat_2021_en_Guin%C3%A9e_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "parade_militaire_après_le_coup_d'état_2021_en_guinée_1.jpg",
+          "width": 4659,
+          "height": 2554,
+          "title": "2021 Guinean coup d'état",
+          "description": "Military overthrow of President Alpha Condé",
+          "extract": "On 5 September 2021, President of Guinea Alpha Condé was captured by the country's armed forces in a coup d'état after gunfire in the capital, Conakry. Special forces commander Mamady Doumbouya released a broadcast on state television announcing the dissolution of the constitution and government.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2021_Guinean_coup_d'%C3%A9tat",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AlphaCond%C3%A9.jpeg/500px-AlphaCond%C3%A9.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/AlphaCond%C3%A9.jpeg/500px-AlphaCond%C3%A9.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "alphacondé.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": "Condé in 2007",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Alpha_Cond%C3%A9",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Alpha Condé",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Alpha_Cond%C3%A9",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-05-2005-faf12a6d",
+      "year": 2005,
+      "text": "Mandala Airlines Flight 091 crashed shortly after take-off in Indonesia due to pilot error, killing 100 out of the 117 people on board along with 49 more on the ground.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/PK-RIM_Boeing_737_Mandala_%288392085316%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/PK-RIM_Boeing_737_Mandala_%288392085316%29.jpg/330px-PK-RIM_Boeing_737_Mandala_%288392085316%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "pk-rim_boeing_737_mandala_(8392085316).jpg",
+        "width": 1536,
+        "height": 1024,
+        "title": "Mandala Airlines Flight 091",
+        "description": "2005 aviation accident in Indonesia",
+        "extract": "Mandala Airlines Flight 091 (RI091/MDL091) was a scheduled domestic passenger flight from Medan to Jakarta, operated by Mandala Airlines with a Boeing 737-200. On September 5, 2005 at 10:15 a.m. WIB (UTC+7), the aircraft stalled and crashed into a heavily populated residential area seconds after taking off from Polonia International Airport. Of the 117 passengers and crews on board, only 17 survived. An additional 49 civilians on the ground were killed, making a total of 149 fatalities.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mandala_Airlines_Flight_091",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/PK-RIM_Boeing_737_Mandala_%288392085316%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/PK-RIM_Boeing_737_Mandala_%288392085316%29.jpg/330px-PK-RIM_Boeing_737_Mandala_%288392085316%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pk-rim_boeing_737_mandala_(8392085316).jpg",
+          "width": 1536,
+          "height": 1024,
+          "title": "Mandala Airlines Flight 091",
+          "description": "2005 aviation accident in Indonesia",
+          "extract": "Mandala Airlines Flight 091 (RI091/MDL091) was a scheduled domestic passenger flight from Medan to Jakarta, operated by Mandala Airlines with a Boeing 737-200. On September 5, 2005 at 10:15 a.m. WIB (UTC+7), the aircraft stalled and crashed into a heavily populated residential area seconds after taking off from Polonia International Airport. Of the 117 passengers and crews on board, only 17 survived. An additional 49 civilians on the ground were killed, making a total of 149 fatalities.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mandala_Airlines_Flight_091",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Mandala Airlines Flight 091",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mandala_Airlines_Flight_091",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "09-05-1981-0f890f57",
+      "year": 1981,
+      "text": "The first women arrive at what becomes Greenham Common Women's Peace Camp in the UK.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Greenham_Common_women%27s_protest_1982%2C_gathering_around_the_base_-_geograph.org.uk_-_759136.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Greenham_Common_women%27s_protest_1982%2C_gathering_around_the_base_-_geograph.org.uk_-_759136.jpg/330px-Greenham_Common_women%27s_protest_1982%2C_gathering_around_the_base_-_geograph.org.uk_-_759136.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "greenham_common_women's_protest_1982,_gathering_around_the_base_-_geograph.org.uk_-_759136.jpg",
+        "width": 520,
+        "height": 633,
+        "title": "Greenham Common Women's Peace Camp",
+        "description": "Peace camp in Berkshire, England",
+        "extract": "Greenham Common Women's Peace Camp was a series of protest camps established to protest against nuclear weapons being placed at RAF Greenham Common in Berkshire, England. The camp began on 5 September 1981 after a female activist group, Women for Life on Earth, arrived at Greenham to protest against the government's decision to allow American cruise missiles to be stored there. After realising that the march alone was not going to get them the attention that they needed to have the missiles removed, women began to stay at Greenham to continue their protest. The first blockade of the base occurred in March 1982 with 250 women protesting, during which 34 arrests occurred.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Greenham_Common_Women's_Peace_Camp",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Greenham_Common_women%27s_protest_1982%2C_gathering_around_the_base_-_geograph.org.uk_-_759136.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Greenham_Common_women%27s_protest_1982%2C_gathering_around_the_base_-_geograph.org.uk_-_759136.jpg/330px-Greenham_Common_women%27s_protest_1982%2C_gathering_around_the_base_-_geograph.org.uk_-_759136.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "greenham_common_women's_protest_1982,_gathering_around_the_base_-_geograph.org.uk_-_759136.jpg",
+          "width": 520,
+          "height": 633,
+          "title": "Greenham Common Women's Peace Camp",
+          "description": "Peace camp in Berkshire, England",
+          "extract": "Greenham Common Women's Peace Camp was a series of protest camps established to protest against nuclear weapons being placed at RAF Greenham Common in Berkshire, England. The camp began on 5 September 1981 after a female activist group, Women for Life on Earth, arrived at Greenham to protest against the government's decision to allow American cruise missiles to be stored there. After realising that the march alone was not going to get them the attention that they needed to have the missiles removed, women began to stay at Greenham to continue their protest. The first blockade of the base occurred in March 1982 with 250 women protesting, during which 34 arrests occurred.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Greenham_Common_Women's_Peace_Camp",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Greenham_Common_New_Sign.JPG/1280px-Greenham_Common_New_Sign.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Greenham_Common_New_Sign.JPG/1280px-Greenham_Common_New_Sign.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "greenham_common_new_sign.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Greenham Common peace sign",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Greenham_Common_Women's_Peace_Camp",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Helen_Thomas_Memorial_Peace_Garden_-_geograph.org.uk_-_29252.jpg/500px-Helen_Thomas_Memorial_Peace_Garden_-_geograph.org.uk_-_29252.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Helen_Thomas_Memorial_Peace_Garden_-_geograph.org.uk_-_29252.jpg/500px-Helen_Thomas_Memorial_Peace_Garden_-_geograph.org.uk_-_29252.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "helen_thomas_memorial_peace_garden_-_geograph.org.uk_-_29252.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Memorial to Helen Thomas at Greenham",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Greenham_Common_Women's_Peace_Camp",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Greenham Common Women's Peace Camp",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Greenham_Common_Women's_Peace_Camp",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "09-05-1978-4c307274",
+      "year": 1978,
+      "text": "Camp David Accords: Menachem Begin and Anwar Sadat begin peace discussions at Camp David, Maryland.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif/lossy-page1-1920px-Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif/lossy-page1-330px-Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "lossy-page1-1920px-close_up_of_menahem_begin,_jimmy_carter_and_anwar_sadat_at_camp_david.,_09-07-1978_-_nara_-_181133.tif.jpg",
+        "width": 3000,
+        "height": 2018,
+        "title": "Camp David Accords",
+        "description": "1978 political agreement between Egypt and Israel",
+        "extract": "The Camp David Accords were a pair of political agreements signed by Egyptian president Anwar Sadat and Israeli prime minister Menachem Begin on 17 September 1978, following twelve days of secret negotiations at Camp David, the country retreat of the president of the United States in Maryland. The two framework agreements were signed at the White House and were witnessed by President Jimmy Carter. The second of these frameworks led directly to the 1979 Egypt–Israel peace treaty. Due to the agreement, Sadat and Begin received the shared 1978 Nobel Peace Prize. The first framework, which dealt with the Palestinian territories, was written without participation of the Palestinians and was condemned by the United Nations.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Camp_David_Accords",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif/lossy-page1-1920px-Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif/lossy-page1-330px-Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lossy-page1-1920px-close_up_of_menahem_begin,_jimmy_carter_and_anwar_sadat_at_camp_david.,_09-07-1978_-_nara_-_181133.tif.jpg",
+          "width": 3000,
+          "height": 2018,
+          "title": "Camp David Accords",
+          "description": "1978 political agreement between Egypt and Israel",
+          "extract": "The Camp David Accords were a pair of political agreements signed by Egyptian president Anwar Sadat and Israeli prime minister Menachem Begin on 17 September 1978, following twelve days of secret negotiations at Camp David, the country retreat of the president of the United States in Maryland. The two framework agreements were signed at the White House and were witnessed by President Jimmy Carter. The second of these frameworks led directly to the 1979 Egypt–Israel peace treaty. Due to the agreement, Sadat and Begin received the shared 1978 Nobel Peace Prize. The first framework, which dealt with the Palestinian territories, was written without participation of the Palestinians and was condemned by the United Nations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Camp_David_Accords",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Menachem_Begin_and_Cyrus_R._Vance_%28cropped%29_%282%29.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Menachem_Begin_and_Cyrus_R._Vance_%28cropped%29_%282%29.JPEG/330px-Menachem_Begin_and_Cyrus_R._Vance_%28cropped%29_%282%29.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "menachem_begin_and_cyrus_r._vance_(cropped)_(2).jpeg",
+          "width": 402,
+          "height": 548,
+          "title": "Menachem Begin",
+          "description": "Prime Minister of Israel from 1977 to 1983",
+          "extract": "Menachem Begin was an Israeli politician who founded the political parties Herut and Likud and served as prime minister of Israel from 1977 to 1983.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Menachem_Begin",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Anwar_Sadat_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Anwar_Sadat_cropped.jpg/330px-Anwar_Sadat_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anwar_sadat_cropped.jpg",
+          "width": 547,
+          "height": 808,
+          "title": "Anwar Sadat",
+          "description": "President of Egypt from 1970 to 1981",
+          "extract": "Muhammad Anwar es-Sadat was an Egyptian politician and military officer who was the third president of Egypt from 1970 until his assassination in 1981. A former member of the Free Officers movement, Sadat was vice president under Gamal Abdel Nasser on two occasions and assumed the office on Nasser's death in 1970.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anwar_Sadat",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Camp David Accords",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Camp_David_Accords",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "09-05-1945-f4dcfa2c",
+      "year": 1945,
+      "text": "Cold War: Igor Gouzenko, a Soviet Union embassy clerk, defects to Canada, exposing Soviet espionage in North America, signalling the beginning of the Cold War.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Igor_Gouzenko_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Igor_Gouzenko_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "igor_gouzenko_1946.jpg",
+        "width": 288,
+        "height": 400,
+        "title": "Igor Gouzenko",
+        "description": "Russian defector to Canada (1919–1982)",
+        "extract": "Igor Sergeyevich Gouzenko was a cipher clerk for the Soviet embassy to Canada in Ottawa, Ontario, and a lieutenant of the Soviet Main Intelligence Directorate (GRU). He defected on September 5, 1945, three days after the end of World War II, with 109 documents on the USSR's espionage activities in the West. In response, Canada's Prime Minister, Mackenzie King, called a royal commission to investigate espionage in Canada.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Igor_Gouzenko",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Igor_Gouzenko_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Igor_Gouzenko_1946.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "igor_gouzenko_1946.jpg",
+          "width": 288,
+          "height": 400,
+          "title": "Igor Gouzenko",
+          "description": "Russian defector to Canada (1919–1982)",
+          "extract": "Igor Sergeyevich Gouzenko was a cipher clerk for the Soviet embassy to Canada in Ottawa, Ontario, and a lieutenant of the Soviet Main Intelligence Directorate (GRU). He defected on September 5, 1945, three days after the end of World War II, with 109 documents on the USSR's espionage activities in the West. In response, Canada's Prime Minister, Mackenzie King, called a royal commission to investigate espionage in Canada.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Igor_Gouzenko",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cold War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "relatedPagesCount": 3
+    }
+  ]
+}

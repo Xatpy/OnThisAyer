@@ -1,0 +1,667 @@
+{
+  "date": {
+    "month": 11,
+    "day": 25,
+    "formatted": "11-25"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "11-25-1941-04d337ae",
+      "year": 1941,
+      "text": "World War II:  HMS Barham is sunk by a German torpedo.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+        "width": 798,
+        "height": 544,
+        "title": "World War II",
+        "description": "Global conflict from 1939 to 1945",
+        "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+          "width": 798,
+          "height": 544,
+          "title": "World War II",
+          "description": "Global conflict from 1939 to 1945",
+          "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HMS_Barham_%281914%29.jpg/3840px-HMS_Barham_%281914%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HMS_Barham_%281914%29.jpg/330px-HMS_Barham_%281914%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hms_barham_(1914).jpg",
+          "width": 5707,
+          "height": 2866,
+          "title": "HMS Barham (04)",
+          "description": "Queen Elizabeth-class battleship",
+          "extract": "HMS Barham was one of five Queen Elizabeth-class battleships built for the Royal Navy during the early 1910s. Completed in 1915, she was often used as a flagship and participated in the Battle of Jutland during the First World War as part of the Grand Fleet. For the rest of the war, except for the inconclusive action of 19 August 1916, her service generally consisted of routine patrols and training in the North Sea.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/HMS_Barham_(04)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "matilda_tanks_on_the_move_outside_the_perimeter_of_tobruk,_libya,_18_november_1941._e6600.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk,_Libya,_18_November_1941._E6600",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "World War II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_II",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-25-1940-6789200e",
+      "year": 1940,
+      "text": "The de Havilland Mosquito, one of the most successful military aircraft in the Second World War, made its first flight.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De_Havilland_DH.98_Mosquito_B_Mk_IV_Series_2_%28restoration%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/De_Havilland_DH.98_Mosquito_B_Mk_IV_Series_2_%28restoration%29.jpg/330px-De_Havilland_DH.98_Mosquito_B_Mk_IV_Series_2_%28restoration%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "de_havilland_dh.98_mosquito_b_mk_iv_series_2_(restoration).jpg",
+        "width": 3000,
+        "height": 2026,
+        "title": "De Havilland Mosquito",
+        "description": "British multi-role combat aircraft of WW2",
+        "extract": "The de Havilland DH.98 Mosquito was a British twin-engined, multi-role combat aircraft, introduced during the Second World War. Unusual in that its airframe was constructed mostly of wood, it was nicknamed the \"Wooden Wonder\", or \"Mossie\". In 1941, it was one of the fastest operational aircraft in the world.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/De_Havilland_Mosquito",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/De_Havilland_DH.98_Mosquito_B_Mk_IV_Series_2_%28restoration%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/De_Havilland_DH.98_Mosquito_B_Mk_IV_Series_2_%28restoration%29.jpg/330px-De_Havilland_DH.98_Mosquito_B_Mk_IV_Series_2_%28restoration%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "de_havilland_dh.98_mosquito_b_mk_iv_series_2_(restoration).jpg",
+          "width": 3000,
+          "height": 2026,
+          "title": "De Havilland Mosquito",
+          "description": "British multi-role combat aircraft of WW2",
+          "extract": "The de Havilland DH.98 Mosquito was a British twin-engined, multi-role combat aircraft, introduced during the Second World War. Unusual in that its airframe was constructed mostly of wood, it was nicknamed the \"Wooden Wonder\", or \"Mossie\". In 1941, it was one of the fastest operational aircraft in the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/De_Havilland_Mosquito",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Rafale_-_RIAT_2009_%283751416421%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Rafale_-_RIAT_2009_%283751416421%29.jpg/330px-Rafale_-_RIAT_2009_%283751416421%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rafale_-_riat_2009_(3751416421).jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": "Military aircraft",
+          "description": "Aircraft designed or utilized for use in or support of military operations",
+          "extract": "A military aircraft is any fixed-wing or rotary-wing aircraft that is operated by a legal or insurrectionary military of any type. Some military aircraft engage directly in aerial warfare, while others take on support roles:Combat aircraft, such as fighters and bombers, are designed to destroy enemy equipment or personnel using their own ordnance. Combat aircraft are typically developed and procured only by military forces.\nNon-combat aircraft, such as transports and tankers, are not designed for combat as their primary function but may carry weapons for self-defense. These mainly operate in support roles, and may be developed by either military forces or civilian organizations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Military_aircraft",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/DH88_Comet_G-ACSS_Grosvenor_House_%286741273695%29.jpg/1280px-DH88_Comet_G-ACSS_Grosvenor_House_%286741273695%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/DH88_Comet_G-ACSS_Grosvenor_House_%286741273695%29.jpg/1280px-DH88_Comet_G-ACSS_Grosvenor_House_%286741273695%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "dh88_comet_g-acss_grosvenor_house_(6741273695).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Construction concepts pioneered in the DH.88 Comet were later used in the Mosquito.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/De_Havilland_Mosquito",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "De Havilland Mosquito",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/De_Havilland_Mosquito",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-25-2013-0112545d",
+      "year": 2013,
+      "text": "English-Irish boy band One Direction released their third studio album Midnight Memories which debuted at number one on the Billboard 200 and became the best-selling album of 2013.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/One_Direction_Sydney_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/One_Direction_Sydney_4.jpg/330px-One_Direction_Sydney_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "one_direction_sydney_4.jpg",
+        "width": 1000,
+        "height": 545,
+        "title": "One Direction",
+        "description": "English–Irish boy band (2010–2016)",
+        "extract": "One Direction, often shortened to 1D, were an English–Irish pop boy band formed in London in 2010. The group consisted of Niall Horan, Liam Payne, Harry Styles, Louis Tomlinson and Zayn Malik. The group sold over 70 million records worldwide, making them one of the best-selling boy bands of all time, before going on an indefinite hiatus in 2016.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/One_Direction",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/One_Direction_Sydney_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/One_Direction_Sydney_4.jpg/330px-One_Direction_Sydney_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "one_direction_sydney_4.jpg",
+          "width": 1000,
+          "height": 545,
+          "title": "One Direction",
+          "description": "English–Irish boy band (2010–2016)",
+          "extract": "One Direction, often shortened to 1D, were an English–Irish pop boy band formed in London in 2010. The group consisted of Niall Horan, Liam Payne, Harry Styles, Louis Tomlinson and Zayn Malik. The group sold over 70 million records worldwide, making them one of the best-selling boy bands of all time, before going on an indefinite hiatus in 2016.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/One_Direction",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/28/One_Direction_Midnight_Memories_%28Official_Album_Cover%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/2/28/One_Direction_Midnight_Memories_%28Official_Album_Cover%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "one_direction_midnight_memories_(official_album_cover).png",
+          "width": 300,
+          "height": 300,
+          "title": "Midnight Memories",
+          "description": "2013 studio album by One Direction",
+          "extract": "Midnight Memories is the third studio album by English-Irish boy band One Direction, released on 25 November 2013 by Columbia Records, Syco Music and Sony Music. It was described as having a \"slightly rockier tone\" than their previous efforts. The album became the fastest-selling album in Amazon UK history, breaking the record set by their previous release, Take Me Home (2012). It debuted at number one on the US Billboard 200, making One Direction the first group in history to debut at number one in the US with their first three albums. Despite being released five weeks before the year's end, Midnight Memories nevertheless became the best-selling album of 2013 as listed by the IFPI, with sales of four million copies. The album was supported by four singles: \"Best Song Ever\", \"Story of My Life\", the album's title track \"Midnight Memories\", and \"You & I\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Midnight_Memories",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/One_Direction_X_Factor_Live_Glasgow_2_%28cropped%29.jpg/1280px-One_Direction_X_Factor_Live_Glasgow_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/One_Direction_X_Factor_Live_Glasgow_2_%28cropped%29.jpg/1280px-One_Direction_X_Factor_Live_Glasgow_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "one_direction_x_factor_live_glasgow_2_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "One Direction during The X Factor Live tour in 2011",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/One_Direction",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "One Direction",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/One_Direction",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-25-1984-dcbff8a5",
+      "year": 1984,
+      "text": "Band Aid, a supergroup consisting of more than 30 leading British and Irish pop musicians, recorded the song \"Do They Know It's Christmas?\" to raise money for famine relief in Ethiopia.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Do_They_Know_It%27s_Christmas_single_cover_-_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/41/Do_They_Know_It%27s_Christmas_single_cover_-_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "do_they_know_it's_christmas_single_cover_-_1984.jpg",
+        "width": 300,
+        "height": 307,
+        "title": "Do They Know It's Christmas?",
+        "description": "1984 charity song by Band Aid",
+        "extract": "\"Do They Know It's Christmas?\" is a charity song written in 1984 by Bob Geldof and Midge Ure to raise money for the 1983–1985 famine in Ethiopia. It was first recorded by Band Aid, a supergroup consisting of popular British and Irish musicians, in a single day at Sarm West Studios in Notting Hill, London, in November 1984.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Do_They_Know_It's_Christmas%3F",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/41/Do_They_Know_It%27s_Christmas_single_cover_-_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/41/Do_They_Know_It%27s_Christmas_single_cover_-_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "do_they_know_it's_christmas_single_cover_-_1984.jpg",
+          "width": 300,
+          "height": 307,
+          "title": "Do They Know It's Christmas?",
+          "description": "1984 charity song by Band Aid",
+          "extract": "\"Do They Know It's Christmas?\" is a charity song written in 1984 by Bob Geldof and Midge Ure to raise money for the 1983–1985 famine in Ethiopia. It was first recorded by Band Aid, a supergroup consisting of popular British and Irish musicians, in a single day at Sarm West Studios in Notting Hill, London, in November 1984.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Do_They_Know_It's_Christmas%3F",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Cream_on_Fanclub_1968_%282%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Cream_on_Fanclub_1968_%282%29.png/330px-Cream_on_Fanclub_1968_%282%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cream_on_fanclub_1968_(2).png",
+          "width": 500,
+          "height": 499,
+          "title": "Supergroup (music)",
+          "description": "Band whose members were successful in prior acts",
+          "extract": "A supergroup is a musical group formed of members who are already successful as solo artists or as members of other successful groups. The term became popular in the late 1960s when members of already successful rock groups recorded albums together, after which they normally disbanded. Charity supergroups, in which prominent musicians perform or record together in support of a particular cause, have been common since the 1980s. The term is most common in the context of rock and pop music, but it has occasionally been applied to other musical genres. For example, opera stars the Three Tenors and hip hop duos Kids See Ghosts and Bad Meets Evil all have been called supergroups.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Supergroup_(music)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Opbushel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Opbushel.jpg/330px-Opbushel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "opbushel.jpg",
+          "width": 500,
+          "height": 336,
+          "title": "1983–1985 famine in Ethiopia",
+          "description": "Famine in Ethiopia during the Derg rule",
+          "extract": "A widespread famine affected Ethiopia from 1983 to 1985. The worst famine to hit the country in a century, it affected 7.75 million people and left approximately 300,000 to 1.2 million dead. 2.5 million people were internally displaced whereas 400,000 refugees left Ethiopia. Almost 200,000 children were orphaned.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1983%E2%80%931985_famine_in_Ethiopia",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Do They Know It's Christmas?",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Do_They_Know_It's_Christmas%3F",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-25-1977-49a67278",
+      "year": 1977,
+      "text": "Former Senator Benigno Aquino Jr., is found guilty by the Philippine Military Commission No. 2 and is sentenced to death by firing squad. He is later assassinated in 1983.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ninoy_Aquino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ninoy_Aquino.jpg/330px-Ninoy_Aquino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ninoy_aquino.jpg",
+        "width": 350,
+        "height": 446,
+        "title": "Ninoy Aquino",
+        "description": "Filipino politician (1932–1983)",
+        "extract": "Benigno Simeón \"Ninoy\" Aquino Jr., was a Filipino politician and journalist who served as a senator of the Philippines (1967–1972) and governor of the province of Tarlac (1963–1967). Aquino was the husband of Corazon Aquino, who became the 11th president of the Philippines after his assassination, and father of Benigno Aquino III, who became the 15th president of the Philippines. Aquino, together with Gerry Roxas and Jovito R. Salonga, helped form the leadership of the Liberal Party-based coalition against ex-President Ferdinand Marcos. Aquino was a significant emotional leader, who, together with the intellectual leader Sen. Jose W. Diokno, led the overall opposition.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ninoy_Aquino",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ninoy_Aquino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ninoy_Aquino.jpg/330px-Ninoy_Aquino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ninoy_aquino.jpg",
+          "width": 350,
+          "height": 446,
+          "title": "Ninoy Aquino",
+          "description": "Filipino politician (1932–1983)",
+          "extract": "Benigno Simeón \"Ninoy\" Aquino Jr., was a Filipino politician and journalist who served as a senator of the Philippines (1967–1972) and governor of the province of Tarlac (1963–1967). Aquino was the husband of Corazon Aquino, who became the 11th president of the Philippines after his assassination, and father of Benigno Aquino III, who became the 15th president of the Philippines. Aquino, together with Gerry Roxas and Jovito R. Salonga, helped form the leadership of the Liberal Party-based coalition against ex-President Ferdinand Marcos. Aquino was a significant emotional leader, who, together with the intellectual leader Sen. Jose W. Diokno, led the overall opposition.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ninoy_Aquino",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gari-Melchers-War-Highsmith.jpeg/3840px-Gari-Melchers-War-Highsmith.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Gari-Melchers-War-Highsmith.jpeg/330px-Gari-Melchers-War-Highsmith.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gari-melchers-war-highsmith.jpeg",
+          "width": 5436,
+          "height": 1865,
+          "title": "Military justice",
+          "description": "Law governing members of the military",
+          "extract": "Military justice is the body of laws and procedures governing members of the armed forces. Many nation-states have separate and distinct bodies of law that govern the conduct of members of their armed forces. Some states use special judicial and other arrangements to enforce those laws, while others use civilian judicial systems. Legal issues unique to military justice include the preservation of good order and discipline, the legality of orders, and appropriate conduct for members of the military. Some states enable their military justice systems to deal with civil offenses committed by their armed forces in some circumstances.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Military_justice",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bundesarchiv_Bild_101I-212-0221-07%2C_Russland-Nord%2C_Erschie%C3%9Fung_von_Partisanen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bundesarchiv_Bild_101I-212-0221-07%2C_Russland-Nord%2C_Erschie%C3%9Fung_von_Partisanen.jpg/330px-Bundesarchiv_Bild_101I-212-0221-07%2C_Russland-Nord%2C_Erschie%C3%9Fung_von_Partisanen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-212-0221-07,_russland-nord,_erschießung_von_partisanen.jpg",
+          "width": 799,
+          "height": 541,
+          "title": "Execution by firing squad",
+          "description": "Execution by multiple shooters on command",
+          "extract": "Execution by firing squad, historically called fusillading, is a method of capital punishment, particularly common in the military and in times of war. Some reasons for its use are that firearms are usually readily available and a gunshot to a vital organ, such as the brain or heart, most often will kill relatively quickly.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Execution_by_firing_squad",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Ninoy Aquino",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ninoy_Aquino",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-25-1874-1f75f351",
+      "year": 1874,
+      "text": "The United States Greenback Party is established as a political party consisting primarily of farmers affected by the Panic of 1873.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/People_approving_for_change_at_Parivartan_Yatra%2C_Beohari_in_April_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/People_approving_for_change_at_Parivartan_Yatra%2C_Beohari_in_April_2013.jpg/330px-People_approving_for_change_at_Parivartan_Yatra%2C_Beohari_in_April_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "people_approving_for_change_at_parivartan_yatra,_beohari_in_april_2013.jpg",
+        "width": 1800,
+        "height": 1200,
+        "title": "Political party",
+        "description": "Organization coordinating policy priorities and candidates for government positions",
+        "extract": "A political party is an organization that coordinates candidates to compete in elections and participate in governance. It is common for the members of a party to hold similar ideas about politics, and parties may promote specific ideological or policy goals.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Political_party",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/People_approving_for_change_at_Parivartan_Yatra%2C_Beohari_in_April_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/People_approving_for_change_at_Parivartan_Yatra%2C_Beohari_in_April_2013.jpg/330px-People_approving_for_change_at_Parivartan_Yatra%2C_Beohari_in_April_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "people_approving_for_change_at_parivartan_yatra,_beohari_in_april_2013.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": "Political party",
+          "description": "Organization coordinating policy priorities and candidates for government positions",
+          "extract": "A political party is an organization that coordinates candidates to compete in elections and participate in governance. It is common for the members of a party to hold similar ideas about politics, and parties may promote specific ideological or policy goals.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Political_party",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Panic_of_1873_bank_run.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Panic_of_1873_bank_run.jpg/330px-Panic_of_1873_bank_run.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "panic_of_1873_bank_run.jpg",
+          "width": 1185,
+          "height": 1536,
+          "title": "Panic of 1873",
+          "description": "Financial crisis leading to economic depression in Europe and North America",
+          "extract": "The Panic of 1873 was a financial crisis that triggered an economic depression in Europe and North America that lasted from 1873 to 1877, continuing until 1879 in the French Third Republic and in the United Kingdom of Great Britain and Ireland. In Britain, the panic started two decades of economic stagnation known as the \"Long Depression\" that weakened the country's economic leadership. In the United States, the period of economic stagnation was known as the \"Great Depression\" until the events of 1929 and the early 1930s set a new standard.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Panic_of_1873",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Greenback-1862.jpg/330px-Greenback-1862.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Greenback-1862.jpg/330px-Greenback-1862.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "greenback-1862.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A $5 United States Note of the series of 1862 popularly known as a \"greenback\" from the color of ink used on the reverse",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Greenback_Party",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Greenback Party",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Greenback_Party",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-25-1487-f619d257",
+      "year": 1487,
+      "text": "Elizabeth of York is crowned Queen Consort of England.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/British_School%2C_16th_century_-_Elizabeth_of_York_%281465-1503%29_-_RCIN_403447_-_Royal_Collection.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/British_School%2C_16th_century_-_Elizabeth_of_York_%281465-1503%29_-_RCIN_403447_-_Royal_Collection.jpg/330px-British_School%2C_16th_century_-_Elizabeth_of_York_%281465-1503%29_-_RCIN_403447_-_Royal_Collection.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "british_school,_16th_century_-_elizabeth_of_york_(1465-1503)_-_rcin_403447_-_royal_collection.jpg",
+        "width": 1156,
+        "height": 1650,
+        "title": "Elizabeth of York",
+        "description": "Queen of England from 1486 to 1503",
+        "extract": "Elizabeth of York was Queen of England from her marriage to King Henry VII on 18 January 1486 until she died in 1503. She was the daughter of King Edward IV and Elizabeth Woodville, and her marriage to Henry VII followed his victory at the Battle of Bosworth Field, which marked the end of the civil war known as the Wars of the Roses.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/British_School%2C_16th_century_-_Elizabeth_of_York_%281465-1503%29_-_RCIN_403447_-_Royal_Collection.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/British_School%2C_16th_century_-_Elizabeth_of_York_%281465-1503%29_-_RCIN_403447_-_Royal_Collection.jpg/330px-British_School%2C_16th_century_-_Elizabeth_of_York_%281465-1503%29_-_RCIN_403447_-_Royal_Collection.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "british_school,_16th_century_-_elizabeth_of_york_(1465-1503)_-_rcin_403447_-_royal_collection.jpg",
+          "width": 1156,
+          "height": 1650,
+          "title": "Elizabeth of York",
+          "description": "Queen of England from 1486 to 1503",
+          "extract": "Elizabeth of York was Queen of England from her marriage to King Henry VII on 18 January 1486 until she died in 1503. She was the daughter of King Edward IV and Elizabeth Woodville, and her marriage to Henry VII followed his victory at the Battle of Bosworth Field, which marked the end of the civil war known as the Wars of the Roses.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/York_Sisters.jpg/330px-York_Sisters.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/York_Sisters.jpg/330px-York_Sisters.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "york_sisters.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Elizabeth with her sisters. She is the first from the left.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Elizabeth of York",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Elizabeth_of_York",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-25--571-e8dd6767",
+      "year": -571,
+      "text": "Servius Tullius, king of Rome, celebrates the first of his three triumphs for his victory over the Etruscans.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Servius_by_Rouille.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Servius_by_Rouille.jpg/330px-Servius_by_Rouille.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "servius_by_rouille.jpg",
+        "width": 418,
+        "height": 421,
+        "title": "Servius Tullius",
+        "description": "King of Rome from c. 578 to 535 BC",
+        "extract": "Servius Tullius was the legendary sixth king of Rome, and the second of its Etruscan dynasty. He reigned from 578 to 535 BC. Roman and Greek sources describe his servile origins and later marriage to a daughter of Lucius Tarquinius Priscus, Rome's first Etruscan king, who was assassinated in 579 BC. The constitutional basis for his accession is unclear; he is variously described as the first Roman king to accede without election by the Senate, having gained the throne by popular and royal support; and as the first to be elected by the Senate alone, with support of the reigning queen but without recourse to a popular vote.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Servius_Tullius",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Servius_by_Rouille.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Servius_by_Rouille.jpg/330px-Servius_by_Rouille.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "servius_by_rouille.jpg",
+          "width": 418,
+          "height": 421,
+          "title": "Servius Tullius",
+          "description": "King of Rome from c. 578 to 535 BC",
+          "extract": "Servius Tullius was the legendary sixth king of Rome, and the second of its Etruscan dynasty. He reigned from 578 to 535 BC. Roman and Greek sources describe his servile origins and later marriage to a daughter of Lucius Tarquinius Priscus, Rome's first Etruscan king, who was assassinated in 579 BC. The constitutional basis for his accession is unclear; he is variously described as the first Roman king to accede without election by the Senate, having gained the throne by popular and royal support; and as the first to be elected by the Senate alone, with support of the reigning queen but without recourse to a popular vote.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Servius_Tullius",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bas_relief_from_Arch_of_Marcus_Aurelius_triumph_chariot_from_Roma_Project.jpg/3840px-Bas_relief_from_Arch_of_Marcus_Aurelius_triumph_chariot_from_Roma_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bas_relief_from_Arch_of_Marcus_Aurelius_triumph_chariot_from_Roma_Project.jpg/330px-Bas_relief_from_Arch_of_Marcus_Aurelius_triumph_chariot_from_Roma_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bas_relief_from_arch_of_marcus_aurelius_triumph_chariot_from_roma_project.jpg",
+          "width": 4182,
+          "height": 6163,
+          "title": "Roman triumph",
+          "description": "Ancient Roman ceremony of military success",
+          "extract": "The Roman triumph was a civil ceremony and religious rite of ancient Rome, held to publicly celebrate and sanctify the success of a military commander who had led Roman forces to victory in the service of the state or, in some historical traditions, one who had successfully completed a foreign war.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Roman_triumph",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Servius Tullius",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Servius_Tullius",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-25-1970-c701673e",
+      "year": 1970,
+      "text": "In Japan, author Yukio Mishima and one compatriot commit ritualistic seppuku after an unsuccessful coup attempt.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Yukio_Mishima%2C_1955_%28cropped_850%C3%97950_px%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yukio_Mishima%2C_1955_%28cropped_850%C3%97950_px%29.jpg/330px-Yukio_Mishima%2C_1955_%28cropped_850%C3%97950_px%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "yukio_mishima,_1955_(cropped_850×950_px).jpg",
+        "width": 850,
+        "height": 950,
+        "title": "Yukio Mishima",
+        "description": "Japanese author and coup attempt leader (1925–1970)",
+        "extract": "Kimitake Hiraoka , known by his pen name Yukio Mishima , was a Japanese novelist, playwright, short story writer, actor, martial artist, model, and the leader of an attempted coup d'état that culminated in his seppuku. \nHe is considered one of the most important postwar stylists of the Japanese language.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Yukio_Mishima",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Yukio_Mishima%2C_1955_%28cropped_850%C3%97950_px%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yukio_Mishima%2C_1955_%28cropped_850%C3%97950_px%29.jpg/330px-Yukio_Mishima%2C_1955_%28cropped_850%C3%97950_px%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "yukio_mishima,_1955_(cropped_850×950_px).jpg",
+          "width": 850,
+          "height": 950,
+          "title": "Yukio Mishima",
+          "description": "Japanese author and coup attempt leader (1925–1970)",
+          "extract": "Kimitake Hiraoka , known by his pen name Yukio Mishima , was a Japanese novelist, playwright, short story writer, actor, martial artist, model, and the leader of an attempted coup d'état that culminated in his seppuku. \nHe is considered one of the most important postwar stylists of the Japanese language.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Yukio_Mishima",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Seppuku.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Seppuku.jpg/330px-Seppuku.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "seppuku.jpg",
+          "width": 962,
+          "height": 773,
+          "title": "Seppuku",
+          "description": "Ritualistic suicide by disembowelment",
+          "extract": "Seppuku , also called harakiri , is a form of Japanese ritualistic suicide by disembowelment. It was originally reserved for samurai in their code of honor, but was also practiced by other Japanese people during the Shōwa era to restore honor for themselves or for their families.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Seppuku",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yukio_Mishima_signature.png/120px-Yukio_Mishima_signature.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yukio_Mishima_signature.png/120px-Yukio_Mishima_signature.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "yukio_mishima_signature.png",
+          "width": 800,
+          "height": 600,
+          "title": "Yukio_Mishima_signature",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Yukio_Mishima",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Yukio Mishima",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Yukio_Mishima",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-25-1952-fadb558b",
+      "year": 1952,
+      "text": "Korean War: After 42 days of fighting, the Battle of Triangle Hill ended as American and South Korean units abandoned their attempt to capture the \"Iron Triangle\".",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "chosin.jpg",
+        "width": 2858,
+        "height": 2294,
+        "title": "Korean War",
+        "description": "1950–1953 conflict on the Korean Peninsula",
+        "extract": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Korean_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chosin.jpg",
+          "width": 2858,
+          "height": 2294,
+          "title": "Korean War",
+          "description": "1950–1953 conflict on the Korean Peninsula",
+          "extract": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Korean_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Korean_War_bombing_Wonsan_%28cropped%29.jpg/1280px-Korean_War_bombing_Wonsan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Korean_War_bombing_Wonsan_%28cropped%29.jpg/1280px-Korean_War_bombing_Wonsan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "korean_war_bombing_wonsan_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Korean_War_bombing_Wonsan_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Korean_War",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg/330px-Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg/330px-Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "battle_of_triangle_hill_chinese_infantrymen.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Battle_of_Triangle_Hill_Chinese_Infantrymen",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Korean_War",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Korean War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Korean_War",
+      "relatedPagesCount": 3
+    }
+  ]
+}

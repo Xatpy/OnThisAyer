@@ -1,0 +1,607 @@
+{
+  "date": {
+    "month": 4,
+    "day": 8,
+    "formatted": "04-08"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "04-08-2002-b5eeb371",
+      "year": 2002,
+      "text": "The Space Shuttle Atlantis is launched on mission STS-110, carrying the S0 truss to the International Space Station. Astronaut Jerry L. Ross also becomes the first person to fly on seven spaceflights.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+        "width": 3697,
+        "height": 2217,
+        "title": "Space Shuttle Atlantis",
+        "description": "Space Shuttle orbiter (1985–2011)",
+        "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+          "width": 3697,
+          "height": 2217,
+          "title": "Space Shuttle Atlantis",
+          "description": "Space Shuttle orbiter (1985–2011)",
+          "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/STS-110_Installation_of_S0_Truss.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/STS-110_Installation_of_S0_Truss.jpg/330px-STS-110_Installation_of_S0_Truss.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-110_installation_of_s0_truss.jpg",
+          "width": 3032,
+          "height": 2008,
+          "title": "STS-110",
+          "description": "2002 American crewed spaceflight to the ISS",
+          "extract": "STS-110 was a Space Shuttle mission to the International Space Station (ISS) on 8–19 April 2002 flown by Space Shuttle Atlantis. The main purpose was to install the S0 Truss segment, which forms the backbone of the truss structure on the station.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-110",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ISS_solar_arrays_%2B_truss_view.jpg/3840px-ISS_solar_arrays_%2B_truss_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ISS_solar_arrays_%2B_truss_view.jpg/330px-ISS_solar_arrays_%2B_truss_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss_solar_arrays_+_truss_view.jpg",
+          "width": 4288,
+          "height": 2848,
+          "title": "Integrated Truss Structure",
+          "description": "Part of the International Space Station; sequence of connected trusses",
+          "extract": "The Integrated Truss Structure (ITS) of the International Space Station (ISS) consists of a linear arranged sequence of connected trusses on which various unpressurized components are mounted such as logistics carriers, radiators, solar arrays, and other equipment. It supplies the ISS with a bus architecture. It is approximately 110 metres long, weighs slightly under 118 tonnes (260,000 lb) with all its attached equipment, and is made primarily from aluminium and stainless steel.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Integrated_Truss_Structure",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Atlantis",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "04-08-1993-6284513f",
+      "year": 1993,
+      "text": "The Space Shuttle Discovery is launched on mission STS-56.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+        "width": 3336,
+        "height": 2507,
+        "title": "Space Shuttle Discovery",
+        "description": "Space Shuttle orbiter (1984–2011)",
+        "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+          "width": 3336,
+          "height": 2507,
+          "title": "Space Shuttle Discovery",
+          "description": "Space Shuttle orbiter (1984–2011)",
+          "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/STS056-91-054_-_Payload_bay_view_with_ATLAS_pallet_%28Retouched%29.jpg/3840px-STS056-91-054_-_Payload_bay_view_with_ATLAS_pallet_%28Retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/STS056-91-054_-_Payload_bay_view_with_ATLAS_pallet_%28Retouched%29.jpg/330px-STS056-91-054_-_Payload_bay_view_with_ATLAS_pallet_%28Retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts056-91-054_-_payload_bay_view_with_atlas_pallet_(retouched).jpg",
+          "width": 5268,
+          "height": 5268,
+          "title": "STS-56",
+          "description": "1993 American crewed spaceflight",
+          "extract": "STS-56 was a NASA Space Shuttle Discovery mission to perform special experiments. It was Discovery's 16th flight. The mission was launched from Kennedy Space Center, Florida, on April 8, 1993.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-56",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Space_Shuttle_Discovery_at_Udvar-Hazy_Center.jpg/1280px-Space_Shuttle_Discovery_at_Udvar-Hazy_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Space_Shuttle_Discovery_at_Udvar-Hazy_Center.jpg/1280px-Space_Shuttle_Discovery_at_Udvar-Hazy_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_discovery_at_udvar-hazy_center.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Space Shuttle Discovery at the Steven F. Udvar-Hazy Center",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Discovery",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-08-2014-76fa4dff",
+      "year": 2014,
+      "text": "Windows XP reaches its standard End Of Life and is no longer supported.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/6/64/Windows_XP_Luna.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Windows_XP_Luna.png/330px-Windows_XP_Luna.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "windows_xp_luna.png",
+        "width": 640,
+        "height": 480,
+        "title": "Windows XP",
+        "description": "2001 Microsoft operating system version",
+        "extract": "Windows XP is a major release of Microsoft's Windows NT operating system. It was released to manufacturing on August 24, 2001, and later to retail on October 25 that year. It is a direct successor to Windows 2000 for high-end and business users and Windows Me for home users.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Windows_XP",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/6/64/Windows_XP_Luna.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Windows_XP_Luna.png/330px-Windows_XP_Luna.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "windows_xp_luna.png",
+          "width": 640,
+          "height": 480,
+          "title": "Windows XP",
+          "description": "2001 Microsoft operating system version",
+          "extract": "Windows XP is a major release of Microsoft's Windows NT operating system. It was released to manufacturing on August 24, 2001, and later to retail on October 25 that year. It is a direct successor to Windows 2000 for high-end and business users and Windows Me for home users.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Windows_XP",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Product%E2%80%99s_lifecycle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Product%E2%80%99s_lifecycle.jpg/330px-Product%E2%80%99s_lifecycle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "product’s_lifecycle.jpg",
+          "width": 689,
+          "height": 613,
+          "title": "Product lifecycle",
+          "description": "Duration of processing of products",
+          "extract": "In industry, product lifecycle management (PLM) is the process of managing the entire lifecycle of a product from its inception through the engineering, design, and manufacture, as well as the service and disposal of manufactured products. PLM integrates people, data, processes, and business systems and provides a product information backbone for companies and their extended enterprises.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Product_lifecycle",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Windows XP",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Windows_XP",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-08-1940-2d2e73a8",
+      "year": 1940,
+      "text": "The Central Committee of the Mongolian People's Revolutionary Party elects Yumjaagiin Tsedenbal as General Secretary, marking the beginning of his 44-year-long tenure as de facto leader of Mongolia.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Altered_portrait_of_Yumjaagiin_Tsedenbal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altered_portrait_of_Yumjaagiin_Tsedenbal.jpg/330px-Altered_portrait_of_Yumjaagiin_Tsedenbal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "altered_portrait_of_yumjaagiin_tsedenbal.jpg",
+        "width": 700,
+        "height": 896,
+        "title": "Yumjaagiin Tsedenbal",
+        "description": "Leader of Mongolia from 1952 to 1984",
+        "extract": "Yumjaagiin Tsedenbal was a Mongolian military officer and politician who led the Mongolian People's Republic as a dictator from 1952 to 1984. He served as General Secretary of the ruling Mongolian People's Revolutionary Party from 1940 to 1954 and again from 1958 to 1984, as Chairman of the Council of Ministers from 1952 to 1974, and as Chairman of the Presidium of the People's Great Khural from 1974 to 1984.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Yumjaagiin_Tsedenbal",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Altered_portrait_of_Yumjaagiin_Tsedenbal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Altered_portrait_of_Yumjaagiin_Tsedenbal.jpg/330px-Altered_portrait_of_Yumjaagiin_Tsedenbal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "altered_portrait_of_yumjaagiin_tsedenbal.jpg",
+          "width": 700,
+          "height": 896,
+          "title": "Yumjaagiin Tsedenbal",
+          "description": "Leader of Mongolia from 1952 to 1984",
+          "extract": "Yumjaagiin Tsedenbal was a Mongolian military officer and politician who led the Mongolian People's Republic as a dictator from 1952 to 1984. He served as General Secretary of the ruling Mongolian People's Revolutionary Party from 1940 to 1954 and again from 1958 to 1984, as Chairman of the Council of Ministers from 1952 to 1974, and as Chairman of the Presidium of the People's Great Khural from 1974 to 1984.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Yumjaagiin_Tsedenbal",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Mongolian People's Party",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mongolian_People's_Party",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "04-08-1954-1895ce3a",
+      "year": 1954,
+      "text": "South African Airways Flight 201: A de Havilland DH.106 Comet 1 crashes into the sea during night killing 21 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/British_Overseas_Airways_Corporation_-_de_Havilland_DH-106_Comet_1_G-ALYY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/British_Overseas_Airways_Corporation_-_de_Havilland_DH-106_Comet_1_G-ALYY.jpg/330px-British_Overseas_Airways_Corporation_-_de_Havilland_DH-106_Comet_1_G-ALYY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "british_overseas_airways_corporation_-_de_havilland_dh-106_comet_1_g-alyy.jpg",
+        "width": 873,
+        "height": 640,
+        "title": "South African Airways Flight 201",
+        "description": "1954 aviation accident in the Mediterranean Sea",
+        "extract": "South African Airways Flight 201, a de Havilland Comet 1, took off at 18:32 UTC on 8 April 1954 from Ciampino Airport in Rome, Italy, en route to Cairo, Egypt, on the second stage of its flight from London, England to Johannesburg, South Africa. The flight crashed at around 19:07 UTC, killing all on board. The flight was operated as a charter by British Overseas Airways Corporation (BOAC) using the aircraft registration G-ALYY, with a South African crew of seven, and carrying fourteen passengers.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/South_African_Airways_Flight_201",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/British_Overseas_Airways_Corporation_-_de_Havilland_DH-106_Comet_1_G-ALYY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/British_Overseas_Airways_Corporation_-_de_Havilland_DH-106_Comet_1_G-ALYY.jpg/330px-British_Overseas_Airways_Corporation_-_de_Havilland_DH-106_Comet_1_G-ALYY.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "british_overseas_airways_corporation_-_de_havilland_dh-106_comet_1_g-alyy.jpg",
+          "width": 873,
+          "height": 640,
+          "title": "South African Airways Flight 201",
+          "description": "1954 aviation accident in the Mediterranean Sea",
+          "extract": "South African Airways Flight 201, a de Havilland Comet 1, took off at 18:32 UTC on 8 April 1954 from Ciampino Airport in Rome, Italy, en route to Cairo, Egypt, on the second stage of its flight from London, England to Johannesburg, South Africa. The flight crashed at around 19:07 UTC, killing all on board. The flight was operated as a charter by British Overseas Airways Corporation (BOAC) using the aircraft registration G-ALYY, with a South African crew of seven, and carrying fourteen passengers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/South_African_Airways_Flight_201",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg/330px-BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bea_de_havilland_dh-106_comet_4b_berlin.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": "De Havilland Comet",
+          "description": "First commercial jet airliner, four-engined",
+          "extract": "The de Havilland DH.106 Comet is a four-engine narrow body aircraft developed and manufactured by de Havilland in the United Kingdom. The world's first commercial jet airliner, the Comet 1 prototype first flew in 1949. It features an aerodynamically clean design with four de Havilland Ghost turbojet engines located in the wing roots, a pressurised cabin, and large windows. For the era, it offered a relatively quiet, comfortable passenger cabin and was commercially promising at its debut in 1952.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/De_Havilland_Comet",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "South African Airways Flight 201",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/South_African_Airways_Flight_201",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-08-2026-ce4f1c4a",
+      "year": 2026,
+      "text": "Operation Eternal Darkness: Hours after a ceasefire to the Iran war, Israeli attacks on Lebanon kill at least 357 and injures more than 1200 people in the largest airstrikes of the Lebanon war.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/8_April_2026_Isreali_attacks_on_Beirut_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/8_April_2026_Isreali_attacks_on_Beirut_%282%29.jpg/330px-8_April_2026_Isreali_attacks_on_Beirut_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "8_april_2026_isreali_attacks_on_beirut_(2).jpg",
+        "width": 1007,
+        "height": 726,
+        "title": "8 April 2026 Israeli attacks on Lebanon",
+        "description": "Israeli airstrikes and artillery shelling",
+        "extract": "On 8 April 2026, shortly after the announcement of a ceasefire to the 2026 Iran war and Hezbollah signalling a pause in attacks against Israel according to the ceasefire, Israel launched what it described as its \"most powerful attacks\" on Lebanon, killing at least 357 people. The casualty count was among the highest of the 2026 Lebanon war.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/8_April_2026_Israeli_attacks_on_Lebanon",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/8_April_2026_Isreali_attacks_on_Beirut_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/8_April_2026_Isreali_attacks_on_Beirut_%282%29.jpg/330px-8_April_2026_Isreali_attacks_on_Beirut_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "8_april_2026_isreali_attacks_on_beirut_(2).jpg",
+          "width": 1007,
+          "height": 726,
+          "title": "8 April 2026 Israeli attacks on Lebanon",
+          "description": "Israeli airstrikes and artillery shelling",
+          "extract": "On 8 April 2026, shortly after the announcement of a ceasefire to the 2026 Iran war and Hezbollah signalling a pause in attacks against Israel according to the ceasefire, Israel launched what it described as its \"most powerful attacks\" on Lebanon, killing at least 357 people. The casualty count was among the highest of the 2026 Lebanon war.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/8_April_2026_Israeli_attacks_on_Lebanon",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "8 April 2026 Israeli attacks on Lebanon",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/8_April_2026_Israeli_attacks_on_Lebanon",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "04-08-2024-f45a7466",
+      "year": 2024,
+      "text": "Solar eclipse: A total solar eclipse takes place at the Moon's ascending node, visible across North America.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/2024_Total_Solar_Eclipse_%28NHQ202404080102%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2024_Total_Solar_Eclipse_%28NHQ202404080102%29.jpg/330px-2024_Total_Solar_Eclipse_%28NHQ202404080102%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2024_total_solar_eclipse_(nhq202404080102).jpg",
+        "width": 2709,
+        "height": 2709,
+        "title": "Solar eclipse of April 8, 2024",
+        "description": "Total eclipse over North America",
+        "extract": "A total solar eclipse, known as the Great North American Eclipse, occurred on April 8, 2024, and was visible across a band covering parts of North America, from Mexico to Canada and crossing the contiguous United States. A solar eclipse occurs when the Moon passes between Earth and the Sun, thereby obscuring the Sun. A total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, which blocks all direct sunlight and allows some of the Sun's corona and solar prominences to be seen. Totality occurs only in a limited path across Earth's surface, with the partial solar eclipse visible over a larger surrounding region.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8%2C_2024",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/2024_Total_Solar_Eclipse_%28NHQ202404080102%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2024_Total_Solar_Eclipse_%28NHQ202404080102%29.jpg/330px-2024_Total_Solar_Eclipse_%28NHQ202404080102%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2024_total_solar_eclipse_(nhq202404080102).jpg",
+          "width": 2709,
+          "height": 2709,
+          "title": "Solar eclipse of April 8, 2024",
+          "description": "Total eclipse over North America",
+          "extract": "A total solar eclipse, known as the Great North American Eclipse, occurred on April 8, 2024, and was visible across a band covering parts of North America, from Mexico to Canada and crossing the contiguous United States. A solar eclipse occurs when the Moon passes between Earth and the Sun, thereby obscuring the Sun. A total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, which blocks all direct sunlight and allows some of the Sun's corona and solar prominences to be seen. Totality occurs only in a limited path across Earth's surface, with the partial solar eclipse visible over a larger surrounding region.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8%2C_2024",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Solar_eclipse_1999_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Solar_eclipse_1999_4.jpg/330px-Solar_eclipse_1999_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "solar_eclipse_1999_4.jpg",
+          "width": 3543,
+          "height": 3489,
+          "title": "Solar eclipse",
+          "description": "Event wherein the Sun is obscured by the Moon",
+          "extract": "A solar eclipse occurs when the Moon passes between Earth and the Sun, thereby obscuring the view of the Sun from a small part of Earth, totally or partially. Such an alignment occurs approximately every six months, during the eclipse season in its new moon phase, when the Moon's orbital plane is closest to the plane of Earth's orbit. In a total eclipse, the disk of the Sun is fully obscured by the Moon. In partial and annular eclipses, only part of the Sun is obscured. Unlike a lunar eclipse, which may be viewed from anywhere on the night side of Earth, a solar eclipse can only be viewed from a relatively small area of the world. As such, although total solar eclipses occur somewhere on Earth every 18 months on average, they recur at any given place only once every 360 to 410 years.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Solar_eclipse",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/SE2024Apr08T.png/500px-SE2024Apr08T.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/SE2024Apr08T.png/500px-SE2024Apr08T.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "se2024apr08t.png",
+          "width": 800,
+          "height": 600,
+          "title": "SE2024Apr08T",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8%2C_2024",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Solar eclipse of April 8, 2024",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8%2C_2024",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-08-2008-2347981c",
+      "year": 2008,
+      "text": "On board Soyuz TMA-12, Yi So-yeon became the first Korean astronaut.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Soyuz_TMA-12_Crew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Soyuz_TMA-12_Crew.jpg/330px-Soyuz_TMA-12_Crew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "soyuz_tma-12_crew.jpg",
+        "width": 2816,
+        "height": 1888,
+        "title": "Soyuz TMA-12",
+        "description": "2008 Russian crewed spaceflight to the ISS",
+        "extract": "Soyuz TMA-12 was a Soyuz mission to the International Space Station (ISS) which was launched by a Soyuz FG rocket at 11:16 UTC on 8 April 2008. It docked to the Pirs module of the station on 10 April 2008. Landing occurred at 03:37 on 24 October. It was the first nominal landing in three missions, following separation failures on the Soyuz TMA-10 and 11 spacecraft.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Soyuz_TMA-12",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Soyuz_TMA-12_Crew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Soyuz_TMA-12_Crew.jpg/330px-Soyuz_TMA-12_Crew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "soyuz_tma-12_crew.jpg",
+          "width": 2816,
+          "height": 1888,
+          "title": "Soyuz TMA-12",
+          "description": "2008 Russian crewed spaceflight to the ISS",
+          "extract": "Soyuz TMA-12 was a Soyuz mission to the International Space Station (ISS) which was launched by a Soyuz FG rocket at 11:16 UTC on 8 April 2008. It docked to the Pirs module of the station on 10 April 2008. Landing occurred at 03:37 on 24 October. It was the first nominal landing in three missions, following separation failures on the Soyuz TMA-10 and 11 spacecraft.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Soyuz_TMA-12",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Yi_So-yeon_%28NASA_-_JSC2008-E-004174%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Yi_So-yeon_%28NASA_-_JSC2008-E-004174%29.jpg/330px-Yi_So-yeon_%28NASA_-_JSC2008-E-004174%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "yi_so-yeon_(nasa_-_jsc2008-e-004174).jpg",
+          "width": 1600,
+          "height": 1750,
+          "title": "Yi So-yeon",
+          "description": "South Korean astronaut (born 1978)",
+          "extract": "Yi So-yeon is a South Korean astronaut and biotechnologist who became the first South Korean to fly into space.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Yi_So-yeon",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Soyuz TMA-12",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Soyuz_TMA-12",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-08-1974-0aad3099",
+      "year": 1974,
+      "text": "Hank Aaron passes Babe Ruth as the all-time leader in career home runs by hitting his 715th home run off of Al Downing at Atlanta-Fulton County Stadium.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Hank_Aaron_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hank_Aaron_1974.jpg/330px-Hank_Aaron_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hank_aaron_1974.jpg",
+        "width": 364,
+        "height": 440,
+        "title": "Hank Aaron",
+        "description": "American baseball player (1934–2021)",
+        "extract": "Henry Louis Aaron, nicknamed \"Hammer\" or \"Hammerin' Hank\", was an American professional baseball right fielder who played 23 seasons in Major League Baseball (MLB), from 1954 through 1976. Considered one of the greatest baseball players in history, he spent 21 seasons with the Milwaukee / Atlanta Braves in the National League (NL) and two seasons with the Milwaukee Brewers in the American League (AL). At the time of his retirement, Aaron held most of the game's key career power-hitting records. He broke the long-standing MLB record for career home runs held by Babe Ruth and remained the career leader for 33 years, until Barry Bonds surpassed his famous total of 755 in 2007. He hit 24 or more home runs every year from 1955 through 1973 and is one of only two players to hit 30 or more home runs in a season at least 15 times.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hank_Aaron",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Hank_Aaron_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hank_Aaron_1974.jpg/330px-Hank_Aaron_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hank_aaron_1974.jpg",
+          "width": 364,
+          "height": 440,
+          "title": "Hank Aaron",
+          "description": "American baseball player (1934–2021)",
+          "extract": "Henry Louis Aaron, nicknamed \"Hammer\" or \"Hammerin' Hank\", was an American professional baseball right fielder who played 23 seasons in Major League Baseball (MLB), from 1954 through 1976. Considered one of the greatest baseball players in history, he spent 21 seasons with the Milwaukee / Atlanta Braves in the National League (NL) and two seasons with the Milwaukee Brewers in the American League (AL). At the time of his retirement, Aaron held most of the game's key career power-hitting records. He broke the long-standing MLB record for career home runs held by Babe Ruth and remained the career leader for 33 years, until Barry Bonds surpassed his famous total of 755 in 2007. He hit 24 or more home runs every year from 1955 through 1973 and is one of only two players to hit 30 or more home runs in a season at least 15 times.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hank_Aaron",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Babe_Ruth2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Babe_Ruth2.jpg/330px-Babe_Ruth2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "babe_ruth2.jpg",
+          "width": 2623,
+          "height": 3456,
+          "title": "Babe Ruth",
+          "description": "American baseball player (1895–1948)",
+          "extract": "George Herman \"Babe\" Ruth was an American professional baseball player whose career in Major League Baseball (MLB) spanned 22 seasons, from 1914 through 1935. Nicknamed \"the Bambino\" and \"the Sultan of Swat\", he began his MLB career as a star left-handed pitcher for the Boston Red Sox, but achieved his greatest fame as a slugging outfielder for the New York Yankees. Ruth is regarded as one of the greatest sports heroes in American culture and is considered by many to be the greatest baseball player of all time. In 1936, Ruth was elected to the Baseball Hall of Fame as one of its \"first five\" members.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Babe_Ruth",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/BarryBonds1993.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/BarryBonds1993.jpg/330px-BarryBonds1993.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "barrybonds1993.jpg",
+          "width": 1014,
+          "height": 1342,
+          "title": "List of Major League Baseball career home run leaders",
+          "description": "",
+          "extract": "This is a list of the 300 Major League Baseball players who have hit the most career home runs in regular season play.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/List_of_Major_League_Baseball_career_home_run_leaders",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Hank Aaron",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Hank_Aaron",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "04-08-2020-30ed0f23",
+      "year": 2020,
+      "text": "Bernie Sanders ends his presidential campaign, leaving Joe Biden as the Democratic Party's nominee.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bernie_Sanders_February_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernie_Sanders_February_2026_%28cropped%29.jpg/330px-Bernie_Sanders_February_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bernie_sanders_february_2026_(cropped).jpg",
+        "width": 2542,
+        "height": 3389,
+        "title": "Bernie Sanders",
+        "description": "American politician and activist (born 1941)",
+        "extract": "Bernard Sanders is an American politician and activist serving as the senior United States senator from Vermont, a seat he has held since 2007. He is the longest-serving independent in U.S. congressional history, but maintains a close relationship with the Democratic Party, having caucused with House and Senate Democrats for most of his congressional career and sought the party's presidential nomination in 2016 and 2020. Ideologically a democratic socialist, Sanders is regarded as one of the main leaders of the 21st-century American progressive movement.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bernie_Sanders_February_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bernie_Sanders_February_2026_%28cropped%29.jpg/330px-Bernie_Sanders_February_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bernie_sanders_february_2026_(cropped).jpg",
+          "width": 2542,
+          "height": 3389,
+          "title": "Bernie Sanders",
+          "description": "American politician and activist (born 1941)",
+          "extract": "Bernard Sanders is an American politician and activist serving as the senior United States senator from Vermont, a seat he has held since 2007. He is the longest-serving independent in U.S. congressional history, but maintains a close relationship with the Democratic Party, having caucused with House and Senate Democrats for most of his congressional career and sought the party's presidential nomination in 2016 and 2020. Ideologically a democratic socialist, Sanders is regarded as one of the main leaders of the 21st-century American progressive movement.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Joe_Biden_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/330px-Joe_Biden_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "joe_biden_presidential_portrait.jpg",
+          "width": 2400,
+          "height": 3000,
+          "title": "Joe Biden",
+          "description": "President of the United States from 2021 to 2025",
+          "extract": "Joseph Robinette Biden Jr. is an American retired politician who was the 46th president of the United States from 2021 to 2025. A member of the Democratic Party, he represented Delaware in the United States Senate from 1973 to 2009 and also served as the 47th vice president under President Barack Obama from 2009 to 2017.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Joe_Biden",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bernie_Sanders_2023_%283x4_close_cropped%29.jpg/500px-Bernie_Sanders_2023_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bernie_Sanders_2023_%283x4_close_cropped%29.jpg/500px-Bernie_Sanders_2023_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bernie_sanders_2023_(3x4_close_cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Bernie_Sanders_2023_(3x4_close_cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Bernie Sanders",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bernie_Sanders",
+      "relatedPagesCount": 4
+    }
+  ]
+}

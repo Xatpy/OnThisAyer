@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 2,
+    "day": 1,
+    "formatted": "02-01"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "02-01-2004-46a9f2d5",
+      "year": 2004,
+      "text": "During the halftime show of Super Bowl XXXVIII, Janet Jackson's breast was exposed by Justin Timberlake in what was later referred to as a \"wardrobe malfunction\", resulting in an immediate crackdown and widespread debate on perceived indecency in U.S. broadcasting.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Marching_band_halftime_2006_CFA_Bowl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Marching_band_halftime_2006_CFA_Bowl.jpg/330px-Marching_band_halftime_2006_CFA_Bowl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "marching_band_halftime_2006_cfa_bowl.jpg",
+        "width": 1600,
+        "height": 1200,
+        "title": "Halftime show",
+        "description": "Performance given between halves of a sporting event",
+        "extract": "A halftime show is a performance given during the brief period between the first and second halves, or the second and third quarters, of a sporting event. Halftime shows are not given for sports with an irregular or indeterminate number of divisions, or for sports that do not have an extended period of stoppage in play. Ice hockey games consist of three periods, so there are in effect two halftimes at a hockey game: the first intermission is between the first and second periods, and the second intermission comes between the second and third periods. The intermissions are usually given over to contests involving randomly selected audience members, although for major games, like the Winter Classic, the Stanley Cup Final, the NHL All-Star Game and the men's Frozen Four, the intermission between the 2nd and 3rd period often features entertainment typically found during halftime shows.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Halftime_show",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Marching_band_halftime_2006_CFA_Bowl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Marching_band_halftime_2006_CFA_Bowl.jpg/330px-Marching_band_halftime_2006_CFA_Bowl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "marching_band_halftime_2006_cfa_bowl.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": "Halftime show",
+          "description": "Performance given between halves of a sporting event",
+          "extract": "A halftime show is a performance given during the brief period between the first and second halves, or the second and third quarters, of a sporting event. Halftime shows are not given for sports with an irregular or indeterminate number of divisions, or for sports that do not have an extended period of stoppage in play. Ice hockey games consist of three periods, so there are in effect two halftimes at a hockey game: the first intermission is between the first and second periods, and the second intermission comes between the second and third periods. The intermissions are usually given over to contests involving randomly selected audience members, although for major games, like the Winter Classic, the Stanley Cup Final, the NHL All-Star Game and the men's Frozen Four, the intermission between the 2nd and 3rd period often features entertainment typically found during halftime shows.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Halftime_show",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/JanetJacksonUnbreakableTourSanFran2015_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/JanetJacksonUnbreakableTourSanFran2015_%28cropped%29.jpg/330px-JanetJacksonUnbreakableTourSanFran2015_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "janetjacksonunbreakabletoursanfran2015_(cropped).jpg",
+          "width": 1562,
+          "height": 1984,
+          "title": "Janet Jackson",
+          "description": "American singer, songwriter, and dancer (born 1966)",
+          "extract": "Janet Damita Jo Jackson is an American singer, songwriter, actress, and dancer. An influential figure in popular culture, she is known for her innovative works that incorporate socially conscious and sexually provocative themes, as well as her elaborate stage shows. Her sound and choreography became a catalyst in the growth of MTV, breaking American gender and racial barriers and enabling her rise to prominence. Lyrical content that concerned social issues and deeply felt experiences contributed to the appeal of Jackson's work to the youth audience.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Janet_Jackson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Justin_Timberlake_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Justin_Timberlake_by_Gage_Skidmore.jpg/330px-Justin_Timberlake_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "justin_timberlake_by_gage_skidmore.jpg",
+          "width": 1211,
+          "height": 1953,
+          "title": "Justin Timberlake",
+          "description": "American singer, songwriter, and actor (born 1981)",
+          "extract": "Justin Randall Timberlake is an American singer, songwriter, actor, record producer, and dancer. Dubbed the \"Prince of Pop\", he is known for his showmanship, tenor vocal range, versatility across the entertainment industry, and frequent collaborations with hip-hop producers such as The Neptunes and Timbaland.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Justin_Timberlake",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Halftime show",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Halftime_show",
+      "relatedPagesCount": 7
+    },
+    {
+      "id": "02-01-2003-9322736c",
+      "year": 2003,
+      "text": "All seven crew members aboard Space Shuttle Columbia were killed when the orbiter disintegrated over Texas during reentry.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+        "width": 868,
+        "height": 521,
+        "title": "Space Shuttle Columbia",
+        "description": "Space Shuttle orbiter (1981–2003)",
+        "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+          "width": 868,
+          "height": 521,
+          "title": "Space Shuttle Columbia",
+          "description": "Space Shuttle orbiter (1981–2003)",
+          "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Entry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Entry.jpg/330px-Entry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "entry.jpg",
+          "width": 1280,
+          "height": 1028,
+          "title": "Atmospheric entry",
+          "description": "Passage of an object through the gases of an atmosphere from outer space",
+          "extract": "Atmospheric entry is the movement of an object from outer space into and through the gases of an atmosphere of a planet, dwarf planet, or natural satellite. Atmospheric entry may be uncontrolled entry, as in the entry of astronomical objects, space debris, or bolides, or it may be controlled entry of a spacecraft that can be navigated or follow a predetermined course. Methods for controlled atmospheric entry, descent, and landing of spacecraft are collectively termed as EDL.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Atmospheric_entry",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/566175main_columbia-opf.jpg/1280px-566175main_columbia-opf.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/566175main_columbia-opf.jpg/1280px-566175main_columbia-opf.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "566175main_columbia-opf.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Columbia in the Orbiter Processing Facility after delivery to Kennedy Space Center in 1979. About 8,000 of 30,000 tiles had not yet been installed.[7]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Columbia",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-01-1981-0fe01097",
+      "year": 1981,
+      "text": "The Underarm bowling incident of 1981 occurred when Trevor Chappell bowls underarm on the final delivery of a game between Australia and New Zealand at the Melbourne Cricket Ground (MCG).",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/9/90/1981Underarm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/1981Underarm.jpg/330px-1981Underarm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "1981underarm.jpg",
+        "width": 348,
+        "height": 287,
+        "title": "Underarm bowling incident of 1981",
+        "description": "1981 cricket controversy",
+        "extract": "The underarm bowling incident of 1981 is a sporting controversy that took place on 1 February 1981, when Australia played New Zealand in a One Day International cricket match, the third in the best-of-five final of the 1980–81 World Series Cup, at the Melbourne Cricket Ground.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/90/1981Underarm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/1981Underarm.jpg/330px-1981Underarm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1981underarm.jpg",
+          "width": 348,
+          "height": 287,
+          "title": "Underarm bowling incident of 1981",
+          "description": "1981 cricket controversy",
+          "extract": "The underarm bowling incident of 1981 is a sporting controversy that took place on 1 February 1981, when Australia played New Zealand in a One Day International cricket match, the third in the best-of-five final of the 1980–81 World Series Cup, at the Melbourne Cricket Ground.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2017_AFL_Grand_Final_panorama_during_national_anthem.jpg/3840px-2017_AFL_Grand_Final_panorama_during_national_anthem.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2017_AFL_Grand_Final_panorama_during_national_anthem.jpg/330px-2017_AFL_Grand_Final_panorama_during_national_anthem.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2017_afl_grand_final_panorama_during_national_anthem.jpg",
+          "width": 7386,
+          "height": 3918,
+          "title": "Melbourne Cricket Ground",
+          "description": "Stadium in Melbourne, Victoria, Australia",
+          "extract": "The Melbourne Cricket Ground (MCG), also known locally as the 'G', is a multi-purpose stadium located in Yarra Park in the suburb of East Melbourne, Victoria, Australia. The stadium primarily hosts Australian rules football and cricket as the home ground of multiple teams in the Australian Football League (AFL), as well as the Melbourne Renegades and the Melbourne Stars in the Big Bash League (BBL) and the Victorian cricket team in the Sheffield Shield. It also frequently hosts the Australian national cricket team. The ground was established by the Melbourne Cricket Club (MCC) in 1853, who continue to manage and operate the site. The stadium itself is owned by the Victorian Government through its appointed MCG Trust.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Underarm bowling incident of 1981",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "02-01-1964-cce73991",
+      "year": 1964,
+      "text": "The Beatles have their first number one hit in the United States with \"I Want to Hold Your Hand\".",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/330px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "the_beatles_1963_dezo_hoffman_capitol_records_press_photo_2.jpg",
+        "width": 3621,
+        "height": 2817,
+        "title": "The Beatles",
+        "description": "English rock band (1960–1970)",
+        "extract": "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/330px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_beatles_1963_dezo_hoffman_capitol_records_press_photo_2.jpg",
+          "width": 3621,
+          "height": 2817,
+          "title": "The Beatles",
+          "description": "English rock band (1960–1970)",
+          "extract": "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/I_Want_to_Hold_Your_Hand_US_picture_sleeve.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/I_Want_to_Hold_Your_Hand_US_picture_sleeve.jpg/330px-I_Want_to_Hold_Your_Hand_US_picture_sleeve.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "i_want_to_hold_your_hand_us_picture_sleeve.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "I Want to Hold Your Hand",
+          "description": "1963 single by the Beatles",
+          "extract": "\"I Want to Hold Your Hand\" is a song by the English rock band the Beatles, written by John Lennon and Paul McCartney. Recorded on 17 October 1963 and released on 29 November 1963 in the United Kingdom, it was the first Beatles record to be made using four-track recording equipment.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/I_Want_to_Hold_Your_Hand",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "The Beatles",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-01-1957-7c91d3ef",
+      "year": 1957,
+      "text": "Northeast Airlines Flight 823 crashes on Rikers Island in New York City, killing 20 people and injuring 78 others.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Douglas_DC-6B%2C_Northeast_Airlines_JP6994439.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Douglas_DC-6B%2C_Northeast_Airlines_JP6994439.jpg/330px-Douglas_DC-6B%2C_Northeast_Airlines_JP6994439.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "douglas_dc-6b,_northeast_airlines_jp6994439.jpg",
+        "width": 1024,
+        "height": 674,
+        "title": "Northeast Airlines Flight 823",
+        "description": "1957 aviation accident",
+        "extract": "Northeast Airlines Flight 823 was a scheduled flight in the United States, from New York City's LaGuardia Airport to Miami International Airport, Florida, which crashed shortly after takeoff on February 1, 1957. The aircraft operating the service was a Douglas DC-6 four-engined propeller airliner, registration N34954, which entered service in 1955. It crashed near Rikers Island, which sent corrections personnel and inmates to rescue and assist survivors.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Northeast_Airlines_Flight_823",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Douglas_DC-6B%2C_Northeast_Airlines_JP6994439.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Douglas_DC-6B%2C_Northeast_Airlines_JP6994439.jpg/330px-Douglas_DC-6B%2C_Northeast_Airlines_JP6994439.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "douglas_dc-6b,_northeast_airlines_jp6994439.jpg",
+          "width": 1024,
+          "height": 674,
+          "title": "Northeast Airlines Flight 823",
+          "description": "1957 aviation accident",
+          "extract": "Northeast Airlines Flight 823 was a scheduled flight in the United States, from New York City's LaGuardia Airport to Miami International Airport, Florida, which crashed shortly after takeoff on February 1, 1957. The aircraft operating the service was a Douglas DC-6 four-engined propeller airliner, registration N34954, which entered service in 1955. It crashed near Rikers Island, which sent corrections personnel and inmates to rescue and assist survivors.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Northeast_Airlines_Flight_823",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Rikers_Island_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Rikers_Island_crop.jpg/330px-Rikers_Island_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rikers_island_crop.jpg",
+          "width": 1842,
+          "height": 661,
+          "title": "Rikers Island",
+          "description": "Island jail complex in New York City",
+          "extract": "Rikers Island is a 413-acre (167.14-hectare) prison island in the East River in the Bronx, New York City, United States, that contains New York City's largest jail. It is named after Abraham Rycken, who took possession of the island in 1664. The island was originally under 100 acres (40 ha) in size, but has since grown to more than 400 acres (160 ha). The first stages of expansion were accomplished largely by convict labor hauling in ashes for landfill. The island is politically part of the Bronx, with a controlled-access bridge carrying the MTA Q100 and general traffic to and from Queens. It is part of Queens Community Board 1 and uses an East Elmhurst, Queens, ZIP Code of 11370 for mail.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rikers_Island",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "view_of_empire_state_building_from_rockefeller_center_new_york_city_dllu_(cropped).jpg",
+          "width": 8207,
+          "height": 4616,
+          "title": "New York City",
+          "description": "Most populous city in the United States",
+          "extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance and commerce, culture, entertainment and media, academics and scientific output, the arts and fashion—and as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/New_York_City",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Northeast Airlines Flight 823",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Northeast_Airlines_Flight_823",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-01-1982-d8b18ee8",
+      "year": 1982,
+      "text": "The Intel 80286 is released, which introduced protected mode memory. The IBM PC/AT and its clones used this CPU.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/KL_Intel_i286.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KL_Intel_i286.jpg/330px-KL_Intel_i286.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "kl_intel_i286.jpg",
+        "width": 882,
+        "height": 951,
+        "title": "Intel 80286",
+        "description": "Microprocessor model",
+        "extract": "The Intel 80286 is a 16-bit microprocessor that was introduced on February 1, 1982. It was the first 8086-based CPU with separate, non-multiplexed address and data buses and also the first with memory management and wide protection abilities. It had a data size of 16 bits, and had an address width of 24 bits, which could address up to 16MB of memory with a suitable operating system such as Windows compared to 1MB for the 8086. The 80286 used approximately 134,000 transistors in its original nMOS (HMOS) incarnation and, just like the contemporary 80186, it can correctly execute most software written for the earlier Intel 8086 and 8088 processors.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Intel_80286",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/KL_Intel_i286.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/KL_Intel_i286.jpg/330px-KL_Intel_i286.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kl_intel_i286.jpg",
+          "width": 882,
+          "height": 951,
+          "title": "Intel 80286",
+          "description": "Microprocessor model",
+          "extract": "The Intel 80286 is a 16-bit microprocessor that was introduced on February 1, 1982. It was the first 8086-based CPU with separate, non-multiplexed address and data buses and also the first with memory management and wide protection abilities. It had a data size of 16 bits, and had an address width of 24 bits, which could address up to 16MB of memory with a suitable operating system such as Windows compared to 1MB for the 8086. The 80286 used approximately 134,000 transistors in its original nMOS (HMOS) incarnation and, just like the contemporary 80186, it can correctly execute most software written for the earlier Intel 8086 and 8088 processors.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Intel_80286",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/KL_AMD_80286_CLCC_Bottom.jpg/500px-KL_AMD_80286_CLCC_Bottom.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/KL_AMD_80286_CLCC_Bottom.jpg/500px-KL_AMD_80286_CLCC_Bottom.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "kl_amd_80286_clcc_bottom.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "AMD 80286 (16 MHz version)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Intel_80286",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Intel 80286",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Intel_80286",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-01-2012-b552bb9a",
+      "year": 2012,
+      "text": "Following an Egyptian Premier League match in Port Said, Al Masry fans rioted and violently attacked Al Ahly supporters, resulting in 74 deaths.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/ORA_League.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ORA_League.png/330px-ORA_League.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ora_league.png",
+        "width": 2160,
+        "height": 2160,
+        "title": "Egyptian Premier League",
+        "description": "Association football league in Egypt",
+        "extract": "The Egyptian Premier League, commonly known as the El Dawry and officially known as the ORA League for sponsorship reasons, is a professional association football league in Egypt and the highest level of the Egyptian football league system. The league comprises 20 teams and operates on a system of promotion and relegation with the Egyptian Second Division A. Seasons mostly run from August to May. Unlike most other leagues, games are played on all days of the week.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Egyptian_Premier_League",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/ORA_League.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ORA_League.png/330px-ORA_League.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ora_league.png",
+          "width": 2160,
+          "height": 2160,
+          "title": "Egyptian Premier League",
+          "description": "Association football league in Egypt",
+          "extract": "The Egyptian Premier League, commonly known as the El Dawry and officially known as the ORA League for sponsorship reasons, is a professional association football league in Egypt and the highest level of the Egyptian football league system. The league comprises 20 teams and operates on a system of promotion and relegation with the Egyptian Second Division A. Seasons mostly run from August to May. Unlike most other leagues, games are played on all days of the week.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Egyptian_Premier_League",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Port_said_egypt_%286%29.JPG/3840px-Port_said_egypt_%286%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Port_said_egypt_%286%29.JPG/330px-Port_said_egypt_%286%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "port_said_egypt_(6).jpg",
+          "width": 4288,
+          "height": 2848,
+          "title": "Port Said",
+          "description": "Egyptian city on the northern end of the Suez Canal",
+          "extract": "Port Said is a port city that lies in northeast Egypt extending about 30 km (19 mi) along the coast of the Mediterranean Sea, straddling the west bank of the northern mouth of the Suez Canal. The city is the capital of the Port Said Governorate and forms the majority of the governorate, comprising seven of the governorate's eight administrative regions. In 2024, it had a population of 790,000 people.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Port_Said",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/54/Al_Masry_SC.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/5/54/Al_Masry_SC.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "al_masry_sc.png",
+          "width": 316,
+          "height": 315,
+          "title": "Al Masry SC",
+          "description": "Association football club in Port Said, Egypt",
+          "extract": "Al-Masry Sporting Club is an Egyptian sports club based in Port Said, Egypt. The club is mainly known for its professional football team that competes in the Egyptian Premier League, the highest tier of the Egyptian football league system.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Al_Masry_SC",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Egyptian Premier League",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Egyptian_Premier_League",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "02-01-1327-7ce29622",
+      "year": 1327,
+      "text": "Fourteen-year-old Edward III was crowned King of England, but with the country ruled by his mother Queen Isabella and her lover Roger Mortimer.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Edward_III_of_England_%28Order_of_the_Garter%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Edward_III_of_England_%28Order_of_the_Garter%29.jpg/330px-Edward_III_of_England_%28Order_of_the_Garter%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "edward_iii_of_england_(order_of_the_garter).jpg",
+        "width": 648,
+        "height": 880,
+        "title": "Edward III",
+        "description": "King of England from 1327 to 1377",
+        "extract": "Edward III, also known as Edward of Windsor before accession, was King of England from January 1327 until his death in 1377. He is noted for his military success and for restoring royal authority after the disastrous and unorthodox reign of his father, Edward II. Edward III transformed the Kingdom of England into one of the most formidable military powers in Europe. His fifty-year reign is one of the longest in English history and saw vital developments in legislation and government, in particular the evolution of the English Parliament, as well as the ravages of the Black Death. He outlived his eldest son, Edward the Black Prince, and was succeeded by his grandson, Richard II.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edward_III",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Edward_III_of_England_%28Order_of_the_Garter%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Edward_III_of_England_%28Order_of_the_Garter%29.jpg/330px-Edward_III_of_England_%28Order_of_the_Garter%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "edward_iii_of_england_(order_of_the_garter).jpg",
+          "width": 648,
+          "height": 880,
+          "title": "Edward III",
+          "description": "King of England from 1327 to 1377",
+          "extract": "Edward III, also known as Edward of Windsor before accession, was King of England from January 1327 until his death in 1377. He is noted for his military success and for restoring royal authority after the disastrous and unorthodox reign of his father, Edward II. Edward III transformed the Kingdom of England into one of the most formidable military powers in Europe. His fifty-year reign is one of the longest in English history and saw vital developments in legislation and government, in particular the evolution of the English Parliament, as well as the ravages of the Black Death. He outlived his eldest son, Edward the Black Prince, and was succeeded by his grandson, Richard II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Edward_III",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Isabella_of_France_by_Froissart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Isabella_of_France_by_Froissart.png/330px-Isabella_of_France_by_Froissart.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "isabella_of_france_by_froissart.png",
+          "width": 339,
+          "height": 619,
+          "title": "Isabella of France",
+          "description": "Queen of England from 1308 to 1327",
+          "extract": "Isabella of France was Queen of England as the wife of King Edward II, and de facto regent of England from 1327 until 1330. She was the youngest surviving child and only surviving daughter of King Philip IV of France and Joan I of Navarre.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_of_France",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Minature-of-Queen-Isabella-and-her-army-from-royal-ms-15-e-iv-vol-2-f316v.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Minature-of-Queen-Isabella-and-her-army-from-royal-ms-15-e-iv-vol-2-f316v.jpg/330px-Minature-of-Queen-Isabella-and-her-army-from-royal-ms-15-e-iv-vol-2-f316v.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "minature-of-queen-isabella-and-her-army-from-royal-ms-15-e-iv-vol-2-f316v.jpg",
+          "width": 1008,
+          "height": 801,
+          "title": "Roger Mortimer, 1st Earl of March",
+          "description": "English nobleman (1287–1330)",
+          "extract": "Roger Mortimer, 3rd Baron Mortimer of Wigmore, 1st Earl of March, was an English nobleman and powerful marcher lord who gained many estates in the Welsh Marches and Ireland following his advantageous marriage to the wealthy heiress Joan de Geneville, 2nd Baroness Geneville. In November 1316, he was appointed Lord Lieutenant of Ireland. He was imprisoned in the Tower of London in 1322 for having led the marcher lords in a revolt against King Edward II in what became known as the Despenser War.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Mortimer%2C_1st_Earl_of_March",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Edward III",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Edward_III",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-01-1974-84625eb4",
+      "year": 1974,
+      "text": "A fire in the 25-story Joelma Building in São Paulo, Brazil kills 189 and injures 293.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Joelma_fire%2C_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Joelma_fire%2C_1974.jpg/330px-Joelma_fire%2C_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "joelma_fire,_1974.jpg",
+        "width": 762,
+        "height": 666,
+        "title": "Joelma Building fire",
+        "description": "Skyscraper fire in Brazil in 1974",
+        "extract": "Edifício Praça da Bandeira, formerly known as the Joelma Building, is a 25-story building in downtown São Paulo, Brazil, completed in 1971, located at Avenida 9 de Julho, 225. On 1 February 1974, an air conditioning unit on the twelfth floor overheated, starting a fire. Because flammable materials had been used to furnish the interior, the entire building was engulfed in flames within twenty minutes. Of the 756 people occupying the building at the time, 179 were killed and 300 injured.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joelma_Building_fire",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Joelma_fire%2C_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Joelma_fire%2C_1974.jpg/330px-Joelma_fire%2C_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "joelma_fire,_1974.jpg",
+          "width": 762,
+          "height": 666,
+          "title": "Joelma Building fire",
+          "description": "Skyscraper fire in Brazil in 1974",
+          "extract": "Edifício Praça da Bandeira, formerly known as the Joelma Building, is a 25-story building in downtown São Paulo, Brazil, completed in 1971, located at Avenida 9 de Julho, 225. On 1 February 1974, an air conditioning unit on the twelfth floor overheated, starting a fire. Because flammable materials had been used to furnish the interior, the entire building was engulfed in flames within twenty minutes. Of the 756 people occupying the building at the time, 179 were killed and 300 injured.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Joelma_Building_fire",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/330px-Marginal_Pinheiros_e_Jockey_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "marginal_pinheiros_e_jockey_club.jpg",
+          "width": 1376,
+          "height": 646,
+          "title": "São Paulo",
+          "description": "Most populous city in Brazil",
+          "extract": "São Paulo is the capital city of the state of the same name, as well as the most populous city in Brazil, South America, the Americas, and in both the Western and Southern Hemispheres. The city exerts international influence in commerce, finance, culture, gastronomy, arts, fashion, technology, entertainment and media, having been listed by UNESCO's Creative Cities Network as a \"City of Film\" and the title of \"World Capital of Gastronomy\", and by the Globalization and World Cities Research Network (GaWC) as an alpha global city. It is the largest urban area by population outside Asia and the most populous Portuguese-speaking city in the world. The city's name \"São Paulo\" honors Paul the Apostle and people from the capital city are known as paulistanos. The city's Latin motto is Non ducor, duco, which translates as \"I am not led, I lead\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/JoelmaBuildingFireHelicopter.jpg/500px-JoelmaBuildingFireHelicopter.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/JoelmaBuildingFireHelicopter.jpg/500px-JoelmaBuildingFireHelicopter.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "joelmabuildingfirehelicopter.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A UH-1H helicopter attempts to evacuate survivors from the rooftop of the building following the fire",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Joelma_Building_fire",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Joelma Building fire",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Joelma_Building_fire",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-01-1968-bdf086a9",
+      "year": 1968,
+      "text": "Canada's three military services, the Royal Canadian Navy, the Canadian Army and the Royal Canadian Air Force, are unified into the Canadian Forces.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Badge_of_the_Canadian_Armed_Forces.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Badge_of_the_Canadian_Armed_Forces.png/330px-Badge_of_the_Canadian_Armed_Forces.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "badge_of_the_canadian_armed_forces.png",
+        "width": 1821,
+        "height": 2344,
+        "title": "Canadian Armed Forces",
+        "description": "Unified military forces of Canada",
+        "extract": "The Canadian Armed Forces are the unified military forces of Canada, including sea, land, air, and special operations forces commands referred to as the Royal Canadian Navy, Canadian Army, Royal Canadian Air Force, and Canadian Special Operations Forces Command. Under the National Defence Act, the Canadian Armed Forces are an entity separate and distinct from the Department of National Defence, which also exists as the civilian support system for the forces.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Canadian_Armed_Forces",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Badge_of_the_Canadian_Armed_Forces.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Badge_of_the_Canadian_Armed_Forces.png/330px-Badge_of_the_Canadian_Armed_Forces.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "badge_of_the_canadian_armed_forces.png",
+          "width": 1821,
+          "height": 2344,
+          "title": "Canadian Armed Forces",
+          "description": "Unified military forces of Canada",
+          "extract": "The Canadian Armed Forces are the unified military forces of Canada, including sea, land, air, and special operations forces commands referred to as the Royal Canadian Navy, Canadian Army, Royal Canadian Air Force, and Canadian Special Operations Forces Command. Under the National Defence Act, the Canadian Armed Forces are an entity separate and distinct from the Department of National Defence, which also exists as the civilian support system for the forces.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Canadian_Armed_Forces",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Royal Canadian Navy",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Royal_Canadian_Navy",
+      "relatedPagesCount": 4
+    }
+  ]
+}

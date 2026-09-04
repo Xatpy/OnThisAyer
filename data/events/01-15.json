@@ -1,0 +1,595 @@
+{
+  "date": {
+    "month": 1,
+    "day": 15,
+    "formatted": "01-15"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "01-15-1967-205134b3",
+      "year": 1967,
+      "text": "The first Super Bowl is played in Los Angeles. The Green Bay Packers defeat the Kansas City Chiefs 35–10.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/3840px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/330px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hollywood_sign_(8485145044).jpg",
+        "width": 3888,
+        "height": 2592,
+        "title": "Los Angeles",
+        "description": "Most populous city in California, US",
+        "extract": "Los Angeles is the most populous city in the U.S. state of California, and the commercial, financial, and cultural center of Southern California. With an estimated 3.87 million residents within the city limits as of 2025, it is the second-most populous city in the United States, behind New York City, and the largest city in the Western United States. The city has an ethnically and culturally diverse population, and is the principal city of a metropolitan area of 12.9 million people (2024). Greater Los Angeles, a combined statistical area that includes the Los Angeles and Riverside–San Bernardino metropolitan areas, is a sprawling metropolis of over 18 million residents.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Los_Angeles",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/3840px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/330px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hollywood_sign_(8485145044).jpg",
+          "width": 3888,
+          "height": 2592,
+          "title": "Los Angeles",
+          "description": "Most populous city in California, US",
+          "extract": "Los Angeles is the most populous city in the U.S. state of California, and the commercial, financial, and cultural center of Southern California. With an estimated 3.87 million residents within the city limits as of 2025, it is the second-most populous city in the United States, behind New York City, and the largest city in the Western United States. The city has an ethnically and culturally diverse population, and is the principal city of a metropolitan area of 12.9 million people (2024). Greater Los Angeles, a combined statistical area that includes the Los Angeles and Riverside–San Bernardino metropolitan areas, is a sprawling metropolis of over 18 million residents.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Los_Angeles",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/1986_Jeno%27s_Pizza_-_15_-_Willie_Davis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/1986_Jeno%27s_Pizza_-_15_-_Willie_Davis.jpg/330px-1986_Jeno%27s_Pizza_-_15_-_Willie_Davis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1986_jeno's_pizza_-_15_-_willie_davis.jpg",
+          "width": 351,
+          "height": 252,
+          "title": "1966 Green Bay Packers season",
+          "description": "48th NFL franchise season; first team to win Super Bowl",
+          "extract": "The 1966 Green Bay Packers season was their 48th season overall and their 46th in the National Football League (NFL). The defending NFL champions had a league-best regular season record of 12–2, led by eighth-year head coach Vince Lombardi and quarterback Bart Starr, in his eleventh NFL season.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1966_Green_Bay_Packers_season",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Super_Bowl_rings_on_display.jpg/1280px-Super_Bowl_rings_on_display.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Super_Bowl_rings_on_display.jpg/1280px-Super_Bowl_rings_on_display.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "super_bowl_rings_on_display.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Each winning team's Super Bowl rings, as of the 2010 season, on display in lead up to Super Bowl XLV",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Super_Bowl",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Super Bowl",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Super_Bowl",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "01-15-1991-413ed453",
+      "year": 1991,
+      "text": "The Victoria Cross for Australia was instituted, making Australia the first Commonwealth realm with a separate Victoria Cross award in its honours system.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Victoria_Cross_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Victoria_Cross_%28cropped%29.jpg/330px-Victoria_Cross_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "victoria_cross_(cropped).jpg",
+        "width": 416,
+        "height": 640,
+        "title": "Victoria Cross",
+        "description": "Highest military decoration for valour in the UK",
+        "extract": "The Victoria Cross (VC) is the highest and most prestigious decoration of the British decorations system. It is awarded for valour \"in the presence of the enemy\" to members of the British Armed Forces and may be awarded posthumously. It was previously awarded to service personnel in the broader British Empire, but most successor independent nations have since established their own honours systems and no longer recommend British honours. It may be awarded to a person of any military rank in any service and to civilians under military command. No civilian has received the award since James Adams in 1879. Since the first awards were presented by Queen Victoria in 1857, two thirds of all awards have been personally presented by the British monarch. The investitures are usually held at Buckingham Palace.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Victoria_Cross",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Victoria_Cross_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Victoria_Cross_%28cropped%29.jpg/330px-Victoria_Cross_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "victoria_cross_(cropped).jpg",
+          "width": 416,
+          "height": 640,
+          "title": "Victoria Cross",
+          "description": "Highest military decoration for valour in the UK",
+          "extract": "The Victoria Cross (VC) is the highest and most prestigious decoration of the British decorations system. It is awarded for valour \"in the presence of the enemy\" to members of the British Armed Forces and may be awarded posthumously. It was previously awarded to service personnel in the broader British Empire, but most successor independent nations have since established their own honours systems and no longer recommend British honours. It may be awarded to a person of any military rank in any service and to civilians under military command. No civilian has received the award since James Adams in 1879. Since the first awards were presented by Queen Victoria in 1857, two thirds of all awards have been personally presented by the British monarch. The investitures are usually held at Buckingham Palace.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Victoria_Cross",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Victoria Cross for Australia",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Victoria_Cross_for_Australia",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-15-2015-0a2209c8",
+      "year": 2015,
+      "text": "The Swiss National Bank abandons the cap on the Swiss franc's value relative to the euro, causing turmoil in international financial markets.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Schweizerische_Nationalbank_Swiss_National_Bank_in_Bern_by_Robbie_Conceptuel.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Schweizerische_Nationalbank_Swiss_National_Bank_in_Bern_by_Robbie_Conceptuel.png/330px-Schweizerische_Nationalbank_Swiss_National_Bank_in_Bern_by_Robbie_Conceptuel.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "schweizerische_nationalbank_swiss_national_bank_in_bern_by_robbie_conceptuel.png",
+        "width": 3634,
+        "height": 3165,
+        "title": "Swiss National Bank",
+        "description": "Central Bank of Switzerland",
+        "extract": "The Swiss National Bank is the central bank of Switzerland, responsible for the nation's monetary policy and the sole issuer of Swiss franc banknotes. The primary goal of its mandate is to ensure price stability, while taking economic developments into consideration.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Swiss_National_Bank",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Schweizerische_Nationalbank_Swiss_National_Bank_in_Bern_by_Robbie_Conceptuel.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Schweizerische_Nationalbank_Swiss_National_Bank_in_Bern_by_Robbie_Conceptuel.png/330px-Schweizerische_Nationalbank_Swiss_National_Bank_in_Bern_by_Robbie_Conceptuel.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "schweizerische_nationalbank_swiss_national_bank_in_bern_by_robbie_conceptuel.png",
+          "width": 3634,
+          "height": 3165,
+          "title": "Swiss National Bank",
+          "description": "Central Bank of Switzerland",
+          "extract": "The Swiss National Bank is the central bank of Switzerland, responsible for the nation's monetary policy and the sole issuer of Swiss franc banknotes. The primary goal of its mandate is to ensure price stability, while taking economic developments into consideration.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Swiss_National_Bank",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/CHF_Banknotes_9th_series_obverse.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/CHF_Banknotes_9th_series_obverse.png/330px-CHF_Banknotes_9th_series_obverse.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chf_banknotes_9th_series_obverse.png",
+          "width": 1461,
+          "height": 1446,
+          "title": "Swiss franc",
+          "description": "Currency of Switzerland and Liechtenstein",
+          "extract": "The Swiss franc, or simply the franc, is the currency and legal tender of Switzerland and Liechtenstein. It is also legal tender in the Italian exclave of Campione d'Italia, which is surrounded by Swiss territory. The Swiss National Bank (SNB) issues the banknotes, and the federal mint Swissmint issues the coins.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Swiss_franc",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Euro_Series_Banknotes_%282019%29_-_centered.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Euro_Series_Banknotes_%282019%29_-_centered.png/330px-Euro_Series_Banknotes_%282019%29_-_centered.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "euro_series_banknotes_(2019)_-_centered.png",
+          "width": 1280,
+          "height": 959,
+          "title": "Euro",
+          "description": "Currency of the European Union",
+          "extract": "The euro is the official currency of 21 of the 27 member states of the European Union. This group of states is officially known as the euro area, more commonly named the eurozone. Each euro is subdivided into 100 cents.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Euro",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Swiss National Bank",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Swiss_National_Bank",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-15-2005-40ec0ab1",
+      "year": 2005,
+      "text": "ESA's SMART-1 lunar orbiter discovers elements such as calcium, aluminum, silicon, iron, and other surface elements on the Moon.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Artist%27s_impression_of_the_SMART-1_mission_ESA199399.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Artist%27s_impression_of_the_SMART-1_mission_ESA199399.jpg/330px-Artist%27s_impression_of_the_SMART-1_mission_ESA199399.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "artist's_impression_of_the_smart-1_mission_esa199399.jpg",
+        "width": 3035,
+        "height": 2141,
+        "title": "SMART-1",
+        "description": "European Space Agency satellite that orbited the Moon",
+        "extract": "SMART-1 was a European Space Agency satellite that orbited the Moon. It was launched on 27 September 2003 at 23:14 UTC from the Guiana Space Centre in Kourou, French Guiana. \"SMART-1\" stands for Small Missions for Advanced Research in Technology-1, part of the Small Missions for Advanced Research in Technology programme. On 3 September 2006, SMART-1 was deliberately crashed into the Moon's surface, ending its mission.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/SMART-1",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Artist%27s_impression_of_the_SMART-1_mission_ESA199399.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Artist%27s_impression_of_the_SMART-1_mission_ESA199399.jpg/330px-Artist%27s_impression_of_the_SMART-1_mission_ESA199399.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "artist's_impression_of_the_smart-1_mission_esa199399.jpg",
+          "width": 3035,
+          "height": 2141,
+          "title": "SMART-1",
+          "description": "European Space Agency satellite that orbited the Moon",
+          "extract": "SMART-1 was a European Space Agency satellite that orbited the Moon. It was launched on 27 September 2003 at 23:14 UTC from the Guiana Space Centre in Kourou, French Guiana. \"SMART-1\" stands for Small Missions for Advanced Research in Technology-1, part of the Small Missions for Advanced Research in Technology programme. On 3 September 2006, SMART-1 was deliberately crashed into the Moon's surface, ending its mission.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/SMART-1",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Calcium_unter_Argon_Schutzgasatmosph%C3%A4re.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Calcium_unter_Argon_Schutzgasatmosph%C3%A4re.jpg/330px-Calcium_unter_Argon_Schutzgasatmosph%C3%A4re.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "calcium_unter_argon_schutzgasatmosphäre.jpg",
+          "width": 1626,
+          "height": 1068,
+          "title": "Calcium",
+          "description": "Chemical element with atomic number 20 (Ca)",
+          "extract": "Calcium is a chemical element; it has symbol Ca and atomic number 20. As an alkaline earth metal, calcium is a reactive metal that forms a dark oxide-nitride layer when exposed to air. Its physical and chemical properties are most similar to its heavier homologues strontium and barium. It is the fifth most abundant element in Earth's crust, and the third most abundant metal, after iron and aluminium. The most common calcium compound on Earth is calcium carbonate, found in limestone and the fossils of early sea life; gypsum, anhydrite, fluorite, and apatite are also sources of calcium. The name comes from the Latin word calx, which was obtained from heating limestone.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Calcium",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Aluminium-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Aluminium-4.jpg/330px-Aluminium-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aluminium-4.jpg",
+          "width": 706,
+          "height": 706,
+          "title": "Aluminium",
+          "description": "Chemical element with atomic number 13 (Al)",
+          "extract": "Aluminium or aluminum is a chemical element; it has symbol Al and atomic number 13. It has a density lower than other common metals, about one-third that of steel. Aluminium has a great affinity toward oxygen, forming a protective layer of oxide on the surface when exposed to air. It visually resembles silver, both in its color and in its great ability to reflect light. It is soft, nonmagnetic, and ductile. It has one stable isotope, 27Al, which is highly abundant, making aluminium the 12th-most abundant element in the universe. The radioactivity of 26Al leads to it being used in radiometric dating.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Aluminium",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "European Space Agency",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/European_Space_Agency",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "01-15-1981-33876735",
+      "year": 1981,
+      "text": "The American serial police-procedural television show Hill Street Blues aired its pilot episode, \"Hill Street Station\".",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hill_Street_Blues_official_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hill_Street_Blues_official_logo.png/330px-Hill_Street_Blues_official_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hill_street_blues_official_logo.png",
+        "width": 361,
+        "height": 140,
+        "title": "Hill Street Blues",
+        "description": "American police drama television series (1981–1987)",
+        "extract": "Hill Street Blues is an American serial police procedural television series that aired on NBC in prime-time from January 15, 1981, to May 12, 1987, for 146 episodes. The show chronicles the lives of the Metropolitan Police Department staff of a single police station located on Hill Street in an unnamed large U.S. city. The \"blues\" are the police officers in their blue uniforms. It also describes the mood of weary resignation, melancholy, and quiet struggle mixed with a small, hopeful readiness the officers faced every shift.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hill_Street_Blues",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hill_Street_Blues_official_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Hill_Street_Blues_official_logo.png/330px-Hill_Street_Blues_official_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hill_street_blues_official_logo.png",
+          "width": 361,
+          "height": 140,
+          "title": "Hill Street Blues",
+          "description": "American police drama television series (1981–1987)",
+          "extract": "Hill Street Blues is an American serial police procedural television series that aired on NBC in prime-time from January 15, 1981, to May 12, 1987, for 146 episodes. The show chronicles the lives of the Metropolitan Police Department staff of a single police station located on Hill Street in an unnamed large U.S. city. The \"blues\" are the police officers in their blue uniforms. It also describes the mood of weary resignation, melancholy, and quiet struggle mixed with a small, hopeful readiness the officers faced every shift.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hill_Street_Blues",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Police procedural",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Police_procedural",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-15-1559-7aabae5a",
+      "year": 1559,
+      "text": "Elizabeth I is crowned Queen of England and Ireland in Westminster Abbey, London.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/330px-Darnley_stage_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "darnley_stage_3.jpg",
+        "width": 1581,
+        "height": 2313,
+        "title": "Elizabeth I",
+        "description": "Queen of England and Ireland from 1558 to 1603",
+        "extract": "Elizabeth I was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her eventful reign, and its effect on history and culture, gave name to the Elizabethan era.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/330px-Darnley_stage_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "darnley_stage_3.jpg",
+          "width": 1581,
+          "height": 2313,
+          "title": "Elizabeth I",
+          "description": "Queen of England and Ireland from 1558 to 1603",
+          "extract": "Elizabeth I was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her eventful reign, and its effect on history and culture, gave name to the Elizabethan era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jindra3_pecet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Jindra3_pecet.jpg/330px-Jindra3_pecet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jindra3_pecet.jpg",
+          "width": 377,
+          "height": 374,
+          "title": "Monarchy of Ireland",
+          "description": "Historical method of government in Ireland",
+          "extract": "Monarchical systems of government have existed in Ireland from ancient times. This continued in all of Ireland until 1949, when the Republic of Ireland Act removed most of Ireland's residual ties to the British monarch. Northern Ireland, as part of the United Kingdom, remains under a monarchical system of government.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Monarchy_of_Ireland",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Westminster_Abbey%2C_Westminster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Westminster_Abbey%2C_Westminster.jpg/330px-Westminster_Abbey%2C_Westminster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "westminster_abbey,_westminster.jpg",
+          "width": 2292,
+          "height": 4608,
+          "title": "Westminster Abbey",
+          "description": "Church in London, England",
+          "extract": "Westminster Abbey, formally titled the Collegiate Church of Saint Peter at Westminster, is an Anglican church in the City of Westminster, London, England. Since 1066, it has been the location of the coronations of 40 English and British monarchs and a burial site for 18 English, Scottish, and British monarchs. At least 16 royal weddings have taken place at the abbey since 1100.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Elizabeth I",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-15-1969-5243fbb4",
+      "year": 1969,
+      "text": "The Soviet Union launches Soyuz 5.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/b/b0/Soyuz_4-5_EVA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Soyuz_4-5_EVA.jpg/330px-Soyuz_4-5_EVA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "soyuz_4-5_eva.jpg",
+        "width": 338,
+        "height": 295,
+        "title": "Soyuz 5",
+        "description": "Crewed flight of the Soyuz programme",
+        "extract": "Soyuz 5 was a Soyuz mission using the Soyuz 7K-OK spacecraft launched by the Soviet Union on 15 January 1969, which docked with Soyuz 4 in orbit. It was the first docking of two crewed spacecraft of any nation, and the first transfer of crew from one space vehicle to another of any nation, the only time a transfer was accomplished with a space walk – two months before the United States Apollo 9 mission performed the first internal crew transfer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Soyuz_5",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/b/b0/Soyuz_4-5_EVA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Soyuz_4-5_EVA.jpg/330px-Soyuz_4-5_EVA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "soyuz_4-5_eva.jpg",
+          "width": 338,
+          "height": 295,
+          "title": "Soyuz 5",
+          "description": "Crewed flight of the Soyuz programme",
+          "extract": "Soyuz 5 was a Soyuz mission using the Soyuz 7K-OK spacecraft launched by the Soviet Union on 15 January 1969, which docked with Soyuz 4 in orbit. It was the first docking of two crewed spacecraft of any nation, and the first transfer of crew from one space vehicle to another of any nation, the only time a transfer was accomplished with a space walk – two months before the United States Apollo 9 mission performed the first internal crew transfer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Soyuz_5",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Soviet Union",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-15-1951-95507764",
+      "year": 1951,
+      "text": "Ilse Koch, wife of Karl-Otto Koch, the Nazi commander of the Buchenwald and Majdanek concentration camps, was sentenced to life imprisonment by a West German court.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ilse_Koch_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ilse_Koch_%283x4_cropped%29.png/330px-Ilse_Koch_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ilse_koch_(3x4_cropped).png",
+        "width": 333,
+        "height": 444,
+        "title": "Ilse Koch",
+        "description": "German war criminal (1906–1967)",
+        "extract": "Margarete Ilse Koch was a German war criminal who committed atrocities while her husband Karl-Otto Koch was the commandant at Buchenwald. Though Ilse Koch had no official position in Nazi Germany, she became one of the most infamous Nazi figures at the war's end and was referred to as the \"Kommandeuse of Buchenwald\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ilse_Koch",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ilse_Koch_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ilse_Koch_%283x4_cropped%29.png/330px-Ilse_Koch_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ilse_koch_(3x4_cropped).png",
+          "width": 333,
+          "height": 444,
+          "title": "Ilse Koch",
+          "description": "German war criminal (1906–1967)",
+          "extract": "Margarete Ilse Koch was a German war criminal who committed atrocities while her husband Karl-Otto Koch was the commandant at Buchenwald. Though Ilse Koch had no official position in Nazi Germany, she became one of the most infamous Nazi figures at the war's end and was referred to as the \"Kommandeuse of Buchenwald\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ilse_Koch",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Karl_Koch_in_summer_dress_uniform.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Karl_Koch_in_summer_dress_uniform.jpg/330px-Karl_Koch_in_summer_dress_uniform.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "karl_koch_in_summer_dress_uniform.jpg",
+          "width": 750,
+          "height": 1168,
+          "title": "Karl-Otto Koch",
+          "description": "German SS officer (1897–1945)",
+          "extract": "Karl-Otto Koch was a German military officer who was a mid-ranking commander in the Schutzstaffel (SS) of Nazi Germany, and the first commandant of the Nazi concentration camps at Buchenwald and Sachsenhausen. From September 1941 until August 1942, he served as the first commandant of the Majdanek concentration camp in German-occupied Poland, stealing vast amounts of valuables and money from murdered Jews. His wife, Ilse Koch, also participated in the crimes at Buchenwald.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Karl-Otto_Koch",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Buchenwald_Prisoners_Undressing_80135.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Buchenwald_Prisoners_Undressing_80135.jpg/330px-Buchenwald_Prisoners_Undressing_80135.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "buchenwald_prisoners_undressing_80135.jpg",
+          "width": 1786,
+          "height": 1119,
+          "title": "Buchenwald concentration camp",
+          "description": "Nazi concentration camp in Germany",
+          "extract": "Buchenwald was a German Nazi concentration camp established on Ettersberg hill near Weimar, Germany, in July 1937. It was one of the first and the largest of the concentration camps within the Altreich territories. Many actual or suspected communists were among the first internees.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Buchenwald_concentration_camp",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Ilse Koch",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ilse_Koch",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "01-15-2023-48e9352d",
+      "year": 2023,
+      "text": "Yeti Airlines Flight 691 crashes near Pokhara International Airport, killing all 72 people on board.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Yetti_Air_plane_crash_in_Pokhara_2023.jpg/3840px-Yetti_Air_plane_crash_in_Pokhara_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Yetti_Air_plane_crash_in_Pokhara_2023.jpg/330px-Yetti_Air_plane_crash_in_Pokhara_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "yetti_air_plane_crash_in_pokhara_2023.jpg",
+        "width": 3913,
+        "height": 2750,
+        "title": "Yeti Airlines Flight 691",
+        "description": "2023 aviation accident in Nepal",
+        "extract": "Yeti Airlines Flight 691 was a scheduled domestic passenger flight flown by Yeti Airlines from Kathmandu to Pokhara in Nepal. On 15 January 2023, the ATR 72 being operated on the route stalled and crashed while landing at Pokhara, killing all 68 passengers and 4 crew members on board. The investigation revealed that Captain Kamal KC had accidentally feathered the engines, causing a loss of thrust.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Yeti_Airlines_Flight_691",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Yetti_Air_plane_crash_in_Pokhara_2023.jpg/3840px-Yetti_Air_plane_crash_in_Pokhara_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Yetti_Air_plane_crash_in_Pokhara_2023.jpg/330px-Yetti_Air_plane_crash_in_Pokhara_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "yetti_air_plane_crash_in_pokhara_2023.jpg",
+          "width": 3913,
+          "height": 2750,
+          "title": "Yeti Airlines Flight 691",
+          "description": "2023 aviation accident in Nepal",
+          "extract": "Yeti Airlines Flight 691 was a scheduled domestic passenger flight flown by Yeti Airlines from Kathmandu to Pokhara in Nepal. On 15 January 2023, the ATR 72 being operated on the route stalled and crashed while landing at Pokhara, killing all 68 passengers and 4 crew members on board. The investigation revealed that Captain Kamal KC had accidentally feathered the engines, causing a loss of thrust.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Yeti_Airlines_Flight_691",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pokhara_international_airpor.jpg/3840px-Pokhara_international_airpor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Pokhara_international_airpor.jpg/330px-Pokhara_international_airpor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pokhara_international_airpor.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": "Pokhara International Airport",
+          "description": "Airport in Nepal",
+          "extract": "Pokhara International Airport is an international airport located at Chhinedanda in Pokhara, Gandaki Province, Nepal. It is situated 3 km (1.9 mi) east of the old domestic airport, which it has largely replaced for regular commercial operations. The airport is Nepal's third international airport and officially began operations on 1 January 2023. While most domestic flights have been shifted to the new ariport, STOL operations to Jomsom still continue to be operated from the old airport. As of 2026, the airport primarily handles domestic flights, along with some chartered international flights, but has no regular scheduled international services despite earlier plans.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pokhara_International_Airport",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Yeti_9N-ANC_20220511082800.jpg/1280px-Yeti_9N-ANC_20220511082800.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Yeti_9N-ANC_20220511082800.jpg/1280px-Yeti_9N-ANC_20220511082800.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "yeti_9n-anc_20220511082800.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Yeti_9N-ANC_20220511082800",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Yeti_Airlines_Flight_691",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Yeti Airlines Flight 691",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Yeti_Airlines_Flight_691",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-15-2021-99083030",
+      "year": 2021,
+      "text": "A 6.2-magnitude earthquake strikes Indonesia's Sulawesi island killing at least 105 and injuring 3,369 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sulawesi_Topography.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sulawesi_Topography.png/330px-Sulawesi_Topography.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sulawesi_topography.png",
+        "width": 2153,
+        "height": 1990,
+        "title": "Sulawesi",
+        "description": "Region and island in Indonesia",
+        "extract": "Sulawesi, also known as Celebes, is an island in Indonesia. One of the four Greater Sunda Islands, and the world's 11th-largest island, it is situated east of Borneo, west of the Maluku Islands, and south of Mindanao and the Sulu Archipelago. Within Indonesia, only Sumatra, Borneo, and Papua are larger in territory, and only Java and Sumatra are more populous.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sulawesi",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sulawesi_Topography.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sulawesi_Topography.png/330px-Sulawesi_Topography.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sulawesi_topography.png",
+          "width": 2153,
+          "height": 1990,
+          "title": "Sulawesi",
+          "description": "Region and island in Indonesia",
+          "extract": "Sulawesi, also known as Celebes, is an island in Indonesia. One of the four Greater Sunda Islands, and the world's 11th-largest island, it is situated east of Borneo, west of the Maluku Islands, and south of Mindanao and the Sulu Archipelago. Within Indonesia, only Sumatra, Borneo, and Papua are larger in territory, and only Java and Sumatra are more populous.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sulawesi",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "2021 West Sulawesi earthquake",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2021_West_Sulawesi_earthquake",
+      "relatedPagesCount": 2
+    }
+  ]
+}

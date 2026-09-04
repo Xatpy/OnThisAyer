@@ -1,0 +1,619 @@
+{
+  "date": {
+    "month": 8,
+    "day": 21,
+    "formatted": "08-21"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "08-21-2007-98f50c50",
+      "year": 2007,
+      "text": "BioShock was released in North America, becoming a critical success and a demonstration of video games as an art form.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/6/6d/BioShock_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/BioShock_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "bioshock_cover.jpg",
+        "width": 285,
+        "height": 353,
+        "title": "BioShock",
+        "description": "2007 video game",
+        "extract": "BioShock is a 2007 first-person shooter video game developed by 2K Boston and 2K Australia, and published by 2K. The first game in the BioShock series, it was released for Microsoft Windows and Xbox 360 platforms in August 2007; a PlayStation 3 port by Irrational, 2K Marin, 2K Australia and Digital Extremes was released in October 2008. The game follows player character Jack, who discovers the underwater city of Rapture, built by business magnate Andrew Ryan to be an isolated utopia. The discovery of ADAM, a genetic material which grants superhuman powers, initiated the city's turbulent decline. Jack attempts to escape Rapture, fighting its mutated and mechanical denizens, while engaging with the few sane survivors left and learning of the city's past. The player can defeat foes in several ways by using weapons, utilizing plasmids that give unique powers, and by turning Rapture's defenses against them through hacking.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/BioShock",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/6/6d/BioShock_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/BioShock_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "bioshock_cover.jpg",
+          "width": 285,
+          "height": 353,
+          "title": "BioShock",
+          "description": "2007 video game",
+          "extract": "BioShock is a 2007 first-person shooter video game developed by 2K Boston and 2K Australia, and published by 2K. The first game in the BioShock series, it was released for Microsoft Windows and Xbox 360 platforms in August 2007; a PlayStation 3 port by Irrational, 2K Marin, 2K Australia and Digital Extremes was released in October 2008. The game follows player character Jack, who discovers the underwater city of Rapture, built by business magnate Andrew Ryan to be an isolated utopia. The discovery of ADAM, a genetic material which grants superhuman powers, initiated the city's turbulent decline. Jack attempts to escape Rapture, fighting its mutated and mechanical denizens, while engaging with the few sane survivors left and learning of the city's past. The player can defeat foes in several ways by using weapons, utilizing plasmids that give unique powers, and by turning Rapture's defenses against them through hacking.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/BioShock",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "BioShock",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/BioShock",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-21-1993-2f7c3749",
+      "year": 1993,
+      "text": "NASA loses contact with the Mars Observer spacecraft.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mars_Observer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mars_Observer.jpg/330px-Mars_Observer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mars_observer.jpg",
+        "width": 1000,
+        "height": 761,
+        "title": "Mars Observer",
+        "description": "Failed NASA orbiter mission to Mars (1992–1993)",
+        "extract": "Mars Observer was an American robotic space probe launched by NASA on September 25, 1992, to study the surface, atmosphere, climate and magnetic field of Mars. The spacecraft was developed and managed by the Jet Propulsion Laboratory.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Observer",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mars_Observer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mars_Observer.jpg/330px-Mars_Observer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mars_observer.jpg",
+          "width": 1000,
+          "height": 761,
+          "title": "Mars Observer",
+          "description": "Failed NASA orbiter mission to Mars (1992–1993)",
+          "extract": "Mars Observer was an American robotic space probe launched by NASA on September 25, 1992, to study the surface, atmosphere, climate and magnetic field of Mars. The spacecraft was developed and managed by the Jet Propulsion Laboratory.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Observer",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bell_X-1A_in_flight.jpg/1280px-Bell_X-1A_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bell_X-1A_in_flight.jpg/1280px-Bell_X-1A_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bell_x-1a_in_flight.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A US Air Force Bell X-1 test flight",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-21-2000-002a6bec",
+      "year": 2000,
+      "text": "American golfer Tiger Woods wins the 82nd PGA Championship and becomes the first golfer since Ben Hogan in 1953 to win three majors in a calendar year.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg/330px-President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "president_donald_trump_hosts_a_reception_honoring_black_history_month_(54341713089)_(cropped).jpg",
+        "width": 806,
+        "height": 1126,
+        "title": "Tiger Woods",
+        "description": "American professional golfer (born 1975)",
+        "extract": "Eldrick Tont \"Tiger\" Woods is an American professional golfer. He is widely regarded as one of the greatest golfers of all time and as one of the most famous athletes in modern history. Woods is tied for first in PGA Tour wins, ranks second in men's major championships, holds numerous golf records, and is an inductee of the World Golf Hall of Fame.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tiger_Woods",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg/330px-President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_%2854341713089%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "president_donald_trump_hosts_a_reception_honoring_black_history_month_(54341713089)_(cropped).jpg",
+          "width": 806,
+          "height": 1126,
+          "title": "Tiger Woods",
+          "description": "American professional golfer (born 1975)",
+          "extract": "Eldrick Tont \"Tiger\" Woods is an American professional golfer. He is widely regarded as one of the greatest golfers of all time and as one of the most famous athletes in modern history. Woods is tied for first in PGA Tour wins, ranks second in men's major championships, holds numerous golf records, and is an inductee of the World Golf Hall of Fame.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tiger_Woods",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/5d/PGA_Championship.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/5/5d/PGA_Championship.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "pga_championship.png",
+          "width": 237,
+          "height": 222,
+          "title": "PGA Championship",
+          "description": "Golf tournament in the United States",
+          "extract": "The PGA Championship is an annual golf tournament conducted by the Professional Golfers' Association of America. The PGA is one of the four men's major golf championships and is the only one of the four that is exclusively for professional players.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/PGA_Championship",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Ben_Hogan_NYWTS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ben_Hogan_NYWTS.jpg/330px-Ben_Hogan_NYWTS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ben_hogan_nywts.jpg",
+          "width": 3683,
+          "height": 2904,
+          "title": "Ben Hogan",
+          "description": "American professional golfer (1912–1997)",
+          "extract": "William Ben Hogan was an American professional golfer who is considered to be one of the greatest players in the history of the game. He profoundly influenced golf swing theory, and was noted for his ballstriking skill and assiduous practice. Hogan won nine major championships and is one of six men to complete the modern career grand slam.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ben_Hogan",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Tiger Woods",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Tiger_Woods",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-21-1983-7edc30f8",
+      "year": 1983,
+      "text": "Philippine opposition leader Benigno Aquino Jr. is assassinated at Manila International Airport (now renamed Ninoy Aquino International Airport in his honor).",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ninoy_Aquino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ninoy_Aquino.jpg/330px-Ninoy_Aquino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ninoy_aquino.jpg",
+        "width": 350,
+        "height": 446,
+        "title": "Ninoy Aquino",
+        "description": "Filipino politician (1932–1983)",
+        "extract": "Benigno Simeón \"Ninoy\" Aquino Jr., was a Filipino politician and journalist who served as a senator of the Philippines (1967–1972) and governor of the province of Tarlac (1963–1967). Aquino was the husband of Corazon Aquino, who became the 11th president of the Philippines after his assassination, and father of Benigno Aquino III, who became the 15th president of the Philippines. Aquino, together with Gerry Roxas and Jovito R. Salonga, helped form the leadership of the Liberal Party-based coalition against ex-President Ferdinand Marcos. Aquino was a significant emotional leader, who, together with the intellectual leader Sen. Jose W. Diokno, led the overall opposition.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ninoy_Aquino",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ninoy_Aquino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ninoy_Aquino.jpg/330px-Ninoy_Aquino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ninoy_aquino.jpg",
+          "width": 350,
+          "height": 446,
+          "title": "Ninoy Aquino",
+          "description": "Filipino politician (1932–1983)",
+          "extract": "Benigno Simeón \"Ninoy\" Aquino Jr., was a Filipino politician and journalist who served as a senator of the Philippines (1967–1972) and governor of the province of Tarlac (1963–1967). Aquino was the husband of Corazon Aquino, who became the 11th president of the Philippines after his assassination, and father of Benigno Aquino III, who became the 15th president of the Philippines. Aquino, together with Gerry Roxas and Jovito R. Salonga, helped form the leadership of the Liberal Party-based coalition against ex-President Ferdinand Marcos. Aquino was a significant emotional leader, who, together with the intellectual leader Sen. Jose W. Diokno, led the overall opposition.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ninoy_Aquino",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/NAIA_Complex_from_air_%28Pasay%3B_01-09-2023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/NAIA_Complex_from_air_%28Pasay%3B_01-09-2023%29.jpg/330px-NAIA_Complex_from_air_%28Pasay%3B_01-09-2023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "naia_complex_from_air_(pasay;_01-09-2023).jpg",
+          "width": 1487,
+          "height": 1115,
+          "title": "Ninoy Aquino International Airport",
+          "description": "Commercial airport serving Metro Manila, Philippines",
+          "extract": "Ninoy Aquino International Airport, also known as Manila Airport or Manila International Airport (MNL), is the main international airport serving Metro Manila in the Philippines. Located between the cities of Pasay and Parañaque, about 7 kilometers (4.3 mi) south of Manila proper and southwest of Makati, it is the main gateway for travelers to the Philippines. It serves as a hub for Philippine Airlines and its regional subsidiary PAL Express. It is also the main operating base for Cebu Pacific, and Philippines AirAsia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ninoy_Aquino_International_Airport",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ramon_Magsaysay_and_Ninoy_Aquino_1951.jpg/330px-Ramon_Magsaysay_and_Ninoy_Aquino_1951.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ramon_Magsaysay_and_Ninoy_Aquino_1951.jpg/330px-Ramon_Magsaysay_and_Ninoy_Aquino_1951.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "ramon_magsaysay_and_ninoy_aquino_1951.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Confernment of the Philippine Legion of Honor (rank of Pinuno) to Benigno Aquino Jr. (right) by then-Defense Secretary Ramon Magsaysay in August 1951",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ninoy_Aquino",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Ninoy Aquino",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ninoy_Aquino",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-21-1772-bd4edfe2",
+      "year": 1772,
+      "text": "King Gustav III completes his coup d'état by adopting a new Constitution, ending half a century of parliamentary rule in Sweden and installing himself as an enlightened despot.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gustav_III_by_Alexander_Roslin_-_no_frame_%28Nationalmuseum%2C_15330%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gustav_III_by_Alexander_Roslin_-_no_frame_%28Nationalmuseum%2C_15330%29.png/330px-Gustav_III_by_Alexander_Roslin_-_no_frame_%28Nationalmuseum%2C_15330%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gustav_iii_by_alexander_roslin_-_no_frame_(nationalmuseum,_15330).png",
+        "width": 2084,
+        "height": 3489,
+        "title": "Gustav III",
+        "description": "King of Sweden from 1771 to 1792",
+        "extract": "Gustav III, also called Gustavus III, was King of Sweden from 1771 until his assassination in 1792. He was the eldest son of King Adolf Frederick and Queen Louisa Ulrika of Sweden.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gustav_III",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Gustav_III_by_Alexander_Roslin_-_no_frame_%28Nationalmuseum%2C_15330%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Gustav_III_by_Alexander_Roslin_-_no_frame_%28Nationalmuseum%2C_15330%29.png/330px-Gustav_III_by_Alexander_Roslin_-_no_frame_%28Nationalmuseum%2C_15330%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gustav_iii_by_alexander_roslin_-_no_frame_(nationalmuseum,_15330).png",
+          "width": 2084,
+          "height": 3489,
+          "title": "Gustav III",
+          "description": "King of Sweden from 1771 to 1792",
+          "extract": "Gustav III, also called Gustavus III, was King of Sweden from 1771 until his assassination in 1792. He was the eldest son of King Adolf Frederick and Queen Louisa Ulrika of Sweden.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gustav_III",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg/330px-Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bouchot_-_le_general_bonaparte_au_conseil_des_cinq-cents.jpg",
+          "width": 1833,
+          "height": 1953,
+          "title": "Coup d'état",
+          "description": "Illegal attempt to unseat an incumbent",
+          "extract": "A coup d'état, or simply a coup, is typically an illegal and overt attempt by a military organization or other government elites to unseat an incumbent person or leadership. A self-coup is said to take place when a leader, having come to power through legal means, tries to stay in power through illegal means.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Coup_d'%C3%A9tat",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Gustav_III_Sweden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gustav_III_Sweden.jpg/330px-Gustav_III_Sweden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gustav_iii_sweden.jpg",
+          "width": 1474,
+          "height": 2000,
+          "title": "Instrument of Government (1772)",
+          "description": "Swedish constitution",
+          "extract": "The 1772 Instrument of Government was the constitution of the Kingdom of Sweden from 1772 to 1809. It is also known as the \"Swedish-Finnish Constitution\". It was promulgated well in advance of the Revolution of 1772 for greater division of powers, a self-coup mounted by King Gustav III, and replaced the 1720 Instrument of Government, which had been in force for most of the Age of Liberty (1719-72). Although in theory the 1772 Instrument merely readjusted the balance of power between the Crown and the Riksdag of the Estates, without changing Sweden's status as a constitutional monarchy, in practice it is generally seen as instituting an absolute monarchy, especially after its modification in 1789 by the Union and Security Act, which further strengthened royal power at the expense of the Riksdag. It remained in force throughout the Gustavian era, until replaced by the 1809 Instrument of Government as a result of the Coup of 1809.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Instrument_of_Government_(1772)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Gustav III",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Gustav_III",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "08-21-1968-0db04a12",
+      "year": 1968,
+      "text": "Cold War: Nicolae Ceaușescu, leader of the Socialist Republic of Romania, publicly condemns the Soviet-led Warsaw Pact invasion of Czechoslovakia, encouraging the Romanian population to arm itself against possible Soviet reprisals.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg/330px-Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "nicolae_ceaușescu_(3x4_cropped).jpg",
+        "width": 1055,
+        "height": 1406,
+        "title": "Nicolae Ceaușescu",
+        "description": "Leader of Romania from 1965 to 1989",
+        "extract": "Nicolae Ceaușescu was a Romanian politician who was the second and last leader of Communist Romania as general secretary of the Romanian Communist Party from 1965 until his overthrow and execution in 1989. He was also the country's head of state from 1967 to 1989, serving as President of the State Council from 1967 to 1974 and as President of the Republic from 1974 until 1989.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg/330px-Nicolae_Ceau%C8%99escu_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nicolae_ceaușescu_(3x4_cropped).jpg",
+          "width": 1055,
+          "height": 1406,
+          "title": "Nicolae Ceaușescu",
+          "description": "Leader of Romania from 1965 to 1989",
+          "extract": "Nicolae Ceaușescu was a Romanian politician who was the second and last leader of Communist Romania as general secretary of the Romanian Communist Party from 1965 until his overthrow and execution in 1989. He was also the country's head of state from 1967 to 1989, serving as President of the State Council from 1967 to 1974 and as President of the Republic from 1974 until 1989.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nicolae_Ceau%C8%99escu",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Invasion_of_Czechoslovakia_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Invasion_of_Czechoslovakia_collage.jpg/330px-Invasion_of_Czechoslovakia_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "invasion_of_czechoslovakia_collage.jpg",
+          "width": 2878,
+          "height": 1894,
+          "title": "Warsaw Pact invasion of Czechoslovakia",
+          "description": "1968 invasion led by the Soviet Union",
+          "extract": "On 20–21 August 1968, the Czechoslovak Socialist Republic was jointly invaded by four fellow Warsaw Pact countries: the Soviet Union, the Polish People's Republic, the People's Republic of Bulgaria, and the Hungarian People's Republic. The invasion stopped Alexander Dubček's Prague Spring liberalisation reforms and strengthened the authoritarian wing of the Communist Party of Czechoslovakia (KSČ).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cold War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "08-21-1963-b7057d31",
+      "year": 1963,
+      "text": "South Vietnamese special forces loyal to Ngô Đình Nhu, the brother of President Ngô Đình Diệm, raided and vandalised Buddhist pagodas (one pictured) across the country, arresting thousands and leaving hundreds dead.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Portrait_photograph_of_Ngo_Dinh_Nhu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Portrait_photograph_of_Ngo_Dinh_Nhu.jpg/330px-Portrait_photograph_of_Ngo_Dinh_Nhu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "portrait_photograph_of_ngo_dinh_nhu.jpg",
+        "width": 448,
+        "height": 602,
+        "title": "Ngô Đình Nhu",
+        "description": "Vietnamese archivist and politician (1910–1963)",
+        "extract": "Ngô Đình Nhu was a Vietnamese archivist and politician. He was the younger brother and State Counsellor of South Vietnam's first president, Ngô Đình Diệm. Although he held no formal executive position, he wielded immense unofficial power, exercising personal command of both the ARVN Special Forces and the Cần Lao political apparatus which served as the regime's de facto secret police.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ng%C3%B4_%C4%90%C3%ACnh_Nhu",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Portrait_photograph_of_Ngo_Dinh_Nhu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Portrait_photograph_of_Ngo_Dinh_Nhu.jpg/330px-Portrait_photograph_of_Ngo_Dinh_Nhu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "portrait_photograph_of_ngo_dinh_nhu.jpg",
+          "width": 448,
+          "height": 602,
+          "title": "Ngô Đình Nhu",
+          "description": "Vietnamese archivist and politician (1910–1963)",
+          "extract": "Ngô Đình Nhu was a Vietnamese archivist and politician. He was the younger brother and State Counsellor of South Vietnam's first president, Ngô Đình Diệm. Although he held no formal executive position, he wielded immense unofficial power, exercising personal command of both the ARVN Special Forces and the Cần Lao political apparatus which served as the regime's de facto secret police.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ng%C3%B4_%C4%90%C3%ACnh_Nhu",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/President_NGO-DINH-DIEM_of_the_Republic_of_Viet-Nam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/President_NGO-DINH-DIEM_of_the_Republic_of_Viet-Nam.jpg/330px-President_NGO-DINH-DIEM_of_the_Republic_of_Viet-Nam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "president_ngo-dinh-diem_of_the_republic_of_viet-nam.jpg",
+          "width": 1213,
+          "height": 1624,
+          "title": "Ngo Dinh Diem",
+          "description": "President of South Vietnam from 1955 to 1963",
+          "extract": "Ngô Đình Diệm was a South Vietnamese politician who was the final prime minister of the State of Vietnam (1954–1955) and later the first president of South Vietnam from 1955 until his capture and assassination during the CIA-backed 1963 coup d'état.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ngo_Dinh_Diem",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/ChuaXaLoi001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ChuaXaLoi001.jpg/330px-ChuaXaLoi001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chuaxaloi001.jpg",
+          "width": 2272,
+          "height": 1704,
+          "title": "Xá Lợi Pagoda raids",
+          "description": "1963 attacks on Buddhist pagodas in Vietnam",
+          "extract": "The Xá Lợi Pagoda raids were a series of synchronized attacks on a number of Buddhist pagodas in the major cities of South Vietnam shortly after midnight on 21 August 1963. The raids were executed by the Army of the Republic of Vietnam Special Forces under Colonel Lê Quang Tung and combat police, both of which took their orders directly from Ngô Đình Nhu, the younger brother of the Catholic president Ngô Đình Diệm. The Xá Lợi Pagoda, the largest in the South Vietnamese capital Saigon, was the most prominent of the raided temples. Over 1,400 Buddhists were arrested, and estimates of the death toll and missing ranged up to the hundreds. In response to the Huế Vesak shootings and a ban on the Buddhist flag in early May, South Vietnam's Buddhist majority rose in widespread civil disobedience and protest against the religious bias and discrimination of the Catholic-dominated Diệm government. Buddhist temples in major cities, most prominently the Xá Lợi pagoda, became focal points for protesters and assembly points for Buddhist monks from rural areas.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/X%C3%A1_L%E1%BB%A3i_Pagoda_raids",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Army of the Republic of Vietnam Special Forces",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Army_of_the_Republic_of_Vietnam_Special_Forces",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "08-21-2015-3c939c88",
+      "year": 2015,
+      "text": "Passengers on a Thalys train from Amsterdam to Paris confronted and subdued an attacker who attempted a mass shooting.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hoofddorp_Thalys_TGV-PBA_4534_trein_9340_Paris-Nord_-_Flickr_-_Rob_Dammers.jpg/3840px-Hoofddorp_Thalys_TGV-PBA_4534_trein_9340_Paris-Nord_-_Flickr_-_Rob_Dammers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hoofddorp_Thalys_TGV-PBA_4534_trein_9340_Paris-Nord_-_Flickr_-_Rob_Dammers.jpg/330px-Hoofddorp_Thalys_TGV-PBA_4534_trein_9340_Paris-Nord_-_Flickr_-_Rob_Dammers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hoofddorp_thalys_tgv-pba_4534_trein_9340_paris-nord_-_flickr_-_rob_dammers.jpg",
+        "width": 5960,
+        "height": 3353,
+        "title": "Thalys",
+        "description": "European high-speed train service, 1996–2023",
+        "extract": "Thalys was a brand name used for high-speed train services between Paris Gare du Nord and both Amsterdam Centraal and German cities in the Rhein-Ruhr, including Aachen, Cologne, Düsseldorf, Duisburg, Essen and Dortmund, both via Brussels-South.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Thalys",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hoofddorp_Thalys_TGV-PBA_4534_trein_9340_Paris-Nord_-_Flickr_-_Rob_Dammers.jpg/3840px-Hoofddorp_Thalys_TGV-PBA_4534_trein_9340_Paris-Nord_-_Flickr_-_Rob_Dammers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Hoofddorp_Thalys_TGV-PBA_4534_trein_9340_Paris-Nord_-_Flickr_-_Rob_Dammers.jpg/330px-Hoofddorp_Thalys_TGV-PBA_4534_trein_9340_Paris-Nord_-_Flickr_-_Rob_Dammers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hoofddorp_thalys_tgv-pba_4534_trein_9340_paris-nord_-_flickr_-_rob_dammers.jpg",
+          "width": 5960,
+          "height": 3353,
+          "title": "Thalys",
+          "description": "European high-speed train service, 1996–2023",
+          "extract": "Thalys was a brand name used for high-speed train services between Paris Gare du Nord and both Amsterdam Centraal and German cities in the Rhein-Ruhr, including Aachen, Cologne, Düsseldorf, Duisburg, Essen and Dortmund, both via Brussels-South.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Thalys",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Coupling_THA_9364_B_M-Z%2C_June_2014_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Coupling_THA_9364_B_M-Z%2C_June_2014_%282%29.JPG/330px-Coupling_THA_9364_B_M-Z%2C_June_2014_%282%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "coupling_tha_9364_b_m-z,_june_2014_(2).jpg",
+          "width": 3776,
+          "height": 2520,
+          "title": "2015 Thalys train attack",
+          "description": "Attempted mass shooting in France",
+          "extract": "On 21 August 2015, a shooting and knife attack took place on a Thalys train on its way from Amsterdam to Paris. The perpetrator, 25-year-old Moroccan national Ayoub El Khazzani, was confronted by French, American, and British passengers who had noticed him carrying weapons onboard. El Khazzani injured two of the passengers with gunshots and knife slashes before he was subdued. A third person was injured while breaking the glass of an emergency alarm.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2015_Thalys_train_attack",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Thalys",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Thalys",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-21-2013-41e6c12c",
+      "year": 2013,
+      "text": "Syrian civil war: Areas controlled by the Syrian opposition in Ghouta, Damascus, were attacked by rockets (launcher pictured) containing sarin, killing at least 281 people.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bombed_out_vehicles_aleppo.jpg",
+        "width": 1210,
+        "height": 658,
+        "title": "Syrian civil war",
+        "description": "2011–2024 armed conflict in Syria",
+        "extract": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war even though clashes have continued into 2026.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bombed_out_vehicles_aleppo.jpg",
+          "width": 1210,
+          "height": 658,
+          "title": "Syrian civil war",
+          "description": "2011–2024 armed conflict in Syria",
+          "extract": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war even though clashes have continued into 2026.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Al_Kiswah_farms_from_mountain_%D8%A7%D9%84%D9%83%D8%B3%D9%88%D8%A9_-_%D8%A3%D9%85_%D8%A7%D9%84%D8%BA%D9%88%D8%B7%D8%A9_%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Al_Kiswah_farms_from_mountain_%D8%A7%D9%84%D9%83%D8%B3%D9%88%D8%A9_-_%D8%A3%D9%85_%D8%A7%D9%84%D8%BA%D9%88%D8%B7%D8%A9_%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9_-_panoramio.jpg/330px-Al_Kiswah_farms_from_mountain_%D8%A7%D9%84%D9%83%D8%B3%D9%88%D8%A9_-_%D8%A3%D9%85_%D8%A7%D9%84%D8%BA%D9%88%D8%B7%D8%A9_%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "al_kiswah_farms_from_mountain_الكسوة_-_أم_الغوطة_الغربية_-_panoramio.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Ghuta",
+          "description": "Suburb of Damascus, Syria",
+          "extract": "Ghouta is a countryside area in southwestern Syria that surrounds the city of Damascus along its eastern and southern rim.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ghuta",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Syria_-_Damascus_Areas_of_Influence_and_Areas_Reportedly_Affected_by_21_August_Chemical_Attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Syria_-_Damascus_Areas_of_Influence_and_Areas_Reportedly_Affected_by_21_August_Chemical_Attack.jpg/330px-Syria_-_Damascus_Areas_of_Influence_and_Areas_Reportedly_Affected_by_21_August_Chemical_Attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "syria_-_damascus_areas_of_influence_and_areas_reportedly_affected_by_21_august_chemical_attack.jpg",
+          "width": 911,
+          "height": 546,
+          "title": "Ghouta chemical attack",
+          "description": "2013 gas attack during the Syrian Civil War",
+          "extract": "The Ghouta chemical attack was a chemical attack carried out by the forces of Syrian President Bashar al-Assad, in the early hours of 21 August 2013 in Ghouta, Syria during the Syrian civil war. It was the deadliest use of chemical weapons in Syrian conflict and since the Iran–Iraq War. Two opposition-controlled areas in the suburbs around Damascus were struck by rockets containing the chemical agent sarin. Estimates of the death toll range from 281 to 1,729 people. The attack led to an international agreement to eliminate Syria's chemical weapons, but this was not completed and further chemical attacks occurred, including Khan Shaykhun in 2017 and Douma in 2018.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ghouta_chemical_attack",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Syrian civil war",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "08-21-1994-7c37f0df",
+      "year": 1994,
+      "text": "Royal Air Maroc Flight 630 crashes in Douar Izounine, Morocco, killing all 44 people on board.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/CN-CDT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/CN-CDT.jpg/330px-CN-CDT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "cn-cdt.jpg",
+        "width": 1500,
+        "height": 870,
+        "title": "Royal Air Maroc Flight 630",
+        "description": "1994 deliberate plane crash in Morocco",
+        "extract": "Royal Air Maroc Flight 630 was a passenger flight on 21 August 1994 which crashed approximately ten minutes after takeoff from Agadir–Al Massira Airport in Morocco. All 44 passengers and crew on board were killed. It was the deadliest ATR 42 aircraft crash at that point in time. An investigation showed that the crash was deliberately caused by one of the pilots.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Royal_Air_Maroc_Flight_630",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/CN-CDT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/CN-CDT.jpg/330px-CN-CDT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cn-cdt.jpg",
+          "width": 1500,
+          "height": 870,
+          "title": "Royal Air Maroc Flight 630",
+          "description": "1994 deliberate plane crash in Morocco",
+          "extract": "Royal Air Maroc Flight 630 was a passenger flight on 21 August 1994 which crashed approximately ten minutes after takeoff from Agadir–Al Massira Airport in Morocco. All 44 passengers and crew on board were killed. It was the deadliest ATR 42 aircraft crash at that point in time. An investigation showed that the crash was deliberately caused by one of the pilots.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Royal_Air_Maroc_Flight_630",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Royal Air Maroc Flight 630",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Royal_Air_Maroc_Flight_630",
+      "relatedPagesCount": 2
+    }
+  ]
+}

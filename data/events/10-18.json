@@ -1,0 +1,619 @@
+{
+  "date": {
+    "month": 10,
+    "day": 18,
+    "formatted": "10-18"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "10-18-2019-665f1fa5",
+      "year": 2019,
+      "text": "NASA Astronauts Jessica Meir and Christina Koch take part in the first all-female spacewalk when they venture out of the International Space Station to replace a power controller.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NASA_space_suits_at_JSC.jpg/3840px-NASA_space_suits_at_JSC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NASA_space_suits_at_JSC.jpg/330px-NASA_space_suits_at_JSC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "nasa_space_suits_at_jsc.jpg",
+        "width": 4336,
+        "height": 3423,
+        "title": "NASA Astronaut Corps",
+        "description": "Division of NASA which trains astronauts",
+        "extract": "The NASA Astronaut Corps is a unit of the United States National Aeronautics and Space Administration (NASA) that selects, trains, and provides astronauts as crew members for U.S. and international space missions. It is based at Johnson Space Center in Houston, Texas.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/NASA_Astronaut_Corps",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NASA_space_suits_at_JSC.jpg/3840px-NASA_space_suits_at_JSC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/NASA_space_suits_at_JSC.jpg/330px-NASA_space_suits_at_JSC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nasa_space_suits_at_jsc.jpg",
+          "width": 4336,
+          "height": 3423,
+          "title": "NASA Astronaut Corps",
+          "description": "Division of NASA which trains astronauts",
+          "extract": "The NASA Astronaut Corps is a unit of the United States National Aeronautics and Space Administration (NASA) that selects, trains, and provides astronauts as crew members for U.S. and international space missions. It is based at Johnson Space Center in Houston, Texas.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA_Astronaut_Corps",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Jessica_Meir_%28portrait_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jessica_Meir_%28portrait_crop%29.jpg/330px-Jessica_Meir_%28portrait_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jessica_meir_(portrait_crop).jpg",
+          "width": 2912,
+          "height": 3884,
+          "title": "Jessica Meir",
+          "description": "Swedish and American marine biologist and NASA astronaut",
+          "extract": "Jessica Ulrika Meir is an American and Swedish marine biologist, physiologist, and NASA astronaut. She was previously an assistant professor of anesthesia at Harvard Medical School, Massachusetts General Hospital, Boston, following postdoctoral research in comparative physiology at the University of British Columbia. She has studied the diving physiology and behavior of emperor penguins in Antarctica, and the physiology of bar-headed geese, which are able to migrate over the Himalayas. In September 2002, Meir served as an aquanaut on the NASA Extreme Environment Mission Operations 4 crew. In 2013, she was selected by NASA to Astronaut Group 21. In 2016, Meir participated in ESA CAVES, a training course in which international astronauts train in a space-analogue cave environment. Meir launched on September 25, 2019, to the ISS onboard Soyuz MS-15, where she served as a flight engineer during Expedition 61 and 62. On October 18, 2019, Meir and Christina Koch were the first women to participate in an all-female spacewalk. As a member of Expedition 74, during which she took command in July 2026, she made her fifth spacewalk, alongside Christopher Williams on his second, to repair the 58-foot-long Canadarm2 remote manipulator system.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jessica_Meir",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jsc2023e0016435_alt.jpg/3840px-Jsc2023e0016435_alt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jsc2023e0016435_alt.jpg/330px-Jsc2023e0016435_alt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jsc2023e0016435_alt.jpg",
+          "width": 4497,
+          "height": 5996,
+          "title": "Christina Koch",
+          "description": "American astronaut, first woman to circle the Moon (born 1979)",
+          "extract": "Christina Hammock Koch is an American engineer and NASA astronaut. On her mission to the International Space Station in 2019–20 she was part of the first all‑female spacewalk and set the record for the longest spaceflight by a woman. On the Artemis II lunar flyby mission in April 2026, which set the record for human distance from Earth, Koch became the only woman to travel beyond low Earth orbit, and to travel around the Moon.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Christina_Koch",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA Astronaut Corps",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA_Astronaut_Corps",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "10-18-1993-4d2cf838",
+      "year": 1993,
+      "text": "Nihilism, the first professional runway show from the British designer Alexander McQueen, was staged in London.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/7/72/Alexander_McQueen_Nihilism_runway_look.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/7/72/Alexander_McQueen_Nihilism_runway_look.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "alexander_mcqueen_nihilism_runway_look.jpeg",
+        "width": 237,
+        "height": 421,
+        "title": "Nihilism (collection)",
+        "description": "1994 fashion collection by Alexander McQueen",
+        "extract": "Nihilism is the third collection by British designer Alexander McQueen, released for the Spring/Summer 1994 season of his eponymous fashion house. McQueen developed the collection following the launch of his own label with Taxi Driver, which was exhibited in March 1993 at the Ritz Hotel in London in lieu of a fashion show. An eclectic collection with no straightforward theme, Nihilism pushed back against dominant womenswear trends with its hard tailoring, and aggressive, sexualised styling. It was created in collaboration with McQueen's associates Simon Ungless and Fleet Bigwood. Like Taxi Driver, Nihilism included experimental techniques, silhouettes, and materials, such as dresses made from cellophane, stained with clay, or adorned with dead locusts.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nihilism_(collection)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/72/Alexander_McQueen_Nihilism_runway_look.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/7/72/Alexander_McQueen_Nihilism_runway_look.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "alexander_mcqueen_nihilism_runway_look.jpeg",
+          "width": 237,
+          "height": 421,
+          "title": "Nihilism (collection)",
+          "description": "1994 fashion collection by Alexander McQueen",
+          "extract": "Nihilism is the third collection by British designer Alexander McQueen, released for the Spring/Summer 1994 season of his eponymous fashion house. McQueen developed the collection following the launch of his own label with Taxi Driver, which was exhibited in March 1993 at the Ritz Hotel in London in lieu of a fashion show. An eclectic collection with no straightforward theme, Nihilism pushed back against dominant womenswear trends with its hard tailoring, and aggressive, sexualised styling. It was created in collaboration with McQueen's associates Simon Ungless and Fleet Bigwood. Like Taxi Driver, Nihilism included experimental techniques, silhouettes, and materials, such as dresses made from cellophane, stained with clay, or adorned with dead locusts.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nihilism_(collection)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Alexander_McQueen_by_FashionWirePress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Alexander_McQueen_by_FashionWirePress.jpg/330px-Alexander_McQueen_by_FashionWirePress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "alexander_mcqueen_by_fashionwirepress.jpg",
+          "width": 346,
+          "height": 511,
+          "title": "Alexander McQueen",
+          "description": "British fashion designer (1969–2010)",
+          "extract": "Lee Alexander McQueen was a British fashion designer and couturier. He founded the eponymous fashion house Alexander McQueen in 1992, and worked as chief designer at Givenchy from 1996 to 2001. He won four British Designer of the Year awards, and the CFDA International Designer of the Year award in 2003.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Alexander_McQueen",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Nihilism (collection)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Nihilism_(collection)",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-18-1989-813996f1",
+      "year": 1989,
+      "text": "The Space Shuttle Atlantis launches on STS-34 to deploy the Jupiter-bound Galileo space probe.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+        "width": 3697,
+        "height": 2217,
+        "title": "Space Shuttle Atlantis",
+        "description": "Space Shuttle orbiter (1985–2011)",
+        "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+          "width": 3697,
+          "height": 2217,
+          "title": "Space Shuttle Atlantis",
+          "description": "Space Shuttle orbiter (1985–2011)",
+          "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Galileo_Deployment_%28high_res%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galileo_Deployment_%28high_res%29.jpg/330px-Galileo_Deployment_%28high_res%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "galileo_deployment_(high_res).jpg",
+          "width": 940,
+          "height": 1000,
+          "title": "STS-34",
+          "description": "1989 American crewed spaceflight to deploy Galileo",
+          "extract": "STS-34 was a NASA Space Shuttle mission using Atlantis. It was the 31st shuttle mission overall, and the fifth flight for Atlantis. STS-34 launched from Kennedy Space Center, Florida, on October 18, 1989, and landed at Edwards Air Force Base, California, on October 23, 1989. It was also the first shuttle mission since the Challenger disaster to have two female astronauts on board. During the mission, the Jupiter-bound Galileo probe was deployed into space.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-34",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Artwork_Galileo-Io-Jupiter.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Artwork_Galileo-Io-Jupiter.JPG/330px-Artwork_Galileo-Io-Jupiter.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "artwork_galileo-io-jupiter.jpg",
+          "width": 3014,
+          "height": 2422,
+          "title": "Galileo (spacecraft)",
+          "description": "First NASA mission to orbit Jupiter (1989–2003)",
+          "extract": "Galileo was an American robotic space probe that studied the planet Jupiter and its moons, as well as the asteroids Gaspra and Ida. Named after the Italian astronomer Galileo Galilei, it consisted of an orbiter and an entry probe. It was delivered into Earth orbit on October 18, 1989, by Space Shuttle Atlantis, during STS-34. Galileo arrived at Jupiter on December 7, 1995, after gravitational assist flybys of Venus and Earth, and became the first spacecraft to orbit an outer planet.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Galileo_(spacecraft)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Atlantis",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-18-1968-08c0fd18",
+      "year": 1968,
+      "text": "At the Summer Olympics in Mexico City, American athlete Bob Beamon (pictured) achieved a distance of 8.90 m (29.2 ft) in the long jump event, setting a world record that stood for 23 years.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/1992_Bob_Beamon.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1992_Bob_Beamon.JPG/330px-1992_Bob_Beamon.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "1992_bob_beamon.jpg",
+        "width": 527,
+        "height": 754,
+        "title": "Bob Beamon",
+        "description": "American long jumper (born 1946)",
+        "extract": "Robert Beamon is an American former track and field athlete, best known for his world record in the long jump at the Mexico City Olympics in 1968. By jumping 8.90 m, he broke the existing record by a margin of 55 cm and his world record stood for almost 23 years until it was broken in 1991 by Mike Powell. The jump is still the Olympic record and the second-longest in history unassisted by wind.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bob_Beamon",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/1992_Bob_Beamon.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/1992_Bob_Beamon.JPG/330px-1992_Bob_Beamon.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1992_bob_beamon.jpg",
+          "width": 527,
+          "height": 754,
+          "title": "Bob Beamon",
+          "description": "American long jumper (born 1946)",
+          "extract": "Robert Beamon is an American former track and field athlete, best known for his world record in the long jump at the Mexico City Olympics in 1968. By jumping 8.90 m, he broke the existing record by a margin of 55 cm and his world record stood for almost 23 years until it was broken in 1991 by Mike Powell. The jump is still the Olympic record and the second-longest in history unassisted by wind.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bob_Beamon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/LEB_1968_MiNr1067_pm_B002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/LEB_1968_MiNr1067_pm_B002.jpg/330px-LEB_1968_MiNr1067_pm_B002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "leb_1968_minr1067_pm_b002.jpg",
+          "width": 1757,
+          "height": 1258,
+          "title": "Athletics at the 1968 Summer Olympics – Men's long jump",
+          "description": "",
+          "extract": "The men's long jump was one of four men's jumping events on the Athletics at the 1968 Summer Olympics program in Mexico City. The long jump took place on 18 October 1968. Thirty-five athletes from 22 nations competed. The maximum number of athletes per nation had been set at three since the 1930 Olympic Congress.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Athletics_at_the_1968_Summer_Olympics_%E2%80%93_Men's_long_jump",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Opening_Ceremony_Mexico_87_University_Stadium.jpg/1280px-Opening_Ceremony_Mexico_87_University_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Opening_Ceremony_Mexico_87_University_Stadium.jpg/1280px-Opening_Ceremony_Mexico_87_University_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "opening_ceremony_mexico_87_university_stadium.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Opening Ceremony of the 1968 Summer Olympic Games at the Estadio Olímpico Universitario in Mexico City",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1968_Summer_Olympics",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "1968 Summer Olympics",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1968_Summer_Olympics",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "10-18-1597-dff48ee7",
+      "year": 1597,
+      "text": "King Philip II of Spain sends his third and final armada against England, but it ends in failure due to storms. The remaining ships are captured or sunk by the English.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg/330px-Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "portrait_of_philip_ii_of_spain_by_sofonisba_anguissola_-_002b.jpg",
+        "width": 2480,
+        "height": 3051,
+        "title": "Philip II of Spain",
+        "description": "King of Spain from 1556 to 1598",
+        "extract": "Philip II, sometimes known in Spain as Philip the Prudent, was King of Spain from 1556, King of Portugal from 1580, and King of Naples and Sicily from 1554 until his death in 1598. He was also jure uxoris King of England and Ireland from his marriage to Queen Mary I in 1554 until her death in 1558. Further, he was Duke of Milan from 1540. From 1555, he was Lord of the Seventeen Provinces of the Netherlands.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg/330px-Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "portrait_of_philip_ii_of_spain_by_sofonisba_anguissola_-_002b.jpg",
+          "width": 2480,
+          "height": 3051,
+          "title": "Philip II of Spain",
+          "description": "King of Spain from 1556 to 1598",
+          "extract": "Philip II, sometimes known in Spain as Philip the Prudent, was King of Spain from 1556, King of Portugal from 1580, and King of Naples and Sicily from 1554 until his death in 1598. He was also jure uxoris King of England and Ireland from his marriage to Queen Mary I in 1554 until her death in 1558. Further, he was Duke of Milan from 1540. From 1555, he was Lord of the Seventeen Provinces of the Netherlands.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bautizo_Felipe_II_grande.jpg/1280px-Bautizo_Felipe_II_grande.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bautizo_Felipe_II_grande.jpg/1280px-Bautizo_Felipe_II_grande.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bautizo_felipe_ii_grande.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The Baptism of Philip II in Valladolid, Castile. Historical ceiling preserved in Palacio de Pimentel (Valladolid).",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Philip II of Spain",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-18-1967-12608179",
+      "year": 1967,
+      "text": "The Soviet space probe Venera 4 became the first spacecraft to perform direct in situ analysis of the environment of another planet (Venus).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Venera_4_%28MMA_2011%29_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Venera_4_%28MMA_2011%29_%281%29.JPG/330px-Venera_4_%28MMA_2011%29_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "venera_4_(mma_2011)_(1).jpg",
+        "width": 2048,
+        "height": 3072,
+        "title": "Venera 4",
+        "description": "1967 Soviet Venus probe",
+        "extract": "Venera 4, also designated 4V-1 No.310, was a probe in the Soviet Venera program for the exploration of Venus. The probe comprised a lander, designed to enter the Venusian atmosphere and parachute to the surface, and a carrier/flyby spacecraft, which carried the lander to Venus and served as a communications relay for it.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Venera_4",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Venera_4_%28MMA_2011%29_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Venera_4_%28MMA_2011%29_%281%29.JPG/330px-Venera_4_%28MMA_2011%29_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "venera_4_(mma_2011)_(1).jpg",
+          "width": 2048,
+          "height": 3072,
+          "title": "Venera 4",
+          "description": "1967 Soviet Venus probe",
+          "extract": "Venera 4, also designated 4V-1 No.310, was a probe in the Soviet Venera program for the exploration of Venus. The probe comprised a lander, designed to enter the Venusian atmosphere and parachute to the surface, and a carrier/flyby spacecraft, which carried the lander to Venus and served as a communications relay for it.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Venera_4",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Venus_from_Mariner_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Venus_from_Mariner_10.jpg/330px-Venus_from_Mariner_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "venus_from_mariner_10.jpg",
+          "width": 1000,
+          "height": 1000,
+          "title": "Venus",
+          "description": "Second planet from the Sun",
+          "extract": "Venus is the second planet from the Sun. Similar in size and mass to Earth, Venus has no liquid water, and its atmosphere is far thicker and denser than that of any other rocky body in the Solar System. The atmosphere is composed mostly of carbon dioxide and has a thick cloud layer of sulfuric acid that spans the whole planet. At the mean surface level, the atmosphere reaches a temperature of 737 K, making it the hottest planet in the solar system and also a pressure 92 times greater than Earth's at sea level, turning the lowest layer of the atmosphere into a supercritical fluid. From Earth, Venus is visible as a star-like point of light, appearing brighter than any other natural point of light in the sky, as either the brightest \"morning star\" or \"evening star\". It was also given the poetic name Ēarendel in Old English, meaning \"ray of light\" along with the two previous epithets.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Venus",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/The_Soviet_Union_1968_CPA_3623_stamp_%28Venera_4_Space_probe%29.jpg/500px-The_Soviet_Union_1968_CPA_3623_stamp_%28Venera_4_Space_probe%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/The_Soviet_Union_1968_CPA_3623_stamp_%28Venera_4_Space_probe%29.jpg/500px-The_Soviet_Union_1968_CPA_3623_stamp_%28Venera_4_Space_probe%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "the_soviet_union_1968_cpa_3623_stamp_(venera_4_space_probe).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The_Soviet_Union_1968_CPA_3623_stamp_(Venera_4_Space_probe)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Venera_4",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Venera 4",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Venera_4",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-18-1963-91276d72",
+      "year": 1963,
+      "text": "The first cat in space, later known as Félicette, launched aboard a French Véronique rocket.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Felicette%2C_spacecat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Felicette%2C_spacecat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "felicette,_spacecat.jpg",
+        "width": 266,
+        "height": 373,
+        "title": "Félicette",
+        "description": "Only cat launched into space",
+        "extract": "Félicette was a Parisian cat that became the first feline launched into space on 18 October 1963 as part of the French space program. She was one of 14 female cats trained for spaceflight. The cats had electrodes implanted into their skulls to monitor their neurological activity throughout the flight. During the flight, electrical impulses were applied to the brain and a leg to stimulate responses. The capsule was recovered 13 minutes after the rocket was ignited. Most of the data from the mission was of good quality, and Félicette survived the flight but was euthanised two months later for the examination of her brain.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/F%C3%A9licette",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Felicette%2C_spacecat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Felicette%2C_spacecat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "felicette,_spacecat.jpg",
+          "width": 266,
+          "height": 373,
+          "title": "Félicette",
+          "description": "Only cat launched into space",
+          "extract": "Félicette was a Parisian cat that became the first feline launched into space on 18 October 1963 as part of the French space program. She was one of 14 female cats trained for spaceflight. The cats had electrodes implanted into their skulls to monitor their neurological activity throughout the flight. During the flight, electrical impulses were applied to the brain and a leg to stimulate responses. The capsule was recovered 13 minutes after the rocket was ignited. Most of the data from the mission was of good quality, and Félicette survived the flight but was euthanised two months later for the examination of her brain.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/F%C3%A9licette",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Fus%C3%A9e_VERONIQUE_%288727147868%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fus%C3%A9e_VERONIQUE_%288727147868%29.jpg/330px-Fus%C3%A9e_VERONIQUE_%288727147868%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fusée_veronique_(8727147868).jpg",
+          "width": 618,
+          "height": 960,
+          "title": "Véronique (rocket)",
+          "description": "1950s French sounding rocket",
+          "extract": "Véronique was a French liquid-fuelled sounding rocket of the 1950s. It was the first liquid-fuel research rocket in Western Europe.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/V%C3%A9ronique_(rocket)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Félicette",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/F%C3%A9licette",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-18-2007-b4e0ba1e",
+      "year": 2007,
+      "text": "Karachi bombing: A suicide attack on a motorcade carrying former Pakistani Prime Minister Benazir Bhutto kills 139 and wounds 450 more. Bhutto herself is uninjured.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg/330px-Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "oliver_mark_-_benazir_bhutto,_dubai_2006_(cropped).jpg",
+        "width": 1392,
+        "height": 1737,
+        "title": "Benazir Bhutto",
+        "description": "Prime Minister of Pakistan (1988–1990; 1993–1996)",
+        "extract": "Benazir Bhutto was a Pakistani stateswoman who twice served as the prime minister of Pakistan from 1988 to 1990 and again from 1993 to 1996. She was the first woman elected to head a democratic government in a Muslim-majority country. Ideologically a liberal and a secularist, she chaired the Pakistan People's Party (PPP) from 1982 until her assassination in 2007.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Benazir_Bhutto",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg/330px-Oliver_Mark_-_Benazir_Bhutto%2C_Dubai_2006_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "oliver_mark_-_benazir_bhutto,_dubai_2006_(cropped).jpg",
+          "width": 1392,
+          "height": 1737,
+          "title": "Benazir Bhutto",
+          "description": "Prime Minister of Pakistan (1988–1990; 1993–1996)",
+          "extract": "Benazir Bhutto was a Pakistani stateswoman who twice served as the prime minister of Pakistan from 1988 to 1990 and again from 1993 to 1996. She was the first woman elected to head a democratic government in a Muslim-majority country. Ideologically a liberal and a secularist, she chaired the Pakistan People's Party (PPP) from 1982 until her assassination in 2007.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Benazir_Bhutto",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Benazir_Bhutto_cropped.jpg/250px-Benazir_Bhutto_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Benazir_Bhutto_cropped.jpg/250px-Benazir_Bhutto_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "benazir_bhutto_cropped.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Benazir_Bhutto_cropped",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2007_Karsaz_bombing",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "2007 Karsaz bombing",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2007_Karsaz_bombing",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-18-2003-9b4efb12",
+      "year": 2003,
+      "text": "Bolivian gas conflict: Bolivian President Gonzalo Sánchez de Lozada is forced to resign and leave Bolivia.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Gonz%C3%A1lo_S%C3%A1nchez_de_Lozada-Agencia_BrasilAntonio_Cruz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gonz%C3%A1lo_S%C3%A1nchez_de_Lozada-Agencia_BrasilAntonio_Cruz.jpg/330px-Gonz%C3%A1lo_S%C3%A1nchez_de_Lozada-Agencia_BrasilAntonio_Cruz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gonzálo_sánchez_de_lozada-agencia_brasilantonio_cruz.jpg",
+        "width": 861,
+        "height": 1181,
+        "title": "Gonzalo Sánchez de Lozada",
+        "description": "President of Bolivia (1993–1997; 2002–2003)",
+        "extract": "Gonzalo Daniel Sánchez de Lozada Sánchez Bustamante, known mononymously as Goni, is a Bolivian business magnate and politician who served as the 61st president of Bolivia from 1993 to 1997 and from 2002 to 2003. He was a member and leader of the Revolutionary Nationalist Movement, and previously served as minister of planning and coordination from 1986 to 1988.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gonzalo_S%C3%A1nchez_de_Lozada",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Gonz%C3%A1lo_S%C3%A1nchez_de_Lozada-Agencia_BrasilAntonio_Cruz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gonz%C3%A1lo_S%C3%A1nchez_de_Lozada-Agencia_BrasilAntonio_Cruz.jpg/330px-Gonz%C3%A1lo_S%C3%A1nchez_de_Lozada-Agencia_BrasilAntonio_Cruz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gonzálo_sánchez_de_lozada-agencia_brasilantonio_cruz.jpg",
+          "width": 861,
+          "height": 1181,
+          "title": "Gonzalo Sánchez de Lozada",
+          "description": "President of Bolivia (1993–1997; 2002–2003)",
+          "extract": "Gonzalo Daniel Sánchez de Lozada Sánchez Bustamante, known mononymously as Goni, is a Bolivian business magnate and politician who served as the 61st president of Bolivia from 1993 to 1997 and from 2002 to 2003. He was a member and leader of the Revolutionary Nationalist Movement, and previously served as minister of planning and coordination from 1986 to 1988.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gonzalo_S%C3%A1nchez_de_Lozada",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bolivia_indymedia_guerradelgaz.jpg/330px-Bolivia_indymedia_guerradelgaz.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bolivia_indymedia_guerradelgaz.jpg/330px-Bolivia_indymedia_guerradelgaz.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bolivia_indymedia_guerradelgaz.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Bolivia_indymedia_guerradelgaz",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bolivian_gas_conflict",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Bolivian gas conflict",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bolivian_gas_conflict",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-18-1978-3664ed75",
+      "year": 1978,
+      "text": "Based on the world's first children's art museum, the Henrik Igityan National Centre for Aesthetics opened in Yerevan.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/National_Center_of_Aesthetics%2C_Armenia%2C_Yerevan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/National_Center_of_Aesthetics%2C_Armenia%2C_Yerevan.jpg/330px-National_Center_of_Aesthetics%2C_Armenia%2C_Yerevan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "national_center_of_aesthetics,_armenia,_yerevan.jpg",
+        "width": 800,
+        "height": 600,
+        "title": "Henrik Igityan National Centre for Aesthetics",
+        "description": "Center of aesthetic education for children",
+        "extract": "Henrik Igityan National Centre for Aesthetics (NCA) is a gallery and museum in Yerevan, Armenia. It was based on, and as of 2024 includes, the Children's Art Museum, which was founded in 1970 by Henrik Igityan and Zhanna Aghamiryan.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henrik_Igityan_National_Centre_for_Aesthetics",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/National_Center_of_Aesthetics%2C_Armenia%2C_Yerevan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/National_Center_of_Aesthetics%2C_Armenia%2C_Yerevan.jpg/330px-National_Center_of_Aesthetics%2C_Armenia%2C_Yerevan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "national_center_of_aesthetics,_armenia,_yerevan.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Henrik Igityan National Centre for Aesthetics",
+          "description": "Center of aesthetic education for children",
+          "extract": "Henrik Igityan National Centre for Aesthetics (NCA) is a gallery and museum in Yerevan, Armenia. It was based on, and as of 2024 includes, the Children's Art Museum, which was founded in 1970 by Henrik Igityan and Zhanna Aghamiryan.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henrik_Igityan_National_Centre_for_Aesthetics",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Music_school_of_NCA%2C_concert_of_school_children.jpg/500px-Music_school_of_NCA%2C_concert_of_school_children.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Music_school_of_NCA%2C_concert_of_school_children.jpg/500px-Music_school_of_NCA%2C_concert_of_school_children.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "music_school_of_nca,_concert_of_school_children.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Music school of NCA",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henrik_Igityan_National_Centre_for_Aesthetics",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Henrik Igityan National Centre for Aesthetics",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Henrik_Igityan_National_Centre_for_Aesthetics",
+      "relatedPagesCount": 1
+    }
+  ]
+}

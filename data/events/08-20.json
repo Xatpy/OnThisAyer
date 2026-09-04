@@ -1,0 +1,643 @@
+{
+  "date": {
+    "month": 8,
+    "day": 20,
+    "formatted": "08-20"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "08-20-1977-95d86a27",
+      "year": 1977,
+      "text": "Voyager program: NASA launches the Voyager 2 spacecraft.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Voyager_probes_with_the_outer_worlds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Voyager_probes_with_the_outer_worlds.jpg/330px-Voyager_probes_with_the_outer_worlds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "voyager_probes_with_the_outer_worlds.jpg",
+        "width": 1927,
+        "height": 2369,
+        "title": "Voyager program",
+        "description": "Ongoing NASA interstellar program",
+        "extract": "The Voyager program is an American scientific program that employs two interstellar probes, Voyager 1 and Voyager 2. They were launched in 1977 to take advantage of a favorable planetary alignment to explore the two gas giants Jupiter and Saturn and potentially also the ice giants, Uranus and Neptune—to fly near them while collecting data for transmission back to Earth. After Voyager 1 successfully completed its flyby of Saturn and its moon Titan, it was decided that Voyager 2 would continue on its pre-planned trajectory to fly by Uranus and Neptune.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_program",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Voyager_probes_with_the_outer_worlds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Voyager_probes_with_the_outer_worlds.jpg/330px-Voyager_probes_with_the_outer_worlds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "voyager_probes_with_the_outer_worlds.jpg",
+          "width": 1927,
+          "height": 2369,
+          "title": "Voyager program",
+          "description": "Ongoing NASA interstellar program",
+          "extract": "The Voyager program is an American scientific program that employs two interstellar probes, Voyager 1 and Voyager 2. They were launched in 1977 to take advantage of a favorable planetary alignment to explore the two gas giants Jupiter and Saturn and potentially also the ice giants, Uranus and Neptune—to fly near them while collecting data for transmission back to Earth. After Voyager 1 successfully completed its flyby of Saturn and its moon Titan, it was decided that Voyager 2 would continue on its pre-planned trajectory to fly by Uranus and Neptune.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_program",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "voyager_spacecraft_model.png",
+          "width": 1700,
+          "height": 1233,
+          "title": "Voyager 2",
+          "description": "NASA space probe launched in 1977",
+          "extract": "Voyager 2 is a space probe launched by NASA on August 20, 1977, as a part of the Voyager program. It was launched on a trajectory towards the gas giants and enabled further encounters with the ice giants. The only spacecraft to have visited either of the ice giant planets, it was the third of five spacecraft to achieve Solar escape velocity, which allowed it to leave the Solar System. Launched 16 days before its twin Voyager 1, the primary mission of the spacecraft was to study the outer planets and its extended mission is to study interstellar space beyond the Sun's heliosphere.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_2",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Voyager program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Voyager_program",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-20-1975-64e47061",
+      "year": 1975,
+      "text": "Viking program: NASA launches the Viking 1 planetary probe toward Mars.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Viking_Orbiter_releasing_the_lander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Viking_Orbiter_releasing_the_lander.jpg/330px-Viking_Orbiter_releasing_the_lander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "viking_orbiter_releasing_the_lander.jpg",
+        "width": 1200,
+        "height": 1315,
+        "title": "Viking program",
+        "description": "Pair of NASA landers and orbiters sent to Mars in 1976",
+        "extract": "The Viking program consisted of a pair of identical American space probes, Viking 1 and Viking 2 both launched in 1975, and landed on Mars in 1976. The mission effort began in 1968 and was managed by the NASA Langley Research Center. Each spacecraft was composed of two main parts: an orbiter spacecraft which photographed the surface of Mars from orbit, and a lander which studied the planet from the surface. The orbiters also served as communication relays for the landers once they touched down.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Viking_program",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Viking_Orbiter_releasing_the_lander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Viking_Orbiter_releasing_the_lander.jpg/330px-Viking_Orbiter_releasing_the_lander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "viking_orbiter_releasing_the_lander.jpg",
+          "width": 1200,
+          "height": 1315,
+          "title": "Viking program",
+          "description": "Pair of NASA landers and orbiters sent to Mars in 1976",
+          "extract": "The Viking program consisted of a pair of identical American space probes, Viking 1 and Viking 2 both launched in 1975, and landed on Mars in 1976. The mission effort began in 1968 and was managed by the NASA Langley Research Center. Each spacecraft was composed of two main parts: an orbiter spacecraft which photographed the surface of Mars from orbit, and a lander which studied the planet from the surface. The orbiters also served as communication relays for the landers once they touched down.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Viking_program",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Viking_spacecraft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Viking_spacecraft.jpg/330px-Viking_spacecraft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "viking_spacecraft.jpg",
+          "width": 1528,
+          "height": 1200,
+          "title": "Viking 1",
+          "description": "Robotic spacecraft sent to Mars",
+          "extract": "Viking 1 is the first of two spacecraft, along with Viking 2, each consisting of an orbiter and a lander, sent to Mars as part of NASA's Viking program. The lander touched down on Mars on July 20, 1976, the first successful Mars lander in history. Viking 1 operated on Mars for 2,307 days or 2245 Martian solar days, the longest extraterrestrial surface mission until the record was broken by the Opportunity rover on May 19, 2010.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Viking_1",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mars_-_august_30_2021_-_flickr_-_kevin_m._gill.png",
+          "width": 1558,
+          "height": 1558,
+          "title": "Mars",
+          "description": "Fourth planet from the Sun",
+          "extract": "Mars is the fourth planet from the Sun. It is also known as the \"Red Planet\", for its orange-red appearance. Mars is a desert-like rocky planet with a tenuous atmosphere that is primarily carbon dioxide. At the average surface level the atmospheric pressure is a few thousandths of Earth's, atmospheric temperature ranges from −153 to 20 °C, and cosmic radiation is high. Mars retains some water, in the ground as well as thinly in the atmosphere, forming cirrus clouds, fog, frost, larger polar regions of permafrost and ice caps, but no bodies of liquid surface water. Its surface gravity is roughly a third of Earth's or double that of the Moon. Its mean diameter, 6,779 km (4,212 mi), is about half the Earth's, or twice the Moon's, and its surface area is the size of all the dry land of Earth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Viking program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Viking_program",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "08-20-2008-501af8a2",
+      "year": 2008,
+      "text": "Spanair Flight 5022 crashed just after take-off from Madrid's Barajas Airport, killing 154 people.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Spanair_Flight_5022_overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Spanair_Flight_5022_overview.jpg/330px-Spanair_Flight_5022_overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "spanair_flight_5022_overview.jpg",
+        "width": 2534,
+        "height": 1900,
+        "title": "Spanair Flight 5022",
+        "description": "2008 aviation accident in Spain",
+        "extract": "Spanair Flight 5022 was a scheduled domestic passenger flight from Barcelona–El Prat Airport to Gran Canaria Airport, Spain, with a stopover in Madrid–Barajas Airport that crashed just after take-off from runway 36L at Madrid-Barajas Airport at 14:24 CEST (12:24 UTC) on 20 August 2008. The aircraft was a McDonnell Douglas MD-82, registration EC-HFP. Of the 172 passengers and crew on board, 154 died and 18 survived.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Spanair_Flight_5022",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Spanair_Flight_5022_overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Spanair_Flight_5022_overview.jpg/330px-Spanair_Flight_5022_overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "spanair_flight_5022_overview.jpg",
+          "width": 2534,
+          "height": 1900,
+          "title": "Spanair Flight 5022",
+          "description": "2008 aviation accident in Spain",
+          "extract": "Spanair Flight 5022 was a scheduled domestic passenger flight from Barcelona–El Prat Airport to Gran Canaria Airport, Spain, with a stopover in Madrid–Barajas Airport that crashed just after take-off from runway 36L at Madrid-Barajas Airport at 14:24 CEST (12:24 UTC) on 20 August 2008. The aircraft was a McDonnell Douglas MD-82, registration EC-HFP. Of the 172 passengers and crew on board, 154 died and 18 survived.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Spanair_Flight_5022",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Spanair_-_McDonnell_Douglas_MD-82_%28DC-9-82%29.jpg/1280px-Spanair_-_McDonnell_Douglas_MD-82_%28DC-9-82%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Spanair_-_McDonnell_Douglas_MD-82_%28DC-9-82%29.jpg/1280px-Spanair_-_McDonnell_Douglas_MD-82_%28DC-9-82%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "spanair_-_mcdonnell_douglas_md-82_(dc-9-82).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Spanair_-_McDonnell_Douglas_MD-82_(DC-9-82)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Spanair_Flight_5022",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Spanair Flight 5022",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Spanair_Flight_5022",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-20-1998-892688c9",
+      "year": 1998,
+      "text": "The Al-Shifa pharmaceutical factory (pictured) in Sudan was destroyed by a missile attack launched by the United States in retaliation for the August 7 U.S. embassy bombings.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/SP38G5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/SP38G5.jpg/330px-SP38G5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sp38g5.jpg",
+        "width": 600,
+        "height": 452,
+        "title": "Al-Shifa pharmaceutical factory",
+        "description": "Sudanese complex bombed by the US in 1998",
+        "extract": "The al-Shifa pharmaceutical factory in Kafouri, Khartoum North, Sudan, was constructed between 1992 and 1996 with components imported from Germany, India, Italy, Sweden, Switzerland, Thailand and the United States. It was opened on 12 July 1997 and bombed by the United States on 20 August 1998. The industrial complex was composed of four buildings. It was the largest pharmaceutical factory in Khartoum and employed over 300 workers, producing medicine both for human and veterinary use.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Al-Shifa_pharmaceutical_factory",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/SP38G5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/SP38G5.jpg/330px-SP38G5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sp38g5.jpg",
+          "width": 600,
+          "height": 452,
+          "title": "Al-Shifa pharmaceutical factory",
+          "description": "Sudanese complex bombed by the US in 1998",
+          "extract": "The al-Shifa pharmaceutical factory in Kafouri, Khartoum North, Sudan, was constructed between 1992 and 1996 with components imported from Germany, India, Italy, Sweden, Switzerland, Thailand and the United States. It was opened on 12 July 1997 and bombed by the United States on 20 August 1998. The industrial complex was composed of four buildings. It was the largest pharmaceutical factory in Khartoum and employed over 300 workers, producing medicine both for human and veterinary use.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Al-Shifa_pharmaceutical_factory",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg/330px-1998_United_States_embassy_in_Nairobi_bombings_IDF_relief_VII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1998_united_states_embassy_in_nairobi_bombings_idf_relief_vii.jpg",
+          "width": 3072,
+          "height": 2048,
+          "title": "1998 United States embassy bombings",
+          "description": "Attacks on US embassies in Africa",
+          "extract": "The 1998 United States embassy bombings were a series of terrorist attacks that occurred on August 7, 1998. More than 220 people were killed in two nearly simultaneous truck bomb explosions in two East African capital cities, one at the United States embassy in Dar es Salaam, Tanzania, and the other at the United States embassy in Nairobi, Kenya.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1998_United_States_embassy_bombings",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Asch-Schifa%2CKhartum2008.jpg/1280px-Asch-Schifa%2CKhartum2008.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Asch-Schifa%2CKhartum2008.jpg/1280px-Asch-Schifa%2CKhartum2008.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "asch-schifa,khartum2008.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Ruins of the destroyed factory in 2008",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Al-Shifa_pharmaceutical_factory",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Al-Shifa pharmaceutical factory",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Al-Shifa_pharmaceutical_factory",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-20-1989-14bbaf2f",
+      "year": 1989,
+      "text": "The final stage of the O-Bahn Busway in Adelaide, South Australia, was finished, completing at the time the world's longest and fastest guided busway, with buses (example pictured) travelling 12 km (7.5 mi) at speeds of up to 100 km/h (62 mph).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/%28AUS-South_Australia%29_Torrens_Transit_808_SA-Heavy_Vehicle-SB-37-GS_M44_2025-12-14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/%28AUS-South_Australia%29_Torrens_Transit_808_SA-Heavy_Vehicle-SB-37-GS_M44_2025-12-14.jpg/330px-%28AUS-South_Australia%29_Torrens_Transit_808_SA-Heavy_Vehicle-SB-37-GS_M44_2025-12-14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "(aus-south_australia)_torrens_transit_808_sa-heavy_vehicle-sb-37-gs_m44_2025-12-14.jpg",
+        "width": 3085,
+        "height": 2468,
+        "title": "O-Bahn Busway",
+        "description": "Guided busway in Adelaide, South Australia",
+        "extract": "The O-Bahn Busway is a guided busway that is part of the bus rapid transit system servicing the northeastern suburbs of Adelaide, South Australia. The original O-Bahn system is the one in the German city of Essen, and it was conceived by Daimler-Benz to enable buses to avoid traffic congestion by sharing tram tunnels.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/O-Bahn_Busway",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/%28AUS-South_Australia%29_Torrens_Transit_808_SA-Heavy_Vehicle-SB-37-GS_M44_2025-12-14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/%28AUS-South_Australia%29_Torrens_Transit_808_SA-Heavy_Vehicle-SB-37-GS_M44_2025-12-14.jpg/330px-%28AUS-South_Australia%29_Torrens_Transit_808_SA-Heavy_Vehicle-SB-37-GS_M44_2025-12-14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "(aus-south_australia)_torrens_transit_808_sa-heavy_vehicle-sb-37-gs_m44_2025-12-14.jpg",
+          "width": 3085,
+          "height": 2468,
+          "title": "O-Bahn Busway",
+          "description": "Guided busway in Adelaide, South Australia",
+          "extract": "The O-Bahn Busway is a guided busway that is part of the bus rapid transit system servicing the northeastern suburbs of Adelaide, South Australia. The original O-Bahn system is the one in the German city of Essen, and it was conceived by Daimler-Benz to enable buses to avoid traffic congestion by sharing tram tunnels.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/O-Bahn_Busway",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Adelaide_skyline%2C_December_2022_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Adelaide_skyline%2C_December_2022_b.jpg/330px-Adelaide_skyline%2C_December_2022_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "adelaide_skyline,_december_2022_b.jpg",
+          "width": 2048,
+          "height": 983,
+          "title": "Adelaide",
+          "description": "Capital city of South Australia",
+          "extract": "Adelaide is the capital and most populous city of South Australia, as well as the fifth-most populous city in Australia. The name \"Adelaide\" may refer to either Greater Adelaide or the Adelaide city centre; the demonym Adelaidean is used to denote the city and the residents of Adelaide. The traditional owners of the Adelaide region are the Kaurna, with the name Tarndanya referring to the area of the city centre and surrounding Park Lands, in the Kaurna language. Adelaide is situated on the Adelaide Plains north of the Fleurieu Peninsula, between the Gulf St Vincent in the west and the Mount Lofty Ranges in the east. Its metropolitan area encompasses over 430 suburbs, extending 96 km (60 mi) from Gawler in the north to Sellicks Beach in the south and 20 km (12 mi) from the western coast to the eastern foothills of the Mount Lofty Ranges.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Adelaide",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Scania_K280UB_O-Bahn_Bus.jpg/3840px-Scania_K280UB_O-Bahn_Bus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Scania_K280UB_O-Bahn_Bus.jpg/330px-Scania_K280UB_O-Bahn_Bus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "scania_k280ub_o-bahn_bus.jpg",
+          "width": 4762,
+          "height": 3175,
+          "title": "Guided bus",
+          "description": "Buses that operate on guided tracks",
+          "extract": "Guided buses are buses capable of being steered by external means, usually on a dedicated track or roll way that excludes other traffic, permitting the maintenance of schedules even during rush hours. Unlike railbuses, trolleybuses or rubber-tyred trams, guided buses are able to share road space with general traffic along conventional roads for part of their routes, or with buses on standard bus lanes. Guidance systems can be physical or remote.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Guided_bus",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "O-Bahn Busway",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/O-Bahn_Busway",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-20-1710-af2ae56e",
+      "year": 1710,
+      "text": "War of the Spanish Succession: A Spanish Bourbon army commanded by the Marquis de Bay was soundly defeated by a multinational army led by the Austrian commander Guido Starhemberg.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Final_War_of_the_Spanish_Succession_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Final_War_of_the_Spanish_Succession_Collage.jpg/330px-Final_War_of_the_Spanish_Succession_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "final_war_of_the_spanish_succession_collage.jpg",
+        "width": 2880,
+        "height": 2880,
+        "title": "War of the Spanish Succession",
+        "description": "1701–1714 European great power conflict",
+        "extract": "The War of the Spanish Succession was a conflict between the European great powers, fought between 1701 and 1714. The death of the childless Charles II of Spain in November 1700 led to a succession crisis, the rival claimants being Philip of Anjou, grandson of Louis XIV of France, and Archduke Charles of Austria, supported by the Grand Alliance. Related conflicts include the Great Northern War and Queen Anne's War in North America.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Final_War_of_the_Spanish_Succession_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Final_War_of_the_Spanish_Succession_Collage.jpg/330px-Final_War_of_the_Spanish_Succession_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "final_war_of_the_spanish_succession_collage.jpg",
+          "width": 2880,
+          "height": 2880,
+          "title": "War of the Spanish Succession",
+          "description": "1701–1714 European great power conflict",
+          "extract": "The War of the Spanish Succession was a conflict between the European great powers, fought between 1701 and 1714. The death of the childless Charles II of Spain in November 1700 led to a succession crisis, the rival claimants being Philip of Anjou, grandson of Louis XIV of France, and Archduke Charles of Austria, supported by the Grand Alliance. Related conflicts include the Great Northern War and Queen Anne's War in North America.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Batalla_de_Zaragoza-1710.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Batalla_de_Zaragoza-1710.jpg/330px-Batalla_de_Zaragoza-1710.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "batalla_de_zaragoza-1710.jpg",
+          "width": 950,
+          "height": 672,
+          "title": "Battle of Saragossa",
+          "description": "1710 battle during the War of the Spanish Succession",
+          "extract": "The Battle of Saragossa, 20 August 1710, took place during the War of the Spanish Succession, near Zaragoza in Spain. A slightly inferior Franco-Bourbon Spanish army commanded by the Marquis de Bay was severely defeated by a Grand Alliance force under Guido Starhemberg, which included Habsburg Spanish troops.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Saragossa",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Guido_von_Starhemberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Guido_von_Starhemberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "guido_von_starhemberg.jpg",
+          "width": 270,
+          "height": 400,
+          "title": "Guido Starhemberg",
+          "description": "Austrian army officer",
+          "extract": "Guido Wald Rüdiger, Graf von Starhemberg was an Austrian army officer. He is considered one of the great military leaders from the early modern period.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Guido_Starhemberg",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "War of the Spanish Succession",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "08-20-1968-352e9874",
+      "year": 1968,
+      "text": "Cold War: Warsaw Pact troops invade Czechoslovakia, crushing the Prague Spring. East German participation is limited to a few specialists due to memories of the recent war. Only Albania and Romania refuse to participate.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Invasion_of_Czechoslovakia_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Invasion_of_Czechoslovakia_collage.jpg/330px-Invasion_of_Czechoslovakia_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "invasion_of_czechoslovakia_collage.jpg",
+        "width": 2878,
+        "height": 1894,
+        "title": "Warsaw Pact invasion of Czechoslovakia",
+        "description": "1968 invasion led by the Soviet Union",
+        "extract": "On 20–21 August 1968, the Czechoslovak Socialist Republic was jointly invaded by four fellow Warsaw Pact countries: the Soviet Union, the Polish People's Republic, the People's Republic of Bulgaria, and the Hungarian People's Republic. The invasion stopped Alexander Dubček's Prague Spring liberalisation reforms and strengthened the authoritarian wing of the Communist Party of Czechoslovakia (KSČ).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Invasion_of_Czechoslovakia_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Invasion_of_Czechoslovakia_collage.jpg/330px-Invasion_of_Czechoslovakia_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "invasion_of_czechoslovakia_collage.jpg",
+          "width": 2878,
+          "height": 1894,
+          "title": "Warsaw Pact invasion of Czechoslovakia",
+          "description": "1968 invasion led by the Soviet Union",
+          "extract": "On 20–21 August 1968, the Czechoslovak Socialist Republic was jointly invaded by four fellow Warsaw Pact countries: the Soviet Union, the Polish People's Republic, the People's Republic of Bulgaria, and the Hungarian People's Republic. The invasion stopped Alexander Dubček's Prague Spring liberalisation reforms and strengthened the authoritarian wing of the Communist Party of Czechoslovakia (KSČ).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/10_Soviet_Invasion_of_Czechoslovakia_-_Flickr_-_The_Central_Intelligence_Agency.jpg/3840px-10_Soviet_Invasion_of_Czechoslovakia_-_Flickr_-_The_Central_Intelligence_Agency.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/10_Soviet_Invasion_of_Czechoslovakia_-_Flickr_-_The_Central_Intelligence_Agency.jpg/330px-10_Soviet_Invasion_of_Czechoslovakia_-_Flickr_-_The_Central_Intelligence_Agency.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "10_soviet_invasion_of_czechoslovakia_-_flickr_-_the_central_intelligence_agency.jpg",
+          "width": 4048,
+          "height": 2720,
+          "title": "Prague Spring",
+          "description": "Liberalisation in Czechoslovakia in 1968",
+          "extract": "The Prague Spring was a period of political liberalization and mass protest in \nthe Czechoslovak Socialist Republic. It began on 5 January 1968, when reformist Alexander Dubček was elected First Secretary of the Communist Party of Czechoslovakia (KSČ), and continued until 21 August 1968, when the Soviet Union and four other Warsaw Pact members invaded the country to suppress the reforms.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Prague_Spring",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cold War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-20-1962-444276e8",
+      "year": 1962,
+      "text": "The NS Savannah, the world's first nuclear-powered civilian ship, embarks on its maiden voyage.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/NS_Savannah_En_Route_to_1962_World%27s_Fair_%2814698777183%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/NS_Savannah_En_Route_to_1962_World%27s_Fair_%2814698777183%29.jpg/330px-NS_Savannah_En_Route_to_1962_World%27s_Fair_%2814698777183%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ns_savannah_en_route_to_1962_world's_fair_(14698777183).jpg",
+        "width": 3168,
+        "height": 2609,
+        "title": "NS Savannah",
+        "description": "American nuclear-powered commercial ship (1959–72)",
+        "extract": "NS Savannah was the first nuclear-powered merchant ship, launched on July 21, 1959, two years after the Soviet ice-breaker Lenin, the first nuclear-powered civilian vessel. A demonstration project for the potential peacetime uses of nuclear energy, she was built in the late 1950s at a cost of $46.9 million. Savannah was given the new designation \"NS\" for \"Nuclear Ship\", replacing the traditional commercial vessel prefix \"SS\" for \"Screw Steamer\", and was named after SS Savannah, the first steamship to cross the Atlantic Ocean. She was funded by United States government agencies as part of President Dwight D. Eisenhower's 1955 \"Atoms for Peace\" program, and was in service between 1962 and 1972 as one of only four nuclear-powered cargo ships ever built.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/NS_Savannah",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/NS_Savannah_En_Route_to_1962_World%27s_Fair_%2814698777183%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/NS_Savannah_En_Route_to_1962_World%27s_Fair_%2814698777183%29.jpg/330px-NS_Savannah_En_Route_to_1962_World%27s_Fair_%2814698777183%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ns_savannah_en_route_to_1962_world's_fair_(14698777183).jpg",
+          "width": 3168,
+          "height": 2609,
+          "title": "NS Savannah",
+          "description": "American nuclear-powered commercial ship (1959–72)",
+          "extract": "NS Savannah was the first nuclear-powered merchant ship, launched on July 21, 1959, two years after the Soviet ice-breaker Lenin, the first nuclear-powered civilian vessel. A demonstration project for the potential peacetime uses of nuclear energy, she was built in the late 1950s at a cost of $46.9 million. Savannah was given the new designation \"NS\" for \"Nuclear Ship\", replacing the traditional commercial vessel prefix \"SS\" for \"Screw Steamer\", and was named after SS Savannah, the first steamship to cross the Atlantic Ocean. She was funded by United States government agencies as part of President Dwight D. Eisenhower's 1955 \"Atoms for Peace\" program, and was in service between 1962 and 1972 as one of only four nuclear-powered cargo ships ever built.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NS_Savannah",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/50_Let_Pobedy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/50_Let_Pobedy.jpg/330px-50_Let_Pobedy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "50_let_pobedy.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Nuclear marine propulsion",
+          "description": "Propulsion system for marine vessels utilizing a nuclear powerplant",
+          "extract": "Nuclear marine propulsion is propulsion of a ship or submarine with heat provided by a nuclear reactor. The power plant heats water to produce steam for a turbine used to turn the ship's propeller through a gearbox or through an electric generator and motor. Nuclear propulsion is used primarily within naval warships such as nuclear submarines and supercarriers. A small number of experimental civil nuclear ships have been built.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nuclear_marine_propulsion",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NS_Savannah_stateroom_MD15.jpg/1280px-NS_Savannah_stateroom_MD15.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NS_Savannah_stateroom_MD15.jpg/1280px-NS_Savannah_stateroom_MD15.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "ns_savannah_stateroom_md15.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Partly restored passenger stateroom",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NS_Savannah",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "NS Savannah",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NS_Savannah",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-20-1948-d6ef729f",
+      "year": 1948,
+      "text": "Soviet Consul General in New York, Jacob M. Lomakin is expelled by the United States, due to the Kasenkina Case.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "view_of_empire_state_building_from_rockefeller_center_new_york_city_dllu_(cropped).jpg",
+        "width": 8207,
+        "height": 4616,
+        "title": "New York City",
+        "description": "Most populous city in the United States",
+        "extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance and commerce, culture, entertainment and media, academics and scientific output, the arts and fashion—and as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/New_York_City",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "view_of_empire_state_building_from_rockefeller_center_new_york_city_dllu_(cropped).jpg",
+          "width": 8207,
+          "height": 4616,
+          "title": "New York City",
+          "description": "Most populous city in the United States",
+          "extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance and commerce, culture, entertainment and media, academics and scientific output, the arts and fashion—and as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/New_York_City",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Jakob_M._Lomakin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Jakob_M._Lomakin.jpg/330px-Jakob_M._Lomakin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jakob_m._lomakin.jpg",
+          "width": 2133,
+          "height": 2804,
+          "title": "Jacob M. Lomakin",
+          "description": "Soviet journalist, diplomat, and economist (1904–1958)",
+          "extract": "Jacob Mironovich Lomakin was a Soviet diplomat, journalist and economist.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jacob_M._Lomakin",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Kasenkina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kasenkina.jpg/330px-Kasenkina.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kasenkina.jpg",
+          "width": 2085,
+          "height": 2790,
+          "title": "Kasenkina Case",
+          "description": "1948 Cold War political scandal in New York",
+          "extract": "The Kasenkina case\n(Russian: \"Дело Касенкиной\") was a 1948 Cold War-era political scandal associated with the name of Oksana Kasenkina, a teacher of chemistry at the Soviet school in New York. Kasenkina disappeared and was believed by the American public to have been abducted by Soviet officials after wishing to seek asylum in the United States. The events were sensationalized by the media and became part of the Red Scare. In reality, the most likely explanation of events is that Kasenkina suffered from a series of unfortunate events where she became a political chess piece during an unstable and tense period of international relations, and being left with a poor set of available options, facing deception from multiple sides, decided upon what was familiar and chose to return to the Soviet Union. The full scope of events only became clear 50 years later when the top-secret documents from the State Department and FBI were declassified and released to the public.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kasenkina_Case",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "New York City",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/New_York_City",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "08-20-1920-660d5650",
+      "year": 1920,
+      "text": "The American Professional Football Conference, a predecessor of the National Football League, was established in Canton, Ohio.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pro_Football_Hall_of_Fame_%2823945852607%29.jpg/3840px-Pro_Football_Hall_of_Fame_%2823945852607%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pro_Football_Hall_of_Fame_%2823945852607%29.jpg/330px-Pro_Football_Hall_of_Fame_%2823945852607%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "pro_football_hall_of_fame_(23945852607).jpg",
+        "width": 6000,
+        "height": 4011,
+        "title": "Canton, Ohio",
+        "description": "City in Ohio, United States",
+        "extract": "Canton is a city in Stark County, Ohio, United States, and its county seat. The population was 70,872 at the 2020 census and estimated at 69,001 in 2025, making it the eighth-most populous city in Ohio. The Canton–Massillon metropolitan area had an estimated 400,551 residents in 2024. Canton is located approximately 60 miles (97 km) south of Cleveland and 20 miles (32 km) south of Akron in Northeast Ohio, on the edge of Ohio's Amish Country.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Canton%2C_Ohio",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pro_Football_Hall_of_Fame_%2823945852607%29.jpg/3840px-Pro_Football_Hall_of_Fame_%2823945852607%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Pro_Football_Hall_of_Fame_%2823945852607%29.jpg/330px-Pro_Football_Hall_of_Fame_%2823945852607%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pro_football_hall_of_fame_(23945852607).jpg",
+          "width": 6000,
+          "height": 4011,
+          "title": "Canton, Ohio",
+          "description": "City in Ohio, United States",
+          "extract": "Canton is a city in Stark County, Ohio, United States, and its county seat. The population was 70,872 at the 2020 census and estimated at 69,001 in 2025, making it the eighth-most populous city in Ohio. The Canton–Massillon metropolitan area had an estimated 400,551 residents in 2024. Canton is located approximately 60 miles (97 km) south of Cleveland and 20 miles (32 km) south of Akron in Northeast Ohio, on the edge of Ohio's Amish Country.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Canton%2C_Ohio",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/1920_akron_pros_posing.jpg/500px-1920_akron_pros_posing.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/1920_akron_pros_posing.jpg/500px-1920_akron_pros_posing.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "1920_akron_pros_posing.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The Akron Pros won the first APFA (NFL) Championship in 1920.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/National_Football_League",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "National Football League",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/National_Football_League",
+      "relatedPagesCount": 2
+    }
+  ]
+}

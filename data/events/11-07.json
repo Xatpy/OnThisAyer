@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 11,
+    "day": 7,
+    "formatted": "11-07"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "11-07-2004-fa967632",
+      "year": 2004,
+      "text": "Iraq War: The interim government of Iraq calls for a 60-day state of emergency as U.S. forces storm the insurgent stronghold of Fallujah.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/330px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ustanks_baghdad_2003.jpeg",
+        "width": 3008,
+        "height": 1960,
+        "title": "Iraq War",
+        "description": "2003–2011 conflict in Iraq",
+        "extract": "The Iraq War, also referred to as the Second Gulf War, was a protracted armed conflict in Iraq from 2003 to 2011. It began with the invasion by a United States–led coalition, which resulted in the overthrow of the Ba'athist government of Saddam Hussein. During the US occupation of Iraq, the conflict persisted as an insurgency that arose against coalition forces and the newly established Iraqi government. US forces were officially withdrawn in 2011. In 2014, the US became re-engaged in Iraq, leading a new coalition under Combined Joint Task Force – Operation Inherent Resolve, as the conflict evolved into the ongoing Islamic State insurgency.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Iraq_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/330px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ustanks_baghdad_2003.jpeg",
+          "width": 3008,
+          "height": 1960,
+          "title": "Iraq War",
+          "description": "2003–2011 conflict in Iraq",
+          "extract": "The Iraq War, also referred to as the Second Gulf War, was a protracted armed conflict in Iraq from 2003 to 2011. It began with the invasion by a United States–led coalition, which resulted in the overthrow of the Ba'athist government of Saddam Hussein. During the US occupation of Iraq, the conflict persisted as an insurgency that arose against coalition forces and the newly established Iraqi government. US forces were officially withdrawn in 2011. In 2014, the US became re-engaged in Iraq, leading a new coalition under Combined Joint Task Force – Operation Inherent Resolve, as the conflict evolved into the ongoing Islamic State insurgency.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iraq_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Malay_Regiment_operatives_1949.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Malay_Regiment_operatives_1949.JPG/330px-Malay_Regiment_operatives_1949.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "malay_regiment_operatives_1949.jpg",
+          "width": 614,
+          "height": 800,
+          "title": "State of emergency",
+          "description": "Government declaration for extraordinary power",
+          "extract": "A state of emergency is a situation in which a government is empowered to put through policies that it would normally not be permitted to do, for the safety and protection of its citizens. A government can declare such a state before, during, or after a natural disaster, civil unrest, armed conflict, medical pandemic or epidemic or other biosecurity risk.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/State_of_emergency",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/%D8%A7%D9%84%D9%81%D9%84%D9%88%D8%AC%D8%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%D8%A7%D9%84%D9%81%D9%84%D9%88%D8%AC%D8%A9.jpg/330px-%D8%A7%D9%84%D9%81%D9%84%D9%88%D8%AC%D8%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "الفلوجة.jpg",
+          "width": 576,
+          "height": 358,
+          "title": "Fallujah",
+          "description": "City in Al Anbar, Iraq",
+          "extract": "Fallujah is a city in Al Anbar Governorate, Iraq. Situated on the Euphrates River, it is located roughly 69 kilometres (43 mi) to the west of the capital city of Baghdad and 50 kilometres (31 mi) from the neighboring city of Ramadi. The city is located in the region defined as Sunni Triangle by the United States, as the majority of its residents are Sunni Arabs. In 1947, Fallujah was a small town with a relatively small population but had grown to a population of about 250,900 people by 2018.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fallujah",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Iraq War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Iraq_War",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-07-1996-7615691b",
+      "year": 1996,
+      "text": "NASA launched the Mars Global Surveyor from the Kennedy Space Center at Cape Canaveral, Florida.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mars_global_surveyor.jpg/3840px-Mars_global_surveyor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mars_global_surveyor.jpg/330px-Mars_global_surveyor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mars_global_surveyor.jpg",
+        "width": 6000,
+        "height": 6958,
+        "title": "Mars Global Surveyor",
+        "description": "NASA orbiter mission to Mars (1996–2006)",
+        "extract": "Mars Global Surveyor (MGS) was an American robotic space probe developed by NASA's Jet Propulsion Laboratory. It was launched on November 7, 1996, and collected data in orbit around Mars from 1997 to 2006. MGS was a global mapping mission that examined the entire planet, from the ionosphere down through the atmosphere to the surface. As part of the larger Mars Exploration Program, Mars Global Surveyor performed atmospheric monitoring for sister orbiters during aerobraking, and helped Mars rovers and lander missions by identifying potential landing sites and relaying surface telemetry.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Global_Surveyor",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mars_global_surveyor.jpg/3840px-Mars_global_surveyor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mars_global_surveyor.jpg/330px-Mars_global_surveyor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mars_global_surveyor.jpg",
+          "width": 6000,
+          "height": 6958,
+          "title": "Mars Global Surveyor",
+          "description": "NASA orbiter mission to Mars (1996–2006)",
+          "extract": "Mars Global Surveyor (MGS) was an American robotic space probe developed by NASA's Jet Propulsion Laboratory. It was launched on November 7, 1996, and collected data in orbit around Mars from 1997 to 2006. MGS was a global mapping mission that examined the entire planet, from the ionosphere down through the atmosphere to the surface. As part of the larger Mars Exploration Program, Mars Global Surveyor performed atmospheric monitoring for sister orbiters during aerobraking, and helped Mars rovers and lander missions by identifying potential landing sites and relaying surface telemetry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Global_Surveyor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cape_canaveral.jpg/3840px-Cape_canaveral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cape_canaveral.jpg/330px-Cape_canaveral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cape_canaveral.jpg",
+          "width": 5320,
+          "height": 5266,
+          "title": "Cape Canaveral",
+          "description": "Cape on the Atlantic coast of Florida in the United States",
+          "extract": "Cape Canaveral is a cape in Brevard County, Florida, in the United States, near the center of the state's Atlantic coast. Officially Cape Kennedy from 1963 to 1973, it lies east of Merritt Island, separated from it by the Banana River. It is part of a region known as the Space Coast, and is the site of the Cape Canaveral Space Force Station. Since many U.S. spacecraft have been launched from both the station and the Kennedy Space Center on adjacent Merritt Island, the two are sometimes conflated.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cape_Canaveral",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-07-1991-5c868f61",
+      "year": 1991,
+      "text": "Magic Johnson announced his retirement from professional basketball due to HIV infection.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg/330px-Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "magic_johnson_at_sxsw_2022_(51958828669)_(cropped).jpg",
+        "width": 1295,
+        "height": 1725,
+        "title": "Magic Johnson",
+        "description": "American basketball player and entrepreneur (born 1959)",
+        "extract": "Earvin \"Magic\" Johnson Jr. is an American businessman and former professional basketball player. He is widely regarded as the greatest point guard of all time and one of the greatest basketball players in history. Johnson spent his entire career with the Los Angeles Lakers in the National Basketball Association (NBA). After winning a national championship with the Michigan State Spartans in 1979, Johnson was selected first overall in the 1979 NBA draft by the Lakers, then led the team to five NBA championships during their \"Showtime\" era. Johnson retired abruptly in 1991 after announcing that he had contracted HIV, but returned to play in the 1992 All-Star Game, winning the All-Star MVP Award. He retired again after fellow players protested his return, but returned in 1996, at age 36, to play 32 games for the Lakers before retiring for the third and final time.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Magic_Johnson",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg/330px-Magic_Johnson_at_SXSW_2022_%2851958828669%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "magic_johnson_at_sxsw_2022_(51958828669)_(cropped).jpg",
+          "width": 1295,
+          "height": 1725,
+          "title": "Magic Johnson",
+          "description": "American basketball player and entrepreneur (born 1959)",
+          "extract": "Earvin \"Magic\" Johnson Jr. is an American businessman and former professional basketball player. He is widely regarded as the greatest point guard of all time and one of the greatest basketball players in history. Johnson spent his entire career with the Los Angeles Lakers in the National Basketball Association (NBA). After winning a national championship with the Michigan State Spartans in 1979, Johnson was selected first overall in the 1979 NBA draft by the Lakers, then led the team to five NBA championships during their \"Showtime\" era. Johnson retired abruptly in 1991 after announcing that he had contracted HIV, but returned to play in the 1992 All-Star Game, winning the All-Star MVP Award. He retired again after fellow players protested his return, but returned in 1996, at age 36, to play 32 games for the Lakers before retiring for the third and final time.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Magic_Johnson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/HIV-budding-Color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HIV-budding-Color.jpg/330px-HIV-budding-Color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hiv-budding-color.jpg",
+          "width": 2967,
+          "height": 1971,
+          "title": "HIV",
+          "description": "Human retrovirus, cause of AIDS",
+          "extract": "Human immunodeficiency viruses (HIVs) are two species of Lentivirus that infect humans. Over time, they cause acquired immunodeficiency syndrome (AIDS), a condition in which progressive failure of the immune system allows life-threatening opportunistic infections and cancers to thrive. Without treatment, the average survival time after infection with HIV is estimated to be 9 to 11 years, depending on the HIV subtype.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/HIV",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Magic Johnson",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Magic_Johnson",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-07-1900-10baee0b",
+      "year": 1900,
+      "text": "Second Boer War: The Battle of Leliefontein takes place, during which the Royal Canadian Dragoons win three Victoria Crosses.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Second_Boer_War_Collage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Second_Boer_War_Collage.png/330px-Second_Boer_War_Collage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "second_boer_war_collage.png",
+        "width": 2662,
+        "height": 2761,
+        "title": "Second Boer War",
+        "description": "1899–1902 war in South Africa",
+        "extract": "The Second Boer War was a conflict fought between 1899 and 1902 between the British Empire and the Boer republics over Britain's influence in Southern Africa.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Second_Boer_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Second_Boer_War_Collage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Second_Boer_War_Collage.png/330px-Second_Boer_War_Collage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "second_boer_war_collage.png",
+          "width": 2662,
+          "height": 2761,
+          "title": "Second Boer War",
+          "description": "1899–1902 war in South Africa",
+          "extract": "The Second Boer War was a conflict fought between 1899 and 1902 between the British Empire and the Boer republics over Britain's influence in Southern Africa.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Second_Boer_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DSC00398_-_Komati_River_-_Belfast_%2848152186862%29.jpg/3840px-DSC00398_-_Komati_River_-_Belfast_%2848152186862%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/DSC00398_-_Komati_River_-_Belfast_%2848152186862%29.jpg/330px-DSC00398_-_Komati_River_-_Belfast_%2848152186862%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dsc00398_-_komati_river_-_belfast_(48152186862).jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": "Battle of Leliefontein",
+          "description": "1900 battle of the Second Boer War",
+          "extract": "The Battle of Leliefontein was an engagement between British-Canadian and Boer forces during the Second Boer War on 7 November 1900, at the Komati River 30 kilometres (19 mi) south of Belfast at the present day Nooitgedacht Dam.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Leliefontein",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Royal_Canadian_Dragoons_badge.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Royal_Canadian_Dragoons_badge.png/330px-Royal_Canadian_Dragoons_badge.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "royal_canadian_dragoons_badge.png",
+          "width": 345,
+          "height": 289,
+          "title": "Royal Canadian Dragoons",
+          "description": "Canadian Army armoured regiment",
+          "extract": "The Royal Canadian Dragoons (RCD) is the senior armoured regiment of the Canadian Army by precedence. It is one of three armoured regiments in the Regular Force and forms part of the Royal Canadian Armoured Corps.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Royal_Canadian_Dragoons",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Second Boer War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Second_Boer_War",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-07-1973-12ad4f9a",
+      "year": 1973,
+      "text": "The United States Congress overrides President Richard Nixon's veto of the War Powers Resolution, which limits presidential power to wage war without congressional approval.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
+        "width": 2136,
+        "height": 2830,
+        "title": "Richard Nixon",
+        "description": "President of the United States from 1969 to 1974",
+        "extract": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
+          "width": 2136,
+          "height": 2830,
+          "title": "Richard Nixon",
+          "description": "President of the United States from 1969 to 1974",
+          "extract": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/United_States_Capitol_west_front_edit2.jpg/1280px-United_States_Capitol_west_front_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/United_States_Capitol_west_front_edit2.jpg/1280px-United_States_Capitol_west_front_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "united_states_capitol_west_front_edit2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "United_States_Capitol_west_front_edit2",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/United_States_Congress",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Johnson_Impeachment_Committee.jpg/1280px-Johnson_Impeachment_Committee.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Johnson_Impeachment_Committee.jpg/1280px-Johnson_Impeachment_Committee.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "johnson_impeachment_committee.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "In 1868, this committee of representatives prosecuted U.S. president Andrew Johnson in his impeachment trial, but the Senate did not convict him.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/United_States_Congress",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "United States Congress",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/United_States_Congress",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-07-1972-4b7c9752",
+      "year": 1972,
+      "text": "United States presidential election: U.S. President Richard Nixon is re-elected in the largest landslide victory at the time.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
+        "width": 2136,
+        "height": 2830,
+        "title": "Richard Nixon",
+        "description": "President of the United States from 1969 to 1974",
+        "extract": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
+          "width": 2136,
+          "height": 2830,
+          "title": "Richard Nixon",
+          "description": "President of the United States from 1969 to 1974",
+          "extract": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/1280px-Richard_Nixon_presidential_portrait_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/1280px-Richard_Nixon_presidential_portrait_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "richard_nixon_presidential_portrait_(1).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Richard_Nixon_presidential_portrait_(1)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1972_United_States_presidential_election",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/George_McGovern_%28D-SD%29_%283x4-1%29.jpg/1280px-George_McGovern_%28D-SD%29_%283x4-1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/George_McGovern_%28D-SD%29_%283x4-1%29.jpg/1280px-George_McGovern_%28D-SD%29_%283x4-1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "george_mcgovern_(d-sd)_(3x4-1).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "George_McGovern_(D-SD)_(3x4-1)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1972_United_States_presidential_election",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "1972 United States presidential election",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1972_United_States_presidential_election",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-07-1983-243c4072",
+      "year": 1983,
+      "text": "Cold War: The command post exercise Able Archer 83 begins, eventually leading to the Soviet Union to place air units in East Germany and Poland on alert, for fear that NATO was preparing for war",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/SPMAGTF_19.2_Trains_with_Italians_in_Joint_Stars_190514-M-GJ479-0102.jpg/3840px-SPMAGTF_19.2_Trains_with_Italians_in_Joint_Stars_190514-M-GJ479-0102.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/SPMAGTF_19.2_Trains_with_Italians_in_Joint_Stars_190514-M-GJ479-0102.jpg/330px-SPMAGTF_19.2_Trains_with_Italians_in_Joint_Stars_190514-M-GJ479-0102.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "spmagtf_19.2_trains_with_italians_in_joint_stars_190514-m-gj479-0102.jpg",
+        "width": 5760,
+        "height": 3840,
+        "title": "Military exercise",
+        "description": "Employment of military resources for training",
+        "extract": "A military exercise, training exercise, maneuver, manoeuvre, drill or war game is the employment of military resources in training for military operations. Military exercises are conducted to explore the effects of warfare or test tactics and strategies without actual combat. They also ensure the combat readiness of garrisoned or deployable forces prior to deployment from a home base.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Military_exercise",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/SPMAGTF_19.2_Trains_with_Italians_in_Joint_Stars_190514-M-GJ479-0102.jpg/3840px-SPMAGTF_19.2_Trains_with_Italians_in_Joint_Stars_190514-M-GJ479-0102.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/SPMAGTF_19.2_Trains_with_Italians_in_Joint_Stars_190514-M-GJ479-0102.jpg/330px-SPMAGTF_19.2_Trains_with_Italians_in_Joint_Stars_190514-M-GJ479-0102.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "spmagtf_19.2_trains_with_italians_in_joint_stars_190514-m-gj479-0102.jpg",
+          "width": 5760,
+          "height": 3840,
+          "title": "Military exercise",
+          "description": "Employment of military resources for training",
+          "extract": "A military exercise, training exercise, maneuver, manoeuvre, drill or war game is the employment of military resources in training for military operations. Military exercises are conducted to explore the effects of warfare or test tactics and strategies without actual combat. They also ensure the combat readiness of garrisoned or deployable forces prior to deployment from a home base.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Military_exercise",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cold War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "relatedPagesCount": 7
+    },
+    {
+      "id": "11-07-1619-1e7d0229",
+      "year": 1619,
+      "text": "Elizabeth Stuart is crowned Queen of Bohemia.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Workshop_of_Michiel_Jansz._van_Miereveldt_Elizabeth_Stuart_Queen_of_Bohemia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Workshop_of_Michiel_Jansz._van_Miereveldt_Elizabeth_Stuart_Queen_of_Bohemia.jpg/330px-Workshop_of_Michiel_Jansz._van_Miereveldt_Elizabeth_Stuart_Queen_of_Bohemia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "workshop_of_michiel_jansz._van_miereveldt_elizabeth_stuart_queen_of_bohemia.jpg",
+        "width": 1495,
+        "height": 2000,
+        "title": "Elizabeth Stuart, Queen of Bohemia",
+        "description": "Electress Palatine from 1613 to 1623",
+        "extract": "Elizabeth Stuart was Electress of the Palatinate and briefly Queen of Bohemia as the wife of Frederick V of the Palatinate. The couple's selection for the crown by the nobles of Bohemia was part of the political and religious turmoil that set off the Thirty Years' War. Since her husband's reign in Bohemia lasted over only one winter, she is called \"The Winter Queen\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Stuart%2C_Queen_of_Bohemia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Workshop_of_Michiel_Jansz._van_Miereveldt_Elizabeth_Stuart_Queen_of_Bohemia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Workshop_of_Michiel_Jansz._van_Miereveldt_Elizabeth_Stuart_Queen_of_Bohemia.jpg/330px-Workshop_of_Michiel_Jansz._van_Miereveldt_Elizabeth_Stuart_Queen_of_Bohemia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "workshop_of_michiel_jansz._van_miereveldt_elizabeth_stuart_queen_of_bohemia.jpg",
+          "width": 1495,
+          "height": 2000,
+          "title": "Elizabeth Stuart, Queen of Bohemia",
+          "description": "Electress Palatine from 1613 to 1623",
+          "extract": "Elizabeth Stuart was Electress of the Palatinate and briefly Queen of Bohemia as the wife of Frederick V of the Palatinate. The couple's selection for the crown by the nobles of Bohemia was part of the political and religious turmoil that set off the Thirty Years' War. Since her husband's reign in Bohemia lasted over only one winter, she is called \"The Winter Queen\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_Stuart%2C_Queen_of_Bohemia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Charles-vii-courronement-_Panth%C3%A9on_III.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Charles-vii-courronement-_Panth%C3%A9on_III.jpg/330px-Charles-vii-courronement-_Panth%C3%A9on_III.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "charles-vii-courronement-_panthéon_iii.jpg",
+          "width": 1880,
+          "height": 1830,
+          "title": "Coronation",
+          "description": "Ceremony marking the investiture of a monarch",
+          "extract": "A coronation ceremony marks the formal investiture of a monarch with regal power using a crown. In addition to the crowning, this ceremony may include the presentation of other items of regalia, and other rituals such as the taking of special vows by the new monarch, the investing and presentation of regalia to them, and acts of homage by the new monarch's subjects. In certain Christian denominations, such as Lutheranism and Anglicanism, coronation is a religious rite. As such, Western-style coronations have often included anointing the monarch with holy oil, or chrism as it is often called; the anointing ritual's religious significance follows examples found in the Bible. The monarch's consort may also be crowned, either simultaneously with the monarch or as a separate event.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Coronation",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/StLudmilaWindowCedarRapidsSep2001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/StLudmilaWindowCedarRapidsSep2001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "stludmilawindowcedarrapidssep2001.jpg",
+          "width": 209,
+          "height": 404,
+          "title": "List of Bohemian royal consorts",
+          "description": "Royal consorts of Bohemia",
+          "extract": "This is a list of the royal consorts of the rulers of Bohemia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/List_of_Bohemian_royal_consorts",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Elizabeth Stuart, Queen of Bohemia",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Elizabeth_Stuart%2C_Queen_of_Bohemia",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-07-1957-ea10e017",
+      "year": 1957,
+      "text": "Cold War: The Gaither Report calls for more American missiles and fallout shelters.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Fallout_shelter_sign_%28US%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fallout_shelter_sign_%28US%29.jpg/330px-Fallout_shelter_sign_%28US%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "fallout_shelter_sign_(us).jpg",
+        "width": 3420,
+        "height": 4799,
+        "title": "Fallout shelter",
+        "description": "Space protecting occupants from radioactive debris",
+        "extract": "A fallout shelter is an enclosed space specially designated to protect occupants from radioactive debris or fallout resulting from a nuclear explosion. Many such shelters were constructed as civil defense measures during the Cold War.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fallout_shelter",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Fallout_shelter_sign_%28US%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fallout_shelter_sign_%28US%29.jpg/330px-Fallout_shelter_sign_%28US%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fallout_shelter_sign_(us).jpg",
+          "width": 3420,
+          "height": 4799,
+          "title": "Fallout shelter",
+          "description": "Space protecting occupants from radioactive debris",
+          "extract": "A fallout shelter is an enclosed space specially designated to protect occupants from radioactive debris or fallout resulting from a nuclear explosion. Many such shelters were constructed as civil defense measures during the Cold War.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fallout_shelter",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cold War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-07-1912-81740a53",
+      "year": 1912,
+      "text": "The Deutsche Opernhaus (now Deutsche Oper Berlin) opens in the Berlin neighborhood of Charlottenburg, with a production of Beethoven's Fidelio.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Deutsche_Oper_Berlin._Ansicht_von_S%C3%BCdosten.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Deutsche_Oper_Berlin._Ansicht_von_S%C3%BCdosten.jpg/330px-Deutsche_Oper_Berlin._Ansicht_von_S%C3%BCdosten.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "deutsche_oper_berlin._ansicht_von_südosten.jpg",
+        "width": 3072,
+        "height": 2304,
+        "title": "Deutsche Oper Berlin",
+        "description": "German opera company",
+        "extract": "The Deutsche Oper Berlin is a German opera company located in the Charlottenburg district of Berlin. The resident building is the country's second largest opera house and also home to the Berlin State Ballet.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Deutsche_Oper_Berlin",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Deutsche_Oper_Berlin._Ansicht_von_S%C3%BCdosten.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Deutsche_Oper_Berlin._Ansicht_von_S%C3%BCdosten.jpg/330px-Deutsche_Oper_Berlin._Ansicht_von_S%C3%BCdosten.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "deutsche_oper_berlin._ansicht_von_südosten.jpg",
+          "width": 3072,
+          "height": 2304,
+          "title": "Deutsche Oper Berlin",
+          "description": "German opera company",
+          "extract": "The Deutsche Oper Berlin is a German opera company located in the Charlottenburg district of Berlin. The resident building is the country's second largest opera house and also home to the Berlin State Ballet.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Deutsche_Oper_Berlin",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Charlottenburg_Hohenzollern_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Charlottenburg_Hohenzollern_2.jpg/330px-Charlottenburg_Hohenzollern_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "charlottenburg_hohenzollern_2.jpg",
+          "width": 3259,
+          "height": 1682,
+          "title": "Charlottenburg",
+          "description": "Quarter of Berlin in Germany",
+          "extract": "Charlottenburg is a locality of Berlin within the borough of Charlottenburg-Wilmersdorf. Established as a town in 1705 and named after Sophia Charlotte of Hanover, Queen consort of Prussia, it is best known for Charlottenburg Palace – the largest surviving such royal palace in Berlin – and the adjacent museums.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Charlottenburg",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/3840px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/330px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "joseph_karl_stieler's_beethoven_mit_dem_manuskript_der_missa_solemnis.jpg",
+          "width": 4330,
+          "height": 5389,
+          "title": "Ludwig van Beethoven",
+          "description": "German composer (1770–1827)",
+          "extract": "Ludwig van Beethoven was a German composer, conductor, and pianist. Regarded as one of the greatest composers in the history of Western music, he was mentored during the Classical period, and his musical style was a key driver of the transition to Romantic music, and the expansion of instrumental forms such as the symphony, the piano sonata and the string quartet. His compositions have attracted extraordinary casual and scholarly interest, and remain among the most performed in the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Deutsche Oper Berlin",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Deutsche_Oper_Berlin",
+      "relatedPagesCount": 4
+    }
+  ]
+}

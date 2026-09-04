@@ -1,0 +1,619 @@
+{
+  "date": {
+    "month": 1,
+    "day": 27,
+    "formatted": "01-27"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "01-27-2010-4de06a83",
+      "year": 2010,
+      "text": "Apple announces the iPad.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/IPad_mini_Air_Pro.png/3840px-IPad_mini_Air_Pro.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/IPad_mini_Air_Pro.png/330px-IPad_mini_Air_Pro.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ipad_mini_air_pro.png",
+        "width": 4032,
+        "height": 3024,
+        "title": "IPad",
+        "description": "Line of tablet computers by Apple",
+        "extract": "The iPad is a brand of tablet computers developed and marketed by Apple that run the company's mobile operating systems iOS and iPadOS. The first-generation iPad was introduced on January 27, 2010. Since then, the iPad product line has been expanded to include the smaller iPad Mini, the lighter and thinner iPad Air, and the flagship iPad Pro models. As of 2022, over 670 million iPads have been sold, making Apple the largest vendor of tablet computers. Due to its popularity, the term \"iPad\" is sometimes used as a generic name for tablet computers.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/IPad",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/IPad_mini_Air_Pro.png/3840px-IPad_mini_Air_Pro.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/IPad_mini_Air_Pro.png/330px-IPad_mini_Air_Pro.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ipad_mini_air_pro.png",
+          "width": 4032,
+          "height": 3024,
+          "title": "IPad",
+          "description": "Line of tablet computers by Apple",
+          "extract": "The iPad is a brand of tablet computers developed and marketed by Apple that run the company's mobile operating systems iOS and iPadOS. The first-generation iPad was introduced on January 27, 2010. Since then, the iPad product line has been expanded to include the smaller iPad Mini, the lighter and thinner iPad Air, and the flagship iPad Pro models. As of 2022, over 670 million iPads have been sold, making Apple the largest vendor of tablet computers. Due to its popularity, the term \"iPad\" is sometimes used as a generic name for tablet computers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/IPad",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1280px-Aerial_view_of_Apple_Park_dllu.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1280px-Aerial_view_of_Apple_Park_dllu.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "aerial_view_of_apple_park_dllu.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Aerial_view_of_Apple_Park_dllu",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Apple_Garage.jpg/1280px-Apple_Garage.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Apple_Garage.jpg/1280px-Apple_Garage.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "apple_garage.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "In 1976, Steve Jobs and Steve Wozniak co-founded Apple in Jobs' parents' home in Los Altos, California.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Apple Inc.",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-27-1967-8e3d0089",
+      "year": 1967,
+      "text": "A fire during a launch simulation for the Apollo 1 mission at Cape Kennedy killed astronauts Gus Grissom, Ed White and Roger Chaffee.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Apollo1-Crew_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Apollo1-Crew_01.jpg/330px-Apollo1-Crew_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "apollo1-crew_01.jpg",
+        "width": 3000,
+        "height": 2400,
+        "title": "Apollo 1",
+        "description": "Planned United States spaceflight (1967)",
+        "extract": "Apollo 1, initially designated AS-204, was planned to be the first crewed mission of the Apollo program, the American undertaking to land the first man on the Moon. It was planned to launch on February 21, 1967, as the first low Earth orbital test of the Apollo command and service module. The mission never flew; a cabin fire during a launch rehearsal test at Cape Kennedy Air Force Station Launch Complex 34 on January 27, 1967 killed all three crew members—Command Pilot Gus Grissom, Senior Pilot Ed White, and Pilot Roger B. Chaffee—and destroyed the command module (CM). The name Apollo 1, chosen by the crew, was made official by NASA in their honor after the fire.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_1",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Apollo1-Crew_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Apollo1-Crew_01.jpg/330px-Apollo1-Crew_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "apollo1-crew_01.jpg",
+          "width": 3000,
+          "height": 2400,
+          "title": "Apollo 1",
+          "description": "Planned United States spaceflight (1967)",
+          "extract": "Apollo 1, initially designated AS-204, was planned to be the first crewed mission of the Apollo program, the American undertaking to land the first man on the Moon. It was planned to launch on February 21, 1967, as the first low Earth orbital test of the Apollo command and service module. The mission never flew; a cabin fire during a launch rehearsal test at Cape Kennedy Air Force Station Launch Complex 34 on January 27, 1967 killed all three crew members—Command Pilot Gus Grissom, Senior Pilot Ed White, and Pilot Roger B. Chaffee—and destroyed the command module (CM). The name Apollo 1, chosen by the crew, was made official by NASA in their honor after the fire.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_1",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/STORIE_Launch_and_Install_on_the_Space_Station_%28SVS15043_-_4~orig%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/STORIE_Launch_and_Install_on_the_Space_Station_%28SVS15043_-_4~orig%29.jpg/330px-STORIE_Launch_and_Install_on_the_Space_Station_%28SVS15043_-_4~orig%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "storie_launch_and_install_on_the_space_station_(svs15043_-_4~orig).jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": "Cape Canaveral Space Force Station",
+          "description": "Military rocket launch site in Florida",
+          "extract": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Force_Station",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Virgil_I._%28Gus%29_Grissom_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Virgil_I._%28Gus%29_Grissom_portrait.jpg/330px-Virgil_I._%28Gus%29_Grissom_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "virgil_i._(gus)_grissom_portrait.jpg",
+          "width": 3699,
+          "height": 4526,
+          "title": "Gus Grissom",
+          "description": "American astronaut (1926–1967)",
+          "extract": "Virgil Ivan \"Gus\" Grissom was an American astronaut, and one of the original Mercury Seven selected by the National Aeronautics and Space Administration (NASA) for Project Mercury, a program to train and launch astronauts into outer space. Grissom went on to be a Project Gemini and Apollo program astronaut for NASA. As a member of the NASA Astronaut Corps, Grissom was the second American to fly in space in 1961. He was also the second American to fly in space twice, preceded only by Joe Walker with his sub-orbital X-15 flights.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gus_Grissom",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Apollo 1",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Apollo_1",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "01-27-1927-f162e445",
+      "year": 1927,
+      "text": "A contaminated diphtheria vaccine was used in an Australian immunisation program, leading to the deaths of twelve children and the suspension of immunisation programs in several countries.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Diphtheria_Inoculation_Results_in_Twelve_Deaths.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Diphtheria_Inoculation_Results_in_Twelve_Deaths.jpg/330px-Diphtheria_Inoculation_Results_in_Twelve_Deaths.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "diphtheria_inoculation_results_in_twelve_deaths.jpg",
+        "width": 2544,
+        "height": 3360,
+        "title": "Bundaberg tragedy",
+        "description": "1928 medical disaster",
+        "extract": "The Bundaberg tragedy was a medical disaster that occurred in January 1928, resulting in the deaths of 12 children in Bundaberg, Queensland, Australia. A royal commission concluded that the deaths were caused by the contamination of a diphtheria vaccine with the bacterium Staphylococcus aureus.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bundaberg_tragedy",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Diphtheria_Inoculation_Results_in_Twelve_Deaths.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Diphtheria_Inoculation_Results_in_Twelve_Deaths.jpg/330px-Diphtheria_Inoculation_Results_in_Twelve_Deaths.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "diphtheria_inoculation_results_in_twelve_deaths.jpg",
+          "width": 2544,
+          "height": 3360,
+          "title": "Bundaberg tragedy",
+          "description": "1928 medical disaster",
+          "extract": "The Bundaberg tragedy was a medical disaster that occurred in January 1928, resulting in the deaths of 12 children in Bundaberg, Queensland, Australia. A royal commission concluded that the deaths were caused by the contamination of a diphtheria vaccine with the bacterium Staphylococcus aureus.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bundaberg_tragedy",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Bundaberg tragedy",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bundaberg_tragedy",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "01-27-1939-e0e97eb5",
+      "year": 1939,
+      "text": "First flight of the Lockheed P-38 Lightning.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/P38_Lightning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/P38_Lightning.jpg/330px-P38_Lightning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "p38_lightning.jpg",
+        "width": 3303,
+        "height": 2261,
+        "title": "Lockheed P-38 Lightning",
+        "description": "American twin-engined fighter of WWII",
+        "extract": "The Lockheed P-38 Lightning is an American single-seat, twin-engined fighter aircraft that was used during World War II. Developed for the United States Army Air Corps (USAAC) by the Lockheed Corporation, the P-38 incorporated a distinctive twin boom design with a central nacelle containing the cockpit and armament. Along with its use as a general fighter, the P-38 was used in various aerial warfare roles, including as a fighter-bomber, a night fighter, and a long-range escort fighter when equipped with drop tanks. The P-38 was also used as a bomber-pathfinder, guiding streams of medium and heavy bombers, or even other P-38s equipped with bombs, to their targets. Although it was not designated a heavy fighter or a bomber destroyer by the USAAC, the P-38 filled those roles and more; unlike German heavy fighters crewed by two or three airmen, the P-38, with its lone pilot, was nimble enough to compete with single-engined fighters.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/P38_Lightning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/P38_Lightning.jpg/330px-P38_Lightning.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "p38_lightning.jpg",
+          "width": 3303,
+          "height": 2261,
+          "title": "Lockheed P-38 Lightning",
+          "description": "American twin-engined fighter of WWII",
+          "extract": "The Lockheed P-38 Lightning is an American single-seat, twin-engined fighter aircraft that was used during World War II. Developed for the United States Army Air Corps (USAAC) by the Lockheed Corporation, the P-38 incorporated a distinctive twin boom design with a central nacelle containing the cockpit and armament. Along with its use as a general fighter, the P-38 was used in various aerial warfare roles, including as a fighter-bomber, a night fighter, and a long-range escort fighter when equipped with drop tanks. The P-38 was also used as a bomber-pathfinder, guiding streams of medium and heavy bombers, or even other P-38s equipped with bombs, to their targets. Although it was not designated a heavy fighter or a bomber destroyer by the USAAC, the P-38 filled those roles and more; unlike German heavy fighters crewed by two or three airmen, the P-38, with its lone pilot, was nimble enough to compete with single-engined fighters.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lockheed_P-38_Lightning_fighter_concept_silhouettes.png/500px-Lockheed_P-38_Lightning_fighter_concept_silhouettes.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lockheed_P-38_Lightning_fighter_concept_silhouettes.png/500px-Lockheed_P-38_Lightning_fighter_concept_silhouettes.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "lockheed_p-38_lightning_fighter_concept_silhouettes.png",
+          "width": 800,
+          "height": 600,
+          "title": "Preliminary Lockheed twin-engined P-38 fighter concepts",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/An_armorer%27s_assistant_in_a_large_western_aircraft_plant_works_on_the_installation_of_one_of_the_machine_guns_in_the..._-_NARA_-_196367.jpg/1280px-An_armorer%27s_assistant_in_a_large_western_aircraft_plant_works_on_the_installation_of_one_of_the_machine_guns_in_the..._-_NARA_-_196367.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/An_armorer%27s_assistant_in_a_large_western_aircraft_plant_works_on_the_installation_of_one_of_the_machine_guns_in_the..._-_NARA_-_196367.jpg/1280px-An_armorer%27s_assistant_in_a_large_western_aircraft_plant_works_on_the_installation_of_one_of_the_machine_guns_in_the..._-_NARA_-_196367.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "an_armorer's_assistant_in_a_large_western_aircraft_plant_works_on_the_installation_of_one_of_the_machine_guns_in_the..._-_nara_-_196367.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "P-38 armament, concentrated in the nose of the aircraft",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Lockheed P-38 Lightning",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Lockheed_P-38_Lightning",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "01-27-1186-c09aa362",
+      "year": 1186,
+      "text": "Henry VI, the son and heir of the Holy Roman Emperor Frederick I, marries Constance of Sicily.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/JindrichVIStauf_trun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/JindrichVIStauf_trun.jpg/330px-JindrichVIStauf_trun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jindrichvistauf_trun.jpg",
+        "width": 358,
+        "height": 772,
+        "title": "Henry VI, Holy Roman Emperor",
+        "description": "Holy Roman Emperor from 1191 to 1197",
+        "extract": "Henry VI, a member of the Hohenstaufen dynasty, was King of Germany from 1169 and Holy Roman Emperor from 1191 until his death. From 1194, he was also King of Sicily as the husband and co-ruler of Queen Constance I.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI%2C_Holy_Roman_Emperor",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/JindrichVIStauf_trun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/JindrichVIStauf_trun.jpg/330px-JindrichVIStauf_trun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jindrichvistauf_trun.jpg",
+          "width": 358,
+          "height": 772,
+          "title": "Henry VI, Holy Roman Emperor",
+          "description": "Holy Roman Emperor from 1191 to 1197",
+          "extract": "Henry VI, a member of the Hohenstaufen dynasty, was King of Germany from 1169 and Holy Roman Emperor from 1191 until his death. From 1194, he was also King of Sicily as the husband and co-ruler of Queen Constance I.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VI%2C_Holy_Roman_Emperor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Hans_Burgkmair_d._%C3%84._005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hans_Burgkmair_d._%C3%84._005.jpg/330px-Hans_Burgkmair_d._%C3%84._005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hans_burgkmair_d._ä._005.jpg",
+          "width": 964,
+          "height": 1467,
+          "title": "Holy Roman Emperor",
+          "description": "Ruler of the Holy Roman Empire from 800 to 1806",
+          "extract": "The Holy Roman Emperor, originally and officially the Emperor of the Romans during the Middle Ages, and also known as the Roman-German Emperor since the early modern period, was the ruler and head of state of the Holy Roman Empire. The title was held in conjunction with the title of King of Italy from the 8th to the 16th century, and, almost without interruption, with the title of King of Germany throughout the 12th to 18th centuries.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Holy_Roman_Emperor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Friedrich_I._Barbarossa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Friedrich_I._Barbarossa.jpg/330px-Friedrich_I._Barbarossa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "friedrich_i._barbarossa.jpg",
+          "width": 488,
+          "height": 800,
+          "title": "Frederick Barbarossa",
+          "description": "Holy Roman Emperor from 1155 to 1190",
+          "extract": "Frederick Barbarossa, also known as Frederick I, was the Holy Roman Emperor from 1155 until his death in 1190. He was elected King of Germany in Frankfurt on 4 March 1152 and crowned in Aachen on 9 March 1152. He was crowned King of Italy on 24 April 1155 in Pavia and emperor by Pope Adrian IV on 18 June 1155 in Rome. Two years later, the term sacrum (\"holy\") first appeared in a document in connection with his empire. He was later formally crowned King of Burgundy, at Arles on 30 June 1178. His nickname of Barbarossa \"was first used by the Florentines only in 1298 to differentiate the emperor from his grandson, Frederick II ... and was never employed in medieval Germany\". In German, he was known as Kaiser Rotbart, which in English means \"Emperor Redbeard\". The prevalence of the Italian nickname, even in later German usage, reflects the centrality of the Italian campaigns under his reign, and \"remains to this day one of the [most] powerful historical monikers.\"",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Henry VI, Holy Roman Emperor",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Henry_VI%2C_Holy_Roman_Emperor",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-27-1928-d00aec02",
+      "year": 1928,
+      "text": "Bundaberg tragedy: a diphtheria vaccine is contaminated with Staph. aureus bacterium, resulting in the deaths of twelve children in the Australian town of Bundaberg.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Diphtheria_Inoculation_Results_in_Twelve_Deaths.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Diphtheria_Inoculation_Results_in_Twelve_Deaths.jpg/330px-Diphtheria_Inoculation_Results_in_Twelve_Deaths.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "diphtheria_inoculation_results_in_twelve_deaths.jpg",
+        "width": 2544,
+        "height": 3360,
+        "title": "Bundaberg tragedy",
+        "description": "1928 medical disaster",
+        "extract": "The Bundaberg tragedy was a medical disaster that occurred in January 1928, resulting in the deaths of 12 children in Bundaberg, Queensland, Australia. A royal commission concluded that the deaths were caused by the contamination of a diphtheria vaccine with the bacterium Staphylococcus aureus.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bundaberg_tragedy",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Diphtheria_Inoculation_Results_in_Twelve_Deaths.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Diphtheria_Inoculation_Results_in_Twelve_Deaths.jpg/330px-Diphtheria_Inoculation_Results_in_Twelve_Deaths.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "diphtheria_inoculation_results_in_twelve_deaths.jpg",
+          "width": 2544,
+          "height": 3360,
+          "title": "Bundaberg tragedy",
+          "description": "1928 medical disaster",
+          "extract": "The Bundaberg tragedy was a medical disaster that occurred in January 1928, resulting in the deaths of 12 children in Bundaberg, Queensland, Australia. A royal commission concluded that the deaths were caused by the contamination of a diphtheria vaccine with the bacterium Staphylococcus aureus.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bundaberg_tragedy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Staphylococcus_aureus_VISA_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Staphylococcus_aureus_VISA_2.jpg/330px-Staphylococcus_aureus_VISA_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "staphylococcus_aureus_visa_2.jpg",
+          "width": 1420,
+          "height": 1091,
+          "title": "Staphylococcus aureus",
+          "description": "Species of Gram-positive bacterium",
+          "extract": "Staphylococcus aureus is a gram-positive spherically shaped bacterium, a member of the Bacillota, and is a usual member of the microbiota of the body, frequently found in the upper respiratory tract and on the skin. It is often positive for catalase and nitrate reduction and is a facultative anaerobe, meaning that it can grow without oxygen. Although S. aureus usually acts as a commensal of the human microbiota, it can also become an opportunistic pathogen, being a common cause of skin infections including abscesses, respiratory infections such as sinusitis, and food poisoning. Pathogenic strains often promote infections by producing virulence factors such as potent protein toxins, and the expression of a cell-surface protein that binds and inactivates antibodies. S. aureus is one of the leading pathogens for deaths associated with antimicrobial resistance and the emergence of antibiotic-resistant strains, such as methicillin-resistant S. aureus (MRSA). The bacterium is a worldwide problem in clinical medicine. Despite much research and development, no vaccine for S. aureus has been approved.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Staphylococcus_aureus",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Australia_bundaberg_aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Australia_bundaberg_aerial.jpg/330px-Australia_bundaberg_aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "australia_bundaberg_aerial.jpg",
+          "width": 2592,
+          "height": 1944,
+          "title": "Bundaberg",
+          "description": "City in Queensland, Australia",
+          "extract": "Bundaberg is the major regional city in the Wide Bay-Burnett region of the state of Queensland, Australia. It is the ninth largest city in the state. The Bundaberg central business district is situated along the southern bank of the Burnett River about 20 km (12 mi) from its mouth at Burnett Heads, where it flows into the Coral Sea. The city is sited on a rich coastal plain, supporting one of the nation's most productive agricultural regions. The area of Bundaberg is the home of the Taribelang-Bunda, Goreng Goreng, Gurang, and Bailai peoples. The common nickname for Bundaberg is \"Bundy\", although its history as a major sugar producing region means it is often referenced as the \"Rum City\" or \"Sugar City\". In the 2021 census, the Bundaberg urban area had a population of 73,747 people.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bundaberg",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Bundaberg tragedy",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bundaberg_tragedy",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-27-2023-281d91b6",
+      "year": 2023,
+      "text": "Protests and public outrage spark across the U.S. after the release of multiple videos by the Memphis Police Department showing officers punching, kicking, and pepper spraying Tyre Nichols as a result of running away from a traffic stop, which resulted him dying in the hospital three days later after the incident.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tyre_Nichols_Protest_at_the_Ohio_Statehouse_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tyre_Nichols_Protest_at_the_Ohio_Statehouse_10.jpg/330px-Tyre_Nichols_Protest_at_the_Ohio_Statehouse_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "tyre_nichols_protest_at_the_ohio_statehouse_10.jpg",
+        "width": 1846,
+        "height": 2721,
+        "title": "Tyre Nichols protests",
+        "description": "2023 protests following the death of Tyre Nichols",
+        "extract": "Protests over the killing of Tyre Nichols began on January 27, 2023, following the release of police body camera and surveillance footage showing five Black officers from the Memphis Police Department beating Nichols, a 29-year-old Black man. The police assault on Nichols occurred on January 7, 2023, and he died three days later in a hospital. The five officers were subsequently fired and charged with second-degree murder. Protests first emerged in Memphis, Tennessee, and spread to several cities in the United States. Protesters demanded legal accountability for the officers responsible for Nichols death and for the enactment of police-reform measures.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tyre_Nichols_protests",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Tyre_Nichols_Protest_at_the_Ohio_Statehouse_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Tyre_Nichols_Protest_at_the_Ohio_Statehouse_10.jpg/330px-Tyre_Nichols_Protest_at_the_Ohio_Statehouse_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tyre_nichols_protest_at_the_ohio_statehouse_10.jpg",
+          "width": 1846,
+          "height": 2721,
+          "title": "Tyre Nichols protests",
+          "description": "2023 protests following the death of Tyre Nichols",
+          "extract": "Protests over the killing of Tyre Nichols began on January 27, 2023, following the release of police body camera and surveillance footage showing five Black officers from the Memphis Police Department beating Nichols, a 29-year-old Black man. The police assault on Nichols occurred on January 7, 2023, and he died three days later in a hospital. The five officers were subsequently fired and charged with second-degree murder. Protests first emerged in Memphis, Tennessee, and spread to several cities in the United States. Protesters demanded legal accountability for the officers responsible for Nichols death and for the enactment of police-reform measures.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tyre_Nichols_protests",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/1e/TN_-_Memphis_Police.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/1e/TN_-_Memphis_Police.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "tn_-_memphis_police.jpg",
+          "width": 168,
+          "height": 200,
+          "title": "Memphis Police Department",
+          "description": "Municipal police department in Tennessee, U.S.",
+          "extract": "The Memphis Police Department (MPD) is a law enforcement agency in Memphis, Tennessee, United States. Established in 1827, the MPD provides police services to the people of the Memphis in a 288 square miles (750 km2) area with 2,081 officers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Memphis_Police_Department",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/70/Tyre_Nichols_beating.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/7/70/Tyre_Nichols_beating.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "tyre_nichols_beating.png",
+          "width": 324,
+          "height": 308,
+          "title": "Killing of Tyre Nichols",
+          "description": "2023 police killing of American man",
+          "extract": "On January 7, 2023, Tyre Nichols, a 29-year-old black American man, was fatally injured by five black police officers in Memphis, Tennessee, and died three days later. The officers, all members of the Memphis Police Department (MPD) SCORPION unit, pulled Nichols from his car before pepper spraying and tasering him. Nichols broke free and ran toward his mother's house, which was less than a mile (1.6 km) away. The officers caught up with Nichols near the house, where they punched, kicked and pepper sprayed him and struck him with a baton. Medics called to the scene did not administer emergency care until 16 minutes after arriving. Nichols was admitted to the hospital in critical condition.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Killing_of_Tyre_Nichols",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Tyre Nichols protests",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Tyre_Nichols_protests",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-27-2011-92b9e651",
+      "year": 2011,
+      "text": "Astronomers documented H1504+65, a white dwarf in Ursa Minor (chart pictured) with the hottest surface temperature known at the time, at 200,000 kelvins (360,000 °F).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/PG_1501%2B664_Legacy_Survey_DR10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/PG_1501%2B664_Legacy_Survey_DR10.jpg/330px-PG_1501%2B664_Legacy_Survey_DR10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "pg_1501+664_legacy_survey_dr10.jpg",
+        "width": 800,
+        "height": 800,
+        "title": "H1504+65",
+        "description": "White dwarf in Ursae Minoris constellation",
+        "extract": "H1504+65 is an enigmatic peculiar star in the constellation Ursa Minor. With a surface temperature of 200,000 K (360,000°F) and an atmosphere composed of carbon, oxygen and 2% neon, it is the second hottest white dwarf ever discovered, with only RX J0439.8−6809 being hotter. It is thought to be the stellar core of a post-asymptotic giant branch star, though its composition is unexplainable by current models of stellar evolution.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/H1504%2B65",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/PG_1501%2B664_Legacy_Survey_DR10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/PG_1501%2B664_Legacy_Survey_DR10.jpg/330px-PG_1501%2B664_Legacy_Survey_DR10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pg_1501+664_legacy_survey_dr10.jpg",
+          "width": 800,
+          "height": 800,
+          "title": "H1504+65",
+          "description": "White dwarf in Ursae Minoris constellation",
+          "extract": "H1504+65 is an enigmatic peculiar star in the constellation Ursa Minor. With a surface temperature of 200,000 K (360,000°F) and an atmosphere composed of carbon, oxygen and 2% neon, it is the second hottest white dwarf ever discovered, with only RX J0439.8−6809 being hotter. It is thought to be the stellar core of a post-asymptotic giant branch star, though its composition is unexplainable by current models of stellar evolution.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/H1504%2B65",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Sirius_A_and_B_Hubble_photo.editted.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sirius_A_and_B_Hubble_photo.editted.PNG/330px-Sirius_A_and_B_Hubble_photo.editted.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sirius_a_and_b_hubble_photo.editted.png",
+          "width": 369,
+          "height": 403,
+          "title": "White dwarf",
+          "description": "Stellar core remnant",
+          "extract": "A white dwarf is a very dense type of star: in an Earth-sized volume, it packs a mass that is comparable to the Sun. A white dwarf radiates light from residual heat and eventual crystallization, not from nuclear fusion. Stars like the Sun, whose mass is not high enough to collapse into a neutron star or black hole, are expected to become white dwarf stars later in their evolution. The nearest known white dwarf is Sirius B, at 8.6 light years, the smaller component of the Sirius binary star.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/White_dwarf",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "H1504+65",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/H1504%2B65",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-27-2003-ed1e41ee",
+      "year": 2003,
+      "text": "The first selections for the United States National Recording Registry were announced by the Library of Congress.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Martin_Luther_King_Jr_National_Historic_Site_%2836233249121%29.jpg/3840px-Martin_Luther_King_Jr_National_Historic_Site_%2836233249121%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Martin_Luther_King_Jr_National_Historic_Site_%2836233249121%29.jpg/330px-Martin_Luther_King_Jr_National_Historic_Site_%2836233249121%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "martin_luther_king_jr_national_historic_site_(36233249121).jpg",
+        "width": 5163,
+        "height": 3407,
+        "title": "National Recording Registry",
+        "description": "List of sound recordings preserved in the U.S. Library of Congress",
+        "extract": "The National Recording Registry is a list of sound recordings that \"are culturally, historically, or aesthetically significant, and inform or reflect life in the United States\". The registry was established by the National Recording Preservation Act of 2000, which created the National Recording Preservation Board, whose members are appointed by the librarian of Congress. The recordings preserved in the United States National Recording Registry form a registry of recordings selected yearly by the National Recording Preservation Board for preservation in the Library of Congress.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/National_Recording_Registry",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Martin_Luther_King_Jr_National_Historic_Site_%2836233249121%29.jpg/3840px-Martin_Luther_King_Jr_National_Historic_Site_%2836233249121%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Martin_Luther_King_Jr_National_Historic_Site_%2836233249121%29.jpg/330px-Martin_Luther_King_Jr_National_Historic_Site_%2836233249121%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "martin_luther_king_jr_national_historic_site_(36233249121).jpg",
+          "width": 5163,
+          "height": 3407,
+          "title": "National Recording Registry",
+          "description": "List of sound recordings preserved in the U.S. Library of Congress",
+          "extract": "The National Recording Registry is a list of sound recordings that \"are culturally, historically, or aesthetically significant, and inform or reflect life in the United States\". The registry was established by the National Recording Preservation Act of 2000, which created the National Recording Preservation Board, whose members are appointed by the librarian of Congress. The recordings preserved in the United States National Recording Registry form a registry of recordings selected yearly by the National Recording Preservation Board for preservation in the Library of Congress.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/National_Recording_Registry",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/LOC_Main_Reading_Room_Highsmith.jpg/3840px-LOC_Main_Reading_Room_Highsmith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/LOC_Main_Reading_Room_Highsmith.jpg/330px-LOC_Main_Reading_Room_Highsmith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "loc_main_reading_room_highsmith.jpg",
+          "width": 6144,
+          "height": 4098,
+          "title": "Library of Congress",
+          "description": "US Congress research library",
+          "extract": "The Library of Congress (LOC) is a research library in Washington, D.C., serving as the library and research service for the United States Congress and the de facto national library of the United States. It also administers copyright law through the United States Copyright Office, and it houses the Congressional Research Service.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Library_of_Congress",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "National Recording Registry",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/National_Recording_Registry",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-27-2002-43a87a3a",
+      "year": 2002,
+      "text": "An explosion at a military storage facility in Lagos, Nigeria, kills at least 1,100 people and displaces over 20,000 others.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tafa_Balewa_Square_%28Onikan%29_in_Lagos._Nigeria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tafa_Balewa_Square_%28Onikan%29_in_Lagos._Nigeria.jpg/330px-Tafa_Balewa_Square_%28Onikan%29_in_Lagos._Nigeria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "tafa_balewa_square_(onikan)_in_lagos._nigeria.jpg",
+        "width": 1230,
+        "height": 820,
+        "title": "Lagos",
+        "description": "Most populous city in Nigeria",
+        "extract": "Lagos, or Lagos City, is a large metropolitan port city in southwestern Nigeria. As of November 2025, the size of the city's population has been estimated to be between 17 and 21 million residents, making Lagos the largest city in Nigeria, the most populous urban area on the African continent, and one of the fastest-growing megacities in the world.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lagos",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tafa_Balewa_Square_%28Onikan%29_in_Lagos._Nigeria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tafa_Balewa_Square_%28Onikan%29_in_Lagos._Nigeria.jpg/330px-Tafa_Balewa_Square_%28Onikan%29_in_Lagos._Nigeria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tafa_balewa_square_(onikan)_in_lagos._nigeria.jpg",
+          "width": 1230,
+          "height": 820,
+          "title": "Lagos",
+          "description": "Most populous city in Nigeria",
+          "extract": "Lagos, or Lagos City, is a large metropolitan port city in southwestern Nigeria. As of November 2025, the size of the city's population has been estimated to be between 17 and 21 million residents, making Lagos the largest city in Nigeria, the most populous urban area on the African continent, and one of the fastest-growing megacities in the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lagos",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "2002 Lagos armoury explosion",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2002_Lagos_armoury_explosion",
+      "relatedPagesCount": 2
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "date": {
+    "month": 3,
+    "day": 30,
+    "formatted": "03-30"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "03-30-2017-103a6983",
+      "year": 2017,
+      "text": "SpaceX conducts the world's first reflight of an orbital class rocket.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Starship_-_Flight_13_%28Sunset%29.jpg/3840px-Starship_-_Flight_13_%28Sunset%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Starship_-_Flight_13_%28Sunset%29.jpg/330px-Starship_-_Flight_13_%28Sunset%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "starship_-_flight_13_(sunset).jpg",
+        "width": 4096,
+        "height": 2304,
+        "title": "SpaceX",
+        "description": "American spaceflight and AI company",
+        "extract": "Space Exploration Technologies Corp., doing business as SpaceX, is an American aerospace manufacturer and provider of space transportation, telecommunications, and artificial intelligence services, headquartered at the Starbase development site in Starbase, Texas. The company operates three primary segments: Space, which develops and flies the Falcon 9, Falcon Heavy, and Starship launch vehicles, as well as the Dragon spacecraft, and conducts more orbital launches annually than any other launch provider ; Connectivity, which operates the Starlink satellite constellation and satellite-based high-speed broadband internet service; and AI, conducted through its wholly owned subsidiary SpaceXAI, which develops the Grok family of large language models (LLMs) and related products, operates the social network X, and builds and runs large-scale data centers.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/SpaceX",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Starship_-_Flight_13_%28Sunset%29.jpg/3840px-Starship_-_Flight_13_%28Sunset%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Starship_-_Flight_13_%28Sunset%29.jpg/330px-Starship_-_Flight_13_%28Sunset%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "starship_-_flight_13_(sunset).jpg",
+          "width": 4096,
+          "height": 2304,
+          "title": "SpaceX",
+          "description": "American spaceflight and AI company",
+          "extract": "Space Exploration Technologies Corp., doing business as SpaceX, is an American aerospace manufacturer and provider of space transportation, telecommunications, and artificial intelligence services, headquartered at the Starbase development site in Starbase, Texas. The company operates three primary segments: Space, which develops and flies the Falcon 9, Falcon Heavy, and Starship launch vehicles, as well as the Dragon spacecraft, and conducts more orbital launches annually than any other launch provider ; Connectivity, which operates the Starlink satellite constellation and satellite-based high-speed broadband internet service; and AI, conducted through its wholly owned subsidiary SpaceXAI, which develops the Grok family of large language models (LLMs) and related products, operates the social network X, and builds and runs large-scale data centers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/SpaceX",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Falcon_9_first_stage_at_LZ-1%28two%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Falcon_9_first_stage_at_LZ-1%28two%29.jpg/330px-Falcon_9_first_stage_at_LZ-1%28two%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "falcon_9_first_stage_at_lz-1(two).jpg",
+          "width": 3411,
+          "height": 2295,
+          "title": "Reusable launch vehicle",
+          "description": "Vehicles that can go to space and return",
+          "extract": "A reusable launch vehicle has parts that can be recovered and reflown, while carrying payloads from the surface to outer space. Rocket stages are the most common launch vehicle parts aimed for reuse. Smaller parts such as fairings, boosters or rocket engines can also be reused, though reusable spacecraft may be launched on top of an expendable launch vehicle. Reusable launch vehicles do not need to make these parts for each launch, therefore reducing its launch cost significantly. However, these benefits can be diminished by the cost of recovery and refurbishment.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Reusable_launch_vehicle",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Elon_Musk_%283x4_close_cropped%29.jpg/1280px-Elon_Musk_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Elon_Musk_%283x4_close_cropped%29.jpg/1280px-Elon_Musk_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "elon_musk_(3x4_close_cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Elon_Musk_(3x4_close_cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/SpaceX",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "SpaceX",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/SpaceX",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-30-1982-c095ed2c",
+      "year": 1982,
+      "text": "Space Shuttle program: STS-3 mission is completed with the landing of Columbia at White Sands Missile Range, New Mexico.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/STS-3_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/STS-3_landing.jpg/330px-STS-3_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-3_landing.jpg",
+        "width": 3840,
+        "height": 2400,
+        "title": "STS-3",
+        "description": "1982 American crewed spaceflight",
+        "extract": "STS-3 was NASA's third Space Shuttle mission and the third mission for the Space Shuttle Columbia. It launched on March 22, 1982 and landed eight days later on March 30, 1982. The mission, crewed by Jack R. Lousma and C. Gordon Fullerton, involved extensive orbital endurance testing of Columbia itself, as well as numerous scientific experiments. STS-3 was the first shuttle launch with an unpainted external tank and the only mission to land at the White Sands Space Harbor near Alamogordo, New Mexico. The orbiter was forced to land at White Sands due to flooding at its originally planned landing site, Edwards Air Force Base.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/STS-3",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/STS-3_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/STS-3_landing.jpg/330px-STS-3_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-3_landing.jpg",
+          "width": 3840,
+          "height": 2400,
+          "title": "STS-3",
+          "description": "1982 American crewed spaceflight",
+          "extract": "STS-3 was NASA's third Space Shuttle mission and the third mission for the Space Shuttle Columbia. It launched on March 22, 1982 and landed eight days later on March 30, 1982. The mission, crewed by Jack R. Lousma and C. Gordon Fullerton, involved extensive orbital endurance testing of Columbia itself, as well as numerous scientific experiments. STS-3 was the first shuttle launch with an unpainted external tank and the only mission to land at the White Sands Space Harbor near Alamogordo, New Mexico. The orbiter was forced to land at White Sands due to flooding at its originally planned landing site, Edwards Air Force Base.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-3",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+          "width": 868,
+          "height": 521,
+          "title": "Space Shuttle Columbia",
+          "description": "Space Shuttle orbiter (1981–2003)",
+          "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Space_Shuttle_concepts.jpg/330px-Space_Shuttle_concepts.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Space_Shuttle_concepts.jpg/330px-Space_Shuttle_concepts.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_concepts.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Early U.S. space shuttle concepts",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "03-30-2002-577962c3",
+      "year": 2002,
+      "text": "Queen Elizabeth The Queen Mother, widow of King George VI and mother of Queen Elizabeth II, died at Royal Lodge aged 101.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Queen_Elizabeth_the_Queen_Mother_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Queen_Elizabeth_the_Queen_Mother_portrait.jpg/330px-Queen_Elizabeth_the_Queen_Mother_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "queen_elizabeth_the_queen_mother_portrait.jpg",
+        "width": 2238,
+        "height": 2825,
+        "title": "Queen Elizabeth the Queen Mother",
+        "description": "Queen of the United Kingdom from 1936 to 1952",
+        "extract": "Elizabeth Angela Marguerite Bowes-Lyon was Queen of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 to 6 February 1952 as the wife of King George VI. She was also the last empress of India from 1936 until the British Raj was dissolved on 15 August 1947. After her husband died, she was officially known as Queen Elizabeth the Queen Mother to avoid confusion with her daughter Queen Elizabeth II.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Queen_Elizabeth_the_Queen_Mother",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Queen_Elizabeth_the_Queen_Mother_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Queen_Elizabeth_the_Queen_Mother_portrait.jpg/330px-Queen_Elizabeth_the_Queen_Mother_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_elizabeth_the_queen_mother_portrait.jpg",
+          "width": 2238,
+          "height": 2825,
+          "title": "Queen Elizabeth the Queen Mother",
+          "description": "Queen of the United Kingdom from 1936 to 1952",
+          "extract": "Elizabeth Angela Marguerite Bowes-Lyon was Queen of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 to 6 February 1952 as the wife of King George VI. She was also the last empress of India from 1936 until the British Raj was dissolved on 15 August 1947. After her husband died, she was officially known as Queen Elizabeth the Queen Mother to avoid confusion with her daughter Queen Elizabeth II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Queen_Elizabeth_the_Queen_Mother",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/330px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "king_george_vi_loc_matpc.14736_a_(cropped).jpg",
+          "width": 1834,
+          "height": 2385,
+          "title": "George VI",
+          "description": "King of the United Kingdom from 1936 to 1952",
+          "extract": "George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death in 1952. He was also the last Emperor of India from 1936 until the British Raj was dissolved in August 1947, though the title was only formally relinquished in June 1948. Following the London Declaration of 1949, he was the first Head of the Commonwealth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/George_VI",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_elizabeth_ii_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+          "width": 739,
+          "height": 985,
+          "title": "Elizabeth II",
+          "description": "Queen of the United Kingdom from 1952 to 2022",
+          "extract": "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Queen Elizabeth the Queen Mother",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Queen_Elizabeth_the_Queen_Mother",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "03-30-1981-87480fcb",
+      "year": 1981,
+      "text": "U.S. President Ronald Reagan is shot in the chest outside a Washington, D.C., hotel by John Hinckley Jr.; three others are wounded in the same incident.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+        "width": 2399,
+        "height": 3000,
+        "title": "Ronald Reagan",
+        "description": "President of the United States from 1981 to 1989",
+        "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+          "width": 2399,
+          "height": 3000,
+          "title": "Ronald Reagan",
+          "description": "President of the United States from 1981 to 1989",
+          "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/President_Ronald_Reagan_moments_before_he_was_shot_in_an_assassination_attempt_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/President_Ronald_Reagan_moments_before_he_was_shot_in_an_assassination_attempt_1981.jpg/330px-President_Ronald_Reagan_moments_before_he_was_shot_in_an_assassination_attempt_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "president_ronald_reagan_moments_before_he_was_shot_in_an_assassination_attempt_1981.jpg",
+          "width": 3000,
+          "height": 1993,
+          "title": "Attempted assassination of Ronald Reagan",
+          "description": "1981 shooting in Washington, D.C., U.S.",
+          "extract": "On March 30, 1981, Ronald Reagan, the president of the United States, was shot and wounded by John Hinckley Jr. outside of the Washington Hilton in Washington, D.C., as Reagan was returning to his limousine after a speaking engagement at the hotel. Hinckley believed the attack would impress the actress Jodie Foster, with whom he had developed an erotomanic obsession after viewing her in the 1976 film Taxi Driver.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Ronald_Reagan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/John_Hinckley%2C_Jr._Mugshot_%28colour_corrected%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/John_Hinckley%2C_Jr._Mugshot_%28colour_corrected%29.png/330px-John_Hinckley%2C_Jr._Mugshot_%28colour_corrected%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "john_hinckley,_jr._mugshot_(colour_corrected).png",
+          "width": 403,
+          "height": 584,
+          "title": "John Hinckley Jr.",
+          "description": "Attempted assassin of Ronald Reagan (born 1955)",
+          "extract": "John Warnock Hinckley Jr. is an American man who attempted to assassinate U.S. president Ronald Reagan as he left the Hilton Hotel in Washington, D.C., on March 30, 1981, two months after Reagan's first inauguration. Using a revolver, Hinckley wounded Reagan, MPD police officer Thomas Delahanty, Secret Service agent Tim McCarthy, and White House Press Secretary James Brady. Brady was left disabled and died 33 years later from his injuries.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_Hinckley_Jr.",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Ronald Reagan",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-30-1977-a92ac6e7",
+      "year": 1977,
+      "text": "Annie Hall had its first screening at the LA Film Festival; it was voted the funniest screenplay ever by members of the Writers Guild of America.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/e/e6/Anniehallposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/Anniehallposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "anniehallposter.jpg",
+        "width": 250,
+        "height": 383,
+        "title": "Annie Hall",
+        "description": "1977 film by Woody Allen",
+        "extract": "Annie Hall is a 1977 American satirical romantic comedy-drama film directed by Woody Allen from a screenplay written by Allen and Marshall Brickman, and produced by Allen's manager, Charles H. Joffe. The film stars Allen as Alvy Singer, who tries to figure out the reasons for the failure of his relationship with the eponymous female lead, played by Diane Keaton in a role written specifically for her.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Annie_Hall",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/e6/Anniehallposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/Anniehallposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "anniehallposter.jpg",
+          "width": 250,
+          "height": 383,
+          "title": "Annie Hall",
+          "description": "1977 film by Woody Allen",
+          "extract": "Annie Hall is a 1977 American satirical romantic comedy-drama film directed by Woody Allen from a screenplay written by Allen and Marshall Brickman, and produced by Allen's manager, Charles H. Joffe. The film stars Allen as Alvy Singer, who tries to figure out the reasons for the failure of his relationship with the eponymous female lead, played by Diane Keaton in a role written specifically for her.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Annie_Hall",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Culver_City_ArcLight_-_LA_Film_Festival.jpg/3840px-Culver_City_ArcLight_-_LA_Film_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Culver_City_ArcLight_-_LA_Film_Festival.jpg/330px-Culver_City_ArcLight_-_LA_Film_Festival.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "culver_city_arclight_-_la_film_festival.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": "LA Film Festival",
+          "description": "Annual film festival held in Los Angeles, California, U.S.",
+          "extract": "The LA Film Festival was an annual film festival that was held in Los Angeles and usually took place in June. It showcased independent, international, feature, documentary and short films, as well as web series, music videos, episodic television and panel conversations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/LA_Film_Festival",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Writer%27s_Guild_of_America_East_Soladarity_Rally_in_Washington_Square_%282070237174%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Writer%27s_Guild_of_America_East_Soladarity_Rally_in_Washington_Square_%282070237174%29.jpg/330px-Writer%27s_Guild_of_America_East_Soladarity_Rally_in_Washington_Square_%282070237174%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "writer's_guild_of_america_east_soladarity_rally_in_washington_square_(2070237174).jpg",
+          "width": 2592,
+          "height": 3872,
+          "title": "Writers Guild of America",
+          "description": "US TV and film writer labor unions",
+          "extract": "The Writers Guild of America (WGA) are two independent American sister labor unions, each representing writers in film, television, radio, and online media:The Writers Guild of America East (WGAE) is headquartered in New York City and is affiliated with the AFL-CIO national trade union center\nThe Writers Guild of America West (WGAW) is headquartered in Los Angeles and is unaffiliated with any larger national trade union.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Writers_Guild_of_America",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Annie Hall",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Annie_Hall",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-30-1967-8f4a349d",
+      "year": 1967,
+      "text": "Delta Air Lines Flight 9877 crashes at Louis Armstrong New Orleans International Airport, killing 19.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/N802E_Delta_Air_Lines_Douglas_DC-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/N802E_Delta_Air_Lines_Douglas_DC-8.jpg/330px-N802E_Delta_Air_Lines_Douglas_DC-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "n802e_delta_air_lines_douglas_dc-8.jpg",
+        "width": 1600,
+        "height": 999,
+        "title": "Delta Air Lines Flight 9877",
+        "description": "1967 aviation accident",
+        "extract": "Delta Air Lines Flight 9877 was a scheduled training flight of a Douglas DC-8-51 that crashed on approach to New Orleans International Airport in Kenner, Louisiana, on March 30, 1967. The aircraft, registered N802E, struck a residential area while conducting a simulated two-engine-out landing, killing all six people on board—including five crewmembers and a FAA observer. Thirteen people were killed on the ground. Several homes, part of a motel complex, and the aircraft were destroyed. The National Transportation Safety Board (NTSB) determined the accident was caused by improper supervision by the instructor and improper use of flight and power controls by both the instructor and the captain-trainee, resulting in loss of control.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Delta_Air_Lines_Flight_9877",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/N802E_Delta_Air_Lines_Douglas_DC-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/N802E_Delta_Air_Lines_Douglas_DC-8.jpg/330px-N802E_Delta_Air_Lines_Douglas_DC-8.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "n802e_delta_air_lines_douglas_dc-8.jpg",
+          "width": 1600,
+          "height": 999,
+          "title": "Delta Air Lines Flight 9877",
+          "description": "1967 aviation accident",
+          "extract": "Delta Air Lines Flight 9877 was a scheduled training flight of a Douglas DC-8-51 that crashed on approach to New Orleans International Airport in Kenner, Louisiana, on March 30, 1967. The aircraft, registered N802E, struck a residential area while conducting a simulated two-engine-out landing, killing all six people on board—including five crewmembers and a FAA observer. Thirteen people were killed on the ground. Several homes, part of a motel complex, and the aircraft were destroyed. The National Transportation Safety Board (NTSB) determined the accident was caused by improper supervision by the instructor and improper use of flight and power controls by both the instructor and the captain-trainee, resulting in loss of control.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Delta_Air_Lines_Flight_9877",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Louis_Armstrong_New_Orleans_International_Airport_-_Louisiana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Louis_Armstrong_New_Orleans_International_Airport_-_Louisiana.jpg/330px-Louis_Armstrong_New_Orleans_International_Airport_-_Louisiana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "louis_armstrong_new_orleans_international_airport_-_louisiana.jpg",
+          "width": 587,
+          "height": 519,
+          "title": "Louis Armstrong New Orleans International Airport",
+          "description": "Airport serving New Orleans, Louisiana, United States",
+          "extract": "Louis Armstrong New Orleans International Airport is an international airport under Class B airspace in the City of Kenner, Jefferson Parish, Louisiana, United States. It is owned by the City of New Orleans and is 11 miles (18 km) west of downtown New Orleans.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Louis_Armstrong_New_Orleans_International_Airport",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Delta Air Lines Flight 9877",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Delta_Air_Lines_Flight_9877",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-30-1964-b65111c9",
+      "year": 1964,
+      "text": "Jeopardy!, the popular American game show created by Merv Griffin, made its debut on the NBC television network.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Merv_Griffin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Merv_Griffin.jpg/330px-Merv_Griffin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "merv_griffin.jpg",
+        "width": 661,
+        "height": 801,
+        "title": "Merv Griffin",
+        "description": "American talk show host (1925–2007)",
+        "extract": "Mervyn Edward Griffin Jr. was an American television show host and media mogul. He began his career as a radio and big band singer, later appearing in film and on Broadway. From 1962 to 1986, Griffin hosted his own talk show, The Merv Griffin Show. Griffin also created several game shows, including Jeopardy! and Wheel of Fortune, through his production companies, Merv Griffin Enterprises and Merv Griffin Entertainment.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Merv_Griffin",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Merv_Griffin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Merv_Griffin.jpg/330px-Merv_Griffin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "merv_griffin.jpg",
+          "width": 661,
+          "height": 801,
+          "title": "Merv Griffin",
+          "description": "American talk show host (1925–2007)",
+          "extract": "Mervyn Edward Griffin Jr. was an American television show host and media mogul. He began his career as a radio and big band singer, later appearing in film and on Broadway. From 1962 to 1986, Griffin hosted his own talk show, The Merv Griffin Show. Griffin also created several game shows, including Jeopardy! and Wheel of Fortune, through his production companies, Merv Griffin Enterprises and Merv Griffin Entertainment.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Merv_Griffin",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Jeopardy!",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Jeopardy!",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-30-1950-30127667",
+      "year": 1950,
+      "text": "Usmar Ismail began shooting Darah dan Doa, widely recognised as the first Indonesian film.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Usmar_Ismail%2C_Peran_Pemuda_dalam_Kebangkitan_Film_Indonesia%2C_p177.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Usmar_Ismail%2C_Peran_Pemuda_dalam_Kebangkitan_Film_Indonesia%2C_p177.jpg/330px-Usmar_Ismail%2C_Peran_Pemuda_dalam_Kebangkitan_Film_Indonesia%2C_p177.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "usmar_ismail,_peran_pemuda_dalam_kebangkitan_film_indonesia,_p177.jpg",
+        "width": 464,
+        "height": 595,
+        "title": "Usmar Ismail",
+        "description": "Indonesian film director (1921–1971)",
+        "extract": "Usmar Ismail was an Indonesian film director, author, journalist and revolutionary of Minangkabau descent. He is widely regarded as the native Indonesian pioneer of Indonesian cinema.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Usmar_Ismail",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Usmar_Ismail%2C_Peran_Pemuda_dalam_Kebangkitan_Film_Indonesia%2C_p177.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Usmar_Ismail%2C_Peran_Pemuda_dalam_Kebangkitan_Film_Indonesia%2C_p177.jpg/330px-Usmar_Ismail%2C_Peran_Pemuda_dalam_Kebangkitan_Film_Indonesia%2C_p177.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "usmar_ismail,_peran_pemuda_dalam_kebangkitan_film_indonesia,_p177.jpg",
+          "width": 464,
+          "height": 595,
+          "title": "Usmar Ismail",
+          "description": "Indonesian film director (1921–1971)",
+          "extract": "Usmar Ismail was an Indonesian film director, author, journalist and revolutionary of Minangkabau descent. He is widely regarded as the native Indonesian pioneer of Indonesian cinema.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Usmar_Ismail",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Darah_dan_Doa_ad%2C_Aneka_1.13_1_September_1950%2C_p20_%28wiki%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/d/d0/Darah_dan_Doa_ad%2C_Aneka_1.13_1_September_1950%2C_p20_%28wiki%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "darah_dan_doa_ad,_aneka_1.13_1_september_1950,_p20_(wiki).jpg",
+          "width": 269,
+          "height": 371,
+          "title": "Darah dan Doa",
+          "description": "1950 Indonesian war film by Usmar Ismail",
+          "extract": "Darah dan Doa is a 1950 Indonesian war film directed and produced by Usmar Ismail, telling the story of the Siliwangi Division and its leader Captain Sudarto on a march to West Java. Following Ismail's Dutch-produced Tjitra (1949), Darah dan Doa is often cited as the first 'Indonesian' film, and the film's first day of shooting – 30 March – is celebrated in Indonesia as National Film Day.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Darah_dan_Doa",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Usmar Ismail",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Usmar_Ismail",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-30-2018-194057d7",
+      "year": 2018,
+      "text": "The Israeli Army kills 17 Palestinians and wounds 1,400 in Gaza during Land Day protests.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/OCHAoPT_2018_Gaza_border_protests_31_may_2018.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/OCHAoPT_2018_Gaza_border_protests_31_may_2018.png/330px-OCHAoPT_2018_Gaza_border_protests_31_may_2018.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ochaopt_2018_gaza_border_protests_31_may_2018.png",
+        "width": 628,
+        "height": 491,
+        "title": "2018–2019 Gaza border protests",
+        "description": "Political demonstrations in Gaza",
+        "extract": "The 2018–2019 Gaza border protests, also known as the Great March of Return, were a series of demonstrations held each Friday in the Gaza Strip near the Gaza–Israel barrier from 30 March 2018 until 27 December 2019, in which Israel killed a total of 223 Palestinians. The demonstrators demanded that the Palestinian refugees must be allowed to return to lands they were displaced from in what is now Israel. They protested against Israel's land, air and sea blockade of Gaza and the United States recognition of Jerusalem as capital of Israel.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2018%E2%80%932019_Gaza_border_protests",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/OCHAoPT_2018_Gaza_border_protests_31_may_2018.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/OCHAoPT_2018_Gaza_border_protests_31_may_2018.png/330px-OCHAoPT_2018_Gaza_border_protests_31_may_2018.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ochaopt_2018_gaza_border_protests_31_may_2018.png",
+          "width": 628,
+          "height": 491,
+          "title": "2018–2019 Gaza border protests",
+          "description": "Political demonstrations in Gaza",
+          "extract": "The 2018–2019 Gaza border protests, also known as the Great March of Return, were a series of demonstrations held each Friday in the Gaza Strip near the Gaza–Israel barrier from 30 March 2018 until 27 December 2019, in which Israel killed a total of 223 Palestinians. The demonstrators demanded that the Palestinian refugees must be allowed to return to lands they were displaced from in what is now Israel. They protested against Israel's land, air and sea blockade of Gaza and the United States recognition of Jerusalem as capital of Israel.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2018%E2%80%932019_Gaza_border_protests",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Israel Defense Forces",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Israel_Defense_Forces",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-30-2011-b4cd3c1b",
+      "year": 2011,
+      "text": "Min Aung Hlaing is appointed as the Commander-in-Chief of Myanmar's armed forces.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/President_Min_Aung_Hlaing_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/President_Min_Aung_Hlaing_2026_%28cropped%29.jpg/330px-President_Min_Aung_Hlaing_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "president_min_aung_hlaing_2026_(cropped).jpg",
+        "width": 2936,
+        "height": 3916,
+        "title": "Min Aung Hlaing",
+        "description": "Burmese politician and military officer (born 1956)",
+        "extract": "Min Aung Hlaing is a Burmese politician and retired military officer who has been the 11th president of Myanmar since April 2026, having ruled the country continuously since seizing power in February 2021 through a military coup d'état against the elected government. Prior to the start of his nominally civilian presidency, he was a military ruler under various titles. He was appointed the commander-in-chief of Defence Services—the leader of the Tatmadaw—in 2011 and remained in that post through the period of military rule, until stepping down in 2026 to become the president.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Min_Aung_Hlaing",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/President_Min_Aung_Hlaing_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/President_Min_Aung_Hlaing_2026_%28cropped%29.jpg/330px-President_Min_Aung_Hlaing_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "president_min_aung_hlaing_2026_(cropped).jpg",
+          "width": 2936,
+          "height": 3916,
+          "title": "Min Aung Hlaing",
+          "description": "Burmese politician and military officer (born 1956)",
+          "extract": "Min Aung Hlaing is a Burmese politician and retired military officer who has been the 11th president of Myanmar since April 2026, having ruled the country continuously since seizing power in February 2021 through a military coup d'état against the elected government. Prior to the start of his nominally civilian presidency, he was a military ruler under various titles. He was appointed the commander-in-chief of Defence Services—the leader of the Tatmadaw—in 2011 and remained in that post through the period of military rule, until stepping down in 2026 to become the president.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Min_Aung_Hlaing",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Min_Aung_Hlaing_Signature.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Min_Aung_Hlaing_Signature.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "min_aung_hlaing_signature.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Min_Aung_Hlaing_Signature",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Min_Aung_Hlaing",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Min Aung Hlaing",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Min_Aung_Hlaing",
+      "relatedPagesCount": 3
+    }
+  ]
+}

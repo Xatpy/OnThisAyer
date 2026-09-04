@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 10,
+    "day": 20,
+    "formatted": "10-20"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "10-20-1995-1d505b7d",
+      "year": 1995,
+      "text": "Space Shuttle Columbia launches on STS-73.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+        "width": 868,
+        "height": 521,
+        "title": "Space Shuttle Columbia",
+        "description": "Space Shuttle orbiter (1981–2003)",
+        "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+          "width": 868,
+          "height": 521,
+          "title": "Space Shuttle Columbia",
+          "description": "Space Shuttle orbiter (1981–2003)",
+          "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Columbia_with_Spacelab_Module_LM1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Columbia_with_Spacelab_Module_LM1.jpg/330px-Columbia_with_Spacelab_Module_LM1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "columbia_with_spacelab_module_lm1.jpg",
+          "width": 3000,
+          "height": 1982,
+          "title": "STS-73",
+          "description": "1995 American crewed spaceflight",
+          "extract": "STS-73 was a Space Shuttle program mission, during October–November 1995, on board the Space Shuttle Columbia. The mission was the second mission for the United States Microgravity Laboratory. The crew, who spent 16 days in space, were broken up into 2 teams, the red team and the blue team. The mission also included several Detailed Test Objectives or DTO's.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-73",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/566175main_columbia-opf.jpg/1280px-566175main_columbia-opf.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/566175main_columbia-opf.jpg/1280px-566175main_columbia-opf.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "566175main_columbia-opf.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Columbia in the Orbiter Processing Facility after delivery to Kennedy Space Center in 1979. About 8,000 of 30,000 tiles had not yet been installed.[7]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Columbia",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-20-1952-7340358c",
+      "year": 1952,
+      "text": "The Governor of Kenya Evelyn Baring declares a state of emergency and begins arresting hundreds of suspected leaders of the Mau Mau Uprising.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Evelyn_Baring%2C_I_baron_Howick_of_Glendale1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Evelyn_Baring%2C_I_baron_Howick_of_Glendale1.jpg/330px-Evelyn_Baring%2C_I_baron_Howick_of_Glendale1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "evelyn_baring,_i_baron_howick_of_glendale1.jpg",
+        "width": 350,
+        "height": 642,
+        "title": "Evelyn Baring, 1st Baron Howick of Glendale",
+        "description": "British diplomat (1903–1973)",
+        "extract": "Evelyn Baring, 1st Baron Howick of Glendale, was Governor of Southern Rhodesia from 1942 to 1944, High Commissioner for Southern Africa from 1944 to 1951, and Governor of Kenya from 1952 to 1959. Baring played an integral role in the suppression of the Mau Mau rebellion. Together with Colonial Secretary Alan Lennox-Boyd, Baring played a significant role in the government's efforts to deal with the rebellion, and see Kenya through to independence. He was appointed as Baron Howick of Glendale in 1960 by Queen Elizabeth II.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Evelyn_Baring%2C_1st_Baron_Howick_of_Glendale",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Evelyn_Baring%2C_I_baron_Howick_of_Glendale1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Evelyn_Baring%2C_I_baron_Howick_of_Glendale1.jpg/330px-Evelyn_Baring%2C_I_baron_Howick_of_Glendale1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "evelyn_baring,_i_baron_howick_of_glendale1.jpg",
+          "width": 350,
+          "height": 642,
+          "title": "Evelyn Baring, 1st Baron Howick of Glendale",
+          "description": "British diplomat (1903–1973)",
+          "extract": "Evelyn Baring, 1st Baron Howick of Glendale, was Governor of Southern Rhodesia from 1942 to 1944, High Commissioner for Southern Africa from 1944 to 1951, and Governor of Kenya from 1952 to 1959. Baring played an integral role in the suppression of the Mau Mau rebellion. Together with Colonial Secretary Alan Lennox-Boyd, Baring played a significant role in the government's efforts to deal with the rebellion, and see Kenya through to independence. He was appointed as Baron Howick of Glendale in 1960 by Queen Elizabeth II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Evelyn_Baring%2C_1st_Baron_Howick_of_Glendale",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/KAR_Mau_Mau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/KAR_Mau_Mau.jpg/330px-KAR_Mau_Mau.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kar_mau_mau.jpg",
+          "width": 800,
+          "height": 617,
+          "title": "Mau Mau rebellion",
+          "description": "Anti-colonial Insurgency in Kenya (1952–1960)",
+          "extract": "The Mau Mau rebellion (1952–1960), also known as the Mau Mau uprising or Kenya Emergency, was an armed conflict in the British Colony of Kenya between the Kenya Land and Freedom Army (KLFA) and the British colonial authorities. While the KLFA was primarily composed of Kikuyu, Meru, and Embu fighters, the movement also drew support from units of Kamba and Maasai. Groups such as the Luo and Kalenjin – who had led significant earlier resistance movements against colonial establishment, such as the Nandi Resistance (1890–1906) were largely not part of the KLFA's core structure. Instead, many from these communities served in the King's African Rifles (KAR), the colonial military force through which the British maintained internal security and quelled the uprising. The KLFA fought against the British Army and the local Kenya Regiment, which included European settlers and African loyalists.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mau_Mau_rebellion",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Evelyn Baring, 1st Baron Howick of Glendale",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Evelyn_Baring%2C_1st_Baron_Howick_of_Glendale",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-20-2011-6ec457d3",
+      "year": 2011,
+      "text": "First Libyan Civil War: Muammar Gaddafi, the deposed Libyan leader, was captured by rebel forces during the Battle of Sirte, and was killed shortly thereafter.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Libyan_Civil_War_in_October_2011_%2809%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Libyan_Civil_War_in_October_2011_%2809%29.jpg/330px-Libyan_Civil_War_in_October_2011_%2809%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "libyan_civil_war_in_october_2011_(09).jpg",
+        "width": 600,
+        "height": 396,
+        "title": "Libyan civil war (2011)",
+        "description": "Armed conflict in North Africa",
+        "extract": "The Libyan Civil War, also known as the First Libyan Civil War and Libyan Revolution, was an armed conflict fought in 2011 in the North African country of Libya between forces loyal to Colonel Muammar Gaddafi and rebel groups attempting to oust his government. The war was ignited by protests in Benghazi beginning on 15 February 2011 inspired by the Arab Spring, which led to clashes with security forces and armed protesters. The protests escalated into a rebellion spreading across the country, with the forces opposing Gaddafi establishing an interim governing body, the National Transitional Council.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Libyan_civil_war_(2011)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Libyan_Civil_War_in_October_2011_%2809%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Libyan_Civil_War_in_October_2011_%2809%29.jpg/330px-Libyan_Civil_War_in_October_2011_%2809%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "libyan_civil_war_in_october_2011_(09).jpg",
+          "width": 600,
+          "height": 396,
+          "title": "Libyan civil war (2011)",
+          "description": "Armed conflict in North Africa",
+          "extract": "The Libyan Civil War, also known as the First Libyan Civil War and Libyan Revolution, was an armed conflict fought in 2011 in the North African country of Libya between forces loyal to Colonel Muammar Gaddafi and rebel groups attempting to oust his government. The war was ignited by protests in Benghazi beginning on 15 February 2011 inspired by the Arab Spring, which led to clashes with security forces and armed protesters. The protests escalated into a rebellion spreading across the country, with the forces opposing Gaddafi establishing an interim governing body, the National Transitional Council.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Libyan_civil_war_(2011)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Muammar_al-Gaddafi_at_the_AU_summit.jpg/330px-Muammar_al-Gaddafi_at_the_AU_summit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "muammar_al-gaddafi_at_the_au_summit.jpg",
+          "width": 2832,
+          "height": 4256,
+          "title": "Muammar Gaddafi",
+          "description": "Leader of Libya from 1969 to 2011",
+          "extract": "Muammar Muhammad Abu Minyar al-Gaddafi was a Libyan military officer, revolutionary, politician, and political theorist who ruled Libya from 1969 until his overthrow by Libyan rebel forces in 2011 during the First Libyan Civil War. He came to power through a bloodless military coup, first becoming Revolutionary Chairman of the Libyan Arab Republic from 1969 to 1977, Secretary General of the General People's Congress from 1977 to 1979, and then the Brotherly Leader of the Great Socialist People's Libyan Arab Jamahiriya from 1979 to 2011. Initially ideologically committed to Arab nationalism and Arab socialism, Gaddafi later ruled according to his own Third International Theory.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USS_Barry_%28DDG-52%29_launching_a_Tomahawk_missile_in_support_of_Operation_Odyssey_Dawn.jpg/1280px-USS_Barry_%28DDG-52%29_launching_a_Tomahawk_missile_in_support_of_Operation_Odyssey_Dawn.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/USS_Barry_%28DDG-52%29_launching_a_Tomahawk_missile_in_support_of_Operation_Odyssey_Dawn.jpg/1280px-USS_Barry_%28DDG-52%29_launching_a_Tomahawk_missile_in_support_of_Operation_Odyssey_Dawn.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "uss_barry_(ddg-52)_launching_a_tomahawk_missile_in_support_of_operation_odyssey_dawn.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "USS_Barry_(DDG-52)_launching_a_Tomahawk_missile_in_support_of_Operation_Odyssey_Dawn",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Libyan_civil_war_(2011)",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Libyan civil war (2011)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Libyan_civil_war_(2011)",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "10-20-1910-4b2d7f16",
+      "year": 1910,
+      "text": "British ocean liner RMS Olympic is launched.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Olympic_in_New_York_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Olympic_in_New_York_cropped.jpg/330px-Olympic_in_New_York_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "olympic_in_new_york_cropped.jpg",
+        "width": 1604,
+        "height": 1098,
+        "title": "RMS Olympic",
+        "description": "British ocean liner from 1911 to 1935",
+        "extract": "RMS Olympic was a British ocean liner and the lead ship of the White Star Line's trio of Olympic-class liners. Olympic had a career spanning 24 years from 1911 to 1935, in contrast to her short-lived sister ships, RMS Titanic and the Royal Navy hospital ship HMHS Britannic. This included service as a troopship with the name HMT Olympic during the First World War, which gained her the nickname \"Old Reliable\", and during which she rammed and sank the U-boat U-103. She returned to civilian service after the war and served successfully as an ocean liner throughout the 1920s and into the first half of the 1930s, although increased competition, and the slump in trade during the Great Depression after 1930, made her operation increasingly unprofitable. Olympic was withdrawn from service on 12 April 1935, and later sold for scrap, which was completed by 1939.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/RMS_Olympic",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Olympic_in_New_York_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Olympic_in_New_York_cropped.jpg/330px-Olympic_in_New_York_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "olympic_in_new_york_cropped.jpg",
+          "width": 1604,
+          "height": 1098,
+          "title": "RMS Olympic",
+          "description": "British ocean liner from 1911 to 1935",
+          "extract": "RMS Olympic was a British ocean liner and the lead ship of the White Star Line's trio of Olympic-class liners. Olympic had a career spanning 24 years from 1911 to 1935, in contrast to her short-lived sister ships, RMS Titanic and the Royal Navy hospital ship HMHS Britannic. This included service as a troopship with the name HMT Olympic during the First World War, which gained her the nickname \"Old Reliable\", and during which she rammed and sank the U-boat U-103. She returned to civilian service after the war and served successfully as an ocean liner throughout the 1920s and into the first half of the 1930s, although increased competition, and the slump in trade during the Great Depression after 1930, made her operation increasingly unprofitable. Olympic was withdrawn from service on 12 April 1935, and later sold for scrap, which was completed by 1939.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/RMS_Olympic",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RMS_Queen_Mary_2_and_MS_Rotterdam_in_Quebec_City.png/1280px-RMS_Queen_Mary_2_and_MS_Rotterdam_in_Quebec_City.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RMS_Queen_Mary_2_and_MS_Rotterdam_in_Quebec_City.png/1280px-RMS_Queen_Mary_2_and_MS_Rotterdam_in_Quebec_City.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "rms_queen_mary_2_and_ms_rotterdam_in_quebec_city.png",
+          "width": 800,
+          "height": 600,
+          "title": "Some of the last remaining ships that were designed as Ocean Liners, RMS Queen Mary 2 and MS Rotterdam.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ocean_liner",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/The_Lusitania_at_end_of_record_voyage_1907_LC-USZ62-64956.jpg/1280px-The_Lusitania_at_end_of_record_voyage_1907_LC-USZ62-64956.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/The_Lusitania_at_end_of_record_voyage_1907_LC-USZ62-64956.jpg/1280px-The_Lusitania_at_end_of_record_voyage_1907_LC-USZ62-64956.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "the_lusitania_at_end_of_record_voyage_1907_lc-usz62-64956.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The_Lusitania_at_end_of_record_voyage_1907_LC-USZ62-64956",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ocean_liner",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Ocean liner",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ocean_liner",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-20-1973-e1ef8331",
+      "year": 1973,
+      "text": "Watergate scandal: Attorney General Elliot Richardson and his deputy William Ruckelshaus resigned after refusing to obey President Richard Nixon's order to have Archibald Cox fired.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/330px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "watergate_complex.jpg",
+        "width": 2071,
+        "height": 1584,
+        "title": "Watergate scandal",
+        "description": "1970s political scandal in the U.S.",
+        "extract": "The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex. Nixon's efforts to conceal his administration's involvement led to an impeachment process and ultimately to his resignation in August 1974.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Watergate_scandal",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/330px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "watergate_complex.jpg",
+          "width": 2071,
+          "height": 1584,
+          "title": "Watergate scandal",
+          "description": "1970s political scandal in the U.S.",
+          "extract": "The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex. Nixon's efforts to conceal his administration's involvement led to an impeachment process and ultimately to his resignation in August 1974.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Watergate_scandal",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/ElliotLeeRichardson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ElliotLeeRichardson.jpg/330px-ElliotLeeRichardson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "elliotleerichardson.jpg",
+          "width": 558,
+          "height": 684,
+          "title": "Elliot Richardson",
+          "description": "American lawyer and politician (1920–1999)",
+          "extract": "Elliot Lee Richardson was an American lawyer and politician who was a member of the cabinets of Richard Nixon and Gerald Ford between 1970 and 1977. A member of the Republican Party, Richardson is one of two persons to hold four cabinet positions, the other being George Shultz. As United States attorney general, Richardson played a prominent role in the Watergate scandal when he resigned in protest against President Nixon's order to fire special prosecutor Archibald Cox. His resignation precipitated a crisis of confidence in Nixon which ultimately led to the president's resignation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elliot_Richardson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/William-ruckelshaus-first-administrator-of-epa-may-1972_7006937562_o_Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/William-ruckelshaus-first-administrator-of-epa-may-1972_7006937562_o_Crop.jpg/330px-William-ruckelshaus-first-administrator-of-epa-may-1972_7006937562_o_Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "william-ruckelshaus-first-administrator-of-epa-may-1972_7006937562_o_crop.jpg",
+          "width": 1476,
+          "height": 1966,
+          "title": "William Ruckelshaus",
+          "description": "American government official (1932–2019)",
+          "extract": "William Doyle Ruckelshaus was an American attorney and government official.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/William_Ruckelshaus",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Watergate scandal",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Watergate_scandal",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "10-20-1982-c9314e76",
+      "year": 1982,
+      "text": "During a UEFA Cup match between Spartak Moscow and Haarlem, a large number of attendees trying to leave the Central Lenin Stadium resulted in a stampede that caused 66 deaths.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/LuzhnikiStadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/LuzhnikiStadium.jpg/330px-LuzhnikiStadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "luzhnikistadium.jpg",
+        "width": 1600,
+        "height": 1080,
+        "title": "Luzhniki Stadium",
+        "description": "Stadium in Moscow, Russia",
+        "extract": "The Grand Sports Arena of the Luzhniki Olympic Complex, commonly known as\nLuzhniki Stadium and formerly, Lenin Stadium, is the national stadium of Russia, located in its capital city, Moscow. Its total seating capacity of 81,000 makes it the largest football stadium in Russia and the sixth-largest stadium in Europe. The stadium is a part of the Luzhniki Olympic Complex, and is located in Khamovniki District of the Central Administrative Okrug of Moscow city. The name Luzhniki derives from the flood meadows in the bend of Moskva River where the stadium was built, translating roughly as \"The Meadows\". The stadium is located at Luzhniki Street, 24, Moscow.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Luzhniki_Stadium",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/LuzhnikiStadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/LuzhnikiStadium.jpg/330px-LuzhnikiStadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "luzhnikistadium.jpg",
+          "width": 1600,
+          "height": 1080,
+          "title": "Luzhniki Stadium",
+          "description": "Stadium in Moscow, Russia",
+          "extract": "The Grand Sports Arena of the Luzhniki Olympic Complex, commonly known as\nLuzhniki Stadium and formerly, Lenin Stadium, is the national stadium of Russia, located in its capital city, Moscow. Its total seating capacity of 81,000 makes it the largest football stadium in Russia and the sixth-largest stadium in Europe. The stadium is a part of the Luzhniki Olympic Complex, and is located in Khamovniki District of the Central Administrative Okrug of Moscow city. The name Luzhniki derives from the flood meadows in the bend of Moskva River where the stadium was built, translating roughly as \"The Meadows\". The stadium is located at Luzhniki Street, 24, Moscow.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Luzhniki_Stadium",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "1982–83 UEFA Cup",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1982%E2%80%9383_UEFA_Cup",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "10-20-1977-5fd42c61",
+      "year": 1977,
+      "text": "Three members of the American rock band Lynyrd Skynyrd died when their chartered plane crashed in Gillsburg, Mississippi.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Lynyrd_Skynyrd_%281977%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lynyrd_Skynyrd_%281977%29.jpg/330px-Lynyrd_Skynyrd_%281977%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "lynyrd_skynyrd_(1977).jpg",
+        "width": 1206,
+        "height": 910,
+        "title": "Lynyrd Skynyrd",
+        "description": "American Southern rock band",
+        "extract": "Lynyrd Skynyrd is an American rock band formed in Jacksonville, Florida, in 1964. The group originally formed as My Backyard and comprised Ronnie Van Zant (vocals), Gary Rossington (guitar), Allen Collins (guitar), Larry Junstrom (bass), and Bob Burns (drums). The band spent four years touring small venues under various names and with several lineup changes before deciding on \"Lynyrd Skynyrd\" in 1968. The band released its first album, (Pronounced 'Lĕh-'nérd 'Skin-'nérd), in 1973. By then, they had settled on a lineup that included bassist Leon Wilkeson, keyboardist Billy Powell, and guitarist Ed King. Burns left and was replaced by Artimus Pyle in 1974. King left in 1975 and was replaced by Steve Gaines in 1976. At the height of their fame in the 1970s, the band popularized the Southern rock genre with songs such as \"Sweet Home Alabama\" and \"Free Bird\". After releasing five studio albums and one live album, the band's career was abruptly halted on October 20, 1977, when their chartered airplane crashed, killing Ronnie Van Zant, Steve Gaines, and backup singer Cassie Gaines, and seriously injuring the rest of the band.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Lynyrd_Skynyrd_%281977%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lynyrd_Skynyrd_%281977%29.jpg/330px-Lynyrd_Skynyrd_%281977%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lynyrd_skynyrd_(1977).jpg",
+          "width": 1206,
+          "height": 910,
+          "title": "Lynyrd Skynyrd",
+          "description": "American Southern rock band",
+          "extract": "Lynyrd Skynyrd is an American rock band formed in Jacksonville, Florida, in 1964. The group originally formed as My Backyard and comprised Ronnie Van Zant (vocals), Gary Rossington (guitar), Allen Collins (guitar), Larry Junstrom (bass), and Bob Burns (drums). The band spent four years touring small venues under various names and with several lineup changes before deciding on \"Lynyrd Skynyrd\" in 1968. The band released its first album, (Pronounced 'Lĕh-'nérd 'Skin-'nérd), in 1973. By then, they had settled on a lineup that included bassist Leon Wilkeson, keyboardist Billy Powell, and guitarist Ed King. Burns left and was replaced by Artimus Pyle in 1974. King left in 1975 and was replaced by Steve Gaines in 1976. At the height of their fame in the 1970s, the band popularized the Southern rock genre with songs such as \"Sweet Home Alabama\" and \"Free Bird\". After releasing five studio albums and one live album, the band's career was abruptly halted on October 20, 1977, when their chartered airplane crashed, killing Ronnie Van Zant, Steve Gaines, and backup singer Cassie Gaines, and seriously injuring the rest of the band.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Convair_240-14_USGS_%286292926884%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Convair_240-14_USGS_%286292926884%29.jpg/330px-Convair_240-14_USGS_%286292926884%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "convair_240-14_usgs_(6292926884).jpg",
+          "width": 1079,
+          "height": 589,
+          "title": "Lynyrd Skynyrd plane crash",
+          "description": "1977 aviation accident in Mississippi, USA",
+          "extract": "On October 20, 1977, a Convair CV-240 passenger aircraft ran out of fuel and crashed in a wooded area near Gillsburg, Mississippi, United States. Chartered by the rock band Lynyrd Skynyrd from L & J Company of Addison, Texas, it was flying from Greenville, South Carolina, to Baton Rouge, Louisiana, crashing near its destination.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_plane_crash",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RobertELeeHSJacksonvilleFlorida.jpg/1280px-RobertELeeHSJacksonvilleFlorida.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RobertELeeHSJacksonvilleFlorida.jpg/1280px-RobertELeeHSJacksonvilleFlorida.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "roberteleehsjacksonvilleflorida.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Leonard Skinner was a physical education instructor at Robert E. Lee High School (pictured) in Jacksonville, Florida, known for his strict enforcement of the school's regulations on male hair length.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Lynyrd Skynyrd",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Lynyrd_Skynyrd",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-20-1967-d9829115",
+      "year": 1967,
+      "text": "Roger Patterson and Robert Gimlin filmed an unidentified subject, which they claimed was Bigfoot, at Six Rivers National Forest in California.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Patterson_Gimlin_Bigfoot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Patterson_Gimlin_Bigfoot.jpg/330px-Patterson_Gimlin_Bigfoot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "patterson_gimlin_bigfoot.jpg",
+        "width": 994,
+        "height": 571,
+        "title": "Patterson–Gimlin film",
+        "description": "1967 film allegedly containing footage of Bigfoot",
+        "extract": "The Patterson–Gimlin film is a 1967 American short motion picture, created by Roger Patterson and Robert Gimlin, that depicts an unidentified subject that the filmmakers stated was a Bigfoot. The footage was shot in 1967 in Northern California, and has since been subjected to many attempts to authenticate or debunk it.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Patterson_Gimlin_Bigfoot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Patterson_Gimlin_Bigfoot.jpg/330px-Patterson_Gimlin_Bigfoot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "patterson_gimlin_bigfoot.jpg",
+          "width": 994,
+          "height": 571,
+          "title": "Patterson–Gimlin film",
+          "description": "1967 film allegedly containing footage of Bigfoot",
+          "extract": "The Patterson–Gimlin film is a 1967 American short motion picture, created by Roger Patterson and Robert Gimlin, that depicts an unidentified subject that the filmmakers stated was a Bigfoot. The footage was shot in 1967 in Northern California, and has since been subjected to many attempts to authenticate or debunk it.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Smith_River_near_Crescent_City%2C_CA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smith_River_near_Crescent_City%2C_CA.jpg/330px-Smith_River_near_Crescent_City%2C_CA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "smith_river_near_crescent_city,_ca.jpg",
+          "width": 2000,
+          "height": 3008,
+          "title": "Six Rivers National Forest",
+          "description": "National forest in California, USA",
+          "extract": "The Six Rivers National Forest is a U.S. National Forest located in the northwestern corner of California.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Six_Rivers_National_Forest",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Patterson–Gimlin film",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Patterson%E2%80%93Gimlin_film",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-20-1951-a6954d6f",
+      "year": 1951,
+      "text": "African-American college football player Johnny Bright was the victim of an on-field assault, eventually leading to changes in NCAA football rules that mandated the use of more protective helmets with face guards.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/US_Navy_051203-N-2383B-223_U.S._Naval_Academy_Midshipman_fullback_Adam_Ballard_%2822%29_rushes_for_one_of_two_touchdowns_while_being_persued_by_Army_defenders_Cason_Shrode_%2854%29_and_Taylor_Justice_%2842%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/US_Navy_051203-N-2383B-223_U.S._Naval_Academy_Midshipman_fullback_Adam_Ballard_%2822%29_rushes_for_one_of_two_touchdowns_while_being_persued_by_Army_defenders_Cason_Shrode_%2854%29_and_Taylor_Justice_%2842%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "us_navy_051203-n-2383b-223_u.s._naval_academy_midshipman_fullback_adam_ballard_(22)_rushes_for_one_of_two_touchdowns_while_being_persued_by_army_defenders_cason_shrode_(54)_and_taylor_justice_(42).jpg",
+        "width": 2404,
+        "height": 1776,
+        "title": "College football",
+        "description": "College version of American/Canadian gridiron football",
+        "extract": "College football is gridiron football that is played by teams of amateur student-athletes at universities and colleges. It was through collegiate competition that gridiron football first gained popularity in the United States.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/College_football",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/US_Navy_051203-N-2383B-223_U.S._Naval_Academy_Midshipman_fullback_Adam_Ballard_%2822%29_rushes_for_one_of_two_touchdowns_while_being_persued_by_Army_defenders_Cason_Shrode_%2854%29_and_Taylor_Justice_%2842%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/US_Navy_051203-N-2383B-223_U.S._Naval_Academy_Midshipman_fullback_Adam_Ballard_%2822%29_rushes_for_one_of_two_touchdowns_while_being_persued_by_Army_defenders_Cason_Shrode_%2854%29_and_Taylor_Justice_%2842%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "us_navy_051203-n-2383b-223_u.s._naval_academy_midshipman_fullback_adam_ballard_(22)_rushes_for_one_of_two_touchdowns_while_being_persued_by_army_defenders_cason_shrode_(54)_and_taylor_justice_(42).jpg",
+          "width": 2404,
+          "height": 1776,
+          "title": "College football",
+          "description": "College version of American/Canadian gridiron football",
+          "extract": "College football is gridiron football that is played by teams of amateur student-athletes at universities and colleges. It was through collegiate competition that gridiron football first gained popularity in the United States.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/College_football",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Johnny_bright_generalmills_card_1959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Johnny_bright_generalmills_card_1959.jpg/330px-Johnny_bright_generalmills_card_1959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "johnny_bright_generalmills_card_1959.jpg",
+          "width": 1095,
+          "height": 1497,
+          "title": "Johnny Bright",
+          "description": "Gridiron football player (1930–1983)",
+          "extract": "John Dee Bright was an American professional football player in the Canadian Football League (CFL). A troubling racist incident he endured as a college football player in the United States caused rule changes in the National Collegiate Athletic Association (NCAA). After his emigration to Canada, he played a starring role for the Edmonton Eskimos and also became a school principal and an important role model for Black Canadians and aspiring athletes in Edmonton.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Johnny_Bright",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Des_Moines_Register_-_Johnny_Bright_incident.jpg/3840px-Des_Moines_Register_-_Johnny_Bright_incident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Des_Moines_Register_-_Johnny_Bright_incident.jpg/330px-Des_Moines_Register_-_Johnny_Bright_incident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "des_moines_register_-_johnny_bright_incident.jpg",
+          "width": 4325,
+          "height": 6356,
+          "title": "Johnny Bright incident",
+          "description": "1951 on-field assault during an American college football game",
+          "extract": "The Johnny Bright incident was a violent on-field assault against African-American player Johnny Bright by Wilbanks Smith, a white opposing player during an American college football game held on October 20, 1951, in Stillwater, Oklahoma. The game was significant in itself as it marked the first time that an African-American athlete with a national profile and of critical importance to the success of his team, the Drake Bulldogs, had played against Oklahoma A&M College at Oklahoma A&M's Lewis Field. Bright's injury also highlighted the racial tensions of the times and assumed notoriety when it was captured in what was later to become both a widely disseminated and eventually Pulitzer Prize–winning photo sequence.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Johnny_Bright_incident",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "College football",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/College_football",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "10-20-1986-858688b0",
+      "year": 1986,
+      "text": "Aeroflot Flight 6502 crashed on approach to Kurumoch Airport in Samara, Russia (then Kuybyshev in the Soviet Union), killing 70 people on board.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png/330px-Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "aeroflot_tu-134a_cccp-65862_lfsb_1975-12-28.png",
+        "width": 1023,
+        "height": 681,
+        "title": "Aeroflot Flight 6502",
+        "description": "1986 Tu-134 crash in Samara",
+        "extract": "Aeroflot Flight 6502 was a Soviet domestic passenger flight operated by a Tupolev Tu-134A from Sverdlovsk to Grozny via Kuibyshev, which crashed in Kuibyshev on 20 October 1986. 70 of the 94 passengers and crew on board were killed when the plane overran the runway, after the pilot attempted to make an instrument-only approach with curtained cockpit windows. Investigators determined the cause of the accident was pilot negligence.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Aeroflot_Flight_6502",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png/330px-Aeroflot_Tu-134A_CCCP-65862_LFSB_1975-12-28.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aeroflot_tu-134a_cccp-65862_lfsb_1975-12-28.png",
+          "width": 1023,
+          "height": 681,
+          "title": "Aeroflot Flight 6502",
+          "description": "1986 Tu-134 crash in Samara",
+          "extract": "Aeroflot Flight 6502 was a Soviet domestic passenger flight operated by a Tupolev Tu-134A from Sverdlovsk to Grozny via Kuibyshev, which crashed in Kuibyshev on 20 October 1986. 70 of the 94 passengers and crew on board were killed when the plane overran the runway, after the pilot attempted to make an instrument-only approach with curtained cockpit windows. Investigators determined the cause of the accident was pilot negligence.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Aeroflot_Flight_6502",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82_%D0%A1%D0%BB%D0%B0%D0%B2%D1%8B_%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82_%D0%A1%D0%BB%D0%B0%D0%B2%D1%8B_%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%B0.jpg/330px-%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82_%D0%A1%D0%BB%D0%B0%D0%B2%D1%8B_%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "монумент_славы_самара.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Samara",
+          "description": "City in Samara Oblast, Russia",
+          "extract": "Samara, known as Kuybyshev from 1935 to 1991, is the largest city and the administrative centre of Samara Oblast in Russia. It is sited at the confluence of the Volga and the Samara rivers. The city has a population of over 1.14 million residents, with up to 1.22 million residents in the urban agglomeration. The city covers an area of 541.4 square kilometers (209.0 sq mi), and is the ninth-largest city and tenth-largest agglomeration in Russia, and the third-most populous city on the Volga and in the Volga Federal District.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Samara",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Aeroflot Flight 6502",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Aeroflot_Flight_6502",
+      "relatedPagesCount": 3
+    }
+  ]
+}

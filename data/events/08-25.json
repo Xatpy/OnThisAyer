@@ -1,0 +1,667 @@
+{
+  "date": {
+    "month": 8,
+    "day": 25,
+    "formatted": "08-25"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "08-25-2012-e3bf2e43",
+      "year": 2012,
+      "text": "The NASA space probe Voyager 1 became the first man-made object to enter interstellar space.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "voyager_spacecraft_model.png",
+        "width": 1700,
+        "height": 1233,
+        "title": "Voyager 1",
+        "description": "NASA space probe launched in 1977",
+        "extract": "Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program, to study the outer Solar System and the interstellar space beyond the Sun's heliosphere. It was launched 16 days after its twin, Voyager 2. It communicates through the NASA Deep Space Network (DSN) to receive routine commands and to transmit data to Earth. Real-time distance and velocity data are provided by NASA and JPL. At a distance of 171.19 AU as of August 2026, it is the most distant human-made object from Earth. Voyager 1 is projected to reach a distance of one light day from Earth in November 2026.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_1",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "voyager_spacecraft_model.png",
+          "width": 1700,
+          "height": 1233,
+          "title": "Voyager 1",
+          "description": "NASA space probe launched in 1977",
+          "extract": "Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program, to study the outer Solar System and the interstellar space beyond the Sun's heliosphere. It was launched 16 days after its twin, Voyager 2. It communicates through the NASA Deep Space Network (DSN) to receive routine commands and to transmit data to Earth. Real-time distance and velocity data are provided by NASA and JPL. At a distance of 171.19 AU as of August 2026, it is the most distant human-made object from Earth. Voyager 1 is projected to reach a distance of one light day from Earth in November 2026.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_1",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Webb%27s_First_Deep_Field.jpg/3840px-Webb%27s_First_Deep_Field.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Webb%27s_First_Deep_Field.jpg/330px-Webb%27s_First_Deep_Field.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "webb's_first_deep_field.jpg",
+          "width": 4537,
+          "height": 4630,
+          "title": "Outer space",
+          "description": "Void between celestial bodies",
+          "extract": "Outer space, or simply space, is the expanse that exists beyond Earth's atmosphere and between celestial bodies. It contains ultra-low levels of particle densities, constituting a near-perfect vacuum of predominantly hydrogen and helium plasma, permeated by electromagnetic radiation, cosmic rays, neutrinos, magnetic fields and dust. The baseline temperature of outer space, as set by the background radiation from the Big Bang, is 2.7 kelvins.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Outer_space",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-25-2003-2f7ce310",
+      "year": 2003,
+      "text": "NASA successfully launches the Spitzer Space Telescope into space.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Spitzer_space_telescope.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Spitzer_space_telescope.jpg/330px-Spitzer_space_telescope.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "spitzer_space_telescope.jpg",
+        "width": 2048,
+        "height": 1536,
+        "title": "Spitzer Space Telescope",
+        "description": "NASA infrared space telescope (2003–2020)",
+        "extract": "The Spitzer Space Telescope, formerly the Space Infrared Telescope Facility (SIRTF), was an infrared space telescope that was active between 2003 and 2020. Spitzer was the third space telescope dedicated to infrared astronomy, following IRAS (1983) and ISO (1995–1998). It was the first spacecraft to use an Earth-trailing orbit, later used by the Kepler planet-finder telescope.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Spitzer_Space_Telescope",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Spitzer_space_telescope.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Spitzer_space_telescope.jpg/330px-Spitzer_space_telescope.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "spitzer_space_telescope.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": "Spitzer Space Telescope",
+          "description": "NASA infrared space telescope (2003–2020)",
+          "extract": "The Spitzer Space Telescope, formerly the Space Infrared Telescope Facility (SIRTF), was an infrared space telescope that was active between 2003 and 2020. Spitzer was the third space telescope dedicated to infrared astronomy, following IRAS (1983) and ISO (1995–1998). It was the first spacecraft to use an Earth-trailing orbit, later used by the Kepler planet-finder telescope.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Spitzer_Space_Telescope",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bell_X-1A_in_flight.jpg/1280px-Bell_X-1A_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bell_X-1A_in_flight.jpg/1280px-Bell_X-1A_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bell_x-1a_in_flight.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A US Air Force Bell X-1 test flight",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-25-2001-10ce4ba4",
+      "year": 2001,
+      "text": "American singer Aaliyah and several members of her record company were killed when their overloaded aircraft crashed shortly after takeoff from Marsh Harbour Airport in The Bahamas.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Aaliyah-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aaliyah-02.jpg/330px-Aaliyah-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "aaliyah-02.jpg",
+        "width": 895,
+        "height": 1334,
+        "title": "Aaliyah",
+        "description": "American singer (1979–2001)",
+        "extract": "Aaliyah Dana Haughton was an American singer, actress, dancer, and model. Known as the \"Princess of R&B\" and \"Queen of Urban Pop\", she is credited with helping to redefine contemporary R&B, pop, and hip hop. Her accolades include three American Music Awards and two MTV VMAs, along with five Grammy Award nominations.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Aaliyah",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Aaliyah-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Aaliyah-02.jpg/330px-Aaliyah-02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aaliyah-02.jpg",
+          "width": 895,
+          "height": 1334,
+          "title": "Aaliyah",
+          "description": "American singer (1979–2001)",
+          "extract": "Aaliyah Dana Haughton was an American singer, actress, dancer, and model. Known as the \"Princess of R&B\" and \"Queen of Urban Pop\", she is credited with helping to redefine contemporary R&B, pop, and hip hop. Her accolades include three American Music Awards and two MTV VMAs, along with five Grammy Award nominations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Aaliyah",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/F-OIXB_%2816832522366%29.jpg/3840px-F-OIXB_%2816832522366%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/F-OIXB_%2816832522366%29.jpg/330px-F-OIXB_%2816832522366%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "f-oixb_(16832522366).jpg",
+          "width": 5532,
+          "height": 3160,
+          "title": "2001 Marsh Harbour Cessna 402 crash",
+          "description": "Bahamian plane crash",
+          "extract": "On August 25, 2001, a Cessna 402 twin-engine light aircraft crashed shortly after takeoff from Marsh Harbour Airport on the Abaco Islands of the Bahamas, killing the pilot and all eight passengers on board. Among the victims were American singer and actress Aaliyah and members of her entourage, including a hairdresser, her bodyguard and a record executive. The group had just completed filming of the music video for \"Rock the Boat\" and had chartered the flight to return to Florida.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2001_Marsh_Harbour_Cessna_402_crash",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/LTIA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/LTIA.jpg/330px-LTIA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ltia.jpg",
+          "width": 1316,
+          "height": 639,
+          "title": "Marsh Harbour Airport",
+          "description": "International airport serving Marsh Harbour, a town in the Abaco Islands, The Bahamas",
+          "extract": "Leonard M. Thompson International Airport, formerly known as The Marsh Harbour International Airport, is an airport serving Marsh Harbour, a town in the Abaco Islands, The Bahamas.\nMarsh Harbour is a major tourist attraction. The airport offers scheduled passenger flights to Nassau and several destinations in Florida as well as regional jet flights nonstop to three major U.S. hubs, Atlanta, Charlotte and Miami in the U.S. In 2007 a new runway was built to allow larger, regional jets to operate from Marsh Harbour. A new airport terminal opened on 27 May 2014.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Marsh_Harbour_Airport",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Aaliyah",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Aaliyah",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-25-1989-269b3640",
+      "year": 1989,
+      "text": "The NASA spacecraft Voyager 2 made its closest approach to Neptune and provided definitive proof of the existence of the planet's rings (pictured).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "voyager_spacecraft_model.png",
+        "width": 1700,
+        "height": 1233,
+        "title": "Voyager 2",
+        "description": "NASA space probe launched in 1977",
+        "extract": "Voyager 2 is a space probe launched by NASA on August 20, 1977, as a part of the Voyager program. It was launched on a trajectory towards the gas giants and enabled further encounters with the ice giants. The only spacecraft to have visited either of the ice giant planets, it was the third of five spacecraft to achieve Solar escape velocity, which allowed it to leave the Solar System. Launched 16 days before its twin Voyager 1, the primary mission of the spacecraft was to study the outer planets and its extended mission is to study interstellar space beyond the Sun's heliosphere.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_2",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "voyager_spacecraft_model.png",
+          "width": 1700,
+          "height": 1233,
+          "title": "Voyager 2",
+          "description": "NASA space probe launched in 1977",
+          "extract": "Voyager 2 is a space probe launched by NASA on August 20, 1977, as a part of the Voyager program. It was launched on a trajectory towards the gas giants and enabled further encounters with the ice giants. The only spacecraft to have visited either of the ice giant planets, it was the third of five spacecraft to achieve Solar escape velocity, which allowed it to leave the Solar System. Launched 16 days before its twin Voyager 1, the primary mission of the spacecraft was to study the outer planets and its extended mission is to study interstellar space beyond the Sun's heliosphere.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_2",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Neptune_Voyager2_color_calibrated.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Neptune_Voyager2_color_calibrated.png/330px-Neptune_Voyager2_color_calibrated.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "neptune_voyager2_color_calibrated.png",
+          "width": 1200,
+          "height": 1200,
+          "title": "Neptune",
+          "description": "Eighth planet from the Sun",
+          "extract": "Neptune is the eighth and farthest known planet orbiting the Sun. It is the fourth-largest planet in the Solar System by diameter, the third-most-massive planet, and the densest giant planet. It is 17 times the mass of Earth. Compared to Uranus, its neighbouring ice giant, Neptune is slightly smaller, but more massive and dense. Being composed primarily of gases and liquids, it has no well-defined solid surface. Neptune orbits the Sun once every 164.8 years at an orbital distance of 30.1 astronomical units. It is named after the Roman god of the sea and has the astronomical symbol , representing Neptune's trident.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Neptune",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/New_Webb_Image_Captures_Clearest_View_of_Neptune%E2%80%99s_Rings_in_Decades.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/New_Webb_Image_Captures_Clearest_View_of_Neptune%E2%80%99s_Rings_in_Decades.png/330px-New_Webb_Image_Captures_Clearest_View_of_Neptune%E2%80%99s_Rings_in_Decades.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "new_webb_image_captures_clearest_view_of_neptune’s_rings_in_decades.png",
+          "width": 1680,
+          "height": 1120,
+          "title": "Rings of Neptune",
+          "description": "",
+          "extract": "The rings of Neptune consist primarily of five principal rings. They were first discovered by simultaneous observations of a stellar occultation on 22 July 1984 by Patrice Bouchet, Reinhold Häfner and Jean Manfroid at the La Silla Observatory (ESO) who were conducting a star occultation observation program proposed by André Brahic, Bruno Sicardy and Françoise Roques of the Paris-Meudon Observatory and William B. Hubbard's teams at Cerro Tololo Interamerican Observatory in Chile. They were eventually imaged in 1989 by the Voyager 2 spacecraft. At their densest, they are comparable to the less dense portions of Saturn's main rings such as the C ring and the Cassini Division, but much of Neptune's ring system is quite faint and dusty, in some aspects more closely resembling the rings of Jupiter. Neptune's rings are named after astronomers who contributed important work on the planet: Galle, Le Verrier, Lassell, Arago, and Adams. Neptune also has a faint unnamed ring coincident with the orbit of the moon Galatea. Three other moons orbit between the rings: Naiad, Thalassa and Despina.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rings_of_Neptune",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "08-25-1981-267ed21d",
+      "year": 1981,
+      "text": "Voyager 2 spacecraft makes its closest approach to Saturn.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "voyager_spacecraft_model.png",
+        "width": 1700,
+        "height": 1233,
+        "title": "Voyager 2",
+        "description": "NASA space probe launched in 1977",
+        "extract": "Voyager 2 is a space probe launched by NASA on August 20, 1977, as a part of the Voyager program. It was launched on a trajectory towards the gas giants and enabled further encounters with the ice giants. The only spacecraft to have visited either of the ice giant planets, it was the third of five spacecraft to achieve Solar escape velocity, which allowed it to leave the Solar System. Launched 16 days before its twin Voyager 1, the primary mission of the spacecraft was to study the outer planets and its extended mission is to study interstellar space beyond the Sun's heliosphere.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_2",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "voyager_spacecraft_model.png",
+          "width": 1700,
+          "height": 1233,
+          "title": "Voyager 2",
+          "description": "NASA space probe launched in 1977",
+          "extract": "Voyager 2 is a space probe launched by NASA on August 20, 1977, as a part of the Voyager program. It was launched on a trajectory towards the gas giants and enabled further encounters with the ice giants. The only spacecraft to have visited either of the ice giant planets, it was the third of five spacecraft to achieve Solar escape velocity, which allowed it to leave the Solar System. Launched 16 days before its twin Voyager 1, the primary mission of the spacecraft was to study the outer planets and its extended mission is to study interstellar space beyond the Sun's heliosphere.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_2",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/3840px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/330px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "saturn_global_view_from_cassini,_rings_open_better_colour.png",
+          "width": 5500,
+          "height": 2200,
+          "title": "Saturn",
+          "description": "Sixth planet from the Sun",
+          "extract": "Saturn is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter. It is a gas giant, with an average radius of about 9 times that of Earth. It has an eighth of the average density of Earth, but is over 95 times more massive. Even though Saturn is almost as big as Jupiter, it has less than a third of its mass. Saturn orbits the Sun at a distance of 9.59 AU (1,434 million km), with an orbital period of 29.45 years.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Saturn",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Voyager 2",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Voyager_2",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-25-1997-2bd44626",
+      "year": 1997,
+      "text": "Egon Krenz, the former East German leader, is convicted of a shoot-to-kill policy at the Berlin Wall.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bundesarchiv_Bild_183-1984-0704-400%2C_Egon_Krenz_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bundesarchiv_Bild_183-1984-0704-400%2C_Egon_Krenz_%28cropped%29.jpg/330px-Bundesarchiv_Bild_183-1984-0704-400%2C_Egon_Krenz_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_183-1984-0704-400,_egon_krenz_(cropped).jpg",
+        "width": 595,
+        "height": 773,
+        "title": "Egon Krenz",
+        "description": "Leader of East Germany in 1989",
+        "extract": "Egon Rudi Ernst Krenz is a German former politician who was the last Communist leader of the German Democratic Republic during the Revolutions of 1989. He succeeded Erich Honecker as the General Secretary of the ruling Socialist Unity Party of Germany (SED) but was forced to resign only weeks later when the Berlin Wall fell.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Egon_Krenz",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bundesarchiv_Bild_183-1984-0704-400%2C_Egon_Krenz_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bundesarchiv_Bild_183-1984-0704-400%2C_Egon_Krenz_%28cropped%29.jpg/330px-Bundesarchiv_Bild_183-1984-0704-400%2C_Egon_Krenz_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_183-1984-0704-400,_egon_krenz_(cropped).jpg",
+          "width": 595,
+          "height": 773,
+          "title": "Egon Krenz",
+          "description": "Leader of East Germany in 1989",
+          "extract": "Egon Rudi Ernst Krenz is a German former politician who was the last Communist leader of the German Democratic Republic during the Revolutions of 1989. He succeeded Erich Honecker as the General Secretary of the ruling Socialist Unity Party of Germany (SED) but was forced to resign only weeks later when the Berlin Wall fell.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Egon_Krenz",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/DDR_steel_watch_tower_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/DDR_steel_watch_tower_cropped.jpg/330px-DDR_steel_watch_tower_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ddr_steel_watch_tower_cropped.jpg",
+          "width": 1506,
+          "height": 1527,
+          "title": "Schießbefehl",
+          "description": "East German term for the use of lethal force at the East-West border to prevent defection",
+          "extract": "Schießbefehl was the term in the German Democratic Republic for standing orders authorizing the use of lethal force by the Border Troops to prevent Republikflucht (defection) at the Inner German border from 1960 to 1989.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Schie%C3%9Fbefehl",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Berlinermauer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Berlinermauer.jpg/330px-Berlinermauer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "berlinermauer.jpg",
+          "width": 1200,
+          "height": 913,
+          "title": "Berlin Wall",
+          "description": "Cold War barrier around West Berlin (1961–1989)",
+          "extract": "The Berlin Wall was a guarded concrete barrier that encircled West Berlin from 1961 to 1989, separating it from East Berlin and the German Democratic Republic. Construction of the Berlin Wall was commenced by the government of the GDR on 13 August 1961. It included guard towers placed along large concrete walls, accompanied by a wide area that contained anti-vehicle trenches, beds of nails and other defenses. The primary intention for the Wall's construction was to prevent East German citizens from fleeing to the West.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Berlin_Wall",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Egon Krenz",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Egon_Krenz",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-25-2010-d7e1412d",
+      "year": 2010,
+      "text": "A Filair Let L-410 Turbolet crashes on approach to Bandundu Airport, killing 20.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/15/Filair_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/Filair_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "filair_logo.png",
+        "width": 198,
+        "height": 165,
+        "title": "Filair",
+        "description": "Airline of the Democratic Republic of the Congo",
+        "extract": "Filair was an airline based in the Democratic Republic of the Congo. It operated from N'Dolo Airport in Kinshasa. The airline was on the list of air carriers banned in the European Union, as well as all airlines regulated by the authorities in the DRC.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Filair",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/15/Filair_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/15/Filair_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "filair_logo.png",
+          "width": 198,
+          "height": 165,
+          "title": "Filair",
+          "description": "Airline of the Democratic Republic of the Congo",
+          "extract": "Filair was an airline based in the Democratic Republic of the Congo. It operated from N'Dolo Airport in Kinshasa. The airline was on the list of air carriers banned in the European Union, as well as all airlines regulated by the authorities in the DRC.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Filair",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/L410_UVP-E20.jpg/3840px-L410_UVP-E20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/L410_UVP-E20.jpg/330px-L410_UVP-E20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "l410_uvp-e20.jpg",
+          "width": 4267,
+          "height": 3196,
+          "title": "Let L-410 Turbolet",
+          "description": "Twin-engine short-range transport aircraft",
+          "extract": "The Let L-410 Turbolet is a twin-engine short-range transport aircraft designed and produced by the Czech aircraft manufacturer Let Kunovice.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Let_L-410_Turbolet",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Crash-avion-FIL-AIR1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Crash-avion-FIL-AIR1.jpg/330px-Crash-avion-FIL-AIR1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "crash-avion-fil-air1.jpg",
+          "width": 500,
+          "height": 278,
+          "title": "2010 Filair Let L-410 crash",
+          "description": "Aviation accident in the Democratic Republic of Congo",
+          "extract": "On 25 August 2010, a Let L-410 Turbolet passenger aircraft of Filair crashed on approach to Bandundu Airport in the Democratic Republic of the Congo, killing all but one of the 21 people on board.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2010_Filair_Let_L-410_crash",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Filair",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Filair",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "08-25-1975-59b3a41c",
+      "year": 1975,
+      "text": "Bruce Springsteen released his commercial breakthrough album, Born to Run.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg/330px-Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bruce_springsteen_springsteen-79_(cropped).jpg",
+        "width": 3068,
+        "height": 4089,
+        "title": "Bruce Springsteen",
+        "description": "American musician and songwriter (born 1949)",
+        "extract": "Bruce Frederick Joseph Springsteen is an American singer, songwriter, and musician. Nicknamed \"the Boss\", Springsteen has released 21 studio albums spanning six decades; most feature the E Street Band, his backing band since 1972.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg/330px-Bruce_Springsteen_Springsteen-79_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bruce_springsteen_springsteen-79_(cropped).jpg",
+          "width": 3068,
+          "height": 4089,
+          "title": "Bruce Springsteen",
+          "description": "American musician and songwriter (born 1949)",
+          "extract": "Bruce Frederick Joseph Springsteen is an American singer, songwriter, and musician. Nicknamed \"the Boss\", Springsteen has released 21 studio albums spanning six decades; most feature the E Street Band, his backing band since 1972.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Born_to_Run_%28Front_Cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/7/7a/Born_to_Run_%28Front_Cover%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "born_to_run_(front_cover).jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Born to Run",
+          "description": "1975 studio album by Bruce Springsteen",
+          "extract": "Born to Run is the third studio album by the American singer-songwriter Bruce Springsteen, released on August 25, 1975, through Columbia Records. Co-produced by Springsteen with his manager Mike Appel and the producer Jon Landau, its recording took place in New York. Following the commercial failures of his first two albums, the album marked Springsteen's effort to break into the mainstream and create a commercially successful album. Springsteen sought to emulate Phil Spector's Wall of Sound production, leading to prolonged sessions with the E Street Band lasting from January 1974 to July 1975; six months alone were spent working on the title track.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Born_to_Run",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Bruce Springsteen",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bruce_Springsteen",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-25-1960-b195c07a",
+      "year": 1960,
+      "text": "The Games of the XVII Olympiad commence in Rome, Italy.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 80,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/11/1960_Summer_Olympics_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/11/1960_Summer_Olympics_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "1960_summer_olympics_logo.png",
+        "width": 203,
+        "height": 257,
+        "title": "1960 Summer Olympics",
+        "description": "Multi-sport event in Rome, Italy",
+        "extract": "The 1960 Summer Olympics, officially known as the Games of the XVII Olympiad and commonly known as Rome 1960, were an international multi-sport event held from 25 August to 11 September 1960 in Rome, Italy. Rome had previously been awarded the administration of the 1908 Summer Olympics. However, following the eruption of Mount Vesuvius in 1906, the city had no choice but to decline and pass the honour to London. The Soviet Union won the most gold and overall medals at the 1960 Games.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1960_Summer_Olympics",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/11/1960_Summer_Olympics_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/11/1960_Summer_Olympics_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "1960_summer_olympics_logo.png",
+          "width": 203,
+          "height": 257,
+          "title": "1960 Summer Olympics",
+          "description": "Multi-sport event in Rome, Italy",
+          "extract": "The 1960 Summer Olympics, officially known as the Games of the XVII Olympiad and commonly known as Rome 1960, were an international multi-sport event held from 25 August to 11 September 1960 in Rome, Italy. Rome had previously been awarded the administration of the 1908 Summer Olympics. However, following the eruption of Mount Vesuvius in 1906, the city had no choice but to decline and pass the honour to London. The Soviet Union won the most gold and overall medals at the 1960 Games.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1960_Summer_Olympics",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/330px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "trevi_fountain,_rome,_italy_2_-_may_2007.jpg",
+          "width": 3500,
+          "height": 2325,
+          "title": "Rome",
+          "description": "Capital and largest city of Italy",
+          "extract": "Rome is the capital city and most populated comune (municipality) of Italy. It is also the administrative centre of the Lazio region and of the Metropolitan City of Rome. A special comune named Roma Capitale with a population of 2.7 million in an area of 1,287.36 km2 (497.1 mi2), Rome is the third most populous city in the European Union by population within city limits. The Metropolitan City of Rome Capital, with a population of 4.2 million, is the most populous metropolitan city in Italy. Its metropolitan area is the third-most populous within Italy. Rome is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber Valley. Vatican City—the smallest country in the world and headquarters of the worldwide Catholic Church under the governance of the Holy See—is an independent country with Rome's municipal boundaries, the only existing example of a country within a city. Rome is often referred to as the \"City of Seven Hills\" due to its geography, and also as the \"Eternal City\". Rome is generally considered to be one of the cradles of Western civilization and Western Christian culture, and the centre of the Catholic Church.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rome",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Torcia_Olimpica_Roma_1960.jpg/1280px-Torcia_Olimpica_Roma_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Torcia_Olimpica_Roma_1960.jpg/1280px-Torcia_Olimpica_Roma_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "torcia_olimpica_roma_1960.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The Olympic Torch of Rome 1960",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1960_Summer_Olympics",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "1960 Summer Olympics",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1960_Summer_Olympics",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-25-2017-99ebe3bb",
+      "year": 2017,
+      "text": "Hurricane Harvey makes landfall in Texas as a powerful Category 4 hurricane, the strongest hurricane to make landfall in the United States since 2004.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Harvey_2017-08-25_2337Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Harvey_2017-08-25_2337Z.jpg/330px-Harvey_2017-08-25_2337Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "harvey_2017-08-25_2337z.jpg",
+        "width": 3700,
+        "height": 4700,
+        "title": "Hurricane Harvey",
+        "description": "Category 4 Atlantic hurricane in 2017",
+        "extract": "Hurricane Harvey was a powerful and catastrophic tropical cyclone that made landfall in Texas and Louisiana in August 2017, causing widespread flooding and more than 100 deaths. It is tied with 2005's Hurricane Katrina as the costliest tropical cyclone on record, inflicting $125 billion in damage, primarily from catastrophic rainfall-triggered flooding in Greater Houston and Southeast Texas; this made the storm the costliest natural disaster recorded in Texas at the time. It was the first major hurricane to make landfall in the United States since Wilma in 2005, ending a record 12-year span. In a four-day period, many areas received more than 40 inches (1,000 mm) of rain as the system slowly meandered over eastern Texas and adjacent waters, causing unprecedented flooding. With peak accumulations of 60.58 in (1,539 mm) in Nederland, Texas, Harvey was the wettest tropical cyclone on record in the United States. The resulting floods inundated hundreds of thousands of homes, which displaced more than 30,000 people and prompted more than 17,000 rescues.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hurricane_Harvey",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Harvey_2017-08-25_2337Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Harvey_2017-08-25_2337Z.jpg/330px-Harvey_2017-08-25_2337Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "harvey_2017-08-25_2337z.jpg",
+          "width": 3700,
+          "height": 4700,
+          "title": "Hurricane Harvey",
+          "description": "Category 4 Atlantic hurricane in 2017",
+          "extract": "Hurricane Harvey was a powerful and catastrophic tropical cyclone that made landfall in Texas and Louisiana in August 2017, causing widespread flooding and more than 100 deaths. It is tied with 2005's Hurricane Katrina as the costliest tropical cyclone on record, inflicting $125 billion in damage, primarily from catastrophic rainfall-triggered flooding in Greater Houston and Southeast Texas; this made the storm the costliest natural disaster recorded in Texas at the time. It was the first major hurricane to make landfall in the United States since Wilma in 2005, ending a record 12-year span. In a four-day period, many areas received more than 40 inches (1,000 mm) of rain as the system slowly meandered over eastern Texas and adjacent waters, causing unprecedented flooding. With peak accumulations of 60.58 in (1,539 mm) in Nederland, Texas, Harvey was the wettest tropical cyclone on record in the United States. The resulting floods inundated hundreds of thousands of homes, which displaced more than 30,000 people and prompted more than 17,000 rescues.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hurricane_Harvey",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Charley_2004-08-13_1945Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Charley_2004-08-13_1945Z.jpg/330px-Charley_2004-08-13_1945Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "charley_2004-08-13_1945z.jpg",
+          "width": 2250,
+          "height": 3000,
+          "title": "Hurricane Charley",
+          "description": "Category 4 Atlantic hurricane in 2004",
+          "extract": "Hurricane Charley was the first of four separate hurricanes to impact or strike Florida during 2004, along with Frances, Ivan and Jeanne, as well as one of the strongest hurricanes ever to strike the United States. It was the third named storm, the second hurricane, and the second major hurricane of the 2004 Atlantic hurricane season. Charley lasted from August 9 to 15, and at its peak intensity it attained 150 mph (240 km/h) winds, making it a strong Category 4 hurricane on the Saffir–Simpson scale. It made landfall in Southwest Florida at maximum strength, becoming the strongest hurricane to hit the United States since Hurricane Andrew struck Florida in 1992 and tied with Hurricane Ian as the strongest hurricane to hit southwest Florida in recorded history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hurricane_Charley",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Harvey_2017_path.png/1280px-Harvey_2017_path.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Harvey_2017_path.png/1280px-Harvey_2017_path.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "harvey_2017_path.png",
+          "width": 800,
+          "height": 600,
+          "title": "Map plotting the storm's track and intensity, according to the Saffir–Simpson scale.mw-parser-output .hidden-begin{box-sizing:border-box;width:100%;padding:5px;border:none;font-size:95%}.mw-parser-output .hidden-title{font-weight:bold;line-height:1.6;text-align:left}.mw-parser-output .hidden-content{text-align:left}@media all and (max-width:500px){.mw-parser-output .hidden-begin{width:auto!important;clear:none!important;float:none!important}}Map keySaffir–Simpson scale.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}\n.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}  Tropical depression (≤38 mph, ≤62 km/h)\n  Tropical storm (39–73 mph, 63–118 km/h)\n  Category 1 (74–95 mph, 119–153 km/h)\n  Category 2 (96–110 mph, 154–177 km/h)\n  Category 3 (111–129 mph, 178–208 km/h)\n  Category 4 (130–156 mph, 209–251 km/h)\n  Category 5 (≥157 mph, ≥252 km/h)\n  Unknown\n\n\n\nStorm type\n Tropical cyclone\n Subtropical cyclone\n Extratropical cyclone, remnant low, tropical disturbance, or monsoon depression\n",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hurricane_Harvey",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Hurricane Harvey",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Hurricane_Harvey",
+      "relatedPagesCount": 3
+    }
+  ]
+}

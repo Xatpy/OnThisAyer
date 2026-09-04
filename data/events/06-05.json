@@ -1,0 +1,679 @@
+{
+  "date": {
+    "month": 6,
+    "day": 5,
+    "formatted": "06-05"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "06-05-2025-37238c95",
+      "year": 2025,
+      "text": "The Nintendo Switch 2 video game console is released worldwide.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Gaming_Section_1_-_Retrosystems_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gaming_Section_1_-_Retrosystems_2010.jpg/330px-Gaming_Section_1_-_Retrosystems_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gaming_section_1_-_retrosystems_2010.jpg",
+        "width": 1200,
+        "height": 797,
+        "title": "Video game console",
+        "description": "Computer system for running video games",
+        "extract": "A video game console is an electronic device that outputs a video signal or image to display a video game that can typically be played with a game controller. These may be home consoles, which are generally placed in a permanent location connected to a television or other display devices and controlled with a separate game controller, or handheld consoles, which include their own display unit and controller functions built into the unit and which can be played anywhere. Hybrid consoles combine elements of both home and handheld consoles.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Video_game_console",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Gaming_Section_1_-_Retrosystems_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gaming_Section_1_-_Retrosystems_2010.jpg/330px-Gaming_Section_1_-_Retrosystems_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gaming_section_1_-_retrosystems_2010.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": "Video game console",
+          "description": "Computer system for running video games",
+          "extract": "A video game console is an electronic device that outputs a video signal or image to display a video game that can typically be played with a game controller. These may be home consoles, which are generally placed in a permanent location connected to a television or other display devices and controlled with a separate game controller, or handheld consoles, which include their own display unit and controller functions built into the unit and which can be played anywhere. Hybrid consoles combine elements of both home and handheld consoles.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Video_game_console",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nintendo_Switch_2_in_Handheld_Mode.png/1280px-Nintendo_Switch_2_in_Handheld_Mode.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Nintendo_Switch_2_in_Handheld_Mode.png/1280px-Nintendo_Switch_2_in_Handheld_Mode.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nintendo_switch_2_in_handheld_mode.png",
+          "width": 800,
+          "height": 600,
+          "title": "Nintendo_Switch_2_in_Handheld_Mode",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nintendo_Switch_2",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nintendo_Switch_2_20250605_HOF4954_RAW-Export.png/1280px-Nintendo_Switch_2_20250605_HOF4954_RAW-Export.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nintendo_Switch_2_20250605_HOF4954_RAW-Export.png/1280px-Nintendo_Switch_2_20250605_HOF4954_RAW-Export.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nintendo_switch_2_20250605_hof4954_raw-export.png",
+          "width": 800,
+          "height": 600,
+          "title": "Nintendo_Switch_2_20250605_HOF4954_RAW-Export",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nintendo_Switch_2",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Nintendo Switch 2",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Nintendo_Switch_2",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "06-05-2024-20fc8311",
+      "year": 2024,
+      "text": "The Boeing Starliner is launched on its first crewed flight, carrying astronauts Barry Wilmore and Sunita Williams to the International Space Station.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Boeing%27s_Starliner_crew_ship_approaches_the_space_station_%28iss067e066735%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Boeing%27s_Starliner_crew_ship_approaches_the_space_station_%28iss067e066735%29_%28cropped%29.jpg/330px-Boeing%27s_Starliner_crew_ship_approaches_the_space_station_%28iss067e066735%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "boeing's_starliner_crew_ship_approaches_the_space_station_(iss067e066735)_(cropped).jpg",
+        "width": 3705,
+        "height": 2560,
+        "title": "Boeing Starliner",
+        "description": "Class of partially reusable crew capsules",
+        "extract": "The Boeing CST-100 Starliner is a spacecraft designed to transport crew to and from the International Space Station (ISS) and other low-Earth-orbit destinations. Under development by Boeing under NASA's Commercial Crew Program (CCP), it consists of a reusable crew capsule and an expendable service module.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boeing_Starliner",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Boeing%27s_Starliner_crew_ship_approaches_the_space_station_%28iss067e066735%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Boeing%27s_Starliner_crew_ship_approaches_the_space_station_%28iss067e066735%29_%28cropped%29.jpg/330px-Boeing%27s_Starliner_crew_ship_approaches_the_space_station_%28iss067e066735%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "boeing's_starliner_crew_ship_approaches_the_space_station_(iss067e066735)_(cropped).jpg",
+          "width": 3705,
+          "height": 2560,
+          "title": "Boeing Starliner",
+          "description": "Class of partially reusable crew capsules",
+          "extract": "The Boeing CST-100 Starliner is a spacecraft designed to transport crew to and from the International Space Station (ISS) and other low-Earth-orbit destinations. Under development by Boeing under NASA's Commercial Crew Program (CCP), it consists of a reusable crew capsule and an expendable service module.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Boeing_Starliner",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/NASA%E2%80%99s_Boeing_Crew_Flight_Test_Launch_%28NHQ202406050029%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/NASA%E2%80%99s_Boeing_Crew_Flight_Test_Launch_%28NHQ202406050029%29.jpg/330px-NASA%E2%80%99s_Boeing_Crew_Flight_Test_Launch_%28NHQ202406050029%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nasa’s_boeing_crew_flight_test_launch_(nhq202406050029).jpg",
+          "width": 2806,
+          "height": 3185,
+          "title": "Boeing Crew Flight Test",
+          "description": "First crewed launch of the Boeing Starliner",
+          "extract": "Boeing Crew Flight Test (Boe-CFT) was the first crewed mission of the Boeing Starliner capsule. Launched on June 5, 2024, the mission flew a crew of two NASA astronauts, Barry E. Wilmore and Sunita Williams, from Cape Canaveral Space Force Station to the International Space Station. The mission was meant to last eight days, ending on June 14 with a landing in the American Southwest. However, Starliner's thrusters malfunctioned as it approached the ISS. After more than two months of investigation, NASA decided it was too risky to return Wilmore and Williams to Earth aboard Starliner. Instead, the Boeing spacecraft returned uncrewed on September 7, 2024, and successfully landed at the White Sands Space Harbor in New Mexico, although it experienced a thruster failure that left the capsule without fault tolerance. The astronauts rode down aboard SpaceX Crew-9 on March 18, 2025.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Boeing_Crew_Flight_Test",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Barry_Wilmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Barry_Wilmore.jpg/330px-Barry_Wilmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "barry_wilmore.jpg",
+          "width": 2400,
+          "height": 3000,
+          "title": "Barry Wilmore",
+          "description": "American astronaut (born 1962)",
+          "extract": "Barry Eugene \"Butch\" Wilmore is an American former NASA astronaut and retired United States Navy test pilot. He is a veteran of three spaceflights, the first of which was an 11-day Space Shuttle mission in November 2009 to the International Space Station. In total, he spent a total of 464 days off Earth and 32 hours outside of a spacecraft. Wilmore was designated as pilot with five other crew members on Space Shuttle Atlantis for the mission STS-129. He served as part of Expedition 41/42 to the International Space Station, and on June 5, 2024, returned there on the Boeing Crew Flight Test, the first crewed mission of the Boeing Starliner. On March 18, 2025, he returned to Earth on the SpaceX Dragon capsule with the other crew members of Crew-9. The crew that replaced the Boeing Crew Flight Test astronauts aboard the ISS arrived on March 16.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Barry_Wilmore",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Boeing Starliner",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Boeing_Starliner",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "06-05-2002-4b40c49d",
+      "year": 2002,
+      "text": "Space Shuttle Endeavour launches on STS-111, carrying the Expedition 5 crew to the International Space Station to replace the Expedition 4 crew. Astronaut Franklin Chang-Díaz becomes the second person to have flown on seven spaceflights.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+        "width": 3680,
+        "height": 2448,
+        "title": "Space Shuttle Endeavour",
+        "description": "Space Shuttle orbiter (1992–2011)",
+        "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+          "width": 3680,
+          "height": 2448,
+          "title": "Space Shuttle Endeavour",
+          "description": "Space Shuttle orbiter (1992–2011)",
+          "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/STS-111_Installation_of_Mobile_Base_System.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/STS-111_Installation_of_Mobile_Base_System.jpg/330px-STS-111_Installation_of_Mobile_Base_System.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-111_installation_of_mobile_base_system.jpg",
+          "width": 3032,
+          "height": 2000,
+          "title": "STS-111",
+          "description": "2002 American crewed spaceflight to the ISS",
+          "extract": "STS-111 was a space shuttle mission to the International Space Station (ISS) flown by Space Shuttle Endeavour. STS-111 resupplied the station and replaced the Expedition 4 crew with the Expedition 5 crew. It was launched on 5 June 2002, from Kennedy Space Center, Florida.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-111",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Expedition_5_crew_poster.jpg/3840px-Expedition_5_crew_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Expedition_5_crew_poster.jpg/330px-Expedition_5_crew_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "expedition_5_crew_poster.jpg",
+          "width": 5840,
+          "height": 7760,
+          "title": "Expedition 5",
+          "description": "Long-duration mission to the International Space Station",
+          "extract": "Expedition 5 was the fifth long-duration stay on the International Space Station (ISS). The crew, consisting of three people, remained in space for 184 days, 178 of which were spent aboard the ISS. Expedition 5 was a continuation of an uninterrupted human presence in space, as of November 2000, which was begun by Expedition 1 in 2000–2001.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Expedition_5",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Endeavour",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "06-05-1991-d2d34215",
+      "year": 1991,
+      "text": "Space Shuttle Columbia is launched on STS-40, the fifth spacelab mission.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+        "width": 868,
+        "height": 521,
+        "title": "Space Shuttle Columbia",
+        "description": "Space Shuttle orbiter (1981–2003)",
+        "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+          "width": 868,
+          "height": 521,
+          "title": "Space Shuttle Columbia",
+          "description": "Space Shuttle orbiter (1981–2003)",
+          "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/STS-40_Spacelab.jpg/3840px-STS-40_Spacelab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/STS-40_Spacelab.jpg/330px-STS-40_Spacelab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-40_spacelab.jpg",
+          "width": 4648,
+          "height": 4640,
+          "title": "STS-40",
+          "description": "1991 American crewed spaceflight",
+          "extract": "STS-40, the eleventh launch of Space Shuttle Columbia, was a nine-day mission in June 1991. It carried the Spacelab module for Spacelab Life Sciences 1 (SLS-1), the fifth Spacelab mission and the first dedicated solely to biology. STS-40 was the first spaceflight that included three women crew members.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-40",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Spacelab_-_Artist%27s_Concept.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Spacelab_-_Artist%27s_Concept.jpg/330px-Spacelab_-_Artist%27s_Concept.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "spacelab_-_artist's_concept.jpg",
+          "width": 3417,
+          "height": 2692,
+          "title": "Spacelab",
+          "description": "Temporary, reusable laboratory aboard the Space Shuttle",
+          "extract": "Spacelab was a reusable laboratory developed by the European Space Agency (ESA) and used on certain spaceflights flown by the Space Shuttle. The laboratory comprised multiple components, including a pressurized module, an unpressurized carrier, and other related hardware housed in the Shuttle's cargo bay. The components were arranged in various configurations to meet the needs of each spaceflight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Spacelab",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Columbia",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-05-1956-5a946966",
+      "year": 1956,
+      "text": "Elvis Presley introduces his new single, \"Hound Dog\", on The Milton Berle Show, scandalizing the audience with his suggestive hip movements.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "elvis_presley_promoting_jailhouse_rock.jpg",
+        "width": 2673,
+        "height": 3448,
+        "title": "Elvis Presley",
+        "description": "American singer and actor (1935–1977)",
+        "extract": "Elvis Aaron Presley was an American singer and actor. Referred to as the \"King of Rock and Roll\", he is widely regarded as one of the most culturally significant figures of the 20th century. Presley's energetic and sexually provocative performance style, combined with a mixture of influences across color lines during a transformative era in race relations, brought both great success and initial controversy.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "elvis_presley_promoting_jailhouse_rock.jpg",
+          "width": 2673,
+          "height": 3448,
+          "title": "Elvis Presley",
+          "description": "American singer and actor (1935–1977)",
+          "extract": "Elvis Aaron Presley was an American singer and actor. Referred to as the \"King of Rock and Roll\", he is widely regarded as one of the most culturally significant figures of the 20th century. Presley's energetic and sexually provocative performance style, combined with a mixture of influences across color lines during a transformative era in race relations, brought both great success and initial controversy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/2e/Big-mama-thornton-hound-dog.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/Big-mama-thornton-hound-dog.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "big-mama-thornton-hound-dog.jpg",
+          "width": 280,
+          "height": 279,
+          "title": "Hound Dog (song)",
+          "description": "1952 song by Jerry Leiber and Mike Stoller",
+          "extract": "\"Hound Dog\" is a twelve-bar blues song written by Jerry Leiber and Mike Stoller. Recorded originally by Big Mama Thornton on August 13, 1952, in Los Angeles and released by Peacock Records in late February 1953, \"Hound Dog\" was Thornton's only hit record, selling over 500,000 copies, spending 14 weeks in the R&B charts, including seven weeks at number one. Thornton's recording of \"Hound Dog\" is listed as one of the Rock and Roll Hall of Fame's \"500 Songs That Shaped Rock and Roll\", ranked at 318 in the 2021 iteration of Rolling Stone's 500 Greatest Songs of All Time and was inducted into the Grammy Hall of Fame in February 2013.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hound_Dog_(song)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/38-10-12_texaco_star_theatre_ad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/38-10-12_texaco_star_theatre_ad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "38-10-12_texaco_star_theatre_ad.jpg",
+          "width": 202,
+          "height": 491,
+          "title": "Texaco Star Theater",
+          "description": "American broadcast comedy-variety show",
+          "extract": "Texaco Star Theater is an American comedy-variety show, broadcast on radio from 1938 to 1949 and telecast from 1948 to 1956. It was one of the first successful examples of American television broadcasting, remembered as the show that gave Milton Berle the nickname \"Mr. Television\", and helping propel the sales of Televisions in the 1950s.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Texaco_Star_Theater",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Elvis Presley",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-05-1968-5342afc7",
+      "year": 1968,
+      "text": "U.S. senator Robert F. Kennedy was fatally shot by Palestinian immigrant Sirhan Sirhan at the Ambassador Hotel in Los Angeles.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Robert_F._Kennedy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robert_F._Kennedy.jpg/330px-Robert_F._Kennedy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "robert_f._kennedy.jpg",
+        "width": 1555,
+        "height": 2048,
+        "title": "Robert F. Kennedy",
+        "description": "American politician and lawyer (1925–1968)",
+        "extract": "Robert Francis Kennedy, also known by his initials RFK, was an American politician and lawyer. A member of the Democratic Party, Kennedy served as the 64th United States attorney general from 1961 to 1964, and as a U.S. senator from New York from 1965 until his assassination in 1968. Like his brothers John F. Kennedy and Ted Kennedy, he is considered an icon of modern American liberalism in the 21st century.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_F._Kennedy",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Robert_F._Kennedy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Robert_F._Kennedy.jpg/330px-Robert_F._Kennedy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "robert_f._kennedy.jpg",
+          "width": 1555,
+          "height": 2048,
+          "title": "Robert F. Kennedy",
+          "description": "American politician and lawyer (1925–1968)",
+          "extract": "Robert Francis Kennedy, also known by his initials RFK, was an American politician and lawyer. A member of the Democratic Party, Kennedy served as the 64th United States attorney general from 1961 to 1964, and as a U.S. senator from New York from 1965 until his assassination in 1968. Like his brothers John F. Kennedy and Ted Kennedy, he is considered an icon of modern American liberalism in the 21st century.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Robert_F._Kennedy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d3/Rfk_assassination.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/d/d3/Rfk_assassination.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "rfk_assassination.jpg",
+          "width": 280,
+          "height": 350,
+          "title": "Assassination of Robert F. Kennedy",
+          "description": "1968 shooting in Los Angeles, California",
+          "extract": "On June 5, 1968, Robert F. Kennedy was shot by 24-year-old Sirhan Sirhan at the Ambassador Hotel in Los Angeles, California. Medical teams attempted to treat him, but he died the following day at the age of 42.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Assassination_of_Robert_F._Kennedy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sirhan_Sirhan_in_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sirhan_Sirhan_in_2021.jpg/330px-Sirhan_Sirhan_in_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sirhan_sirhan_in_2021.jpg",
+          "width": 792,
+          "height": 921,
+          "title": "Sirhan Sirhan",
+          "description": "Assassin of Robert F. Kennedy (born 1944)",
+          "extract": "Sirhan Bishara Sirhan is a Palestinian-Jordanian man who assassinated U.S. senator Robert F. Kennedy, the younger brother of U.S. president John F. Kennedy and a candidate for the Democratic nomination in the 1968 United States presidential election on June 5, 1968. Sirhan was 24 years old at the time. On April 17, 1969, he was convicted of first-degree murder, among other charges. He was subsequently sentenced to death by gas chamber. In 1972, this was commuted to a life sentence in the aftermath of People v. Anderson. The circumstances surrounding the attack, which took place five years after President Kennedy's assassination, have led to numerous conspiracy theories.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sirhan_Sirhan",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Robert F. Kennedy",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Robert_F._Kennedy",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "06-05-2012-53877b6b",
+      "year": 2012,
+      "text": "Last transit of Venus until the year 2117.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SDO%27s_Ultra-high_Definition_View_of_2012_Venus_Transit_%28304_Angstrom_Full_Disc_02%29.jpg/3840px-SDO%27s_Ultra-high_Definition_View_of_2012_Venus_Transit_%28304_Angstrom_Full_Disc_02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SDO%27s_Ultra-high_Definition_View_of_2012_Venus_Transit_%28304_Angstrom_Full_Disc_02%29.jpg/330px-SDO%27s_Ultra-high_Definition_View_of_2012_Venus_Transit_%28304_Angstrom_Full_Disc_02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sdo's_ultra-high_definition_view_of_2012_venus_transit_(304_angstrom_full_disc_02).jpg",
+        "width": 4096,
+        "height": 4096,
+        "title": "2012 transit of Venus",
+        "description": "Transit of Venus across the Sun visible from Earth on 5–6 June 2012",
+        "extract": "The 2012 transit of Venus, when the planet Venus appeared as a small, dark spot passing across the face of the Sun, began at 22:09 UTC on 5 June 2012, and finished at 04:49 UTC on 6 June. Depending on the position of the observer, the exact times varied by up to ±7 minutes. Transits of Venus are among the rarest of predictable celestial phenomena and occur in pairs. Consecutive transits per pair are spaced 8 years apart, and consecutive pairs occur more than a century apart: The previous transit of Venus took place on 8 June 2004 ; the next pair of transits will occur on 10–11 December 2117 and December 2125 within the 22nd century.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2012_transit_of_Venus",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SDO%27s_Ultra-high_Definition_View_of_2012_Venus_Transit_%28304_Angstrom_Full_Disc_02%29.jpg/3840px-SDO%27s_Ultra-high_Definition_View_of_2012_Venus_Transit_%28304_Angstrom_Full_Disc_02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/SDO%27s_Ultra-high_Definition_View_of_2012_Venus_Transit_%28304_Angstrom_Full_Disc_02%29.jpg/330px-SDO%27s_Ultra-high_Definition_View_of_2012_Venus_Transit_%28304_Angstrom_Full_Disc_02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sdo's_ultra-high_definition_view_of_2012_venus_transit_(304_angstrom_full_disc_02).jpg",
+          "width": 4096,
+          "height": 4096,
+          "title": "2012 transit of Venus",
+          "description": "Transit of Venus across the Sun visible from Earth on 5–6 June 2012",
+          "extract": "The 2012 transit of Venus, when the planet Venus appeared as a small, dark spot passing across the face of the Sun, began at 22:09 UTC on 5 June 2012, and finished at 04:49 UTC on 6 June. Depending on the position of the observer, the exact times varied by up to ±7 minutes. Transits of Venus are among the rarest of predictable celestial phenomena and occur in pairs. Consecutive transits per pair are spaced 8 years apart, and consecutive pairs occur more than a century apart: The previous transit of Venus took place on 8 June 2004 ; the next pair of transits will occur on 10–11 December 2117 and December 2125 within the 22nd century.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2012_transit_of_Venus",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/2012_Transit_of_Venus%2C_path_across_Sun_and_associated_data.png/1280px-2012_Transit_of_Venus%2C_path_across_Sun_and_associated_data.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/2012_Transit_of_Venus%2C_path_across_Sun_and_associated_data.png/1280px-2012_Transit_of_Venus%2C_path_across_Sun_and_associated_data.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "2012_transit_of_venus,_path_across_sun_and_associated_data.png",
+          "width": 800,
+          "height": 600,
+          "title": "Path across the Sun, with contact times and other data",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2012_transit_of_Venus",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Visibility_of_2012_Transit_of_Venus.png/500px-Visibility_of_2012_Transit_of_Venus.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Visibility_of_2012_Transit_of_Venus.png/500px-Visibility_of_2012_Transit_of_Venus.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "visibility_of_2012_transit_of_venus.png",
+          "width": 800,
+          "height": 600,
+          "title": "Visibility map",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2012_transit_of_Venus",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2012 transit of Venus",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2012_transit_of_Venus",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "06-05-1984-d40349e9",
+      "year": 1984,
+      "text": "Operation Blue Star: Under orders from India's prime minister, Indira Gandhi, the Indian Army begins an invasion of the Golden Temple, the holiest site of the Sikh religion.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Operation_Bluestar_Aftermath_on_Akal_Takht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/Operation_Bluestar_Aftermath_on_Akal_Takht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "operation_bluestar_aftermath_on_akal_takht.jpg",
+        "width": 199,
+        "height": 256,
+        "title": "Operation Blue Star",
+        "description": "1984 Indian military operation",
+        "extract": "Operation Blue Star was a military operation by the Indian Armed Forces conducted between 1 and 10 June 1984, with the stated objective of removing Damdami Taksal leader Jarnail Singh Bhindranwale and militants from the buildings of the Golden Temple, the holiest site of Sikhism, in Amritsar. The Shiromani Akali Dal political party and other Sikh factions had been based there during the course of the Dharam Yudh Morcha. The operation would mark the beginning of the Insurgency in Punjab, India.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Blue_Star",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Operation_Bluestar_Aftermath_on_Akal_Takht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/3/3b/Operation_Bluestar_Aftermath_on_Akal_Takht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "operation_bluestar_aftermath_on_akal_takht.jpg",
+          "width": 199,
+          "height": 256,
+          "title": "Operation Blue Star",
+          "description": "1984 Indian military operation",
+          "extract": "Operation Blue Star was a military operation by the Indian Armed Forces conducted between 1 and 10 June 1984, with the stated objective of removing Damdami Taksal leader Jarnail Singh Bhindranwale and militants from the buildings of the Golden Temple, the holiest site of Sikhism, in Amritsar. The Shiromani Akali Dal political party and other Sikh factions had been based there during the course of the Dharam Yudh Morcha. The operation would mark the beginning of the Insurgency in Punjab, India.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Blue_Star",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Indira_Gandhi_official_portrait.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Indira_Gandhi_official_portrait.png/330px-Indira_Gandhi_official_portrait.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "indira_gandhi_official_portrait.png",
+          "width": 2592,
+          "height": 3840,
+          "title": "Indira Gandhi",
+          "description": "Prime Minister of India (1966–1977; 1980–1984)",
+          "extract": "Indira Priyadarshini Gandhi was an Indian stateswoman who twice served as the Prime Minister of India from 1966 to 1977 and again from 1980 until her assassination in 1984. She was India's first and only female prime minister, and a central figure in Indian politics as the leader of the Indian National Congress (INC). Gandhi also served as chairperson of the Non-Aligned Movement (NAM) from 1983 to 1984, becoming the first Indian to hold the position. She was the daughter of Jawaharlal Nehru, the first prime minister of India, and the mother of Rajiv Gandhi, who succeeded her as prime minister. Her cumulative tenure of 15 years and 350 days, spanning four terms, makes her the second-longest-serving Indian prime minister after her father.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Indira_Gandhi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/3840px-The_Golden_Temple_of_Amrithsar_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/330px-The_Golden_Temple_of_Amrithsar_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_golden_temple_of_amrithsar_7.jpg",
+          "width": 4176,
+          "height": 2784,
+          "title": "Golden Temple",
+          "description": "Sikh religious site in Punjab, India",
+          "extract": "The Golden Temple is a gurdwara located in Amritsar, Punjab, India. It is the pre-eminent spiritual site of Sikhism and its holiest site. The gurdwara complex is a collection of buildings around the sanctum sanctorum and the sarovar, known as the Amrit Sarovar. One of these is Akal Takht, part of the Panj Takht and the chief centre of religious authority of Sikhism. Additional buildings include a clock tower, the offices of the Shiromani Gurdwara Parbandhak Committee, a museum and a langar—a free Sikh community-run kitchen that offers a vegetarian meal to all visitors without discrimination. Over 150,000 people visit the shrine every day for worship, being one of the most visited religious sites in the world. The gurdwara complex has been nominated as a UNESCO World Heritage Site, and its application is pending on the tentative list of UNESCO.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Golden_Temple",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Operation Blue Star",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Operation_Blue_Star",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "06-05-1610-ad45774b",
+      "year": 1610,
+      "text": "The masque Tethys' Festival was performed at the Palace of Whitehall to celebrate the investiture of Henry Frederick as Prince of Wales.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/IJonesKnightmasque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IJonesKnightmasque.jpg/330px-IJonesKnightmasque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ijonesknightmasque.jpg",
+        "width": 358,
+        "height": 646,
+        "title": "Masque",
+        "description": "Courtly entertainment with music and dance",
+        "extract": "The masque was a form of festive courtly entertainment that flourished in 16th- and early 17th-century Europe, though it was developed earlier in Italy, in forms including the intermedio. A masque involved music, dancing, singing and acting, within an elaborate stage design, in which the architectural framing and costumes might be designed by a renowned architect, to present a deferential allegory flattering to the patron. Professional actors and musicians were hired for the speaking and singing parts. Masquers who did not speak or sing were often courtiers: the English queen Anne of Denmark frequently danced with her ladies in masques between 1603 and 1611, and Henry VIII and Charles I of England performed in the masques at their courts. In the tradition of masque, Louis XIV of France danced in ballets at Versailles with music by Jean-Baptiste Lully.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Masque",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/IJonesKnightmasque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IJonesKnightmasque.jpg/330px-IJonesKnightmasque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ijonesknightmasque.jpg",
+          "width": 358,
+          "height": 646,
+          "title": "Masque",
+          "description": "Courtly entertainment with music and dance",
+          "extract": "The masque was a form of festive courtly entertainment that flourished in 16th- and early 17th-century Europe, though it was developed earlier in Italy, in forms including the intermedio. A masque involved music, dancing, singing and acting, within an elaborate stage design, in which the architectural framing and costumes might be designed by a renowned architect, to present a deferential allegory flattering to the patron. Professional actors and musicians were hired for the speaking and singing parts. Masquers who did not speak or sing were often courtiers: the English queen Anne of Denmark frequently danced with her ladies in masques between 1603 and 1611, and Henry VIII and Charles I of England performed in the masques at their courts. In the tradition of masque, Louis XIV of France danced in ballets at Versailles with music by Jean-Baptiste Lully.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Masque",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Jones_Tethys_Festival_nymph_1610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jones_Tethys_Festival_nymph_1610.jpg/330px-Jones_Tethys_Festival_nymph_1610.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jones_tethys_festival_nymph_1610.jpg",
+          "width": 437,
+          "height": 805,
+          "title": "Tethys' Festival",
+          "description": "17th century English Masque",
+          "extract": "Tethys' Festival was a masque produced on 5 June 1610 to celebrate the investiture of Prince Henry (1594–1612) as Prince of Wales.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tethys'_Festival",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/The_Old_Palace_of_Whitehall_by_Hendrik_Danckerts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/The_Old_Palace_of_Whitehall_by_Hendrik_Danckerts.jpg/330px-The_Old_Palace_of_Whitehall_by_Hendrik_Danckerts.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_old_palace_of_whitehall_by_hendrik_danckerts.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "Palace of Whitehall",
+          "description": "English royal residence in London (1530–1698)",
+          "extract": "The Palace of Whitehall – also spelled White Hall – at Westminster was the main residence of the English monarchs from 1530 until 1698, when most of its structures, with the notable exception of Inigo Jones's Banqueting House of 1622, were destroyed by fire. Henry VIII moved the royal residence to Whitehall after the old royal apartments at the nearby Palace of Westminster were themselves destroyed by fire. Although the Whitehall palace has not survived, the area where it was located is still called Whitehall and has remained a centre of the British government.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Palace_of_Whitehall",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Masque",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Masque",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "06-05-1967-823cdd18",
+      "year": 1967,
+      "text": "Following Israel's initiation of Operation Focus with the goal to neutralise the Egyptian Air Force, Syrian Air Force, and the Royal Jordanian Air Force, the Six-Day War begins.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/6dayswar1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/6dayswar1.jpg/330px-6dayswar1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "6dayswar1.jpg",
+        "width": 800,
+        "height": 525,
+        "title": "Operation Focus",
+        "description": "Airstrike by Israel at the start of the Six-Day War in 1967",
+        "extract": "Operation Focus was the opening airstrike by Israel at the start of the Six-Day War in 1967. It is sometimes referred to as the \"Sinai Air Strike\". At 07:45 on 5 June 1967, the Israeli Air Force (IAF) under Maj. Gen. Mordechai Hod launched a massive airstrike that destroyed the majority of the Egyptian Air Force on the ground. Following Syrian and Jordanian attacks in retaliation, the Israeli Air Force bombed air bases in those countries. By noon, the Egyptian, Jordanian and Syrian Air Forces, totaling about 450 aircraft, were destroyed. It was also very successful in disabling 18 airfields in Egypt, hindering Egyptian air operations for the duration of the war, and remains one of the most successful air attack campaigns in military history.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Focus",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/6dayswar1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/6dayswar1.jpg/330px-6dayswar1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "6dayswar1.jpg",
+          "width": 800,
+          "height": 525,
+          "title": "Operation Focus",
+          "description": "Airstrike by Israel at the start of the Six-Day War in 1967",
+          "extract": "Operation Focus was the opening airstrike by Israel at the start of the Six-Day War in 1967. It is sometimes referred to as the \"Sinai Air Strike\". At 07:45 on 5 June 1967, the Israeli Air Force (IAF) under Maj. Gen. Mordechai Hod launched a massive airstrike that destroyed the majority of the Egyptian Air Force on the ground. Following Syrian and Jordanian attacks in retaliation, the Israeli Air Force bombed air bases in those countries. By noon, the Egyptian, Jordanian and Syrian Air Forces, totaling about 450 aircraft, were destroyed. It was also very successful in disabling 18 airfields in Egypt, hindering Egyptian air operations for the duration of the war, and remains one of the most successful air attack campaigns in military history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Focus",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/6DayWarEnglish.png/3840px-6DayWarEnglish.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/6DayWarEnglish.png/330px-6DayWarEnglish.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "6daywarenglish.png",
+          "width": 4000,
+          "height": 6900,
+          "title": "Six-Day War",
+          "description": "1967 war between Israel and Arab states",
+          "extract": "The Six-Day War, or the 1967 Arab–Israeli war, was fought between Israel and a coalition of Arab states, primarily Egypt, Syria, and Jordan, in the context of the Arab–Israeli conflict. In the war, Israel captured and occupied the West Bank from Jordan, the Gaza Strip and the Sinai Peninsula from Egypt, and the Golan Heights from Syria.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Six-Day_War",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Operation Focus",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Operation_Focus",
+      "relatedPagesCount": 5
+    }
+  ]
+}

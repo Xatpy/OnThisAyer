@@ -1,0 +1,643 @@
+{
+  "date": {
+    "month": 5,
+    "day": 19,
+    "formatted": "05-19"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "05-19-2000-dfa003b4",
+      "year": 2000,
+      "text": "Space Shuttle program: Space Shuttle Atlantis is launched on mission STS-101 to resupply the International Space Station.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+        "width": 3697,
+        "height": 2217,
+        "title": "Space Shuttle Atlantis",
+        "description": "Space Shuttle orbiter (1985–2011)",
+        "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+          "width": 3697,
+          "height": 2217,
+          "title": "Space Shuttle Atlantis",
+          "description": "Space Shuttle orbiter (1985–2011)",
+          "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Astronaut_Jeffrey_Williams_spacewalking_%28STS-101%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Astronaut_Jeffrey_Williams_spacewalking_%28STS-101%29.jpg/330px-Astronaut_Jeffrey_Williams_spacewalking_%28STS-101%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "astronaut_jeffrey_williams_spacewalking_(sts-101).jpg",
+          "width": 2869,
+          "height": 1915,
+          "title": "STS-101",
+          "description": "2000 American crewed spaceflight to the ISS",
+          "extract": "STS-101 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Atlantis. The mission was a 10-day mission conducted between 19 May 2000 and 29 May 2000. The mission was designated 2A.2a and was a resupply mission to the International Space Station. STS-101 was delayed 3 times in April due to high winds. STS-101 traveled 4.1 million miles and completed 155 revolutions of the earth and landed on runway 15 at Kennedy Space Center. The mission was the first to be flown by a shuttle equipped with a glass cockpit.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-101",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/3840px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/330px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss-56_international_space_station_fly-around_(07).jpg",
+          "width": 6048,
+          "height": 4032,
+          "title": "International Space Station",
+          "description": "Modular space station in low Earth orbit",
+          "extract": "The International Space Station (ISS) is a space station in low Earth orbit (LEO). It is the product of the International Space Station program and is operated by five partner space agencies: NASA, Roscosmos (Russia), ESA (Europe), JAXA (Japan), and CSA (Canada). It is the first space station built, maintained and crewed through international cooperation and the largest human spacecraft ever constructed. It is an orbital research station, where scientific experiments in microgravity are conducted and the space environment is studied. Since 2 November 2000, it has hosted the longest continuous human presence in space. Alongside China's Tiangong, it is one of two currently operational space stations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/International_Space_Station",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Atlantis",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-19-1996-a7a5be6d",
+      "year": 1996,
+      "text": "Space Shuttle program: Space Shuttle Endeavour is launched on mission STS-77.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+        "width": 3680,
+        "height": 2448,
+        "title": "Space Shuttle Endeavour",
+        "description": "Space Shuttle orbiter (1992–2011)",
+        "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+          "width": 3680,
+          "height": 2448,
+          "title": "Space Shuttle Endeavour",
+          "description": "Space Shuttle orbiter (1992–2011)",
+          "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Inflatable_Antenna_Experiment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Inflatable_Antenna_Experiment.jpg/330px-Inflatable_Antenna_Experiment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "inflatable_antenna_experiment.jpg",
+          "width": 3060,
+          "height": 2040,
+          "title": "STS-77",
+          "description": "1996 American crewed spaceflight",
+          "extract": "STS-77 was the 77th Space Shuttle mission and the 11th mission of the Space Shuttle Endeavour. The mission began from launch pad 39B from Kennedy Space Center, Florida on 19 May 1996 lasting 10 days and 40 minutes and completing 161 revolutions before landing on runway 33. The defense and aerospace technology company L'Garde was responsible for the design and manufacture of the Antenna in the Inflatable Antenna Experiment, a key component of the STS-77 mission.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-77",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Space_Shuttle_concepts.jpg/330px-Space_Shuttle_concepts.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Space_Shuttle_concepts.jpg/330px-Space_Shuttle_concepts.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_concepts.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Early U.S. space shuttle concepts",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-19-2010-00496af5",
+      "year": 2010,
+      "text": "In Bangkok, the Thai military concluded a week-long crackdown on widespread protests by forcing the surrender of opposition leaders.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thai_Type_85_APCs_during_2010_Thai_political_protests.jpg/3840px-Thai_Type_85_APCs_during_2010_Thai_political_protests.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thai_Type_85_APCs_during_2010_Thai_political_protests.jpg/330px-Thai_Type_85_APCs_during_2010_Thai_political_protests.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "thai_type_85_apcs_during_2010_thai_political_protests.jpg",
+        "width": 5138,
+        "height": 3419,
+        "title": "2010 Thai military crackdown",
+        "description": "State suppression of pro-democracy protests in Bangkok, Thailand",
+        "extract": "On 10 April and 13–19 May 2010, the Thai military cracked down on the United Front for Democracy Against Dictatorship (UDD) protests in central Bangkok, the capital of Thailand. The crackdown was the culmination of months of protests that called for the Democrat Party-led government of Abhisit Vejjajiva to dissolve parliament and hold elections. The crackdowns occurred in the vicinity of protest sites near Phan Fa Lilat Bridge and Ratchaprasong intersection. More than 85 were killed, including more than 80 civilians according to the Erawan EMS Center. Two foreigners and two paramedics were killed. More than 2,000 were injured, an undisclosed number of arrests occurred, and 51 protesters remained missing as of 8 June. The Thai media dubbed the crackdowns \"Cruel April\" and \"Savage May\". After the protest, its leaders surrendered at the conclusion of the 19 May crackdown, followed by dozens of arson attacks nationwide, including at CentralWorld. Two red shirts who were accused of arson were acquitted later in both courts.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2010_Thai_military_crackdown",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thai_Type_85_APCs_during_2010_Thai_political_protests.jpg/3840px-Thai_Type_85_APCs_during_2010_Thai_political_protests.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Thai_Type_85_APCs_during_2010_Thai_political_protests.jpg/330px-Thai_Type_85_APCs_during_2010_Thai_political_protests.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "thai_type_85_apcs_during_2010_thai_political_protests.jpg",
+          "width": 5138,
+          "height": 3419,
+          "title": "2010 Thai military crackdown",
+          "description": "State suppression of pro-democracy protests in Bangkok, Thailand",
+          "extract": "On 10 April and 13–19 May 2010, the Thai military cracked down on the United Front for Democracy Against Dictatorship (UDD) protests in central Bangkok, the capital of Thailand. The crackdown was the culmination of months of protests that called for the Democrat Party-led government of Abhisit Vejjajiva to dissolve parliament and hold elections. The crackdowns occurred in the vicinity of protest sites near Phan Fa Lilat Bridge and Ratchaprasong intersection. More than 85 were killed, including more than 80 civilians according to the Erawan EMS Center. Two foreigners and two paramedics were killed. More than 2,000 were injured, an undisclosed number of arrests occurred, and 51 protesters remained missing as of 8 June. The Thai media dubbed the crackdowns \"Cruel April\" and \"Savage May\". After the protest, its leaders surrendered at the conclusion of the 19 May crackdown, followed by dozens of arson attacks nationwide, including at CentralWorld. Two red shirts who were accused of arson were acquitted later in both courts.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2010_Thai_military_crackdown",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/UDD_%28Red_Shirt%29_protesters_on_8th_April_2010_near_the_Ratchaprasong_intersection.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/UDD_%28Red_Shirt%29_protesters_on_8th_April_2010_near_the_Ratchaprasong_intersection.jpg/330px-UDD_%28Red_Shirt%29_protesters_on_8th_April_2010_near_the_Ratchaprasong_intersection.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "udd_(red_shirt)_protesters_on_8th_april_2010_near_the_ratchaprasong_intersection.jpg",
+          "width": 500,
+          "height": 500,
+          "title": "2010 Thai political protests",
+          "description": "Pro-democracy protests in Thailand",
+          "extract": "A series of political protests were organised by the United Front for Democracy Against Dictatorship (UDD) in Bangkok, Thailand from 12 March to 19 May 2010 against the Democrat Party-led government. The UDD called for Prime Minister Abhisit Vejjajiva to dissolve parliament and hold elections earlier than the end of term elections scheduled in 2012. The UDD demanded that the government stand down, but negotiations to set an election date failed. The protests escalated into prolonged violent confrontations between the protesters and the military, and attempts to negotiate a ceasefire failed. More than 80 civilians and six soldiers were killed, and more than 2,100 injured by the time the military violently put down the protest on 19 May.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2010_Thai_political_protests",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/c3/UDD_Crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/UDD_Crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "udd_crest.png",
+          "width": 191,
+          "height": 191,
+          "title": "United Front for Democracy Against Dictatorship",
+          "description": "Pro-democracy political pressure group in Thailand",
+          "extract": "The United Front for Democracy Against Dictatorship, whose supporters are commonly called Red Shirts, is a political pressure group opposed to the People's Alliance for Democracy (PAD), the 2006 Thai coup d'état, and supporters of the coup. Notable UDD leaders include Jatuporn Prompan, Nattawut Saikua, Veera Musikapong, Jaran Ditapichai, and Weng Tojirakarn. The UDD allies itself with the Pheu Thai Party, which was deposed by the 2014 military coup.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/United_Front_for_Democracy_Against_Dictatorship",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Royal Thai Armed Forces",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Royal_Thai_Armed_Forces",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-19-1986-39ecce18",
+      "year": 1986,
+      "text": "The Firearm Owners Protection Act is signed into law by U.S. President Ronald Reagan.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+        "width": 2399,
+        "height": 3000,
+        "title": "Ronald Reagan",
+        "description": "President of the United States from 1981 to 1989",
+        "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+          "width": 2399,
+          "height": 3000,
+          "title": "Ronald Reagan",
+          "description": "President of the United States from 1981 to 1989",
+          "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Firearm Owners Protection Act",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Firearm_Owners_Protection_Act",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-19-1845-47eda222",
+      "year": 1845,
+      "text": "Captain John Franklin (pictured) departed Greenhithe, England, on an expedition to the Canadian Arctic in search of the Northwest Passage; all 129 men were later lost when their ships became icebound in Victoria Strait.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sir_John_Franklin_by_Thomas_Phillips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sir_John_Franklin_by_Thomas_Phillips.jpg/330px-Sir_John_Franklin_by_Thomas_Phillips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sir_john_franklin_by_thomas_phillips.jpg",
+        "width": 2400,
+        "height": 2863,
+        "title": "John Franklin",
+        "description": "British naval officer and explorer (1786–1847)",
+        "extract": "Rear-Admiral Sir John Franklin was a British Royal Navy officer, explorer and colonial administrator. After serving in the Napoleonic Wars and the War of 1812, he led two expeditions into the Canadian Arctic and through the islands of the Arctic Archipelago, during the Coppermine expedition of 1819 and the Mackenzie River expedition of 1825, and served as Lieutenant-Governor of Van Diemen's Land from 1837 to 1843. During his third and final expedition, an attempt to traverse the Northwest Passage in 1845, Franklin's ships became icebound off King William Island in what is now Nunavut, where he died in June 1847. The icebound ships were abandoned ten months later, and the entire crew died from starvation, hypothermia, and scurvy.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_Franklin",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sir_John_Franklin_by_Thomas_Phillips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sir_John_Franklin_by_Thomas_Phillips.jpg/330px-Sir_John_Franklin_by_Thomas_Phillips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sir_john_franklin_by_thomas_phillips.jpg",
+          "width": 2400,
+          "height": 2863,
+          "title": "John Franklin",
+          "description": "British naval officer and explorer (1786–1847)",
+          "extract": "Rear-Admiral Sir John Franklin was a British Royal Navy officer, explorer and colonial administrator. After serving in the Napoleonic Wars and the War of 1812, he led two expeditions into the Canadian Arctic and through the islands of the Arctic Archipelago, during the Coppermine expedition of 1819 and the Mackenzie River expedition of 1825, and served as Lieutenant-Governor of Van Diemen's Land from 1837 to 1843. During his third and final expedition, an attempt to traverse the Northwest Passage in 1845, Franklin's ships became icebound off King William Island in what is now Nunavut, where he died in June 1847. The icebound ships were abandoned ten months later, and the entire crew died from starvation, hypothermia, and scurvy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_Franklin",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/GreenhitheIngressPark5342.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/GreenhitheIngressPark5342.JPG/330px-GreenhitheIngressPark5342.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "greenhitheingresspark5342.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": "Greenhithe, Kent",
+          "description": "Village in the Borough of Dartford, Kent, England",
+          "extract": "Greenhithe is a village in the Borough of Dartford in Kent, England, and the civil parish of Swanscombe and Greenhithe. It is located 4 miles east of Dartford and 5 miles west of Gravesend.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Greenhithe%2C_Kent",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Franklin%27s-Lost-Expedition.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Franklin%27s-Lost-Expedition.png/330px-Franklin%27s-Lost-Expedition.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "franklin's-lost-expedition.png",
+          "width": 1024,
+          "height": 768,
+          "title": "Franklin's lost expedition",
+          "description": "1845–48 British failed Arctic exploration",
+          "extract": "Franklin's lost expedition was a failed British voyage of Arctic exploration led by Captain Sir John Franklin that departed England in 1845 aboard two ships, HMS Erebus and HMS Terror, and was assigned to traverse the last unnavigated sections of the Northwest Passage in the Canadian Arctic and to record magnetic data to help determine whether a better understanding could aid navigation. The expedition met with disaster after both ships and their crews, a total of 129 officers and men, became icebound in Victoria Strait near King William Island in what is today the Canadian territory of Nunavut. After being icebound for more than a year, Erebus and Terror were abandoned in April 1848, by which point two dozen men, including Franklin, had died. The survivors, now led by Franklin's second-in-command, Francis Crozier, and Erebus's captain, James Fitzjames, set out for the Canadian mainland and disappeared, presumably having perished.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Franklin's_lost_expedition",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "John Franklin",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/John_Franklin",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "05-19-1536-c2a32a46",
+      "year": 1536,
+      "text": "Anne Boleyn, the second wife of Henry VIII of England, is beheaded for adultery, treason, and incest.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/AnneBoleynHever.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/AnneBoleynHever.jpg/330px-AnneBoleynHever.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "anneboleynhever.jpg",
+        "width": 1765,
+        "height": 2360,
+        "title": "Anne Boleyn",
+        "description": "Queen of England from 1533 to 1536",
+        "extract": "Anne Boleyn was Queen of England from 1533 to 1536, as the second wife of King Henry VIII. The circumstances of her marriage and execution, by beheading for treason, made her a key figure in the political and religious upheaval that marked the start of the English Reformation.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_Boleyn",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/AnneBoleynHever.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/AnneBoleynHever.jpg/330px-AnneBoleynHever.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anneboleynhever.jpg",
+          "width": 1765,
+          "height": 2360,
+          "title": "Anne Boleyn",
+          "description": "Queen of England from 1533 to 1536",
+          "extract": "Anne Boleyn was Queen of England from 1533 to 1536, as the second wife of King Henry VIII. The circumstances of her marriage and execution, by beheading for treason, made her a key figure in the political and religious upheaval that marked the start of the English Reformation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anne_Boleyn",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg/330px-After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "after_hans_holbein_the_younger_-_portrait_of_henry_viii_-_google_art_project.jpg",
+          "width": 2040,
+          "height": 3588,
+          "title": "Henry VIII",
+          "description": "King of England from 1509 to 1547",
+          "extract": "Henry VIII was King of England and Ireland from 22 April 1509 until his death in 1547.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Attributed_to_Remigius_van_Leemput_%28d._1675%29_-_Portrait_of_a_Woman_-_RCIN_402991_-_Royal_Collection.jpg/1280px-Attributed_to_Remigius_van_Leemput_%28d._1675%29_-_Portrait_of_a_Woman_-_RCIN_402991_-_Royal_Collection.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Attributed_to_Remigius_van_Leemput_%28d._1675%29_-_Portrait_of_a_Woman_-_RCIN_402991_-_Royal_Collection.jpg/1280px-Attributed_to_Remigius_van_Leemput_%28d._1675%29_-_Portrait_of_a_Woman_-_RCIN_402991_-_Royal_Collection.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "attributed_to_remigius_van_leemput_(d._1675)_-_portrait_of_a_woman_-_rcin_402991_-_royal_collection.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Portrait of Anne's elder sister Mary Boleyn, by Remigius van Leemput, c. 1630–1670",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anne_Boleyn",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Anne Boleyn",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Anne_Boleyn",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-19-1499-50e466b2",
+      "year": 1499,
+      "text": "Catherine of Aragon is married by proxy to Arthur, Prince of Wales. Catherine is 13 and Arthur is 12.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Catherine_of_Aragon_%281485-1536%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Catherine_of_Aragon_%281485-1536%29.jpg/330px-Catherine_of_Aragon_%281485-1536%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "catherine_of_aragon_(1485-1536).jpg",
+        "width": 1856,
+        "height": 2200,
+        "title": "Catherine of Aragon",
+        "description": "Queen of England from 1509 to 1533",
+        "extract": "Catherine of Aragon was Queen of England as the first wife of Henry VIII from their marriage on 11 June 1509 until its annulment on 23 May 1533. She had previously been Princess of Wales as the wife of Henry's elder brother Arthur, Prince of Wales for a short time before his death.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Catherine_of_Aragon_%281485-1536%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Catherine_of_Aragon_%281485-1536%29.jpg/330px-Catherine_of_Aragon_%281485-1536%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "catherine_of_aragon_(1485-1536).jpg",
+          "width": 1856,
+          "height": 2200,
+          "title": "Catherine of Aragon",
+          "description": "Queen of England from 1509 to 1533",
+          "extract": "Catherine of Aragon was Queen of England as the first wife of Henry VIII from their marriage on 11 June 1509 until its annulment on 23 May 1533. She had previously been Princess of Wales as the wife of Henry's elder brother Arthur, Prince of Wales for a short time before his death.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Anglo-Flemish_School%2C_Arthur%2C_Prince_of_Wales_%28Granard_portrait%29_-004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Anglo-Flemish_School%2C_Arthur%2C_Prince_of_Wales_%28Granard_portrait%29_-004_%28cropped%29.jpg/330px-Anglo-Flemish_School%2C_Arthur%2C_Prince_of_Wales_%28Granard_portrait%29_-004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anglo-flemish_school,_arthur,_prince_of_wales_(granard_portrait)_-004_(cropped).jpg",
+          "width": 372,
+          "height": 595,
+          "title": "Arthur, Prince of Wales",
+          "description": "Heir apparent of Henry VII of England (1486–1502)",
+          "extract": "Arthur, Prince of Wales, was the eldest son of King Henry VII of England and Elizabeth of York, and an older brother to the future King Henry VIII. He was Duke of Cornwall from birth, and he was created Prince of Wales and Earl of Chester in 1489. As the heir apparent of his father, Arthur was viewed by contemporaries as the great hope of the newly established House of Tudor. His mother was the daughter of the Yorkist king, Edward IV, and his birth cemented the union between the House of Lancaster and the House of York.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Arthur%2C_Prince_of_Wales",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Juan_de_Flandes_002.jpg/1280px-Juan_de_Flandes_002.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Juan_de_Flandes_002.jpg/1280px-Juan_de_Flandes_002.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "juan_de_flandes_002.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Portrait by Juan de Flandes thought to be of 11-year-old Catherine. She resembles her sister Joanna.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Catherine of Aragon",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-19-1445-43c6416d",
+      "year": 1445,
+      "text": "John II of Castile defeats the Infantes of Aragon at the First Battle of Olmedo.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Burgos_-_Cartuja_de_Miraflores_-_Tumba_de_Juan_II_de_Castilla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Burgos_-_Cartuja_de_Miraflores_-_Tumba_de_Juan_II_de_Castilla.jpg/330px-Burgos_-_Cartuja_de_Miraflores_-_Tumba_de_Juan_II_de_Castilla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "burgos_-_cartuja_de_miraflores_-_tumba_de_juan_ii_de_castilla.jpg",
+        "width": 2848,
+        "height": 2136,
+        "title": "John II of Castile",
+        "description": "King of Castile and León from 1406 to 1454",
+        "extract": "John II of Castile was King of Castile and León from 1406 to 1454. He succeeded his older sister, Maria of Castile, Queen of Aragon, as Prince of Asturias in 1405.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Burgos_-_Cartuja_de_Miraflores_-_Tumba_de_Juan_II_de_Castilla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Burgos_-_Cartuja_de_Miraflores_-_Tumba_de_Juan_II_de_Castilla.jpg/330px-Burgos_-_Cartuja_de_Miraflores_-_Tumba_de_Juan_II_de_Castilla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "burgos_-_cartuja_de_miraflores_-_tumba_de_juan_ii_de_castilla.jpg",
+          "width": 2848,
+          "height": 2136,
+          "title": "John II of Castile",
+          "description": "King of Castile and León from 1406 to 1454",
+          "extract": "John II of Castile was King of Castile and León from 1406 to 1454. He succeeded his older sister, Maria of Castile, Queen of Aragon, as Prince of Asturias in 1405.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Infantes_of_Aragon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Infantes_of_Aragon.jpg/330px-Infantes_of_Aragon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "infantes_of_aragon.jpg",
+          "width": 512,
+          "height": 488,
+          "title": "Infantes of Aragon",
+          "description": "Term for the sons of King Ferdinand I of Aragon",
+          "extract": "The Infantes of Aragon is an appellation commonly used by Spanish historians to refer to a group of 15th-century infantes (princes) of the House of Trastámara, specifically the sons of King Ferdinand I of Aragon and his wife Eleanor of Alburquerque:Infante Alfonso (1396–1458) – became Alfonso V of Aragon, also king of Sicily and Naples (f.1442)\nInfanta Maria (1396–1445) – Maria of Aragon, first wife of John II of Castile (m.1420)\nInfante Juan (1398–1479) – King of Navarre (f.1425), later King John II of Aragon (f.1458).\nInfante Enrique (1400–1445) – Henry of Aragon, Duke of Villena, Count of Albuquerque, Count of Empúries and Grand Master of the Order of Santiago (f.1409)\nInfanta Leonor (1402–1445) – Eleanor of Aragon, consort of Edward I of Portugal (m.1428)\nInfante Pedro (1406–1438) – Peter of Aragon, Count of Alburquerque and Duke of Noto\nInfante Sancho (1410–1416) – infant master of the Order of Alcántara, died in childhood",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Infantes_of_Aragon",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "John II of Castile",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-19-1051-e9f30bd6",
+      "year": 1051,
+      "text": "Henry I of France marries the Rus' princess, Anne of Kiev.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sceau_du_roi_Henri_Ier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sceau_du_roi_Henri_Ier.jpg/330px-Sceau_du_roi_Henri_Ier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sceau_du_roi_henri_ier.jpg",
+        "width": 566,
+        "height": 535,
+        "title": "Henry I of France",
+        "description": "King of the Franks from 1031 to 1060",
+        "extract": "Henry I was King of the Franks from 1031 to 1060. The royal demesne of France reached its smallest size during his reign, and for this reason he is often seen as emblematic of the weakness of the early Capetians. This is not entirely agreed upon, however, as other historians regard him as a strong but realistic king, who was forced to conduct a policy mindful of the limitations of the French monarchy.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_France",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sceau_du_roi_Henri_Ier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sceau_du_roi_Henri_Ier.jpg/330px-Sceau_du_roi_Henri_Ier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sceau_du_roi_henri_ier.jpg",
+          "width": 566,
+          "height": 535,
+          "title": "Henry I of France",
+          "description": "King of the Franks from 1031 to 1060",
+          "extract": "Henry I was King of the Franks from 1031 to 1060. The royal demesne of France reached its smallest size during his reign, and for this reason he is often seen as emblematic of the weakness of the early Capetians. This is not entirely agreed upon, however, as other historians regard him as a strong but realistic king, who was forced to conduct a policy mindful of the limitations of the French monarchy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_France",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/AnnaKyjev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/AnnaKyjev.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "annakyjev.jpg",
+          "width": 240,
+          "height": 502,
+          "title": "Anne of Kiev",
+          "description": "Queen of France from 1051 to 1060",
+          "extract": "Anne of Kiev or Anna Yaroslavna was a princess of Kievan Rus who became Queen of France in 1051 upon marrying King Henry I. She ruled the kingdom as regent during the minority of their son Philip I from Henry's death in 1060 until her controversial marriage to Count Ralph IV of Valois. Anne founded the Abbey of St. Vincent at Senlis.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anne_of_Kiev",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Henry_I_of_France_kronika.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Henry_I_of_France_kronika.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "henry_i_of_france_kronika.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Depiction of Henry from a genealogical chart of the Ottonian dynasty in a 12th-c. manuscript",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_France",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Henry I of France",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Henry_I_of_France",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-19-1971-93990e95",
+      "year": 1971,
+      "text": "Mars probe program: Mars 2 is launched by the Soviet Union.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1972_CPA_4113.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/1972_CPA_4113.jpg/330px-1972_CPA_4113.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "1972_cpa_4113.jpg",
+        "width": 1253,
+        "height": 891,
+        "title": "Mars 2",
+        "description": "Soviet orbiter and lander mission to Mars (1971–1972)",
+        "extract": "The Mars 2 was an uncrewed space probe of the Mars program, a series of uncrewed Mars landers and orbiters launched by the Soviet Union beginning 19 May 1971.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mars_2",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/1972_CPA_4113.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/1972_CPA_4113.jpg/330px-1972_CPA_4113.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1972_cpa_4113.jpg",
+          "width": 1253,
+          "height": 891,
+          "title": "Mars 2",
+          "description": "Soviet orbiter and lander mission to Mars (1971–1972)",
+          "extract": "The Mars 2 was an uncrewed space probe of the Mars program, a series of uncrewed Mars landers and orbiters launched by the Soviet Union beginning 19 May 1971.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars_2",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mars_1M.jpg/500px-Mars_1M.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Mars_1M.jpg/500px-Mars_1M.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "mars_1m.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A Mars 1M spacecraft",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Soviet_Mars_program",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Soviet Mars program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Soviet_Mars_program",
+      "relatedPagesCount": 3
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 2,
+    "day": 14,
+    "formatted": "02-14"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "02-14-2000-f3e67bb6",
+      "year": 2000,
+      "text": "The spacecraft NEAR Shoemaker enters orbit around asteroid 433 Eros, the first spacecraft to orbit an asteroid.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/NEAR_Shoemaker_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NEAR_Shoemaker_spacecraft_model.png/330px-NEAR_Shoemaker_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "near_shoemaker_spacecraft_model.png",
+        "width": 400,
+        "height": 265,
+        "title": "NEAR Shoemaker",
+        "description": "American space probe to asteroid (1996–2001)",
+        "extract": "Near Earth Asteroid Rendezvous – Shoemaker, renamed after its 1996 launch in honor of planetary scientist Eugene Shoemaker, was a robotic space probe designed by the Johns Hopkins University Applied Physics Laboratory for NASA to study the near-Earth asteroid Eros from close orbit over a period of a year. It was the first spacecraft to orbit an asteroid and land on it successfully. In February 2000, the mission closed in on the asteroid and orbited it. On February 12, 2001, Shoemaker touched down on the asteroid and was terminated just over two weeks later.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/NEAR_Shoemaker",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/NEAR_Shoemaker_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NEAR_Shoemaker_spacecraft_model.png/330px-NEAR_Shoemaker_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "near_shoemaker_spacecraft_model.png",
+          "width": 400,
+          "height": 265,
+          "title": "NEAR Shoemaker",
+          "description": "American space probe to asteroid (1996–2001)",
+          "extract": "Near Earth Asteroid Rendezvous – Shoemaker, renamed after its 1996 launch in honor of planetary scientist Eugene Shoemaker, was a robotic space probe designed by the Johns Hopkins University Applied Physics Laboratory for NASA to study the near-Earth asteroid Eros from close orbit over a period of a year. It was the first spacecraft to orbit an asteroid and land on it successfully. In February 2000, the mission closed in on the asteroid and orbited it. On February 12, 2001, Shoemaker touched down on the asteroid and was terminated just over two weeks later.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NEAR_Shoemaker",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Eros_-_PIA02923_%28color%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Eros_-_PIA02923_%28color%29.jpg/330px-Eros_-_PIA02923_%28color%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "eros_-_pia02923_(color).jpg",
+          "width": 760,
+          "height": 838,
+          "title": "433 Eros",
+          "description": "Near-Earth asteroid",
+          "extract": "433 Eros is a stony asteroid of the Amor group, and the first discovered, and second-largest near-Earth object. It has an elongated shape and a volume-equivalent diameter of approximately 16.8 kilometers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/433_Eros",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NEAR_Shoemaker_insignia.png/330px-NEAR_Shoemaker_insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NEAR_Shoemaker_insignia.png/330px-NEAR_Shoemaker_insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "near_shoemaker_insignia.png",
+          "width": 800,
+          "height": 600,
+          "title": "NEAR_Shoemaker_insignia",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NEAR_Shoemaker",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NEAR Shoemaker",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NEAR_Shoemaker",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-14-1990-a73d88f3",
+      "year": 1990,
+      "text": "The NASA space probe Voyager 1 took Pale Blue Dot (detail pictured), a photograph of Earth from a record distance of 40.5 astronomical units (6.06 billion km; 3.76 billion mi).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "voyager_spacecraft_model.png",
+        "width": 1700,
+        "height": 1233,
+        "title": "Voyager 1",
+        "description": "NASA space probe launched in 1977",
+        "extract": "Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program, to study the outer Solar System and the interstellar space beyond the Sun's heliosphere. It was launched 16 days after its twin, Voyager 2. It communicates through the NASA Deep Space Network (DSN) to receive routine commands and to transmit data to Earth. Real-time distance and velocity data are provided by NASA and JPL. At a distance of 171.19 AU as of August 2026, it is the most distant human-made object from Earth. Voyager 1 is projected to reach a distance of one light day from Earth in November 2026.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_1",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "voyager_spacecraft_model.png",
+          "width": 1700,
+          "height": 1233,
+          "title": "Voyager 1",
+          "description": "NASA space probe launched in 1977",
+          "extract": "Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program, to study the outer Solar System and the interstellar space beyond the Sun's heliosphere. It was launched 16 days after its twin, Voyager 2. It communicates through the NASA Deep Space Network (DSN) to receive routine commands and to transmit data to Earth. Real-time distance and velocity data are provided by NASA and JPL. At a distance of 171.19 AU as of August 2026, it is the most distant human-made object from Earth. Voyager 1 is projected to reach a distance of one light day from Earth in November 2026.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_1",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Pale_Blue_Dot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Pale_Blue_Dot.png/330px-Pale_Blue_Dot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pale_blue_dot.png",
+          "width": 453,
+          "height": 614,
+          "title": "Pale Blue Dot",
+          "description": "Photograph of Earth by Voyager 1",
+          "extract": "Pale Blue Dot is a photograph of Earth taken on February 14, 1990, by the Voyager 1 space probe from an unprecedented distance of over 6 billion kilometers, as part of that day's Family Portrait series of images of the Solar System.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pale_Blue_Dot",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-14-2005-f61ae0c8",
+      "year": 2005,
+      "text": "The online video platform YouTube was founded by Steve Chen, Chad Hurley, and Jawed Karim.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png/330px-Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "youtube_interface,_showing_search_results_of_burger_recipe.png",
+        "width": 1901,
+        "height": 1080,
+        "title": "YouTube",
+        "description": "Video-sharing platform",
+        "extract": "YouTube is an American online video-sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen who were all former employees at PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google itself. In January 2024, YouTube had reached more than 2.7 billion monthly active users, who collectively watched more than one billion hours of video every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of video per minute, and as of mid-2024, there were approximately 14.8 billion videos in total.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/YouTube",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png/330px-Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "youtube_interface,_showing_search_results_of_burger_recipe.png",
+          "width": 1901,
+          "height": 1080,
+          "title": "YouTube",
+          "description": "Video-sharing platform",
+          "extract": "YouTube is an American online video-sharing platform owned by Google. YouTube was founded on February 14, 2005, by Chad Hurley, Jawed Karim, and Steve Chen who were all former employees at PayPal. Headquartered in San Bruno, California, it is the second-most-visited website in the world, after Google itself. In January 2024, YouTube had reached more than 2.7 billion monthly active users, who collectively watched more than one billion hours of video every day. As of May 2019, videos were being uploaded to the platform at a rate of more than 500 hours of video per minute, and as of mid-2024, there were approximately 14.8 billion videos in total.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/YouTube",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Steve_Chen_%282022%29_02.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Steve_Chen_%282022%29_02.png/330px-Steve_Chen_%282022%29_02.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "steve_chen_(2022)_02.png",
+          "width": 912,
+          "height": 998,
+          "title": "Steve Chen",
+          "description": "Taiwanese-American Internet entrepreneur (born 1978)",
+          "extract": "Steve Chen is a Taiwanese-American software engineer and Internet entrepreneur who is a co-founder and ex-CTO of YouTube. After he co-founded AVOS Systems, Inc. and built MixBit, he joined Google Ventures in 2014.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Steve_Chen",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Streamy_Awards_Photo_1214_%284513304983%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Streamy_Awards_Photo_1214_%284513304983%29.jpg/330px-Streamy_Awards_Photo_1214_%284513304983%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "streamy_awards_photo_1214_(4513304983).jpg",
+          "width": 1331,
+          "height": 1794,
+          "title": "Chad Hurley",
+          "description": "American businessman (born 1977)",
+          "extract": "Chad Meredith Hurley is an American webmaster and businessman who served as the chief executive officer (CEO) of YouTube from its founding until 2010, when he became an advisor to the company. He also co-founded MixBit, a since closed video sharing service. In October 2006, he and Steve Chen sold YouTube for $1.65 billion to Google. Hurley worked in eBay's PayPal division, where one of his tasks involved designing the original PayPal logo, before co-founding YouTube with fellow PayPal employees Steve Chen and Jawed Karim. Hurley was primarily responsible for the tagging and video-sharing aspects of YouTube.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chad_Hurley",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "YouTube",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/YouTube",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-14-1914-00eda119",
+      "year": 1914,
+      "text": "The animated film Gertie the Dinosaur was released, later greatly influencing future animators such as the Fleischer brothers and Walt Disney.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gertie_the_Dinosaur_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gertie_the_Dinosaur_poster.jpg/330px-Gertie_the_Dinosaur_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gertie_the_dinosaur_poster.jpg",
+        "width": 1072,
+        "height": 1613,
+        "title": "Gertie the Dinosaur",
+        "description": "1914 animated silent film",
+        "extract": "Gertie the Dinosaur is an animated short film released in 1914 by American cartoonist and animator Winsor McCay. It is the first animated film to feature a dinosaur. McCay initially presented the film before live audiences as an interactive part of his vaudeville act; the frisky, childlike Gertie performed tricks at her master's command. McCay's employer William Randolph Hearst curtailed his vaudeville activities, prompting McCay to add a live-action introductory sequence to the film for its theatrical release, which was renamed Winsor McCay, the Famous Cartoonist, and Gertie. McCay abandoned a sequel, Gertie on Tour, after producing about a minute of footage.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gertie_the_Dinosaur",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gertie_the_Dinosaur_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Gertie_the_Dinosaur_poster.jpg/330px-Gertie_the_Dinosaur_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gertie_the_dinosaur_poster.jpg",
+          "width": 1072,
+          "height": 1613,
+          "title": "Gertie the Dinosaur",
+          "description": "1914 animated silent film",
+          "extract": "Gertie the Dinosaur is an animated short film released in 1914 by American cartoonist and animator Winsor McCay. It is the first animated film to feature a dinosaur. McCay initially presented the film before live audiences as an interactive part of his vaudeville act; the frisky, childlike Gertie performed tricks at her master's command. McCay's employer William Randolph Hearst curtailed his vaudeville activities, prompting McCay to add a live-action introductory sequence to the film for its theatrical release, which was renamed Winsor McCay, the Famous Cartoonist, and Gertie. McCay abandoned a sequel, Gertie on Tour, after producing about a minute of footage.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gertie_the_Dinosaur",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Walt_Disney_1946_%28cropped2%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Walt_Disney_1946_%28cropped2%29.JPG/330px-Walt_Disney_1946_%28cropped2%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "walt_disney_1946_(cropped2).jpg",
+          "width": 450,
+          "height": 600,
+          "title": "Walt Disney",
+          "description": "American animator, producer and entrepreneur (1901–1966)",
+          "extract": "Walter Elias Disney was an American animator, film producer, voice actor, and entrepreneur. A pioneer of the American animation industry, he introduced several developments in the production of cartoons. As a film producer, he holds the record for most Academy Awards won (22) and nominations (59) by an individual. He was presented with two Golden Globe Special Achievement Awards and an Emmy Award, among other honors. Several of his films are included in the National Film Registry by the Library of Congress and have also been named as some of the best by the American Film Institute.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Walt_Disney",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Winsor_McCay_1906.jpg/330px-Winsor_McCay_1906.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Winsor_McCay_1906.jpg/330px-Winsor_McCay_1906.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "winsor_mccay_1906.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Winsor McCay (pictured in 1906) was a pioneer in comic strips and animation.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gertie_the_Dinosaur",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Gertie the Dinosaur",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Gertie_the_Dinosaur",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-14-1895-a511af27",
+      "year": 1895,
+      "text": "Oscar Wilde's The Importance of Being Earnest (production pictured), once described as the second-most quoted English-language play after Hamlet, premiered in London.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg/330px-Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "oscar_wilde_by_napoleon_sarony._three-quarter-length_photograph,_seated_(cropped).jpg",
+        "width": 2502,
+        "height": 3706,
+        "title": "Oscar Wilde",
+        "description": "Irish writer (1854–1900)",
+        "extract": "Oscar Fingal O'Fflahertie Wills Wilde was an Irish author, poet and playwright. After writing in different literary styles throughout the 1880s, he became one of the most popular and influential dramatists in London in the early 1890s. He was a key figure in the emerging Aestheticism movement of the late 19th century and is widely regarded as the greatest playwright of the Victorian era. Wilde is best known for his Gothic novel The Picture of Dorian Gray (1890), his epigrams, plays and bedtime stories for children, as well as his criminal conviction in 1895 for gross indecency and for practicing homosexual acts.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg/330px-Oscar_Wilde_by_Napoleon_Sarony._Three-quarter-length_photograph%2C_seated_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "oscar_wilde_by_napoleon_sarony._three-quarter-length_photograph,_seated_(cropped).jpg",
+          "width": 2502,
+          "height": 3706,
+          "title": "Oscar Wilde",
+          "description": "Irish writer (1854–1900)",
+          "extract": "Oscar Fingal O'Fflahertie Wills Wilde was an Irish author, poet and playwright. After writing in different literary styles throughout the 1880s, he became one of the most popular and influential dramatists in London in the early 1890s. He was a key figure in the emerging Aestheticism movement of the late 19th century and is widely regarded as the greatest playwright of the Victorian era. Wilde is best known for his Gothic novel The Picture of Dorian Gray (1890), his epigrams, plays and bedtime stories for children, as well as his criminal conviction in 1895 for gross indecency and for practicing homosexual acts.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/49/Algy-and-Jack-1895.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Algy-and-Jack-1895.jpg/330px-Algy-and-Jack-1895.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "algy-and-jack-1895.jpg",
+          "width": 582,
+          "height": 833,
+          "title": "The Importance of Being Earnest",
+          "description": "Farcical comedy play by Oscar Wilde",
+          "extract": "The Importance of Being Earnest, a Trivial Comedy for Serious People is a play by Oscar Wilde, the last of his four drawing-room plays, following Lady Windermere's Fan (1892), A Woman of No Importance (1893) and An Ideal Husband (1895). First performed on 14 February 1895 at the St James's Theatre in London, it is a farcical comedy depicting the tangled affairs of two young men about town who lead double lives to evade unwanted social obligations, both assuming the name Ernest while wooing the two young women of their affections.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Importance_of_Being_Earnest",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Edwin_Booth_Hamlet_1870.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Edwin_Booth_Hamlet_1870.jpg/330px-Edwin_Booth_Hamlet_1870.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "edwin_booth_hamlet_1870.jpg",
+          "width": 361,
+          "height": 468,
+          "title": "Hamlet",
+          "description": "Tragedy by William Shakespeare",
+          "extract": "The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet, is a tragedy written by William Shakespeare sometime between 1599 and 1601. It is Shakespeare's longest play. Set in Denmark, the play depicts Prince Hamlet and his attempts to exact revenge against his uncle, Claudius, who has murdered Hamlet's father in order to seize his throne and marry Hamlet's mother.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hamlet",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Oscar Wilde",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-14-1961-b7e5c1ea",
+      "year": 1961,
+      "text": "Lawrencium, the radioactive synthetic element with atomic number 103, was first synthesized at the Lawrence Radiation Laboratory on the campus of the University of California, Berkeley.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Redgreen_colorblind_changed_version_of_Synthetic_Mod.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Redgreen_colorblind_changed_version_of_Synthetic_Mod.png/330px-Redgreen_colorblind_changed_version_of_Synthetic_Mod.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "redgreen_colorblind_changed_version_of_synthetic_mod.png",
+        "width": 1200,
+        "height": 816,
+        "title": "Synthetic element",
+        "description": "Chemical elements that do not occur naturally",
+        "extract": "A synthetic element is a known chemical element that does not occur naturally on Earth: it has been created by human manipulation of fundamental particles in a nuclear reactor, a particle accelerator, or the explosion of an atomic bomb; thus, it is called \"synthetic\", \"artificial\", or \"man-made\". The synthetic elements are those with atomic numbers 95–118, as shown in purple on the accompanying periodic table: these 24 elements were first created between 1944 and 2010. The mechanism for the creation of a synthetic element is to force additional protons into the nucleus of an element with an atomic number lower than 95. All known synthetic elements are unstable, but they decay at widely varying rates; the half-lives of their longest-lived isotopes range from microseconds to millions of years.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Synthetic_element",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Redgreen_colorblind_changed_version_of_Synthetic_Mod.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Redgreen_colorblind_changed_version_of_Synthetic_Mod.png/330px-Redgreen_colorblind_changed_version_of_Synthetic_Mod.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "redgreen_colorblind_changed_version_of_synthetic_mod.png",
+          "width": 1200,
+          "height": 816,
+          "title": "Synthetic element",
+          "description": "Chemical elements that do not occur naturally",
+          "extract": "A synthetic element is a known chemical element that does not occur naturally on Earth: it has been created by human manipulation of fundamental particles in a nuclear reactor, a particle accelerator, or the explosion of an atomic bomb; thus, it is called \"synthetic\", \"artificial\", or \"man-made\". The synthetic elements are those with atomic numbers 95–118, as shown in purple on the accompanying periodic table: these 24 elements were first created between 1944 and 2010. The mechanism for the creation of a synthetic element is to force additional protons into the nucleus of an element with an atomic number lower than 95. All known synthetic elements are unstable, but they decay at widely varying rates; the half-lives of their longest-lived isotopes range from microseconds to millions of years.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Synthetic_element",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Molecular_Foundry_at_Lawrence_Berkeley_National_Laboratory_%2852230758982%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Molecular_Foundry_at_Lawrence_Berkeley_National_Laboratory_%2852230758982%29.jpg/330px-Molecular_Foundry_at_Lawrence_Berkeley_National_Laboratory_%2852230758982%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "molecular_foundry_at_lawrence_berkeley_national_laboratory_(52230758982).jpg",
+          "width": 3600,
+          "height": 2398,
+          "title": "Lawrence Berkeley National Laboratory",
+          "description": "Laboratory Berkeley, California, and Oakland, California, US",
+          "extract": "Lawrence Berkeley National Laboratory is a federally funded research and development center in the hills of Berkeley, California, and Oakland, California, United States. Established in 1931 by the University of California (UC), the laboratory is sponsored by the United States Department of Energy and administered by the UC system. Ernest Lawrence, who won the Nobel prize for inventing the cyclotron, founded the lab and served as its director until his death in 1958. Located in the Berkeley Hills, the lab overlooks the campus of the University of California, Berkeley.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lawrence_Berkeley_National_Laboratory",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/96904536.thumb3.jpeg/500px-96904536.thumb3.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/96904536.thumb3.jpeg/500px-96904536.thumb3.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "96904536.thumb3.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": "Albert Ghiorso updating the periodic table in April 1961, writing the symbol \"Lw\" in as element 103. Codiscoverers Latimer, Sikkeland, and Larsh (left to right) look on.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lawrencium",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Lawrencium",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Lawrencium",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "02-14-2020-cb074084",
+      "year": 2020,
+      "text": "At least 22 people are killed in an attack on a village in Northwest Region, Cameroon.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Highlands_of_ngar.jpg/3840px-Highlands_of_ngar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Highlands_of_ngar.jpg/330px-Highlands_of_ngar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "highlands_of_ngar.jpg",
+        "width": 5184,
+        "height": 3456,
+        "title": "Ngarbuh massacre",
+        "description": "2020 attack in Cameroon",
+        "extract": "The Ngarbuh massacre took place in northwestern Cameroon on 14 February 2020 during the Anglophone Crisis, and resulted in the murder of 21 civilians, including 13 children, by Cameroonian soldiers and armed Fulani militia.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ngarbuh_massacre",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Highlands_of_ngar.jpg/3840px-Highlands_of_ngar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Highlands_of_ngar.jpg/330px-Highlands_of_ngar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "highlands_of_ngar.jpg",
+          "width": 5184,
+          "height": 3456,
+          "title": "Ngarbuh massacre",
+          "description": "2020 attack in Cameroon",
+          "extract": "The Ngarbuh massacre took place in northwestern Cameroon on 14 February 2020 during the Anglophone Crisis, and resulted in the murder of 21 civilians, including 13 children, by Cameroonian soldiers and armed Fulani militia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ngarbuh_massacre",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Ngarbuh massacre",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ngarbuh_massacre",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-14-2018-9cb02cdb",
+      "year": 2018,
+      "text": "Jacob Zuma resigns as President of South Africa.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Jacob_Zuma%2C_29_November_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jacob_Zuma%2C_29_November_2017_%28cropped%29.jpg/330px-Jacob_Zuma%2C_29_November_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jacob_zuma,_29_november_2017_(cropped).jpg",
+        "width": 760,
+        "height": 1014,
+        "title": "Jacob Zuma",
+        "description": "President of South Africa from 2009 to 2018",
+        "extract": "Jacob Gedleyihlekisa Zuma is a South African politician who served as the fourth president of South Africa from 2009 to 2018. Zuma was a former anti-apartheid activist, member of uMkhonto weSizwe, and president of the African National Congress (ANC) from 2007 to 2017. He is also the father-in-law of Eswatini king Mswati III.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jacob_Zuma",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Jacob_Zuma%2C_29_November_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Jacob_Zuma%2C_29_November_2017_%28cropped%29.jpg/330px-Jacob_Zuma%2C_29_November_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jacob_zuma,_29_november_2017_(cropped).jpg",
+          "width": 760,
+          "height": 1014,
+          "title": "Jacob Zuma",
+          "description": "President of South Africa from 2009 to 2018",
+          "extract": "Jacob Gedleyihlekisa Zuma is a South African politician who served as the fourth president of South Africa from 2009 to 2018. Zuma was a former anti-apartheid activist, member of uMkhonto weSizwe, and president of the African National Congress (ANC) from 2007 to 2017. He is also the father-in-law of Eswatini king Mswati III.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jacob_Zuma",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jacob_G._Zuma_-_World_Economic_Forum_Annual_Meeting_Davos_2010.jpg/1280px-Jacob_G._Zuma_-_World_Economic_Forum_Annual_Meeting_Davos_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Jacob_G._Zuma_-_World_Economic_Forum_Annual_Meeting_Davos_2010.jpg/1280px-Jacob_G._Zuma_-_World_Economic_Forum_Annual_Meeting_Davos_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "jacob_g._zuma_-_world_economic_forum_annual_meeting_davos_2010.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Jacob_G._Zuma_-_World_Economic_Forum_Annual_Meeting_Davos_2010",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jacob_Zuma",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Jacob Zuma",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Jacob_Zuma",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-14-2011-2e848fc7",
+      "year": 2011,
+      "text": "Arab Spring: On the Day of Rage, Bahraini youths began an uprising against the government in 55 marches across 25 locations.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tunisian_Revolution_Protest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tunisian_Revolution_Protest.jpg/330px-Tunisian_Revolution_Protest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "tunisian_revolution_protest.jpg",
+        "width": 640,
+        "height": 451,
+        "title": "Arab Spring",
+        "description": "2010s protests and revolutions in the Arab world",
+        "extract": "The Arab Spring was a series of pro-democracy anti-government protests, uprisings, and armed rebellions that spread across much of the Arab world in the early 2010s. It began in Tunisia in response to the death of Mohamed Bouazizi by self-immolation. From Tunisia, the protests initially spread to five other countries: Libya, Egypt, Yemen, Syria and Bahrain. The rulers deposed include: Zine El Abidine Ben Ali of Tunisia, Muammar Gaddafi of Libya, and Hosni Mubarak of Egypt, all in 2011; and Ali Abdullah Saleh of Yemen in 2012. Major uprisings and social violence occurred, including riots, civil wars, or insurgencies. Sustained street demonstrations took place in Morocco, Iraq, Algeria, Lebanon, Jordan, Kuwait, Oman and Sudan. Minor protests took place in Djibouti, Mauritania, Palestine, Saudi Arabia and the Western Sahara. A major slogan of the demonstrators in the Arab world is ash-shaʻb yurīd isqāṭ an-niẓām!.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Arab_Spring",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tunisian_Revolution_Protest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tunisian_Revolution_Protest.jpg/330px-Tunisian_Revolution_Protest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tunisian_revolution_protest.jpg",
+          "width": 640,
+          "height": 451,
+          "title": "Arab Spring",
+          "description": "2010s protests and revolutions in the Arab world",
+          "extract": "The Arab Spring was a series of pro-democracy anti-government protests, uprisings, and armed rebellions that spread across much of the Arab world in the early 2010s. It began in Tunisia in response to the death of Mohamed Bouazizi by self-immolation. From Tunisia, the protests initially spread to five other countries: Libya, Egypt, Yemen, Syria and Bahrain. The rulers deposed include: Zine El Abidine Ben Ali of Tunisia, Muammar Gaddafi of Libya, and Hosni Mubarak of Egypt, all in 2011; and Ali Abdullah Saleh of Yemen in 2012. Major uprisings and social violence occurred, including riots, civil wars, or insurgencies. Sustained street demonstrations took place in Morocco, Iraq, Algeria, Lebanon, Jordan, Kuwait, Oman and Sudan. Minor protests took place in Djibouti, Mauritania, Palestine, Saudi Arabia and the Western Sahara. A major slogan of the demonstrators in the Arab world is ash-shaʻb yurīd isqāṭ an-niẓām!.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Arab_Spring",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bahrain_crackdown_Nuwaidrat_14_feb._2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bahrain_crackdown_Nuwaidrat_14_feb._2011.jpg/330px-Bahrain_crackdown_Nuwaidrat_14_feb._2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bahrain_crackdown_nuwaidrat_14_feb._2011.jpg",
+          "width": 700,
+          "height": 465,
+          "title": "Day of Rage (Bahrain)",
+          "description": "Name given by protesters in Bahrain to a day in the Arab Spring",
+          "extract": "The Day of Rage is the name given by protesters in Bahrain to 14 February 2011, the first day of the national uprising as part of the Arab Spring. Inspired by successful uprisings in Egypt and in Tunisia, Bahraini youth organised protests using social-media websites. They appealed to the Bahraini people \"to take to the streets on Monday 14 February in a peaceful and orderly manner\". The day had a symbolic value, being the ninth and tenth anniversaries of the country's 2002 constitution and the National Action Charter respectively.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Day_of_Rage_(Bahrain)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/BahrainUprising.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BahrainUprising.png/330px-BahrainUprising.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bahrainuprising.png",
+          "width": 524,
+          "height": 600,
+          "title": "2011 Bahraini uprising",
+          "description": "Uprising in Bahrain that started on 14 February 2011",
+          "extract": "The 2011 Bahraini uprising was a series of anti-government protests in Bahrain led by the Shia-dominant and some Sunni minority Bahraini opposition from 2011 until 2014. The protests were inspired by the unrest of the 2011 Arab Spring and protests in Tunisia and Egypt and escalated to daily clashes after the Bahraini government repressed the revolt with the support of the Gulf Cooperation Council's Peninsula Shield Force. The Bahraini protests were a series of demonstrations, amounting to a sustained campaign of non-violent civil disobedience and some violent resistance in the Persian Gulf country of Bahrain. As part of the revolutionary wave of protests in the Middle East and North Africa following the self-immolation of Mohamed Bouazizi in Tunisia, the Bahraini protests were initially aimed at achieving greater political freedom and equality for the 70% Shia population.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2011_Bahraini_uprising",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Arab Spring",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Arab_Spring",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-14-2003-f38e533b",
+      "year": 2003,
+      "text": "Iraq disarmament crisis: UNMOVIC Executive Chairman Hans Blix reports to the United Nations Security Council that disarmament inspectors have found no weapons of mass destruction in Ba'athist Iraq.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/WeaponsInspector.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/WeaponsInspector.JPG/330px-WeaponsInspector.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "weaponsinspector.jpg",
+        "width": 620,
+        "height": 418,
+        "title": "Iraq disarmament crisis",
+        "description": "Early 2000s diplomatic crisis",
+        "extract": "\nIn the Iraq disarmament crisis of the early 2000s, Iraq, led by president Saddam Hussein, was pressured by the United States and its other adversaries to destroy alleged stockpiles of weapons of mass destruction (WMD)—biological, chemical, and nuclear. In the 1980s, Iraq had programs to produce all three, but in the 1990s, the programs were ended, and the WMD were destroyed. The U.S.' rationale for its 2003 invasion of Iraq was that the country still had WMD, and would use them.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Iraq_disarmament_crisis",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/WeaponsInspector.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/WeaponsInspector.JPG/330px-WeaponsInspector.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "weaponsinspector.jpg",
+          "width": 620,
+          "height": 418,
+          "title": "Iraq disarmament crisis",
+          "description": "Early 2000s diplomatic crisis",
+          "extract": "\nIn the Iraq disarmament crisis of the early 2000s, Iraq, led by president Saddam Hussein, was pressured by the United States and its other adversaries to destroy alleged stockpiles of weapons of mass destruction (WMD)—biological, chemical, and nuclear. In the 1980s, Iraq had programs to produce all three, but in the 1990s, the programs were ended, and the WMD were destroyed. The U.S.' rationale for its 2003 invasion of Iraq was that the country still had WMD, and would use them.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iraq_disarmament_crisis",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Hans_Blix_in_2015-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hans_Blix_in_2015-2.jpg/330px-Hans_Blix_in_2015-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hans_blix_in_2015-2.jpg",
+          "width": 2833,
+          "height": 3084,
+          "title": "Hans Blix",
+          "description": "Swedish politician (born 1928)",
+          "extract": "Hans Martin Blix is a Swedish diplomat and politician for the Liberal People's Party. He was Swedish Minister for Foreign Affairs (1978–1979) and later became the head of the International Atomic Energy Agency. Blix was the first Western representative to inspect the consequences of the Chernobyl disaster in the Soviet Union on-site and led the agency's response to them. Blix was also the head of the United Nations Monitoring, Verification and Inspection Commission from March 2000 to June 2003, when he was succeeded by Dimitris Perrikos. In 2002, the commission began searching Iraq for weapons of mass destruction, ultimately finding none. On 17 March 2003, U.S. President George W. Bush delivered an address from the White House announcing that within 48 hours, the United States would invade Iraq unless Saddam Hussein would leave. Bush then ordered all of the weapons inspectors, including Blix's team, to leave Iraq so that America and its allies could invade Iraq on 20 March. In February 2010, Blix became head of the United Arab Emirates' advisory board for its nuclear power program. He is the former president of the World Federation of United Nations Associations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hans_Blix",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Powell_UN_Iraq_presentation%2C_alleged_Mobile_Production_Facilities.jpg/500px-Powell_UN_Iraq_presentation%2C_alleged_Mobile_Production_Facilities.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Powell_UN_Iraq_presentation%2C_alleged_Mobile_Production_Facilities.jpg/500px-Powell_UN_Iraq_presentation%2C_alleged_Mobile_Production_Facilities.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "powell_un_iraq_presentation,_alleged_mobile_production_facilities.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Powell_UN_Iraq_presentation,_alleged_Mobile_Production_Facilities",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iraq_disarmament_crisis",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Iraq disarmament crisis",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Iraq_disarmament_crisis",
+      "relatedPagesCount": 6
+    }
+  ]
+}

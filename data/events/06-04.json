@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 6,
+    "day": 4,
+    "formatted": "06-04"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "06-04-2010-1f0826c2",
+      "year": 2010,
+      "text": "Falcon 9 Flight 1 is the maiden flight of the SpaceX Falcon 9 rocket, which launches from Cape Canaveral Air Force Station Space Launch Complex 40.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Falcon_9_launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Falcon_9_launch.jpg/330px-Falcon_9_launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "falcon_9_launch.jpg",
+        "width": 788,
+        "height": 1184,
+        "title": "Dragon Spacecraft Qualification Unit",
+        "description": "Test version of SpaceX spacecraft",
+        "extract": "The Dragon Spacecraft Qualification Unit was a boilerplate version of the Dragon spacecraft manufactured by SpaceX. After using it for ground tests to rate Dragon's shape and mass in various tests, SpaceX launched it into low Earth orbit on the maiden flight of the Falcon 9 rocket, on June 4, 2010. SpaceX used the launch to evaluate the aerodynamic conditions on the spacecraft and performance of the carrier rocket in a real-world launch scenario, ahead of Dragon flights for NASA under the Commercial Orbital Transportation Services program. The spacecraft orbited the Earth over 300 times before decaying from orbit and reentering the atmosphere on 27 June.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dragon_Spacecraft_Qualification_Unit",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Falcon_9_launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Falcon_9_launch.jpg/330px-Falcon_9_launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "falcon_9_launch.jpg",
+          "width": 788,
+          "height": 1184,
+          "title": "Dragon Spacecraft Qualification Unit",
+          "description": "Test version of SpaceX spacecraft",
+          "extract": "The Dragon Spacecraft Qualification Unit was a boilerplate version of the Dragon spacecraft manufactured by SpaceX. After using it for ground tests to rate Dragon's shape and mass in various tests, SpaceX launched it into low Earth orbit on the maiden flight of the Falcon 9 rocket, on June 4, 2010. SpaceX used the launch to evaluate the aerodynamic conditions on the spacecraft and performance of the carrier rocket in a real-world launch scenario, ahead of Dragon flights for NASA under the Commercial Orbital Transportation Services program. The spacecraft orbited the Earth over 300 times before decaying from orbit and reentering the atmosphere on 27 June.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dragon_Spacecraft_Qualification_Unit",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Starship_-_Flight_13_%28Sunset%29.jpg/3840px-Starship_-_Flight_13_%28Sunset%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Starship_-_Flight_13_%28Sunset%29.jpg/330px-Starship_-_Flight_13_%28Sunset%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "starship_-_flight_13_(sunset).jpg",
+          "width": 4096,
+          "height": 2304,
+          "title": "SpaceX",
+          "description": "American spaceflight and AI company",
+          "extract": "Space Exploration Technologies Corp., doing business as SpaceX, is an American aerospace manufacturer and provider of space transportation, telecommunications, and artificial intelligence services, headquartered at the Starbase development site in Starbase, Texas. The company operates three primary segments: Space, which develops and flies the Falcon 9, Falcon Heavy, and Starship launch vehicles, as well as the Dragon spacecraft, and conducts more orbital launches annually than any other launch provider ; Connectivity, which operates the Starlink satellite constellation and satellite-based high-speed broadband internet service; and AI, conducted through its wholly owned subsidiary SpaceXAI, which develops the Grok family of large language models (LLMs) and related products, operates the social network X, and builds and runs large-scale data centers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/SpaceX",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/CYGNUS_NG-24_Launches_from_Cape_Canaveral_Space_Force_Station_%289617819%29.jpg/3840px-CYGNUS_NG-24_Launches_from_Cape_Canaveral_Space_Force_Station_%289617819%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/CYGNUS_NG-24_Launches_from_Cape_Canaveral_Space_Force_Station_%289617819%29.jpg/330px-CYGNUS_NG-24_Launches_from_Cape_Canaveral_Space_Force_Station_%289617819%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cygnus_ng-24_launches_from_cape_canaveral_space_force_station_(9617819).jpg",
+          "width": 12302,
+          "height": 7712,
+          "title": "Cape Canaveral Space Launch Complex 40",
+          "description": "Rocket launch site in Florida, US",
+          "extract": "Space Launch Complex 40 (SLC-40), sometimes referred to as \"Slick Forty,\" is one of two launch pads located at the Integrate-Transfer-Launch Complex in Cape Canaveral Space Force Station, Florida. It initially opened as Launch Complex 40 (LC-40) and was used by the United States Air Force alongside the neighboring Space Launch Complex 41 for the Titan III program. It first saw use by the Titan IIIC throughout the 1960s and 1970s, before getting retrofitted for the Titan 34D during the 1980s. In the 1990s, Martin Marietta and the Air Force upgraded it to launch the Commercial Titan III, but the rocket's lack of success caused the pad to be used by the Titan IV throughout the decade and into the 2000s.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Launch_Complex_40",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Dragon Spacecraft Qualification Unit",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Dragon_Spacecraft_Qualification_Unit",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "06-04-1996-6b9d1dfc",
+      "year": 1996,
+      "text": "The first flight of Ariane 5 explodes after roughly 37 seconds. It was a Cluster mission.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_%2851773093465%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_%2851773093465%29.jpg/330px-Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_%2851773093465%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ariane_5_with_james_webb_space_telescope_prelaunch_(51773093465).jpg",
+        "width": 3315,
+        "height": 4143,
+        "title": "Ariane 5",
+        "description": "European heavy-lift space launch vehicle (1996–2023)",
+        "extract": "Ariane 5 is a retired European heavy-lift space launch vehicle operated by Arianespace for the European Space Agency (ESA). It was launched from the Guiana Space Centre (CSG) in French Guiana. It was used to deliver payloads into geostationary transfer orbit (GTO), low Earth orbit (LEO) or further into space. The launch vehicle had a streak of 82 consecutive successful launches between 9 April 2003 and 12 December 2017. In development since 2014, Ariane 6, a direct successor system was first launched in 2024.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ariane_5",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_%2851773093465%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_%2851773093465%29.jpg/330px-Ariane_5_with_James_Webb_Space_Telescope_Prelaunch_%2851773093465%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ariane_5_with_james_webb_space_telescope_prelaunch_(51773093465).jpg",
+          "width": 3315,
+          "height": 4143,
+          "title": "Ariane 5",
+          "description": "European heavy-lift space launch vehicle (1996–2023)",
+          "extract": "Ariane 5 is a retired European heavy-lift space launch vehicle operated by Arianespace for the European Space Agency (ESA). It was launched from the Guiana Space Centre (CSG) in French Guiana. It was used to deliver payloads into geostationary transfer orbit (GTO), low Earth orbit (LEO) or further into space. The launch vehicle had a streak of 82 consecutive successful launches between 9 April 2003 and 12 December 2017. In development since 2014, Ariane 6, a direct successor system was first launched in 2024.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ariane_5",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/46/Ariane_flight_V88.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Ariane_flight_V88.jpg/330px-Ariane_flight_V88.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ariane_flight_v88.jpg",
+          "width": 400,
+          "height": 250,
+          "title": "Ariane flight V88",
+          "description": "Failed maiden flight of Ariane 5, 1996",
+          "extract": "Ariane flight V88, also known as Ariane 5 Flight 501, was the failed maiden flight of the Arianespace Ariane 5 rocket, vehicle no. 501, on 4 June 1996. It carried the Cluster spacecraft, a constellation of four European Space Agency research satellites.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ariane_flight_V88",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Cluster_ESA15192620.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Cluster_ESA15192620.jpeg/330px-Cluster_ESA15192620.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cluster_esa15192620.jpeg",
+          "width": 1419,
+          "height": 1417,
+          "title": "Cluster II (spacecraft)",
+          "description": "European Space Agency space mission",
+          "extract": "Cluster II was a space mission of the European Space Agency, with NASA participation, to study the Earth's magnetosphere over the course of nearly two solar cycles. The mission was composed of four identical spacecraft flying in a tetrahedral formation. As a replacement for the original Cluster spacecraft which were lost in a launch failure in 1996, the four Cluster II spacecraft were successfully launched in pairs in July and August 2000 onboard two Soyuz-Fregat rockets from Baikonur, Kazakhstan. In February 2011, Cluster II celebrated 10 years of successful scientific operations in space. In February 2021, Cluster II celebrated 20 years of successful scientific operations in space. As of March 2023, its mission was extended until September 2024. The China National Space Administration/ESA Double Star mission operated alongside Cluster II from 2004 to 2007.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cluster_II_(spacecraft)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Ariane 5",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ariane_5",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-04-1961-0aad1f49",
+      "year": 1961,
+      "text": "Cold War: In the Vienna summit, the Soviet premier Nikita Khrushchev sparks the Berlin Crisis by threatening to sign a separate peace treaty with East Germany and ending American, British and French access to East Berlin.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/John_Kennedy%2C_Nikita_Khrushchev_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/John_Kennedy%2C_Nikita_Khrushchev_1961.jpg/330px-John_Kennedy%2C_Nikita_Khrushchev_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "john_kennedy,_nikita_khrushchev_1961.jpg",
+        "width": 2894,
+        "height": 2315,
+        "title": "Vienna Summit",
+        "description": "1961 meeting in Vienna, Austria",
+        "extract": "The Vienna Summit was a summit meeting held on June 4, 1961, in Vienna, Austria, between President of the United States John F. Kennedy and the leader of the Soviet Union Nikita Khrushchev. The leaders of the two superpowers of the Cold War era discussed many issues in the relationship between their countries.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vienna_Summit",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/John_Kennedy%2C_Nikita_Khrushchev_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/John_Kennedy%2C_Nikita_Khrushchev_1961.jpg/330px-John_Kennedy%2C_Nikita_Khrushchev_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "john_kennedy,_nikita_khrushchev_1961.jpg",
+          "width": 2894,
+          "height": 2315,
+          "title": "Vienna Summit",
+          "description": "1961 meeting in Vienna, Austria",
+          "extract": "The Vienna Summit was a summit meeting held on June 4, 1961, in Vienna, Austria, between President of the United States John F. Kennedy and the leader of the Soviet Union Nikita Khrushchev. The leaders of the two superpowers of the Cold War era discussed many issues in the relationship between their countries.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vienna_Summit",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg/330px-1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1956_press_photo_communist_party_secretary_nikita_s._khrushchev_in_moscow_(cropped).jpg",
+          "width": 1810,
+          "height": 2413,
+          "title": "Nikita Khrushchev",
+          "description": "Leader of the Soviet Union from 1953 to 1964",
+          "extract": "Nikita Sergeyevich Khrushchev was the First Secretary of the Communist Party of the Soviet Union from 1953 to 1964 and the Chairman of the Council of Ministers from 1958 to 1964. As leader of the Soviet Union, he shocked the world by denouncing his predecessor Joseph Stalin, embarking on a campaign of de-Stalinization, and presiding over the Cuban Missile Crisis in 1962.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nikita_Khrushchev",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/US_Army_tanks_face_off_against_Soviet_tanks%2C_Berlin_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/US_Army_tanks_face_off_against_Soviet_tanks%2C_Berlin_1961.jpg/330px-US_Army_tanks_face_off_against_Soviet_tanks%2C_Berlin_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "us_army_tanks_face_off_against_soviet_tanks,_berlin_1961.jpg",
+          "width": 2000,
+          "height": 1507,
+          "title": "Berlin Crisis of 1961",
+          "description": "Cold War incident in divided Berlin",
+          "extract": "The Berlin Crisis of 1961 was the last major European political and military incident of the Cold War concerning the status of the German capital city, Berlin, and of post–World War II Germany. The crisis culminated in the city's de facto partition by the East German erection of the Berlin Wall.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Berlin_Crisis_of_1961",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cold War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "relatedPagesCount": 7
+    },
+    {
+      "id": "06-04-1989-046bd038",
+      "year": 1989,
+      "text": "Solidarity's victory in the 1989 Polish legislative election occurs, the first election since the Communist Polish United Workers' Party abandoned its monopoly of power. It sparks off the Revolutions of 1989 in Eastern Europe.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg/330px-West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "west_and_east_germans_at_the_brandenburg_gate_in_1989.jpg",
+        "width": 661,
+        "height": 498,
+        "title": "Revolutions of 1989",
+        "description": "Revolutionary wave overthrowing most communist states in Europe",
+        "extract": "The revolutions of 1989, also known as the Fall of Communism, were a wave of liberal democratic movements that resulted in the collapse of most Marxist–Leninist governments in the Eastern Bloc and other parts of the world. The revolutions of 1989 were a key factor in the dissolution of the Soviet Union—one of the two superpowers—and abandonment of communist regimes in many parts of the world, some of which were violently overthrown. These events drastically altered the world's balance of power, marking the end of the Cold War and beginning of the post–Cold War era.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Revolutions_of_1989",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg/330px-West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "west_and_east_germans_at_the_brandenburg_gate_in_1989.jpg",
+          "width": 661,
+          "height": 498,
+          "title": "Revolutions of 1989",
+          "description": "Revolutionary wave overthrowing most communist states in Europe",
+          "extract": "The revolutions of 1989, also known as the Fall of Communism, were a wave of liberal democratic movements that resulted in the collapse of most Marxist–Leninist governments in the Eastern Bloc and other parts of the world. The revolutions of 1989 were a key factor in the dissolution of the Soviet Union—one of the two superpowers—and abandonment of communist regimes in many parts of the world, some of which were violently overthrown. These events drastically altered the world's balance of power, marking the end of the Cold War and beginning of the post–Cold War era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Revolutions_of_1989",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Strajk_sierpniowy_w_Stoczni_Gda%C5%84skiej_im._Lenina_05.jpg/500px-Strajk_sierpniowy_w_Stoczni_Gda%C5%84skiej_im._Lenina_05.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Strajk_sierpniowy_w_Stoczni_Gda%C5%84skiej_im._Lenina_05.jpg/500px-Strajk_sierpniowy_w_Stoczni_Gda%C5%84skiej_im._Lenina_05.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "strajk_sierpniowy_w_stoczni_gdańskiej_im._lenina_05.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Strike committee at the Lenin Shipyard, August 1980. On stage are Bogdan Lis (left) and Lech Wałęsa (right).",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/President_Bush_meets_privately_with_Solidarity_Leader_Lech_Walesa_of_Poland_in_the_residence_-_NARA_-_186403.jpg/1280px-President_Bush_meets_privately_with_Solidarity_Leader_Lech_Walesa_of_Poland_in_the_residence_-_NARA_-_186403.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/President_Bush_meets_privately_with_Solidarity_Leader_Lech_Walesa_of_Poland_in_the_residence_-_NARA_-_186403.jpg/1280px-President_Bush_meets_privately_with_Solidarity_Leader_Lech_Walesa_of_Poland_in_the_residence_-_NARA_-_186403.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "president_bush_meets_privately_with_solidarity_leader_lech_walesa_of_poland_in_the_residence_-_nara_-_186403.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Meeting between Wałęsa and U.S. President George H. W. Bush, 1989",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Solidarity (Polish trade union)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "06-04-1876-7573ff7d",
+      "year": 1876,
+      "text": "An express train called the Transcontinental Express arrives in San Francisco via the first transcontinental railroad, 83 hours and 39 minutes after leaving New York City.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Acela_old_saybrook_ct_summer2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Acela_old_saybrook_ct_summer2011.jpg/330px-Acela_old_saybrook_ct_summer2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "acela_old_saybrook_ct_summer2011.jpg",
+        "width": 1200,
+        "height": 800,
+        "title": "Express train",
+        "description": "Type of train service",
+        "extract": "An express train is a type of passenger train that makes few or no stops between its origin and destination stations, usually major destinations, providing faster service than local trains that stop at many or all of the stations along their route. They are sometimes referred to by terms such as \"fast train\" or \"high-speed train\", e.g., the German Schnellzug.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Express_train",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Acela_old_saybrook_ct_summer2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Acela_old_saybrook_ct_summer2011.jpg/330px-Acela_old_saybrook_ct_summer2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "acela_old_saybrook_ct_summer2011.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Express train",
+          "description": "Type of train service",
+          "extract": "An express train is a type of passenger train that makes few or no stops between its origin and destination stations, usually major destinations, providing faster service than local trains that stop at many or all of the stations along their route. They are sometimes referred to by terms such as \"fast train\" or \"high-speed train\", e.g., the German Schnellzug.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Express_train",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/3840px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/330px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "zeppelin-ride-020100925-195_(5029394846).jpg",
+          "width": 4000,
+          "height": 3000,
+          "title": "San Francisco",
+          "description": "City and county in California, US",
+          "extract": "San Francisco, officially the City and County of San Francisco, is the fourth-most populous city in California and the 17th-most populous in the United States, with a population of 826,079 in 2025. Among U.S. cities with a population of 200,000 or more, San Francisco is ranked first by per capita income, third by population density, and sixth by aggregate income as of 2024. Some 4.6 million residents live in the city's metropolitan statistical area, which is the 13th-largest in the United States. Around 9.2 million live in the San Jose–San Francisco–Oakland combined statistical area, the fifth-largest in the United States.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/San_Francisco",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/3840px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg/330px-East_and_West_Shaking_hands_at_the_laying_of_last_rail_Union_Pacific_Railroad_-_Restoration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "east_and_west_shaking_hands_at_the_laying_of_last_rail_union_pacific_railroad_-_restoration.jpg",
+          "width": 4514,
+          "height": 3435,
+          "title": "First transcontinental railroad",
+          "description": "First U.S. railroad connecting the Pacific coast and Eastern states",
+          "extract": "America's first transcontinental railroad was a 1,911-mile (3,075 km) continuous railroad line built between 1863 and 1869 that connected the existing eastern U.S. rail network at Council Bluffs, Iowa, with the Pacific coast at the Oakland Long Wharf on San Francisco Bay. The rail line was built by three private companies over public lands provided by extensive U.S. land grants. Building was financed by both state and U.S. government subsidy bonds as well as by company-issued mortgage bonds. The Western Pacific Railroad Company built 132 miles (212 km) of track from the road's western terminus at Alameda/Oakland to Sacramento, California. The Central Pacific Railroad Company of California (CPRR) constructed 690 miles (1,110 km) east from Sacramento to Promontory Summit, Utah Territory. The Union Pacific Railroad (UPRR) built 1,085 miles (1,746 km) from the road's eastern terminus at the Missouri River settlements of Council Bluffs and Omaha, Nebraska, westward to Promontory Summit.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/First_transcontinental_railroad",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Express train",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Express_train",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "06-04-1974-008dd07b",
+      "year": 1974,
+      "text": "Major League Baseball's Cleveland Indians hosted Ten-Cent Beer Night, but had to forfeit the game to the Texas Rangers due to rioting by drunken fans.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Texas_Rangers_run_during_Ten_Cent_Beer_Night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Texas_Rangers_run_during_Ten_Cent_Beer_Night.jpg/330px-Texas_Rangers_run_during_Ten_Cent_Beer_Night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "texas_rangers_run_during_ten_cent_beer_night.jpg",
+        "width": 2048,
+        "height": 1436,
+        "title": "Ten-Cent Beer Night",
+        "description": "1974 Major League Baseball promotion",
+        "extract": "Ten-Cent Beer Night was an ill-fated promotion held by Major League Baseball's Cleveland Indians during a game against the Texas Rangers at Cleveland Stadium in Cleveland, Ohio, United States, on June 4, 1974. The promotion was meant to improve attendance at the game by offering cups of beer for just 10 cents each, a substantial discount on the regular price of 65 cents, with a limit of six beers per purchase but no limit on the number of purchases made during the game.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ten-Cent_Beer_Night",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Texas_Rangers_run_during_Ten_Cent_Beer_Night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Texas_Rangers_run_during_Ten_Cent_Beer_Night.jpg/330px-Texas_Rangers_run_during_Ten_Cent_Beer_Night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "texas_rangers_run_during_ten_cent_beer_night.jpg",
+          "width": 2048,
+          "height": 1436,
+          "title": "Ten-Cent Beer Night",
+          "description": "1974 Major League Baseball promotion",
+          "extract": "Ten-Cent Beer Night was an ill-fated promotion held by Major League Baseball's Cleveland Indians during a game against the Texas Rangers at Cleveland Stadium in Cleveland, Ohio, United States, on June 4, 1974. The promotion was meant to improve attendance at the game by offering cups of beer for just 10 cents each, a substantial discount on the regular price of 65 cents, with a limit of six beers per purchase but no limit on the number of purchases made during the game.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ten-Cent_Beer_Night",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1896_Baltimore_Orioles.jpg/500px-1896_Baltimore_Orioles.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1896_Baltimore_Orioles.jpg/500px-1896_Baltimore_Orioles.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "1896_baltimore_orioles.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "National League Baltimore Orioles, 1896",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Major_League_Baseball",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Major League Baseball",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Major_League_Baseball",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "06-04-2025-cede0066",
+      "year": 2025,
+      "text": "A crowd crush outside M. Chinnaswamy Stadium during celebrations of Royal Challengers Bengaluru's Indian Premier League title killed 11 people and injured 56 others.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Chinnaswamy_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Chinnaswamy_Stadium.jpg/330px-Chinnaswamy_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "chinnaswamy_stadium.jpg",
+        "width": 2241,
+        "height": 1212,
+        "title": "M. Chinnaswamy Stadium",
+        "description": "Cricket stadium in Bengaluru, India",
+        "extract": "The M. Chinnaswamy Stadium, also known as the Karnataka State Cricket Association Stadium, is a cricket stadium in Bengaluru city of the Indian state of Karnataka. The ground is owned by the Government of Karnataka and operated by the Karnataka State Cricket Association (KSCA).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/M._Chinnaswamy_Stadium",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Chinnaswamy_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Chinnaswamy_Stadium.jpg/330px-Chinnaswamy_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chinnaswamy_stadium.jpg",
+          "width": 2241,
+          "height": 1212,
+          "title": "M. Chinnaswamy Stadium",
+          "description": "Cricket stadium in Bengaluru, India",
+          "extract": "The M. Chinnaswamy Stadium, also known as the Karnataka State Cricket Association Stadium, is a cricket stadium in Bengaluru city of the Indian state of Karnataka. The ground is owned by the Government of Karnataka and operated by the Karnataka State Cricket Association (KSCA).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/M._Chinnaswamy_Stadium",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "2025 Bengaluru crowd crush",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2025_Bengaluru_crowd_crush",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "06-04-2023-9168c5df",
+      "year": 2023,
+      "text": "Protests begin in Poland against the PiS government.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Marsz_4_czerwca_w_Warszawie.jpg/3840px-Marsz_4_czerwca_w_Warszawie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Marsz_4_czerwca_w_Warszawie.jpg/330px-Marsz_4_czerwca_w_Warszawie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "marsz_4_czerwca_w_warszawie.jpg",
+        "width": 4896,
+        "height": 3672,
+        "title": "2023 Polish protests",
+        "description": "Anti-government protests in Poland",
+        "extract": "On June 4, 2023, a series of planned anti-government marches took place in several areas of Poland, with the main one being held in the capital city of Warsaw. The protests were additionally motivated by the passing of the bill commonly referred to as \"Lex Tusk\", which critics argued would disrupt the constitutional separation of powers by giving the ruling party of PiS excessive judicial oversight. The Polish opposition in the national Parliament, as well as numerous foreign commentators, considered the law's approval an extension of the perceived constitutional crisis under the presidency of Andrzej Duda and the government headed by Prime Minister Mateusz Morawiecki.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2023_Polish_protests",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Marsz_4_czerwca_w_Warszawie.jpg/3840px-Marsz_4_czerwca_w_Warszawie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Marsz_4_czerwca_w_Warszawie.jpg/330px-Marsz_4_czerwca_w_Warszawie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "marsz_4_czerwca_w_warszawie.jpg",
+          "width": 4896,
+          "height": 3672,
+          "title": "2023 Polish protests",
+          "description": "Anti-government protests in Poland",
+          "extract": "On June 4, 2023, a series of planned anti-government marches took place in several areas of Poland, with the main one being held in the capital city of Warsaw. The protests were additionally motivated by the passing of the bill commonly referred to as \"Lex Tusk\", which critics argued would disrupt the constitutional separation of powers by giving the ruling party of PiS excessive judicial oversight. The Polish opposition in the national Parliament, as well as numerous foreign commentators, considered the law's approval an extension of the perceived constitutional crisis under the presidency of Andrzej Duda and the government headed by Prime Minister Mateusz Morawiecki.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2023_Polish_protests",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/2019-11-15_Gouvernement_Morawiecki_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2019-11-15_Gouvernement_Morawiecki_II.jpg/330px-2019-11-15_Gouvernement_Morawiecki_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2019-11-15_gouvernement_morawiecki_ii.jpg",
+          "width": 3508,
+          "height": 2341,
+          "title": "Second Morawiecki cabinet",
+          "description": "Government of Poland between 2019 and 2023",
+          "extract": "The Second Cabinet of Mateusz Morawiecki was the government of Poland, headed by Prime Minister Mateusz Morawiecki, since being sworn in by President Andrzej Duda on 15 November 2019 until 27 November 2023. The Prime Minister delivered a statement to the Sejm on 19 November 2019 before obtaining a vote of confidence with 237 of the 460 MPs voting in the affirmative.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Second_Morawiecki_cabinet",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "2023 Polish protests",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2023_Polish_protests",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "06-04-1998-ca5cd956",
+      "year": 1998,
+      "text": "Terry Nichols was sentenced to life in prison for his role in the Oklahoma City bombing.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/46/Terry_Nichols_%28mug_shot%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Terry_Nichols_%28mug_shot%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "terry_nichols_(mug_shot).jpg",
+        "width": 280,
+        "height": 355,
+        "title": "Terry Nichols",
+        "description": "American domestic terrorist (born 1955)",
+        "extract": "Terry Lynn Nichols is an American domestic terrorist who was convicted for conspiring with Timothy McVeigh in the Oklahoma City bombing plot.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Terry_Nichols",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/46/Terry_Nichols_%28mug_shot%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Terry_Nichols_%28mug_shot%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "terry_nichols_(mug_shot).jpg",
+          "width": 280,
+          "height": 355,
+          "title": "Terry Nichols",
+          "description": "American domestic terrorist (born 1955)",
+          "extract": "Terry Lynn Nichols is an American domestic terrorist who was convicted for conspiring with Timothy McVeigh in the Oklahoma City bombing plot.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Terry_Nichols",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Oklahomacitybombing-DF-ST-98-01356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Oklahomacitybombing-DF-ST-98-01356.jpg/330px-Oklahomacitybombing-DF-ST-98-01356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "oklahomacitybombing-df-st-98-01356.jpg",
+          "width": 1880,
+          "height": 2760,
+          "title": "Oklahoma City bombing",
+          "description": "1995 domestic terrorism bombing in Oklahoma City",
+          "extract": "On April 19, 1995, American anti-government extremist Timothy McVeigh, assisted by Terry Nichols, detonated a makeshift bomb stored in a rental truck parked in front of the Alfred P. Murrah Federal Building in Oklahoma City, Oklahoma, in an act of domestic terrorism. The explosion killed 167 people, injured 684, and destroyed more than a third of the building. The attack also destroyed or damaged 324 other buildings, destroyed 86 vehicles and caused an estimated $652 million in damage. During rescue operations after the bombing, a rescue worker was killed after being struck on the head by falling debris, bringing the total death toll to 168.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Oklahoma_City_bombing",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/46/Terry_Nichols_%28mug_shot%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Terry_Nichols_%28mug_shot%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "nichols2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Nichols2",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Terry_Nichols",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Terry Nichols",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Terry_Nichols",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-04-1987-2b4ee97d",
+      "year": 1987,
+      "text": "American intelligence analyst Jonathan Pollard pleaded guilty to charges of spying for Israel.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Jonathan_Pollard.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jonathan_Pollard.png/330px-Jonathan_Pollard.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jonathan_pollard.png",
+        "width": 400,
+        "height": 565,
+        "title": "Jonathan Pollard",
+        "description": "Israeli intelligence analyst and convicted spy (born 1954)",
+        "extract": "Jonathan Jay Pollard is an American-born Israeli spy and former intelligence analyst who was jailed for spying for Israel.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jonathan_Pollard",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Jonathan_Pollard.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jonathan_Pollard.png/330px-Jonathan_Pollard.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jonathan_pollard.png",
+          "width": 400,
+          "height": 565,
+          "title": "Jonathan Pollard",
+          "description": "Israeli intelligence analyst and convicted spy (born 1954)",
+          "extract": "Jonathan Jay Pollard is an American-born Israeli spy and former intelligence analyst who was jailed for spying for Israel.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jonathan_Pollard",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Intelligence_Cycle.jpg/500px-Intelligence_Cycle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Intelligence_Cycle.jpg/500px-Intelligence_Cycle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "intelligence_cycle.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The intelligence cycle",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Intelligence_assessment",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Intelligence assessment",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Intelligence_assessment",
+      "relatedPagesCount": 3
+    }
+  ]
+}

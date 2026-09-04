@@ -1,0 +1,607 @@
+{
+  "date": {
+    "month": 5,
+    "day": 6,
+    "formatted": "05-06"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "05-06-2023-dbed6a76",
+      "year": 2023,
+      "text": "King Charles III and Queen Camilla were crowned at Westminster Abbey in London.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/King_Charles_III_%28July_2023%29.jpg/330px-King_Charles_III_%28July_2023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "king_charles_iii_(july_2023).jpg",
+        "width": 727,
+        "height": 1025,
+        "title": "Charles III",
+        "description": "King of the United Kingdom since 2022",
+        "extract": "Charles III is King of the United Kingdom and 14 other Commonwealth realms.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_III",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/King_Charles_III_%28July_2023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/King_Charles_III_%28July_2023%29.jpg/330px-King_Charles_III_%28July_2023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "king_charles_iii_(july_2023).jpg",
+          "width": 727,
+          "height": 1025,
+          "title": "Charles III",
+          "description": "King of the United Kingdom since 2022",
+          "extract": "Charles III is King of the United Kingdom and 14 other Commonwealth realms.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Charles_III",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Queen_Camilla_in_Aotearoa_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Queen_Camilla_in_Aotearoa_2019.jpg/330px-Queen_Camilla_in_Aotearoa_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_camilla_in_aotearoa_2019.jpg",
+          "width": 1167,
+          "height": 1656,
+          "title": "Queen Camilla",
+          "description": "Queen of the United Kingdom since 2022",
+          "extract": "Camilla is Queen of the United Kingdom and the 14 other Commonwealth realms as the wife of King Charles III.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Queen_Camilla",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/2023_Coronation_Balcony.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2023_Coronation_Balcony.jpg/330px-2023_Coronation_Balcony.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2023_coronation_balcony.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "Coronation of Charles III and Camilla",
+          "description": "2023 coronation in the United Kingdom",
+          "extract": "The coronation of Charles III and his wife, Camilla, as king and queen of the United Kingdom and the 14 other Commonwealth realms, took place on Saturday, 6 May 2023 at Westminster Abbey. Charles acceded to the throne on 8 September 2022 upon the death of his mother, Elizabeth II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_Charles_III_and_Camilla",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Charles III",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Charles_III",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-06-1998-d45ff554",
+      "year": 1998,
+      "text": "Steve Jobs unveiled the iMac G3' personal computer.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg/330px-Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "steve_jobs_headshot_2010_(cropped_4).jpg",
+        "width": 2222,
+        "height": 2958,
+        "title": "Steve Jobs",
+        "description": "American businessman and inventor (1955–2011)",
+        "extract": "Steven Paul Jobs was an American businessman, inventor, and investor. A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple Inc. with his early business partner Steve Wozniak as Apple Computer Company in 1976. After the company's board of directors fired him in 1985, he founded NeXT the same year and purchased Pixar in 1986, becoming its chairman and majority shareholder until 2007. Jobs returned to Apple in 1997 as CEO, where he was closely involved with the creation and promotion of many of the company's most influential products until his resignation in 2011.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Steve_Jobs",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg/330px-Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "steve_jobs_headshot_2010_(cropped_4).jpg",
+          "width": 2222,
+          "height": 2958,
+          "title": "Steve Jobs",
+          "description": "American businessman and inventor (1955–2011)",
+          "extract": "Steven Paul Jobs was an American businessman, inventor, and investor. A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple Inc. with his early business partner Steve Wozniak as Apple Computer Company in 1976. After the company's board of directors fired him in 1985, he founded NeXT the same year and purchased Pixar in 1986, becoming its chairman and majority shareholder until 2007. Jobs returned to Apple in 1997 as CEO, where he was closely involved with the creation and promotion of many of the company's most influential products until his resignation in 2011.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Steve_Jobs",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/IMac_G3_Bondi_Blue%2C_three-quarters_view.png/3840px-IMac_G3_Bondi_Blue%2C_three-quarters_view.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/IMac_G3_Bondi_Blue%2C_three-quarters_view.png/330px-IMac_G3_Bondi_Blue%2C_three-quarters_view.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "imac_g3_bondi_blue,_three-quarters_view.png",
+          "width": 3869,
+          "height": 3608,
+          "title": "IMac G3",
+          "description": "All-in-one computer by Apple",
+          "extract": "The iMac G3, originally released as the iMac, is a series of Macintosh personal computers that Apple Computer sold from 1998 to 2003. The iMac was Apple's first major product release under CEO Steve Jobs following his return to the financially troubled company he co-founded. Jobs reorganized the company and simplified the product line. The iMac was designed as Apple's new consumer desktop product—an inexpensive, consumer-oriented computer that would easily connect to the Internet.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/IMac_G3",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Steve Jobs",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Steve_Jobs",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-06-1960-60b96f25",
+      "year": 1960,
+      "text": "More than 20 million viewers watch the first televised royal wedding when Princess Margaret marries Antony Armstrong-Jones at Westminster Abbey.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/c/ce/Wedding_dress_of_Princess_Margaret.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/c/ce/Wedding_dress_of_Princess_Margaret.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "wedding_dress_of_princess_margaret.jpg",
+        "width": 250,
+        "height": 398,
+        "title": "Wedding of Princess Margaret and Antony Armstrong-Jones",
+        "description": "1960 British royal wedding",
+        "extract": "The wedding of Princess Margaret and Antony Armstrong-Jones took place on Friday, 6 May 1960, at Westminster Abbey in London. Princess Margaret was the younger sister of Queen Elizabeth II, while Antony Armstrong-Jones was a noted society photographer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wedding_of_Princess_Margaret_and_Antony_Armstrong-Jones",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/ce/Wedding_dress_of_Princess_Margaret.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/c/ce/Wedding_dress_of_Princess_Margaret.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "wedding_dress_of_princess_margaret.jpg",
+          "width": 250,
+          "height": 398,
+          "title": "Wedding of Princess Margaret and Antony Armstrong-Jones",
+          "description": "1960 British royal wedding",
+          "extract": "The wedding of Princess Margaret and Antony Armstrong-Jones took place on Friday, 6 May 1960, at Westminster Abbey in London. Princess Margaret was the younger sister of Queen Elizabeth II, while Antony Armstrong-Jones was a noted society photographer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wedding_of_Princess_Margaret_and_Antony_Armstrong-Jones",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Princess_Margaret_1950_%28F1257_s1057_it4930%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Princess_Margaret_1950_%28F1257_s1057_it4930%29.jpg/330px-Princess_Margaret_1950_%28F1257_s1057_it4930%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "princess_margaret_1950_(f1257_s1057_it4930).jpg",
+          "width": 816,
+          "height": 1023,
+          "title": "Princess Margaret, Countess of Snowdon",
+          "description": "British princess (1930–2002)",
+          "extract": "Princess Margaret, Countess of Snowdon, was the younger daughter of King George VI and Queen Elizabeth the Queen Mother, and the only sibling of Queen Elizabeth II. Born when her parents were the Duke and Duchess of York, she became second in line to the British throne after her father's accession in 1936, though her place in the succession declined as her sister's children and grandchildren were born.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Princess_Margaret%2C_Countess_of_Snowdon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Antony_Armstrong-Jones_1965_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Antony_Armstrong-Jones_1965_%28cropped%29.jpg/330px-Antony_Armstrong-Jones_1965_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "antony_armstrong-jones_1965_(cropped).jpg",
+          "width": 411,
+          "height": 539,
+          "title": "Antony Armstrong-Jones, 1st Earl of Snowdon",
+          "description": "British photographer and filmmaker (1930–2017)",
+          "extract": "Antony Charles Robert Armstrong-Jones, 1st Earl of Snowdon, was a British photographer. He was best known internationally for his portraits of prominent cultural and political figures, many of which were published in Vogue, Vanity Fair, The Sunday Times Magazine, The Sunday Telegraph Magazine, and other major outlets. More than 280 of his photographs are held in the permanent collections of the National Portrait Gallery. Between 1968 and 1973, he directed several television documentaries and contributed to design and accessibility reforms. A committed advocate for disabled people, he helped shape policy and infrastructure across the United Kingdom.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Antony_Armstrong-Jones%2C_1st_Earl_of_Snowdon",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Wedding of Princess Margaret and Antony Armstrong-Jones",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Wedding_of_Princess_Margaret_and_Antony_Armstrong-Jones",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-06-1991-3d16d090",
+      "year": 1991,
+      "text": "Time magazine published the article \"The Thriving Cult of Greed and Power\" by Richard Behar criticizing the Church of Scientology, leading to years of legal conflict.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Is_God_Dead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Is_God_Dead.jpg/330px-Is_God_Dead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "is_god_dead.jpg",
+        "width": 2363,
+        "height": 3150,
+        "title": "Time (magazine)",
+        "description": "American news magazine and website",
+        "extract": "Time is an American news magazine based in New York City. It was published weekly for nearly a century. Starting in March 2020, it was published every other week. It was first published in New York City on March 3, 1923, and for many years it was run by its co-founder, Henry Luce.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Time_(magazine)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Is_God_Dead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Is_God_Dead.jpg/330px-Is_God_Dead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "is_god_dead.jpg",
+          "width": 2363,
+          "height": 3150,
+          "title": "Time (magazine)",
+          "description": "American news magazine and website",
+          "extract": "Time is an American news magazine based in New York City. It was published weekly for nearly a century. Starting in March 2020, it was published every other week. It was first published in New York City on March 3, 1923, and for many years it was run by its co-founder, Henry Luce.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Time_(magazine)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Time_Magazine_Scientology_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/b/b4/Time_Magazine_Scientology_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "time_magazine_scientology_cover.jpg",
+          "width": 273,
+          "height": 364,
+          "title": "The Thriving Cult of Greed and Power",
+          "description": "1991 newsmagazine article on Scientology",
+          "extract": "\"The Thriving Cult of Greed and Power\" is an article, written in 1991 by U.S. investigative journalist Richard Behar, which is highly critical of Scientology. It was first published by Time magazine on May 6, 1991, as an eight-page cover story, and was later published in Reader's Digest in October 1991. Behar had previously published an article on Scientology in Forbes magazine. He stated that he was investigated by attorneys and private investigators affiliated with the Church of Scientology while researching the Time article, and that investigators contacted his friends and family as well. Behar's article covers topics including L. Ron Hubbard and the development of Scientology, its controversies over the years and history of litigation, conflict with psychiatry and the U.S. Internal Revenue Service, the suicide of Noah Lottick, its status as a religion, and its business dealings.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Thriving_Cult_of_Greed_and_Power",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Behar-WorthBinghamAward1_%28cropped_2%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Behar-WorthBinghamAward1_%28cropped_2%29.JPG/330px-Behar-WorthBinghamAward1_%28cropped_2%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "behar-worthbinghamaward1_(cropped_2).jpg",
+          "width": 950,
+          "height": 1275,
+          "title": "Richard Behar",
+          "description": "American investigative journalist",
+          "extract": "Richard Behar is an American investigative journalist. Since 2012, he has been the Contributing Editor of Investigations for Forbes. From 1982 to 2004, he wrote on the staffs of Forbes, Time, and Fortune. Behar's work has also been featured on BBC, CNN, PBS, FoxNews.com, and Fast Company magazine. He is the author of the 2024 book Madoff: The Final Word, which details the Bernard Madoff fraud.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Behar",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Time (magazine)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Time_(magazine)",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-06-1994-96812ac6",
+      "year": 1994,
+      "text": "Elizabeth II of the United Kingdom and French President François Mitterrand officiate at the opening of the Channel Tunnel.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "queen_elizabeth_ii_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+        "width": 739,
+        "height": 985,
+        "title": "Elizabeth II",
+        "description": "Queen of the United Kingdom from 1952 to 2022",
+        "extract": "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_elizabeth_ii_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+          "width": 739,
+          "height": 985,
+          "title": "Elizabeth II",
+          "description": "Queen of the United Kingdom from 1952 to 2022",
+          "extract": "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/President_Fran%C3%A7ois_Mitterrand_in_1983_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/President_Fran%C3%A7ois_Mitterrand_in_1983_%28cropped%29.jpg/330px-President_Fran%C3%A7ois_Mitterrand_in_1983_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "president_françois_mitterrand_in_1983_(cropped).jpg",
+          "width": 2092,
+          "height": 2919,
+          "title": "François Mitterrand",
+          "description": "President of France from 1981 to 1995",
+          "extract": "François Maurice Adrien Marie Mitterrand was President of France from 1981 to 1995. He was the first left-wing politician to assume the presidency under the Fifth Republic, successfully remaining in office longer than any other republican head of state in French history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Mitterrand",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg/3840px-TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg/330px-TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tgv_tmst_3011-2_-_sortie_tunnel_sous_la_manche_à_coquelles.jpg",
+          "width": 4827,
+          "height": 3094,
+          "title": "Channel Tunnel",
+          "description": "Undersea rail tunnel linking France to the UK",
+          "extract": "The Channel Tunnel, sometimes referred to as the Chunnel, is a 50.46-kilometre (31.35-mile) railway tunnel beneath the English Channel which connects Folkestone in the United Kingdom with Coquelles in northern France. Opened in 1994, it remains the only fixed link between Great Britain and the European mainland.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Channel_Tunnel",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Elizabeth II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-06-1941-8bb02b59",
+      "year": 1941,
+      "text": "The first flight of the Republic P-47 Thunderbolt.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/P47_Thunderbolt_-_Chino_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/P47_Thunderbolt_-_Chino_2014_%28cropped%29.jpg/330px-P47_Thunderbolt_-_Chino_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "p47_thunderbolt_-_chino_2014_(cropped).jpg",
+        "width": 872,
+        "height": 619,
+        "title": "Republic P-47 Thunderbolt",
+        "description": "Family of fighter aircraft",
+        "extract": "The Republic P-47 Thunderbolt is a monoplane fighter aircraft designed and produced by the American aircraft manufacturer Republic Aviation. Designed around the powerful Pratt & Whitney R-2800 Double Wasp 18-cylinder radial engine and produced from 1941 through to 1945, it became the foremost American fighter-bomber in the ground-attack role during World War II. When fully loaded, the P-47 weighed up to eight tons, making it one of the heaviest fighters of the conflict. It is the namesake of a later U.S. ground-attack aircraft, the Fairchild Republic A-10 Thunderbolt II.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/P47_Thunderbolt_-_Chino_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/P47_Thunderbolt_-_Chino_2014_%28cropped%29.jpg/330px-P47_Thunderbolt_-_Chino_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "p47_thunderbolt_-_chino_2014_(cropped).jpg",
+          "width": 872,
+          "height": 619,
+          "title": "Republic P-47 Thunderbolt",
+          "description": "Family of fighter aircraft",
+          "extract": "The Republic P-47 Thunderbolt is a monoplane fighter aircraft designed and produced by the American aircraft manufacturer Republic Aviation. Designed around the powerful Pratt & Whitney R-2800 Double Wasp 18-cylinder radial engine and produced from 1941 through to 1945, it became the foremost American fighter-bomber in the ground-attack role during World War II. When fully loaded, the P-47 weighed up to eight tons, making it one of the heaviest fighters of the conflict. It is the namesake of a later U.S. ground-attack aircraft, the Fairchild Republic A-10 Thunderbolt II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Republic_P-43_Lancer.jpg/500px-Republic_P-43_Lancer.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Republic_P-43_Lancer.jpg/500px-Republic_P-43_Lancer.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "republic_p-43_lancer.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "American prewar fighter Republic P-43 Lancer",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/XP-47_wind_tunnel_model.jpg/1280px-XP-47_wind_tunnel_model.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/XP-47_wind_tunnel_model.jpg/1280px-XP-47_wind_tunnel_model.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "xp-47_wind_tunnel_model.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "XP-47 model during wind tunnel testing",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Republic P-47 Thunderbolt",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Republic_P-47_Thunderbolt",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "05-06-1757-3e5812b4",
+      "year": 1757,
+      "text": "The end of Konbaung–Hanthawaddy War, and the end of Burmese Civil War (1740–1757).",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Konbaung-hanthawaddy-war-1755-1757.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Konbaung-hanthawaddy-war-1755-1757.png/330px-Konbaung-hanthawaddy-war-1755-1757.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "konbaung-hanthawaddy-war-1755-1757.png",
+        "width": 513,
+        "height": 467,
+        "title": "Konbaung–Hanthawaddy War",
+        "description": "Conflict between states of Burma (Myanmar) from 1752–57",
+        "extract": "The Konbaung–Hanthawaddy War was the war fought between the Konbaung Dynasty and the Restored Hanthawaddy Kingdom of Burma (Myanmar) from 1752 to 1757. The war was the last of several wars between the Burmese-speaking north and the Mon-speaking south that ended the Mon people's centuries-long dominance of the south.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Konbaung%E2%80%93Hanthawaddy_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Konbaung-hanthawaddy-war-1755-1757.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Konbaung-hanthawaddy-war-1755-1757.png/330px-Konbaung-hanthawaddy-war-1755-1757.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "konbaung-hanthawaddy-war-1755-1757.png",
+          "width": 513,
+          "height": 467,
+          "title": "Konbaung–Hanthawaddy War",
+          "description": "Conflict between states of Burma (Myanmar) from 1752–57",
+          "extract": "The Konbaung–Hanthawaddy War was the war fought between the Konbaung Dynasty and the Restored Hanthawaddy Kingdom of Burma (Myanmar) from 1752 to 1757. The war was the last of several wars between the Burmese-speaking north and the Mon-speaking south that ended the Mon people's centuries-long dominance of the south.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Konbaung%E2%80%93Hanthawaddy_War",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Konbaung–Hanthawaddy War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Konbaung%E2%80%93Hanthawaddy_War",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "05-06-2010-6cbb8bf9",
+      "year": 2010,
+      "text": "In just 36 minutes, the Dow Jones Industrial Average plunges nearly 1,000 points in what is known as the 2010 Flash Crash.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flashcrash-2010.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flashcrash-2010.png/330px-Flashcrash-2010.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "flashcrash-2010.png",
+        "width": 397,
+        "height": 254,
+        "title": "2010 flash crash",
+        "description": "U.S. stock market crash lasting 36 minutes in May 6, 2010",
+        "extract": "The May 6, 2010, flash crash, also known as the crash of 2:45 or simply the flash crash, was a United States trillion-dollar flash crash which started at 2:32 p.m. EDT and lasted for approximately 36 minutes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2010_flash_crash",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Flashcrash-2010.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flashcrash-2010.png/330px-Flashcrash-2010.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "flashcrash-2010.png",
+          "width": 397,
+          "height": 254,
+          "title": "2010 flash crash",
+          "description": "U.S. stock market crash lasting 36 minutes in May 6, 2010",
+          "extract": "The May 6, 2010, flash crash, also known as the crash of 2:45 or simply the flash crash, was a United States trillion-dollar flash crash which started at 2:32 p.m. EDT and lasted for approximately 36 minutes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2010_flash_crash",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dow_Jones_Industrial_Average.webp/1280px-Dow_Jones_Industrial_Average.webp?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dow_Jones_Industrial_Average.webp/1280px-Dow_Jones_Industrial_Average.webp?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "dow_jones_industrial_average.webp",
+          "width": 800,
+          "height": 600,
+          "title": "Dow Jones Industrial Average (1970–2022)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Dow Jones Industrial Average",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-06-1997-5e4bea35",
+      "year": 1997,
+      "text": "The Bank of England is given independence from political control, the most significant change in the bank's 300-year history.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bank-of-England.jpg/3840px-Bank-of-England.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bank-of-England.jpg/330px-Bank-of-England.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bank-of-england.jpg",
+        "width": 7200,
+        "height": 5630,
+        "title": "Bank of England",
+        "description": "Central bank of the United Kingdom",
+        "extract": "The Bank of England (BoE) is the central bank of the United Kingdom and the model on which most modern central banks have been based. Established in 1694 to act as the English Government's banker and debt manager, and still one of the bankers for the government of the United Kingdom, it is the world's second oldest central bank, after Sweden's (1668). It is considered to be one of the world's \"Big Four\" central banks.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bank_of_England",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bank-of-England.jpg/3840px-Bank-of-England.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Bank-of-England.jpg/330px-Bank-of-England.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bank-of-england.jpg",
+          "width": 7200,
+          "height": 5630,
+          "title": "Bank of England",
+          "description": "Central bank of the United Kingdom",
+          "extract": "The Bank of England (BoE) is the central bank of the United Kingdom and the model on which most modern central banks have been based. Established in 1694 to act as the English Government's banker and debt manager, and still one of the bankers for the government of the United Kingdom, it is the world's second oldest central bank, after Sweden's (1668). It is considered to be one of the world's \"Big Four\" central banks.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bank_of_England",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Bank of England",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bank_of_England",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "05-06-1983-a11a8fbd",
+      "year": 1983,
+      "text": "The Hitler Diaries are revealed as a hoax after being examined by new experts.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/80/Sterncover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/8/80/Sterncover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "sterncover.jpg",
+        "width": 276,
+        "height": 360,
+        "title": "Hitler Diaries",
+        "description": "Forged journals purportedly by Adolf Hitler",
+        "extract": "The Hitler Diaries were a series of sixty volumes of journals purportedly written by Adolf Hitler, but forged by Konrad Kujau between 1981 and 1983. The diaries were purchased in 1983 for 9.3 million Deutsche Marks by the West German news magazine Stern, which sold serialisation rights to several news organisations. One of the publications involved was The Sunday Times, who asked their independent director, the historian Hugh Trevor-Roper, to authenticate the diaries; he did so, pronouncing them genuine. At the press conference to announce the publication, Trevor-Roper announced that on reflection he had changed his mind, and other historians also raised questions concerning their validity. Rigorous forensic analysis, which had not been performed previously, quickly confirmed that the diaries were fakes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hitler_Diaries",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/80/Sterncover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/8/80/Sterncover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "sterncover.jpg",
+          "width": 276,
+          "height": 360,
+          "title": "Hitler Diaries",
+          "description": "Forged journals purportedly by Adolf Hitler",
+          "extract": "The Hitler Diaries were a series of sixty volumes of journals purportedly written by Adolf Hitler, but forged by Konrad Kujau between 1981 and 1983. The diaries were purchased in 1983 for 9.3 million Deutsche Marks by the West German news magazine Stern, which sold serialisation rights to several news organisations. One of the publications involved was The Sunday Times, who asked their independent director, the historian Hugh Trevor-Roper, to authenticate the diaries; he did so, pronouncing them genuine. At the press conference to announce the publication, Trevor-Roper announced that on reflection he had changed his mind, and other historians also raised questions concerning their validity. Rigorous forensic analysis, which had not been performed previously, quickly confirmed that the diaries were fakes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hitler_Diaries",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hans_Baur.jpg/330px-Hans_Baur.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hans_Baur.jpg/330px-Hans_Baur.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "hans_baur.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "General Hans Baur, Hitler's personal pilot",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hitler_Diaries",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Hitler Diaries",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Hitler_Diaries",
+      "relatedPagesCount": 1
+    }
+  ]
+}

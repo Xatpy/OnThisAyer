@@ -1,0 +1,583 @@
+{
+  "date": {
+    "month": 8,
+    "day": 14,
+    "formatted": "08-14"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "08-14-1901-e844fd48",
+      "year": 1901,
+      "text": "The first claimed powered flight, by Gustave Whitehead in his Number 21.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Pan_Am_Boeing_747-121_N732PA_Bidini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pan_Am_Boeing_747-121_N732PA_Bidini.jpg/330px-Pan_Am_Boeing_747-121_N732PA_Bidini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "pan_am_boeing_747-121_n732pa_bidini.jpg",
+        "width": 1225,
+        "height": 818,
+        "title": "Aviation",
+        "description": "Activities surrounding aircraft industry",
+        "extract": "Aviation includes the activities surrounding mechanical flight and the aircraft industry. Aircraft include fixed-wing and rotary-wing types, morphable wings, wing-less lifting bodies, as well as lighter-than-air aircraft such as hot air balloons and airships.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Aviation",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Pan_Am_Boeing_747-121_N732PA_Bidini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pan_Am_Boeing_747-121_N732PA_Bidini.jpg/330px-Pan_Am_Boeing_747-121_N732PA_Bidini.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pan_am_boeing_747-121_n732pa_bidini.jpg",
+          "width": 1225,
+          "height": 818,
+          "title": "Aviation",
+          "description": "Activities surrounding aircraft industry",
+          "extract": "Aviation includes the activities surrounding mechanical flight and the aircraft industry. Aircraft include fixed-wing and rotary-wing types, morphable wings, wing-less lifting bodies, as well as lighter-than-air aircraft such as hot air balloons and airships.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Aviation",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Gustave_Whitehead_portrait.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Gustave_Whitehead_portrait.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "gustave_whitehead_portrait.png",
+          "width": 329,
+          "height": 432,
+          "title": "Gustave Whitehead",
+          "description": "German–American aviator (1874–1927)",
+          "extract": "Gustave Albin Whitehead was a German–American aviation pioneer. Between 1897 and 1915, he designed and built gliders, flying machines, and engines. Controversy surrounds published accounts and Whitehead's own claims that he flew a powered machine successfully several times in 1901 and 1902, predating the first flights by the Wright brothers in 1903.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gustave_Whitehead",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Plane_rear_w_crew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Plane_rear_w_crew.jpg/330px-Plane_rear_w_crew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "plane_rear_w_crew.jpg",
+          "width": 2000,
+          "height": 1571,
+          "title": "Whitehead No. 21",
+          "description": "Aircraft built and supposedly flown by Gustave Whitehead in Bridgeport, CT in 1901",
+          "extract": "The Whitehead No.21 was the aircraft that aviation pioneer Gustave Whitehead claimed to have flown near Bridgeport, Connecticut on August 14, 1901. Professional aviation historians and scholars reject claims for the flight. A description and photographs of Whitehead's aircraft appeared in Scientific American in June 1901, stating that the \"novel flying machine\" had just been completed, and \"is now ready for preliminary trials\". The flight was reported in the August 18, 1901, issue of the Bridgeport Sunday Herald and reprints or rewrites were published in many other newspapers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Whitehead_No._21",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Aviation",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Aviation",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-14-1975-5fcc2025",
+      "year": 1975,
+      "text": "The Rocky Horror Picture Show premiered in London, the first in its record-breaking run in cinemas, which continues in limited release.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Original_Rocky_Horror_Picture_Show_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/Original_Rocky_Horror_Picture_Show_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "original_rocky_horror_picture_show_poster.jpg",
+        "width": 255,
+        "height": 390,
+        "title": "The Rocky Horror Picture Show",
+        "description": "1975 musical comedy horror film by Jim Sharman",
+        "extract": "The Rocky Horror Picture Show is a 1975 musical comedy horror film produced by Lou Adler and Michael White, directed by Jim Sharman, and distributed by 20th Century Fox. The film is based on the 1973 musical stage production The Rocky Horror Show, with music, book, and lyrics by Richard O'Brien.\nThe screenplay was written by Sharman and O'Brien, with O'Brien also playing the supporting role Riff Raff. The production is a tribute to the science fiction and horror B movies of the 1930s through to the early 1960s. The film stars Tim Curry, Susan Sarandon, and Barry Bostwick. It is narrated by Charles Gray, with cast members from the original Royal Court Theatre, Roxy Theatre, and Belasco Theatre productions, including Nell Campbell and Patricia Quinn.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Original_Rocky_Horror_Picture_Show_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/c/c2/Original_Rocky_Horror_Picture_Show_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "original_rocky_horror_picture_show_poster.jpg",
+          "width": 255,
+          "height": 390,
+          "title": "The Rocky Horror Picture Show",
+          "description": "1975 musical comedy horror film by Jim Sharman",
+          "extract": "The Rocky Horror Picture Show is a 1975 musical comedy horror film produced by Lou Adler and Michael White, directed by Jim Sharman, and distributed by 20th Century Fox. The film is based on the 1973 musical stage production The Rocky Horror Show, with music, book, and lyrics by Richard O'Brien.\nThe screenplay was written by Sharman and O'Brien, with O'Brien also playing the supporting role Riff Raff. The production is a tribute to the science fiction and horror B movies of the 1930s through to the early 1960s. The film stars Tim Curry, Susan Sarandon, and Barry Bostwick. It is narrated by Charles Gray, with cast members from the original Royal Court Theatre, Roxy Theatre, and Belasco Theatre productions, including Nell Campbell and Patricia Quinn.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "The Rocky Horror Picture Show",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-14-1598-26742c14",
+      "year": 1598,
+      "text": "Nine Years' War: Battle of the Yellow Ford: Irish forces under Hugh O'Neill, Earl of Tyrone, defeat an English expeditionary force under Henry Bagenal.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Nine_Years_War_January1600.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nine_Years_War_January1600.png/330px-Nine_Years_War_January1600.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "nine_years_war_january1600.png",
+        "width": 794,
+        "height": 1035,
+        "title": "Nine Years' War (Ireland)",
+        "description": "1593–1603 Irish war against Tudor conquest",
+        "extract": "The Nine Years' War was a conflict in Ireland between a confederacy of Irish lords and the English-led government. The war was primarily a response to the English Crown's advances into territory traditionally owned by the Gaelic nobility. It was also part of the broader Anglo-Spanish War and the European wars of religion.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nine_Years'_War_(Ireland)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Nine_Years_War_January1600.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nine_Years_War_January1600.png/330px-Nine_Years_War_January1600.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nine_years_war_january1600.png",
+          "width": 794,
+          "height": 1035,
+          "title": "Nine Years' War (Ireland)",
+          "description": "1593–1603 Irish war against Tudor conquest",
+          "extract": "The Nine Years' War was a conflict in Ireland between a confederacy of Irish lords and the English-led government. The war was primarily a response to the English Crown's advances into territory traditionally owned by the Gaelic nobility. It was also part of the broader Anglo-Spanish War and the European wars of religion.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nine_Years'_War_(Ireland)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/B_Yellow_Ford_from_hill_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/B_Yellow_Ford_from_hill_1.jpg/330px-B_Yellow_Ford_from_hill_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "b_yellow_ford_from_hill_1.jpg",
+          "width": 1289,
+          "height": 970,
+          "title": "Battle of the Yellow Ford",
+          "description": "Part of the Nine Years' War in Ireland (1598)",
+          "extract": "The Battle of the Yellow Ford was fought in County Armagh on 14 August 1598, during the Nine Years' War in Ireland. An English army of about 4,000, led by Henry Bagenal, was sent from the Pale to relieve the besieged Blackwater Fort. Marching from Armagh to the Blackwater, the column was routed by a Gaelic Irish army under Hugh O'Neill of Tyrone. O'Neill's forces divided the English column and a large earthwork stalled its advance. Bagenal was killed by an Irish musketeer, and scores of his men were killed and wounded when the English gunpowder wagon exploded. About 1,500 of the English army were killed and 300 deserted. After the battle, the Blackwater Fort surrendered to O'Neill. The battle marked an escalation in the war, as the English Crown greatly bolstered its military forces in Ireland, and many Irish lords who had been neutral joined O'Neill's alliance.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_the_Yellow_Ford",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Hugh_O%27Neill%2C_1608.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hugh_O%27Neill%2C_1608.jpg/330px-Hugh_O%27Neill%2C_1608.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hugh_o'neill,_1608.jpg",
+          "width": 1176,
+          "height": 1639,
+          "title": "Hugh O'Neill, Earl of Tyrone",
+          "description": "Irish earl (c. 1550–1616)",
+          "extract": "Hugh O'Neill, Earl of Tyrone, was an Irish lord and key figure of the Nine Years' War. Known as the \"Great Earl\", he led the confederacy of Irish lords against the English Crown's conquest of Ireland during the Elizabethan era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hugh_O'Neill%2C_Earl_of_Tyrone",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Nine Years' War (Ireland)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Nine_Years'_War_(Ireland)",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "08-14-1967-c70efb07",
+      "year": 1967,
+      "text": "UK Marine Broadcasting Offences Act 1967 declares participation in offshore pirate radio illegal.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Het_REM-eiland%2C_Bestanddeelnr_917-2504.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Het_REM-eiland%2C_Bestanddeelnr_917-2504.jpg/330px-Het_REM-eiland%2C_Bestanddeelnr_917-2504.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "het_rem-eiland,_bestanddeelnr_917-2504.jpg",
+        "width": 2531,
+        "height": 2600,
+        "title": "Pirate radio",
+        "description": "Illegal or unregulated radio transmissions",
+        "extract": "Pirate radio is a radio station that broadcasts without a valid license, whether an invalid license or no license at all. In some cases, radio stations are considered legal where the signal is transmitted, but illegal where the signals are received—especially when the signals cross a national boundary.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pirate_radio",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Het_REM-eiland%2C_Bestanddeelnr_917-2504.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Het_REM-eiland%2C_Bestanddeelnr_917-2504.jpg/330px-Het_REM-eiland%2C_Bestanddeelnr_917-2504.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "het_rem-eiland,_bestanddeelnr_917-2504.jpg",
+          "width": 2531,
+          "height": 2600,
+          "title": "Pirate radio",
+          "description": "Illegal or unregulated radio transmissions",
+          "extract": "Pirate radio is a radio station that broadcasts without a valid license, whether an invalid license or no license at all. In some cases, radio stations are considered legal where the signal is transmitted, but illegal where the signals are received—especially when the signals cross a national boundary.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pirate_radio",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Marine, &c., Broadcasting (Offences) Act 1967",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Marine%2C_%26c.%2C_Broadcasting_(Offences)_Act_1967",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-14-1920-a5da0611",
+      "year": 1920,
+      "text": "The 1920 Summer Olympics, having started four months earlier, officially open in Antwerp, Belgium, with the newly adopted Olympic flag and the Olympic oath being raised and taken at the Opening Ceremony for the first time in Olympic history.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/1920_olympics_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/1920_olympics_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "1920_olympics_poster.jpg",
+        "width": 278,
+        "height": 384,
+        "title": "1920 Summer Olympics",
+        "description": "Multi-sport event in Antwerp, Belgium",
+        "extract": "The 1920 Summer Olympics, officially known as the Games of the VII Olympiad and commonly known as Antwerp 1920, were an international multi-sport event held in 1920 in Antwerp, Belgium.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1920_Summer_Olympics",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/1920_olympics_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/1920_olympics_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "1920_olympics_poster.jpg",
+          "width": 278,
+          "height": 384,
+          "title": "1920 Summer Olympics",
+          "description": "Multi-sport event in Antwerp, Belgium",
+          "extract": "The 1920 Summer Olympics, officially known as the Games of the VII Olympiad and commonly known as Antwerp 1920, were an international multi-sport event held in 1920 in Antwerp, Belgium.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1920_Summer_Olympics",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Amberes%3B_vistas_MAS_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Amberes%3B_vistas_MAS_2.jpg/330px-Amberes%3B_vistas_MAS_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "amberes;_vistas_mas_2.jpg",
+          "width": 3772,
+          "height": 2576,
+          "title": "Antwerp",
+          "description": "City located in Flanders, Belgium",
+          "extract": "Antwerp is a city and a municipality in the Flemish Region of Belgium. It is the capital and largest city of Antwerp Province, and the third-largest municipality in Belgium by area at 208.22 km2 (80.39 sq mi). With a population of 565,039, it is the most populous municipality in Belgium, and with a metropolitan population of over 1.2 million people, the country's second-largest metropolitan area after Brussels.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Antwerp",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "1920 Summer Olympics",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1920_Summer_Olympics",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-14-2022-822f7eea",
+      "year": 2022,
+      "text": "An explosion destroys a market in Armenia, killing six people and injuring dozens.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Rescue_work_after_the_explosion_of_Surmalu_shopping_center_in_Yerevan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rescue_work_after_the_explosion_of_Surmalu_shopping_center_in_Yerevan.png/330px-Rescue_work_after_the_explosion_of_Surmalu_shopping_center_in_Yerevan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "rescue_work_after_the_explosion_of_surmalu_shopping_center_in_yerevan.png",
+        "width": 1725,
+        "height": 859,
+        "title": "2022 Yerevan explosion",
+        "description": "Fatal fire in Yerevan, Armenia",
+        "extract": "On 14 August 2022, at 13:23 local time, a large explosion took place in the Surmalu shopping centre in the Armenian capital of Yerevan. It caused widespread destruction and fire, leaving dozens of dead and injured. The explosion killed 16 people and injured 63, with nine missing as of 20 August.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2022_Yerevan_explosion",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Rescue_work_after_the_explosion_of_Surmalu_shopping_center_in_Yerevan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Rescue_work_after_the_explosion_of_Surmalu_shopping_center_in_Yerevan.png/330px-Rescue_work_after_the_explosion_of_Surmalu_shopping_center_in_Yerevan.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rescue_work_after_the_explosion_of_surmalu_shopping_center_in_yerevan.png",
+          "width": 1725,
+          "height": 859,
+          "title": "2022 Yerevan explosion",
+          "description": "Fatal fire in Yerevan, Armenia",
+          "extract": "On 14 August 2022, at 13:23 local time, a large explosion took place in the Surmalu shopping centre in the Armenian capital of Yerevan. It caused widespread destruction and fire, leaving dozens of dead and injured. The explosion killed 16 people and injured 63, with nine missing as of 20 August.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2022_Yerevan_explosion",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "2022 Yerevan explosion",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2022_Yerevan_explosion",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "08-14-2021-640d4c9f",
+      "year": 2021,
+      "text": "A magnitude 7.2 earthquake struck in Haiti, killing at least 2,248 people and causing $1.5 billion in damages and economic loss.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Haiti_Earthquake_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haiti_Earthquake_10.jpg/330px-Haiti_Earthquake_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "haiti_earthquake_10.jpg",
+        "width": 1024,
+        "height": 768,
+        "title": "2021 Haiti earthquake",
+        "description": "7.2-magnitude earthquake in Tiburon Peninsula, Haiti",
+        "extract": "At 08:29:09 EDT on 14 August 2021, a magnitude 7.2 earthquake struck the Tiburon Peninsula of southern Haiti. It had a 10-kilometre-deep (6.2 mi) hypocenter near Petit-Trou-de-Nippes, approximately 150 kilometres (93 mi) west of the capital, Port-au-Prince. Tsunami warnings were briefly issued for the Haitian coast. At least 2,248 people were confirmed killed as of 1 September 2021 and more than 12,200 injured, mostly in the Sud Department. An estimated 650,000 people were in need of assistance. At least 137,500 buildings were damaged or destroyed.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2021_Haiti_earthquake",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Haiti_Earthquake_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Haiti_Earthquake_10.jpg/330px-Haiti_Earthquake_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "haiti_earthquake_10.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "2021 Haiti earthquake",
+          "description": "7.2-magnitude earthquake in Tiburon Peninsula, Haiti",
+          "extract": "At 08:29:09 EDT on 14 August 2021, a magnitude 7.2 earthquake struck the Tiburon Peninsula of southern Haiti. It had a 10-kilometre-deep (6.2 mi) hypocenter near Petit-Trou-de-Nippes, approximately 150 kilometres (93 mi) west of the capital, Port-au-Prince. Tsunami warnings were briefly issued for the Haitian coast. At least 2,248 people were confirmed killed as of 1 September 2021 and more than 12,200 injured, mostly in the Sud Department. An estimated 650,000 people were in need of assistance. At least 137,500 buildings were damaged or destroyed.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2021_Haiti_earthquake",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "2021 Haiti earthquake",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2021_Haiti_earthquake",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "08-14-2018-885ad342",
+      "year": 2018,
+      "text": "The collapse of the Ponte Morandi bridge in Genoa, Italy, left 16 people injured and 43 people killed.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ponte_morandi_crollato.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ponte_morandi_crollato.jpg/330px-Ponte_morandi_crollato.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ponte_morandi_crollato.jpg",
+        "width": 3724,
+        "height": 2096,
+        "title": "Ponte Morandi collapse",
+        "description": "Bridge collapse in Genoa, Italy",
+        "extract": "On 14 August 2018, around 11:36 CEST a section of the Ponte Morandi in Genoa, Liguria, Italy, collapsed during a rainstorm, killing forty-three people. The remains were demolished in June 2019. The replacement bridge, the Genoa-Saint George Bridge was inaugurated a year later.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ponte_Morandi_collapse",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ponte_morandi_crollato.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ponte_morandi_crollato.jpg/330px-Ponte_morandi_crollato.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ponte_morandi_crollato.jpg",
+          "width": 3724,
+          "height": 2096,
+          "title": "Ponte Morandi collapse",
+          "description": "Bridge collapse in Genoa, Italy",
+          "extract": "On 14 August 2018, around 11:36 CEST a section of the Ponte Morandi in Genoa, Liguria, Italy, collapsed during a rainstorm, killing forty-three people. The remains were demolished in June 2019. The replacement bridge, the Genoa-Saint George Bridge was inaugurated a year later.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ponte_Morandi_collapse",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Piazza_de_Ferrari%2C_Genoa.jpg/3840px-Piazza_de_Ferrari%2C_Genoa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Piazza_de_Ferrari%2C_Genoa.jpg/330px-Piazza_de_Ferrari%2C_Genoa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "piazza_de_ferrari,_genoa.jpg",
+          "width": 5760,
+          "height": 3240,
+          "title": "Genoa",
+          "description": "Largest city in Liguria, Italy",
+          "extract": "Genoa is the sixth-largest city in Italy and the capital of the Italian region of Liguria. As of 2025, 565,301 people live within the city's administrative limits. While its metropolitan city has 818,629 inhabitants, more than 1.5 million people live in the wider metropolitan area stretching along the Italian Riviera.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Genoa",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ponte_Morandi_collapse.jpg/1280px-Ponte_Morandi_collapse.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ponte_Morandi_collapse.jpg/1280px-Ponte_Morandi_collapse.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "ponte_morandi_collapse.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The collapsed part of the bridge is shown in red",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ponte_Morandi_collapse",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Ponte Morandi collapse",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ponte_Morandi_collapse",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-14-2015-185733f2",
+      "year": 2015,
+      "text": "The U.S. Embassy in Havana, Cuba re-opens after 54 years of being closed when Cuba–United States relations were broken off.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/U.S._Flag_Flaps_Outside_U.S._Embassy_in_Havana%2C_Cuba_%2825998479275%29.jpg/3840px-U.S._Flag_Flaps_Outside_U.S._Embassy_in_Havana%2C_Cuba_%2825998479275%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/U.S._Flag_Flaps_Outside_U.S._Embassy_in_Havana%2C_Cuba_%2825998479275%29.jpg/330px-U.S._Flag_Flaps_Outside_U.S._Embassy_in_Havana%2C_Cuba_%2825998479275%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "u.s._flag_flaps_outside_u.s._embassy_in_havana,_cuba_(25998479275).jpg",
+        "width": 4872,
+        "height": 3248,
+        "title": "Embassy of the United States, Havana",
+        "description": "American diplomatic mission in the capital of Cuba",
+        "extract": "The Embassy of the United States of America in Havana is the United States of America's diplomatic mission in Cuba. On January 3, 1961, U.S. president Dwight D. Eisenhower severed relations following the Cuban Revolution of the 1950s. In 1977, U.S. president Jimmy Carter and Cuban leader Fidel Castro signed an Interests Sections Agreement that permitted each government to operate from its former embassy in Havana and Washington D.C., which were called Interests Sections; they were prohibited from flying their respective flags. First Secretary of the Communist Party of Cuba Raúl Castro and U.S. president Barack Obama restored full diplomatic connections on July 20, 2015 during the Cuban thaw.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Havana",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/U.S._Flag_Flaps_Outside_U.S._Embassy_in_Havana%2C_Cuba_%2825998479275%29.jpg/3840px-U.S._Flag_Flaps_Outside_U.S._Embassy_in_Havana%2C_Cuba_%2825998479275%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/U.S._Flag_Flaps_Outside_U.S._Embassy_in_Havana%2C_Cuba_%2825998479275%29.jpg/330px-U.S._Flag_Flaps_Outside_U.S._Embassy_in_Havana%2C_Cuba_%2825998479275%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "u.s._flag_flaps_outside_u.s._embassy_in_havana,_cuba_(25998479275).jpg",
+          "width": 4872,
+          "height": 3248,
+          "title": "Embassy of the United States, Havana",
+          "description": "American diplomatic mission in the capital of Cuba",
+          "extract": "The Embassy of the United States of America in Havana is the United States of America's diplomatic mission in Cuba. On January 3, 1961, U.S. president Dwight D. Eisenhower severed relations following the Cuban Revolution of the 1950s. In 1977, U.S. president Jimmy Carter and Cuban leader Fidel Castro signed an Interests Sections Agreement that permitted each government to operate from its former embassy in Havana and Washington D.C., which were called Interests Sections; they were prohibited from flying their respective flags. First Secretary of the Communist Party of Cuba Raúl Castro and U.S. president Barack Obama restored full diplomatic connections on July 20, 2015 during the Cuban thaw.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Havana",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/DJI_0197_crp_wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/DJI_0197_crp_wiki.jpg/330px-DJI_0197_crp_wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dji_0197_crp_wiki.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Havana",
+          "description": "Capital and largest city of Cuba",
+          "extract": "Havana is the capital and largest city of Cuba. The heart of La Habana Province, Havana is the country's main port and commercial center. It is the most populous city, the largest by area, and the second-largest metropolitan area in the Caribbean region. The population in 2021 was 2,142,939 inhabitants, and its area is 728.26 km2 (281.18 sq mi) for the capital city and 8,475.57 km2 for the metropolitan zone. Its official population however had dropped to 1,749,964 inhabitants by the end of 2024.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Havana",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Embassy_of_Cuba_in_Washington%2C_D.C._-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Embassy_of_Cuba_in_Washington%2C_D.C._-_2.jpg/330px-Embassy_of_Cuba_in_Washington%2C_D.C._-_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "embassy_of_cuba_in_washington,_d.c._-_2.jpg",
+          "width": 3073,
+          "height": 2483,
+          "title": "Cuba–United States relations",
+          "description": "",
+          "extract": "Modern diplomatic relations between Cuba and the United States are cold, stemming from historic conflict and divergent political ideologies. The two nations restored diplomatic relations on July 20, 2015, after relations had been severed in 1961 during the Cold War. The U.S. has maintained a comprehensive trade embargo against Cuba since 1960. The embargo includes restrictions on all commercial, economic, and financial activity, making it illegal for U.S. corporations to do business with Cuba.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cuba%E2%80%93United_States_relations",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Embassy of the United States, Havana",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Embassy_of_the_United_States%2C_Havana",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-14-2013-52cbb26c",
+      "year": 2013,
+      "text": "Security forces raided two camps of supporters of the ousted Egyptian president Mohamed Morsi in Cairo, leading to the deaths of at least 595 civilians.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Rabaa_al-Adawiya.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rabaa_al-Adawiya.png/330px-Rabaa_al-Adawiya.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "rabaa_al-adawiya.png",
+        "width": 987,
+        "height": 730,
+        "title": "Rabaa massacre",
+        "description": "Forceful dispersal of pro-Morsi sit-in in Cairo, Egypt",
+        "extract": "On 14 August 2013, the Egyptian police and to a lesser extent the armed forces, under the command of then-Defense Minister Abdel Fattah el-Sisi, used lethal force to clear two camps of protesters in Cairo. Estimates of those killed vary from 600 to 2,600. For six weeks, the two sites, at Rabaa al-Adawiya Square and al-Nahda Square, had been occupied by supporters of President Mohamed Morsi, who had been overthrown by a military coup the prior month following mass protests against his rule. Initiatives to end the six-week sit-ins by peaceful means had failed. The camps were cleared out within hours.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rabaa_massacre",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Rabaa_al-Adawiya.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rabaa_al-Adawiya.png/330px-Rabaa_al-Adawiya.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rabaa_al-adawiya.png",
+          "width": 987,
+          "height": 730,
+          "title": "Rabaa massacre",
+          "description": "Forceful dispersal of pro-Morsi sit-in in Cairo, Egypt",
+          "extract": "On 14 August 2013, the Egyptian police and to a lesser extent the armed forces, under the command of then-Defense Minister Abdel Fattah el-Sisi, used lethal force to clear two camps of protesters in Cairo. Estimates of those killed vary from 600 to 2,600. For six weeks, the two sites, at Rabaa al-Adawiya Square and al-Nahda Square, had been occupied by supporters of President Mohamed Morsi, who had been overthrown by a military coup the prior month following mass protests against his rule. Initiatives to end the six-week sit-ins by peaceful means had failed. The camps were cleared out within hours.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rabaa_massacre",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/President_Mohamed_Morsi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/President_Mohamed_Morsi.jpg/330px-President_Mohamed_Morsi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "president_mohamed_morsi.jpg",
+          "width": 782,
+          "height": 1080,
+          "title": "Mohamed Morsi",
+          "description": "President of Egypt from 2012 to 2013",
+          "extract": "Mohamed Mohamed Morsi Eissa Al-Ayyat was an Egyptian politician, engineer, and professor who served as the fifth president of Egypt from 2012 to 2013, when General Abdel Fattah el-Sisi removed him from office in a coup d'état after protests in June. Affiliated with the Muslim Brotherhood organization, Morsi led the Freedom and Justice Party from 2011 to 2012.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mohamed_Morsi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Anti-coup_sit-in_at_Rabaa_Adiweya_mosque_2013.jpg/1280px-Anti-coup_sit-in_at_Rabaa_Adiweya_mosque_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Anti-coup_sit-in_at_Rabaa_Adiweya_mosque_2013.jpg/1280px-Anti-coup_sit-in_at_Rabaa_Adiweya_mosque_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "anti-coup_sit-in_at_rabaa_adiweya_mosque_2013.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The area around the Rabaa al-Adaweya Mosque had been packed with Muslim Brotherhood supporters sleeping in tents for over a month before the sit-in was cleared.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rabaa_massacre",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Rabaa massacre",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Rabaa_massacre",
+      "relatedPagesCount": 2
+    }
+  ]
+}

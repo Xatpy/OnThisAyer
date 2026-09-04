@@ -1,0 +1,679 @@
+{
+  "date": {
+    "month": 1,
+    "day": 9,
+    "formatted": "01-09"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "01-09-2007-02742447",
+      "year": 2007,
+      "text": "Apple CEO Steve Jobs introduces the original iPhone at a Macworld keynote in San Francisco.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg/330px-Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "steve_jobs_headshot_2010_(cropped_4).jpg",
+        "width": 2222,
+        "height": 2958,
+        "title": "Steve Jobs",
+        "description": "American businessman and inventor (1955–2011)",
+        "extract": "Steven Paul Jobs was an American businessman, inventor, and investor. A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple Inc. with his early business partner Steve Wozniak as Apple Computer Company in 1976. After the company's board of directors fired him in 1985, he founded NeXT the same year and purchased Pixar in 1986, becoming its chairman and majority shareholder until 2007. Jobs returned to Apple in 1997 as CEO, where he was closely involved with the creation and promotion of many of the company's most influential products until his resignation in 2011.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Steve_Jobs",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg/330px-Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "steve_jobs_headshot_2010_(cropped_4).jpg",
+          "width": 2222,
+          "height": 2958,
+          "title": "Steve Jobs",
+          "description": "American businessman and inventor (1955–2011)",
+          "extract": "Steven Paul Jobs was an American businessman, inventor, and investor. A pioneer of the personal computer revolution of the 1970s and 1980s, Jobs co-founded Apple Inc. with his early business partner Steve Wozniak as Apple Computer Company in 1976. After the company's board of directors fired him in 1985, he founded NeXT the same year and purchased Pixar in 1986, becoming its chairman and majority shareholder until 2007. Jobs returned to Apple in 1997 as CEO, where he was closely involved with the creation and promotion of many of the company's most influential products until his resignation in 2011.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Steve_Jobs",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/3840px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/330px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "zeppelin-ride-020100925-195_(5029394846).jpg",
+          "width": 4000,
+          "height": 3000,
+          "title": "San Francisco",
+          "description": "City and county in California, US",
+          "extract": "San Francisco, officially the City and County of San Francisco, is the fourth-most populous city in California and the 17th-most populous in the United States, with a population of 826,079 in 2025. Among U.S. cities with a population of 200,000 or more, San Francisco is ranked first by per capita income, third by population density, and sixth by aggregate income as of 2024. Some 4.6 million residents live in the city's metropolitan statistical area, which is the 13th-largest in the United States. Around 9.2 million live in the San Jose–San Francisco–Oakland combined statistical area, the fifth-largest in the United States.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/San_Francisco",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1280px-Aerial_view_of_Apple_Park_dllu.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1280px-Aerial_view_of_Apple_Park_dllu.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "aerial_view_of_apple_park_dllu.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Aerial_view_of_Apple_Park_dllu",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apple_Inc.",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Apple Inc.",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-09-1972-db53c2e1",
+      "year": 1972,
+      "text": "The Los Angeles Lakers of the National Basketball Association lost to the Milwaukee Bucks, ending a 33-game winning streak, the longest in major American professional team sports.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Defense.gov_photo_essay_120715-D-VO565-004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Defense.gov_photo_essay_120715-D-VO565-004_%28cropped%29.jpg/330px-Defense.gov_photo_essay_120715-D-VO565-004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "defense.gov_photo_essay_120715-d-vo565-004_(cropped).jpg",
+        "width": 2980,
+        "height": 2151,
+        "title": "Sports in the United States",
+        "description": "",
+        "extract": "Sports in the United States are a significant aspect of the nation's culture. Historically, the most popular sport has been baseball; however, since the mid-20th century American football has slowly become the most popular spectator sport. Additionally, basketball and ice hockey saw a significant growth during this period due to the advent of television. As such, the sanctioning bodies of these sports comprise what broadcasters refer to as the \"Big Four\" of the sport industry. These sports, with the addition of soccer, are the most popular sports played at the youth level.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sports_in_the_United_States",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Defense.gov_photo_essay_120715-D-VO565-004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Defense.gov_photo_essay_120715-D-VO565-004_%28cropped%29.jpg/330px-Defense.gov_photo_essay_120715-D-VO565-004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "defense.gov_photo_essay_120715-d-vo565-004_(cropped).jpg",
+          "width": 2980,
+          "height": 2151,
+          "title": "Sports in the United States",
+          "description": "",
+          "extract": "Sports in the United States are a significant aspect of the nation's culture. Historically, the most popular sport has been baseball; however, since the mid-20th century American football has slowly become the most popular spectator sport. Additionally, basketball and ice hockey saw a significant growth during this period due to the advent of television. As such, the sanctioning bodies of these sports comprise what broadcasters refer to as the \"Big Four\" of the sport industry. These sports, with the addition of soccer, are the most popular sports played at the youth level.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sports_in_the_United_States",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Benjamin_Berger_speaking_at_the_National_Jewish_Fund_Dinner.jpg/330px-Benjamin_Berger_speaking_at_the_National_Jewish_Fund_Dinner.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Benjamin_Berger_speaking_at_the_National_Jewish_Fund_Dinner.jpg/330px-Benjamin_Berger_speaking_at_the_National_Jewish_Fund_Dinner.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "benjamin_berger_speaking_at_the_national_jewish_fund_dinner.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Minneapolis team co-owner Benjamin Berger",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Los_Angeles_Lakers",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/GeorgeMikan.jpg/1280px-GeorgeMikan.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/GeorgeMikan.jpg/1280px-GeorgeMikan.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "georgemikan.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Hall of Famer George Mikan (#99) led the Lakers franchise to their first five NBA championships. He is described by the NBA's official website as the \"first superstar\" in league history.[15]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Los_Angeles_Lakers",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Los Angeles Lakers",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Los_Angeles_Lakers",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "01-09-1962-d6ac7442",
+      "year": 1962,
+      "text": "Apollo program: NASA announces plans to build the C-5 rocket launch vehicle, then known as the \"Advanced Saturn\", to carry human beings to the Moon.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/STS115_Atlantis_undock_ISS_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/STS115_Atlantis_undock_ISS_edit2.jpg/330px-STS115_Atlantis_undock_ISS_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts115_atlantis_undock_iss_edit2.jpg",
+        "width": 2928,
+        "height": 1920,
+        "title": "Launch vehicle",
+        "description": "Rocket used to carry a spacecraft into space",
+        "extract": "A launch vehicle is typically a rocket-powered vehicle designed to carry a payload from Earth's surface or lower atmosphere to outer space. The most common form is the ballistic missile-shaped multistage rocket, but the term is more general and also encompasses vehicles like the Space Shuttle. Most launch vehicles operate from a launch pad, supported by a launch control center and systems such as vehicle assembly and fueling. Launch vehicles are engineered with advanced aerodynamics and technologies, which contribute to high operating costs.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Launch_vehicle",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/STS115_Atlantis_undock_ISS_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/STS115_Atlantis_undock_ISS_edit2.jpg/330px-STS115_Atlantis_undock_ISS_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts115_atlantis_undock_iss_edit2.jpg",
+          "width": 2928,
+          "height": 1920,
+          "title": "Launch vehicle",
+          "description": "Rocket used to carry a spacecraft into space",
+          "extract": "A launch vehicle is typically a rocket-powered vehicle designed to carry a payload from Earth's surface or lower atmosphere to outer space. The most common form is the ballistic missile-shaped multistage rocket, but the term is more general and also encompasses vehicles like the Space Shuttle. Most launch vehicles operate from a launch pad, supported by a launch control center and systems such as vehicle assembly and fueling. Launch vehicles are engineered with advanced aerodynamics and technologies, which contribute to high operating costs.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Launch_vehicle",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Apollo_11_Launch_-_GPN-2000-000630.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Apollo_11_Launch_-_GPN-2000-000630.jpg/330px-Apollo_11_Launch_-_GPN-2000-000630.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "apollo_11_launch_-_gpn-2000-000630.jpg",
+          "width": 2400,
+          "height": 3000,
+          "title": "Saturn V",
+          "description": "American super heavy-lift expendable rocket",
+          "extract": "The Saturn V is a retired American super heavy-lift launch vehicle developed by NASA under the Apollo program for human exploration of the Moon. The rocket was human-rated, had three stages, and was liquid-fueled. Thirteen Saturn V vehicles were launched, from 1967 to 1973, all from Kennedy Space Center Launch Complex 39, nine of which launched 24 astronauts toward the Moon from Apollo 8 to Apollo 17. Its final launch was Skylab, the first American space station, converted from its own third stage.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Saturn_V",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/1280px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/1280px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "a_man_on_the_moon,_as11-40-5903_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Buzz Aldrin (pictured) walked on the Moon with Neil Armstrong, on Apollo 11, July 20–21, 1969.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_program",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Apollo program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Apollo_program",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-09-1903-7790ce4b",
+      "year": 1903,
+      "text": "Hallam Tennyson, 2nd Baron Tennyson, son of the poet Alfred Tennyson, becomes the second Governor-General of Australia.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Hallam_Tennyson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hallam_Tennyson.jpg/330px-Hallam_Tennyson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hallam_tennyson.jpg",
+        "width": 500,
+        "height": 700,
+        "title": "Hallam Tennyson, 2nd Baron Tennyson",
+        "description": "British aristocrat (1852–1928)",
+        "extract": "Hallam Tennyson, 2nd Baron Tennyson was a British aristocrat who served as the second governor-general of Australia, in office from 1903 to 1904. He was previously Governor of South Australia from 1899 to 1902.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hallam_Tennyson%2C_2nd_Baron_Tennyson",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Hallam_Tennyson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hallam_Tennyson.jpg/330px-Hallam_Tennyson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hallam_tennyson.jpg",
+          "width": 500,
+          "height": 700,
+          "title": "Hallam Tennyson, 2nd Baron Tennyson",
+          "description": "British aristocrat (1852–1928)",
+          "extract": "Hallam Tennyson, 2nd Baron Tennyson was a British aristocrat who served as the second governor-general of Australia, in office from 1903 to 1904. He was previously Governor of South Australia from 1899 to 1902.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hallam_Tennyson%2C_2nd_Baron_Tennyson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Alfred%2C_Lord_Tennyson_by_Elliott_%26_Fry_-_Original.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Alfred%2C_Lord_Tennyson_by_Elliott_%26_Fry_-_Original.jpg/330px-Alfred%2C_Lord_Tennyson_by_Elliott_%26_Fry_-_Original.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "alfred,_lord_tennyson_by_elliott_&_fry_-_original.jpg",
+          "width": 2400,
+          "height": 3764,
+          "title": "Alfred, Lord Tennyson",
+          "description": "British Poet Laureate (1809–1892)",
+          "extract": "Alfred Tennyson, 1st Baron Tennyson was an English poet. He was Poet Laureate of the United Kingdom during much of Queen Victoria's reign. In 1829 he was awarded the Chancellor's Gold Medal at Cambridge for one of his first pieces, \"Timbuktu\". He published his first solo collection of poems, Poems, Chiefly Lyrical, in 1830. \"Claribel\" and \"Mariana\", which remain some of Tennyson's most celebrated poems, were included in this volume. Some critics described Tennyson as overly sentimental. However, his poems proved popular and brought Tennyson to the attention of well-known writers of the day, including Samuel Taylor Coleridge. Tennyson's early poetry, with its medievalism and powerful visual imagery, was a major influence on the Pre-Raphaelite Brotherhood.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Alfred%2C_Lord_Tennyson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tennyson_and_his_sons_by_Julia_Margaret_Cameron.jpg/1280px-Tennyson_and_his_sons_by_Julia_Margaret_Cameron.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tennyson_and_his_sons_by_Julia_Margaret_Cameron.jpg/1280px-Tennyson_and_his_sons_by_Julia_Margaret_Cameron.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "tennyson_and_his_sons_by_julia_margaret_cameron.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Alfred, Lord Tennyson, and his sons Hallam (left) and Lionel.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hallam_Tennyson%2C_2nd_Baron_Tennyson",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Hallam Tennyson, 2nd Baron Tennyson",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Hallam_Tennyson%2C_2nd_Baron_Tennyson",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-09-1941-4f897d5f",
+      "year": 1941,
+      "text": "World War II: First flight of the Avro Lancaster.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+        "width": 798,
+        "height": 544,
+        "title": "World War II",
+        "description": "Global conflict from 1939 to 1945",
+        "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+          "width": 798,
+          "height": 544,
+          "title": "World War II",
+          "description": "Global conflict from 1939 to 1945",
+          "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Battle_of_Britain_Memorial_flight_Avro_Lancaster_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Battle_of_Britain_Memorial_flight_Avro_Lancaster_%28cropped%29.jpg/330px-Battle_of_Britain_Memorial_flight_Avro_Lancaster_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "battle_of_britain_memorial_flight_avro_lancaster_(cropped).jpg",
+          "width": 2556,
+          "height": 1771,
+          "title": "Avro Lancaster",
+          "description": "World War II British heavy bomber aircraft",
+          "extract": "The Avro Lancaster, commonly known as the Lancaster Bomber, is a British World War II heavy bomber. It was designed and manufactured by Avro as a contemporary of the Handley Page Halifax, both bombers having been developed to the same specification, as well as the Short Stirling, all three aircraft being four-engine heavy bombers adopted by the Royal Air Force (RAF) during the same era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Avro_Lancaster",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "matilda_tanks_on_the_move_outside_the_perimeter_of_tobruk,_libya,_18_november_1941._e6600.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk,_Libya,_18_November_1941._E6600",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "World War II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_II",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-09-2021-f8f77090",
+      "year": 2021,
+      "text": "Sriwijaya Air Flight 182 crashes north of Jakarta, Indonesia, killing all 62 people on board.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Recovered_wreckage_from_the_crash_site_of_SJ182.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Recovered_wreckage_from_the_crash_site_of_SJ182.jpg/330px-Recovered_wreckage_from_the_crash_site_of_SJ182.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "recovered_wreckage_from_the_crash_site_of_sj182.jpg",
+        "width": 1280,
+        "height": 853,
+        "title": "Sriwijaya Air Flight 182",
+        "description": "2021 aviation accident in the Java Sea",
+        "extract": "Sriwijaya Air Flight 182 was a scheduled domestic passenger flight from Jakarta to Pontianak, Indonesia. Just four minutes after departing from Soekarno–Hatta International Airport on 9 January 2021, the Boeing 737-500 entered an upset and crashed into the Java Sea off the Thousand Islands, killing all 62 people on board. A search of the area recovered wreckage, human remains, and items of clothing. The flight data recorder was recovered on 12 January, and the data storage module of the cockpit voice recorder was recovered on 30 March. Flight 182 was the deadliest plane crash in 2021.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sriwijaya_Air_Flight_182",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Recovered_wreckage_from_the_crash_site_of_SJ182.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Recovered_wreckage_from_the_crash_site_of_SJ182.jpg/330px-Recovered_wreckage_from_the_crash_site_of_SJ182.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "recovered_wreckage_from_the_crash_site_of_sj182.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": "Sriwijaya Air Flight 182",
+          "description": "2021 aviation accident in the Java Sea",
+          "extract": "Sriwijaya Air Flight 182 was a scheduled domestic passenger flight from Jakarta to Pontianak, Indonesia. Just four minutes after departing from Soekarno–Hatta International Airport on 9 January 2021, the Boeing 737-500 entered an upset and crashed into the Java Sea off the Thousand Islands, killing all 62 people on board. A search of the area recovered wreckage, human remains, and items of clothing. The flight data recorder was recovered on 12 January, and the data storage module of the cockpit voice recorder was recovered on 30 March. Flight 182 was the deadliest plane crash in 2021.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sriwijaya_Air_Flight_182",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bundaran_Hotel_Indonesia_%282025%29_%28cropped%29.jpg/3840px-Bundaran_Hotel_Indonesia_%282025%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bundaran_Hotel_Indonesia_%282025%29_%28cropped%29.jpg/330px-Bundaran_Hotel_Indonesia_%282025%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundaran_hotel_indonesia_(2025)_(cropped).jpg",
+          "width": 4000,
+          "height": 2250,
+          "title": "Jakarta",
+          "description": "Capital and largest city in Indonesia",
+          "extract": "Jakarta, officially the Special Capital Region of Jakarta, is the capital and largest city of Indonesia, with administrative status equivalent to a province. It lies on the northwestern coast of Java, borders the provinces of West Java and Banten, and faces the Java Sea to the north. Jakarta itself covers about 662 square kilometres, but the wider Jakarta metropolitan area—locally known as Jabodetabek—is among the largest urban agglomerations in the world by area. By population, Greater Jakarta is the most populous urban area in the world with a population of over 40 million. Jakarta is Indonesia's political, economic, and cultural centre and contains many national institutions, corporate headquarters, and the secretariat of the Association of Southeast Asian Nations (ASEAN).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jakarta",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sriwijaya_Air_PK-CLC_July_21%2C_2019_%28cropped%29.jpg/1280px-Sriwijaya_Air_PK-CLC_July_21%2C_2019_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sriwijaya_Air_PK-CLC_July_21%2C_2019_%28cropped%29.jpg/1280px-Sriwijaya_Air_PK-CLC_July_21%2C_2019_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "sriwijaya_air_pk-clc_july_21,_2019_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Sriwijaya_Air_PK-CLC_July_21,_2019_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sriwijaya_Air_Flight_182",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Sriwijaya Air Flight 182",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Sriwijaya_Air_Flight_182",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-09-2017-63e84763",
+      "year": 2017,
+      "text": "Mont-Libre Agile Learning Centre, the province of Quebec's first alternative schooling democratic learning centre to support homeschooled youth, opens in the city of Montreal.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/ML_wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ML_wiki.jpg/330px-ML_wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ml_wiki.jpg",
+        "width": 2048,
+        "height": 1290,
+        "title": "Mont-Libre Agile Learning Centre",
+        "description": "Quebec's first independent democratic learning centre - located in Montreal, Canada",
+        "extract": "Mont-Libre Agile Learning Centre (Mont-Libre) is an independent inclusive multi-age and bilingual democratic learning centre servicing children who are registered for homeschooling in Quebec, Canada.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mont-Libre_Agile_Learning_Centre",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/ML_wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/ML_wiki.jpg/330px-ML_wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ml_wiki.jpg",
+          "width": 2048,
+          "height": 1290,
+          "title": "Mont-Libre Agile Learning Centre",
+          "description": "Quebec's first independent democratic learning centre - located in Montreal, Canada",
+          "extract": "Mont-Libre Agile Learning Centre (Mont-Libre) is an independent inclusive multi-age and bilingual democratic learning centre servicing children who are registered for homeschooling in Quebec, Canada.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mont-Libre_Agile_Learning_Centre",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Shimer_Class_Chicago.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Shimer_Class_Chicago.PNG/330px-Shimer_Class_Chicago.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "shimer_class_chicago.png",
+          "width": 834,
+          "height": 553,
+          "title": "Democratic education",
+          "description": "Schooling run as direct democracies",
+          "extract": "Democratic education is a type of formal education organized democratically, allowing students to manage their own learning and participate in the governance of their educational environment. Democratic education is often specifically emancipatory, with students' voices equal to teachers'.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Democratic_education",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Montreal%2C_Quebec_skyline.jpg/3840px-Montreal%2C_Quebec_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Montreal%2C_Quebec_skyline.jpg/330px-Montreal%2C_Quebec_skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "montreal,_quebec_skyline.jpg",
+          "width": 7904,
+          "height": 4742,
+          "title": "Montreal",
+          "description": "Largest city in Quebec, Canada",
+          "extract": "Montreal is the largest city in the province of Quebec, the second-largest in Canada, and the eighth-largest in North America. Founded in 1642 as Ville-Marie, or \"City of Mary\", it now takes its name from Mount Royal, the triple-peaked mountain around which the early settlement was built. The city is centred on the Island of Montreal and a few, much smaller, peripheral islands, the largest of which is Île Bizard. It lies 196 kilometres (122 mi) east of the national capital, Ottawa, and 258 kilometres (160 mi) southwest of the provincial capital, Quebec City.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Montreal",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Mont-Libre Agile Learning Centre",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mont-Libre_Agile_Learning_Centre",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "01-09-2015-bdd09a5d",
+      "year": 2015,
+      "text": "Contaminated beer served at a funeral in Tete Province, Mozambique, killed 75 people and made at least 230 others ill.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cahorra_bassa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cahorra_bassa.jpg/330px-Cahorra_bassa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "cahorra_bassa.jpg",
+        "width": 500,
+        "height": 333,
+        "title": "Tete Province",
+        "description": "Province of Mozambique",
+        "extract": "Tete is a province of Mozambique, located in the northwest of the country. It has an area of 98,417 km2 and a population of 2,648,941.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tete_Province",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cahorra_bassa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cahorra_bassa.jpg/330px-Cahorra_bassa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cahorra_bassa.jpg",
+          "width": 500,
+          "height": 333,
+          "title": "Tete Province",
+          "description": "Province of Mozambique",
+          "extract": "Tete is a province of Mozambique, located in the northwest of the country. It has an area of 98,417 km2 and a population of 2,648,941.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tete_Province",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/COLLECTIE_TROPENMUSEUM_Man_drinkt_bier_%28pombe%29_op_het_bordes_van_Dr._Thoden_van_Velzen_terwijl_kinderen_toekijken_TMnr_20014576_%28cropped%29.jpg/330px-COLLECTIE_TROPENMUSEUM_Man_drinkt_bier_%28pombe%29_op_het_bordes_van_Dr._Thoden_van_Velzen_terwijl_kinderen_toekijken_TMnr_20014576_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/COLLECTIE_TROPENMUSEUM_Man_drinkt_bier_%28pombe%29_op_het_bordes_van_Dr._Thoden_van_Velzen_terwijl_kinderen_toekijken_TMnr_20014576_%28cropped%29.jpg/330px-COLLECTIE_TROPENMUSEUM_Man_drinkt_bier_%28pombe%29_op_het_bordes_van_Dr._Thoden_van_Velzen_terwijl_kinderen_toekijken_TMnr_20014576_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "collectie_tropenmuseum_man_drinkt_bier_(pombe)_op_het_bordes_van_dr._thoden_van_velzen_terwijl_kinderen_toekijken_tmnr_20014576_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Drinking traditionally brewed pombe in 1967",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mozambique_funeral_beer_poisoning",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Mozambique funeral beer poisoning",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mozambique_funeral_beer_poisoning",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-09-2005-ec7fa16e",
+      "year": 2005,
+      "text": "Mahmoud Abbas wins the election to succeed Yasser Arafat as President of the Palestinian National Authority, replacing interim president Rawhi Fattouh.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mahmoud_Abbas_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mahmoud_Abbas_2024.jpg/330px-Mahmoud_Abbas_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mahmoud_abbas_2024.jpg",
+        "width": 814,
+        "height": 1129,
+        "title": "Mahmoud Abbas",
+        "description": "President of Palestine since 2005",
+        "extract": "Mahmoud Abbas, also known by the kunya Abu Mazen, is a Palestinian politician who has been serving as the second president of Palestine and the Palestinian National Authority (PNA) since 2005. He has also been the fourth chairman of the Palestine Liberation Organization (PLO) since 2004. Abbas is also a member of the Fatah party and was elected the party's chairman in 2009.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mahmoud_Abbas",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mahmoud_Abbas_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mahmoud_Abbas_2024.jpg/330px-Mahmoud_Abbas_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mahmoud_abbas_2024.jpg",
+          "width": 814,
+          "height": 1129,
+          "title": "Mahmoud Abbas",
+          "description": "President of Palestine since 2005",
+          "extract": "Mahmoud Abbas, also known by the kunya Abu Mazen, is a Palestinian politician who has been serving as the second president of Palestine and the Palestinian National Authority (PNA) since 2005. He has also been the fourth chairman of the Palestine Liberation Organization (PLO) since 2004. Abbas is also a member of the Fatah party and was elected the party's chairman in 2009.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mahmoud_Abbas",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mahmoud_Abbas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mahmoud_Abbas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "mahmoud_abbas.jpg",
+          "width": 319,
+          "height": 419,
+          "title": "2005 Palestinian presidential election",
+          "description": "General election held in the Palestinian National Authority",
+          "extract": "The 2005 Palestinian Presidential elections were held in the West Bank and Gaza Strip of the Palestinian National Authority on Sunday, 9 January 2005 to elect the President of the Palestinian National Authority, to succeed Yasser Arafat, who had died on 11 November 2004. The election was the first to be held since the 1996 general election, and voters elected Palestine Liberation Organization chairman Mahmoud Abbas for a four-year term.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2005_Palestinian_presidential_election",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/330px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "leader_of_the_plo,_yasser_arafat,_1996_dan_hadani_archive.jpg",
+          "width": 1380,
+          "height": 2007,
+          "title": "Yasser Arafat",
+          "description": "President of Palestine from 1989 to 2004",
+          "extract": "Yasser Arafat, also popularly known by his kunya Abu Ammar, was a Palestinian political leader. He was chairman of the Palestine Liberation Organization (PLO) from 1969 to 2004, President of Palestine from 1989 to 2004 and President of the Palestinian Authority (PNA) from 1994 to 2004. Ideologically an Arab nationalist and a socialist, Arafat was a founding member of the Fatah political party, which he led from 1959 until 2004.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Yasser_Arafat",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Mahmoud Abbas",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mahmoud_Abbas",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "01-09-2004-297a0d53",
+      "year": 2004,
+      "text": "An inflatable boat carrying illegal Albanian emigrants stalls near the Karaburun Peninsula en route to Brindisi, Italy; exposure to the elements kills 28. This is the second deadliest marine disaster in Albanian history.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Zodiac_on_the_beach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Zodiac_on_the_beach.jpg/330px-Zodiac_on_the_beach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "zodiac_on_the_beach.jpg",
+        "width": 2816,
+        "height": 2112,
+        "title": "Inflatable boat",
+        "description": "Lightweight boat constructed with flexible tubes containing pressurized gas",
+        "extract": "An inflatable boat is a lightweight boat constructed with its sides and bow made of flexible tubes containing pressurized gas. For smaller boats, the floor and hull are often flexible, while for boats longer than 3 metres (9.8 ft), the floor typically consists of three to five rigid plywood or aluminium sheets fixed between the tubes, but not joined rigidly together. Often the transom is rigid, providing a location and structure for mounting an outboard motor.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Inflatable_boat",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Zodiac_on_the_beach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Zodiac_on_the_beach.jpg/330px-Zodiac_on_the_beach.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "zodiac_on_the_beach.jpg",
+          "width": 2816,
+          "height": 2112,
+          "title": "Inflatable boat",
+          "description": "Lightweight boat constructed with flexible tubes containing pressurized gas",
+          "extract": "An inflatable boat is a lightweight boat constructed with its sides and bow made of flexible tubes containing pressurized gas. For smaller boats, the floor and hull are often flexible, while for boats longer than 3 metres (9.8 ft), the floor typically consists of three to five rigid plywood or aluminium sheets fixed between the tubes, but not joined rigidly together. Often the transom is rigid, providing a location and structure for mounting an outboard motor.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Inflatable_boat",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/ISS006-E-45668_-_View_of_Albania.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/ISS006-E-45668_-_View_of_Albania.jpg/330px-ISS006-E-45668_-_View_of_Albania.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss006-e-45668_-_view_of_albania.jpg",
+          "width": 3032,
+          "height": 2064,
+          "title": "Karaburun tragedy",
+          "description": "2004 tragedy at sea off the coast of Italy",
+          "extract": "The Karaburun tragedy of 2004, also known as the 9 January tragedy, was a marine incident that occurred during an attempted sea crossing from southern Albania to Italy by 36 people, including two dinghy operators and the smugglers' leader. They were trying to cross the Strait of Otranto, off the southern coast of Italy, in an inflatable boat, heading towards Brindisi, on the Adriatic coast of Apulia. Twenty-eight people died or were declared lost at sea, and there were only eight survivors. For Albanian emigrants, the tragedy had the second highest mortality rate for such events, after the Otranto tragedy of March 1997, when the Albanian ship Kateri i Radës, smuggling clandestine emigrants, was hit by the Italian warship Sibilla, resulting in the death of 84 people.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Karaburun_tragedy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/June_22_2013_432_HSV_Albanische_Riviera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/June_22_2013_432_HSV_Albanische_Riviera.jpg/330px-June_22_2013_432_HSV_Albanische_Riviera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "june_22_2013_432_hsv_albanische_riviera.jpg",
+          "width": 3633,
+          "height": 4893,
+          "title": "Karaburun Peninsula, Albania",
+          "description": "Peninsula on the southwest coast of Albania",
+          "extract": "The Karaburun Peninsula, also known as Cape Linguetta, is a peninsula of the Mediterranean Sea located in Southeastern Europe, which is almost completely surrounded by both the Adriatic Sea to the north and the Ionian Sea to the south. It is located in Southwestern Albania along the Albanian Ionian Sea Coast, whereas the Strait of Otranto separates it from Italy. The Strait of Mezokanal separates the peninsula from Sazan Island, while in the southeast stretches the Bay of Vlorë. In classical antiquity, its name was the \"Akrokeraunian Peninsula\", whose name was derived from the eponymous Akrokeraunian mountains; this is because, in terms of geology, the Rrëza e Kanalit on the peninsula represent the continuation of said mountains, which are the highest and most extensive mountain range system that extends parallel to the Ionian Sea. Karaburun peninsula is sometimes called Ceraunian Peninsula due to the name of the mountain range. Formed during the mesozoic era of the cretaceous and paleogene period, the crests of the mountain range form a northwest-southeast line with a series of distinct peaks along its irregular structure that are broken apart by steep and unequally slopes. The highest peaks are namely, the Maja Çaderës, Maja e Flamurit, Maja e Koretës and Maja e Ilqes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Karaburun_Peninsula%2C_Albania",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Inflatable boat",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Inflatable_boat",
+      "relatedPagesCount": 5
+    }
+  ]
+}

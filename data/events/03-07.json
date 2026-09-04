@@ -1,0 +1,643 @@
+{
+  "date": {
+    "month": 3,
+    "day": 7,
+    "formatted": "03-07"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "03-07-2009-4aa9414e",
+      "year": 2009,
+      "text": "The Kepler space telescope (depicted), designed to discover Earth-like planets orbiting other stars, was launched.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Kepler_Space_Telescope_spacecraft_model_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kepler_Space_Telescope_spacecraft_model_2.png/330px-Kepler_Space_Telescope_spacecraft_model_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "kepler_space_telescope_spacecraft_model_2.png",
+        "width": 1395,
+        "height": 1529,
+        "title": "Kepler space telescope",
+        "description": "NASA space telescope for exoplanetology (2009–2018)",
+        "extract": "The Kepler space telescope was a space telescope launched by NASA in 2009 to discover Earth-sized planets orbiting other stars. Named after astronomer Johannes Kepler the spacecraft was launched into an Earth-trailing heliocentric orbit. The principal investigator was William J. Borucki. After nine and a half years of operation, the telescope's reaction control system fuel was depleted, and NASA announced its retirement on October 30, 2018.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kepler_space_telescope",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Kepler_Space_Telescope_spacecraft_model_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kepler_Space_Telescope_spacecraft_model_2.png/330px-Kepler_Space_Telescope_spacecraft_model_2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kepler_space_telescope_spacecraft_model_2.png",
+          "width": 1395,
+          "height": 1529,
+          "title": "Kepler space telescope",
+          "description": "NASA space telescope for exoplanetology (2009–2018)",
+          "extract": "The Kepler space telescope was a space telescope launched by NASA in 2009 to discover Earth-sized planets orbiting other stars. Named after astronomer Johannes Kepler the spacecraft was launched into an Earth-trailing heliocentric orbit. The principal investigator was William J. Borucki. After nine and a half years of operation, the telescope's reaction control system fuel was depleted, and NASA announced its retirement on October 30, 2018.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kepler_space_telescope",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Terrestrial_planet_sizes_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Terrestrial_planet_sizes_3.jpg/330px-Terrestrial_planet_sizes_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "terrestrial_planet_sizes_3.jpg",
+          "width": 3215,
+          "height": 3215,
+          "title": "Terrestrial planet",
+          "description": "Planet that is composed primarily of silicate rocks or metals",
+          "extract": "A terrestrial planet is a class of planet that is composed primarily of silicate, rocks, or metals. It may instead be referred to as a tellurian planet, telluric planet, or rocky planet. Within the Solar System, the terrestrial planets accepted by the International Astronomical Union are the inner planets closest to the Sun: Mercury, Venus, Earth and Mars. Among astronomers who use the geophysical definition of a planet, two or three planetary-mass satellites – Earth's Moon, Io, and sometimes Europa – may also count as terrestrial planets. The large rocky asteroids Pallas and Vesta are sometimes included as well, albeit rarely. The terms \"terrestrial planet\" and \"telluric planet\" are derived from Latin words for Earth, as these planets are, in terms of structure, Earth-like. Terrestrial planets are generally studied by geologists, astronomers, and geophysicists.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Terrestrial_planet",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Kepler space telescope",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Kepler_space_telescope",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-07-1986-9e5ab966",
+      "year": 1986,
+      "text": "Challenger Disaster: Divers from the USS Preserver locate the crew cabin of Challenger on the ocean floor.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Challenger_explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Challenger_explosion.jpg/330px-Challenger_explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "challenger_explosion.jpg",
+        "width": 3555,
+        "height": 2879,
+        "title": "Space Shuttle Challenger disaster",
+        "description": "1986 breakup of American orbiter",
+        "extract": "On January 28, 1986, Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members. The spacecraft disintegrated about 46,000 feet (14 km) above the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 16:39:13 UTC. It was the first fatal accident involving an American spacecraft while in flight.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Challenger_explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Challenger_explosion.jpg/330px-Challenger_explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "challenger_explosion.jpg",
+          "width": 3555,
+          "height": 2879,
+          "title": "Space Shuttle Challenger disaster",
+          "description": "1986 breakup of American orbiter",
+          "extract": "On January 28, 1986, Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members. The spacecraft disintegrated about 46,000 feet (14 km) above the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 16:39:13 UTC. It was the first fatal accident involving an American spacecraft while in flight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/USS_Preserver_%28ARS-8%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/USS_Preserver_%28ARS-8%29.jpg/330px-USS_Preserver_%28ARS-8%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "uss_preserver_(ars-8).jpg",
+          "width": 900,
+          "height": 604,
+          "title": "USS Preserver",
+          "description": "US Navy salvage ship",
+          "extract": "USS Preserver (ARS-8) was a Diver-class rescue and salvage ship commissioned by the U.S. Navy for service in World War II. She was responsible for coming to the aid of stricken vessels. Preserver was laid down by Basalt Rock Company in Napa, California, 26 October 1942, launched 1 April 1943, sponsored by Mrs. Walter F. LaFranz, and commissioned 11 January 1944.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/USS_Preserver",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/STS-51-L.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/STS-51-L.jpg/330px-STS-51-L.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-51-l.jpg",
+          "width": 3000,
+          "height": 2400,
+          "title": "STS-51-L",
+          "description": "Failed 1986 American crewed spaceflight",
+          "extract": "STS-51-L was the 25th mission of NASA's Space Shuttle program which resulted in the loss of Space Shuttle Challenger.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-51-L",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Challenger disaster",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-07-1985-842d5db0",
+      "year": 1985,
+      "text": "The charity single \"We Are the World\" by the supergroup USA for Africa was released, and went on to sell more than 20 million copies.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/81/We_Are_the_World_alternative_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/8/81/We_Are_the_World_alternative_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "we_are_the_world_alternative_cover.jpg",
+        "width": 300,
+        "height": 300,
+        "title": "We Are the World",
+        "description": "1985 charity song",
+        "extract": "\"We Are the World\" is a charity single recorded by the supergroup USA for Africa in 1985. It was written by Michael Jackson and Lionel Richie and produced by Quincy Jones for the album We Are the World to raise money for the 1983–1985 famine in Ethiopia. With sales in excess of 20 million physical copies, it is the eighth-best-selling single of all time.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/We_Are_the_World",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/81/We_Are_the_World_alternative_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/8/81/We_Are_the_World_alternative_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "we_are_the_world_alternative_cover.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "We Are the World",
+          "description": "1985 charity song",
+          "extract": "\"We Are the World\" is a charity single recorded by the supergroup USA for Africa in 1985. It was written by Michael Jackson and Lionel Richie and produced by Quincy Jones for the album We Are the World to raise money for the 1983–1985 famine in Ethiopia. With sales in excess of 20 million physical copies, it is the eighth-best-selling single of all time.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/We_Are_the_World",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Charity record",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Charity_record",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-07-1900-f6416dbd",
+      "year": 1900,
+      "text": "The German ocean liner SS Kaiser Wilhelm der Grosse became the first ship to send a wireless telegraph message to an onshore receiver.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kaiser_wilhelm_der_grosse_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kaiser_wilhelm_der_grosse_01.jpg/330px-Kaiser_wilhelm_der_grosse_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "kaiser_wilhelm_der_grosse_01.jpg",
+        "width": 1479,
+        "height": 1065,
+        "title": "SS Kaiser Wilhelm der Grosse",
+        "description": "German ocean liner",
+        "extract": "Kaiser Wilhelm der Grosse was a German transatlantic ocean liner in service from 1897 to 1914, when she was scuttled in battle. She was the largest ship in the world for a time, and held the Blue Riband for the fastest passenger liner crossing of the Atlantic Ocean, until Deutschland from Hamburg America Line entered service in 1900.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/SS_Kaiser_Wilhelm_der_Grosse",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kaiser_wilhelm_der_grosse_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kaiser_wilhelm_der_grosse_01.jpg/330px-Kaiser_wilhelm_der_grosse_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kaiser_wilhelm_der_grosse_01.jpg",
+          "width": 1479,
+          "height": 1065,
+          "title": "SS Kaiser Wilhelm der Grosse",
+          "description": "German ocean liner",
+          "extract": "Kaiser Wilhelm der Grosse was a German transatlantic ocean liner in service from 1897 to 1914, when she was scuttled in battle. She was the largest ship in the world for a time, and held the Blue Riband for the fastest passenger liner crossing of the Atlantic Ocean, until Deutschland from Hamburg America Line entered service in 1900.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/SS_Kaiser_Wilhelm_der_Grosse",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/SCR188.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/SCR188.jpg/330px-SCR188.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "scr188.jpg",
+          "width": 2106,
+          "height": 1696,
+          "title": "Wireless telegraphy",
+          "description": "Method of communication by radio waves",
+          "extract": "Wireless telegraphy or radiotelegraphy is the transmission of text messages by radio waves, analogous to electrical telegraphy using cables. Before about 1910, the term wireless telegraphy was also used for other experimental technologies for transmitting telegraph signals without wires. In radiotelegraphy, information is transmitted by pulses of radio waves of two different lengths called \"dots\" and \"dashes\", which spell out text messages, usually in Morse code. In a manual system, the sending operator taps on a switch called a telegraph key which turns the transmitter on and off, producing the pulses of radio waves. At the receiver the pulses are audible in the receiver's speaker as beeps, which are translated back to text by an operator who knows Morse code.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wireless_telegraphy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RMS_Queen_Mary_2_and_MS_Rotterdam_in_Quebec_City.png/1280px-RMS_Queen_Mary_2_and_MS_Rotterdam_in_Quebec_City.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RMS_Queen_Mary_2_and_MS_Rotterdam_in_Quebec_City.png/1280px-RMS_Queen_Mary_2_and_MS_Rotterdam_in_Quebec_City.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "rms_queen_mary_2_and_ms_rotterdam_in_quebec_city.png",
+          "width": 800,
+          "height": 600,
+          "title": "Some of the last remaining ships that were designed as Ocean Liners, RMS Queen Mary 2 and MS Rotterdam.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ocean_liner",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Ocean liner",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ocean_liner",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-07-1945-99b812a5",
+      "year": 1945,
+      "text": "World War II: At the beginning of the Battle of Remagen, Allied forces unexpectedly captured the Ludendorff Bridge, which possibly hastened the war's conclusion.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+        "width": 798,
+        "height": 544,
+        "title": "World War II",
+        "description": "Global conflict from 1939 to 1945",
+        "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+          "width": 798,
+          "height": 544,
+          "title": "World War II",
+          "description": "Global conflict from 1939 to 1945",
+          "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/CROSS_THE_RHINE_WITH_DRY_FEET_COURTESY_OF_9TH_ARM%27D_DIV-LUDENDORFF_BRIDGE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/CROSS_THE_RHINE_WITH_DRY_FEET_COURTESY_OF_9TH_ARM%27D_DIV-LUDENDORFF_BRIDGE.jpg/330px-CROSS_THE_RHINE_WITH_DRY_FEET_COURTESY_OF_9TH_ARM%27D_DIV-LUDENDORFF_BRIDGE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cross_the_rhine_with_dry_feet_courtesy_of_9th_arm'd_div-ludendorff_bridge.jpg",
+          "width": 999,
+          "height": 783,
+          "title": "Battle of Remagen",
+          "description": "World War II US Army crossing the Rhine",
+          "extract": "The Battle of Remagen was an 18-day battle during the Allied invasion of Germany in World War II. It lasted from 7 to 25 March 1945 when American forces unexpectedly captured the Ludendorff Bridge over the Rhine intact. They were able to hold it against German opposition and build additional temporary crossings. The presence of a bridgehead across the Rhine advanced the Western Allies' planned crossing of the Rhine into the German interior by three weeks.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Remagen",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ludendorff_Bridge_from_Erpeler_Ley.jpg/3840px-Ludendorff_Bridge_from_Erpeler_Ley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Ludendorff_Bridge_from_Erpeler_Ley.jpg/330px-Ludendorff_Bridge_from_Erpeler_Ley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ludendorff_bridge_from_erpeler_ley.jpg",
+          "width": 5862,
+          "height": 4638,
+          "title": "Ludendorff Bridge",
+          "description": "Former railway bridge in Germany",
+          "extract": "The Ludendorff Bridge, also known as the Bridge at Remagen, was the bridge across the river Rhine in Germany which was captured by United States Army forces in early March 1945 during the Battle of Remagen, in the closing weeks of World War II, when it was one of the few remaining bridges in the region and therefore a critical strategic point. Built at the end of World War I it was supposed to help deliver reinforcements and supplies to German troops on the Western Front, but the adjacent tunnel under the Erpeler Ley rocks and the railway spur line was only completed in 1919. The bridge connected Remagen on the west (south) bank and the village of Erpel on the east (north) bank between two hills flanking the river. Due to a lack of demolition charges, the bridge was only damaged when retreating German forces tried to destroy it while already being attacked by US forces.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ludendorff_Bridge",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "World War II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_II",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-07-2024-a699e282",
+      "year": 2024,
+      "text": "Hannah Gutierrez-Reed is found guilty of involuntary manslaughter in the death of Halyna Hutchins on the set of the movie Rust, the first time someone has been found guilty for causing a death on a movie set.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Halyna_Hutchins_%28cinematographer%2C_journalist%2C_born_1979%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/01/Halyna_Hutchins_%28cinematographer%2C_journalist%2C_born_1979%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "halyna_hutchins_(cinematographer,_journalist,_born_1979).jpg",
+        "width": 270,
+        "height": 333,
+        "title": "Halyna Hutchins",
+        "description": "Ukrainian cinematographer (1979–2021)",
+        "extract": "Halyna Anatoliivna Hutchins was a Ukrainian cinematographer. She worked on more than 30 feature-length films, short films, and TV miniseries, including the films Archenemy, Darlin', and Blindfire.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Halyna_Hutchins",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Halyna_Hutchins_%28cinematographer%2C_journalist%2C_born_1979%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/01/Halyna_Hutchins_%28cinematographer%2C_journalist%2C_born_1979%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "halyna_hutchins_(cinematographer,_journalist,_born_1979).jpg",
+          "width": 270,
+          "height": 333,
+          "title": "Halyna Hutchins",
+          "description": "Ukrainian cinematographer (1979–2021)",
+          "extract": "Halyna Anatoliivna Hutchins was a Ukrainian cinematographer. She worked on more than 30 feature-length films, short films, and TV miniseries, including the films Archenemy, Darlin', and Blindfire.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Halyna_Hutchins",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/c7/Rust_%282024_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/c/c7/Rust_%282024_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "rust_(2024_film)_poster.jpg",
+          "width": 260,
+          "height": 384,
+          "title": "Rust (2024 film)",
+          "description": "Film by Joel Souza",
+          "extract": "Rust is a 2024 American Western film written and directed by Joel Souza. It stars Alec Baldwin, Patrick Scott McDermott, Josh Hopkins, Frances Fisher, and Travis Fimmel. The film follows an outlaw who flees for Mexico along with his grandson, but must avoid pursuing law enforcers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rust_(2024_film)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Alec_Baldwin_2018.jpg/1280px-Alec_Baldwin_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Alec_Baldwin_2018.jpg/1280px-Alec_Baldwin_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "alec_baldwin_2018.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Actor and Rust producer Alec Baldwin",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rust_shooting_incident",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Rust shooting incident",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Rust_shooting_incident",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-07-1971-7d3f5cdc",
+      "year": 1971,
+      "text": "Sheikh Mujibur Rahman, political leader of then East Pakistan (present day-Bangladesh), delivers his historic 7th March speech in the Racecourse Field (Now Suhrawardy Udyan) in Dhaka.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Official_Portrait_of_Bangabandhu_Sheikh_Mujibur_Rahman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Official_Portrait_of_Bangabandhu_Sheikh_Mujibur_Rahman.jpg/330px-Official_Portrait_of_Bangabandhu_Sheikh_Mujibur_Rahman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "official_portrait_of_bangabandhu_sheikh_mujibur_rahman.jpg",
+        "width": 1807,
+        "height": 2221,
+        "title": "Sheikh Mujibur Rahman",
+        "description": "Bangladeshi revolutionary and statesman (1920–1975)",
+        "extract": "Sheikh Mujibur Rahman was a Bangladeshi politician, revolutionary, statesman, activist, and diarist who was the founding president of Bangladesh. As the leader of Bangladesh, he led the country as its president and prime minister from 1972 until his assassination in a coup d'état in 1975.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Official_Portrait_of_Bangabandhu_Sheikh_Mujibur_Rahman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Official_Portrait_of_Bangabandhu_Sheikh_Mujibur_Rahman.jpg/330px-Official_Portrait_of_Bangabandhu_Sheikh_Mujibur_Rahman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_portrait_of_bangabandhu_sheikh_mujibur_rahman.jpg",
+          "width": 1807,
+          "height": 2221,
+          "title": "Sheikh Mujibur Rahman",
+          "description": "Bangladeshi revolutionary and statesman (1920–1975)",
+          "extract": "Sheikh Mujibur Rahman was a Bangladeshi politician, revolutionary, statesman, activist, and diarist who was the founding president of Bangladesh. As the leader of Bangladesh, he led the country as its president and prime minister from 1972 until his assassination in a coup d'état in 1975.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sheikh_Mujibur_Rahman_Delivering_7_March_Speech_of_Sheikh_Mujibur_Rahman_at_Ramna_Race_Course_Dhaka_1971-03-07_%28PID-0033891%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sheikh_Mujibur_Rahman_Delivering_7_March_Speech_of_Sheikh_Mujibur_Rahman_at_Ramna_Race_Course_Dhaka_1971-03-07_%28PID-0033891%29.jpg/330px-Sheikh_Mujibur_Rahman_Delivering_7_March_Speech_of_Sheikh_Mujibur_Rahman_at_Ramna_Race_Course_Dhaka_1971-03-07_%28PID-0033891%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sheikh_mujibur_rahman_delivering_7_march_speech_of_sheikh_mujibur_rahman_at_ramna_race_course_dhaka_1971-03-07_(pid-0033891).jpg",
+          "width": 2100,
+          "height": 1407,
+          "title": "7 March Speech of Sheikh Mujibur Rahman",
+          "description": "1971 speech by the Bangladeshi Leader",
+          "extract": "The 7th March Speech of Mujib, or the 7/3 Speech, was a public speech given by Sheikh Mujibur Rahman, the founding leader of Bangladesh on 7 March 1971 at the Ramna Race Course in Dhaka to a gathering of over one million (1,000,000) people. It was delivered during a period of escalating tensions between East Pakistan and the powerful political and military establishment of West Pakistan. In the speech, Mujib informally declared the independence of Bangladesh, proclaiming: \"The struggle this time, is a struggle for our liberty. The struggle this time, is a struggle for our independence.\" He announced a civil disobedience movement in the province, calling for \"every house to turn into a fortress\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/7_March_Speech_of_Sheikh_Mujibur_Rahman",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AA%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%BE%2C_%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%BE_%E0%A6%9A%E0%A6%BF%E0%A6%B0%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%A8%2C_%E0%A6%B8%E0%A7%8B%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%80_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%2C_%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A5%A4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/%E0%A6%86%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A6%BE%E0%A6%B2-%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AA%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%BE%2C_%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%BE_%E0%A6%9A%E0%A6%BF%E0%A6%B0%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%A8%2C_%E0%A6%B8%E0%A7%8B%E0%A6%B9%E0%A6%B0%E0%A6%BE%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%80_%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%2C_%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A5%A4.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "আমাদের_লাল-সবুজের_জাতীয়_পতাকা,_শিখা_চিরন্তন,_সোহরাওয়ার্দী_উদ্যান,_ঢাকা।.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": "Suhrawardy Udyan",
+          "description": "National memorial in Dhaka, Bangladesh",
+          "extract": "Suhrawardy Udyan is a national memorial and public space located in Dhaka, Bangladesh. Originally known as Ramna Race Course, it holds historical importance due to its association with key events in the country's history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Suhrawardy_Udyan",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Sheikh Mujibur Rahman",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Sheikh_Mujibur_Rahman",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "03-07-2007-604bedf6",
+      "year": 2007,
+      "text": "Reform of the House of Lords: The British House of Commons votes to make the upper chamber, the House of Lords, 100% elected.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Microcosm_of_London_Plate_052_-_House_of_Lords_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Microcosm_of_London_Plate_052_-_House_of_Lords_edited.jpg/330px-Microcosm_of_London_Plate_052_-_House_of_Lords_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "microcosm_of_london_plate_052_-_house_of_lords_edited.jpg",
+        "width": 812,
+        "height": 634,
+        "title": "Reform of the House of Lords",
+        "description": "Proposed reforms to the upper house of the British Parliament",
+        "extract": "Reform of the House of Lords, the upper house of the Parliament of the United Kingdom, has been a topic of discussion in UK politics for more than a century. Multiple governments have attempted reform, beginning with the introduction of the Parliament Act 1911 by the incumbent Liberal Government. When the Labour Party came to power in the 1997 general election, the Blair government passed the House of Lords Act 1999. On 7 November 2001 the government undertook a public consultation. This helped to create a public debate on the issue of Lords reform, with 1,101 consultation responses and multiple debates in Parliament and the media. However, no consensus on the future of the upper chamber emerged.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Reform_of_the_House_of_Lords",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Microcosm_of_London_Plate_052_-_House_of_Lords_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Microcosm_of_London_Plate_052_-_House_of_Lords_edited.jpg/330px-Microcosm_of_London_Plate_052_-_House_of_Lords_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "microcosm_of_london_plate_052_-_house_of_lords_edited.jpg",
+          "width": 812,
+          "height": 634,
+          "title": "Reform of the House of Lords",
+          "description": "Proposed reforms to the upper house of the British Parliament",
+          "extract": "Reform of the House of Lords, the upper house of the Parliament of the United Kingdom, has been a topic of discussion in UK politics for more than a century. Multiple governments have attempted reform, beginning with the introduction of the Parliament Act 1911 by the incumbent Liberal Government. When the Labour Party came to power in the 1997 general election, the Blair government passed the House of Lords Act 1999. On 7 November 2001 the government undertook a public consultation. This helped to create a public debate on the issue of Lords reform, with 1,101 consultation responses and multiple debates in Parliament and the media. However, no consensus on the future of the upper chamber emerged.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Reform_of_the_House_of_Lords",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Labour_Clears_The_Way.jpg/1280px-Labour_Clears_The_Way.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Labour_Clears_The_Way.jpg/1280px-Labour_Clears_The_Way.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "labour_clears_the_way.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Labour Party campaign poster from 1910",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Reform_of_the_House_of_Lords",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Reform of the House of Lords",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Reform_of_the_House_of_Lords",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "03-07-1989-dd0b7d8c",
+      "year": 1989,
+      "text": "Iran and the United Kingdom break diplomatic relations after a fight over Salman Rushdie and his controversial novel, The Satanic Verses.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Salman_Rushdie%2C_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Salman_Rushdie%2C_2024.jpg/330px-Salman_Rushdie%2C_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "salman_rushdie,_2024.jpg",
+        "width": 1880,
+        "height": 2576,
+        "title": "Salman Rushdie",
+        "description": "Indian-British-American novelist (born 1947)",
+        "extract": "Sir Ahmed Salman Rushdie is an Indian-born British and American novelist. His work often combines magical realism with historical fiction and primarily deals with connections, disruptions, and migrations between Eastern and Western civilizations. His novels are typically set on the Indian subcontinent, feature an Indian protagonist, and/or portray Indian familial relationships. Rushdie's second novel, Midnight's Children (1981), won the Booker Prize in 1981 and was deemed to be \"the best novel of all winners\" on two occasions that marked the 25th and the 40th anniversary of the prize.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Salman_Rushdie",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Salman_Rushdie%2C_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Salman_Rushdie%2C_2024.jpg/330px-Salman_Rushdie%2C_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "salman_rushdie,_2024.jpg",
+          "width": 1880,
+          "height": 2576,
+          "title": "Salman Rushdie",
+          "description": "Indian-British-American novelist (born 1947)",
+          "extract": "Sir Ahmed Salman Rushdie is an Indian-born British and American novelist. His work often combines magical realism with historical fiction and primarily deals with connections, disruptions, and migrations between Eastern and Western civilizations. His novels are typically set on the Indian subcontinent, feature an Indian protagonist, and/or portray Indian familial relationships. Rushdie's second novel, Midnight's Children (1981), won the Booker Prize in 1981 and was deemed to be \"the best novel of all winners\" on two occasions that marked the 25th and the 40th anniversary of the prize.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Salman_Rushdie",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/c8/1988_Salman_Rushdie_The_Satanic_Verses.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/c/c8/1988_Salman_Rushdie_The_Satanic_Verses.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "1988_salman_rushdie_the_satanic_verses.jpg",
+          "width": 256,
+          "height": 394,
+          "title": "The Satanic Verses",
+          "description": "1988 novel by Salman Rushdie",
+          "extract": "The Satanic Verses is the fourth novel by British–Indian writer Salman Rushdie. First published in September 1988, the book was inspired by the life of the Islamic prophet Muhammad. As with his previous books, Rushdie used magical realism and relied on contemporary events and people to create his characters. The title refers to the Satanic Verses, a group of Quranic verses about three pagan Meccan goddesses: Allāt, Al-Uzza, and Manāt. The part of the story that deals with the satanic verses was based on accounts from the historians al-Waqidi and al-Tabari.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Satanic_Verses",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Persia_with_part_of_the_Ottoman_Empire%2C_1872.jpg/1280px-Persia_with_part_of_the_Ottoman_Empire%2C_1872.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Persia_with_part_of_the_Ottoman_Empire%2C_1872.jpg/1280px-Persia_with_part_of_the_Ottoman_Empire%2C_1872.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "persia_with_part_of_the_ottoman_empire,_1872.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A map of West Asia in 1872, with \"Iran or Persia\", ruled by the Qajar dynasty, shaded in pink.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iran",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Iran",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Iran",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-07-1968-9ab4a221",
+      "year": 1968,
+      "text": "Vietnam War: The United States and South Vietnam began Operation Truong Cong Dinh to sweep the area surrounding the Mekong Delta town of Mỹ Tho to root out Viet Cong forces in the area.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 55,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "u.s._army_uh-1h_hueys_insert_arvn_troops_at_khâm_đức,_vietnam,_12_july_1970_(79431435).jpg",
+        "width": 1085,
+        "height": 664,
+        "title": "Vietnam War",
+        "description": "1955–1975 war in Southeast Asia",
+        "extract": "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the Indochina wars and a proxy war of the Cold War. The Vietnam War was one of the postcolonial wars of national liberation, a theater in the Cold War, and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965 until US forces were withdrawn in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vietnam_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "u.s._army_uh-1h_hueys_insert_arvn_troops_at_khâm_đức,_vietnam,_12_july_1970_(79431435).jpg",
+          "width": 1085,
+          "height": 664,
+          "title": "Vietnam War",
+          "description": "1955–1975 war in Southeast Asia",
+          "extract": "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the Indochina wars and a proxy war of the Cold War. The Vietnam War was one of the postcolonial wars of national liberation, a theater in the Cold War, and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965 until US forces were withdrawn in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vietnam_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Assault_Air-Cushion_Vehicle_during_Operation_Truong_Cong_Dinh%2C_June_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Assault_Air-Cushion_Vehicle_during_Operation_Truong_Cong_Dinh%2C_June_1968.jpg/330px-Assault_Air-Cushion_Vehicle_during_Operation_Truong_Cong_Dinh%2C_June_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "assault_air-cushion_vehicle_during_operation_truong_cong_dinh,_june_1968.jpg",
+          "width": 1857,
+          "height": 1437,
+          "title": "Operation Truong Cong Dinh",
+          "description": "Part of the Vietnam War (1968)",
+          "extract": "Operation Truong Cong Dinh, was a United States and Army of the Republic of Vietnam (ARVN) security operation to reestablish South Vietnamese control over the northern Mekong Delta in the aftermath of the Tet Offensive. The operation aimed to root out Viet Cong (VC) forces in the area, and to stop them from attacking traffic on the nearby Highway 4.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Truong_Cong_Dinh",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/C%E1%BA%A7u_Cao_L%C3%A3nh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/C%E1%BA%A7u_Cao_L%C3%A3nh.jpg/330px-C%E1%BA%A7u_Cao_L%C3%A3nh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cầu_cao_lãnh.jpg",
+          "width": 3543,
+          "height": 2362,
+          "title": "Mekong Delta",
+          "description": "Delta of the Mekong River at its mouth in southern Vietnam",
+          "extract": "The Mekong Delta, also known as the South-western Region or the Western Region, is the region in southwestern Vietnam where the Mekong River approaches and empties into the sea through a network of distributaries. The Mekong delta region encompasses a large portion of south-western Vietnam, of an area of over 40,500 km2 (15,600 sq mi). The size of the area covered by water depends on the season. Its wet coastal geography makes it an important source of agriculture and aquaculture for the country.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mekong_Delta",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Vietnam War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Vietnam_War",
+      "relatedPagesCount": 5
+    }
+  ]
+}

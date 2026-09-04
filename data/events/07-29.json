@@ -1,0 +1,595 @@
+{
+  "date": {
+    "month": 7,
+    "day": 29,
+    "formatted": "07-29"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "07-29-2021-c71b664d",
+      "year": 2021,
+      "text": "The International Space Station temporarily spins out of control, moving the ISS 45 degrees out of attitude, following an engine malfunction of Russian module Nauka.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/3840px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/330px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "iss-56_international_space_station_fly-around_(07).jpg",
+        "width": 6048,
+        "height": 4032,
+        "title": "International Space Station",
+        "description": "Modular space station in low Earth orbit",
+        "extract": "The International Space Station (ISS) is a space station in low Earth orbit (LEO). It is the product of the International Space Station program and is operated by five partner space agencies: NASA, Roscosmos (Russia), ESA (Europe), JAXA (Japan), and CSA (Canada). It is the first space station built, maintained and crewed through international cooperation and the largest human spacecraft ever constructed. It is an orbital research station, where scientific experiments in microgravity are conducted and the space environment is studied. Since 2 November 2000, it has hosted the longest continuous human presence in space. Alongside China's Tiangong, it is one of two currently operational space stations.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/International_Space_Station",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/3840px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/330px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss-56_international_space_station_fly-around_(07).jpg",
+          "width": 6048,
+          "height": 4032,
+          "title": "International Space Station",
+          "description": "Modular space station in low Earth orbit",
+          "extract": "The International Space Station (ISS) is a space station in low Earth orbit (LEO). It is the product of the International Space Station program and is operated by five partner space agencies: NASA, Roscosmos (Russia), ESA (Europe), JAXA (Japan), and CSA (Canada). It is the first space station built, maintained and crewed through international cooperation and the largest human spacecraft ever constructed. It is an orbital research station, where scientific experiments in microgravity are conducted and the space environment is studied. Since 2 November 2000, it has hosted the longest continuous human presence in space. Alongside China's Tiangong, it is one of two currently operational space stations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/International_Space_Station",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Nauka_Module_as_seen_from_Cupola_during_VKD-51_spacewalk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Nauka_Module_as_seen_from_Cupola_during_VKD-51_spacewalk.jpg/330px-Nauka_Module_as_seen_from_Cupola_during_VKD-51_spacewalk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nauka_module_as_seen_from_cupola_during_vkd-51_spacewalk.jpg",
+          "width": 2729,
+          "height": 3060,
+          "title": "Nauka (ISS module)",
+          "description": "Module of the International Space Station",
+          "extract": "Nauka, also known as the Multipurpose Laboratory Module, Upgrade, is the primary laboratory of the Russian Orbital Segment of the International Space Station (ISS). Serving alongside the Rassvet and Poisk mini-research modules, Nauka conducts scientific experiments and stores research equipment.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nauka_(ISS_module)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ISS_emblem.png/1280px-ISS_emblem.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ISS_emblem.png/1280px-ISS_emblem.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "iss_emblem.png",
+          "width": 800,
+          "height": 600,
+          "title": "ISS_emblem",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/International_Space_Station",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "International Space Station",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/International_Space_Station",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "07-29-1985-accc5bc4",
+      "year": 1985,
+      "text": "Space Shuttle Challenger launches on STS-51-F. The shuttle ends up in a lower orbit than planned due to an engine failure during ascent.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/S83-35803_%28cropped%29.jpg/3840px-S83-35803_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/S83-35803_%28cropped%29.jpg/330px-S83-35803_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "s83-35803_(cropped).jpg",
+        "width": 6408,
+        "height": 4806,
+        "title": "Space Shuttle Challenger",
+        "description": "Space Shuttle orbiter (1983–1986)",
+        "extract": "Space Shuttle Challenger (OV-099) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the commanding ship of a nineteenth-century scientific expedition that traveled the world, Challenger was the second Space Shuttle orbiter to fly into space after Columbia, and launched on its maiden flight in April 1983. It was destroyed in January 1986 soon after launch in a disaster that killed all seven crewmembers aboard.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/S83-35803_%28cropped%29.jpg/3840px-S83-35803_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/S83-35803_%28cropped%29.jpg/330px-S83-35803_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "s83-35803_(cropped).jpg",
+          "width": 6408,
+          "height": 4806,
+          "title": "Space Shuttle Challenger",
+          "description": "Space Shuttle orbiter (1983–1986)",
+          "extract": "Space Shuttle Challenger (OV-099) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the commanding ship of a nineteenth-century scientific expedition that traveled the world, Challenger was the second Space Shuttle orbiter to fly into space after Columbia, and launched on its maiden flight in April 1983. It was destroyed in January 1986 soon after launch in a disaster that killed all seven crewmembers aboard.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/STS-51-F_Instrument_Pointing_System.jpg/3840px-STS-51-F_Instrument_Pointing_System.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/STS-51-F_Instrument_Pointing_System.jpg/330px-STS-51-F_Instrument_Pointing_System.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-51-f_instrument_pointing_system.jpg",
+          "width": 5100,
+          "height": 5100,
+          "title": "STS-51-F",
+          "description": "1985 American crewed spaceflight",
+          "extract": "STS-51-F was the 19th flight of NASA's Space Shuttle program and the eighth flight of Space Shuttle Challenger. It launched from Kennedy Space Center, Florida, on July 29, 1985, and landed eight days later on August 6, 1985.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-51-F",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Challenger_1A.jpg/1280px-Challenger_1A.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Challenger_1A.jpg/1280px-Challenger_1A.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "challenger_1a.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Challenger being prepared in 1985 for its penultimate flight, STS-61-A",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Challenger",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "07-29-1958-ce795ade",
+      "year": 1958,
+      "text": "U.S. President Dwight D. Eisenhower signs into law the National Aeronautics and Space Act, which creates the National Aeronautics and Space Administration (NASA).",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/330px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "dwight_d._eisenhower,_official_photo_portrait,_may_29,_1959_(cropped)(3).jpg",
+        "width": 2660,
+        "height": 3474,
+        "title": "Dwight D. Eisenhower",
+        "description": "World War II general, U.S. president from 1953 to 1961",
+        "extract": "Dwight David \"Ike\" Eisenhower was the 34th president of the United States, serving from 1953 to 1961. In his previous military career, he commanded the Allied Expeditionary Force during World War II, including in Operation Torch in North Africa and Operation Overlord on D-Day in Normandy. For his 37 years of service in the U.S. Army, Eisenhower was honored with the five-star rank of General of the Army in 1944.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/330px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dwight_d._eisenhower,_official_photo_portrait,_may_29,_1959_(cropped)(3).jpg",
+          "width": 2660,
+          "height": 3474,
+          "title": "Dwight D. Eisenhower",
+          "description": "World War II general, U.S. president from 1953 to 1961",
+          "extract": "Dwight David \"Ike\" Eisenhower was the 34th president of the United States, serving from 1953 to 1961. In his previous military career, he commanded the Allied Expeditionary Force during World War II, including in Operation Torch in North Africa and Operation Overlord on D-Day in Normandy. For his 37 years of service in the U.S. Army, Eisenhower was honored with the five-star rank of General of the Army in 1944.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eisenhower_House_1.jpg/1280px-Eisenhower_House_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eisenhower_House_1.jpg/1280px-Eisenhower_House_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "eisenhower_house_1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The Eisenhower family home in Abilene, Kansas",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yearbook_portrait_of_Dwight_David_Eisenhower_%281890%E2%80%931969%29_at_West_Point_in_1915.png/500px-Yearbook_portrait_of_Dwight_David_Eisenhower_%281890%E2%80%931969%29_at_West_Point_in_1915.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yearbook_portrait_of_Dwight_David_Eisenhower_%281890%E2%80%931969%29_at_West_Point_in_1915.png/500px-Yearbook_portrait_of_Dwight_David_Eisenhower_%281890%E2%80%931969%29_at_West_Point_in_1915.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "yearbook_portrait_of_dwight_david_eisenhower_(1890–1969)_at_west_point_in_1915.png",
+          "width": 800,
+          "height": 600,
+          "title": "West Point yearbook photo, 1915",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Dwight D. Eisenhower",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "07-29-1954-56c65d92",
+      "year": 1954,
+      "text": "The Fellowship of the Ring, the first part of J. R. R. Tolkien's novel The Lord of the Rings, was published by Allen & Unwin.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg/330px-J._R._R._Tolkien%2C_ca._1925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "j._r._r._tolkien,_ca._1925.jpg",
+        "width": 1800,
+        "height": 2400,
+        "title": "J. R. R. Tolkien",
+        "description": "English writer and philologist (1892–1973)",
+        "extract": "John Ronald Reuel Tolkien was an English writer and academic philologist. He was the author of the high fantasy works The Hobbit (1937) and The Lord of the Rings (1954–1955).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg/330px-J._R._R._Tolkien%2C_ca._1925.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "j._r._r._tolkien,_ca._1925.jpg",
+          "width": 1800,
+          "height": 2400,
+          "title": "J. R. R. Tolkien",
+          "description": "English writer and philologist (1892–1973)",
+          "extract": "John Ronald Reuel Tolkien was an English writer and academic philologist. He was the author of the high fantasy works The Hobbit (1937) and The Lord of the Rings (1954–1955).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "The Fellowship of the Ring",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "07-29-2024-e65fb096",
+      "year": 2024,
+      "text": "Three children are stabbed to death and 10 other people injured at a dance studio in Southport, England. This incident, coupled with widespread online misinformation, leads to various racially motivated riots across the UK.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Southport_Pier_-_geograph.org.uk_-_3563384.jpg/3840px-Southport_Pier_-_geograph.org.uk_-_3563384.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Southport_Pier_-_geograph.org.uk_-_3563384.jpg/330px-Southport_Pier_-_geograph.org.uk_-_3563384.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "southport_pier_-_geograph.org.uk_-_3563384.jpg",
+        "width": 7028,
+        "height": 4697,
+        "title": "Southport",
+        "description": "Town in Merseyside, England",
+        "extract": "Southport is a seaside town in the Metropolitan Borough of Sefton in Merseyside, England. It lies on the West Lancashire coastal plain and the east coast of the Irish Sea, approximately 17 miles (27 km) north of Liverpool and 15 miles (24 km) southwest of Preston. At the 2021 census, Southport had a population of 94,421, making it the eleventh most populous settlement in North West England and the third most populous settlement in the Liverpool City Region.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Southport",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Southport_Pier_-_geograph.org.uk_-_3563384.jpg/3840px-Southport_Pier_-_geograph.org.uk_-_3563384.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Southport_Pier_-_geograph.org.uk_-_3563384.jpg/330px-Southport_Pier_-_geograph.org.uk_-_3563384.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "southport_pier_-_geograph.org.uk_-_3563384.jpg",
+          "width": 7028,
+          "height": 4697,
+          "title": "Southport",
+          "description": "Town in Merseyside, England",
+          "extract": "Southport is a seaside town in the Metropolitan Borough of Sefton in Merseyside, England. It lies on the West Lancashire coastal plain and the east coast of the Irish Sea, approximately 17 miles (27 km) north of Liverpool and 15 miles (24 km) southwest of Preston. At the 2021 census, Southport had a population of 94,421, making it the eleventh most populous settlement in North West England and the third most populous settlement in the Liverpool City Region.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Southport",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Southport_riot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Southport_riot.jpg/330px-Southport_riot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "southport_riot.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "2024 United Kingdom riots",
+          "description": "Civil unrest from 30 July to 5 August 2024",
+          "extract": "From 30 July to 5 August 2024, far-right anti-immigration protests and riots occurred in England and Northern Ireland, within the United Kingdom, following the 2024 Southport stabbings, a targeted stabbing at a dance class in Southport, England on 29 July 2024 which resulted in the deaths of three young girls. The riots took place amid false claims circulated by far-right groups, that the perpetrator of the attack was a Muslim and an asylum seeker, in addition to broader Islamophobic, racist, and anti-immigrant sentiments. The disorder, which involved racist attacks, arson and looting, was the largest incident of social unrest in England since 2011. By 8 August, at least 177 individuals had been imprisoned in connection to the unrest, with sentences averaging around two years and ranging up to nine years. The following month, 1,280 arrests and nearly 800 charges had been made; as of July 2025, the numbers of arrests and charges stand at 1,840 and 1,103, respectively.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2024_United_Kingdom_riots",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2024 Southport stabbings",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2024_Southport_stabbings",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "07-29-2013-6d38a923",
+      "year": 2013,
+      "text": "Two passenger trains collide in the Swiss municipality of Granges-près-Marnand near Lausanne injuring 25 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Eisenbahnunfall_von_Granges-Marnand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eisenbahnunfall_von_Granges-Marnand.jpg/330px-Eisenbahnunfall_von_Granges-Marnand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "eisenbahnunfall_von_granges-marnand.jpg",
+        "width": 1143,
+        "height": 519,
+        "title": "Granges-près-Marnand train crash",
+        "description": "2013 public transit disaster in Granges-près-Marnand, Switzerland",
+        "extract": "On 29 July 2013, two passenger trains were involved in a head-on collision at Granges-près-Marnand, Switzerland, killing one person and injuring 25 others.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Granges-pr%C3%A8s-Marnand_train_crash",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Eisenbahnunfall_von_Granges-Marnand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eisenbahnunfall_von_Granges-Marnand.jpg/330px-Eisenbahnunfall_von_Granges-Marnand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "eisenbahnunfall_von_granges-marnand.jpg",
+          "width": 1143,
+          "height": 519,
+          "title": "Granges-près-Marnand train crash",
+          "description": "2013 public transit disaster in Granges-près-Marnand, Switzerland",
+          "extract": "On 29 July 2013, two passenger trains were involved in a head-on collision at Granges-près-Marnand, Switzerland, killing one person and injuring 25 others.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Granges-pr%C3%A8s-Marnand_train_crash",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Granges-pr%C3%A8s-Marnand_et_Sassel.JPG/3840px-Granges-pr%C3%A8s-Marnand_et_Sassel.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Granges-pr%C3%A8s-Marnand_et_Sassel.JPG/330px-Granges-pr%C3%A8s-Marnand_et_Sassel.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "granges-près-marnand_et_sassel.jpg",
+          "width": 4602,
+          "height": 2393,
+          "title": "Granges-près-Marnand",
+          "description": "Former municipality in Vaud, Switzerland",
+          "extract": "Granges-près-Marnand is a former municipality in the district of Broye-Vully in the canton of Vaud in Switzerland.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Granges-pr%C3%A8s-Marnand",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lausanne_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Lausanne_Wiki.jpg/330px-Lausanne_Wiki.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lausanne_wiki.jpg",
+          "width": 1014,
+          "height": 1264,
+          "title": "Lausanne",
+          "description": "City in Switzerland",
+          "extract": "Lausanne is the capital and largest city of the Swiss French-speaking canton of Vaud, in Switzerland. The Olympic capital, it is a hilly city situated on the shores of Lake Geneva, about halfway between the Jura Mountains and the Alps, and facing the French town of Évian-les-Bains across the lake. Lausanne is 51.7 kilometres northeast of Geneva, the nearest major city. The Federal Supreme Court of Switzerland convenes in Lausanne, although it is not the de jure capital of the nation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lausanne",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Granges-près-Marnand train crash",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Granges-pr%C3%A8s-Marnand_train_crash",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "07-29-2010-a3e6b38c",
+      "year": 2010,
+      "text": "An overloaded passenger ferry capsizes on the Kasai River in Bandundu Province, Democratic Republic of the Congo, resulting in at least 80 deaths.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Sunset_view_from_Kalonda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sunset_view_from_Kalonda.jpg/330px-Sunset_view_from_Kalonda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sunset_view_from_kalonda.jpg",
+        "width": 2592,
+        "height": 1936,
+        "title": "Kasai River",
+        "description": "Tributary of the Congo River; part of the DR Congo-Angola border",
+        "extract": "The Kasai River is a left bank tributary of the Congo River, located in Central Africa. The river begins in central Angola and flows to the east until it reaches the border between Angola and the Democratic Republic of the Congo, where it turns north and serves as the border until it flows into the DRC. From Ilebo, between the confluences with Lulua river and Sankuru river, the Kasai river turns to a westerly direction. The lower stretch of the river, from the confluence with Fimi river until it joins the Congo at Kwamouth northeast of Kinshasa, is also known as the Kwa(h) River.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kasai_River",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Sunset_view_from_Kalonda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Sunset_view_from_Kalonda.jpg/330px-Sunset_view_from_Kalonda.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sunset_view_from_kalonda.jpg",
+          "width": 2592,
+          "height": 1936,
+          "title": "Kasai River",
+          "description": "Tributary of the Congo River; part of the DR Congo-Angola border",
+          "extract": "The Kasai River is a left bank tributary of the Congo River, located in Central Africa. The river begins in central Angola and flows to the east until it reaches the border between Angola and the Democratic Republic of the Congo, where it turns north and serves as the border until it flows into the DRC. From Ilebo, between the confluences with Lulua river and Sankuru river, the Kasai river turns to a westerly direction. The lower stretch of the river, from the confluence with Fimi river until it joins the Congo at Kwamouth northeast of Kinshasa, is also known as the Kwa(h) River.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kasai_River",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Maindombe1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Maindombe1.JPG/330px-Maindombe1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "maindombe1.jpg",
+          "width": 750,
+          "height": 500,
+          "title": "Bandundu Province",
+          "description": "Province in Democratic Republic of the Congo",
+          "extract": "Bandundu is one of eleven former provinces of the Democratic Republic of the Congo. It bordered the provinces of Kinshasa and Bas-Congo to the west, Équateur to the north, and Kasai-Occidental to the east. The provincial capital is also called Bandundu.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bandundu_Province",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2010 Kasai River ferry capsizing",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2010_Kasai_River_ferry_capsizing",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "07-29-2005-3156aa57",
+      "year": 2005,
+      "text": "Astronomers announce their discovery of the dwarf planet Eris.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Eris_and_moon_Dysnomia_JWST_NIRCam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Eris_and_moon_Dysnomia_JWST_NIRCam.jpg/330px-Eris_and_moon_Dysnomia_JWST_NIRCam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "eris_and_moon_dysnomia_jwst_nircam.jpg",
+        "width": 588,
+        "height": 588,
+        "title": "Eris (dwarf planet)",
+        "description": "Most massive dwarf planet",
+        "extract": "Eris is the most massive and second-largest-known dwarf planet in the Solar System. It is a trans-Neptunian object (TNO) in the scattered disk and has a high-eccentricity orbit. Eris was discovered in January 2005 by a Palomar Observatory–based team led by Mike Brown and verified later that year. It was named in September 2006 after the Greco-Roman goddess of strife and discord. Eris is the ninth-most massive known object orbiting the Sun and the sixteenth-most massive in the Solar System. It is also the largest-known object in the Solar System that has not been visited by a spacecraft. Eris has been measured at 2,326 ± 12 kilometres (1,445 ± 7 mi) in diameter; its mass is 0.28% that of the Earth and 27% greater than that of Pluto, although Pluto is slightly larger by volume. Both Eris and Pluto have a surface area that is comparable to that of Russia or South America.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eris_(dwarf_planet)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Eris_and_moon_Dysnomia_JWST_NIRCam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Eris_and_moon_Dysnomia_JWST_NIRCam.jpg/330px-Eris_and_moon_Dysnomia_JWST_NIRCam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "eris_and_moon_dysnomia_jwst_nircam.jpg",
+          "width": 588,
+          "height": 588,
+          "title": "Eris (dwarf planet)",
+          "description": "Most massive dwarf planet",
+          "extract": "Eris is the most massive and second-largest-known dwarf planet in the Solar System. It is a trans-Neptunian object (TNO) in the scattered disk and has a high-eccentricity orbit. Eris was discovered in January 2005 by a Palomar Observatory–based team led by Mike Brown and verified later that year. It was named in September 2006 after the Greco-Roman goddess of strife and discord. Eris is the ninth-most massive known object orbiting the Sun and the sixteenth-most massive in the Solar System. It is also the largest-known object in the Solar System that has not been visited by a spacecraft. Eris has been measured at 2,326 ± 12 kilometres (1,445 ± 7 mi) in diameter; its mass is 0.28% that of the Earth and 27% greater than that of Pluto, although Pluto is slightly larger by volume. Both Eris and Pluto have a surface area that is comparable to that of Russia or South America.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Eris_(dwarf_planet)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Eris (dwarf planet)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Eris_(dwarf_planet)",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "07-29-1981-8809629b",
+      "year": 1981,
+      "text": "After impeachment on June 21, Abolhassan Banisadr flees with Massoud Rajavi to Paris, in an Iranian Air Force Boeing 707, piloted by Colonel Behzad Moezzi, to form the National Council of Resistance of Iran.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg/330px-Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "abū_l-hasan_banīsadr_img_2044_edit.jpg",
+        "width": 2294,
+        "height": 3339,
+        "title": "Abolhassan Banisadr",
+        "description": "President of Iran from 1980 to 1981",
+        "extract": "Abolhassan Banisadr was an Iranian politician, writer, and political dissident who served as the first president of Iran following the Iranian Revolution, holding office from 1980 until his impeachment in 1981. Prior to his presidency, he was served as minister of foreign affairs in the Interim Government of Iran.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abolhassan_Banisadr",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg/330px-Ab%C5%AB_l-Hasan_Ban%C4%ABsadr_IMG_2044_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "abū_l-hasan_banīsadr_img_2044_edit.jpg",
+          "width": 2294,
+          "height": 3339,
+          "title": "Abolhassan Banisadr",
+          "description": "President of Iran from 1980 to 1981",
+          "extract": "Abolhassan Banisadr was an Iranian politician, writer, and political dissident who served as the first president of Iran following the Iranian Revolution, holding office from 1980 until his impeachment in 1981. Prior to his presidency, he was served as minister of foreign affairs in the Interim Government of Iran.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Abolhassan_Banisadr",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/MRAJAVI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/MRAJAVI.jpg/330px-MRAJAVI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mrajavi.jpg",
+          "width": 1102,
+          "height": 1606,
+          "title": "Massoud Rajavi",
+          "description": "Iranian political activist (born 1948)",
+          "extract": "Massoud Rajavi is an Iranian politician and revolutionary who became the leader of the People's Mojahedin Organization of Iran (MEK) in 1979 and the head of the National Council of Resistance of Iran (NCRI) in 1981. He disappeared shortly before the 2003 invasion of Iraq, leaving his wife and co-leader Maryam Rajavi as the public face of the MEK.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Massoud_Rajavi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/3840px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/330px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "la_tour_eiffel_vue_de_la_tour_saint-jacques,_paris_août_2014_(2).jpg",
+          "width": 4592,
+          "height": 2870,
+          "title": "Paris",
+          "description": "Capital of France",
+          "extract": "Paris is the capital and largest city of France, with an estimated city population of 2.04 million in an area of 105.4 km2 (40.7 sq mi), as of January 2026, and a metropolitan population of 13.3 million (2023). Located on the river Seine in the centre of the Île-de-France region, it is the largest metropolitan area and fourth-most populous city in the European Union (EU). Paris is nicknamed the \"City of Light\", partly because of its role in the Age of Enlightenment.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Paris",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Abolhassan Banisadr",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Abolhassan_Banisadr",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "07-29-1980-4cc8c564",
+      "year": 1980,
+      "text": "Iran adopts a new \"holy\" flag after the Islamic Revolution.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mass_demonstration_in_Iran%2C_date_unknown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mass_demonstration_in_Iran%2C_date_unknown.jpg/330px-Mass_demonstration_in_Iran%2C_date_unknown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mass_demonstration_in_iran,_date_unknown.jpg",
+        "width": 766,
+        "height": 522,
+        "title": "Iranian Revolution",
+        "description": "Revolution in Iran from 1978 to 1979",
+        "extract": "The Iranian Revolution, also known as the Islamic Revolution, culminated in the overthrow of the Pahlavi dynasty in 1979. The revolution led to the replacement of the Imperial State of Iran by the Islamic Republic of Iran, as the monarchical government of Shah Mohammad Reza Pahlavi was superseded by Ruhollah Khomeini, an Islamist cleric who had headed one of the rebel factions, and became the country’s supreme leader.The ousting of Mohammad Reza Pahlavi, the last Shah of Iran, formally marked the end of Iran's historical monarchy.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Iranian_Revolution",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mass_demonstration_in_Iran%2C_date_unknown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mass_demonstration_in_Iran%2C_date_unknown.jpg/330px-Mass_demonstration_in_Iran%2C_date_unknown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mass_demonstration_in_iran,_date_unknown.jpg",
+          "width": 766,
+          "height": 522,
+          "title": "Iranian Revolution",
+          "description": "Revolution in Iran from 1978 to 1979",
+          "extract": "The Iranian Revolution, also known as the Islamic Revolution, culminated in the overthrow of the Pahlavi dynasty in 1979. The revolution led to the replacement of the Imperial State of Iran by the Islamic Republic of Iran, as the monarchical government of Shah Mohammad Reza Pahlavi was superseded by Ruhollah Khomeini, an Islamist cleric who had headed one of the rebel factions, and became the country’s supreme leader.The ousting of Mohammad Reza Pahlavi, the last Shah of Iran, formally marked the end of Iran's historical monarchy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iranian_Revolution",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Flag of Iran",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Flag_of_Iran",
+      "relatedPagesCount": 2
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 3,
+    "day": 3,
+    "formatted": "03-03"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "03-03-1969-02730928",
+      "year": 1969,
+      "text": "Apollo program: NASA launches Apollo 9 to test the lunar module.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Gumdrop_Meets_Spider_-_GPN-2000-001100.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gumdrop_Meets_Spider_-_GPN-2000-001100.jpg/330px-Gumdrop_Meets_Spider_-_GPN-2000-001100.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gumdrop_meets_spider_-_gpn-2000-001100.jpg",
+        "width": 3020,
+        "height": 3000,
+        "title": "Apollo 9",
+        "description": "Third crewed mission of the Apollo space program",
+        "extract": "Apollo 9 was the third human spaceflight in NASA's Apollo program, which successfully tested systems and procedures critical to landing on the Moon. The three-man crew consisted of Commander James McDivitt, Command Module Pilot David Scott, and Lunar Module Pilot Rusty Schweickart. Flown in low Earth orbit, it was the second crewed Apollo mission that the United States launched via a Saturn V rocket, and was the first flight of the full Apollo spacecraft: the command and service module (CSM) with the Lunar Module (LM).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_9",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Gumdrop_Meets_Spider_-_GPN-2000-001100.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gumdrop_Meets_Spider_-_GPN-2000-001100.jpg/330px-Gumdrop_Meets_Spider_-_GPN-2000-001100.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gumdrop_meets_spider_-_gpn-2000-001100.jpg",
+          "width": 3020,
+          "height": 3000,
+          "title": "Apollo 9",
+          "description": "Third crewed mission of the Apollo space program",
+          "extract": "Apollo 9 was the third human spaceflight in NASA's Apollo program, which successfully tested systems and procedures critical to landing on the Moon. The three-man crew consisted of Commander James McDivitt, Command Module Pilot David Scott, and Lunar Module Pilot Rusty Schweickart. Flown in low Earth orbit, it was the second crewed Apollo mission that the United States launched via a Saturn V rocket, and was the first flight of the full Apollo spacecraft: the command and service module (CSM) with the Lunar Module (LM).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_9",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apollo_14_Lunar_Module_%28LM%29_on_the_moon.jpg/3840px-Apollo_14_Lunar_Module_%28LM%29_on_the_moon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apollo_14_Lunar_Module_%28LM%29_on_the_moon.jpg/330px-Apollo_14_Lunar_Module_%28LM%29_on_the_moon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "apollo_14_lunar_module_(lm)_on_the_moon.jpg",
+          "width": 3892,
+          "height": 3892,
+          "title": "Apollo Lunar Module",
+          "description": "NASA crewed Moon landing spacecraft (1969–1972)",
+          "extract": "The Apollo Lunar Module, originally designated the Lunar Excursion Module (LEM), was the lunar lander spacecraft that was flown between lunar orbit and the Moon's surface during the United States' Apollo program. It was the first crewed spacecraft to operate exclusively in space, and remains the only crewed vehicle to land anywhere beyond Earth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_Lunar_Module",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/1280px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/1280px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "a_man_on_the_moon,_as11-40-5903_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Buzz Aldrin (pictured) walked on the Moon with Neil Armstrong, on Apollo 11, July 20–21, 1969.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_program",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Apollo program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Apollo_program",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-03-1953-9089f3f0",
+      "year": 1953,
+      "text": "A De Havilland Comet (Canadian Pacific Air Lines) crashes in Karachi, Pakistan, killing 11 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg/330px-BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bea_de_havilland_dh-106_comet_4b_berlin.jpg",
+        "width": 1024,
+        "height": 681,
+        "title": "De Havilland Comet",
+        "description": "First commercial jet airliner, four-engined",
+        "extract": "The de Havilland DH.106 Comet is a four-engine narrow body aircraft developed and manufactured by de Havilland in the United Kingdom. The world's first commercial jet airliner, the Comet 1 prototype first flew in 1949. It features an aerodynamically clean design with four de Havilland Ghost turbojet engines located in the wing roots, a pressurised cabin, and large windows. For the era, it offered a relatively quiet, comfortable passenger cabin and was commercially promising at its debut in 1952.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/De_Havilland_Comet",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg/330px-BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bea_de_havilland_dh-106_comet_4b_berlin.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": "De Havilland Comet",
+          "description": "First commercial jet airliner, four-engined",
+          "extract": "The de Havilland DH.106 Comet is a four-engine narrow body aircraft developed and manufactured by de Havilland in the United Kingdom. The world's first commercial jet airliner, the Comet 1 prototype first flew in 1949. It features an aerodynamically clean design with four de Havilland Ghost turbojet engines located in the wing roots, a pressurised cabin, and large windows. For the era, it offered a relatively quiet, comfortable passenger cabin and was commercially promising at its debut in 1952.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/De_Havilland_Comet",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/CP_Air_Boeing_747-217B_C-FCRA_%22Empress_of_Japan%22_%2824369504876%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CP_Air_Boeing_747-217B_C-FCRA_%22Empress_of_Japan%22_%2824369504876%29.jpg/330px-CP_Air_Boeing_747-217B_C-FCRA_%22Empress_of_Japan%22_%2824369504876%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cp_air_boeing_747-217b_c-fcra_\"empress_of_japan\"_(24369504876).jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": "Canadian Pacific Air Lines",
+          "description": "Airline of Canada (1942–1987)",
+          "extract": "Canadian Pacific Air Lines was a Canadian airline that operated from 1942 to 1987. It operated under the name CP Air from 1968 to 1986. Headquartered at Vancouver International Airport in Richmond, British Columbia, it served domestic Canadian as well as international routes until it was purchased by Pacific Western Airlines and absorbed into Canadian Airlines International.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Canadian_Pacific_Air_Lines",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Clifton_Karachi_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Clifton_Karachi_View.jpg/330px-Clifton_Karachi_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "clifton_karachi_view.jpg",
+          "width": 1284,
+          "height": 690,
+          "title": "Karachi",
+          "description": "Capital of Sindh, Pakistan",
+          "extract": "Karachi is the capital city of the Pakistani province of Sindh. It is the largest city in Pakistan and the 11th largest in the world, with a population of over 20 million. Situated at the southern tip of the country along the Arabian Sea coast, Karachi formerly served as the federal capital from 1947 to 1959. Ranked as a beta-global city, it is Pakistan's premier industrial and financial centre, with an estimated GDP of over $200 billion (PPP) as of 2021. Karachi is a major metropolitan area and is considered Pakistan's most cosmopolitan city, and among the country's most linguistically, ethnically, and religiously diverse regions, as well as one of the country's most progressive and socially liberal cities.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Karachi",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "De Havilland Comet",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/De_Havilland_Comet",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-03-2005-a4c3e0b3",
+      "year": 2005,
+      "text": "Margaret Wilson is elected as Speaker of the New Zealand House of Representatives, beginning a period lasting until August 23, 2006, where all the highest political offices (including Elizabeth II as Head of State), were occupied by women, making New Zealand the first country for this to occur.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Margaret_Wilson_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Margaret_Wilson_crop.jpg/330px-Margaret_Wilson_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "margaret_wilson_crop.jpg",
+        "width": 676,
+        "height": 862,
+        "title": "Margaret Wilson",
+        "description": "New Zealand politician (born 1947)",
+        "extract": "Margaret Anne Wilson is a New Zealand lawyer, academic and former Labour Party politician. She served as Attorney-General from 1999 to 2005 and Speaker of the House of Representatives from 2005 to 2008, during the Fifth Labour Government.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Wilson",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Margaret_Wilson_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Margaret_Wilson_crop.jpg/330px-Margaret_Wilson_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "margaret_wilson_crop.jpg",
+          "width": 676,
+          "height": 862,
+          "title": "Margaret Wilson",
+          "description": "New Zealand politician (born 1947)",
+          "extract": "Margaret Anne Wilson is a New Zealand lawyer, academic and former Labour Party politician. She served as Attorney-General from 1999 to 2005 and Speaker of the House of Representatives from 2005 to 2008, during the Fifth Labour Government.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Wilson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/House_of_Representatives_crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/House_of_Representatives_crest.png/330px-House_of_Representatives_crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "house_of_representatives_crest.png",
+          "width": 450,
+          "height": 600,
+          "title": "Speaker of the New Zealand House of Representatives",
+          "description": "Presiding officer of the New Zealand House of Representatives",
+          "extract": "In New Zealand, the speaker of the House of Representatives, commonly known as the speaker of the House, is the presiding officer and highest authority of the New Zealand House of Representatives. The individual who holds the position is elected by members of the House from among their number in the first session after each general election. They hold one of the highest-ranking offices in New Zealand. The current Speaker is Gerry Brownlee, who was elected on 5 December 2023.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Speaker_of_the_New_Zealand_House_of_Representatives",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_elizabeth_ii_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+          "width": 739,
+          "height": 985,
+          "title": "Elizabeth II",
+          "description": "Queen of the United Kingdom from 1952 to 2022",
+          "extract": "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Margaret Wilson",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Margaret_Wilson",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-03-1991-82abe327",
+      "year": 1991,
+      "text": "An amateur video captures the beating of Rodney King by Los Angeles police officers.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BolexH16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BolexH16.jpg/330px-BolexH16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bolexh16.jpg",
+        "width": 400,
+        "height": 442,
+        "title": "Amateur film",
+        "description": "Genre of low-budget film by non-professionals",
+        "extract": "Amateur film is a genre of filmmaking done primarily for personal enjoyment, passion, or hobby, without commercial intent or substantial funding. It encompasses a wide range of activities, from recording family events and local news to creating experimental works or dramatic productions.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Amateur_film",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/BolexH16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/BolexH16.jpg/330px-BolexH16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bolexh16.jpg",
+          "width": 400,
+          "height": 442,
+          "title": "Amateur film",
+          "description": "Genre of low-budget film by non-professionals",
+          "extract": "Amateur film is a genre of filmmaking done primarily for personal enjoyment, passion, or hobby, without commercial intent or substantial funding. It encompasses a wide range of activities, from recording family events and local news to creating experimental works or dramatic productions.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Amateur_film",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CynthiaKelleyRodneyKingApr2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/CynthiaKelleyRodneyKingApr2012_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "cynthiakelleyrodneykingapr2012_(cropped).jpg",
+          "width": 200,
+          "height": 285,
+          "title": "Rodney King",
+          "description": "Black American victim of police brutality (1965–2012)",
+          "extract": "Rodney Glen King was an African-American man who on March 3, 1991 became a victim of police brutality when he was severely beaten by officers of the Los Angeles Police Department (LAPD) during his arrest after a high-speed pursuit on California's state freeway, Interstate 210 having initially evaded arrest. George Holliday, an uninvolved resident, saw and filmed the incident from his nearby balcony and then sent the footage, which showed an unarmed King on the ground being beaten, to KTLA, a local news station who broadcast the film, which was then rebroadcast by other stations casting a worldwide spotlight on the LAPD and King.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rodney_King",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Amateur film",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Amateur_film",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-03-1986-a4df7530",
+      "year": 1986,
+      "text": "The American heavy metal band Metallica (pictured) released their third studio album, Master of Puppets, considered one of the greatest in the genre's history.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Metallica_March_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Metallica_March_2024.jpg/330px-Metallica_March_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "metallica_march_2024.jpg",
+        "width": 3750,
+        "height": 2500,
+        "title": "Metallica",
+        "description": "American heavy metal band",
+        "extract": "Metallica is an American heavy metal band. It was formed in Los Angeles in 1981 by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax, and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo. Former members of the band are bassists Ron McGovney, Cliff Burton, and Jason Newsted, and guitarist Dave Mustaine, who formed Megadeth after being fired from Metallica in 1983.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Metallica",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Metallica_March_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Metallica_March_2024.jpg/330px-Metallica_March_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "metallica_march_2024.jpg",
+          "width": 3750,
+          "height": 2500,
+          "title": "Metallica",
+          "description": "American heavy metal band",
+          "extract": "Metallica is an American heavy metal band. It was formed in Los Angeles in 1981 by vocalist/guitarist James Hetfield and drummer Lars Ulrich, and has been based in San Francisco for most of its career. The band's fast tempos, instrumentals and aggressive musicianship made them one of the founding \"big four\" bands of thrash metal, alongside Megadeth, Anthrax, and Slayer. Metallica's current lineup comprises founding members and primary songwriters Hetfield and Ulrich, longtime lead guitarist Kirk Hammett, and bassist Robert Trujillo. Former members of the band are bassists Ron McGovney, Cliff Burton, and Jason Newsted, and guitarist Dave Mustaine, who formed Megadeth after being fired from Metallica in 1983.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Metallica",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "metallica_-_master_of_puppets_cover.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Master of Puppets",
+          "description": "1986 studio album by Metallica",
+          "extract": "Master of Puppets is the third studio album by the American heavy metal band Metallica, released on March 3, 1986, by Elektra Records. Recorded in Copenhagen, Denmark, at Sweet Silence Studios with producer Flemming Rasmussen, it is the band's final album to feature bassist Cliff Burton. While touring in support of Master of Puppets, he died on September 27, 1986, after the band's tour bus was involved in an accident in Dörarp, Sweden.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Master_of_Puppets",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Metallica_Of_Wolf_and_Man_%28cropped%29.jpg/1280px-Metallica_Of_Wolf_and_Man_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Metallica_Of_Wolf_and_Man_%28cropped%29.jpg/1280px-Metallica_Of_Wolf_and_Man_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "metallica_of_wolf_and_man_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Metallica_Of_Wolf_and_Man_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Metallica",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Metallica",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Metallica",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-03-1585-6386ce01",
+      "year": 1585,
+      "text": "The Olympic Theatre, designed by Andrea Palladio, is inaugurated in Vicenza.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Interior_of_Teatro_Olimpico_%28Vicenza%29_scena_.jpg/3840px-Interior_of_Teatro_Olimpico_%28Vicenza%29_scena_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Interior_of_Teatro_Olimpico_%28Vicenza%29_scena_.jpg/330px-Interior_of_Teatro_Olimpico_%28Vicenza%29_scena_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "interior_of_teatro_olimpico_(vicenza)_scena_.jpg",
+        "width": 7360,
+        "height": 6298,
+        "title": "Teatro Olimpico",
+        "description": "Historic 16th-century theatre in Vicenza, Italy",
+        "extract": "The Teatro Olimpico is a theatre in Vicenza, northern Italy, constructed in 1580–1585. It was the final design by the Italian Renaissance architect Andrea Palladio and was not completed until after his death. The trompe-l'œil onstage scenery, designed by Vincenzo Scamozzi to give the appearance of long streets receding to a distant horizon, was installed in 1585 for the first performance held in the theatre, and is the oldest surviving stage set still in existence. The full Roman-style scaenae frons back screen across the stage is made from wood and stucco imitating marble. It was the home of the Accademia Olimpica, which was founded there in 1555.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Teatro_Olimpico",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Interior_of_Teatro_Olimpico_%28Vicenza%29_scena_.jpg/3840px-Interior_of_Teatro_Olimpico_%28Vicenza%29_scena_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Interior_of_Teatro_Olimpico_%28Vicenza%29_scena_.jpg/330px-Interior_of_Teatro_Olimpico_%28Vicenza%29_scena_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "interior_of_teatro_olimpico_(vicenza)_scena_.jpg",
+          "width": 7360,
+          "height": 6298,
+          "title": "Teatro Olimpico",
+          "description": "Historic 16th-century theatre in Vicenza, Italy",
+          "extract": "The Teatro Olimpico is a theatre in Vicenza, northern Italy, constructed in 1580–1585. It was the final design by the Italian Renaissance architect Andrea Palladio and was not completed until after his death. The trompe-l'œil onstage scenery, designed by Vincenzo Scamozzi to give the appearance of long streets receding to a distant horizon, was installed in 1585 for the first performance held in the theatre, and is the oldest surviving stage set still in existence. The full Roman-style scaenae frons back screen across the stage is made from wood and stucco imitating marble. It was the home of the Accademia Olimpica, which was founded there in 1555.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Teatro_Olimpico",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Andrea_Palladio2.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Andrea_Palladio2.jpeg/330px-Andrea_Palladio2.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "andrea_palladio2.jpeg",
+          "width": 1580,
+          "height": 1814,
+          "title": "Andrea Palladio",
+          "description": "Venetian architect (1508–1580)",
+          "extract": "Andrea Palladio was an Italian Renaissance architect active in the Venetian Republic. Palladio, influenced by Roman and Greek architecture, primarily Vitruvius, is widely considered to be one of the most influential individuals in the history of architecture. While he designed churches and palaces, he was best known for country houses and villas. His teachings, summarized in the architectural treatise, The Four Books of Architecture, gained him wide recognition.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Andrea_Palladio",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Collage_Vicenza.jpg/3840px-Collage_Vicenza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Collage_Vicenza.jpg/330px-Collage_Vicenza.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "collage_vicenza.jpg",
+          "width": 5120,
+          "height": 3840,
+          "title": "Vicenza",
+          "description": "Comune in Veneto, Italy",
+          "extract": "Vicenza is a city in northeastern Italy. It is in the Veneto region, at the northern base of the Monte Berico, where it straddles the River Bacchiglione. Vicenza is approximately 60 kilometres (37 mi) west of Venice and 200 kilometres (120 mi) east of Milan.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vicenza",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Teatro Olimpico",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Teatro_Olimpico",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-03-1972-c56e936e",
+      "year": 1972,
+      "text": "The British rock band Jethro Tull released Thick as a Brick, a parody concept album allegedly adapted from an eight-year-old boy's epic poem.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jethro_Tull_070373_003.jpg/3840px-Jethro_Tull_070373_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jethro_Tull_070373_003.jpg/330px-Jethro_Tull_070373_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jethro_tull_070373_003.jpg",
+        "width": 5293,
+        "height": 3455,
+        "title": "Jethro Tull (band)",
+        "description": "British rock band",
+        "extract": "Jethro Tull are a British rock band formed in Blackpool, Lancashire, in 1967. Emerging from the 1960s British blues scene, the band soon developed a distinctive progressive rock sound, blending hard rock, English folk music and classical music, while undergoing numerous stylistic shifts throughout its history. The band was founded and has been continuously led by Ian Anderson, its principal composer, lead vocalist, and multi-instrumentalist best known for his flute playing. The group has featured a succession of musicians throughout its history, including significant contributors such as long-time guitarist Martin Barre, bassists Glenn Cornick, Jeffrey Hammond, John Glascock, Dave Pegg and Jonathan Noyce, drummers Clive Bunker, Barrie \"Barriemore\" Barlow and Doane Perry, and keyboardists John Evan, Dee Palmer, Peter-John Vettese and Andrew Giddings.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jethro_Tull_(band)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jethro_Tull_070373_003.jpg/3840px-Jethro_Tull_070373_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Jethro_Tull_070373_003.jpg/330px-Jethro_Tull_070373_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jethro_tull_070373_003.jpg",
+          "width": 5293,
+          "height": 3455,
+          "title": "Jethro Tull (band)",
+          "description": "British rock band",
+          "extract": "Jethro Tull are a British rock band formed in Blackpool, Lancashire, in 1967. Emerging from the 1960s British blues scene, the band soon developed a distinctive progressive rock sound, blending hard rock, English folk music and classical music, while undergoing numerous stylistic shifts throughout its history. The band was founded and has been continuously led by Ian Anderson, its principal composer, lead vocalist, and multi-instrumentalist best known for his flute playing. The group has featured a succession of musicians throughout its history, including significant contributors such as long-time guitarist Martin Barre, bassists Glenn Cornick, Jeffrey Hammond, John Glascock, Dave Pegg and Jonathan Noyce, drummers Clive Bunker, Barrie \"Barriemore\" Barlow and Doane Perry, and keyboardists John Evan, Dee Palmer, Peter-John Vettese and Andrew Giddings.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jethro_Tull_(band)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/ef/DirkvdM_thick_as_a_brick.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/DirkvdM_thick_as_a_brick.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "dirkvdm_thick_as_a_brick.jpg",
+          "width": 270,
+          "height": 367,
+          "title": "Thick as a Brick",
+          "description": "1972 studio album by Jethro Tull",
+          "extract": "Thick as a Brick is the fifth studio album by the British rock band Jethro Tull, released on 3 March 1972 on Chrysalis Records. The album consists of a single continuous piece of music, split across the two sides of the original LP record, and was conceived as a parody of concept albums and the progressive rock genre. Its original packaging took the form of a 12-page newspaper, which presented the album as a musical adaptation of an epic poem by a fictional eight-year-old prodigy named Gerald Bostock, although the lyrics were actually written by the band's frontman Ian Anderson.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Thick_as_a_Brick",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Bundesarchiv_Bild_183-1990-0722-401%2C_Berlin%2C_Auff%C3%BChrung_der_Rockoper_%22The_Wall%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bundesarchiv_Bild_183-1990-0722-401%2C_Berlin%2C_Auff%C3%BChrung_der_Rockoper_%22The_Wall%22.jpg/330px-Bundesarchiv_Bild_183-1990-0722-401%2C_Berlin%2C_Auff%C3%BChrung_der_Rockoper_%22The_Wall%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_183-1990-0722-401,_berlin,_aufführung_der_rockoper_\"the_wall\".jpg",
+          "width": 519,
+          "height": 726,
+          "title": "Concept album",
+          "description": "Album that tells a self-contained story",
+          "extract": "A concept album is a musical album whose tracks hold a larger purpose or meaning collectively than they do individually. This is typically achieved through a single central narrative or theme, which can be instrumental, compositional, or lyrical. Alternatively, the term may signify an album that lacks any explicit musical or lyrical motif, but is considered to be of \"uniform excellence\". Music critics remain divided on the precise definition of a concept album.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Concept_album",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Jethro Tull (band)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Jethro_Tull_(band)",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-03-1939-250d21f9",
+      "year": 1939,
+      "text": "In Bombay, Mohandas Gandhi begins a hunger strike in protest at the autocratic rule in British India.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/330px-Mumbai_Bandra-Worli_Sea_Link.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mumbai_bandra-worli_sea_link.jpg",
+        "width": 3751,
+        "height": 2812,
+        "title": "Mumbai",
+        "description": "Capital of Maharashtra, India",
+        "extract": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra and the financial capital of India. Located on the Konkan coast along the west coast of India, it has a deep natural harbour. As per the 2011 Census of India, it is the most populous city in India, with an population of almost 12.5 million, while the Mumbai Metropolitan Region, which is among the most populous metropolitan areas in the world, had a population of over 20 million. The city forms part of the Mumbai City and Mumbai Suburban districts and is administered by the Brihanmumbai Municipal Corporation, which was established in 1888.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mumbai",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/330px-Mumbai_Bandra-Worli_Sea_Link.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mumbai_bandra-worli_sea_link.jpg",
+          "width": 3751,
+          "height": 2812,
+          "title": "Mumbai",
+          "description": "Capital of Maharashtra, India",
+          "extract": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra and the financial capital of India. Located on the Konkan coast along the west coast of India, it has a deep natural harbour. As per the 2011 Census of India, it is the most populous city in India, with an population of almost 12.5 million, while the Mumbai Metropolitan Region, which is among the most populous metropolitan areas in the world, had a population of over 20 million. The city forms part of the Mumbai City and Mumbai Suburban districts and is administered by the Brihanmumbai Municipal Corporation, which was established in 1888.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mumbai",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/330px-Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mahatma-gandhi,_studio,_1931.jpg",
+          "width": 2620,
+          "height": 3270,
+          "title": "Mahatma Gandhi",
+          "description": "Indian independence activist (1869–1948)",
+          "extract": "Mohandas Karamchand Gandhi was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā, first applied to him in 1914 in South Africa, is now used throughout the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg/330px-British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "british_indian_empire_1909_imperial_gazetteer_of_india.jpg",
+          "width": 1498,
+          "height": 1223,
+          "title": "British Raj",
+          "description": "1858–1947 Crown rule in India",
+          "extract": "The British Raj was the period of rule of the British Crown on the Indian subcontinent, lasting from 1858 to 1947. It is also called Crown rule in India, or direct rule in India. The region under British control was commonly called India in contemporaneous usage and included areas directly administered by the United Kingdom, which were collectively called British India, and areas ruled by indigenous rulers, but under British paramountcy, called the princely states. The region was sometimes called the Indian Empire, though not officially. As India, it was a founding member of the League of Nations and a founding member of the United Nations in San Francisco in 1945. India was a participating state in the Summer Olympics in 1900, 1920, 1928, 1932, and 1936.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/British_Raj",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Mumbai",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mumbai",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-03-2013-77c4204b",
+      "year": 2013,
+      "text": "A bomb blast in Karachi, Pakistan, kills at least 48 people and injured 200 others in a predominantly Shia Muslim area.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Clifton_Karachi_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Clifton_Karachi_View.jpg/330px-Clifton_Karachi_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "clifton_karachi_view.jpg",
+        "width": 1284,
+        "height": 690,
+        "title": "Karachi",
+        "description": "Capital of Sindh, Pakistan",
+        "extract": "Karachi is the capital city of the Pakistani province of Sindh. It is the largest city in Pakistan and the 11th largest in the world, with a population of over 20 million. Situated at the southern tip of the country along the Arabian Sea coast, Karachi formerly served as the federal capital from 1947 to 1959. Ranked as a beta-global city, it is Pakistan's premier industrial and financial centre, with an estimated GDP of over $200 billion (PPP) as of 2021. Karachi is a major metropolitan area and is considered Pakistan's most cosmopolitan city, and among the country's most linguistically, ethnically, and religiously diverse regions, as well as one of the country's most progressive and socially liberal cities.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Karachi",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Clifton_Karachi_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Clifton_Karachi_View.jpg/330px-Clifton_Karachi_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "clifton_karachi_view.jpg",
+          "width": 1284,
+          "height": 690,
+          "title": "Karachi",
+          "description": "Capital of Sindh, Pakistan",
+          "extract": "Karachi is the capital city of the Pakistani province of Sindh. It is the largest city in Pakistan and the 11th largest in the world, with a population of over 20 million. Situated at the southern tip of the country along the Arabian Sea coast, Karachi formerly served as the federal capital from 1947 to 1959. Ranked as a beta-global city, it is Pakistan's premier industrial and financial centre, with an estimated GDP of over $200 billion (PPP) as of 2021. Karachi is a major metropolitan area and is considered Pakistan's most cosmopolitan city, and among the country's most linguistically, ethnically, and religiously diverse regions, as well as one of the country's most progressive and socially liberal cities.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Karachi",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "March 2013 Karachi bombing",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/March_2013_Karachi_bombing",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-03-2012-09460e41",
+      "year": 2012,
+      "text": "Two passenger trains collided near Szczekociny, Poland, resulting in 16 deaths and 58 injuries.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katastrofa_kolejowa_pod_Szczekocinami.ogv/500px--Katastrofa_kolejowa_pod_Szczekocinami.ogv.jpg",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katastrofa_kolejowa_pod_Szczekocinami.ogv/330px--Katastrofa_kolejowa_pod_Szczekocinami.ogv.jpg",
+        "canonicalKey": "-katastrofa_kolejowa_pod_szczekocinami.ogv.jpg",
+        "width": 640,
+        "height": 480,
+        "title": "Szczekociny rail crash",
+        "description": "2012 railroad accident in Poland",
+        "extract": "The Szczekociny rail crash occurred on 3 March 2012 when two passenger trains collided head-on near the town of Szczekociny, Silesian Voivodeship, Poland. Sixteen people died in the incident and 58 were injured. An investigative report showed that the cause of the crash was due to human error by train dispatchers and the train drivers.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Szczekociny_rail_crash",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katastrofa_kolejowa_pod_Szczekocinami.ogv/500px--Katastrofa_kolejowa_pod_Szczekocinami.ogv.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Katastrofa_kolejowa_pod_Szczekocinami.ogv/330px--Katastrofa_kolejowa_pod_Szczekocinami.ogv.jpg",
+          "canonicalKey": "-katastrofa_kolejowa_pod_szczekocinami.ogv.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "Szczekociny rail crash",
+          "description": "2012 railroad accident in Poland",
+          "extract": "The Szczekociny rail crash occurred on 3 March 2012 when two passenger trains collided head-on near the town of Szczekociny, Silesian Voivodeship, Poland. Sixteen people died in the incident and 58 were injured. An investigative report showed that the cause of the crash was due to human error by train dispatchers and the train drivers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Szczekociny_rail_crash",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Szczekociny_kosciol_12.08.08_p2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Szczekociny_kosciol_12.08.08_p2.jpg/330px-Szczekociny_kosciol_12.08.08_p2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "szczekociny_kosciol_12.08.08_p2.jpg",
+          "width": 3456,
+          "height": 2304,
+          "title": "Szczekociny",
+          "description": "Place in Silesian Voivodeship, Poland",
+          "extract": "Szczekociny is a town on the Pilica river, in Silesian Voivodeship, in southern Poland, with 3,612 inhabitants (2019).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Szczekociny",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Szczekociny-train-collision.png/500px-Szczekociny-train-collision.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Szczekociny-train-collision.png/500px-Szczekociny-train-collision.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "szczekociny-train-collision.png",
+          "width": 800,
+          "height": 600,
+          "title": "Szczekociny-train-collision",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Szczekociny_rail_crash",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Szczekociny rail crash",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Szczekociny_rail_crash",
+      "relatedPagesCount": 2
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "date": {
+    "month": 4,
+    "day": 5,
+    "formatted": "04-05"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "04-05-2010-bff70ca4",
+      "year": 2010,
+      "text": "Space Shuttle Discovery is launched on STS-131 to resupply the International Space Station.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+        "width": 3336,
+        "height": 2507,
+        "title": "Space Shuttle Discovery",
+        "description": "Space Shuttle orbiter (1984–2011)",
+        "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+          "width": 3336,
+          "height": 2507,
+          "title": "Space Shuttle Discovery",
+          "description": "Space Shuttle orbiter (1984–2011)",
+          "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/STS-131_Canadarm2_grapples_Leonardo.jpg/3840px-STS-131_Canadarm2_grapples_Leonardo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/STS-131_Canadarm2_grapples_Leonardo.jpg/330px-STS-131_Canadarm2_grapples_Leonardo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-131_canadarm2_grapples_leonardo.jpg",
+          "width": 4256,
+          "height": 2832,
+          "title": "STS-131",
+          "description": "2010 American crewed spaceflight to the ISS",
+          "extract": "STS-131 was a NASA Space Shuttle mission to the International Space Station (ISS). Space Shuttle Discovery launched on April 5, 2010, at 6:21 am from LC-39A, and landed at 9:08 am on April 20, 2010, on runway 33 at the Kennedy Space Center's Shuttle Landing Facility. The mission marked the longest flight for Space Shuttle Discovery and its 38th and penultimate flight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-131",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/3840px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/330px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss-56_international_space_station_fly-around_(07).jpg",
+          "width": 6048,
+          "height": 4032,
+          "title": "International Space Station",
+          "description": "Modular space station in low Earth orbit",
+          "extract": "The International Space Station (ISS) is a space station in low Earth orbit (LEO). It is the product of the International Space Station program and is operated by five partner space agencies: NASA, Roscosmos (Russia), ESA (Europe), JAXA (Japan), and CSA (Canada). It is the first space station built, maintained and crewed through international cooperation and the largest human spacecraft ever constructed. It is an orbital research station, where scientific experiments in microgravity are conducted and the space environment is studied. Since 2 November 2000, it has hosted the longest continuous human presence in space. Alongside China's Tiangong, it is one of two currently operational space stations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/International_Space_Station",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Discovery",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-05-1991-05fd3d01",
+      "year": 1991,
+      "text": "The Space Shuttle Atlantis launches on STS-37 to deploy the Compton Gamma Ray Observatory.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+        "width": 3697,
+        "height": 2217,
+        "title": "Space Shuttle Atlantis",
+        "description": "Space Shuttle orbiter (1985–2011)",
+        "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+          "width": 3697,
+          "height": 2217,
+          "title": "Space Shuttle Atlantis",
+          "description": "Space Shuttle orbiter (1985–2011)",
+          "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CGRO_s37-96-010.jpg/3840px-CGRO_s37-96-010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CGRO_s37-96-010.jpg/330px-CGRO_s37-96-010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cgro_s37-96-010.jpg",
+          "width": 4134,
+          "height": 4008,
+          "title": "STS-37",
+          "description": "1991 American crewed spaceflight to deploy the Compton Gamma Ray Observatory",
+          "extract": "STS-37, the thirty-ninth NASA Space Shuttle mission and the eighth flight of the Space Shuttle Atlantis, was a six-day mission with the primary objective of launching the Compton Gamma Ray Observatory (CGRO), the second of the Great Observatories program which included the visible-spectrum Hubble Space Telescope (HST), the Chandra X-ray Observatory (CXO) and the infrared Spitzer Space Telescope. The mission also featured two spacewalks, the first since 1985.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-37",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Atlantis_silhouette.jpg/500px-Atlantis_silhouette.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Atlantis_silhouette.jpg/500px-Atlantis_silhouette.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "atlantis_silhouette.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Space Shuttle Atlantis as it transits the Sun",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Atlantis",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-05-1965-41dfa330",
+      "year": 1965,
+      "text": "My Fair Lady wins Best Picture at the 37th Academy Awards.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/d/d5/My_fair_lady_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/d/d5/My_fair_lady_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "my_fair_lady_poster.jpg",
+        "width": 250,
+        "height": 375,
+        "title": "My Fair Lady (film)",
+        "description": "1964 American film by George Cukor",
+        "extract": "My Fair Lady is a 1964 American musical comedy drama film adapted from Lerner and Loewe's 1956 stage musical based on George Bernard Shaw's 1913 stage play Pygmalion. With a screenplay by Alan Jay Lerner and directed by George Cukor, the film depicts a poor Cockney flower-seller named Eliza Doolittle who overhears phonetics scholar Henry Higgins casually wager that he could teach her to speak English so well she could pass for a duchess in Edwardian-era London, or secure employment in a flower store. It stars Audrey Hepburn as Doolittle, replacing Julie Andrews from the stage musical, and Rex Harrison as Higgins, reprising his role from the stage, with Stanley Holloway, Gladys Cooper and Wilfrid Hyde-White in supporting roles.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d5/My_fair_lady_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/d/d5/My_fair_lady_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "my_fair_lady_poster.jpg",
+          "width": 250,
+          "height": 375,
+          "title": "My Fair Lady (film)",
+          "description": "1964 American film by George Cukor",
+          "extract": "My Fair Lady is a 1964 American musical comedy drama film adapted from Lerner and Loewe's 1956 stage musical based on George Bernard Shaw's 1913 stage play Pygmalion. With a screenplay by Alan Jay Lerner and directed by George Cukor, the film depicts a poor Cockney flower-seller named Eliza Doolittle who overhears phonetics scholar Henry Higgins casually wager that he could teach her to speak English so well she could pass for a duchess in Edwardian-era London, or secure employment in a flower store. It stars Audrey Hepburn as Doolittle, replacing Julie Andrews from the stage musical, and Rex Harrison as Higgins, reprising his role from the stage, with Stanley Holloway, Gladys Cooper and Wilfrid Hyde-White in supporting roles.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/a/a1/37th_Academy_Awards.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/a/a1/37th_Academy_Awards.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "37th_academy_awards.jpg",
+          "width": 200,
+          "height": 302,
+          "title": "37th Academy Awards",
+          "description": "Award ceremony for films of 1964",
+          "extract": "The 37th Academy Awards were held on April 5, 1965, to honor film achievements of 1964. The ceremony was produced by MGM's Joe Pasternak and hosted, for the 14th time, by Bob Hope.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/37th_Academy_Awards",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "My Fair Lady (film)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/My_Fair_Lady_(film)",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-05-1902-1cea8560",
+      "year": 1902,
+      "text": "A stand box collapses at Ibrox Park (now Ibrox Stadium) in Glasgow, Scotland, which led to the deaths of 25 and injuries to more than 500 supporters during an international association football match between Scotland and England.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Disaster-ibroxi6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Disaster-ibroxi6.jpg/330px-Disaster-ibroxi6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "disaster-ibroxi6.jpg",
+        "width": 882,
+        "height": 712,
+        "title": "1902 Ibrox disaster",
+        "description": "Stadium structural failure in Glasgow, Scotland",
+        "extract": "The 1902 Ibrox disaster was the collapse of a stand at Ibrox Park in Govan, Scotland. The collapse caused the deaths of 25 supporters, and injuries to 500 more during an international association football match between Scotland and England on 5 April 1902 as part of the 1901–02 British Home Championship.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1902_Ibrox_disaster",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Disaster-ibroxi6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Disaster-ibroxi6.jpg/330px-Disaster-ibroxi6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "disaster-ibroxi6.jpg",
+          "width": 882,
+          "height": 712,
+          "title": "1902 Ibrox disaster",
+          "description": "Stadium structural failure in Glasgow, Scotland",
+          "extract": "The 1902 Ibrox disaster was the collapse of a stand at Ibrox Park in Govan, Scotland. The collapse caused the deaths of 25 supporters, and injuries to 500 more during an international association football match between Scotland and England on 5 April 1902 as part of the 1901–02 British Home Championship.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1902_Ibrox_disaster",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ibrox_Stadium%2C_Rangers_FC_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ibrox_Stadium%2C_Rangers_FC_%28cropped%29.jpg/330px-Ibrox_Stadium%2C_Rangers_FC_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ibrox_stadium,_rangers_fc_(cropped).jpg",
+          "width": 2891,
+          "height": 2001,
+          "title": "Ibrox Stadium",
+          "description": "Football stadium in Glasgow",
+          "extract": "Ibrox Stadium is a football stadium on the south side of the River Clyde in the Ibrox area of Glasgow, Scotland. The home of Scottish Premiership team Rangers, Ibrox is the third-largest football stadium in Scotland, with an all-seated capacity of 51,700. The stadium was designed by renowned football stadium architect Archibald Leitch, with renovations to the stadium between 1978 and 1981, as well as 1990 and 1991, being designed by The Miller Partnership and Gareth Hutchison respectively.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ibrox_Stadium",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Glasgow_-_aerial_-_2025-04-17_14.jpg/3840px-Glasgow_-_aerial_-_2025-04-17_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Glasgow_-_aerial_-_2025-04-17_14.jpg/330px-Glasgow_-_aerial_-_2025-04-17_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "glasgow_-_aerial_-_2025-04-17_14.jpg",
+          "width": 4032,
+          "height": 2268,
+          "title": "Glasgow",
+          "description": "Largest city in Scotland",
+          "extract": "Glasgow is the most populous city in Scotland, located on the banks of the River Clyde in west central Scotland. It is the third-most populous city in the United Kingdom and the 27th-most populous city in Europe, and comprises 23 wards which represent the areas within the city boundaries. Glasgow is a leading city in Scotland for university education and research, finance, industry, commerce, shopping, culture and fashion, and was commonly referred to as the \"second city of the British Empire\" for much of the Victorian and Edwardian eras.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Glasgow",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "1902 Ibrox disaster",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1902_Ibrox_disaster",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "04-05-1971-cf59fb04",
+      "year": 1971,
+      "text": "In Sri Lanka, Janatha Vimukthi Peramuna launches a revolt against the United Front government of Sirimavo Bandaranaike.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Deniyau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Deniyau.png/330px-Deniyau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "deniyau.png",
+        "width": 355,
+        "height": 236,
+        "title": "1971 JVP insurrection",
+        "description": "Armed revolt in Ceylon",
+        "extract": "The 1971 Janatha Vimukthi Peramuna (JVP) insurrection was the first of two unsuccessful armed revolts conducted by the communist Janatha Vimukthi Peramuna (JVP) against the socialist United Front Government of Sri Lanka under Prime Minister Sirimavo Bandaranaike. The revolt began on 5 April 1971 and lasted until June of that year. The insurgents held towns and rural areas for several weeks, until the regions were recaptured by the armed forces, following strong support from friendly nations that sent men and material. Although this first attempt to seize power was quickly crushed by force, in 1987 the JVP launched a low-intensity insurgency in the island's southern, central and western regions that lasted several years.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1971_JVP_insurrection",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Deniyau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Deniyau.png/330px-Deniyau.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "deniyau.png",
+          "width": 355,
+          "height": 236,
+          "title": "1971 JVP insurrection",
+          "description": "Armed revolt in Ceylon",
+          "extract": "The 1971 Janatha Vimukthi Peramuna (JVP) insurrection was the first of two unsuccessful armed revolts conducted by the communist Janatha Vimukthi Peramuna (JVP) against the socialist United Front Government of Sri Lanka under Prime Minister Sirimavo Bandaranaike. The revolt began on 5 April 1971 and lasted until June of that year. The insurgents held towns and rural areas for several weeks, until the regions were recaptured by the armed forces, following strong support from friendly nations that sent men and material. Although this first attempt to seize power was quickly crushed by force, in 1987 the JVP launched a low-intensity insurgency in the island's southern, central and western regions that lasted several years.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1971_JVP_insurrection",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bandaranaike_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bandaranaike_1974.jpg/330px-Bandaranaike_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bandaranaike_1974.jpg",
+          "width": 1179,
+          "height": 1406,
+          "title": "Sirimavo Bandaranaike",
+          "description": "Prime Minister of Sri Lanka (1916–2000)",
+          "extract": "Sirima Ratwatte Dias Bandaranaike, commonly known as Sirimavo Bandaranaike, was a Sri Lankan stateswoman who thrice served as the Prime Minister of Sri Lanka from 1960 to 1965, from 1970 to 1977, and from 1994 to 2000. She was the first woman in the world to be elected prime minister in 1960. A chairperson of the Sri Lanka Freedom Party (SLFP) from 1960 to 1994, she pursued socialist economic policies and promoted Sinhalese Buddhist nationalism. Bandaranaike also served as chairperson of the Non-Aligned Movement (NAM) from 1976 to 1977, becoming the first woman to lead the organisation. Her combined tenure of 17 years and 211 days in office, spanning three non-consecutive terms, makes her the longest-serving prime minister in Sri Lankan history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sirimavo_Bandaranaike",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/48/JVP_election_symbol.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/48/JVP_election_symbol.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "jvp_election_symbol.png",
+          "width": 800,
+          "height": 600,
+          "title": "JVP_election_symbol",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Janatha_Vimukthi_Peramuna",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Janatha Vimukthi Peramuna",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Janatha_Vimukthi_Peramuna",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "04-05-2018-04a478f9",
+      "year": 2018,
+      "text": "Agents with the U.S. Immigration and Customs Enforcement raided a slaughterhouse in Tennessee, detaining nearly 100 Hispanic workers in one of the largest immigration raids in the history of the U.S.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Southeastern_Provisions_facility%2C_Bean_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Southeastern_Provisions_facility%2C_Bean_Station.jpg/330px-Southeastern_Provisions_facility%2C_Bean_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "southeastern_provisions_facility,_bean_station.jpg",
+        "width": 2753,
+        "height": 1548,
+        "title": "2018 Southeastern Provisions raid",
+        "description": "Immigration raid in Grainger County, Tennessee, U.S.",
+        "extract": "The 2018 Southeastern Provisions raid, also known as the 2018 Bean Station ICE Raid and the 2018 Grainger County ICE raid, was a workplace raid that occurred at Southeastern Provisions, a cattle slaughterhouse and meat-packing facility in rural Grainger County, Tennessee, United States, 9 miles (14 km) west of the town of Bean Station.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2018_Southeastern_Provisions_raid",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Southeastern_Provisions_facility%2C_Bean_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Southeastern_Provisions_facility%2C_Bean_Station.jpg/330px-Southeastern_Provisions_facility%2C_Bean_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "southeastern_provisions_facility,_bean_station.jpg",
+          "width": 2753,
+          "height": 1548,
+          "title": "2018 Southeastern Provisions raid",
+          "description": "Immigration raid in Grainger County, Tennessee, U.S.",
+          "extract": "The 2018 Southeastern Provisions raid, also known as the 2018 Bean Station ICE Raid and the 2018 Grainger County ICE raid, was a workplace raid that occurred at Southeastern Provisions, a cattle slaughterhouse and meat-packing facility in rural Grainger County, Tennessee, United States, 9 miles (14 km) west of the town of Bean Station.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2018_Southeastern_Provisions_raid",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ICE_ERO_Officer_Badge.png/1280px-ICE_ERO_Officer_Badge.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ICE_ERO_Officer_Badge.png/1280px-ICE_ERO_Officer_Badge.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "ice_ero_officer_badge.png",
+          "width": 800,
+          "height": 600,
+          "title": "ICE_ERO_Officer_Badge",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/United_States_Immigration_and_Customs_Enforcement",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Community_Gathering_at_the_USCIS_Processing_Center_in_Broadview_9_12_25_20250912_2444_%2854783262956%29_%28cropped%29.jpg/1280px-Community_Gathering_at_the_USCIS_Processing_Center_in_Broadview_9_12_25_20250912_2444_%2854783262956%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Community_Gathering_at_the_USCIS_Processing_Center_in_Broadview_9_12_25_20250912_2444_%2854783262956%29_%28cropped%29.jpg/1280px-Community_Gathering_at_the_USCIS_Processing_Center_in_Broadview_9_12_25_20250912_2444_%2854783262956%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "community_gathering_at_the_uscis_processing_center_in_broadview_9_12_25_20250912_2444_(54783262956)_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "ICE agents on the roof of the Broadview ICE Facility in Illinois watch over a protest against mass deportation during Operation Midway Blitz, September 2025.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/United_States_Immigration_and_Customs_Enforcement",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "United States Immigration and Customs Enforcement",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/United_States_Immigration_and_Customs_Enforcement",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-05-2009-728af859",
+      "year": 2009,
+      "text": "The North Korean satellite Kwangmyŏngsŏng-2 was launched from the Tonghae Satellite Launching Ground and passed over Japan, sparking concerns it may have been a trial run of technology that could be used to launch intercontinental ballistic missiles.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/Kwangmyongsong-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Kwangmyongsong-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "kwangmyongsong-2.jpg",
+        "width": 222,
+        "height": 283,
+        "title": "Kwangmyŏngsŏng-2",
+        "description": "North Korean satellite",
+        "extract": "Kwangmyŏngsŏng-2 was a satellite launched by North Korea on April 5, 2009.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kwangmy%C5%8Fngs%C5%8Fng-2",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/Kwangmyongsong-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Kwangmyongsong-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "kwangmyongsong-2.jpg",
+          "width": 222,
+          "height": 283,
+          "title": "Kwangmyŏngsŏng-2",
+          "description": "North Korean satellite",
+          "extract": "Kwangmyŏngsŏng-2 was a satellite launched by North Korea on April 5, 2009.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kwangmy%C5%8Fngs%C5%8Fng-2",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Atlas_missile_test_launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Atlas_missile_test_launch.jpg/330px-Atlas_missile_test_launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "atlas_missile_test_launch.jpg",
+          "width": 1422,
+          "height": 2248,
+          "title": "Intercontinental ballistic missile",
+          "description": "Ballistic missile with a range of more than 5,500 kilometres",
+          "extract": "An intercontinental ballistic missile (ICBM) is a ballistic missile with a range greater than 5,500 kilometres (3,400 mi), primarily designed for nuclear weapons delivery. Conventional, chemical, and biological weapons can also be delivered with varying effectiveness but have never been deployed on ICBMs. Some modern designs support multiple independently targetable reentry vehicles (MIRVs), allowing a single missile to carry several warheads, each of which can strike a different target. The United States, Russia, China, France, India, the United Kingdom, Israel, and North Korea are the only countries known to have operational ICBMs. Pakistan is the only nuclear-armed country that does not possess ICBMs.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Intercontinental_ballistic_missile",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kwangmyongsong-2_ICAO_danger_zones.png/500px-Kwangmyongsong-2_ICAO_danger_zones.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kwangmyongsong-2_ICAO_danger_zones.png/500px-Kwangmyongsong-2_ICAO_danger_zones.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "kwangmyongsong-2_icao_danger_zones.png",
+          "width": 800,
+          "height": 600,
+          "title": "Danger zones one and two reported to ICAO (approximate areas in red on left and right)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kwangmy%C5%8Fngs%C5%8Fng-2",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Kwangmyŏngsŏng-2",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Kwangmy%C5%8Fngs%C5%8Fng-2",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-05-2007-7bb8a963",
+      "year": 2007,
+      "text": "The cruise ship MS Sea Diamond strikes a volcanic reef near Nea Kameni and sinks the next day. Two passengers were never recovered and are presumed dead.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg/3840px-Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg/330px-Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "icon_of_the_seas_puerto_rico_2025_(cropped).jpg",
+        "width": 4947,
+        "height": 2785,
+        "title": "Cruise ship",
+        "description": "Passenger ship used for pleasure voyages",
+        "extract": "Cruise ships are large passenger ships used mainly for vacationing. Unlike ocean liners, which are used for transport, cruise ships typically embark on round-trip voyages to various ports of call, where passengers may go on shore excursions.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cruise_ship",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg/3840px-Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg/330px-Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "icon_of_the_seas_puerto_rico_2025_(cropped).jpg",
+          "width": 4947,
+          "height": 2785,
+          "title": "Cruise ship",
+          "description": "Passenger ship used for pleasure voyages",
+          "extract": "Cruise ships are large passenger ships used mainly for vacationing. Unlike ocean liners, which are used for transport, cruise ships typically embark on round-trip voyages to various ports of call, where passengers may go on shore excursions.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cruise_ship",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/The_Sky_Wonder_docked_next_to_the_Sea_Diamond_at_Rhodes%2C_Greece.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_Sky_Wonder_docked_next_to_the_Sea_Diamond_at_Rhodes%2C_Greece.jpg/330px-The_Sky_Wonder_docked_next_to_the_Sea_Diamond_at_Rhodes%2C_Greece.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_sky_wonder_docked_next_to_the_sea_diamond_at_rhodes,_greece.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": "MS Sea Diamond",
+          "description": "Cruise ship built in 1984",
+          "extract": "MS Sea Diamond was a cruise ship operated by Louis Hellenic Cruise Lines. She was built in 1984 by Valmet, Finland for Birka Line as Birka Princess. The ship ran aground near the Greek island of Santorini 5 April 2007, and sank the next day leaving two passengers missing and presumed dead.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/MS_Sea_Diamond",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Santorini_ASTER.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Santorini_ASTER.jpg/330px-Santorini_ASTER.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "santorini_aster.jpg",
+          "width": 1191,
+          "height": 1230,
+          "title": "Nea Kameni",
+          "description": "Island in the Santorini caldera, Greece",
+          "extract": "Nea Kameni is a small, uninhabited Greek island of volcanic origin located in the Aegean Sea, within the flooded Santorini caldera. Nea Kameni and the neighbouring small island Palea Kameni have formed over the past two millennia through repeated eruptions of dacite lava and ash. The Roman historian Cassius Dio records in the year 47 CE \"This year a small islet, hitherto unknown, made an appearance close to the island of Thera.\" Cassius' report may refer to Palaia Kameni. Pliny the Elder reported the emergence of a new island on July 8, in the year of the consulship of M. Junius Silanus and L. Balbus, thus 19 CE.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nea_Kameni",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Cruise ship",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cruise_ship",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-05-2002-7f9d99f8",
+      "year": 2002,
+      "text": "In the first reported data breach, 250,000 social security numbers collected by the State of California were stolen from a data center.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/PD_social_security_card.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/PD_social_security_card.png/330px-PD_social_security_card.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "pd_social_security_card.png",
+        "width": 749,
+        "height": 830,
+        "title": "Social Security number",
+        "description": "Nine-digit number issued to U.S. citizens and permanent residents",
+        "extract": "In the United States, a Social Security number (SSN) is a nine-digit number issued to U.S. citizens, permanent residents, and temporary (working) residents under section 205(c)(2) of the Social Security Act, codified as 42 U.S.C. § 405(c)(2). The number is issued to an individual by the Social Security Administration, an independent agency of the United States government. Although the original purpose for the number was for the Social Security Administration to track individuals, the Social Security number has become a de facto national identification number for taxation and other purposes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Social_Security_number",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/PD_social_security_card.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/PD_social_security_card.png/330px-PD_social_security_card.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pd_social_security_card.png",
+          "width": 749,
+          "height": 830,
+          "title": "Social Security number",
+          "description": "Nine-digit number issued to U.S. citizens and permanent residents",
+          "extract": "In the United States, a Social Security number (SSN) is a nine-digit number issued to U.S. citizens, permanent residents, and temporary (working) residents under section 205(c)(2) of the Social Security Act, codified as 42 U.S.C. § 405(c)(2). The number is issued to an individual by the Social Security Administration, an independent agency of the United States government. Although the original purpose for the number was for the Social Security Administration to track individuals, the Social Security number has become a de facto national identification number for taxation and other purposes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Social_Security_number",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Data breach",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Data_breach",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-05-2000-b845daa7",
+      "year": 2000,
+      "text": "Fan violence broke out before a UEFA Cup semifinal in Istanbul, Turkey, resulting in two Leeds United supporters being stabbed to death and Galatasaray supporters being banned from attending the second leg in England.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Taksim_Square_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Taksim_Square_2012.jpg/330px-Taksim_Square_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "taksim_square_2012.jpg",
+        "width": 1600,
+        "height": 1063,
+        "title": "2000 UEFA Cup semi-final violence",
+        "description": "Fights between English and Turkish football fans",
+        "extract": "The 2000 UEFA Cup semi-final violence in Istanbul, Turkey, between fans of English football team Leeds United and Turkish team Galatasaray on 5 April 2000, the day before the first match of their UEFA Cup semi-final, led to two Leeds fans being stabbed to death by Galatasaray fans. Four men were arrested and charged with their murders. The deaths led to widespread outrage in England with Galatasaray fans being banned from attending the second leg in England.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2000_UEFA_Cup_semi-final_violence",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Taksim_Square_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Taksim_Square_2012.jpg/330px-Taksim_Square_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "taksim_square_2012.jpg",
+          "width": 1600,
+          "height": 1063,
+          "title": "2000 UEFA Cup semi-final violence",
+          "description": "Fights between English and Turkish football fans",
+          "extract": "The 2000 UEFA Cup semi-final violence in Istanbul, Turkey, between fans of English football team Leeds United and Turkish team Galatasaray on 5 April 2000, the day before the first match of their UEFA Cup semi-final, led to two Leeds fans being stabbed to death by Galatasaray fans. Four men were arrested and charged with their murders. The deaths led to widespread outrage in England with Galatasaray fans being banned from attending the second leg in England.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2000_UEFA_Cup_semi-final_violence",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/49/Galatasaray_SK_football_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Galatasaray_SK_football_logo.png/330px-Galatasaray_SK_football_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "galatasaray_sk_football_logo.png",
+          "width": 1500,
+          "height": 1905,
+          "title": "Galatasaray S.K. (football)",
+          "description": "Turkish professional football club",
+          "extract": "Galatasaray Spor Kulübü, usually referred to as Galatasaray, is a Turkish professional football club based in Istanbul. It is the association football branch of the larger Galatasaray Sports Club of the same name, itself a part of the Galatasaray Community Cooperation Committee which includes Galatasaray High School, where the football club was founded in 1905, consisting entirely of students. The team plays in dark shades of red and yellow at home, with the shirts split down the middle between the two colours.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Galatasaray_S.K._(football)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "2000 UEFA Cup semi-final violence",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2000_UEFA_Cup_semi-final_violence",
+      "relatedPagesCount": 4
+    }
+  ]
+}

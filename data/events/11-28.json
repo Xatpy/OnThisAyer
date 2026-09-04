@@ -1,0 +1,607 @@
+{
+  "date": {
+    "month": 11,
+    "day": 28,
+    "formatted": "11-28"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "11-28-1983-1729967e",
+      "year": 1983,
+      "text": "Space Shuttle Columbia is launched on STS-9, the first mission to carry the European Space Agency's Spacelab module.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+        "width": 868,
+        "height": 521,
+        "title": "Space Shuttle Columbia",
+        "description": "Space Shuttle orbiter (1981–2003)",
+        "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+          "width": 868,
+          "height": 521,
+          "title": "Space Shuttle Columbia",
+          "description": "Space Shuttle orbiter (1981–2003)",
+          "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/STS-9_Spacelab_1.jpg/3840px-STS-9_Spacelab_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/STS-9_Spacelab_1.jpg/330px-STS-9_Spacelab_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-9_spacelab_1.jpg",
+          "width": 4095,
+          "height": 4158,
+          "title": "STS-9",
+          "description": "1983 American crewed spaceflight and first flight with Spacelab",
+          "extract": "STS-9 was the ninth NASA Space Shuttle mission and the sixth mission of the Space Shuttle Columbia. Launched on November 28, 1983, the ten-day mission carried the first Spacelab laboratory module into orbit.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-9",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Spacelab_-_Artist%27s_Concept.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Spacelab_-_Artist%27s_Concept.jpg/330px-Spacelab_-_Artist%27s_Concept.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "spacelab_-_artist's_concept.jpg",
+          "width": 3417,
+          "height": 2692,
+          "title": "Spacelab",
+          "description": "Temporary, reusable laboratory aboard the Space Shuttle",
+          "extract": "Spacelab was a reusable laboratory developed by the European Space Agency (ESA) and used on certain spaceflights flown by the Space Shuttle. The laboratory comprised multiple components, including a pressurized module, an unpressurized carrier, and other related hardware housed in the Shuttle's cargo bay. The components were arranged in various configurations to meet the needs of each spaceflight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Spacelab",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Columbia",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-28-1971-923987a1",
+      "year": 1971,
+      "text": "Wasfi al-Tal, Prime Minister of Jordan, is assassinated by the Black September unit of the Palestine Liberation Organization.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Wasfi_Al-Tal_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Wasfi_Al-Tal_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "wasfi_al-tal_cropped.png",
+        "width": 195,
+        "height": 272,
+        "title": "Wasfi Tal",
+        "description": "Prime Minister of Jordan in 1962–63, 1965–67 and 1970–71",
+        "extract": "Wasfi Tal was a Jordanian politician, statesman and military officer. He served as the 15th Prime Minister of Jordan for three separate terms, 1962–63, 1965–67 and 1970 until his assassination in 1971.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wasfi_Tal",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Wasfi_Al-Tal_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Wasfi_Al-Tal_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "wasfi_al-tal_cropped.png",
+          "width": 195,
+          "height": 272,
+          "title": "Wasfi Tal",
+          "description": "Prime Minister of Jordan in 1962–63, 1965–67 and 1970–71",
+          "extract": "Wasfi Tal was a Jordanian politician, statesman and military officer. He served as the 15th Prime Minister of Jordan for three separate terms, 1962–63, 1965–67 and 1970 until his assassination in 1971.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wasfi_Tal",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Mustafa_Wahbi_Tal_and_his_son_Wasfi_Tal.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Mustafa_Wahbi_Tal_and_his_son_Wasfi_Tal.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "mustafa_wahbi_tal_and_his_son_wasfi_tal.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Wasfi Tal (right) with his father Mustafa Wahbi Tal during mid 1930s. His father is often described as Jordan's most prominent poet.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wasfi_Tal",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jordanian_King_meets_advisors_on_events_of_Black_September%2C_17_September_1970.png/500px-Jordanian_King_meets_advisors_on_events_of_Black_September%2C_17_September_1970.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jordanian_King_meets_advisors_on_events_of_Black_September%2C_17_September_1970.png/500px-Jordanian_King_meets_advisors_on_events_of_Black_September%2C_17_September_1970.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "jordanian_king_meets_advisors_on_events_of_black_september,_17_september_1970.png",
+          "width": 800,
+          "height": 600,
+          "title": "Jordanian King meets advisors on events of Black September, 17 September 1970",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wasfi_Tal",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Wasfi Tal",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Wasfi_Tal",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-28-1964-307af3f1",
+      "year": 1964,
+      "text": "Mariner program: NASA launches the Mariner 4 probe toward Mars.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Atlas_Agena_with_Mariner_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Atlas_Agena_with_Mariner_1.jpg/330px-Atlas_Agena_with_Mariner_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "atlas_agena_with_mariner_1.jpg",
+        "width": 2400,
+        "height": 3000,
+        "title": "Mariner program",
+        "description": "NASA space program from 1962 to 1973",
+        "extract": "The Mariner program was conducted by the American space agency NASA to explore other planets. Between 1962 and late 1973, NASA's Jet Propulsion Laboratory (JPL) designed and built 10 robotic interplanetary probes named Mariner to explore the inner Solar System – visiting the planets Venus, Mars and Mercury for the first time, and returning to Venus and Mars for additional close observations.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mariner_program",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Atlas_Agena_with_Mariner_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Atlas_Agena_with_Mariner_1.jpg/330px-Atlas_Agena_with_Mariner_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "atlas_agena_with_mariner_1.jpg",
+          "width": 2400,
+          "height": 3000,
+          "title": "Mariner program",
+          "description": "NASA space program from 1962 to 1973",
+          "extract": "The Mariner program was conducted by the American space agency NASA to explore other planets. Between 1962 and late 1973, NASA's Jet Propulsion Laboratory (JPL) designed and built 10 robotic interplanetary probes named Mariner to explore the inner Solar System – visiting the planets Venus, Mars and Mercury for the first time, and returning to Venus and Mars for additional close observations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mariner_program",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Mariner_4_1304_1964novembemariner4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Mariner_4_1304_1964novembemariner4.jpg/330px-Mariner_4_1304_1964novembemariner4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mariner_4_1304_1964novembemariner4.jpg",
+          "width": 3029,
+          "height": 2423,
+          "title": "Mariner 4",
+          "description": "First successful NASA mission to Mars (1964–1967)",
+          "extract": "Mariner 4 was the fourth in a series of spacecraft intended for planetary exploration in a flyby mode. It was designed to conduct closeup scientific observations of Mars and to transmit these observations to Earth. Launched on November 28, 1964, Mariner 4 performed the first successful flyby of the planet Mars, returning the first close-up pictures of the Martian surface. It captured the first images of another planet ever returned from deep space; their depiction of a cratered, dead planet largely changed the scientific community's view of life on Mars. Other mission objectives were to perform field and particle measurements in interplanetary space in the vicinity of Mars and to provide experience in and knowledge of the engineering capabilities for interplanetary flights of long duration. Initially expected to remain in space for eight months, Mariner 4's mission lasted about three years in solar orbit. On December 21, 1967, communications with Mariner 4 were terminated.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mariner_4",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mars_-_august_30_2021_-_flickr_-_kevin_m._gill.png",
+          "width": 1558,
+          "height": 1558,
+          "title": "Mars",
+          "description": "Fourth planet from the Sun",
+          "extract": "Mars is the fourth planet from the Sun. It is also known as the \"Red Planet\", for its orange-red appearance. Mars is a desert-like rocky planet with a tenuous atmosphere that is primarily carbon dioxide. At the average surface level the atmospheric pressure is a few thousandths of Earth's, atmospheric temperature ranges from −153 to 20 °C, and cosmic radiation is high. Mars retains some water, in the ground as well as thinly in the atmosphere, forming cirrus clouds, fog, frost, larger polar regions of permafrost and ice caps, but no bodies of liquid surface water. Its surface gravity is roughly a third of Earth's or double that of the Moon. Its mean diameter, 6,779 km (4,212 mi), is about half the Earth's, or twice the Moon's, and its surface area is the size of all the dry land of Earth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Mariner program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mariner_program",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-28-1987-3ca8040c",
+      "year": 1987,
+      "text": "South African Airways Flight 295 suffered a catastrophic in-flight fire and crashed into the Indian Ocean east of Mauritius, killing all 159 people on board.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/YMUxDTmt7ldt1mA_OGbM6bQpGFIp7YEM1GJm2C_b58.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/YMUxDTmt7ldt1mA_OGbM6bQpGFIp7YEM1GJm2C_b58.webp/330px-YMUxDTmt7ldt1mA_OGbM6bQpGFIp7YEM1GJm2C_b58.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ymuxdtmt7ldt1ma_ogbm6bqpgfip7yem1gjm2c_b58.webp",
+        "width": 700,
+        "height": 452,
+        "title": "South African Airways Flight 295",
+        "description": "1987 aviation accident in the Indian Ocean",
+        "extract": "South African Airways Flight 295 was a scheduled international passenger flight from Chiang Kai-shek International Airport, Taipei, Taiwan, to Jan Smuts International Airport, Johannesburg, South Africa, with a stopover in Plaisance Airport, Plaine Magnien, Mauritius. On November 28, 1987, the aircraft serving the flight, a Boeing 747 named Helderberg, experienced a catastrophic in-flight fire in the cargo area, broke up in mid-air, and crashed into the Indian Ocean east of Mauritius, killing all 159 passengers and crew on board. An extensive salvage operation was mounted to try to recover the aircraft's flight recorders, one of which was recovered from a depth of 16,100 feet (4,900 m), deeper than the depth to which the Titanic sank. The plane crash is also known as the Helderberg disaster.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/South_African_Airways_Flight_295",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/YMUxDTmt7ldt1mA_OGbM6bQpGFIp7YEM1GJm2C_b58.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/YMUxDTmt7ldt1mA_OGbM6bQpGFIp7YEM1GJm2C_b58.webp/330px-YMUxDTmt7ldt1mA_OGbM6bQpGFIp7YEM1GJm2C_b58.webp.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ymuxdtmt7ldt1ma_ogbm6bqpgfip7yem1gjm2c_b58.webp",
+          "width": 700,
+          "height": 452,
+          "title": "South African Airways Flight 295",
+          "description": "1987 aviation accident in the Indian Ocean",
+          "extract": "South African Airways Flight 295 was a scheduled international passenger flight from Chiang Kai-shek International Airport, Taipei, Taiwan, to Jan Smuts International Airport, Johannesburg, South Africa, with a stopover in Plaisance Airport, Plaine Magnien, Mauritius. On November 28, 1987, the aircraft serving the flight, a Boeing 747 named Helderberg, experienced a catastrophic in-flight fire in the cargo area, broke up in mid-air, and crashed into the Indian Ocean east of Mauritius, killing all 159 passengers and crew on board. An extensive salvage operation was mounted to try to recover the aircraft's flight recorders, one of which was recovered from a depth of 16,100 feet (4,900 m), deeper than the depth to which the Titanic sank. The plane crash is also known as the Helderberg disaster.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/South_African_Airways_Flight_295",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/South_African_Airways_ZS-SAS%2C_Frankfurt_Airport%2C_1983.jpg/500px-South_African_Airways_ZS-SAS%2C_Frankfurt_Airport%2C_1983.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/South_African_Airways_ZS-SAS%2C_Frankfurt_Airport%2C_1983.jpg/500px-South_African_Airways_ZS-SAS%2C_Frankfurt_Airport%2C_1983.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "south_african_airways_zs-sas,_frankfurt_airport,_1983.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "South_African_Airways_ZS-SAS,_Frankfurt_Airport,_1983",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/South_African_Airways_Flight_295",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "South African Airways Flight 295",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/South_African_Airways_Flight_295",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "11-28-1989-99e96bf2",
+      "year": 1989,
+      "text": "Cold War: Velvet Revolution: In the face of protests, the Communist Party of Czechoslovakia announces it will give up its monopoly on political power.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Praha_1989-11-25%2C_Letn%C3%A1%2C_dav_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Praha_1989-11-25%2C_Letn%C3%A1%2C_dav_%2801%29.jpg/330px-Praha_1989-11-25%2C_Letn%C3%A1%2C_dav_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "praha_1989-11-25,_letná,_dav_(01).jpg",
+        "width": 2362,
+        "height": 1575,
+        "title": "Velvet Revolution",
+        "description": "Democratization process in Czechoslovakia in 1989",
+        "extract": "The Velvet Revolution or Gentle Revolution was a non-violent transition of power in what was then Czechoslovakia, occurring from 17 November to 28 November 1989. Popular demonstrations against the one-party government of the Communist Party of Czechoslovakia included students and older dissidents. The result was the end of 41 years of one-party rule in Czechoslovakia, and the subsequent dismantling of the command economy and conversion to a parliamentary republic.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Velvet_Revolution",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Praha_1989-11-25%2C_Letn%C3%A1%2C_dav_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Praha_1989-11-25%2C_Letn%C3%A1%2C_dav_%2801%29.jpg/330px-Praha_1989-11-25%2C_Letn%C3%A1%2C_dav_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "praha_1989-11-25,_letná,_dav_(01).jpg",
+          "width": 2362,
+          "height": 1575,
+          "title": "Velvet Revolution",
+          "description": "Democratization process in Czechoslovakia in 1989",
+          "extract": "The Velvet Revolution or Gentle Revolution was a non-violent transition of power in what was then Czechoslovakia, occurring from 17 November to 28 November 1989. Popular demonstrations against the one-party government of the Communist Party of Czechoslovakia included students and older dissidents. The result was the end of 41 years of one-party rule in Czechoslovakia, and the subsequent dismantling of the command economy and conversion to a parliamentary republic.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Velvet_Revolution",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cold War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-28-1862-ed49a515",
+      "year": 1862,
+      "text": "Notts County F.C. is founded in Nottingham, England, making it the oldest professional Association football club in the world.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Nottingham_Council_House_on_Coronation_Day_-_geograph.org.uk_-_7477109.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nottingham_Council_House_on_Coronation_Day_-_geograph.org.uk_-_7477109.jpg/330px-Nottingham_Council_House_on_Coronation_Day_-_geograph.org.uk_-_7477109.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "nottingham_council_house_on_coronation_day_-_geograph.org.uk_-_7477109.jpg",
+        "width": 1280,
+        "height": 1280,
+        "title": "Nottingham",
+        "description": "City and council area in Nottinghamshire, England",
+        "extract": "Nottingham is a city and unitary authority area in Nottinghamshire, East Midlands, England. It is located 42 miles (68 km) south-east of Sheffield and 54 miles (87 km) north-east of Birmingham. Nottingham is the legendary home of Robin Hood's belligerent Sheriff of Nottingham, and is historically associated with the lace-making, bicycle and tobacco industries. The city is also the county town of Nottinghamshire and the settlement was granted its city charter in 1897, as part of Queen Victoria's Diamond Jubilee celebrations. Nottingham is a UNESCO \"City of Literature\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nottingham",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Nottingham_Council_House_on_Coronation_Day_-_geograph.org.uk_-_7477109.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nottingham_Council_House_on_Coronation_Day_-_geograph.org.uk_-_7477109.jpg/330px-Nottingham_Council_House_on_Coronation_Day_-_geograph.org.uk_-_7477109.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nottingham_council_house_on_coronation_day_-_geograph.org.uk_-_7477109.jpg",
+          "width": 1280,
+          "height": 1280,
+          "title": "Nottingham",
+          "description": "City and council area in Nottinghamshire, England",
+          "extract": "Nottingham is a city and unitary authority area in Nottinghamshire, East Midlands, England. It is located 42 miles (68 km) south-east of Sheffield and 54 miles (87 km) north-east of Birmingham. Nottingham is the legendary home of Robin Hood's belligerent Sheriff of Nottingham, and is historically associated with the lace-making, bicycle and tobacco industries. The city is also the county town of Nottinghamshire and the settlement was granted its city charter in 1897, as part of Queen Victoria's Diamond Jubilee celebrations. Nottingham is a UNESCO \"City of Literature\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nottingham",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/330px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "football_in_bloomington,_indiana,_1995.jpg",
+          "width": 3420,
+          "height": 2328,
+          "title": "Association football",
+          "description": "Team sport played with a ball",
+          "extract": "Association football, commonly known as football or soccer, is a team sport played between two teams of 11 players who mostly use their feet to kick an inflated ball around a pitch.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Association_football",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/NottsCountyGeorgeHotel1862.jpg/1280px-NottsCountyGeorgeHotel1862.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/NottsCountyGeorgeHotel1862.jpg/1280px-NottsCountyGeorgeHotel1862.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nottscountygeorgehotel1862.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Plaque at the George Hotel, Nottingham, commemorating the formal establishment of Notts County",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Notts_County_F.C.",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Notts County F.C.",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Notts_County_F.C.",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-28-2016-e8645ad7",
+      "year": 2016,
+      "text": "LaMia Flight 2933 crashed near Medellín, Colombia, killing 71 people, many of whom were players from Chapecoense Football Club.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Rescate_de_Polic%C3%ADa_al_vuelo_2933_-_05_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rescate_de_Polic%C3%ADa_al_vuelo_2933_-_05_%28cropped%29.jpg/330px-Rescate_de_Polic%C3%ADa_al_vuelo_2933_-_05_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "rescate_de_policía_al_vuelo_2933_-_05_(cropped).jpg",
+        "width": 551,
+        "height": 578,
+        "title": "LaMia Flight 2933",
+        "description": "2016 aviation accident, in Colombia",
+        "extract": "LaMia Flight 2933 was a regularly scheduled charter flight from Santa Cruz de la Sierra, Bolivia, to Medellín, Colombia. On 28 November 2016, the aircraft operating the flight crashed into Mt. Cerro Gordo near the town of La Unión, Valle del Cauca, Colombia, killing 71 of the 77 people on board. The aircraft was transporting the first-team squad of the Brazilian football club Chapecoense and their entourage to Medellín where the team was scheduled to play at the 2016 Copa Sudamericana Finals. One of the four crew members, three of the players, and two other passengers survived with injuries.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/LaMia_Flight_2933",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Rescate_de_Polic%C3%ADa_al_vuelo_2933_-_05_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rescate_de_Polic%C3%ADa_al_vuelo_2933_-_05_%28cropped%29.jpg/330px-Rescate_de_Polic%C3%ADa_al_vuelo_2933_-_05_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rescate_de_policía_al_vuelo_2933_-_05_(cropped).jpg",
+          "width": 551,
+          "height": 578,
+          "title": "LaMia Flight 2933",
+          "description": "2016 aviation accident, in Colombia",
+          "extract": "LaMia Flight 2933 was a regularly scheduled charter flight from Santa Cruz de la Sierra, Bolivia, to Medellín, Colombia. On 28 November 2016, the aircraft operating the flight crashed into Mt. Cerro Gordo near the town of La Unión, Valle del Cauca, Colombia, killing 71 of the 77 people on board. The aircraft was transporting the first-team squad of the Brazilian football club Chapecoense and their entourage to Medellín where the team was scheduled to play at the 2016 Copa Sudamericana Finals. One of the four crew members, three of the players, and two other passengers survived with injuries.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/LaMia_Flight_2933",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/El_Poblado_Medell%C3%ADn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/El_Poblado_Medell%C3%ADn.jpg/330px-El_Poblado_Medell%C3%ADn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "el_poblado_medellín.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Medellín",
+          "description": "City in Colombia",
+          "extract": "Medellín, officially the Special District of Science, Technology and Innovation of Medellín, is the capital of the department of Antioquia, and the second-largest city in Colombia after Bogotá. It is located in the Aburrá Valley, a central region of the Andes Mountains, in northwestern South America. The city's population was 2,427,129 at the 2018 census. The metro area of Medellín is the second-largest urban agglomeration in Colombia in terms of population and economy, with more than 4 million people.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/LaMia_P4-LOR_at_EGPF%2C_Oct_2013.jpg/1280px-LaMia_P4-LOR_at_EGPF%2C_Oct_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/LaMia_P4-LOR_at_EGPF%2C_Oct_2013.jpg/1280px-LaMia_P4-LOR_at_EGPF%2C_Oct_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "lamia_p4-lor_at_egpf,_oct_2013.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "LaMia_P4-LOR_at_EGPF,_Oct_2013",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/LaMia_Flight_2933",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "LaMia Flight 2933",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/LaMia_Flight_2933",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-28-2020-420fb76d",
+      "year": 2020,
+      "text": "Over seven hundred civilians are massacred by the Ethiopian National Defense Force and Eritrean Army in Aksum, Ethiopia.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ET_Axum_asv2018-01_img34_view_from_hill.jpg/3840px-ET_Axum_asv2018-01_img34_view_from_hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ET_Axum_asv2018-01_img34_view_from_hill.jpg/330px-ET_Axum_asv2018-01_img34_view_from_hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "et_axum_asv2018-01_img34_view_from_hill.jpg",
+        "width": 6246,
+        "height": 3904,
+        "title": "Axum massacre",
+        "description": "2020 massacre in Ethiopia, as part of the Tigray War",
+        "extract": "The Axum massacre was a massacre of about 100–800 civilians that took place in Axum during the Tigray War.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Axum_massacre",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ET_Axum_asv2018-01_img34_view_from_hill.jpg/3840px-ET_Axum_asv2018-01_img34_view_from_hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/ET_Axum_asv2018-01_img34_view_from_hill.jpg/330px-ET_Axum_asv2018-01_img34_view_from_hill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "et_axum_asv2018-01_img34_view_from_hill.jpg",
+          "width": 6246,
+          "height": 3904,
+          "title": "Axum massacre",
+          "description": "2020 massacre in Ethiopia, as part of the Tigray War",
+          "extract": "The Axum massacre was a massacre of about 100–800 civilians that took place in Axum during the Tigray War.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Axum_massacre",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Ethiopian National Defense Force",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ethiopian_National_Defense_Force",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-28-2014-a9d3c82d",
+      "year": 2014,
+      "text": "Gunmen set off three bombs at the central mosque in the northern Nigerian city of Kano killing at least 120 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dala_Hills_%28Dutse_Dala%29.jpg/3840px-Dala_Hills_%28Dutse_Dala%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dala_Hills_%28Dutse_Dala%29.jpg/330px-Dala_Hills_%28Dutse_Dala%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "dala_hills_(dutse_dala).jpg",
+        "width": 5234,
+        "height": 3487,
+        "title": "Kano (city)",
+        "description": "Capital city of Kano State, Nigeria",
+        "extract": "Kano is a city in northern Nigeria and the capital of Kano State. It is the second largest city in Nigeria after Lagos, with over four million citizens living within 449 km2 (173 sq mi). Located in the savanna, south of the Sahel, Kano is a major route of the trans-Saharan trade, having been a trade and human settlement for millennia. It is the traditional state of the Dabo dynasty who have ruled as emirs over the city-state since the 19th century. Kano Emirate Council is the current traditional institution inside the city boundaries of Kano, and under the authority of the Government of Kano State.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kano_(city)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dala_Hills_%28Dutse_Dala%29.jpg/3840px-Dala_Hills_%28Dutse_Dala%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Dala_Hills_%28Dutse_Dala%29.jpg/330px-Dala_Hills_%28Dutse_Dala%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dala_hills_(dutse_dala).jpg",
+          "width": 5234,
+          "height": 3487,
+          "title": "Kano (city)",
+          "description": "Capital city of Kano State, Nigeria",
+          "extract": "Kano is a city in northern Nigeria and the capital of Kano State. It is the second largest city in Nigeria after Lagos, with over four million citizens living within 449 km2 (173 sq mi). Located in the savanna, south of the Sahel, Kano is a major route of the trans-Saharan trade, having been a trade and human settlement for millennia. It is the traditional state of the Dabo dynasty who have ruled as emirs over the city-state since the 19th century. Kano Emirate Council is the current traditional institution inside the city boundaries of Kano, and under the authority of the Government of Kano State.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kano_(city)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "2014 Kano attack",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2014_Kano_attack",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-28-1980-5f6aa051",
+      "year": 1980,
+      "text": "Iran–Iraq War: Operation Morvarid: The bulk of the Iraqi Navy is destroyed by the Iranian Navy in the Persian Gulf. (Commemorated in Iran as Navy Day.)",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Chemical_weapon1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chemical_weapon1.jpg/330px-Chemical_weapon1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "chemical_weapon1.jpg",
+        "width": 768,
+        "height": 528,
+        "title": "Iran–Iraq War",
+        "description": "1980–1988 armed conflict in West Asia",
+        "extract": "The Iran–Iraq War, also called the First Imposed War by Iran, began with the Iraqi invasion of Iran in September 1980. After eight years of conflict, both countries accepted a ceasefire deal brokered by the United Nations, which became effective in August 1988. The war caused around 500,000 deaths, making it the deadliest conventional war ever fought between regular armies of developing countries.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Chemical_weapon1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chemical_weapon1.jpg/330px-Chemical_weapon1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chemical_weapon1.jpg",
+          "width": 768,
+          "height": 528,
+          "title": "Iran–Iraq War",
+          "description": "1980–1988 armed conflict in West Asia",
+          "extract": "The Iran–Iraq War, also called the First Imposed War by Iran, began with the Iraqi invasion of Iran in September 1980. After eight years of conflict, both countries accepted a ceasefire deal brokered by the United Nations, which became effective in August 1988. The war caused around 500,000 deaths, making it the deadliest conventional war ever fought between regular armies of developing countries.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/PersianGulf_vue_satellite_du_golfe_persique.jpg/3840px-PersianGulf_vue_satellite_du_golfe_persique.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/PersianGulf_vue_satellite_du_golfe_persique.jpg/330px-PersianGulf_vue_satellite_du_golfe_persique.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "persiangulf_vue_satellite_du_golfe_persique.jpg",
+          "width": 4000,
+          "height": 5200,
+          "title": "Persian Gulf",
+          "description": "Mediterranean sea in West Asia",
+          "extract": "The Persian Gulf, sometimes called the Arabian Gulf, is a mediterranean sea in West Asia. The body of water is an extension of the Arabian Sea and the larger Indian Ocean located between the Arabian Peninsula and Iran (Persia). It is connected to the Gulf of Oman in the east by the Strait of Hormuz. The river delta of the Shatt al-Arab forms the north-west shoreline.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Persian_Gulf",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4_10.jpg/330px-%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "главный_военно-морской_парад_10.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Navy Day",
+          "description": "Day to celebrate the naval forces in some countries",
+          "extract": "Several nations observe or have observed a Navy Day to recognize their navy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Navy_Day",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Iran–Iraq War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+      "relatedPagesCount": 6
+    }
+  ]
+}

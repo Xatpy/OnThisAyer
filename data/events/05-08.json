@@ -1,0 +1,595 @@
+{
+  "date": {
+    "month": 5,
+    "day": 8,
+    "formatted": "05-08"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "05-08-1984-c5dc6e98",
+      "year": 1984,
+      "text": "The Soviet Union announced the boycott of the Summer Olympics in Los Angeles, citing security concerns.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/3840px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/330px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hollywood_sign_(8485145044).jpg",
+        "width": 3888,
+        "height": 2592,
+        "title": "Los Angeles",
+        "description": "Most populous city in California, US",
+        "extract": "Los Angeles is the most populous city in the U.S. state of California, and the commercial, financial, and cultural center of Southern California. With an estimated 3.87 million residents within the city limits as of 2025, it is the second-most populous city in the United States, behind New York City, and the largest city in the Western United States. The city has an ethnically and culturally diverse population, and is the principal city of a metropolitan area of 12.9 million people (2024). Greater Los Angeles, a combined statistical area that includes the Los Angeles and Riverside–San Bernardino metropolitan areas, is a sprawling metropolis of over 18 million residents.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Los_Angeles",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/3840px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/330px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hollywood_sign_(8485145044).jpg",
+          "width": 3888,
+          "height": 2592,
+          "title": "Los Angeles",
+          "description": "Most populous city in California, US",
+          "extract": "Los Angeles is the most populous city in the U.S. state of California, and the commercial, financial, and cultural center of Southern California. With an estimated 3.87 million residents within the city limits as of 2025, it is the second-most populous city in the United States, behind New York City, and the largest city in the Western United States. The city has an ethnically and culturally diverse population, and is the principal city of a metropolitan area of 12.9 million people (2024). Greater Los Angeles, a combined statistical area that includes the Los Angeles and Riverside–San Bernardino metropolitan areas, is a sprawling metropolis of over 18 million residents.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Los_Angeles",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "1984 Summer Olympics boycott",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1984_Summer_Olympics_boycott",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-08-1972-93d25876",
+      "year": 1972,
+      "text": "Four members of Black September hijacked Sabena Flight 571 to demand the release of 315 Palestinians convicted on terrorism charges.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sabena_Flight_571._I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sabena_Flight_571._I.jpg/330px-Sabena_Flight_571._I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sabena_flight_571._i.jpg",
+        "width": 2048,
+        "height": 2342,
+        "title": "Sabena Flight 571",
+        "description": "1972 aircraft hijacking in Lod, Israel",
+        "extract": "Sabena Flight 571 was a scheduled passenger flight from Brussels to Tel Aviv via Vienna, operated by the Belgian national airline, Sabena. On 8 May 1972, a Boeing 707 passenger aircraft operating that service, captained by British pilot Reginald Levy, DFC, was hijacked by four members of the Black September Organization, a Palestinian terrorist group.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sabena_Flight_571",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Sabena_Flight_571._I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sabena_Flight_571._I.jpg/330px-Sabena_Flight_571._I.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sabena_flight_571._i.jpg",
+          "width": 2048,
+          "height": 2342,
+          "title": "Sabena Flight 571",
+          "description": "1972 aircraft hijacking in Lod, Israel",
+          "extract": "Sabena Flight 571 was a scheduled passenger flight from Brussels to Tel Aviv via Vienna, operated by the Belgian national airline, Sabena. On 8 May 1972, a Boeing 707 passenger aircraft operating that service, captained by British pilot Reginald Levy, DFC, was hijacked by four members of the Black September Organization, a Palestinian terrorist group.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sabena_Flight_571",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Black September Organization",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Black_September_Organization",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-08-1970-32bf6c9f",
+      "year": 1970,
+      "text": "The Beatles release their 12th and final studio album Let It Be.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/330px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "the_beatles_1963_dezo_hoffman_capitol_records_press_photo_2.jpg",
+        "width": 3621,
+        "height": 2817,
+        "title": "The Beatles",
+        "description": "English rock band (1960–1970)",
+        "extract": "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/330px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_beatles_1963_dezo_hoffman_capitol_records_press_photo_2.jpg",
+          "width": 3621,
+          "height": 2817,
+          "title": "The Beatles",
+          "description": "English rock band (1960–1970)",
+          "extract": "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Beatles_-_Let_It_Be.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Beatles_-_Let_It_Be.png/330px-The_Beatles_-_Let_It_Be.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_beatles_-_let_it_be.png",
+          "width": 996,
+          "height": 996,
+          "title": "Let It Be (album)",
+          "description": "1970 studio album by the Beatles",
+          "extract": "Let It Be is the twelfth and final studio album by the English rock band the Beatles. It was released on 8 May 1970, nearly a month after the official announcement of the group's public break-up, in tandem with the documentary of the same name. Concerned about recent friction within the band, Paul McCartney had conceived the project as an attempt to reinvigorate the group by returning to simpler rock 'n' roll configurations. Its rehearsals started at Twickenham Film Studios on 2 January 1969 as part of a planned television documentary showcasing the Beatles' return to live performance.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Let_It_Be_(album)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "The Beatles",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-08-1988-4dc6fc6f",
+      "year": 1988,
+      "text": "A fire at Illinois Bell's Hinsdale Central Office triggers an extended 1AESS network outage once considered to be the \"worst telecommunications disaster in US telephone industry history\".",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/0/08/Illbell_old.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/08/Illbell_old.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "illbell_old.png",
+        "width": 284,
+        "height": 284,
+        "title": "Illinois Bell",
+        "description": "Telecommunications utility company in Illinois, USA",
+        "extract": "Illinois Bell Telephone Company, LLC is the Bell Operating Company serving Illinois. It is owned by AT&T through AT&T Teleholdings, formerly Ameritech.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Illinois_Bell",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/08/Illbell_old.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/08/Illbell_old.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "illbell_old.png",
+          "width": 284,
+          "height": 284,
+          "title": "Illinois Bell",
+          "description": "Telecommunications utility company in Illinois, USA",
+          "extract": "Illinois Bell Telephone Company, LLC is the Bell Operating Company serving Illinois. It is owned by AT&T through AT&T Teleholdings, formerly Ameritech.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Illinois_Bell",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/1A_Frames.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/1A_Frames.JPG/330px-1A_Frames.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1a_frames.jpg",
+          "width": 1224,
+          "height": 1632,
+          "title": "Number One Electronic Switching System",
+          "description": "Defunct telecommunications node in the United States; part of the Bell System",
+          "extract": "The Number One Electronic Switching System (1ESS) was the first large-scale stored program control (SPC) telephone exchange or electronic switching system in the Bell System. It was manufactured by Western Electric and first placed into service in Succasunna, New Jersey, in May 1965. The switching fabric was composed of a reed relay matrix controlled by wire spring relays which in turn were controlled by a central processing unit (CPU).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Number_One_Electronic_Switching_System",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Illinois Bell",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Illinois_Bell",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-08-1957-54942d13",
+      "year": 1957,
+      "text": "South Vietnamese President Ngo Dinh Diem begins a state visit to the United States, his regime's main sponsor.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/President_NGO-DINH-DIEM_of_the_Republic_of_Viet-Nam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/President_NGO-DINH-DIEM_of_the_Republic_of_Viet-Nam.jpg/330px-President_NGO-DINH-DIEM_of_the_Republic_of_Viet-Nam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "president_ngo-dinh-diem_of_the_republic_of_viet-nam.jpg",
+        "width": 1213,
+        "height": 1624,
+        "title": "Ngo Dinh Diem",
+        "description": "President of South Vietnam from 1955 to 1963",
+        "extract": "Ngô Đình Diệm was a South Vietnamese politician who was the final prime minister of the State of Vietnam (1954–1955) and later the first president of South Vietnam from 1955 until his capture and assassination during the CIA-backed 1963 coup d'état.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ngo_Dinh_Diem",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/President_NGO-DINH-DIEM_of_the_Republic_of_Viet-Nam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/President_NGO-DINH-DIEM_of_the_Republic_of_Viet-Nam.jpg/330px-President_NGO-DINH-DIEM_of_the_Republic_of_Viet-Nam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "president_ngo-dinh-diem_of_the_republic_of_viet-nam.jpg",
+          "width": 1213,
+          "height": 1624,
+          "title": "Ngo Dinh Diem",
+          "description": "President of South Vietnam from 1955 to 1963",
+          "extract": "Ngô Đình Diệm was a South Vietnamese politician who was the final prime minister of the State of Vietnam (1954–1955) and later the first president of South Vietnam from 1955 until his capture and assassination during the CIA-backed 1963 coup d'état.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ngo_Dinh_Diem",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ngo_Dinh_Diem_at_Washington_-_ARC_542189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ngo_Dinh_Diem_at_Washington_-_ARC_542189.jpg/330px-Ngo_Dinh_Diem_at_Washington_-_ARC_542189.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ngo_dinh_diem_at_washington_-_arc_542189.jpg",
+          "width": 2961,
+          "height": 2356,
+          "title": "State visit by Ngo Dinh Diem to the United States",
+          "description": "South Vietnamese President's 1957 visit to the US",
+          "extract": "Ngô Đình Diệm, the president of South Vietnam, made a state visit to the United States, the main ally of his government, in 1957. Diệm received a glowing welcome and was heaped with praise as a leader of a \"free country\" in the midst of the Cold War. The receptions during the visit were in large part organized by the American Friends of Vietnam (AFV), a lobby group dedicated to resolute US support of South Vietnam and which included many politicians from both major parties. The visit was mainly celebratory and ceremonial, rather than being a policy or planning mission. It was part of a year of travelling for Diệm, as he made a visit to Australia in September, as well as to fellow anti-communist countries South Korea and Thailand.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/State_visit_by_Ngo_Dinh_Diem_to_the_United_States",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Family_of_Mr._Ng%C3%B4_%C4%90%C3%ACnh_Kh%E1%BA%A3.jpg/500px-Family_of_Mr._Ng%C3%B4_%C4%90%C3%ACnh_Kh%E1%BA%A3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Family_of_Mr._Ng%C3%B4_%C4%90%C3%ACnh_Kh%E1%BA%A3.jpg/500px-Family_of_Mr._Ng%C3%B4_%C4%90%C3%ACnh_Kh%E1%BA%A3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "family_of_mr._ngô_đình_khả.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A photo of 4 year old Diệm (third from right) with his family in 1905 or 1906. His father Ngô Đình Khả stands in the centre.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ngo_Dinh_Diem",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Ngo Dinh Diem",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ngo_Dinh_Diem",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-08-2019-f6ca6ba1",
+      "year": 2019,
+      "text": "British 17-year-old Isabelle Holdaway is reported to be the first patient ever to receive a genetically modified phage therapy to treat a drug-resistant infection.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Antibiotic_sensitivity_and_resistance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Antibiotic_sensitivity_and_resistance.jpg/330px-Antibiotic_sensitivity_and_resistance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "antibiotic_sensitivity_and_resistance.jpg",
+        "width": 2456,
+        "height": 1273,
+        "title": "Antimicrobial resistance",
+        "description": "Resistance of microbes to drugs directed against them",
+        "extract": "Antimicrobial resistance occurs when microbes evolve mechanisms that protect them from antimicrobials, which are drugs used to treat infections in humans, animals, and plants. Any microbe can develop resistance, including bacteria, viruses, parasites, and fungi. Together, these adaptations fall under the AMR umbrella, posing a challenge to all countries and all demographics. Misuse and improper management of antimicrobials are primary drivers of this resistance, though it can also occur naturally through genetic mutations and the spread of resistant genes. Microbes resistant to multiple drugs are termed multidrug-resistant (MDR) and are sometimes called superbugs.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Antibiotic_sensitivity_and_resistance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Antibiotic_sensitivity_and_resistance.jpg/330px-Antibiotic_sensitivity_and_resistance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "antibiotic_sensitivity_and_resistance.jpg",
+          "width": 2456,
+          "height": 1273,
+          "title": "Antimicrobial resistance",
+          "description": "Resistance of microbes to drugs directed against them",
+          "extract": "Antimicrobial resistance occurs when microbes evolve mechanisms that protect them from antimicrobials, which are drugs used to treat infections in humans, animals, and plants. Any microbe can develop resistance, including bacteria, viruses, parasites, and fungi. Together, these adaptations fall under the AMR umbrella, posing a challenge to all countries and all demographics. Misuse and improper management of antimicrobials are primary drivers of this resistance, though it can also occur naturally through genetic mutations and the spread of resistant genes. Microbes resistant to multiple drugs are termed multidrug-resistant (MDR) and are sometimes called superbugs.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Phage.jpg/1280px-Phage.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Phage.jpg/1280px-Phage.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "phage.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "An electron micrograph of bacteriophages attached to a bacterial cell. These viruses are the size and shape of coliphage T1.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Phage_therapy",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Twort.jpg/500px-Twort.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Twort.jpg/500px-Twort.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "twort.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Frederick Twort",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Phage_therapy",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Phage therapy",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Phage_therapy",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-08-1997-722c33f6",
+      "year": 1997,
+      "text": "China Southern Airlines Flight 3456 crashes on approach into Bao'an International Airport, killing 35 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/B-2925_KAI_TAK_HONG_KONG_-_1_DECEMBER_1996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/B-2925_KAI_TAK_HONG_KONG_-_1_DECEMBER_1996.jpg/330px-B-2925_KAI_TAK_HONG_KONG_-_1_DECEMBER_1996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "b-2925_kai_tak_hong_kong_-_1_december_1996.jpg",
+        "width": 898,
+        "height": 560,
+        "title": "China Southern Airlines Flight 3456",
+        "description": "1997 aviation accident in China",
+        "extract": "China Southern Airlines Flight 3456 was a scheduled domestic passenger flight from Chongqing Jiangbei International Airport to Shenzhen Huangtian Airport. On 8 May 1997, the Boeing 737-300 performing this route crashed during the second attempt to land in a thunderstorm.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/China_Southern_Airlines_Flight_3456",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/B-2925_KAI_TAK_HONG_KONG_-_1_DECEMBER_1996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/B-2925_KAI_TAK_HONG_KONG_-_1_DECEMBER_1996.jpg/330px-B-2925_KAI_TAK_HONG_KONG_-_1_DECEMBER_1996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "b-2925_kai_tak_hong_kong_-_1_december_1996.jpg",
+          "width": 898,
+          "height": 560,
+          "title": "China Southern Airlines Flight 3456",
+          "description": "1997 aviation accident in China",
+          "extract": "China Southern Airlines Flight 3456 was a scheduled domestic passenger flight from Chongqing Jiangbei International Airport to Shenzhen Huangtian Airport. On 8 May 1997, the Boeing 737-300 performing this route crashed during the second attempt to land in a thunderstorm.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/China_Southern_Airlines_Flight_3456",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "China Southern Airlines Flight 3456",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/China_Southern_Airlines_Flight_3456",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "05-08-1978-ef2446b0",
+      "year": 1978,
+      "text": "The first ascent of Mount Everest without supplemental oxygen, by Reinhold Messner and Peter Habeler.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg/330px-Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mt._everest_from_gokyo_ri_november_5,_2012.jpg",
+        "width": 3157,
+        "height": 2104,
+        "title": "Mount Everest",
+        "description": "Earth's highest mountain",
+        "extract": "Mount Everest (known in Nepali as Sagarmāthā, in Sherpa as Chamolangma, and in Tibetan as Jomolangma/Čhomolangma is the highest mountain on Earth above sea level. It lies in the Mahalangur Himal sub-range of the Himalayas and marks part of the China–Nepal border at its summit. Its height was most recently measured in 2020 through a joint survey by Nepalese and Chinese authorities as 8,848.86 m.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mount_Everest",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg/330px-Mt._Everest_from_Gokyo_Ri_November_5%2C_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mt._everest_from_gokyo_ri_november_5,_2012.jpg",
+          "width": 3157,
+          "height": 2104,
+          "title": "Mount Everest",
+          "description": "Earth's highest mountain",
+          "extract": "Mount Everest (known in Nepali as Sagarmāthā, in Sherpa as Chamolangma, and in Tibetan as Jomolangma/Čhomolangma is the highest mountain on Earth above sea level. It lies in the Mahalangur Himal sub-range of the Himalayas and marks part of the China–Nepal border at its summit. Its height was most recently measured in 2020 through a joint survey by Nepalese and Chinese authorities as 8,848.86 m.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mount_Everest",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/2024-02-26-Reinhold_Messner-Hart_aber_fair-2539.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/2024-02-26-Reinhold_Messner-Hart_aber_fair-2539.jpg/330px-2024-02-26-Reinhold_Messner-Hart_aber_fair-2539.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2024-02-26-reinhold_messner-hart_aber_fair-2539.jpg",
+          "width": 3659,
+          "height": 5489,
+          "title": "Reinhold Messner",
+          "description": "Italian mountaineer, adventurer and explorer (born 1944)",
+          "extract": "Reinhold Andreas Messner is an Italian climber, explorer, and author from the German-speaking province of South Tyrol. He made the first solo ascent of Mount Everest and, along with Peter Habeler, the first ascent of Everest without supplementary oxygen. He was the first person to climb all 14 eight-thousanders, doing so without supplementary oxygen. Messner was the first to cross Antarctica and Greenland with neither snowmobiles nor dog sleds and also crossed the Gobi Desert alone. He is widely considered to be the greatest high-altitude mountaineer of all time.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Reinhold_Messner",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/PeterHabeler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/PeterHabeler.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "peterhabeler.jpg",
+          "width": 297,
+          "height": 388,
+          "title": "Peter Habeler",
+          "description": "Austrian mountaineer",
+          "extract": "Peter Habeler is an Austrian mountaineer. He was born in Mayrhofen, Austria. He developed an interest in mountain climbing at age six.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Peter_Habeler",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Mount Everest",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mount_Everest",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-08-1976-bc1323e3",
+      "year": 1976,
+      "text": "Great American Revolution opened at Six Flags Magic Mountain, California.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Revolution_-_at_Six_Flags_Magic_Mountain_-_September_2018.jpg/3840px-Revolution_-_at_Six_Flags_Magic_Mountain_-_September_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Revolution_-_at_Six_Flags_Magic_Mountain_-_September_2018.jpg/330px-Revolution_-_at_Six_Flags_Magic_Mountain_-_September_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "revolution_-_at_six_flags_magic_mountain_-_september_2018.jpg",
+        "width": 4984,
+        "height": 3323,
+        "title": "The Great American Revolution",
+        "description": "Steel roller coaster in California, US",
+        "extract": "The Great American Revolution is a steel roller coaster located at Six Flags Magic Mountain in Valencia, California, United States. Manufactured by Anton Schwarzkopf and designed by Werner Stengel, the roller coaster opened to the public on May 8, 1976. The New Revolution is the world's first modern roller coaster to feature a vertical loop and has been recognized for that accomplishment by American Coaster Enthusiasts (ACE), who awarded the roller coaster its Coaster Landmark status. However, there were earlier examples of roller coasters with a full vertical loop, the earliest being the Centrifugal Railways of the mid- to late-1800s.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Great_American_Revolution",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Revolution_-_at_Six_Flags_Magic_Mountain_-_September_2018.jpg/3840px-Revolution_-_at_Six_Flags_Magic_Mountain_-_September_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Revolution_-_at_Six_Flags_Magic_Mountain_-_September_2018.jpg/330px-Revolution_-_at_Six_Flags_Magic_Mountain_-_September_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "revolution_-_at_six_flags_magic_mountain_-_september_2018.jpg",
+          "width": 4984,
+          "height": 3323,
+          "title": "The Great American Revolution",
+          "description": "Steel roller coaster in California, US",
+          "extract": "The Great American Revolution is a steel roller coaster located at Six Flags Magic Mountain in Valencia, California, United States. Manufactured by Anton Schwarzkopf and designed by Werner Stengel, the roller coaster opened to the public on May 8, 1976. The New Revolution is the world's first modern roller coaster to feature a vertical loop and has been recognized for that accomplishment by American Coaster Enthusiasts (ACE), who awarded the roller coaster its Coaster Landmark status. However, there were earlier examples of roller coasters with a full vertical loop, the earliest being the Centrifugal Railways of the mid- to late-1800s.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Great_American_Revolution",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Six_Flags_Magic_Mountain_Entrance_Plaza_April_2026.jpg/3840px-Six_Flags_Magic_Mountain_Entrance_Plaza_April_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Six_Flags_Magic_Mountain_Entrance_Plaza_April_2026.jpg/330px-Six_Flags_Magic_Mountain_Entrance_Plaza_April_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "six_flags_magic_mountain_entrance_plaza_april_2026.jpg",
+          "width": 4080,
+          "height": 3072,
+          "title": "Six Flags Magic Mountain",
+          "description": "Theme park in Valencia, California",
+          "extract": "Six Flags Magic Mountain, formerly known and colloquially referred to as simply Magic Mountain, is a 209-acre (85 ha) amusement park located in unincorporated Los Angeles County, just outside Santa Clarita, California, United States, 35 miles (56 km) northwest of downtown Los Angeles. It opened on May 29, 1971, as a development of the Newhall Land and Farming Company and Sea World Inc. In 1979, Six Flags purchased the park and added \"Six Flags\" to the park's name.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Six_Flags_Magic_Mountain",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/SFMM-_New_Revolution_4.jpg/1280px-SFMM-_New_Revolution_4.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/SFMM-_New_Revolution_4.jpg/1280px-SFMM-_New_Revolution_4.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "sfmm-_new_revolution_4.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Second drop, 2016",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Great_American_Revolution",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "The Great American Revolution",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Great_American_Revolution",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-08-1973-29bfc6cc",
+      "year": 1973,
+      "text": "A 71-day standoff between federal authorities and the American Indian Movement members occupying the Pine Ridge Reservation at Wounded Knee, South Dakota ends with the surrender of the militants.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 55,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/AIM_member_in_bunker_outside_Wounded_Knee_church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/AIM_member_in_bunker_outside_Wounded_Knee_church.jpg/330px-AIM_member_in_bunker_outside_Wounded_Knee_church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "aim_member_in_bunker_outside_wounded_knee_church.jpg",
+        "width": 692,
+        "height": 1024,
+        "title": "Wounded Knee Occupation",
+        "description": "1973 American Indian occupation protest",
+        "extract": "The Wounded Knee Occupation, also known as Second Wounded Knee, began on February 27, 1973, when approximately 200 Oglala Lakota and followers of the American Indian Movement (AIM) seized and occupied the town of Wounded Knee, South Dakota, United States, on the Pine Ridge Indian Reservation.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wounded_Knee_Occupation",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/AIM_member_in_bunker_outside_Wounded_Knee_church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/AIM_member_in_bunker_outside_Wounded_Knee_church.jpg/330px-AIM_member_in_bunker_outside_Wounded_Knee_church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aim_member_in_bunker_outside_wounded_knee_church.jpg",
+          "width": 692,
+          "height": 1024,
+          "title": "Wounded Knee Occupation",
+          "description": "1973 American Indian occupation protest",
+          "extract": "The Wounded Knee Occupation, also known as Second Wounded Knee, began on February 27, 1973, when approximately 200 Oglala Lakota and followers of the American Indian Movement (AIM) seized and occupied the town of Wounded Knee, South Dakota, United States, on the Pine Ridge Indian Reservation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wounded_Knee_Occupation",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wounded_Knee_Cemetery.jpg/500px-Wounded_Knee_Cemetery.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wounded_Knee_Cemetery.jpg/500px-Wounded_Knee_Cemetery.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "wounded_knee_cemetery.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The Archway leading to the Wounded Knee cemetery",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wounded_Knee_Occupation",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wounded_Knee_stairs.jpg/500px-Wounded_Knee_stairs.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wounded_Knee_stairs.jpg/500px-Wounded_Knee_stairs.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "wounded_knee_stairs.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Stairs leading to Wounded Knee church building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wounded_Knee_Occupation",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Wounded Knee Occupation",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Wounded_Knee_Occupation",
+      "relatedPagesCount": 3
+    }
+  ]
+}

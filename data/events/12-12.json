@@ -1,0 +1,607 @@
+{
+  "date": {
+    "month": 12,
+    "day": 12,
+    "formatted": "12-12"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "12-12-2021-269e1373",
+      "year": 2021,
+      "text": "Dutch Formula One racing driver Max Verstappen wins the controversial 2021 Abu Dhabi Grand Prix, beating seven-time World Champion Lewis Hamilton to become the first Formula One World Champion to come from the Netherlands.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/2010_Malaysian_GP_opening_lap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2010_Malaysian_GP_opening_lap.jpg/330px-2010_Malaysian_GP_opening_lap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2010_malaysian_gp_opening_lap.jpg",
+        "width": 3200,
+        "height": 1530,
+        "title": "Formula One",
+        "description": "Motorsport championship held worldwide",
+        "extract": "Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars run by the Formula One Group and sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in 1950 and is often considered to be the pinnacle of motorsport. The word formula in the name refers to the set of rules all participant cars must follow. A Formula One season consists of a series of races, known as Grands Prix. Grands Prix take place in multiple countries and continents on either purpose-built circuits or closed roads, as street circuits.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Formula_One",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/2010_Malaysian_GP_opening_lap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2010_Malaysian_GP_opening_lap.jpg/330px-2010_Malaysian_GP_opening_lap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2010_malaysian_gp_opening_lap.jpg",
+          "width": 3200,
+          "height": 1530,
+          "title": "Formula One",
+          "description": "Motorsport championship held worldwide",
+          "extract": "Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars run by the Formula One Group and sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in 1950 and is often considered to be the pinnacle of motorsport. The word formula in the name refers to the set of rules all participant cars must follow. A Formula One season consists of a series of races, known as Grands Prix. Grands Prix take place in multiple countries and continents on either purpose-built circuits or closed roads, as street circuits.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Formula_One",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg/330px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2024-08-25_motorsport,_formel_1,_großer_preis_der_niederlande_2024_stp_3973_by_stepro_(medium_crop).jpg",
+          "width": 1728,
+          "height": 2282,
+          "title": "Max Verstappen",
+          "description": "Dutch and Belgian racing driver (born 1997)",
+          "extract": "Max Emilian Verstappen is a Dutch and Belgian racing driver who competes under the Dutch flag in Formula One for Red Bull Racing. Verstappen has won four Formula One World Drivers' Championship titles, which he won consecutively from 2021 to 2024 with Red Bull, and has won 71 Grands Prix across 12 seasons.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Max_Verstappen",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Yas_Marina_Circuit.png/3840px-Yas_Marina_Circuit.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Yas_Marina_Circuit.png/330px-Yas_Marina_Circuit.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "yas_marina_circuit.png",
+          "width": 13348,
+          "height": 7367,
+          "title": "2021 Abu Dhabi Grand Prix",
+          "description": "Final round of the 2021 Formula One season",
+          "extract": "The 2021 Abu Dhabi Grand Prix was a Formula One motor race held on 12 December 2021 at the Yas Marina Circuit in Abu Dhabi, United Arab Emirates and the 13th edition of the Abu Dhabi Grand Prix. Contested over 58 laps, it was the twenty-second and final round of the 2021 Formula One World Championship. The race decided both the Drivers' and Constructors' championships; Max Verstappen of the Red Bull Racing team and Lewis Hamilton of the Mercedes-AMG Petronas team both entered the race on 369.5 points, with Verstappen clinching his maiden Drivers' title while Mercedes-AMG Petronas won a record-breaking eighth consecutive Constructors' championship.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Formula One",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Formula_One",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "12-12-1939-3ddd58a6",
+      "year": 1939,
+      "text": "The Royal Navy destroyer HMS Duchess (pictured) collided with HMS Barham, the battleship she was escorting, and Duchess sank with heavy loss of life.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HMS_Duchess.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HMS_Duchess.jpg/330px-HMS_Duchess.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hms_duchess.jpg",
+        "width": 1283,
+        "height": 941,
+        "title": "HMS Duchess (H64)",
+        "description": "British D-class destroyer",
+        "extract": "HMS Duchess was a D-class destroyer built for the Royal Navy in the early 1930s. The ship was initially assigned to the Mediterranean Fleet before she was transferred to the China Station in early 1935. She was temporarily deployed in the Red Sea during late 1935 during the Abyssinia Crisis, before returning to her duty station where she remained until mid-1939. Duchess was transferred back to the Mediterranean Fleet just before the Second World War began in September 1939. While escorting the battleship HMS Barham back to the British Isles, she was accidentally rammed by the battleship in thick fog and sank with heavy loss of life on 12 December 1939.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/HMS_Duchess_(H64)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HMS_Duchess.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HMS_Duchess.jpg/330px-HMS_Duchess.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hms_duchess.jpg",
+          "width": 1283,
+          "height": 941,
+          "title": "HMS Duchess (H64)",
+          "description": "British D-class destroyer",
+          "extract": "HMS Duchess was a D-class destroyer built for the Royal Navy in the early 1930s. The ship was initially assigned to the Mediterranean Fleet before she was transferred to the China Station in early 1935. She was temporarily deployed in the Red Sea during late 1935 during the Abyssinia Crisis, before returning to her duty station where she remained until mid-1939. Duchess was transferred back to the Mediterranean Fleet just before the Second World War began in September 1939. While escorting the battleship HMS Barham back to the British Isles, she was accidentally rammed by the battleship in thick fog and sank with heavy loss of life on 12 December 1939.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/HMS_Duchess_(H64)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HMS_Barham_%281914%29.jpg/3840px-HMS_Barham_%281914%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HMS_Barham_%281914%29.jpg/330px-HMS_Barham_%281914%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hms_barham_(1914).jpg",
+          "width": 5707,
+          "height": 2866,
+          "title": "HMS Barham (04)",
+          "description": "Queen Elizabeth-class battleship",
+          "extract": "HMS Barham was one of five Queen Elizabeth-class battleships built for the Royal Navy during the early 1910s. Completed in 1915, she was often used as a flagship and participated in the Battle of Jutland during the First World War as part of the Grand Fleet. For the rest of the war, except for the inconclusive action of 19 August 1916, her service generally consisted of routine patrols and training in the North Sea.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/HMS_Barham_(04)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Royal Navy",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Royal_Navy",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-12-2024-afc9e672",
+      "year": 2024,
+      "text": "Indian Grandmaster Gukesh Dommaraju became the undisputed World Chess Champion in a tournament held in Singapore, making him the 18th and the youngest champion in chess history.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gukesh_in_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gukesh_in_2025_%28cropped%29.jpg/330px-Gukesh_in_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gukesh_in_2025_(cropped).jpg",
+        "width": 980,
+        "height": 1400,
+        "title": "Gukesh Dommaraju",
+        "description": "Indian chess grandmaster (born 2006)",
+        "extract": "Gukesh Dommaraju is an Indian chess grandmaster and the reigning World Chess Champion. A chess prodigy, Gukesh is the youngest undisputed World Champion; the youngest player to have surpassed a FIDE rating of 2750, doing so at the age of 17; and the third-youngest to have surpassed 2700 Elo at age 16. He earned the title of grandmaster at age 12 and is the fourth-youngest grandmaster in chess history.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gukesh_Dommaraju",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gukesh_in_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gukesh_in_2025_%28cropped%29.jpg/330px-Gukesh_in_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gukesh_in_2025_(cropped).jpg",
+          "width": 980,
+          "height": 1400,
+          "title": "Gukesh Dommaraju",
+          "description": "Indian chess grandmaster (born 2006)",
+          "extract": "Gukesh Dommaraju is an Indian chess grandmaster and the reigning World Chess Champion. A chess prodigy, Gukesh is the youngest undisputed World Champion; the youngest player to have surpassed a FIDE rating of 2750, doing so at the age of 17; and the third-youngest to have surpassed 2700 Elo at age 16. He earned the title of grandmaster at age 12 and is the fourth-youngest grandmaster in chess history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gukesh_Dommaraju",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Ding_Liren_in_2023_%2852638329254%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ding_Liren_in_2023_%2852638329254%29.jpg/330px-Ding_Liren_in_2023_%2852638329254%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ding_liren_in_2023_(52638329254).jpg",
+          "width": 1400,
+          "height": 2100,
+          "title": "World Chess Championship 2024",
+          "description": "Chess match between Ding Liren and Gukesh Dommaraju",
+          "extract": "The World Chess Championship 2024 was a chess match between the reigning world champion Ding Liren and the challenger Gukesh Dommaraju to determine the World Chess Champion. The match took place between 25 November and 12 December 2024 in Singapore. It was played to a best of 14 games, with tiebreaks if required. The match was won by Gukesh 7½–6½ after 14 games. The win made Gukesh, at age 18, the youngest undisputed open-category world champion.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_Chess_Championship_2024",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Fairbanks_Chaplin_Reshevsky_1921.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Fairbanks_Chaplin_Reshevsky_1921.jpg/330px-Fairbanks_Chaplin_Reshevsky_1921.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fairbanks_chaplin_reshevsky_1921.jpg",
+          "width": 2674,
+          "height": 1942,
+          "title": "Chess prodigy",
+          "description": "Young child with an aptitude for the game of chess",
+          "extract": "A chess prodigy is a young child who possesses an aptitude for chess that far exceeds what might be expected at their age. Their prodigious talent will often enable them to defeat experienced adult players and even titled chess masters. Some chess prodigies have progressed to become grandmasters or even World Chess Champions.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chess_prodigy",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Grandmaster (chess)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Grandmaster_(chess)",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "12-12-2012-375c7374",
+      "year": 2012,
+      "text": "North Korea successfully launches its first satellite, Kwangmyŏngsŏng-3 Unit 2.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sputnik_asm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sputnik_asm.jpg/330px-Sputnik_asm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sputnik_asm.jpg",
+        "width": 1094,
+        "height": 896,
+        "title": "Timeline of first orbital launches by country",
+        "description": "",
+        "extract": "This is a timeline of first orbital launches by country. While a number of countries, incl. Canada, Australia, Germany, Brazil, Algeria, Kazakhstan, Turkey, Argentina, Italy, Indonesia, Poland, South Africa, the Philippines, Egypt, Spain, Mexico, Thailand and Chile, have built or launched satellites, as of 2025, thirteen countries, incl. the United States, Japan, China, India, Iran, Israel, France, the United Kingdom, South Korea and India have had the capability to send objects into orbit with their own launch vehicles. Russia and Ukraine inherited the capability of the space launchers and satellites from the Soviet Union, following its dissolution in 1991. Russia launches its rockets from its own and foreign (Kazakh) spaceports.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Timeline_of_first_orbital_launches_by_country",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sputnik_asm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sputnik_asm.jpg/330px-Sputnik_asm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sputnik_asm.jpg",
+          "width": 1094,
+          "height": 896,
+          "title": "Timeline of first orbital launches by country",
+          "description": "",
+          "extract": "This is a timeline of first orbital launches by country. While a number of countries, incl. Canada, Australia, Germany, Brazil, Algeria, Kazakhstan, Turkey, Argentina, Italy, Indonesia, Poland, South Africa, the Philippines, Egypt, Spain, Mexico, Thailand and Chile, have built or launched satellites, as of 2025, thirteen countries, incl. the United States, Japan, China, India, Iran, Israel, France, the United Kingdom, South Korea and India have had the capability to send objects into orbit with their own launch vehicles. Russia and Ukraine inherited the capability of the space launchers and satellites from the Soviet Union, following its dissolution in 1991. Russia launches its rockets from its own and foreign (Kazakh) spaceports.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Timeline_of_first_orbital_launches_by_country",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/History_of_Korea-476.PNG/500px-History_of_Korea-476.PNG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/History_of_Korea-476.PNG/500px-History_of_Korea-476.PNG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "history_of_korea-476.png",
+          "width": 800,
+          "height": 600,
+          "title": "The name Korea is derived from Goguryeo, also known as Koryŏ, one of the Three Kingdoms of Korea.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/North_Korea",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "North Korea",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/North_Korea",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-12-1388-5006a816",
+      "year": 1388,
+      "text": "Unable to defend her possessions, Maria of Enghien sold the lordship of Argos and Nauplia to the Republic of Venice.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Mary_of_Enghien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mary_of_Enghien.jpg/330px-Mary_of_Enghien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mary_of_enghien.jpg",
+        "width": 1411,
+        "height": 2317,
+        "title": "Mary of Enghien",
+        "description": "Countess of Lecce",
+        "extract": "Mary of Enghien, also known as Maria d'Enghien, was ruling Countess of Lecce from 1384 to 1446 and Queen of Naples and titular Queen of Sicily, Jerusalem and Hungary from 1406 to 1414 by marriage to Ladislaus of Naples.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary_of_Enghien",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Mary_of_Enghien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mary_of_Enghien.jpg/330px-Mary_of_Enghien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mary_of_enghien.jpg",
+          "width": 1411,
+          "height": 2317,
+          "title": "Mary of Enghien",
+          "description": "Countess of Lecce",
+          "extract": "Mary of Enghien, also known as Maria d'Enghien, was ruling Countess of Lecce from 1384 to 1446 and Queen of Naples and titular Queen of Sicily, Jerusalem and Hungary from 1406 to 1414 by marriage to Ladislaus of Naples.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mary_of_Enghien",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Mary of Enghien",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mary_of_Enghien",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-12-2015-71b9839e",
+      "year": 2015,
+      "text": "The Paris Agreement relating to United Nations Framework Convention on Climate Change is adopted.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg/330px-Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "living_laudato_si'_philippines_intervention_at_cop27_catholic_actors_meeting_with_the_holy_see_delegation.jpg",
+        "width": 1600,
+        "height": 1200,
+        "title": "United Nations Framework Convention on Climate Change",
+        "description": "International environmental treaty",
+        "extract": "The United Nations Framework Convention on Climate Change (UNFCCC) is the UN process for negotiating an agreement to limit dangerous climate change. It is an international treaty among countries to combat \"dangerous human interference with the climate system\". The main way to do this is limiting the increase in greenhouse gases in the atmosphere. The Convention established the principle of \"common but differentiated responsibilities,\" which asserts that all countries share responsibility for addressing climate change. However, developed countries are expected to assume a leading role because of their greater historical emissions. It was signed in 1992 by 154 states at the UN Conference on Environment and Development (UNCED), known as the Earth Summit. The treaty entered into force in 1994. \"UNFCCC\" is also the name of the Secretariat charged with supporting the operation of the convention, with offices on the UN Campus in Bonn, Germany.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg/330px-Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "living_laudato_si'_philippines_intervention_at_cop27_catholic_actors_meeting_with_the_holy_see_delegation.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": "United Nations Framework Convention on Climate Change",
+          "description": "International environmental treaty",
+          "extract": "The United Nations Framework Convention on Climate Change (UNFCCC) is the UN process for negotiating an agreement to limit dangerous climate change. It is an international treaty among countries to combat \"dangerous human interference with the climate system\". The main way to do this is limiting the increase in greenhouse gases in the atmosphere. The Convention established the principle of \"common but differentiated responsibilities,\" which asserts that all countries share responsibility for addressing climate change. However, developed countries are expected to assume a leading role because of their greater historical emissions. It was signed in 1992 by 154 states at the UN Conference on Environment and Development (UNCED), known as the Earth Summit. The treaty entered into force in 1994. \"UNFCCC\" is also the name of the Secretariat charged with supporting the operation of the convention, with offices on the UN Campus in Bonn, Germany.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/COP21_participants_-_30_Nov_2015_%2823430273715%29.jpg/1280px-COP21_participants_-_30_Nov_2015_%2823430273715%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/COP21_participants_-_30_Nov_2015_%2823430273715%29.jpg/1280px-COP21_participants_-_30_Nov_2015_%2823430273715%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "gustavo-camacho-gonzalez-l1060274_(23430273715).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Heads of delegations at the 2015 United Nations Climate Change Conference in Paris",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Paris_Agreement",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Paris Agreement",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Paris_Agreement",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-12-1988-9c9e91e7",
+      "year": 1988,
+      "text": "The Clapham Junction rail crash kills thirty-five and injures hundreds after two collisions of three commuter trains—one of the worst train crashes in the United Kingdom.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Clapham_Junction_1988_incident_2_geograph-3149688-by-Ben-Brooksbank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Clapham_Junction_1988_incident_2_geograph-3149688-by-Ben-Brooksbank.jpg/330px-Clapham_Junction_1988_incident_2_geograph-3149688-by-Ben-Brooksbank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "clapham_junction_1988_incident_2_geograph-3149688-by-ben-brooksbank.jpg",
+        "width": 1920,
+        "height": 1440,
+        "title": "Clapham Junction rail crash",
+        "description": "1988 rail crash in London",
+        "extract": "The Clapham Junction rail crash occurred on the morning of 12 December 1988, when a crowded British Rail passenger train crashed into the rear of another train that had stopped at a signal just south of Clapham Junction railway station in London, England, and subsequently sideswiped an empty train travelling in the opposite direction. A total of 35 people died in the collision, while 484 were injured.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Clapham_Junction_rail_crash",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Clapham_Junction_1988_incident_2_geograph-3149688-by-Ben-Brooksbank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Clapham_Junction_1988_incident_2_geograph-3149688-by-Ben-Brooksbank.jpg/330px-Clapham_Junction_1988_incident_2_geograph-3149688-by-Ben-Brooksbank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "clapham_junction_1988_incident_2_geograph-3149688-by-ben-brooksbank.jpg",
+          "width": 1920,
+          "height": 1440,
+          "title": "Clapham Junction rail crash",
+          "description": "1988 rail crash in London",
+          "extract": "The Clapham Junction rail crash occurred on the morning of 12 December 1988, when a crowded British Rail passenger train crashed into the rear of another train that had stopped at a signal just south of Clapham Junction railway station in London, England, and subsequently sideswiped an empty train travelling in the opposite direction. A total of 35 people died in the collision, while 484 were injured.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Clapham_Junction_rail_crash",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Clapham Junction rail crash",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Clapham_Junction_rail_crash",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "12-12-1985-abb5d15f",
+      "year": 1985,
+      "text": "Arrow Air Flight 1285R, a McDonnell Douglas DC-8, crashes after takeoff in Gander, Newfoundland, killing all 256 people on board, including 236 members of the United States Army's 101st Airborne Division.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Wreckage_from_Arrow_Air_Flight_1285_in_storage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Wreckage_from_Arrow_Air_Flight_1285_in_storage.jpg/330px-Wreckage_from_Arrow_Air_Flight_1285_in_storage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "wreckage_from_arrow_air_flight_1285_in_storage.jpg",
+        "width": 2199,
+        "height": 1900,
+        "title": "Arrow Air Flight 1285R",
+        "description": "1985 aviation accident in Canada",
+        "extract": "Arrow Air Flight 1285R was an international charter flight carrying U.S. Army personnel from Cairo, Egypt, to their home base in Fort Campbell, Kentucky, US, via Cologne, West Germany, and Gander, Newfoundland. On the morning of Thursday, 12 December 1985, shortly after takeoff from Canada's Gander International Airport en route to Fort Campbell, the Douglas DC-8 serving the flight stalled, crashed, and burned about half a mile from the runway, killing all 248 passengers and 8 crew members on board. As of 2026, it is the deadliest aviation accident to occur on Canadian soil. At the time of the crash, it was the deadliest aviation accident involving a DC-8; its death toll was surpassed by the crash of Nigeria Airways Flight 2120 nearly six years later.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Arrow_Air_Flight_1285R",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Wreckage_from_Arrow_Air_Flight_1285_in_storage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Wreckage_from_Arrow_Air_Flight_1285_in_storage.jpg/330px-Wreckage_from_Arrow_Air_Flight_1285_in_storage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wreckage_from_arrow_air_flight_1285_in_storage.jpg",
+          "width": 2199,
+          "height": 1900,
+          "title": "Arrow Air Flight 1285R",
+          "description": "1985 aviation accident in Canada",
+          "extract": "Arrow Air Flight 1285R was an international charter flight carrying U.S. Army personnel from Cairo, Egypt, to their home base in Fort Campbell, Kentucky, US, via Cologne, West Germany, and Gander, Newfoundland. On the morning of Thursday, 12 December 1985, shortly after takeoff from Canada's Gander International Airport en route to Fort Campbell, the Douglas DC-8 serving the flight stalled, crashed, and burned about half a mile from the runway, killing all 248 passengers and 8 crew members on board. As of 2026, it is the deadliest aviation accident to occur on Canadian soil. At the time of the crash, it was the deadliest aviation accident involving a DC-8; its death toll was surpassed by the crash of Nigeria Airways Flight 2120 nearly six years later.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Arrow_Air_Flight_1285R",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/DC-8_Airborne_Laboratory_in_flight_over_snow-capped_Sierra_Nevada_mountain_range.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/DC-8_Airborne_Laboratory_in_flight_over_snow-capped_Sierra_Nevada_mountain_range.jpg/330px-DC-8_Airborne_Laboratory_in_flight_over_snow-capped_Sierra_Nevada_mountain_range.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dc-8_airborne_laboratory_in_flight_over_snow-capped_sierra_nevada_mountain_range.jpg",
+          "width": 3039,
+          "height": 2430,
+          "title": "Douglas DC-8",
+          "description": "American four-engined jet airliner family",
+          "extract": "The Douglas DC-8 is an early long-range narrow-body jetliner designed and produced by the American Douglas Aircraft Company. Work began in 1952 toward the United States Air Force's (USAF) requirement for a jet-powered aerial refueling tanker. After losing the USAF's tanker competition to the rival Boeing KC-135 Stratotanker in May 1954, Douglas announced in June 1955 its derived jetliner project marketed to civil operators. In October 1955, Pan Am made the first order along with the competing Boeing 707, and many other airlines soon followed. The first DC-8 was rolled out in Long Beach Airport on April 9, 1958, and flew for the first time on May 30. Following Federal Aviation Administration (FAA) certification in August 1959, the DC-8 entered service with Delta Air Lines on September 18.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Douglas_DC-8",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Landing_in_Gander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Landing_in_Gander.jpg/330px-Landing_in_Gander.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "landing_in_gander.jpg",
+          "width": 3833,
+          "height": 2738,
+          "title": "Gander, Newfoundland and Labrador",
+          "description": "Town in Newfoundland and Labrador, Canada",
+          "extract": "Gander is a town located in the northeastern part of the island of Newfoundland in the Canadian province of Newfoundland and Labrador, approximately 40 km (25 mi) south of Gander Bay, 100 km (62 mi) south of Twillingate and 90 km (56 mi) east of Grand Falls-Windsor. Located on the northeastern shore of Gander Lake, it is the site of Gander International Airport, once an important refuelling stop for transatlantic aircraft. The airport is still a preferred emergency landing point for aircraft facing on-board medical or security issues.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gander%2C_Newfoundland_and_Labrador",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Arrow Air Flight 1285R",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Arrow_Air_Flight_1285R",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "12-12-1936-6edc6cac",
+      "year": 1936,
+      "text": "Republic of China leader Chiang Kai-shek was kidnapped by Marshal Chang Hsueh-liang, a former warlord of Manchuria.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png/330px-%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "蔣中正總統玉照.png",
+        "width": 1110,
+        "height": 1501,
+        "title": "Chiang Kai-shek",
+        "description": "Leader of the Republic of China from 1928 to 1975",
+        "extract": "Chiang Kai-shek was a Chinese military commander, revolutionary, and statesman who was the President of the Republic of China from 1948 to 1975 and the head of the Nationalist government from 1925 to 1948. As the de facto leader of the Republic of China (ROC), he ruled the country through World War II and oversaw the relocation of its government to Taiwan following defeat in the Chinese Civil War.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Chiang_Kai-shek",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png/330px-%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "蔣中正總統玉照.png",
+          "width": 1110,
+          "height": 1501,
+          "title": "Chiang Kai-shek",
+          "description": "Leader of the Republic of China from 1928 to 1975",
+          "extract": "Chiang Kai-shek was a Chinese military commander, revolutionary, and statesman who was the President of the Republic of China from 1948 to 1975 and the head of the Nationalist government from 1925 to 1948. As the de facto leader of the Republic of China (ROC), he ruled the country through World War II and oversaw the relocation of its government to Taiwan following defeat in the Chinese Civil War.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chiang_Kai-shek",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Zhang_Xueliang%2C_Yang_Hucheng_and_Chiang_Kai-shek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Zhang_Xueliang%2C_Yang_Hucheng_and_Chiang_Kai-shek.jpg/330px-Zhang_Xueliang%2C_Yang_Hucheng_and_Chiang_Kai-shek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "zhang_xueliang,_yang_hucheng_and_chiang_kai-shek.jpg",
+          "width": 900,
+          "height": 548,
+          "title": "Xi'an Incident",
+          "description": "1936 political crisis in China",
+          "extract": "The Xi'an Incident was a Chinese political crisis that lasted from 12 to 26 December 1936. Generals Zhang Xueliang and Yang Hucheng seized Chiang Kai-shek in Xi'an, demanding the Nationalist government end the Chinese Civil War and ally with the Chinese Communist Party (CCP) against Japanese expansionism, resulting in the Second United Front.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Xi'an_Incident",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Chang_Shueliang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Chang_Shueliang.jpg/330px-Chang_Shueliang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chang_shueliang.jpg",
+          "width": 355,
+          "height": 457,
+          "title": "Zhang Xueliang",
+          "description": "Chinese general and warlord (1901–2001)",
+          "extract": "Zhang Xueliang, also known by the epithet \"Young Marshal\" in contrast to his father \"Old Marshal\" Zhang Zuolin, was a Chinese general. He is best known for his role in the Xi'an Incident in 1936, in which he arrested Chiang Kai-shek and forced him to form a Second United Front with the Chinese Communist Party against the Japanese.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Zhang_Xueliang",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Republic of China (1912–1949)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Republic_of_China_(1912%E2%80%931949)",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "12-12-1969-a8e4171a",
+      "year": 1969,
+      "text": "The Piazza Fontana bombing; a bomb explodes at the headquarters of Banca Nazionale dell'Agricoltura (the National Agricultural Bank) in Piazza Fontana in Milan, Italy, killing 17 people and wounding 88. The same afternoon, three more bombs are detonated in Rome and Milan, and another is found unexploded.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 55,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Milano_-_Piazza_Fontana_-_Banca_Nazionale_dell%27Agricoltura.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Milano_-_Piazza_Fontana_-_Banca_Nazionale_dell%27Agricoltura.jpg/330px-Milano_-_Piazza_Fontana_-_Banca_Nazionale_dell%27Agricoltura.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "milano_-_piazza_fontana_-_banca_nazionale_dell'agricoltura.jpg",
+        "width": 1200,
+        "height": 900,
+        "title": "Piazza Fontana bombing",
+        "description": "Terrorist attack carried out in Milan in 1969",
+        "extract": "The Piazza Fontana bombing was a terrorist attack that occurred on 12 December 1969 when a bomb exploded at the headquarters of Banca Nazionale dell'Agricoltura in Piazza Fontana in Milan, Italy, killing 17 people and wounding 88. The same afternoon, another bomb exploded in a bank in Rome, and another was found unexploded in the Tomb of the Unknown Soldier. The attack was carried out by the neo-fascist paramilitary terrorist group Ordine Nuovo, and possibly undetermined collaborators.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Piazza_Fontana_bombing",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Milano_-_Piazza_Fontana_-_Banca_Nazionale_dell%27Agricoltura.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Milano_-_Piazza_Fontana_-_Banca_Nazionale_dell%27Agricoltura.jpg/330px-Milano_-_Piazza_Fontana_-_Banca_Nazionale_dell%27Agricoltura.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "milano_-_piazza_fontana_-_banca_nazionale_dell'agricoltura.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Piazza Fontana bombing",
+          "description": "Terrorist attack carried out in Milan in 1969",
+          "extract": "The Piazza Fontana bombing was a terrorist attack that occurred on 12 December 1969 when a bomb exploded at the headquarters of Banca Nazionale dell'Agricoltura in Piazza Fontana in Milan, Italy, killing 17 people and wounding 88. The same afternoon, another bomb exploded in a bank in Rome, and another was found unexploded in the Tomb of the Unknown Soldier. The attack was carried out by the neo-fascist paramilitary terrorist group Ordine Nuovo, and possibly undetermined collaborators.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Piazza_Fontana_bombing",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Giuseppe_Pinelli_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Giuseppe_Pinelli_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "giuseppe_pinelli_3.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Giuseppe Pinelli",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Piazza_Fontana_bombing",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Milano_-_Piazza_Fontana_-_Targa_Giuseppe_Pinelli_Comune.jpg/500px-Milano_-_Piazza_Fontana_-_Targa_Giuseppe_Pinelli_Comune.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Milano_-_Piazza_Fontana_-_Targa_Giuseppe_Pinelli_Comune.jpg/500px-Milano_-_Piazza_Fontana_-_Targa_Giuseppe_Pinelli_Comune.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "milano_-_piazza_fontana_-_targa_giuseppe_pinelli_comune.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Plaque in memory of the anarchist Giuseppe Pinelli",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Piazza_Fontana_bombing",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Piazza Fontana bombing",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Piazza_Fontana_bombing",
+      "relatedPagesCount": 2
+    }
+  ]
+}

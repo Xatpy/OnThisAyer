@@ -1,0 +1,643 @@
+{
+  "date": {
+    "month": 11,
+    "day": 4,
+    "formatted": "11-04"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "11-04-2015-4c7f56b1",
+      "year": 2015,
+      "text": "A building collapses in the Pakistani city of Lahore resulting in at least 45 deaths and at least 100 injuries.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lahore_Fort_view_from_Baradari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lahore_Fort_view_from_Baradari.jpg/330px-Lahore_Fort_view_from_Baradari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "lahore_fort_view_from_baradari.jpg",
+        "width": 1626,
+        "height": 1191,
+        "title": "Lahore",
+        "description": "Capital of Punjab, Pakistan",
+        "extract": "Lahore is the capital and largest city of the Pakistani province of Punjab. It is the second-largest city in Pakistan, after Karachi, and 27th largest in the world, with a population of over 14 million. Lahore is one of Pakistan's major industrial, educational and economic hubs. It has been the historic capital and cultural centre of the wider Punjab region, and is a major socially liberal, progressive, and cosmopolitan city in the country.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lahore",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lahore_Fort_view_from_Baradari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Lahore_Fort_view_from_Baradari.jpg/330px-Lahore_Fort_view_from_Baradari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lahore_fort_view_from_baradari.jpg",
+          "width": 1626,
+          "height": 1191,
+          "title": "Lahore",
+          "description": "Capital of Punjab, Pakistan",
+          "extract": "Lahore is the capital and largest city of the Pakistani province of Punjab. It is the second-largest city in Pakistan, after Karachi, and 27th largest in the world, with a population of over 14 million. Lahore is one of Pakistan's major industrial, educational and economic hubs. It has been the historic capital and cultural centre of the wider Punjab region, and is a major socially liberal, progressive, and cosmopolitan city in the country.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lahore",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "2015 Lahore factory disaster",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2015_Lahore_factory_disaster",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-04-1980-1659747c",
+      "year": 1980,
+      "text": "Ronald Reagan is elected as the 40th President of the United States, defeating incumbent Jimmy Carter.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+        "width": 2399,
+        "height": 3000,
+        "title": "Ronald Reagan",
+        "description": "President of the United States from 1981 to 1989",
+        "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+          "width": 2399,
+          "height": 3000,
+          "title": "Ronald Reagan",
+          "description": "President of the United States from 1981 to 1989",
+          "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg/330px-Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jimmy_carter_official_portrait2_(3x4_cropped).jpg",
+          "width": 1528,
+          "height": 2027,
+          "title": "Jimmy Carter",
+          "description": "President of the United States from 1977 to 1981",
+          "extract": "James Earl Carter Jr. was an American politician and humanitarian who served as the 39th president of the United States from 1977 to 1981. A member of the Democratic Party, Carter served as the 76th governor of Georgia from 1971 to 1975 and in the Georgia State Senate from 1963 to 1967. He lived longer than any other president in U.S. history, reaching age 100.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_Ronald_Reagan_Neil_Reagan_Jack_Reagan_and_Nelle_Reagan_in_Galesburg_Illinois_-_DPLA_-_ea1ffc8ca600cce90c5b9f65eed472c2.jpg/1280px-Portrait_of_Ronald_Reagan_Neil_Reagan_Jack_Reagan_and_Nelle_Reagan_in_Galesburg_Illinois_-_DPLA_-_ea1ffc8ca600cce90c5b9f65eed472c2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_Ronald_Reagan_Neil_Reagan_Jack_Reagan_and_Nelle_Reagan_in_Galesburg_Illinois_-_DPLA_-_ea1ffc8ca600cce90c5b9f65eed472c2.jpg/1280px-Portrait_of_Ronald_Reagan_Neil_Reagan_Jack_Reagan_and_Nelle_Reagan_in_Galesburg_Illinois_-_DPLA_-_ea1ffc8ca600cce90c5b9f65eed472c2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "portrait_of_ronald_reagan,_neil_reagan,_jack_reagan,_and_nelle_reagan_in_galesburg,_illinois.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "From left to right: Jack (father), Neil, Ronald, and Nelle (mother) (c. 1915)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Ronald Reagan",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-04-1501-9a54b8e2",
+      "year": 1501,
+      "text": "Catherine of Aragon (later Henry VIII's first wife) meets Arthur, Prince of Wales, Henry VIII's older brother – they would later marry.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Catherine_of_Aragon_%281485-1536%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Catherine_of_Aragon_%281485-1536%29.jpg/330px-Catherine_of_Aragon_%281485-1536%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "catherine_of_aragon_(1485-1536).jpg",
+        "width": 1856,
+        "height": 2200,
+        "title": "Catherine of Aragon",
+        "description": "Queen of England from 1509 to 1533",
+        "extract": "Catherine of Aragon was Queen of England as the first wife of Henry VIII from their marriage on 11 June 1509 until its annulment on 23 May 1533. She had previously been Princess of Wales as the wife of Henry's elder brother Arthur, Prince of Wales for a short time before his death.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Catherine_of_Aragon_%281485-1536%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Catherine_of_Aragon_%281485-1536%29.jpg/330px-Catherine_of_Aragon_%281485-1536%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "catherine_of_aragon_(1485-1536).jpg",
+          "width": 1856,
+          "height": 2200,
+          "title": "Catherine of Aragon",
+          "description": "Queen of England from 1509 to 1533",
+          "extract": "Catherine of Aragon was Queen of England as the first wife of Henry VIII from their marriage on 11 June 1509 until its annulment on 23 May 1533. She had previously been Princess of Wales as the wife of Henry's elder brother Arthur, Prince of Wales for a short time before his death.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg/330px-After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "after_hans_holbein_the_younger_-_portrait_of_henry_viii_-_google_art_project.jpg",
+          "width": 2040,
+          "height": 3588,
+          "title": "Henry VIII",
+          "description": "King of England from 1509 to 1547",
+          "extract": "Henry VIII was King of England and Ireland from 22 April 1509 until his death in 1547.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Anglo-Flemish_School%2C_Arthur%2C_Prince_of_Wales_%28Granard_portrait%29_-004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Anglo-Flemish_School%2C_Arthur%2C_Prince_of_Wales_%28Granard_portrait%29_-004_%28cropped%29.jpg/330px-Anglo-Flemish_School%2C_Arthur%2C_Prince_of_Wales_%28Granard_portrait%29_-004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anglo-flemish_school,_arthur,_prince_of_wales_(granard_portrait)_-004_(cropped).jpg",
+          "width": 372,
+          "height": 595,
+          "title": "Arthur, Prince of Wales",
+          "description": "Heir apparent of Henry VII of England (1486–1502)",
+          "extract": "Arthur, Prince of Wales, was the eldest son of King Henry VII of England and Elizabeth of York, and an older brother to the future King Henry VIII. He was Duke of Cornwall from birth, and he was created Prince of Wales and Earl of Chester in 1489. As the heir apparent of his father, Arthur was viewed by contemporaries as the great hope of the newly established House of Tudor. His mother was the daughter of the Yorkist king, Edward IV, and his birth cemented the union between the House of Lancaster and the House of York.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Arthur%2C_Prince_of_Wales",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Catherine of Aragon",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-04-1970-19b43eff",
+      "year": 1970,
+      "text": "Authorities in California discovered a 13-year-old feral child, pseudonymously known as Genie, who had spent nearly her entire life in social isolation.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mowgli-1895-illustration.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mowgli-1895-illustration.png/330px-Mowgli-1895-illustration.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mowgli-1895-illustration.png",
+        "width": 500,
+        "height": 752,
+        "title": "Feral child",
+        "description": "Child who has lived isolated from human contact from a young age",
+        "extract": "A feral child is a young individual who has lived isolated from human contact from a very young age, with little or no experience of human care, social behavior, or language. Such children lack the basics of primary and secondary socialization. The term is used to refer to children who have suffered severe abuse or trauma before being abandoned or running away. They are sometimes the subjects of folklore and legends, often portrayed as having been raised by animals. While there are many cases of children being found in proximity to wild animals, there are no eyewitness accounts of animals feeding human children.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Feral_child",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mowgli-1895-illustration.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mowgli-1895-illustration.png/330px-Mowgli-1895-illustration.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mowgli-1895-illustration.png",
+          "width": 500,
+          "height": 752,
+          "title": "Feral child",
+          "description": "Child who has lived isolated from human contact from a young age",
+          "extract": "A feral child is a young individual who has lived isolated from human contact from a very young age, with little or no experience of human care, social behavior, or language. Such children lack the basics of primary and secondary socialization. The term is used to refer to children who have suffered severe abuse or trauma before being abandoned or running away. They are sometimes the subjects of folklore and legends, often portrayed as having been raised by animals. While there are many cases of children being found in proximity to wild animals, there are no eyewitness accounts of animals feeding human children.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Feral_child",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Genie_immediately_after_rescue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Genie_immediately_after_rescue.jpg/330px-Genie_immediately_after_rescue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "genie_immediately_after_rescue.jpg",
+          "width": 620,
+          "height": 791,
+          "title": "Genie (feral child)",
+          "description": "American feral child (born 1957)",
+          "extract": "Genie is the pseudonym of an American feral child who was a victim of severe abuse, neglect, and social isolation. Her circumstances are prominently recorded in the annals of linguistics and abnormal child psychology. When she was approximately 20 months old, her father began keeping her in a locked room. During this period, he almost always strapped her to a child's toilet or bound her in a crib with her arms and legs immobilized, forbade anyone to interact with her, provided her with almost no stimulation of any kind, and left her severely malnourished. The extent of her isolation prevented her from being exposed to any significant amount of speech, and as a result she did not acquire language during her childhood. Her abuse came to the attention of Los Angeles County child welfare authorities in November 1970, when she was 13 years and 7 months old, after which she became a ward of the state of California.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Genie_(feral_child)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Feral child",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Feral_child",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-04-1962-ff4774bd",
+      "year": 1962,
+      "text": "The United States concludes Operation Fishbowl, its final above-ground nuclear weapons testing series, in anticipation of the 1963 Partial Nuclear Test Ban Treaty.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Castle_Bravo_nuclear_test_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Castle_Bravo_nuclear_test_%28cropped%29.jpg/330px-Castle_Bravo_nuclear_test_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "castle_bravo_nuclear_test_(cropped).jpg",
+        "width": 831,
+        "height": 623,
+        "title": "Nuclear weapons testing",
+        "description": "Controlled detonation of nuclear weapons for scientific or political purposes",
+        "extract": "Nuclear weapons tests are experiments carried out to determine the performance of nuclear weapons and the effects of their explosion. Over 2,000 nuclear weapons tests have been carried out since 1945. Nuclear testing is a sensitive political issue. Governments have often performed tests to signal strength. Because of their destruction and fallout, testing has seen opposition by civilians as well as governments, with international bans having been agreed on. Thousands of tests have been performed, with most in the second half of the 20th century.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nuclear_weapons_testing",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Castle_Bravo_nuclear_test_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Castle_Bravo_nuclear_test_%28cropped%29.jpg/330px-Castle_Bravo_nuclear_test_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "castle_bravo_nuclear_test_(cropped).jpg",
+          "width": 831,
+          "height": 623,
+          "title": "Nuclear weapons testing",
+          "description": "Controlled detonation of nuclear weapons for scientific or political purposes",
+          "extract": "Nuclear weapons tests are experiments carried out to determine the performance of nuclear weapons and the effects of their explosion. Over 2,000 nuclear weapons tests have been carried out since 1945. Nuclear testing is a sensitive political issue. Governments have often performed tests to signal strength. Because of their destruction and fallout, testing has seen opposition by civilians as well as governments, with international bans having been agreed on. Thousands of tests have been performed, with most in the second half of the 20th century.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nuclear_weapons_testing",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Fishbowlrockets.jpg/330px-Fishbowlrockets.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Fishbowlrockets.jpg/330px-Fishbowlrockets.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "fishbowlrockets.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Array of sounding rockets with instruments for making scientific measurements of high-altitude nuclear tests during liftoff preparations on Johnston Island.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Fishbowl",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pacific_Fishbowl.png/500px-Pacific_Fishbowl.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pacific_Fishbowl.png/500px-Pacific_Fishbowl.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "pacific_fishbowl.png",
+          "width": 800,
+          "height": 600,
+          "title": "The red burst southwest of Johnston Island indicates the typical detonation point for the Operation Fishbowl tests, and the blue round spot southeast of Fiji indicates the southern magnetic conjugate region where additional auroras were expected and were actually observed. The southern conjugate region is not directly south of the detonation point since the Earth's magnetic field lines do not run in a geographically north–south direction. Also, the magnetic equator of the Earth in this region is slightly to the south of the geographic equator. The detonation point and southern conjugate region were taken from Figure 3 of planning report ADA469481, which was originally a hand-drawn planning map for the Bluegill test.[6] The map shown here actually indicates the detonation point and southern conjugate point for Starfish Prime. The first Bluegill test failed, and the successful Bluegill Triple Prime test detonated at a point closer to Johnston Island.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Fishbowl",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Operation Fishbowl",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Operation_Fishbowl",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-04-2025-e5bdc132",
+      "year": 2025,
+      "text": "A UPS Airlines plane crashed in Louisville, Kentucky, killing at least twelve people.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/20250307_Boeing_747-8F_of_UPS_%28N617UP%29_on_final_approach_at_SYD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/20250307_Boeing_747-8F_of_UPS_%28N617UP%29_on_final_approach_at_SYD.jpg/330px-20250307_Boeing_747-8F_of_UPS_%28N617UP%29_on_final_approach_at_SYD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "20250307_boeing_747-8f_of_ups_(n617up)_on_final_approach_at_syd.jpg",
+        "width": 1800,
+        "height": 1202,
+        "title": "UPS Airlines",
+        "description": "Cargo airline based in the United States",
+        "extract": "UPS Airlines is a major American cargo airline based in Louisville, Kentucky. One of the largest cargo airlines worldwide in terms of freight volume flown, UPS Airlines flies to 815 destinations worldwide. It has been a wholly owned subsidiary of United Parcel Service since its launch in 1988.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/UPS_Airlines",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/20250307_Boeing_747-8F_of_UPS_%28N617UP%29_on_final_approach_at_SYD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/20250307_Boeing_747-8F_of_UPS_%28N617UP%29_on_final_approach_at_SYD.jpg/330px-20250307_Boeing_747-8F_of_UPS_%28N617UP%29_on_final_approach_at_SYD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "20250307_boeing_747-8f_of_ups_(n617up)_on_final_approach_at_syd.jpg",
+          "width": 1800,
+          "height": 1202,
+          "title": "UPS Airlines",
+          "description": "Cargo airline based in the United States",
+          "extract": "UPS Airlines is a major American cargo airline based in Louisville, Kentucky. One of the largest cargo airlines worldwide in terms of freight volume flown, UPS Airlines flies to 815 destinations worldwide. It has been a wholly owned subsidiary of United Parcel Service since its launch in 1988.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/UPS_Airlines",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/UPS_Airlines_Flight_2976_crash_site.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/UPS_Airlines_Flight_2976_crash_site.png/330px-UPS_Airlines_Flight_2976_crash_site.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ups_airlines_flight_2976_crash_site.png",
+          "width": 3024,
+          "height": 1682,
+          "title": "UPS Airlines Flight 2976",
+          "description": "2025 aviation accident in Louisville, Kentucky, US",
+          "extract": "UPS Airlines Flight 2976 was a scheduled domestic cargo flight in the United States from Louisville Muhammad Ali International Airport in Louisville, Kentucky, to Honolulu, Hawaii. On November 4, 2025, the McDonnell Douglas MD-11 operating the flight suffered a separation of its left engine during its takeoff roll and crashed into an industrial area seconds after liftoff from the runway, at about 5:13 p.m. local time (22:13 UTC). The crash killed all three crew members on board the aircraft, and twelve people on the ground, one of whom succumbed to their injuries on December 25.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/UPS_Airlines_Flight_2976",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Louisville_Skyline_2021_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Louisville_Skyline_2021_%283%29.jpg/330px-Louisville_Skyline_2021_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "louisville_skyline_2021_(3).jpg",
+          "width": 1415,
+          "height": 777,
+          "title": "Louisville, Kentucky",
+          "description": "Most populous city in Kentucky, United States",
+          "extract": "Louisville is the most populous city in the U.S. state of Kentucky, sixth-most populous city in the Southeast, and the 27th-most-populous city in the United States. By land area, it is the country's 24th-largest city; however, by population density, it is the 265th most dense city. Louisville is the historical county seat and, since 2003, the nominal seat of Jefferson County, on the Indiana state line.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Louisville%2C_Kentucky",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "UPS Airlines",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/UPS_Airlines",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-04-2020-ac0d321b",
+      "year": 2020,
+      "text": "The Tigray War begins with Tigrayan rebels launching attacks on Ethiopian command centers.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/VOA_Tigray_Children2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VOA_Tigray_Children2.jpg/330px-VOA_Tigray_Children2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "voa_tigray_children2.jpg",
+        "width": 2000,
+        "height": 1333,
+        "title": "Tigray war",
+        "description": "Armed conflict in Ethiopia (2020–2022)",
+        "extract": "The Tigray war, also referred to in some academic and policy sources as the northern Ethiopia conflict, was an armed conflict that lasted from 3 November 2020 to 3 November 2022. It was a civil war primarily fought in the Tigray Region of Ethiopia between forces allied with the Ethiopian federal government and Eritrea on one side, and the Tigray People's Liberation Front (TPLF) on the other.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tigray_war",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/VOA_Tigray_Children2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/VOA_Tigray_Children2.jpg/330px-VOA_Tigray_Children2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "voa_tigray_children2.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": "Tigray war",
+          "description": "Armed conflict in Ethiopia (2020–2022)",
+          "extract": "The Tigray war, also referred to in some academic and policy sources as the northern Ethiopia conflict, was an armed conflict that lasted from 3 November 2020 to 3 November 2022. It was a civil war primarily fought in the Tigray Region of Ethiopia between forces allied with the Ethiopian federal government and Eritrea on one side, and the Tigray People's Liberation Front (TPLF) on the other.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tigray_war",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Afar_Region_in_the_Tigray_War_%281%29.png/1280px-Afar_Region_in_the_Tigray_War_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Afar_Region_in_the_Tigray_War_%281%29.png/1280px-Afar_Region_in_the_Tigray_War_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "afar_region_in_the_tigray_war_(1).png",
+          "width": 800,
+          "height": 600,
+          "title": "Afar_Region_in_the_Tigray_War_(1)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tigray_war",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/VOA_Hawzen1.jpg/1280px-VOA_Hawzen1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/VOA_Hawzen1.jpg/1280px-VOA_Hawzen1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "voa_hawzen1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "VOA_Hawzen1",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tigray_war",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Tigray war",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Tigray_war",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-04-2016-6fc55e43",
+      "year": 2016,
+      "text": "The Paris Agreement, under the United Nations Framework Convention on Climate Change, came into effect.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg/330px-Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "living_laudato_si'_philippines_intervention_at_cop27_catholic_actors_meeting_with_the_holy_see_delegation.jpg",
+        "width": 1600,
+        "height": 1200,
+        "title": "United Nations Framework Convention on Climate Change",
+        "description": "International environmental treaty",
+        "extract": "The United Nations Framework Convention on Climate Change (UNFCCC) is the UN process for negotiating an agreement to limit dangerous climate change. It is an international treaty among countries to combat \"dangerous human interference with the climate system\". The main way to do this is limiting the increase in greenhouse gases in the atmosphere. The Convention established the principle of \"common but differentiated responsibilities,\" which asserts that all countries share responsibility for addressing climate change. However, developed countries are expected to assume a leading role because of their greater historical emissions. It was signed in 1992 by 154 states at the UN Conference on Environment and Development (UNCED), known as the Earth Summit. The treaty entered into force in 1994. \"UNFCCC\" is also the name of the Secretariat charged with supporting the operation of the convention, with offices on the UN Campus in Bonn, Germany.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg/330px-Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "living_laudato_si'_philippines_intervention_at_cop27_catholic_actors_meeting_with_the_holy_see_delegation.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": "United Nations Framework Convention on Climate Change",
+          "description": "International environmental treaty",
+          "extract": "The United Nations Framework Convention on Climate Change (UNFCCC) is the UN process for negotiating an agreement to limit dangerous climate change. It is an international treaty among countries to combat \"dangerous human interference with the climate system\". The main way to do this is limiting the increase in greenhouse gases in the atmosphere. The Convention established the principle of \"common but differentiated responsibilities,\" which asserts that all countries share responsibility for addressing climate change. However, developed countries are expected to assume a leading role because of their greater historical emissions. It was signed in 1992 by 154 states at the UN Conference on Environment and Development (UNCED), known as the Earth Summit. The treaty entered into force in 1994. \"UNFCCC\" is also the name of the Secretariat charged with supporting the operation of the convention, with offices on the UN Campus in Bonn, Germany.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/COP21_participants_-_30_Nov_2015_%2823430273715%29.jpg/1280px-COP21_participants_-_30_Nov_2015_%2823430273715%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/COP21_participants_-_30_Nov_2015_%2823430273715%29.jpg/1280px-COP21_participants_-_30_Nov_2015_%2823430273715%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "gustavo-camacho-gonzalez-l1060274_(23430273715).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Heads of delegations at the 2015 United Nations Climate Change Conference in Paris",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Paris_Agreement",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Paris Agreement",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Paris_Agreement",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-04-2010-a813221b",
+      "year": 2010,
+      "text": "In the first aviation incident involving an Airbus A380, Qantas Flight 32 suffered an uncontained engine failure and made an emergency landing at Changi Airport in Singapore with no casualties.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/DeltaCRJ900_main_body_crash_toronto.jpg/3840px-DeltaCRJ900_main_body_crash_toronto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/DeltaCRJ900_main_body_crash_toronto.jpg/330px-DeltaCRJ900_main_body_crash_toronto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "deltacrj900_main_body_crash_toronto.jpg",
+        "width": 6401,
+        "height": 3601,
+        "title": "Aviation accidents and incidents",
+        "description": "",
+        "extract": "An aviation accident is an event during aircraft operation that results in serious injury, death, or significant destruction. An aviation incident is any operating event that compromises safety but does not escalate into an aviation accident. Preventing both accidents and incidents is the primary goal of aviation safety.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Aviation_accidents_and_incidents",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/DeltaCRJ900_main_body_crash_toronto.jpg/3840px-DeltaCRJ900_main_body_crash_toronto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/DeltaCRJ900_main_body_crash_toronto.jpg/330px-DeltaCRJ900_main_body_crash_toronto.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "deltacrj900_main_body_crash_toronto.jpg",
+          "width": 6401,
+          "height": 3601,
+          "title": "Aviation accidents and incidents",
+          "description": "",
+          "extract": "An aviation accident is an event during aircraft operation that results in serious injury, death, or significant destruction. An aviation incident is any operating event that compromises safety but does not escalate into an aviation accident. Preventing both accidents and incidents is the primary goal of aviation safety.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Aviation_accidents_and_incidents",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg/330px-A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "a6-edy_a380_emirates_31_jan_2013_jfk_(8442269364)_(cropped).jpg",
+          "width": 1632,
+          "height": 1088,
+          "title": "Airbus A380",
+          "description": "European wide-body airliner",
+          "extract": "The Airbus A380 is a large wide-body airliner, developed and produced by Airbus from 2003 to 2021. It is the world's largest passenger airliner and the only full-length double-deck jet airliner.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Airbus_A380",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Qantas_Flight_32_engine_damage_-_4_Nov_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Qantas_Flight_32_engine_damage_-_4_Nov_2010.jpg/330px-Qantas_Flight_32_engine_damage_-_4_Nov_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "qantas_flight_32_engine_damage_-_4_nov_2010.jpg",
+          "width": 1122,
+          "height": 659,
+          "title": "Qantas Flight 32",
+          "description": "2010 aviation accident over Indonesia",
+          "extract": "Qantas Flight 32 was a regularly scheduled passenger flight from London to Sydney via Singapore. On 4 November 2010, the Airbus A380 operating the route suffered an uncontained failure in one of its four Rolls-Royce Trent 900 engines. The failure occurred over the Riau Islands, Indonesia, four minutes after takeoff from Singapore Changi Airport. After holding for almost two hours to assess the situation, the aircraft made a successful emergency landing at Changi. No injuries occurred to the passengers, crew, or people on the ground, despite debris from the aircraft falling onto houses in Batam.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Qantas_Flight_32",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Aviation accidents and incidents",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Aviation_accidents_and_incidents",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "11-04-2008-b8650461",
+      "year": 2008,
+      "text": "Barack Obama (pictured) became the first person of biracial or African-American descent to be elected President of the United States.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/330px-President_Barack_Obama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "president_barack_obama.jpg",
+        "width": 2687,
+        "height": 3356,
+        "title": "Barack Obama",
+        "description": "President of the United States from 2009 to 2017",
+        "extract": "Barack Hussein Obama II is an American politician who served as the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African American to serve as president. Obama represented Illinois in the United States Senate from 2005 to 2008 and served as an Illinois state senator from 1997 to 2004.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Barack_Obama",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/330px-President_Barack_Obama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "president_barack_obama.jpg",
+          "width": 2687,
+          "height": 3356,
+          "title": "Barack Obama",
+          "description": "President of the United States from 2009 to 2017",
+          "extract": "Barack Hussein Obama II is an American politician who served as the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African American to serve as president. Obama represented Illinois in the United States Senate from 2005 to 2008 and served as an Illinois state senator from 1997 to 2004.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Barack_Obama",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Obama_portrait_crop.jpg/1280px-Obama_portrait_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Obama_portrait_crop.jpg/1280px-Obama_portrait_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "obama_portrait_crop.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Obama_portrait_crop",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Barack_Obama",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Ann_Dunham_with_father_and_children.jpg/330px-Ann_Dunham_with_father_and_children.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Ann_Dunham_with_father_and_children.jpg/330px-Ann_Dunham_with_father_and_children.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "ann_dunham_with_father_and_children.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Obama (right) with grandfather Stanley Armour Dunham, mother Ann Dunham, and half-sister Maya Soetoro, mid-1970s in Honolulu",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Barack_Obama",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Barack Obama",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Barack_Obama",
+      "relatedPagesCount": 3
+    }
+  ]
+}

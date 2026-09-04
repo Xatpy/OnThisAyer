@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tal Día Como Hoy — Explorador & Curador de Efemérides para Ayer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Top Navbar -->
+  <header class="app-header">
+    <div class="header-left">
+      <div class="logo-badge">
+        <span class="logo-icon">✨</span>
+        <div class="logo-text">
+          <h1>Tal Día Como Hoy</h1>
+          <span class="logo-sub">Banco de Efemérides & Fotos para <a href="https://www.chapiware.com/ayer/" target="_blank">Ayer App</a></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Date Navigation -->
+    <div class="date-navigator">
+      <button id="prevDayBtn" class="nav-btn" title="Día anterior">‹</button>
+      <div class="date-display-box">
+        <span class="calendar-icon">📅</span>
+        <select id="monthSelect" class="date-select"></select>
+        <select id="daySelect" class="date-select"></select>
+        <button id="todayBtn" class="today-pill-btn">Hoy</button>
+      </div>
+      <button id="nextDayBtn" class="nav-btn" title="Día siguiente">›</button>
+    </div>
+
+    <div class="header-right">
+      <div class="stat-badge" id="statsBadge" title="Progreso del año">
+        <span class="stat-dot"></span>
+        <span id="statText">Cargando...</span>
+      </div>
+      <button id="refreshBtn" class="action-btn secondary" title="Volver a extraer desde Wikipedia">
+        <span class="icon">🔄</span> Re-extraer
+      </button>
+    </div>
+  </header>
+
+  <main class="app-container">
+
+    <!-- Top Curated Selection Section (Slot Machine / 3 Cards for Ayer) -->
+    <section class="curated-section">
+      <div class="curated-header">
+        <div class="curated-title-group">
+          <h2>📱 Selección para Ayer App <span class="curated-count" id="curatedCountBadge">0 / 3 seleccionados</span></h2>
+          <p class="curated-desc">Estos acontecimientos reales con fotos serán los que aparezcan en la captura y post del día.</p>
+        </div>
+        <div class="curated-actions">
+          <button id="previewMockupBtn" class="action-btn primary" title="Ver captura en pantalla de iPhone">
+            <span>📱</span> Generar Captura Ayer
+          </button>
+          <button id="autoPickBtn" class="action-btn secondary" title="Selecciona los 3 mejores años automáticamente">
+            <span>✨</span> Auto-Seleccionar
+          </button>
+          <button id="saveCuratedBtn" class="action-btn secondary">
+            <span>💾</span> Guardar Selección
+          </button>
+        </div>
+      </div>
+
+      <!-- Curated Slots -->
+      <div class="curated-slots-grid" id="curatedSlots">
+        <!-- Injected via JS -->
+      </div>
+
+      <!-- Social Media Viral Copy Generator Section -->
+      <div class="social-copy-section" id="socialCopySection">
+        <div class="social-copy-header">
+          <div class="social-copy-title">
+            <h3>✍️ Textos y Copys para Redes Sociales</h3>
+            <span class="social-copy-subtitle">Generados automáticamente para los 3 momentos seleccionados</span>
+          </div>
+          <div class="lang-copy-toggle">
+            <button class="lang-toggle-btn active" data-lang="en">🇺🇸 English</button>
+            <button class="lang-toggle-btn" data-lang="es">🇪🇸 Español</button>
+          </div>
+        </div>
+
+        <div class="social-cards-grid">
+          <!-- Twitter / X Card -->
+          <div class="social-card twitter-card">
+            <div class="social-card-head">
+              <div class="social-platform-badge">
+                <span class="platform-icon">𝕏</span>
+                <strong>Twitter / X</strong>
+              </div>
+              <div class="char-count-badge" id="twitterCharCount">0 / 280</div>
+            </div>
+            <textarea id="twitterCopyArea" class="copy-textarea" rows="5" placeholder="Elige 1 o más eventos para generar el copy..."></textarea>
+            <div class="social-card-foot">
+              <span class="foot-tip">Máx 280 caracteres • Directo al grano</span>
+              <button id="copyTwitterBtn" class="copy-btn twitter">📋 Copiar para 𝕏</button>
+            </div>
+          </div>
+
+          <!-- Instagram / Threads Card -->
+          <div class="social-card instagram-card">
+            <div class="social-card-head">
+              <div class="social-platform-badge">
+                <span class="platform-icon">📸</span>
+                <strong>Instagram & Threads</strong>
+              </div>
+              <div class="char-count-badge neutral">Formato completo</div>
+            </div>
+            <textarea id="instagramCopyArea" class="copy-textarea" rows="8" placeholder="Elige 1 o más eventos para generar el copy..."></textarea>
+            <div class="social-card-foot">
+              <span class="foot-tip">Con saltos de línea, llamada a la acción y hashtags</span>
+              <button id="copyInstagramBtn" class="copy-btn instagram">📋 Copiar para Instagram</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Filter & Search Toolbar -->
+    <section class="toolbar-section">
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="searchInput" placeholder="Buscar por palabra clave, año, protagonista...">
+      </div>
+
+      <div class="filters-group">
+        <!-- Category Filter -->
+        <div class="pill-filters" id="categoryFilters">
+          <button class="pill active" data-cat="all">Todos</button>
+          <button class="pill" data-cat="science_tech">🚀 Ciencia & Tech</button>
+          <button class="pill" data-cat="cinema_tv">🎬 Cine & TV</button>
+          <button class="pill" data-cat="music_art">🎵 Música & Arte</button>
+          <button class="pill" data-cat="sports">🏆 Deportes</button>
+          <button class="pill" data-cat="history">🏛️ Historia</button>
+        </div>
+
+        <div class="filter-toggles">
+          <label class="toggle-label">
+            <input type="checkbox" id="onlyPhotosToggle" checked>
+            <span>Solo con fotos HD</span>
+          </label>
+          <select id="sortSelect" class="sort-select">
+            <option value="quality">Mayor calidad visual</option>
+            <option value="recent">Más recientes primero</option>
+            <option value="oldest">Más antiguos primero</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <!-- Events Pool Section (Strict Top 10 Years) -->
+    <section class="events-pool-section">
+      <div class="pool-header">
+        <h3 id="eventsFoundCount">Top 10 Años Más Destacados del Día</h3>
+        <span class="pool-hint">Filtro estricto de los 10 mejores años con fotos HD. Elige tus 3 favoritos para Ayer.</span>
+      </div>
+
+      <div class="events-grid" id="eventsGrid">
+        <div class="loading-state">
+          <div class="spinner"></div>
+          <p>Cargando efemérides y fotos de Wikipedia...</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Lightbox Modal for HD Images -->
+  <div id="imageModal" class="modal-overlay hidden">
+    <div class="modal-content">
+      <button class="modal-close" id="modalCloseBtn">&times;</button>
+      <div class="modal-image-container">
+        <img id="modalImg" src="" alt="Vista previa">
+      </div>
+      <div class="modal-details">
+        <h4 id="modalTitle"></h4>
+        <p id="modalDesc"></p>
+        <a id="modalSourceLink" href="#" target="_blank" class="wiki-link">Ver en Wikimedia / Wikipedia ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mockup Preview Modal -->
+  <div class="modal-overlay hidden" id="mockupModal">
+    <div class="mockup-modal-content">
+      <button class="modal-close" id="mockupModalCloseBtn">&times;</button>
+      <div class="mockup-modal-header">
+        <div>
+          <h3>📱 Captura de Pantalla Oficial de Ayer</h3>
+          <p class="mockup-modal-sub">Diseño idéntico a la app en iOS con fotos reales del día</p>
+        </div>
+        <div class="mockup-modal-actions">
+          <a id="downloadMockupBtn" class="action-btn primary" href="#" download="ayer-screenshot.png">
+            <span>⬇️</span> Descargar Imagen HD (PNG)
+          </a>
+          <button id="openNewTabBtn" class="action-btn secondary">
+            <span>↗️</span> Abrir Plantilla
+          </button>
+        </div>
+      </div>
+      <div class="mockup-frame-container">
+        <iframe id="mockupIframe" class="mockup-iframe" src="about:blank"></iframe>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

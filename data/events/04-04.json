@@ -1,0 +1,667 @@
+{
+  "date": {
+    "month": 4,
+    "day": 4,
+    "formatted": "04-04"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "04-04-1997-6e50a941",
+      "year": 1997,
+      "text": "Space Shuttle program: Space Shuttle Columbia is launched on STS-83. However, the mission is later cut short due to a fuel cell problem.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+        "width": 868,
+        "height": 521,
+        "title": "Space Shuttle Columbia",
+        "description": "Space Shuttle orbiter (1981–2003)",
+        "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+          "width": 868,
+          "height": 521,
+          "title": "Space Shuttle Columbia",
+          "description": "Space Shuttle orbiter (1981–2003)",
+          "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/STS-83_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/STS-83_landing.jpg/330px-STS-83_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-83_landing.jpg",
+          "width": 3000,
+          "height": 1950,
+          "title": "STS-83",
+          "description": "Unsuccessful 1997 American crewed spaceflight",
+          "extract": "STS-83 was a NASA Space Shuttle mission flown by Columbia. It was a science research mission that achieved orbit successfully, but the planned duration was a failure due to a technical problem with a fuel cell that resulted in the abort of the 15 day duration. Columbia returned to Earth just shy of four days. The mission was re-flown as STS-94 with the same crew later that year.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-83",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/566175main_columbia-opf.jpg/1280px-566175main_columbia-opf.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/566175main_columbia-opf.jpg/1280px-566175main_columbia-opf.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "566175main_columbia-opf.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Columbia in the Orbiter Processing Facility after delivery to Kennedy Space Center in 1979. About 8,000 of 30,000 tiles had not yet been installed.[7]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Columbia",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-04-1996-81dedd1b",
+      "year": 1996,
+      "text": "Comet Hyakutake is imaged by the USA Asteroid Orbiter Near Earth Asteroid Rendezvous.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Hyakutake_Color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hyakutake_Color.jpg/330px-Hyakutake_Color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hyakutake_color.jpg",
+        "width": 1500,
+        "height": 1125,
+        "title": "Comet Hyakutake",
+        "description": "Great Comet of 1996",
+        "extract": "Comet Hyakutake is a comet discovered on 31 January 1996. It was dubbed the Great Comet of 1996; its passage to within 0.1 AU (15 Gm) of the Earth on 25 March was one of the closest cometary approaches of the previous 200 years. Reaching an apparent visual magnitude of zero and spanning nearly 80°, Hyakutake appeared very bright in the night sky and was widely seen around the world. The comet temporarily upstaged the much anticipated Comet Hale–Bopp, which was approaching the inner Solar System at the time.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Comet_Hyakutake",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Hyakutake_Color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hyakutake_Color.jpg/330px-Hyakutake_Color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hyakutake_color.jpg",
+          "width": 1500,
+          "height": 1125,
+          "title": "Comet Hyakutake",
+          "description": "Great Comet of 1996",
+          "extract": "Comet Hyakutake is a comet discovered on 31 January 1996. It was dubbed the Great Comet of 1996; its passage to within 0.1 AU (15 Gm) of the Earth on 25 March was one of the closest cometary approaches of the previous 200 years. Reaching an apparent visual magnitude of zero and spanning nearly 80°, Hyakutake appeared very bright in the night sky and was widely seen around the world. The comet temporarily upstaged the much anticipated Comet Hale–Bopp, which was approaching the inner Solar System at the time.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Comet_Hyakutake",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/NEAR_Shoemaker_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NEAR_Shoemaker_spacecraft_model.png/330px-NEAR_Shoemaker_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "near_shoemaker_spacecraft_model.png",
+          "width": 400,
+          "height": 265,
+          "title": "NEAR Shoemaker",
+          "description": "American space probe to asteroid (1996–2001)",
+          "extract": "Near Earth Asteroid Rendezvous – Shoemaker, renamed after its 1996 launch in honor of planetary scientist Eugene Shoemaker, was a robotic space probe designed by the Johns Hopkins University Applied Physics Laboratory for NASA to study the near-Earth asteroid Eros from close orbit over a period of a year. It was the first spacecraft to orbit an asteroid and land on it successfully. In February 2000, the mission closed in on the asteroid and orbited it. On February 12, 2001, Shoemaker touched down on the asteroid and was terminated just over two weeks later.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NEAR_Shoemaker",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Comet_Hyakutake_inner_solar_system_1996.png/1280px-Comet_Hyakutake_inner_solar_system_1996.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Comet_Hyakutake_inner_solar_system_1996.png/1280px-Comet_Hyakutake_inner_solar_system_1996.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "comet_hyakutake_inner_solar_system_1996.png",
+          "width": 800,
+          "height": 600,
+          "title": "Comet Hyakutake's trajectory through the inner solar system, with a high inclination, passed closest to the Earth in late March 1996, passing over Earth's north pole. It was at perihelion on 1 May.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Comet_Hyakutake",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Comet Hyakutake",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Comet_Hyakutake",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-04-1983-9064c48e",
+      "year": 1983,
+      "text": "Space Shuttle program: Space Shuttle Challenger makes its maiden voyage into space on STS-6.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/S83-35803_%28cropped%29.jpg/3840px-S83-35803_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/S83-35803_%28cropped%29.jpg/330px-S83-35803_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "s83-35803_(cropped).jpg",
+        "width": 6408,
+        "height": 4806,
+        "title": "Space Shuttle Challenger",
+        "description": "Space Shuttle orbiter (1983–1986)",
+        "extract": "Space Shuttle Challenger (OV-099) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the commanding ship of a nineteenth-century scientific expedition that traveled the world, Challenger was the second Space Shuttle orbiter to fly into space after Columbia, and launched on its maiden flight in April 1983. It was destroyed in January 1986 soon after launch in a disaster that killed all seven crewmembers aboard.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/S83-35803_%28cropped%29.jpg/3840px-S83-35803_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/S83-35803_%28cropped%29.jpg/330px-S83-35803_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "s83-35803_(cropped).jpg",
+          "width": 6408,
+          "height": 4806,
+          "title": "Space Shuttle Challenger",
+          "description": "Space Shuttle orbiter (1983–1986)",
+          "extract": "Space Shuttle Challenger (OV-099) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the commanding ship of a nineteenth-century scientific expedition that traveled the world, Challenger was the second Space Shuttle orbiter to fly into space after Columbia, and launched on its maiden flight in April 1983. It was destroyed in January 1986 soon after launch in a disaster that killed all seven crewmembers aboard.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Space_Shuttle_Challenger_%2804-04-1983%29.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Space_Shuttle_Challenger_%2804-04-1983%29.JPEG/330px-Space_Shuttle_Challenger_%2804-04-1983%29.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_challenger_(04-04-1983).jpeg",
+          "width": 2996,
+          "height": 2400,
+          "title": "STS-6",
+          "description": "1983 American crewed spaceflight and maiden flight of Space Shuttle Challenger",
+          "extract": "STS-6 was the sixth NASA Space Shuttle mission and the maiden flight of the Space Shuttle Challenger. Launched from Kennedy Space Center on April 4, 1983, the mission deployed the first Tracking and Data Relay Satellite, TDRS-1, into orbit, before landing at Edwards Air Force Base on April 9, 1983. STS-6 was the first Space Shuttle mission during which a Extravehicular activity was conducted, and hence was the first in which the Extravehicular Mobility Unit (EMU) was used.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-6",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Space_Shuttle_concepts.jpg/330px-Space_Shuttle_concepts.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Space_Shuttle_concepts.jpg/330px-Space_Shuttle_concepts.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_concepts.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Early U.S. space shuttle concepts",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-04-1968-d7a1ff61",
+      "year": 1968,
+      "text": "Apollo program: NASA launches Apollo 6.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Apollo_6_launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Apollo_6_launch.jpg/330px-Apollo_6_launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "apollo_6_launch.jpg",
+        "width": 1280,
+        "height": 1890,
+        "title": "Apollo 6",
+        "description": "1968 American Saturn V rocket test flight",
+        "extract": "Apollo 6, also known as AS-502, was the third and final uncrewed flight in the United States' Apollo program and the second test of the Saturn V launch vehicle. The Saturn V's utilization during the mission qualified it for use during human spaceflight, and it was used beginning on Apollo 8 in December 1968.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_6",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Apollo_6_launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Apollo_6_launch.jpg/330px-Apollo_6_launch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "apollo_6_launch.jpg",
+          "width": 1280,
+          "height": 1890,
+          "title": "Apollo 6",
+          "description": "1968 American Saturn V rocket test flight",
+          "extract": "Apollo 6, also known as AS-502, was the third and final uncrewed flight in the United States' Apollo program and the second test of the Saturn V launch vehicle. The Saturn V's utilization during the mission qualified it for use during human spaceflight, and it was used beginning on Apollo 8 in December 1968.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_6",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/1280px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/1280px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "a_man_on_the_moon,_as11-40-5903_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Buzz Aldrin (pictured) walked on the Moon with Neil Armstrong, on Apollo 11, July 20–21, 1969.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_program",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NASA_Apollo_17_Lunar_Roving_Vehicle.jpg/1280px-NASA_Apollo_17_Lunar_Roving_Vehicle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NASA_Apollo_17_Lunar_Roving_Vehicle.jpg/1280px-NASA_Apollo_17_Lunar_Roving_Vehicle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_apollo_17_lunar_roving_vehicle.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The Apollo 17 Lunar Roving Vehicle",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_program",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Apollo program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Apollo_program",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-04-1964-23c361fe",
+      "year": 1964,
+      "text": "The Beatles occupy the top five positions on the Billboard Hot 100 pop chart.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/330px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "the_beatles_1963_dezo_hoffman_capitol_records_press_photo_2.jpg",
+        "width": 3621,
+        "height": 2817,
+        "title": "The Beatles",
+        "description": "English rock band (1960–1970)",
+        "extract": "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/330px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_beatles_1963_dezo_hoffman_capitol_records_press_photo_2.jpg",
+          "width": 3621,
+          "height": 2817,
+          "title": "The Beatles",
+          "description": "English rock band (1960–1970)",
+          "extract": "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "The Beatles",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-04-1975-6212cad3",
+      "year": 1975,
+      "text": "Bill Gates and Paul Allen founded Microsoft in Albuquerque, New Mexico, to develop and sell BASIC interpreters for the Altair 8800.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg/330px-Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bill_gates_at_the_european_commission_-_p067383-987995_(cropped)_5.jpg",
+        "width": 1000,
+        "height": 1335,
+        "title": "Bill Gates",
+        "description": "American businessman and philanthropist (born 1955)",
+        "extract": "William Henry Gates III is an American businessman and philanthropist. A pioneer of the microcomputer revolution of the 1970s and 1980s, he co-founded the software company Microsoft in 1975 with his childhood friend Paul Allen. Following Microsoft's initial public offering in 1986 and the subsequent increase in its stock price, Gates became the world's then-youngest billionaire in 1987, at age 31. Forbes magazine ranked him as the world's wealthiest person in their The World's Billionaires list for 18 out of 24 years between 1995 and 2017, including 13 years consecutively from 1995 to 2007. Gates became the first centibillionaire in 1999, when his net worth briefly surpassed US$100 billion. According to Forbes, as of July 2026, his net worth stood at US$106.5 billion, making him the 19th-wealthiest individual in the world.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bill_Gates",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg/330px-Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bill_gates_at_the_european_commission_-_p067383-987995_(cropped)_5.jpg",
+          "width": 1000,
+          "height": 1335,
+          "title": "Bill Gates",
+          "description": "American businessman and philanthropist (born 1955)",
+          "extract": "William Henry Gates III is an American businessman and philanthropist. A pioneer of the microcomputer revolution of the 1970s and 1980s, he co-founded the software company Microsoft in 1975 with his childhood friend Paul Allen. Following Microsoft's initial public offering in 1986 and the subsequent increase in its stock price, Gates became the world's then-youngest billionaire in 1987, at age 31. Forbes magazine ranked him as the world's wealthiest person in their The World's Billionaires list for 18 out of 24 years between 1995 and 2017, including 13 years consecutively from 1995 to 2007. Gates became the first centibillionaire in 1999, when his net worth briefly surpassed US$100 billion. According to Forbes, as of July 2026, his net worth stood at US$106.5 billion, making him the 19th-wealthiest individual in the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bill_Gates",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Paul_G._Allen_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Paul_G._Allen_%28cropped%29.jpg/330px-Paul_G._Allen_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "paul_g._allen_(cropped).jpg",
+          "width": 1181,
+          "height": 1477,
+          "title": "Paul Allen",
+          "description": "American businessman (1953–2018)",
+          "extract": "Paul Gardner Allen was an American businessman, computer programmer, and investor. He co-founded Microsoft Corporation with his childhood friend Bill Gates in 1975, which was followed by the microcomputer revolution of the 1970s and 1980s. Allen was ranked as one of the richest people in American history by Forbes, with an estimated net worth of $20.3 billion at the time of his death in October 2018.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Paul_Allen",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/3840px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aerial_microsoft_west_campus_august_2009.jpg",
+          "width": 4752,
+          "height": 3168,
+          "title": "Microsoft",
+          "description": "American multinational technology company",
+          "extract": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence, video gaming, and more. A Big Tech company, Microsoft is the largest software company by revenue, one of the most valuable public companies, and one of the most valuable brands globally.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Microsoft",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Bill Gates",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bill_Gates",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "04-04-2024-63f7b72b",
+      "year": 2024,
+      "text": "Russo-Ukrainian war: The Battle of Chasiv Yar begins.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "anti-terrorist_operation_in_eastern_ukraine_(war_ukraine)_(27843153986).jpg",
+        "width": 2496,
+        "height": 1664,
+        "title": "Russo-Ukrainian war",
+        "description": "Ongoing conflict since 2014",
+        "extract": "The Russo-Ukrainian war began in February 2014 and is ongoing. Following Ukraine's Revolution of Dignity, Russia occupied Crimea and annexed it from Ukraine. It then supported Russian separatist armed groups who started a war in the eastern Donbas region against Ukraine's military. In 2018, Ukraine declared the region to be occupied by Russia. The first eight years of conflict also involved naval incidents and cyberwarfare. In February 2022, Russia launched a full-scale invasion of Ukraine and began occupying more of the country, starting the current phase of the war, the largest conflict in Europe since World War II. The war has resulted in a refugee crisis and hundreds of thousands of deaths.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anti-terrorist_operation_in_eastern_ukraine_(war_ukraine)_(27843153986).jpg",
+          "width": 2496,
+          "height": 1664,
+          "title": "Russo-Ukrainian war",
+          "description": "Ongoing conflict since 2014",
+          "extract": "The Russo-Ukrainian war began in February 2014 and is ongoing. Following Ukraine's Revolution of Dignity, Russia occupied Crimea and annexed it from Ukraine. It then supported Russian separatist armed groups who started a war in the eastern Donbas region against Ukraine's military. In 2018, Ukraine declared the region to be occupied by Russia. The first eight years of conflict also involved naval incidents and cyberwarfare. In February 2022, Russia launched a full-scale invasion of Ukraine and began occupying more of the country, starting the current phase of the war, the largest conflict in Europe since World War II. The war has resulted in a refugee crisis and hundreds of thousands of deaths.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/2024-08-22_-_24_OMBr_ZSU%2C_Chasiv_Yar%2C_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2024-08-22_-_24_OMBr_ZSU%2C_Chasiv_Yar%2C_02.jpg/330px-2024-08-22_-_24_OMBr_ZSU%2C_Chasiv_Yar%2C_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2024-08-22_-_24_ombr_zsu,_chasiv_yar,_02.jpg",
+          "width": 2048,
+          "height": 1534,
+          "title": "Battle of Chasiv Yar",
+          "description": "Battle in the Russo-Ukrainian war from 2024 to 2025",
+          "extract": "The Battle of Chasiv Yar is a military engagement in the Russo-Ukrainian war between the Russian Armed Forces and the Armed Forces of Ukraine for control of the city of Chasiv Yar and surrounding villages. The battle began on 4 April 2024 with the first direct assault on the city by Russian forces, and has thus far seen the capture of the district east of a canal passing through the city, the crossing of the canal, and the claimed capture of the city as of early August 2025. As of December 2025, the Institute for the Study of War reported continued fighting in the city",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Chasiv_Yar",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0_%D1%82%D1%80%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC_%D0%9B%D0%9D%D0%A0_016.png/500px-%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0_%D1%82%D1%80%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC_%D0%9B%D0%9D%D0%A0_016.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0_%D1%82%D1%80%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC_%D0%9B%D0%9D%D0%A0_016.png/500px-%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B0_%D1%82%D1%80%D0%BE%D1%84%D0%B5%D0%B9%D0%BD%D0%BE%D0%B9_%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B8_%D0%B2%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE%D0%B4%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC_%D0%9B%D0%9D%D0%A0_016.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "передача_трофейной_украинской_техники_и_вооружения_подразделениям_лнр_016.png",
+          "width": 800,
+          "height": 600,
+          "title": "Передача_трофейной_украинской_техники_и_вооружения_подразделениям_ЛНР_016",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Russo-Ukrainian war",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-04-1984-d03535bd",
+      "year": 1984,
+      "text": "President Ronald Reagan calls for an international ban on chemical weapons.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+        "width": 2399,
+        "height": 3000,
+        "title": "Ronald Reagan",
+        "description": "President of the United States from 1981 to 1989",
+        "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+          "width": 2399,
+          "height": 3000,
+          "title": "Ronald Reagan",
+          "description": "President of the United States from 1981 to 1989",
+          "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_Ronald_Reagan_Neil_Reagan_Jack_Reagan_and_Nelle_Reagan_in_Galesburg_Illinois_-_DPLA_-_ea1ffc8ca600cce90c5b9f65eed472c2.jpg/1280px-Portrait_of_Ronald_Reagan_Neil_Reagan_Jack_Reagan_and_Nelle_Reagan_in_Galesburg_Illinois_-_DPLA_-_ea1ffc8ca600cce90c5b9f65eed472c2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_Ronald_Reagan_Neil_Reagan_Jack_Reagan_and_Nelle_Reagan_in_Galesburg_Illinois_-_DPLA_-_ea1ffc8ca600cce90c5b9f65eed472c2.jpg/1280px-Portrait_of_Ronald_Reagan_Neil_Reagan_Jack_Reagan_and_Nelle_Reagan_in_Galesburg_Illinois_-_DPLA_-_ea1ffc8ca600cce90c5b9f65eed472c2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "portrait_of_ronald_reagan,_neil_reagan,_jack_reagan,_and_nelle_reagan_in_galesburg,_illinois.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "From left to right: Jack (father), Neil, Ronald, and Nelle (mother) (c. 1915)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ronald_Reagan_1985_presidential_portrait_%283x4%29.jpg/500px-Ronald_Reagan_1985_presidential_portrait_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ronald_Reagan_1985_presidential_portrait_%283x4%29.jpg/500px-Ronald_Reagan_1985_presidential_portrait_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "ronald_reagan_1985_presidential_portrait_(3x4).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Ronald_Reagan_1985_presidential_portrait_(3x4)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Ronald Reagan",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-04-1981-81315034",
+      "year": 1981,
+      "text": "Iran–Iraq War: The Islamic Republic of Iran Air Force mounts an attack on H-3 Airbase and destroys about 50 Iraqi aircraft.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Chemical_weapon1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chemical_weapon1.jpg/330px-Chemical_weapon1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "chemical_weapon1.jpg",
+        "width": 768,
+        "height": 528,
+        "title": "Iran–Iraq War",
+        "description": "1980–1988 armed conflict in West Asia",
+        "extract": "The Iran–Iraq War, also called the First Imposed War by Iran, began with the Iraqi invasion of Iran in September 1980. After eight years of conflict, both countries accepted a ceasefire deal brokered by the United Nations, which became effective in August 1988. The war caused around 500,000 deaths, making it the deadliest conventional war ever fought between regular armies of developing countries.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Chemical_weapon1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Chemical_weapon1.jpg/330px-Chemical_weapon1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chemical_weapon1.jpg",
+          "width": 768,
+          "height": 528,
+          "title": "Iran–Iraq War",
+          "description": "1980–1988 armed conflict in West Asia",
+          "extract": "The Iran–Iraq War, also called the First Imposed War by Iran, began with the Iraqi invasion of Iran in September 1980. After eight years of conflict, both countries accepted a ceasefire deal brokered by the United Nations, which became effective in August 1988. The war caused around 500,000 deaths, making it the deadliest conventional war ever fought between regular armies of developing countries.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Children_In_iraq-iran_war4_%28cropped%29.jpg/330px-Children_In_iraq-iran_war4_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Children_In_iraq-iran_war4_%28cropped%29.jpg/330px-Children_In_iraq-iran_war4_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "children_in_iraq-iran_war4_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Children_In_iraq-iran_war4_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/USS_Stark_edit.jpg/1280px-USS_Stark_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/USS_Stark_edit.jpg/1280px-USS_Stark_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "uss_stark_edit.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "USS_Stark_edit",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Iran–Iraq War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-04-1581-b2c17529",
+      "year": 1581,
+      "text": "Queen Elizabeth I knighted Francis Drake for completing a circumnavigation of the world.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/330px-Darnley_stage_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "darnley_stage_3.jpg",
+        "width": 1581,
+        "height": 2313,
+        "title": "Elizabeth I",
+        "description": "Queen of England and Ireland from 1558 to 1603",
+        "extract": "Elizabeth I was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her eventful reign, and its effect on history and culture, gave name to the Elizabethan era.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/330px-Darnley_stage_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "darnley_stage_3.jpg",
+          "width": 1581,
+          "height": 2313,
+          "title": "Elizabeth I",
+          "description": "Queen of England and Ireland from 1558 to 1603",
+          "extract": "Elizabeth I was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her eventful reign, and its effect on history and culture, gave name to the Elizabethan era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Gheeraerts_Francis_Drake_1591.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Gheeraerts_Francis_Drake_1591.jpg/330px-Gheeraerts_Francis_Drake_1591.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gheeraerts_francis_drake_1591.jpg",
+          "width": 1933,
+          "height": 2500,
+          "title": "Francis Drake",
+          "description": "English sailor and privateer (c. 1540–1596)",
+          "extract": "Sir Francis Drake was an English explorer and privateer best known for making the second circumnavigation of the world in a single expedition between 1577 and 1580. He is also known for participating in the early English slaving voyages of his cousin, John Hawkins, and John Lovell. Having started as a simple seaman, in 1588 he was part of the fight against the Spanish Armada as a vice admiral.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Francis_Drake",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Francis_Drake%27s_journey_1577-1580%2C_by_unknown_c1590.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Francis_Drake%27s_journey_1577-1580%2C_by_unknown_c1590.jpg/330px-Francis_Drake%27s_journey_1577-1580%2C_by_unknown_c1590.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "francis_drake's_journey_1577-1580,_by_unknown_c1590.jpg",
+          "width": 2753,
+          "height": 1592,
+          "title": "Francis Drake's circumnavigation",
+          "description": "1577–1580 trip by the English explorer",
+          "extract": "The English explorer Francis Drake circumnavigated the Earth between 13 December 1577 and 26 September 1580. The expedition was authorised by Queen Elizabeth I and consisted of five ships. Termed a 'voyage of discovery', it was in effect an ambitious covert raiding voyage and the start of England's challenge to the global domination of Spain and Portugal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Francis_Drake's_circumnavigation",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Elizabeth I",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+      "relatedPagesCount": 3
+    }
+  ]
+}

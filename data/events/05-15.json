@@ -1,0 +1,691 @@
+{
+  "date": {
+    "month": 5,
+    "day": 15,
+    "formatted": "05-15"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "05-15-1997-cd98de1d",
+      "year": 1997,
+      "text": "The Space Shuttle Atlantis launches on STS-84 to dock with the Russian space station Mir.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+        "width": 3697,
+        "height": 2217,
+        "title": "Space Shuttle Atlantis",
+        "description": "Space Shuttle orbiter (1985–2011)",
+        "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+          "width": 3697,
+          "height": 2217,
+          "title": "Space Shuttle Atlantis",
+          "description": "Space Shuttle orbiter (1985–2011)",
+          "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/STS084-309-014_-_STS-084_-_View_of_Mir_Space_Station_as_seen_from_flight_deck_overhead_window_and_Spacehab_-_DPLA_-_8779511e7b072cfd8d524d7cf2e580d7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/STS084-309-014_-_STS-084_-_View_of_Mir_Space_Station_as_seen_from_flight_deck_overhead_window_and_Spacehab_-_DPLA_-_8779511e7b072cfd8d524d7cf2e580d7.jpg/330px-STS084-309-014_-_STS-084_-_View_of_Mir_Space_Station_as_seen_from_flight_deck_overhead_window_and_Spacehab_-_DPLA_-_8779511e7b072cfd8d524d7cf2e580d7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts084-309-014_-_sts-084_-_view_of_mir_space_station_as_seen_from_flight_deck_overhead_window_and_spacehab_-_dpla_-_8779511e7b072cfd8d524d7cf2e580d7.jpg",
+          "width": 3568,
+          "height": 2245,
+          "title": "STS-84",
+          "description": "1997 American crewed spaceflight to Mir",
+          "extract": "STS-84 was a crewed spaceflight mission by Space Shuttle Atlantis to the Mir space station.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-84",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg/330px-Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mir_space_station_viewed_from_endeavour_during_sts-89.jpg",
+          "width": 3124,
+          "height": 3044,
+          "title": "Mir",
+          "description": "Soviet/Russian space station (1986–2001)",
+          "extract": "Mir was a space station operated in low Earth orbit from 1986 to 2001, first by the Soviet Union and later by the Russian Federation. Mir was the first modular space station and was assembled in orbit from 1986 to 1996. At the time it was the largest artificial satellite in orbit, only being succeeded by the International Space Station (ISS) after Mir's deorbiting in 2001. The station served as a microgravity research laboratory in which crews conducted experiments in biology, human biology, physics, astronomy, meteorology, and spacecraft systems with a goal of developing technologies required for permanent occupation of space.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mir",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Atlantis",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-15-1963-cb2f1a34",
+      "year": 1963,
+      "text": "Project Mercury: The launch of the final Mercury mission, Mercury-Atlas 9 with astronaut Gordon Cooper on board. He becomes the first American to spend more than a day in space, and the last American to go into space alone.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/S63-07856.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S63-07856.jpg/330px-S63-07856.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "s63-07856.jpg",
+        "width": 640,
+        "height": 480,
+        "title": "Mercury-Atlas 9",
+        "description": "1963 NASA Mercury program crewed flight",
+        "extract": "Mercury-Atlas 9 was the final crewed space mission of the U.S. Mercury program, launched on May 15, 1963, from Launch Complex 14 at Cape Canaveral, Florida. The spacecraft, named Faith 7, completed 22 Earth orbits before splashing down in the Pacific Ocean, piloted by astronaut Gordon Cooper, then a United States Air Force major. The Atlas rocket was No. 130-D, and the Mercury spacecraft was No. 20. As of September 2026, this mission marks the last time an American was launched alone to conduct an entirely solo orbital mission.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mercury-Atlas_9",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/S63-07856.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/S63-07856.jpg/330px-S63-07856.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "s63-07856.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "Mercury-Atlas 9",
+          "description": "1963 NASA Mercury program crewed flight",
+          "extract": "Mercury-Atlas 9 was the final crewed space mission of the U.S. Mercury program, launched on May 15, 1963, from Launch Complex 14 at Cape Canaveral, Florida. The spacecraft, named Faith 7, completed 22 Earth orbits before splashing down in the Pacific Ocean, piloted by astronaut Gordon Cooper, then a United States Air Force major. The Atlas rocket was No. 130-D, and the Mercury spacecraft was No. 20. As of September 2026, this mission marks the last time an American was launched alone to conduct an entirely solo orbital mission.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mercury-Atlas_9",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Gordon_Cooper_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gordon_Cooper_2.jpg/330px-Gordon_Cooper_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gordon_cooper_2.jpg",
+          "width": 3192,
+          "height": 3990,
+          "title": "Gordon Cooper",
+          "description": "American astronaut (1927–2004)",
+          "extract": "Leroy Gordon Cooper Jr. was an American aerospace engineer, test pilot, United States Air Force pilot, and the youngest of the seven original astronauts in Project Mercury, the first human space program of the United States. Cooper learned to fly as a child, and after service in the United States Marine Corps during World War II, he was commissioned into the United States Air Force in 1949. After serving as a fighter pilot, he qualified as a test pilot in 1956 and was selected as an astronaut in 1959.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gordon_Cooper",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Webb%27s_First_Deep_Field.jpg/3840px-Webb%27s_First_Deep_Field.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Webb%27s_First_Deep_Field.jpg/330px-Webb%27s_First_Deep_Field.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "webb's_first_deep_field.jpg",
+          "width": 4537,
+          "height": 4630,
+          "title": "Outer space",
+          "description": "Void between celestial bodies",
+          "extract": "Outer space, or simply space, is the expanse that exists beyond Earth's atmosphere and between celestial bodies. It contains ultra-low levels of particle densities, constituting a near-perfect vacuum of predominantly hydrogen and helium plasma, permeated by electromagnetic radiation, cosmic rays, neutrinos, magnetic fields and dust. The baseline temperature of outer space, as set by the background radiation from the Big Bang, is 2.7 kelvins.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Outer_space",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Project Mercury",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Project_Mercury",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-15-1957-12599353",
+      "year": 1957,
+      "text": "The United Kingdom tested its first hydrogen bomb over Malden Island in Operation Grapple.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/OperationGrappleXmasIslandHbomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/OperationGrappleXmasIslandHbomb.jpg/330px-OperationGrappleXmasIslandHbomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "operationgrapplexmasislandhbomb.jpg",
+        "width": 950,
+        "height": 1256,
+        "title": "Operation Grapple",
+        "description": "Series of British nuclear weapons tests",
+        "extract": "Operation Grapple was a set of four series of British nuclear weapons tests of early atomic bombs and hydrogen bombs carried out in 1957 and 1958 at Malden Island and Kiritimati in the Gilbert and Ellice Islands in the Pacific Ocean as part of the British hydrogen bomb programme. Nine nuclear explosions were initiated, culminating in the United Kingdom becoming the third recognised possessor of thermonuclear weapons, and the restoration of the nuclear Special Relationship with the United States in the form of the 1958 US–UK Mutual Defence Agreement.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Grapple",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/OperationGrappleXmasIslandHbomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/OperationGrappleXmasIslandHbomb.jpg/330px-OperationGrappleXmasIslandHbomb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "operationgrapplexmasislandhbomb.jpg",
+          "width": 950,
+          "height": 1256,
+          "title": "Operation Grapple",
+          "description": "Series of British nuclear weapons tests",
+          "extract": "Operation Grapple was a set of four series of British nuclear weapons tests of early atomic bombs and hydrogen bombs carried out in 1957 and 1958 at Malden Island and Kiritimati in the Gilbert and Ellice Islands in the Pacific Ocean as part of the British hydrogen bomb programme. Nine nuclear explosions were initiated, culminating in the United Kingdom becoming the third recognised possessor of thermonuclear weapons, and the restoration of the nuclear Special Relationship with the United States in the form of the 1958 US–UK Mutual Defence Agreement.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Grapple",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Little_Boy_bomb.jpg/1280px-Little_Boy_bomb.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Little_Boy_bomb.jpg/1280px-Little_Boy_bomb.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "little_boy_bomb.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Little_Boy_bomb",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Thermonuclear_weapon",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Edward_Teller_%281958%29-LLNL.jpg/1280px-Edward_Teller_%281958%29-LLNL.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Edward_Teller_%281958%29-LLNL.jpg/1280px-Edward_Teller_%281958%29-LLNL.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "edward_teller_(1958)-llnl.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Edward Teller in 1958",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Thermonuclear_weapon",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Thermonuclear weapon",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Thermonuclear_weapon",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-15-1928-d8944124",
+      "year": 1928,
+      "text": "Mickey and Minnie Mouse made their film debuts in the animated cartoon Plane Crazy.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Plane_Crazy_1928_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Plane_Crazy_1928_Poster.jpg/330px-Plane_Crazy_1928_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "plane_crazy_1928_poster.jpg",
+        "width": 418,
+        "height": 638,
+        "title": "Plane Crazy",
+        "description": "1928 film by Walt Disney and Ub Iwerks",
+        "extract": "Plane Crazy is a 1928 American animated short film directed by Walt Disney and Ub Iwerks. The cartoon, produced by Disney Cartoons, is the first finished film to be produced by the studio and the first produced short to star Mickey Mouse and his girlfriend Minnie Mouse. It was originally produced as a silent film before test screening to a theater audience and potential distributors on May 15, 1928. An executive from Metro-Goldwyn-Mayer saw the film, but the film failed to pick up a distributor. Later that year, Disney released Mickey's first sound cartoon, Steamboat Willie, which was an enormous success; Plane Crazy was officially released as a sound cartoon on March 17, 1929 by Celebrity Pictures. It was the fourth Mickey film to be given a wide release after Steamboat Willie, as well as The Gallopin' Gaucho and The Barn Dance (1929). Columbia Pictures reissued the film after Walt Disney Productions switched distributors.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Plane_Crazy",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Plane_Crazy_1928_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Plane_Crazy_1928_Poster.jpg/330px-Plane_Crazy_1928_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "plane_crazy_1928_poster.jpg",
+          "width": 418,
+          "height": 638,
+          "title": "Plane Crazy",
+          "description": "1928 film by Walt Disney and Ub Iwerks",
+          "extract": "Plane Crazy is a 1928 American animated short film directed by Walt Disney and Ub Iwerks. The cartoon, produced by Disney Cartoons, is the first finished film to be produced by the studio and the first produced short to star Mickey Mouse and his girlfriend Minnie Mouse. It was originally produced as a silent film before test screening to a theater audience and potential distributors on May 15, 1928. An executive from Metro-Goldwyn-Mayer saw the film, but the film failed to pick up a distributor. Later that year, Disney released Mickey's first sound cartoon, Steamboat Willie, which was an enormous success; Plane Crazy was officially released as a sound cartoon on March 17, 1929 by Celebrity Pictures. It was the fourth Mickey film to be given a wide release after Steamboat Willie, as well as The Gallopin' Gaucho and The Barn Dance (1929). Columbia Pictures reissued the film after Walt Disney Productions switched distributors.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Plane_Crazy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mickey_Mouse_concept_art_%28clear_version%29.webp/500px-Mickey_Mouse_concept_art_%28clear_version%29.webp.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mickey_Mouse_concept_art_%28clear_version%29.webp/500px-Mickey_Mouse_concept_art_%28clear_version%29.webp.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "mickey_mouse_concept_art_(clear_version).webp",
+          "width": 800,
+          "height": 600,
+          "title": "The earliest known concept art of Mickey and Minnie Mouse from early 1928, largely attributed to Ub Iwerks, but speculated to include work from Walt Disney or Les Clark;[2] The Walt Disney Family Museum collection",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mickey_Mouse",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Walt_Disney_and_his_cartoon_creation_%22Mickey_Mouse%22_-_National_Board_of_Review_Magazine.jpg/500px-Walt_Disney_and_his_cartoon_creation_%22Mickey_Mouse%22_-_National_Board_of_Review_Magazine.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Walt_Disney_and_his_cartoon_creation_%22Mickey_Mouse%22_-_National_Board_of_Review_Magazine.jpg/500px-Walt_Disney_and_his_cartoon_creation_%22Mickey_Mouse%22_-_National_Board_of_Review_Magazine.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "walt_disney_and_his_cartoon_creation_\"mickey_mouse\"_-_national_board_of_review_magazine.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Walt Disney with a cutout of Mickey as he was drawn by the end of 1928",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mickey_Mouse",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Mickey Mouse",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mickey_Mouse",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-15-1970-732c89c8",
+      "year": 1970,
+      "text": "President Richard Nixon appoints Anna Mae Hays and Elizabeth P. Hoisington as the first female United States Army generals.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
+        "width": 2136,
+        "height": 2830,
+        "title": "Richard Nixon",
+        "description": "President of the United States from 1969 to 1974",
+        "extract": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
+          "width": 2136,
+          "height": 2830,
+          "title": "Richard Nixon",
+          "description": "President of the United States from 1969 to 1974",
+          "extract": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/BGEN_Anna_Mae_Hays_%282%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BGEN_Anna_Mae_Hays_%282%29_%28cropped%29.jpg/330px-BGEN_Anna_Mae_Hays_%282%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bgen_anna_mae_hays_(2)_(cropped).jpg",
+          "width": 2370,
+          "height": 2924,
+          "title": "Anna Mae Hays",
+          "description": "20th-century United States Armed Forces officer",
+          "extract": "Anna Mae Violet Hays was an American military officer who served as the 13th chief of the United States Army Nurse Corps. She was the first woman in the United States Armed Forces to be promoted to a general officer rank; in 1970, she was promoted to brigadier general. Hays paved the way for equal treatment of women, countered occupational sexism, and made a number of recommendations which were accepted into military policy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anna_Mae_Hays",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Brigadier_General_Elizabeth_P._Hoisington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Brigadier_General_Elizabeth_P._Hoisington.jpg/330px-Brigadier_General_Elizabeth_P._Hoisington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "brigadier_general_elizabeth_p._hoisington.jpg",
+          "width": 493,
+          "height": 620,
+          "title": "Elizabeth P. Hoisington",
+          "description": "20th-century United States Armed Forces officer",
+          "extract": "Elizabeth Paschel Hoisington was a United States Army officer who was one of the first two women to attain the rank of brigadier general.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_P._Hoisington",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Richard Nixon",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-15-2001-a4f71919",
+      "year": 2001,
+      "text": "A CSX EMD SD40-2 8888 rolls out of a train yard in Walbridge, Ohio, with 47 freight cars, including some tank cars with flammable chemical, after its engineer fails to reboard it after setting a yard switch. It travels south driverless for 66 miles (106 km) until it is brought to a halt near Kenton. The incident became the inspiration for the 2010 film Unstoppable.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/MRL_250.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/MRL_250.jpg/330px-MRL_250.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mrl_250.jpg",
+        "width": 841,
+        "height": 662,
+        "title": "EMD SD40-2",
+        "description": "North American diesel–electric locomotive class",
+        "extract": "The EMD SD40-2 is a 3,000-horsepower (2,200 kW) C-C diesel–electric locomotive built by EMD from 1972 to 1997.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/EMD_SD40-2",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/MRL_250.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/MRL_250.jpg/330px-MRL_250.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mrl_250.jpg",
+          "width": 841,
+          "height": 662,
+          "title": "EMD SD40-2",
+          "description": "North American diesel–electric locomotive class",
+          "extract": "The EMD SD40-2 is a 3,000-horsepower (2,200 kW) C-C diesel–electric locomotive built by EMD from 1972 to 1997.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/EMD_SD40-2",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/CSXT_8029.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/CSXT_8029.jpg/330px-CSXT_8029.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "csxt_8029.jpg",
+          "width": 560,
+          "height": 432,
+          "title": "CSX 8888 incident",
+          "description": "2001 runaway train event in Ohio, US",
+          "extract": "The CSX 8888 incident, also known as the Crazy Eights incident, was a runaway train event involving a CSX Transportation freight train in the U.S. state of Ohio on May 15, 2001. Locomotive #8888, an EMD SD40-2, ran uncontrolled for just under two hours at up to 53 miles per hour (85 km/h) while pulling a train of 47 cars; 2 cars were loaded with molten phenol, a substance used in dyes and glues. It was finally halted by a railroad crew in a catch locomotive, who caught up with the runaway train and coupled their locomotive to the rear car. The incident inspired the 2010 movie Unstoppable.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/CSX_8888_incident",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Walbridge_former_high_school.jpg/3840px-Walbridge_former_high_school.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Walbridge_former_high_school.jpg/330px-Walbridge_former_high_school.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "walbridge_former_high_school.jpg",
+          "width": 6016,
+          "height": 4000,
+          "title": "Walbridge, Ohio",
+          "description": "Village in Ohio, United States",
+          "extract": "Walbridge is a village in Wood County, Ohio, United States, within the Toledo metropolitan area. The population was 3,011 at the 2020 census.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Walbridge%2C_Ohio",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "CSX Transportation",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/CSX_Transportation",
+      "relatedPagesCount": 7
+    },
+    {
+      "id": "05-15-1941-8c5f41ce",
+      "year": 1941,
+      "text": "First flight of the Gloster E.28/39, the first British and Allied jet aircraft.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/IWM-CH14832A_Gloster_E28-39_205210674.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/IWM-CH14832A_Gloster_E28-39_205210674.jpg/330px-IWM-CH14832A_Gloster_E28-39_205210674.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "iwm-ch14832a_gloster_e28-39_205210674.jpg",
+        "width": 3186,
+        "height": 2480,
+        "title": "Gloster E.28/39",
+        "description": "British jet-engined aircraft, first flown in 1941",
+        "extract": "The Gloster E.28/39, was the first British turbojet-engined aircraft, first flying in 1941. It was the third turbojet aircraft to fly after the German Heinkel He 178 (1939) and Heinkel He 280 (1941).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gloster_E.28%2F39",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/IWM-CH14832A_Gloster_E28-39_205210674.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/IWM-CH14832A_Gloster_E28-39_205210674.jpg/330px-IWM-CH14832A_Gloster_E28-39_205210674.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iwm-ch14832a_gloster_e28-39_205210674.jpg",
+          "width": 3186,
+          "height": 2480,
+          "title": "Gloster E.28/39",
+          "description": "British jet-engined aircraft, first flown in 1941",
+          "extract": "The Gloster E.28/39, was the first British turbojet-engined aircraft, first flying in 1941. It was the third turbojet aircraft to fly after the German Heinkel He 178 (1939) and Heinkel He 280 (1941).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gloster_E.28%2F39",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg/330px-BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bea_de_havilland_dh-106_comet_4b_berlin.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": "Jet aircraft",
+          "description": "Aircraft class powered by jet propulsion engines",
+          "extract": "A jet aircraft is an aircraft propelled by one or more jet engines. Jets are nearly always fixed-wing aircraft, though a wide range of different types of jet aircraft exists – both for civilian and military purposes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jet_aircraft",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Plaque_of_the_Gloster_P28-39_aircraft.jpg/1280px-Plaque_of_the_Gloster_P28-39_aircraft.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Plaque_of_the_Gloster_P28-39_aircraft.jpg/1280px-Plaque_of_the_Gloster_P28-39_aircraft.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "plaque_of_the_gloster_p28-39_aircraft.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Plaque to the Gloster E28/39",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gloster_E.28%2F39",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Gloster E.28/39",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Gloster_E.28%2F39",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-15-2010-1b7cb11f",
+      "year": 2010,
+      "text": "Three days before her seventeenth birthday, Jessica Watson arrived in Sydney after sailing non-stop and unassisted around the world.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Jessica_Watson_Ddf_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jessica_Watson_Ddf_2011.jpg/330px-Jessica_Watson_Ddf_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jessica_watson_ddf_2011.jpg",
+        "width": 2049,
+        "height": 2612,
+        "title": "Jessica Watson",
+        "description": "Australian sailor (born 1993)",
+        "extract": "Jessica Rose Watson is an Australian sailor who attempted a solo circumnavigation at the age of 16 from 18 October 2009 to 15 May 2010. Although she circled the planet, she did it in a narrow range of latitudes relatively far from the equator that resulted in her voyage falling short of the distance criterion of 21,600 nautical miles (40,000 km) for a circumnavigation – the equivalent of the circumference of the Earth at the equator – by nearly 2,000 nautical miles (3,700 km); Watson was nevertheless named 2011 Young Australian of the Year and awarded the Medal of the Order of Australia in 2012 for \"...service to sailing and to youth through the achievement of sailing solo and unassisted around the world [sic], and as a role model for young Australians\". As of November 2022, she resides in Melbourne. Netflix produced a film, True Spirit (2023), about Watson's voyage.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jessica_Watson",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Jessica_Watson_Ddf_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jessica_Watson_Ddf_2011.jpg/330px-Jessica_Watson_Ddf_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jessica_watson_ddf_2011.jpg",
+          "width": 2049,
+          "height": 2612,
+          "title": "Jessica Watson",
+          "description": "Australian sailor (born 1993)",
+          "extract": "Jessica Rose Watson is an Australian sailor who attempted a solo circumnavigation at the age of 16 from 18 October 2009 to 15 May 2010. Although she circled the planet, she did it in a narrow range of latitudes relatively far from the equator that resulted in her voyage falling short of the distance criterion of 21,600 nautical miles (40,000 km) for a circumnavigation – the equivalent of the circumference of the Earth at the equator – by nearly 2,000 nautical miles (3,700 km); Watson was nevertheless named 2011 Young Australian of the Year and awarded the Medal of the Order of Australia in 2012 for \"...service to sailing and to youth through the achievement of sailing solo and unassisted around the world [sic], and as a role model for young Australians\". As of November 2022, she resides in Melbourne. Netflix produced a film, True Spirit (2023), about Watson's voyage.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jessica_Watson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/3840px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/330px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sydney_opera_house_and_harbour_bridge_dusk_(2)_2019-06-21.jpg",
+          "width": 6173,
+          "height": 3087,
+          "title": "Sydney",
+          "description": "Capital city of New South Wales, Australia",
+          "extract": "Sydney is the capital of the state of New South Wales and the largest city in both the state and Australia. The metropolis surrounds Sydney Harbour and extends about 80 kilometres (50 mi) from the Pacific Ocean in the east to the Blue Mountains in the west, and about 80 kilometres (50 mi) from Ku-ring-gai Chase National Park and the Hawkesbury River in the north and north-west, to the Royal National Park and Macarthur in the south and south-west. Greater Sydney consists of 658 suburbs, spread across 33 local government areas. Residents of the city are colloquially known as \"Sydneysiders\". The estimated population in June 2025 was 5,638,830, which is about 66% of the state's population. The city's nicknames include the Emerald City and the Harbour City.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sydney",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jessica_Watson_sailing.jpg/500px-Jessica_Watson_sailing.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Jessica_Watson_sailing.jpg/500px-Jessica_Watson_sailing.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "jessica_watson_sailing.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Watson sailing Cape Horn, 13 January 2010",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jessica_Watson",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Jessica Watson",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Jessica_Watson",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-15-1567-e4f2927e",
+      "year": 1567,
+      "text": "The wedding of Mary, Queen of Scots, and the Earl of Bothwell, the chief instigator of the murder of her previous husband Lord Darnley, takes place.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/James_Drummond_%281816-1877%29_-_The_Marriage_of_Mary%2C_Queen_of_Scots%2C_and_the_Earl_of_Bothwell_-_2079_-_Glasgow_Museums_Resource_Centre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/James_Drummond_%281816-1877%29_-_The_Marriage_of_Mary%2C_Queen_of_Scots%2C_and_the_Earl_of_Bothwell_-_2079_-_Glasgow_Museums_Resource_Centre.jpg/330px-James_Drummond_%281816-1877%29_-_The_Marriage_of_Mary%2C_Queen_of_Scots%2C_and_the_Earl_of_Bothwell_-_2079_-_Glasgow_Museums_Resource_Centre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "james_drummond_(1816-1877)_-_the_marriage_of_mary,_queen_of_scots,_and_the_earl_of_bothwell_-_2079_-_glasgow_museums_resource_centre.jpg",
+        "width": 800,
+        "height": 586,
+        "title": "Wedding of Mary, Queen of Scots, and the Earl of Bothwell",
+        "description": "1567 wedding in Scotland",
+        "extract": "The wedding of Mary, Queen of Scots and James Hepburn, 4th Earl of Bothwell took place at Holyrood Palace on 15 May 1567.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wedding_of_Mary%2C_Queen_of_Scots%2C_and_the_Earl_of_Bothwell",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/James_Drummond_%281816-1877%29_-_The_Marriage_of_Mary%2C_Queen_of_Scots%2C_and_the_Earl_of_Bothwell_-_2079_-_Glasgow_Museums_Resource_Centre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/James_Drummond_%281816-1877%29_-_The_Marriage_of_Mary%2C_Queen_of_Scots%2C_and_the_Earl_of_Bothwell_-_2079_-_Glasgow_Museums_Resource_Centre.jpg/330px-James_Drummond_%281816-1877%29_-_The_Marriage_of_Mary%2C_Queen_of_Scots%2C_and_the_Earl_of_Bothwell_-_2079_-_Glasgow_Museums_Resource_Centre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "james_drummond_(1816-1877)_-_the_marriage_of_mary,_queen_of_scots,_and_the_earl_of_bothwell_-_2079_-_glasgow_museums_resource_centre.jpg",
+          "width": 800,
+          "height": 586,
+          "title": "Wedding of Mary, Queen of Scots, and the Earl of Bothwell",
+          "description": "1567 wedding in Scotland",
+          "extract": "The wedding of Mary, Queen of Scots and James Hepburn, 4th Earl of Bothwell took place at Holyrood Palace on 15 May 1567.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wedding_of_Mary%2C_Queen_of_Scots%2C_and_the_Earl_of_Bothwell",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Henry_Stuart%2C_Lord_Darnley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Henry_Stuart%2C_Lord_Darnley.jpg/330px-Henry_Stuart%2C_Lord_Darnley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "henry_stuart,_lord_darnley.jpg",
+          "width": 767,
+          "height": 1000,
+          "title": "Henry Stuart, Lord Darnley",
+          "description": "King consort of Scotland from 1565 to 1567",
+          "extract": "Henry Stuart, Lord Darnley was King of Scotland as the second husband of Mary, Queen of Scots, from 29 July 1565 until his murder. Darnley had one child with Mary, James VI of Scotland and I of England. Less than a year after the birth of his son, Darnley was murdered at Kirk o' Field in 1567. Many contemporary narratives describing his life and death refer to him as simply Lord Darnley, his title as heir apparent to the Earldom of Lennox.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henry_Stuart%2C_Lord_Darnley",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/James_Hepburn%2C_4th_Earl_of_Bothwell%2C_c_1535_-_1578._Third_husband_of_Mary_Queen_of_Scots_-_Google_Art_Project.jpg/1280px-James_Hepburn%2C_4th_Earl_of_Bothwell%2C_c_1535_-_1578._Third_husband_of_Mary_Queen_of_Scots_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/James_Hepburn%2C_4th_Earl_of_Bothwell%2C_c_1535_-_1578._Third_husband_of_Mary_Queen_of_Scots_-_Google_Art_Project.jpg/1280px-James_Hepburn%2C_4th_Earl_of_Bothwell%2C_c_1535_-_1578._Third_husband_of_Mary_Queen_of_Scots_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "james_hepburn,_4th_earl_of_bothwell,_c_1535_-_1578._third_husband_of_mary_queen_of_scots_-_google_art_project.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "James Hepburn, 4th Earl of Bothwell",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wedding_of_Mary%2C_Queen_of_Scots%2C_and_the_Earl_of_Bothwell",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Wedding of Mary, Queen of Scots, and the Earl of Bothwell",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Wedding_of_Mary%2C_Queen_of_Scots%2C_and_the_Earl_of_Bothwell",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-15-1536-8033767a",
+      "year": 1536,
+      "text": "Anne Boleyn, Queen of England, stands trial in London on charges of treason, adultery and incest; she is condemned to death by a specially-selected jury.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/AnneBoleynHever.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/AnneBoleynHever.jpg/330px-AnneBoleynHever.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "anneboleynhever.jpg",
+        "width": 1765,
+        "height": 2360,
+        "title": "Anne Boleyn",
+        "description": "Queen of England from 1533 to 1536",
+        "extract": "Anne Boleyn was Queen of England from 1533 to 1536, as the second wife of King Henry VIII. The circumstances of her marriage and execution, by beheading for treason, made her a key figure in the political and religious upheaval that marked the start of the English Reformation.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anne_Boleyn",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/AnneBoleynHever.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/AnneBoleynHever.jpg/330px-AnneBoleynHever.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anneboleynhever.jpg",
+          "width": 1765,
+          "height": 2360,
+          "title": "Anne Boleyn",
+          "description": "Queen of England from 1533 to 1536",
+          "extract": "Anne Boleyn was Queen of England from 1533 to 1536, as the second wife of King Henry VIII. The circumstances of her marriage and execution, by beheading for treason, made her a key figure in the political and religious upheaval that marked the start of the English Reformation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anne_Boleyn",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Jury_box_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jury_box_cropped.jpg/330px-Jury_box_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jury_box_cropped.jpg",
+          "width": 1103,
+          "height": 745,
+          "title": "Jury",
+          "description": "Group of people to render a verdict in a court",
+          "extract": "A jury is a sworn body of people (jurors) convened to hear evidence, make findings of fact, and render an impartial verdict officially submitted to them by a court, or to set a penalty or judgment. Most trial juries are \"petit juries\", and consist of up to 15 people. Primarily in the United States, a larger jury known as a grand jury is used to investigate potential crimes and render indictments against suspects, and consists of between 16 and 23 jurors.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jury",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Attributed_to_Remigius_van_Leemput_%28d._1675%29_-_Portrait_of_a_Woman_-_RCIN_402991_-_Royal_Collection.jpg/1280px-Attributed_to_Remigius_van_Leemput_%28d._1675%29_-_Portrait_of_a_Woman_-_RCIN_402991_-_Royal_Collection.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Attributed_to_Remigius_van_Leemput_%28d._1675%29_-_Portrait_of_a_Woman_-_RCIN_402991_-_Royal_Collection.jpg/1280px-Attributed_to_Remigius_van_Leemput_%28d._1675%29_-_Portrait_of_a_Woman_-_RCIN_402991_-_Royal_Collection.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "attributed_to_remigius_van_leemput_(d._1675)_-_portrait_of_a_woman_-_rcin_402991_-_royal_collection.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Portrait of Anne's elder sister Mary Boleyn, by Remigius van Leemput, c. 1630–1670",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anne_Boleyn",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Anne Boleyn",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Anne_Boleyn",
+      "relatedPagesCount": 2
+    }
+  ]
+}

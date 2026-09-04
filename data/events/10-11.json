@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 10,
+    "day": 11,
+    "formatted": "10-11"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "10-11-2000-89a8266f",
+      "year": 2000,
+      "text": "NASA launches STS-92, the 100th Space Shuttle mission.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/MS_Wisoff_and_Z1_Truss_Berthing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MS_Wisoff_and_Z1_Truss_Berthing.jpg/330px-MS_Wisoff_and_Z1_Truss_Berthing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ms_wisoff_and_z1_truss_berthing.jpg",
+        "width": 3000,
+        "height": 2032,
+        "title": "STS-92",
+        "description": "2000 American crewed spaceflight to the ISS",
+        "extract": "STS-92 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Discovery. STS-92 marked the 100th mission of the Space Shuttle and Discovery's 28th flight. It was launched from Kennedy Space Center, Florida, 11 October 2000.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/STS-92",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/MS_Wisoff_and_Z1_Truss_Berthing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MS_Wisoff_and_Z1_Truss_Berthing.jpg/330px-MS_Wisoff_and_Z1_Truss_Berthing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ms_wisoff_and_z1_truss_berthing.jpg",
+          "width": 3000,
+          "height": 2032,
+          "title": "STS-92",
+          "description": "2000 American crewed spaceflight to the ISS",
+          "extract": "STS-92 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Discovery. STS-92 marked the 100th mission of the Space Shuttle and Discovery's 28th flight. It was launched from Kennedy Space Center, Florida, 11 October 2000.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-92",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/STS-92_crew.jpg/1280px-STS-92_crew.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/STS-92_crew.jpg/1280px-STS-92_crew.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "sts-92_crew.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "STS-92_crew",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-92",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "STS-92",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/STS-92",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-11-1984-6ab71226",
+      "year": 1984,
+      "text": "Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan (pictured) became the first American woman to perform a space walk.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/S83-35803_%28cropped%29.jpg/3840px-S83-35803_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/S83-35803_%28cropped%29.jpg/330px-S83-35803_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "s83-35803_(cropped).jpg",
+        "width": 6408,
+        "height": 4806,
+        "title": "Space Shuttle Challenger",
+        "description": "Space Shuttle orbiter (1983–1986)",
+        "extract": "Space Shuttle Challenger (OV-099) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the commanding ship of a nineteenth-century scientific expedition that traveled the world, Challenger was the second Space Shuttle orbiter to fly into space after Columbia, and launched on its maiden flight in April 1983. It was destroyed in January 1986 soon after launch in a disaster that killed all seven crewmembers aboard.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/S83-35803_%28cropped%29.jpg/3840px-S83-35803_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/S83-35803_%28cropped%29.jpg/330px-S83-35803_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "s83-35803_(cropped).jpg",
+          "width": 6408,
+          "height": 4806,
+          "title": "Space Shuttle Challenger",
+          "description": "Space Shuttle orbiter (1983–1986)",
+          "extract": "Space Shuttle Challenger (OV-099) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the commanding ship of a nineteenth-century scientific expedition that traveled the world, Challenger was the second Space Shuttle orbiter to fly into space after Columbia, and launched on its maiden flight in April 1983. It was destroyed in January 1986 soon after launch in a disaster that killed all seven crewmembers aboard.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Kathryn_Sullivan%2C_PCAST_Member_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kathryn_Sullivan%2C_PCAST_Member_%28cropped%29.jpg/330px-Kathryn_Sullivan%2C_PCAST_Member_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kathryn_sullivan,_pcast_member_(cropped).jpg",
+          "width": 446,
+          "height": 502,
+          "title": "Kathryn D. Sullivan",
+          "description": "American astronaut (born 1951)",
+          "extract": "Kathryn Dwyer Sullivan is an American geologist, oceanographer, and former NASA astronaut and US Navy officer. She was a crew member on three Space Shuttle missions.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kathryn_D._Sullivan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Challenger_1A.jpg/1280px-Challenger_1A.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Challenger_1A.jpg/1280px-Challenger_1A.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "challenger_1a.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Challenger being prepared in 1985 for its penultimate flight, STS-61-A",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Challenger",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-11-1968-3740f4a0",
+      "year": 1968,
+      "text": "Apollo 7, the first manned mission of NASA's Apollo program, and the first three-man American space mission, launched from Complex 34 in Cape Kennedy, Florida.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Apollo_7_during_the_first_live_television_transmission_from_space.jpg/3840px-Apollo_7_during_the_first_live_television_transmission_from_space.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Apollo_7_during_the_first_live_television_transmission_from_space.jpg/330px-Apollo_7_during_the_first_live_television_transmission_from_space.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "apollo_7_during_the_first_live_television_transmission_from_space.jpg",
+        "width": 4740,
+        "height": 3714,
+        "title": "Apollo 7",
+        "description": "First crewed flight of the Apollo space program",
+        "extract": "Apollo 7 was the first crewed flight in NASA's Apollo program, and saw the resumption of human spaceflight by the agency after the fire that killed the three Apollo 1 astronauts during a launch rehearsal test on January 27, 1967. The Apollo 7 crew was commanded by Walter M. Schirra, with Command Module Pilot Donn F. Eisele and Lunar Module pilot R. Walter Cunningham.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_7",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Apollo_7_during_the_first_live_television_transmission_from_space.jpg/3840px-Apollo_7_during_the_first_live_television_transmission_from_space.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Apollo_7_during_the_first_live_television_transmission_from_space.jpg/330px-Apollo_7_during_the_first_live_television_transmission_from_space.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "apollo_7_during_the_first_live_television_transmission_from_space.jpg",
+          "width": 4740,
+          "height": 3714,
+          "title": "Apollo 7",
+          "description": "First crewed flight of the Apollo space program",
+          "extract": "Apollo 7 was the first crewed flight in NASA's Apollo program, and saw the resumption of human spaceflight by the agency after the fire that killed the three Apollo 1 astronauts during a launch rehearsal test on January 27, 1967. The Apollo 7 crew was commanded by Walter M. Schirra, with Command Module Pilot Donn F. Eisele and Lunar Module pilot R. Walter Cunningham.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_7",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/STS115_Atlantis_undock_ISS_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/STS115_Atlantis_undock_ISS_edit2.jpg/330px-STS115_Atlantis_undock_ISS_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts115_atlantis_undock_iss_edit2.jpg",
+          "width": 2928,
+          "height": 1920,
+          "title": "Human spaceflight",
+          "description": "Spaceflight with a crew or passengers",
+          "extract": "Human spaceflight is spaceflight with a crew or passengers aboard a spacecraft, often with the spacecraft being operated directly by the onboard crew. Spacecraft can also be remotely operated from ground stations on Earth, or autonomously, without any direct human involvement. People trained for spaceflight are called astronauts, cosmonauts (Russian), or taikonauts (Chinese); and non-professionals are referred to as spaceflight participants or spacefarers. Humans have had a continuous presence in space since 2 November 2000, on the International Space Station (ISS).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Human_spaceflight",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/CCAFS-LC34.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/CCAFS-LC34.jpg/330px-CCAFS-LC34.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ccafs-lc34.jpg",
+          "width": 2306,
+          "height": 1799,
+          "title": "Cape Canaveral Launch Complex 34",
+          "description": "Launch site at Cape Canaveral Space Force Station",
+          "extract": "Launch Complex 34 (LC-34) is a deactivated launch site on Cape Canaveral Space Force Station, Florida. LC-34 and its companion LC-37 to the north were used by NASA from 1961 through 1968 to launch Saturn I and IB rockets as part of the Apollo program. It is the site of the Apollo 1 fire, which claimed the lives of astronauts Gus Grissom, Ed White, and Roger Chaffee on January 27, 1967. The first crewed Apollo launch, Apollo 7 on October 11, 1968, is the last time LC-34 was used.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cape_Canaveral_Launch_Complex_34",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Apollo 7",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Apollo_7",
+      "relatedPagesCount": 7
+    },
+    {
+      "id": "10-11-1958-35fe1724",
+      "year": 1958,
+      "text": "NASA launches Pioneer 1, its first space probe, although it fails to achieve a stable orbit.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Pioneer_I%2C_Reconstructed_Replica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Pioneer_I%2C_Reconstructed_Replica.jpg/330px-Pioneer_I%2C_Reconstructed_Replica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "pioneer_i,_reconstructed_replica.jpg",
+        "width": 2249,
+        "height": 3000,
+        "title": "Pioneer 1",
+        "description": "Failed NASA orbiter mission to the Moon (1958)",
+        "extract": "Pioneer 1 was an American space probe, the first under the auspices of NASA, which was launched by a Thor-Able rocket on 11 October 1958. It was intended to orbit the Moon and make scientific measurements, but due to a guidance error failed to achieve lunar orbit and was ultimately destroyed upon reentering Earth's atmosphere. The flight, which lasted 43 hours and reached an apogee of 113,800 km, was the second and most successful of the three Thor-Able space probes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pioneer_1",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Pioneer_I%2C_Reconstructed_Replica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Pioneer_I%2C_Reconstructed_Replica.jpg/330px-Pioneer_I%2C_Reconstructed_Replica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pioneer_i,_reconstructed_replica.jpg",
+          "width": 2249,
+          "height": 3000,
+          "title": "Pioneer 1",
+          "description": "Failed NASA orbiter mission to the Moon (1958)",
+          "extract": "Pioneer 1 was an American space probe, the first under the auspices of NASA, which was launched by a Thor-Able rocket on 11 October 1958. It was intended to orbit the Moon and make scientific measurements, but due to a guidance error failed to achieve lunar orbit and was ultimately destroyed upon reentering Earth's atmosphere. The flight, which lasted 43 hours and reached an apogee of 113,800 km, was the second and most successful of the three Thor-Able space probes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pioneer_1",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pioneer_-_payload_configuration_for_flight_2.png/1280px-Pioneer_-_payload_configuration_for_flight_2.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pioneer_-_payload_configuration_for_flight_2.png/1280px-Pioneer_-_payload_configuration_for_flight_2.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "pioneer_-_payload_configuration_for_flight_2.png",
+          "width": 800,
+          "height": 600,
+          "title": "Pioneer 1 payload configuration",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pioneer_1",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Pioneer 1",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Pioneer_1",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-11-1950-36da45ab",
+      "year": 1950,
+      "text": "CBS's field-sequential color system for television was the first to be licensed for broadcast by the U.S. Federal Communications Commission.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cbs-building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cbs-building.jpg/330px-Cbs-building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "cbs-building.jpg",
+        "width": 2448,
+        "height": 3264,
+        "title": "CBS",
+        "description": "American broadcast television and radio network",
+        "extract": "CBS Broadcasting Inc., is an American commercial broadcast television network and the flagship property of the CBS Entertainment Group division of Paramount Skydance. It is one of Paramount Skydance's three flagship subsidiaries, along with Paramount Pictures and MTV.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/CBS",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Cbs-building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Cbs-building.jpg/330px-Cbs-building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cbs-building.jpg",
+          "width": 2448,
+          "height": 3264,
+          "title": "CBS",
+          "description": "American broadcast television and radio network",
+          "extract": "CBS Broadcasting Inc., is an American commercial broadcast television network and the flagship property of the CBS Entertainment Group division of Paramount Skydance. It is one of Paramount Skydance's three flagship subsidiaries, along with Paramount Pictures and MTV.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/CBS",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "CBS",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/CBS",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-11-2018-d78426da",
+      "year": 2018,
+      "text": "Soyuz MS-10, launching an intended crew for the ISS, suffers an in-flight abort. The crew lands safely.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Expedition_57_Launch_%28NHQ201810110004%29.jpg/3840px-Expedition_57_Launch_%28NHQ201810110004%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Expedition_57_Launch_%28NHQ201810110004%29.jpg/330px-Expedition_57_Launch_%28NHQ201810110004%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "expedition_57_launch_(nhq201810110004).jpg",
+        "width": 5539,
+        "height": 3693,
+        "title": "Soyuz MS-10",
+        "description": "Aborted 2018 Russian crewed spaceflight",
+        "extract": "Soyuz MS-10 was a crewed Soyuz MS spaceflight that aborted shortly after launch on 11 October 2018 due to a failure of the Soyuz-FG launch vehicle boosters. MS-10 was the 139th flight of a Soyuz spacecraft. It was intended to transport two members of the Expedition 57 crew to the International Space Station.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Soyuz_MS-10",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Expedition_57_Launch_%28NHQ201810110004%29.jpg/3840px-Expedition_57_Launch_%28NHQ201810110004%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Expedition_57_Launch_%28NHQ201810110004%29.jpg/330px-Expedition_57_Launch_%28NHQ201810110004%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "expedition_57_launch_(nhq201810110004).jpg",
+          "width": 5539,
+          "height": 3693,
+          "title": "Soyuz MS-10",
+          "description": "Aborted 2018 Russian crewed spaceflight",
+          "extract": "Soyuz MS-10 was a crewed Soyuz MS spaceflight that aborted shortly after launch on 11 October 2018 due to a failure of the Soyuz-FG launch vehicle boosters. MS-10 was the 139th flight of a Soyuz spacecraft. It was intended to transport two members of the Expedition 57 crew to the International Space Station.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Soyuz_MS-10",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/6/6d/Soyuz_MS-10_mission_patch.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/Soyuz_MS-10_mission_patch.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "soyuz_ms-10_mission_patch.png",
+          "width": 800,
+          "height": 600,
+          "title": "Soyuz_MS-10_mission_patch",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Soyuz_MS-10",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Soyuz_MS-08_backup_crew_in_front_of_the_Soyuz_spacecraft_mockup.jpg/1280px-Soyuz_MS-08_backup_crew_in_front_of_the_Soyuz_spacecraft_mockup.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Soyuz_MS-08_backup_crew_in_front_of_the_Soyuz_spacecraft_mockup.jpg/1280px-Soyuz_MS-08_backup_crew_in_front_of_the_Soyuz_spacecraft_mockup.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "soyuz_ms-08_backup_crew_in_front_of_the_soyuz_spacecraft_mockup.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Soyuz_MS-08_backup_crew_in_front_of_the_Soyuz_spacecraft_mockup",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Soyuz_MS-10",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Soyuz MS-10",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Soyuz_MS-10",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-11-2002-9c2dda86",
+      "year": 2002,
+      "text": "A bomb exploded in the Myyrmanni shopping center in Helsinki, Finland (aftermath pictured), resulting in seven deaths and 159 injuries.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Myyrmannin_r%C3%A4j%C3%A4hdys.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Myyrmannin_r%C3%A4j%C3%A4hdys.jpg/330px-Myyrmannin_r%C3%A4j%C3%A4hdys.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "myyrmannin_räjähdys.jpg",
+        "width": 802,
+        "height": 535,
+        "title": "Myyrmanni bombing",
+        "description": "2002 bombing in Myyrmäki, Finland",
+        "extract": "The Myyrmanni bombing took place on October 11, 2002, in Myyrmäki, Vantaa, Finland, in Greater Helsinki, at the Myyrmanni shopping mall. A bomb hidden in a backpack exploded in the center of a shopping center killing seven people including the bomber. The blast left a 10-cm deep crater in the floor and blew out the glass dome of the mall. The dead included two teenagers and a seven-year-old. 159 people were injured, including 10 children. 66 victims required hospitalization while the remainder were treated and released at the scene. The bombing took place during the pre-weekend shopping surge late on a Friday afternoon, with 1,000–2,000 people in the shopping center, including many children who had come to see a clown performance.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Myyrmanni_bombing",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Myyrmannin_r%C3%A4j%C3%A4hdys.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Myyrmannin_r%C3%A4j%C3%A4hdys.jpg/330px-Myyrmannin_r%C3%A4j%C3%A4hdys.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "myyrmannin_räjähdys.jpg",
+          "width": 802,
+          "height": 535,
+          "title": "Myyrmanni bombing",
+          "description": "2002 bombing in Myyrmäki, Finland",
+          "extract": "The Myyrmanni bombing took place on October 11, 2002, in Myyrmäki, Vantaa, Finland, in Greater Helsinki, at the Myyrmanni shopping mall. A bomb hidden in a backpack exploded in the center of a shopping center killing seven people including the bomber. The blast left a 10-cm deep crater in the floor and blew out the glass dome of the mall. The dead included two teenagers and a seven-year-old. 159 people were injured, including 10 children. 66 victims required hospitalization while the remainder were treated and released at the scene. The bombing took place during the pre-weekend shopping surge late on a Friday afternoon, with 1,000–2,000 people in the shopping center, including many children who had come to see a clown performance.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Myyrmanni_bombing",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Myyrmanni_Vantaa2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Myyrmanni_Vantaa2.jpg/330px-Myyrmanni_Vantaa2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "myyrmanni_vantaa2.jpg",
+          "width": 862,
+          "height": 422,
+          "title": "Myyrmanni",
+          "description": "Shopping mall in Vantaa, Finland",
+          "extract": "Myyrmanni is a shopping center in the Myyrmäki suburb of Vantaa, Finland. The center was built in the early 1990s and has over 90 stores and 1,100 parking spaces. The main tenants of the shopping center include K-Citymarket, Prisma, Tokmanni, Clas Ohlson, Jysk, Lindex, Alko and Burger King.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Myyrmanni",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Myyrmanni bombing",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Myyrmanni_bombing",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-11-2001-70ae0a67",
+      "year": 2001,
+      "text": "The Polaroid Corporation files for federal bankruptcy protection.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Polaroid_SX-70_%284462345243%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Polaroid_SX-70_%284462345243%29.jpg/330px-Polaroid_SX-70_%284462345243%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "polaroid_sx-70_(4462345243).jpg",
+        "width": 1024,
+        "height": 972,
+        "title": "Polaroid Corporation",
+        "description": "American film and camera company (1937–2002)",
+        "extract": "Polaroid Corporation was an American company that made instant film and cameras, which survives as a brand for consumer electronics. The company was founded in 1937 by Edwin H. Land, to exploit his Polaroid polarizing polymer. Land and Polaroid created the first instant camera, the Land Camera, in 1948.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Polaroid_Corporation",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Polaroid_SX-70_%284462345243%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Polaroid_SX-70_%284462345243%29.jpg/330px-Polaroid_SX-70_%284462345243%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "polaroid_sx-70_(4462345243).jpg",
+          "width": 1024,
+          "height": 972,
+          "title": "Polaroid Corporation",
+          "description": "American film and camera company (1937–2002)",
+          "extract": "Polaroid Corporation was an American company that made instant film and cameras, which survives as a brand for consumer electronics. The company was founded in 1937 by Edwin H. Land, to exploit his Polaroid polarizing polymer. Land and Polaroid created the first instant camera, the Land Camera, in 1948.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Polaroid_Corporation",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Polaroid_80B_Highlander_instant_camera.jpg/500px-Polaroid_80B_Highlander_instant_camera.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Polaroid_80B_Highlander_instant_camera.jpg/500px-Polaroid_80B_Highlander_instant_camera.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "polaroid_80b_highlander_instant_camera.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Polaroid 80B Highlander instant camera made in the USA, circa 1959",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Polaroid_Corporation",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Polaroid_3000_Speed_Type_47_Rollfilm_Expired_June_1962.jpg/1280px-Polaroid_3000_Speed_Type_47_Rollfilm_Expired_June_1962.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Polaroid_3000_Speed_Type_47_Rollfilm_Expired_June_1962.jpg/1280px-Polaroid_3000_Speed_Type_47_Rollfilm_Expired_June_1962.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "polaroid_3000_speed_type_47_rollfilm_expired_june_1962.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Polaroid 3000 Speed Type 47 Rollfilm Expired June 1962",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Polaroid_Corporation",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Polaroid Corporation",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Polaroid_Corporation",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-11-1986-94a4dc45",
+      "year": 1986,
+      "text": "Ronald Reagan and Mikhail Gorbachev meet in Iceland to continue discussions about scaling back IRBM arsenals in Europe.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+        "width": 2399,
+        "height": 3000,
+        "title": "Ronald Reagan",
+        "description": "President of the United States from 1981 to 1989",
+        "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+          "width": 2399,
+          "height": 3000,
+          "title": "Ronald Reagan",
+          "description": "President of the United States from 1981 to 1989",
+          "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg/330px-RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rian_archive_850809_general_secretary_of_the_cpsu_cc_m._gorbachev_(crop).jpg",
+          "width": 480,
+          "height": 640,
+          "title": "Mikhail Gorbachev",
+          "description": "Leader of the Soviet Union from 1985 to 1991",
+          "extract": "Mikhail Sergeyevich Gorbachev was a Soviet and Russian politician who was the last leader of the Soviet Union from 1985 until the country's dissolution in 1991. He served as General Secretary of the Communist Party from 1985, and additionally as head of state from 1988. Ideologically, he initially adhered to Marxism–Leninism, but moved towards social democracy by the early 1990s.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/President_Ronald_Reagan_Says_Goodbye_to_Soviet_General_Secretary_Gorbachev_After_The_Last_Meeting_at_Hofdi_House_Reykjavik_Iceland_-_DPLA_-_52e614a2e7c0706a37e0b9f3a873c385.jpg/3840px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/President_Ronald_Reagan_Says_Goodbye_to_Soviet_General_Secretary_Gorbachev_After_The_Last_Meeting_at_Hofdi_House_Reykjavik_Iceland_-_DPLA_-_52e614a2e7c0706a37e0b9f3a873c385.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "thumbnail.jpg",
+          "width": 4000,
+          "height": 2651,
+          "title": "Reykjavík Summit",
+          "description": "Unsuccessful 1986 Soviet-American diplomatic summit",
+          "extract": "The Reykjavík Summit was a summit meeting between U.S. president Ronald Reagan and Soviet general secretary Mikhail Gorbachev, held in Reykjavík, Iceland, on 11–12 October 1986. The talks collapsed at the last minute, but the progress that had been achieved eventually resulted in the 1987 Intermediate-Range Nuclear Forces Treaty between the United States and the Soviet Union.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk_Summit",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Ronald Reagan",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "10-11-1999-b6d2193d",
+      "year": 1999,
+      "text": "Air Botswana pilot Chris Phatswe steals an ATR 42 from Sir Seretse Khama International Airport and later crashes it into two other aircraft at the airport, killing himself.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ATR_42-500_Hop%21_%28HOP%29_F-GPYK_-_MSN_537_%2810276128103%29.jpg/3840px-ATR_42-500_Hop%21_%28HOP%29_F-GPYK_-_MSN_537_%2810276128103%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ATR_42-500_Hop%21_%28HOP%29_F-GPYK_-_MSN_537_%2810276128103%29.jpg/330px-ATR_42-500_Hop%21_%28HOP%29_F-GPYK_-_MSN_537_%2810276128103%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "atr_42-500_hop!_(hop)_f-gpyk_-_msn_537_(10276128103).jpg",
+        "width": 3861,
+        "height": 2573,
+        "title": "ATR 42",
+        "description": "Regional turboprop airliner family",
+        "extract": "The ATR 42 is a regional airliner produced by Franco-Italian manufacturer ATR, with final assembly in Toulouse, France.\n\nOn 4 November 1981, the aircraft was launched with ATR, as a joint venture between French Aérospatiale and Aeritalia .\nThe ATR 42-300 performed its maiden flight on 16 August 1984 and type certification was granted during September 1985.\nLaunch customer Air Littoral operated its first revenue-earning flight in December of that year.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/ATR_42",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ATR_42-500_Hop%21_%28HOP%29_F-GPYK_-_MSN_537_%2810276128103%29.jpg/3840px-ATR_42-500_Hop%21_%28HOP%29_F-GPYK_-_MSN_537_%2810276128103%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ATR_42-500_Hop%21_%28HOP%29_F-GPYK_-_MSN_537_%2810276128103%29.jpg/330px-ATR_42-500_Hop%21_%28HOP%29_F-GPYK_-_MSN_537_%2810276128103%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "atr_42-500_hop!_(hop)_f-gpyk_-_msn_537_(10276128103).jpg",
+          "width": 3861,
+          "height": 2573,
+          "title": "ATR 42",
+          "description": "Regional turboprop airliner family",
+          "extract": "The ATR 42 is a regional airliner produced by Franco-Italian manufacturer ATR, with final assembly in Toulouse, France.\n\nOn 4 November 1981, the aircraft was launched with ATR, as a joint venture between French Aérospatiale and Aeritalia .\nThe ATR 42-300 performed its maiden flight on 16 August 1984 and type certification was granted during September 1985.\nLaunch customer Air Littoral operated its first revenue-earning flight in December of that year.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/ATR_42",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/da/Aeropuerto_Internacional_Sir_Seretse_Khama_de_Gaborone%2C_Botswana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Aeropuerto_Internacional_Sir_Seretse_Khama_de_Gaborone%2C_Botswana.jpg/330px-Aeropuerto_Internacional_Sir_Seretse_Khama_de_Gaborone%2C_Botswana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aeropuerto_internacional_sir_seretse_khama_de_gaborone,_botswana.jpg",
+          "width": 3648,
+          "height": 2736,
+          "title": "Sir Seretse Khama International Airport",
+          "description": "Airport in Gaborone, Botswana",
+          "extract": "Sir Seretse Khama International Airport, located 15 kilometres (9 mi) north of downtown Gaborone, is the main international airport of the capital city of Botswana. It is the busiest airport in the country. In 2017 the airport got its first special economic zone which would house in the following departments: CAAB, Botswana Innovation Hub, ITPA and diamond hub for diamond sector.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sir_Seretse_Khama_International_Airport",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/A2-ABB_1989-08_ex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A2-ABB_1989-08_ex.jpg/330px-A2-ABB_1989-08_ex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "a2-abb_1989-08_ex.jpg",
+          "width": 2640,
+          "height": 1485,
+          "title": "1999 Air Botswana ATR 42 crash",
+          "description": "1999 aviation incident",
+          "extract": "On 11 October 1999, an Air Botswana ATR 42 piloted by Chris Phatswe, an Air Botswana pilot, intentionally crashed the aircraft into a group of aircraft at Sir Seretse Khama International Airport in Gaborone, Botswana. He was the only casualty. His actions effectively crippled operations for Air Botswana.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1999_Air_Botswana_ATR_42_crash",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Air Botswana",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Air_Botswana",
+      "relatedPagesCount": 4
+    }
+  ]
+}

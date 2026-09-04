@@ -1,0 +1,667 @@
+{
+  "date": {
+    "month": 5,
+    "day": 23,
+    "formatted": "05-23"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "05-23-1980-65deaa49",
+      "year": 1980,
+      "text": "The Shining, the psychological horror film directed by Stanley Kubrick, is premiered on 10 screens in New York City and Los Angeles on the Memorial Day weekend.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "the_shining_(1980)_u.k._release_poster_-_the_tide_of_terror_that_swept_america_is_here.jpg",
+        "width": 263,
+        "height": 379,
+        "title": "The Shining (film)",
+        "description": "1980 film by Stanley Kubrick",
+        "extract": "The Shining is a 1980 psychological horror film produced and directed by Stanley Kubrick and co-written with novelist Diane Johnson. It is based on Stephen King's 1977 novel and stars Jack Nicholson, Shelley Duvall, Danny Lloyd and Scatman Crothers. The film presents the descent into insanity of a recovering alcoholic and aspiring novelist who takes a job as winter caretaker for a mountain resort hotel with his wife and clairvoyant son.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Shining_(film)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "the_shining_(1980)_u.k._release_poster_-_the_tide_of_terror_that_swept_america_is_here.jpg",
+          "width": 263,
+          "height": 379,
+          "title": "The Shining (film)",
+          "description": "1980 film by Stanley Kubrick",
+          "extract": "The Shining is a 1980 psychological horror film produced and directed by Stanley Kubrick and co-written with novelist Diane Johnson. It is based on Stephen King's 1977 novel and stars Jack Nicholson, Shelley Duvall, Danny Lloyd and Scatman Crothers. The film presents the descent into insanity of a recovering alcoholic and aspiring novelist who takes a job as winter caretaker for a mountain resort hotel with his wife and clairvoyant son.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Shining_(film)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Stanley_Kubrick_in_Dr._Strangelove_Trailer_%284%29_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Stanley_Kubrick_in_Dr._Strangelove_Trailer_%284%29_Cropped.jpg/330px-Stanley_Kubrick_in_Dr._Strangelove_Trailer_%284%29_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "stanley_kubrick_in_dr._strangelove_trailer_(4)_cropped.jpg",
+          "width": 995,
+          "height": 1232,
+          "title": "Stanley Kubrick",
+          "description": "American filmmaker and photographer (1928–1999)",
+          "extract": "Stanley Kubrick was an American filmmaker and photographer. A prominent figure of the New Hollywood era, Kubrick is regarded as one of the greatest and most influential filmmakers. His films spanned a number of genres and gained recognition for their attention to detail, innovative cinematography, extensive set design, and dark humor.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Stanley_Kubrick",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "view_of_empire_state_building_from_rockefeller_center_new_york_city_dllu_(cropped).jpg",
+          "width": 8207,
+          "height": 4616,
+          "title": "New York City",
+          "description": "Most populous city in the United States",
+          "extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance and commerce, culture, entertainment and media, academics and scientific output, the arts and fashion—and as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/New_York_City",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "The Shining (film)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Shining_(film)",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "05-23-1992-27ef3516",
+      "year": 1992,
+      "text": "Italy's most prominent anti-mafia judge Giovanni Falcone, his wife and three body guards are killed by the Corleonesi clan with a half-ton bomb near Capaci, Sicily. His friend and colleague Paolo Borsellino will be assassinated less than two months later, making 1992 a turning point in the history of Italian Mafia prosecutions.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Giovanni_Falcone_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Giovanni_Falcone_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "giovanni_falcone_2.jpg",
+        "width": 258,
+        "height": 393,
+        "title": "Giovanni Falcone",
+        "description": "Italian judge (1939–1992)",
+        "extract": "Giovanni Falcone was an Italian judge and prosecuting magistrate. From his office in the Palace of Justice in Palermo, Sicily, he spent most of his professional life trying to overthrow the power of the Sicilian Mafia. After a long and distinguished career, culminating in the Maxi Trial in 1986–1987, on 23 May 1992, Falcone was assassinated by the Corleonesi Mafia in the Capaci bombing, on the A29 motorway near the town of Capaci.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Giovanni_Falcone",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Giovanni_Falcone_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Giovanni_Falcone_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "giovanni_falcone_2.jpg",
+          "width": 258,
+          "height": 393,
+          "title": "Giovanni Falcone",
+          "description": "Italian judge (1939–1992)",
+          "extract": "Giovanni Falcone was an Italian judge and prosecuting magistrate. From his office in the Palace of Justice in Palermo, Sicily, he spent most of his professional life trying to overthrow the power of the Sicilian Mafia. After a long and distinguished career, culminating in the Maxi Trial in 1986–1987, on 23 May 1992, Falcone was assassinated by the Corleonesi Mafia in the Capaci bombing, on the A29 motorway near the town of Capaci.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Giovanni_Falcone",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Luciano_Leggio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Luciano_Leggio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "luciano_leggio.jpg",
+          "width": 250,
+          "height": 338,
+          "title": "Corleonesi",
+          "description": "Alliance of Mafia families",
+          "extract": "The Corleonesi was an alliance of Mafia families within the Sicilian Mafia, formed in the 1970s. Notable leaders included Luciano Leggio, Salvatore Riina, Bernardo Provenzano, and Leoluca Bagarella from the Corleone Mafia family, Giovanni Brusca from San Giuseppe Jato, Nitto Santapaola from the Catania Mafia family, Michele Greco from the Greco Mafia clan, Giuseppe Calò from Porta Nuova, Matteo Messina Denaro from Castelvetrano, and others.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Corleonesi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Capaci_e_Isola_delle_Femmine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Capaci_e_Isola_delle_Femmine.jpg/330px-Capaci_e_Isola_delle_Femmine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "capaci_e_isola_delle_femmine.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Capaci",
+          "description": "Comune in Sicily, Italy",
+          "extract": "Capaci is a town and comune in the Metropolitan City of Palermo in Sicily, Italy.\nIn 2011 the comune had a population of 11,045, with a density of 1,804.7 people per square kilometre.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Capaci",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Giovanni Falcone",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Giovanni_Falcone",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "05-23-2021-10391a28",
+      "year": 2021,
+      "text": "Ryanair Flight 4978 was forced to land by Belarusian authorities, who detained dissident journalist Roman Protasevich.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ryanair_B738_SP-RSM.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ryanair_B738_SP-RSM.png/330px-Ryanair_B738_SP-RSM.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ryanair_b738_sp-rsm.png",
+        "width": 1920,
+        "height": 1080,
+        "title": "Ryanair Flight 4978",
+        "description": "2021 aviation incident in Belarus",
+        "extract": "Ryanair Flight 4978 was a regularly scheduled international passenger flight from Athens International Airport, Greece, to Vilnius Airport, Lithuania, operated by a Boeing 737-800 owned by Buzz, a Polish subsidiary of the Irish airline Ryanair. On 23 May 2021, while in Belarusian airspace, it was diverted by the Belarusian government to Minsk National Airport due to alleged claims of a Hamas bombing attempt, where two of its passengers, opposition activist and journalist Roman Protasevich and his then girlfriend Sofia Sapega, were arrested by authorities. The aircraft was allowed to depart after seven hours, reaching Vilnius eight and a half hours behind schedule.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ryanair_Flight_4978",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Ryanair_B738_SP-RSM.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ryanair_B738_SP-RSM.png/330px-Ryanair_B738_SP-RSM.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ryanair_b738_sp-rsm.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Ryanair Flight 4978",
+          "description": "2021 aviation incident in Belarus",
+          "extract": "Ryanair Flight 4978 was a regularly scheduled international passenger flight from Athens International Airport, Greece, to Vilnius Airport, Lithuania, operated by a Boeing 737-800 owned by Buzz, a Polish subsidiary of the Irish airline Ryanair. On 23 May 2021, while in Belarusian airspace, it was diverted by the Belarusian government to Minsk National Airport due to alleged claims of a Hamas bombing attempt, where two of its passengers, opposition activist and journalist Roman Protasevich and his then girlfriend Sofia Sapega, were arrested by authorities. The aircraft was allowed to depart after seven hours, reaching Vilnius eight and a half hours behind schedule.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ryanair_Flight_4978",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%A1%D0%9C_%D0%A0%D0%91_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/%D0%AD%D0%BC%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%A1%D0%9C_%D0%A0%D0%91_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "эмблема_см_рб_(cropped).png",
+          "width": 176,
+          "height": 108,
+          "title": "Government of Belarus",
+          "description": "National government",
+          "extract": "The Government of the Republic of Belarus, which consists of the Council of Ministers of the Republic of Belarus, is the executive branch of state power in Belarus, and is appointed by the President of Belarus. The head of the Government is the Prime Minister of Belarus, who manages the main agenda of the government and direct the ministers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Government_of_Belarus",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%9F%D1%80%D0%BE%D1%82%D0%B0%D1%81%D0%B5%D0%B2%D0%B8%D1%87_-_01_%2814-06-2021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%9F%D1%80%D0%BE%D1%82%D0%B0%D1%81%D0%B5%D0%B2%D0%B8%D1%87_-_01_%2814-06-2021%29.jpg/330px-%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%9F%D1%80%D0%BE%D1%82%D0%B0%D1%81%D0%B5%D0%B2%D0%B8%D1%87_-_01_%2814-06-2021%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "роман_протасевич_-_01_(14-06-2021).jpg",
+          "width": 450,
+          "height": 641,
+          "title": "Roman Protasevich",
+          "description": "Belarusian blogger (born 1995)",
+          "extract": "Roman Dmitriyevich Protasevich or Raman Dzmitryevich Pratasevich is a Belarusian TV presenter and former blogger and political activist. He was the editor-in-chief of the Telegram channel Nexta and chief editor of the Telegram channel Belarus of the Brain.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Roman_Protasevich",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Ryanair Flight 4978",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ryanair_Flight_4978",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-23-1706-e0adacf4",
+      "year": 1706,
+      "text": "John Churchill, 1st Duke of Marlborough, defeats a French army under Marshal François de Neufville, duc de Villeroy at the Battle of Ramillies.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/John_Churchill%2C_1st_Duke_of_Marlborough%2C_Captain-General_of_the_English_forces_and_Master-General_of_the_Ordnance%2C_1702_%28c%29%2C_attributed_to_Michael_Dahl_91996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/John_Churchill%2C_1st_Duke_of_Marlborough%2C_Captain-General_of_the_English_forces_and_Master-General_of_the_Ordnance%2C_1702_%28c%29%2C_attributed_to_Michael_Dahl_91996.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "john_churchill,_1st_duke_of_marlborough,_captain-general_of_the_english_forces_and_master-general_of_the_ordnance,_1702_(c),_attributed_to_michael_dahl_91996.jpg",
+        "width": 800,
+        "height": 990,
+        "title": "John Churchill, 1st Duke of Marlborough",
+        "description": "British army officer and statesman (1650–1722)",
+        "extract": "General John Churchill, 1st Duke of Marlborough, 1st Prince of Mindelheim, 1st Count of Nellenburg, Prince of the Holy Roman Empire was a British army officer and statesman. From a gentry family, he served as a page at the court of the House of Stuart under James, Duke of York, through the 1670s and early 1680s, earning military and political advancement through his courage and diplomatic skill. He is known for never having lost a battle.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_Churchill%2C_1st_Duke_of_Marlborough",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/John_Churchill%2C_1st_Duke_of_Marlborough%2C_Captain-General_of_the_English_forces_and_Master-General_of_the_Ordnance%2C_1702_%28c%29%2C_attributed_to_Michael_Dahl_91996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/John_Churchill%2C_1st_Duke_of_Marlborough%2C_Captain-General_of_the_English_forces_and_Master-General_of_the_Ordnance%2C_1702_%28c%29%2C_attributed_to_Michael_Dahl_91996.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "john_churchill,_1st_duke_of_marlborough,_captain-general_of_the_english_forces_and_master-general_of_the_ordnance,_1702_(c),_attributed_to_michael_dahl_91996.jpg",
+          "width": 800,
+          "height": 990,
+          "title": "John Churchill, 1st Duke of Marlborough",
+          "description": "British army officer and statesman (1650–1722)",
+          "extract": "General John Churchill, 1st Duke of Marlborough, 1st Prince of Mindelheim, 1st Count of Nellenburg, Prince of the Holy Roman Empire was a British army officer and statesman. From a gentry family, he served as a page at the court of the House of Stuart under James, Duke of York, through the 1670s and early 1680s, earning military and political advancement through his courage and diplomatic skill. He is known for never having lost a battle.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_Churchill%2C_1st_Duke_of_Marlborough",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Rigaud_-_Fran%C3%A7ois_de_Neufville%2C_2e._Duc_de_Villeroy%2C_Mar%C3%A9chal_de_France.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Rigaud_-_Fran%C3%A7ois_de_Neufville%2C_2e._Duc_de_Villeroy%2C_Mar%C3%A9chal_de_France.jpg/330px-Rigaud_-_Fran%C3%A7ois_de_Neufville%2C_2e._Duc_de_Villeroy%2C_Mar%C3%A9chal_de_France.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rigaud_-_françois_de_neufville,_2e._duc_de_villeroy,_maréchal_de_france.jpg",
+          "width": 613,
+          "height": 753,
+          "title": "François de Neufville, 2nd Duke of Villeroy",
+          "description": "French Royal Army officer and nobleman",
+          "extract": "François de Neufville, 2nd Duke of Villeroy was a French Royal Army officer and nobleman. He was involved in a number of military losses such as the Siege of Namur (1695), the Battle of Chiari in 1701, and the Battle of Ramillies in 1706. He was also responsible for the Bombardment of Brussels in 1695.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_de_Neufville%2C_2nd_Duke_of_Villeroy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/De_slag_bij_Ramillies_tussen_de_Fransen_en_de_Geallieerden%2C_23_mei_1706%2C_SK-A-4061.jpg/3840px-De_slag_bij_Ramillies_tussen_de_Fransen_en_de_Geallieerden%2C_23_mei_1706%2C_SK-A-4061.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/De_slag_bij_Ramillies_tussen_de_Fransen_en_de_Geallieerden%2C_23_mei_1706%2C_SK-A-4061.jpg/330px-De_slag_bij_Ramillies_tussen_de_Fransen_en_de_Geallieerden%2C_23_mei_1706%2C_SK-A-4061.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "de_slag_bij_ramillies_tussen_de_fransen_en_de_geallieerden,_23_mei_1706,_sk-a-4061.jpg",
+          "width": 7372,
+          "height": 5594,
+          "title": "Battle of Ramillies",
+          "description": "1706 battle in the War of the Spanish Succession",
+          "extract": "The Battle of Ramillies, fought on 23 May 1706, was a battle of the War of the Spanish Succession. For the Grand Alliance – Austria, England, and the Dutch Republic – the battle had followed an indecisive campaign against the Bourbon armies of King Louis XIV of France in 1705. Although the Allies had captured Barcelona that year, they had been forced to abandon their campaign on the Moselle, had stalled in the Spanish Netherlands and suffered defeat in northern Italy. Yet despite his opponents' setbacks Louis XIV wanted peace, but on reasonable terms. Because of this, as well as to maintain their momentum, the French and their allies took the offensive in 1706.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Ramillies",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "John Churchill, 1st Duke of Marlborough",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/John_Churchill%2C_1st_Duke_of_Marlborough",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-23-1533-b092a505",
+      "year": 1533,
+      "text": "The marriage of King Henry VIII to Catherine of Aragon is declared null and void.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg/330px-After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "after_hans_holbein_the_younger_-_portrait_of_henry_viii_-_google_art_project.jpg",
+        "width": 2040,
+        "height": 3588,
+        "title": "Henry VIII",
+        "description": "King of England from 1509 to 1547",
+        "extract": "Henry VIII was King of England and Ireland from 22 April 1509 until his death in 1547.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg/330px-After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "after_hans_holbein_the_younger_-_portrait_of_henry_viii_-_google_art_project.jpg",
+          "width": 2040,
+          "height": 3588,
+          "title": "Henry VIII",
+          "description": "King of England from 1509 to 1547",
+          "extract": "Henry VIII was King of England and Ireland from 22 April 1509 until his death in 1547.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Catherine_of_Aragon_%281485-1536%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Catherine_of_Aragon_%281485-1536%29.jpg/330px-Catherine_of_Aragon_%281485-1536%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "catherine_of_aragon_(1485-1536).jpg",
+          "width": 1856,
+          "height": 2200,
+          "title": "Catherine of Aragon",
+          "description": "Queen of England from 1509 to 1533",
+          "extract": "Catherine of Aragon was Queen of England as the first wife of Henry VIII from their marriage on 11 June 1509 until its annulment on 23 May 1533. She had previously been Princess of Wales as the wife of Henry's elder brother Arthur, Prince of Wales for a short time before his death.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Enrique_VII_de_Inglaterra%2C_por_un_artista_an%C3%B3nimo.jpg/500px-Enrique_VII_de_Inglaterra%2C_por_un_artista_an%C3%B3nimo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Enrique_VII_de_Inglaterra%2C_por_un_artista_an%C3%B3nimo.jpg/500px-Enrique_VII_de_Inglaterra%2C_por_un_artista_an%C3%B3nimo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "enrique_vii_de_inglaterra,_por_un_artista_anónimo.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Enrique_VII_de_Inglaterra,_por_un_artista_anónimo",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Henry VIII",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-23-2022-10800286",
+      "year": 2022,
+      "text": "Anthony Albanese of the Australian Labor Party is sworn in as the 31st Prime Minister of Australia after winning the 2022 Australian federal election, ending 9 years of conservative rule.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg/330px-Anthony_Albanese_portrait_%28re-crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "anthony_albanese_portrait_(re-crop).jpg",
+        "width": 1677,
+        "height": 2237,
+        "title": "Anthony Albanese",
+        "description": "Prime Minister of Australia since 2022",
+        "extract": "Anthony Norman Albanese is an Australian politician who has served as the 31st prime minister of Australia since 2022. He has been the leader of the Labor Party since 2019 and the member of Parliament (MP) for the New South Wales division of Grayndler since 1996.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anthony_Albanese",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg/330px-Anthony_Albanese_portrait_%28re-crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anthony_albanese_portrait_(re-crop).jpg",
+          "width": 1677,
+          "height": 2237,
+          "title": "Anthony Albanese",
+          "description": "Prime Minister of Australia since 2022",
+          "extract": "Anthony Norman Albanese is an Australian politician who has served as the 31st prime minister of Australia since 2022. He has been the leader of the Labor Party since 2019 and the member of Parliament (MP) for the New South Wales division of Grayndler since 1996.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anthony_Albanese",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anthony_Albanese_portrait_%283x4_close_cropped%29.jpg/500px-Anthony_Albanese_portrait_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Anthony_Albanese_portrait_%283x4_close_cropped%29.jpg/500px-Anthony_Albanese_portrait_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "anthony_albanese_portrait_(3x4_close_cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Anthony_Albanese_portrait_(3x4_close_cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anthony_Albanese",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Anthony Albanese",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Anthony_Albanese",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "05-23-2015-89e81722",
+      "year": 2015,
+      "text": "At least 30 people are killed as a result of floods and tornadoes in Texas, Oklahoma, and northern Mexico.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Blanco_River_May_25%2C_2015_hydrograph.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Blanco_River_May_25%2C_2015_hydrograph.png/330px-Blanco_River_May_25%2C_2015_hydrograph.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "blanco_river_may_25,_2015_hydrograph.png",
+        "width": 600,
+        "height": 465,
+        "title": "Tornado outbreak and floods of May 23–26, 2015",
+        "description": "Wind and rainstorm in the south-central United States and Mexico",
+        "extract": "Preceded by more than a week of heavy rain, a slow-moving storm system dropped tremendous precipitation across much of Texas and Oklahoma during the nights of May 24–26, 2015, triggering record-breaking floods. Additionally, many areas reported tornado activity and lightning. Particularly hard hit were areas along the Blanco River in Hays County, Texas, where entire blocks of homes were leveled. On the morning of May 26, the National Weather Service issued a flash flood emergency for southwest Harris County and northeast Fort Bend County. The system also produced deadly tornadoes in parts of Mexico, Texas, and Oklahoma. This flood significantly contributed to the wettest month ever for Texas and Oklahoma.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tornado_outbreak_and_floods_of_May_23%E2%80%9326%2C_2015",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Blanco_River_May_25%2C_2015_hydrograph.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Blanco_River_May_25%2C_2015_hydrograph.png/330px-Blanco_River_May_25%2C_2015_hydrograph.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "blanco_river_may_25,_2015_hydrograph.png",
+          "width": 600,
+          "height": 465,
+          "title": "Tornado outbreak and floods of May 23–26, 2015",
+          "description": "Wind and rainstorm in the south-central United States and Mexico",
+          "extract": "Preceded by more than a week of heavy rain, a slow-moving storm system dropped tremendous precipitation across much of Texas and Oklahoma during the nights of May 24–26, 2015, triggering record-breaking floods. Additionally, many areas reported tornado activity and lightning. Particularly hard hit were areas along the Blanco River in Hays County, Texas, where entire blocks of homes were leveled. On the morning of May 26, the National Weather Service issued a flash flood emergency for southwest Harris County and northeast Fort Bend County. The system also produced deadly tornadoes in parts of Mexico, Texas, and Oklahoma. This flood significantly contributed to the wettest month ever for Texas and Oklahoma.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tornado_outbreak_and_floods_of_May_23%E2%80%9326%2C_2015",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Austin_Mammatus_Clouds_25_May_2015.jpg/1280px-Austin_Mammatus_Clouds_25_May_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Austin_Mammatus_Clouds_25_May_2015.jpg/1280px-Austin_Mammatus_Clouds_25_May_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "austin_mammatus_clouds_25_may_2015.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Mammatus clouds formed over Bull Creek park after wave of Memorial Day storms in Austin, May 25, 2015.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tornado_outbreak_and_floods_of_May_23%E2%80%9326%2C_2015",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Tornado outbreak and floods of May 23–26, 2015",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Tornado_outbreak_and_floods_of_May_23%E2%80%9326%2C_2015",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "05-23-2014-f766b85d",
+      "year": 2014,
+      "text": "Seven people, including the perpetrator, are killed and another 14 injured in a killing spree near the campus of University of California, Santa Barbara.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Elliot_Rodger_body_and_crashed_BMW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elliot_Rodger_body_and_crashed_BMW.jpg/330px-Elliot_Rodger_body_and_crashed_BMW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "elliot_rodger_body_and_crashed_bmw.jpg",
+        "width": 1476,
+        "height": 784,
+        "title": "Isla Vista attacks",
+        "description": "Terrorist attacks in California, U.S.",
+        "extract": "On the evening of May 23, 2014, multiple misogynistic terrorist attacks occurred in Isla Vista, California, United States. 22-year-old Elliot Rodger murdered six people and injured 14 others by gunshot, stabbing, and vehicle ramming near the campus of the University of California, Santa Barbara (UCSB), before fatally shooting himself.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isla_Vista_attacks",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Elliot_Rodger_body_and_crashed_BMW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Elliot_Rodger_body_and_crashed_BMW.jpg/330px-Elliot_Rodger_body_and_crashed_BMW.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "elliot_rodger_body_and_crashed_bmw.jpg",
+          "width": 1476,
+          "height": 784,
+          "title": "Isla Vista attacks",
+          "description": "Terrorist attacks in California, U.S.",
+          "extract": "On the evening of May 23, 2014, multiple misogynistic terrorist attacks occurred in Isla Vista, California, United States. 22-year-old Elliot Rodger murdered six people and injured 14 others by gunshot, stabbing, and vehicle ramming near the campus of the University of California, Santa Barbara (UCSB), before fatally shooting himself.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Isla_Vista_attacks",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/UC_Santa_Barbara_Seal.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/UC_Santa_Barbara_Seal.png/330px-UC_Santa_Barbara_Seal.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "uc_santa_barbara_seal.png",
+          "width": 646,
+          "height": 646,
+          "title": "University of California, Santa Barbara",
+          "description": "Public university in California, US",
+          "extract": "The University of California, Santa Barbara is a public land-grant research university in Santa Barbara County, California, United States. Tracing its roots back to 1891 as an independent teachers college, UC Santa Barbara joined the University of California system in 1944. It is the third-oldest campus in the system, after Berkeley, and UCLA.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/University_of_California%2C_Santa_Barbara",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2014_Isla_Vista_shootings_Pizza_My_Heart_cctv.png/1280px-2014_Isla_Vista_shootings_Pizza_My_Heart_cctv.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2014_Isla_Vista_shootings_Pizza_My_Heart_cctv.png/1280px-2014_Isla_Vista_shootings_Pizza_My_Heart_cctv.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "2014_isla_vista_shootings_pizza_my_heart_cctv.png",
+          "width": 800,
+          "height": 600,
+          "title": "2014_Isla_Vista_shootings_Pizza_My_Heart_cctv",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Isla_Vista_attacks",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Isla Vista attacks",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Isla_Vista_attacks",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-23-2006-7550c269",
+      "year": 2006,
+      "text": "Alaskan stratovolcano Mount Cleveland erupts.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Rainier20200906.jpg/3840px-Rainier20200906.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Rainier20200906.jpg/330px-Rainier20200906.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "rainier20200906.jpg",
+        "width": 5611,
+        "height": 3741,
+        "title": "Stratovolcano",
+        "description": "Type of conical volcano composed of layers of lava and tephra",
+        "extract": "A stratovolcano, also known as a composite volcano, is a typically conical volcano built up by many alternating layers (strata) of hardened lava and tephra. Unlike shield volcanoes, stratovolcanoes are characterized by a steep profile with a summit crater and explosive eruptions. Some have collapsed summit craters called calderas. The lava flowing from stratovolcanoes typically cools and solidifies before spreading far, due to high viscosity. The magma forming this lava is often felsic, having high to intermediate levels of silica, with lesser amounts of less viscous mafic magma. Extensive felsic lava flows are uncommon, but can travel as far as 8 kilometres.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stratovolcano",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Rainier20200906.jpg/3840px-Rainier20200906.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Rainier20200906.jpg/330px-Rainier20200906.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rainier20200906.jpg",
+          "width": 5611,
+          "height": 3741,
+          "title": "Stratovolcano",
+          "description": "Type of conical volcano composed of layers of lava and tephra",
+          "extract": "A stratovolcano, also known as a composite volcano, is a typically conical volcano built up by many alternating layers (strata) of hardened lava and tephra. Unlike shield volcanoes, stratovolcanoes are characterized by a steep profile with a summit crater and explosive eruptions. Some have collapsed summit craters called calderas. The lava flowing from stratovolcanoes typically cools and solidifies before spreading far, due to high viscosity. The magma forming this lava is often felsic, having high to intermediate levels of silica, with lesser amounts of less viscous mafic magma. Extensive felsic lava flows are uncommon, but can travel as far as 8 kilometres.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Stratovolcano",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/MountCleveland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/MountCleveland.jpg/330px-MountCleveland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mountcleveland.jpg",
+          "width": 1024,
+          "height": 689,
+          "title": "Mount Cleveland (Alaska)",
+          "description": "Nearly symmetrical stratovolcano on Chuginadak island",
+          "extract": "Mount Cleveland is a nearly symmetrical stratovolcano on the western end of Chuginadak Island, which is part of the Islands of Four Mountains just west of Umnak Island in the Fox Islands of the Aleutian Islands of Alaska. Mount Cleveland is 5,675 ft (1,730 m) high, and one of the most active of the 75 or more volcanoes in the larger Aleutian Arc. Aleutian natives named the island after their fire goddess, Chuginadak, who they believed inhabited the volcano. In 1894 a team from the United States Coast and Geodetic Survey visited the island and gave Mount Cleveland its current name, after then-president Grover Cleveland.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mount_Cleveland_(Alaska)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Broken_Top_rock_layers.jpg/1280px-Broken_Top_rock_layers.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Broken_Top_rock_layers.jpg/1280px-Broken_Top_rock_layers.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "broken_top_rock_layers.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Exposed internal structure of alternating layers of lava and pyroclastic rock in the eroded Broken Top stratovolcano in Oregon",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Stratovolcano",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Stratovolcano",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Stratovolcano",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-23-1999-1456c993",
+      "year": 1999,
+      "text": "Professional wrestler Owen Hart died immediately before a World Wrestling Federation match after dropping 70 feet (21 m) onto the ring during a botched entrance.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Owen_Hart_with_a_fan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Owen_Hart_with_a_fan.jpg/330px-Owen_Hart_with_a_fan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "owen_hart_with_a_fan.jpg",
+        "width": 762,
+        "height": 1014,
+        "title": "Owen Hart",
+        "description": "Canadian-American professional wrestler (1965–1999)",
+        "extract": "Owen James Hart was a Canadian-American professional wrestler who worked for several promotions including Stampede Wrestling, New Japan Pro-Wrestling (NJPW), World Championship Wrestling (WCW), and the World Wrestling Federation (WWF). He received most of his success in the WWF, where he wrestled under both his own name and the ring names The Blue Angel and The Blue Blazer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Owen_Hart",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Owen_Hart_with_a_fan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Owen_Hart_with_a_fan.jpg/330px-Owen_Hart_with_a_fan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "owen_hart_with_a_fan.jpg",
+          "width": 762,
+          "height": 1014,
+          "title": "Owen Hart",
+          "description": "Canadian-American professional wrestler (1965–1999)",
+          "extract": "Owen James Hart was a Canadian-American professional wrestler who worked for several promotions including Stampede Wrestling, New Japan Pro-Wrestling (NJPW), World Championship Wrestling (WCW), and the World Wrestling Federation (WWF). He received most of his success in the WWF, where he wrestled under both his own name and the ring names The Blue Angel and The Blue Blazer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Owen_Hart",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/8b/Promo_poster_for_Over_the_Edge_%281999%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b/Promo_poster_for_Over_the_Edge_%281999%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "promo_poster_for_over_the_edge_(1999).jpg",
+          "width": 240,
+          "height": 315,
+          "title": "Over the Edge (1999)",
+          "description": "World Wrestling Federation pay-per-view event",
+          "extract": "The 1999 Over the Edge was a professional wrestling pay-per-view (PPV) event produced by the World Wrestling Federation. It was the second annual and final Over the Edge and took place on May 23, 1999, at Kemper Arena in Kansas City, Missouri. The first Over the Edge event was held under the In Your House series in May 1998, but following the discontinuation of the In Your House shows after February 1999, a second Over the Edge event was scheduled as its own PPV, thus being the first former In Your House event to do so.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Over_the_Edge_(1999)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Wrestling_-_Sikeston%2C_MO_1938_-_1.jpg/1280px-Wrestling_-_Sikeston%2C_MO_1938_-_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Wrestling_-_Sikeston%2C_MO_1938_-_1.jpg/1280px-Wrestling_-_Sikeston%2C_MO_1938_-_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "wrestling_-_sikeston,_mo_1938_-_1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Wrestling_-_Sikeston,_MO_1938_-_1",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Owen_Hart",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Owen Hart",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Owen_Hart",
+      "relatedPagesCount": 2
+    }
+  ]
+}

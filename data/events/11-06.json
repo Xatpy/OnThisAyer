@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 11,
+    "day": 6,
+    "formatted": "11-06"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "11-06-2002-3125168c",
+      "year": 2002,
+      "text": "A Fokker 50 crashes near Luxembourg Airport, killing 20 and injuring three.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PH-LXP_KLM_%28393104846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/PH-LXP_KLM_%28393104846%29.jpg/330px-PH-LXP_KLM_%28393104846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ph-lxp_klm_(393104846).jpg",
+        "width": 1600,
+        "height": 1071,
+        "title": "Fokker 50",
+        "description": "Regional airliner by Fokker",
+        "extract": "The Fokker 50 is a turboprop-powered airliner manufactured and supported by Dutch aircraft manufacturer Fokker. It was designed as an improved version of the successful Fokker F27 Friendship. The Fokker 60 is a stretched freighter version of the Fokker 50.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fokker_50",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/PH-LXP_KLM_%28393104846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/PH-LXP_KLM_%28393104846%29.jpg/330px-PH-LXP_KLM_%28393104846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ph-lxp_klm_(393104846).jpg",
+          "width": 1600,
+          "height": 1071,
+          "title": "Fokker 50",
+          "description": "Regional airliner by Fokker",
+          "extract": "The Fokker 50 is a turboprop-powered airliner manufactured and supported by Dutch aircraft manufacturer Fokker. It was designed as an improved version of the successful Fokker F27 Friendship. The Fokker 60 is a stretched freighter version of the Fokker 50.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fokker_50",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Fokker_50%2C_Luxair_AN0143349.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fokker_50%2C_Luxair_AN0143349.jpg/330px-Fokker_50%2C_Luxair_AN0143349.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fokker_50,_luxair_an0143349.jpg",
+          "width": 1024,
+          "height": 698,
+          "title": "Luxair Flight 9642",
+          "description": "2002 aviation accident in Luxembourg",
+          "extract": "Luxair Flight 9642 was a scheduled international passenger flight from Berlin Tempelhof Airport, Germany, to Luxembourg Findel Airport, Luxembourg, operated by Luxembourg's national airline Luxair. On 6 November 2002, the Fokker 50 operating the flight lost control and crashed onto a field during an attempted landing at the airport. Out of 22 passengers and crew members on board, only two people survived. The crash is the deadliest aviation disaster to occur in Luxembourg and the only fatal accident in Luxair's history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Luxair_Flight_9642",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Overdracht_1e_Fokker-50_aan_DLT_%28_West_Duitsland_%29_produktielijn_Fokker-50%2C_Bestanddeelnr_934-0469.jpg/1280px-Overdracht_1e_Fokker-50_aan_DLT_%28_West_Duitsland_%29_produktielijn_Fokker-50%2C_Bestanddeelnr_934-0469.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Overdracht_1e_Fokker-50_aan_DLT_%28_West_Duitsland_%29_produktielijn_Fokker-50%2C_Bestanddeelnr_934-0469.jpg/1280px-Overdracht_1e_Fokker-50_aan_DLT_%28_West_Duitsland_%29_produktielijn_Fokker-50%2C_Bestanddeelnr_934-0469.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "overdracht_1e_fokker-50_aan_dlt_(_west_duitsland_)_produktielijn_fokker-50,_bestanddeelnr_934-0469.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Fokker 50 airliners being assembled, August 1987",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fokker_50",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Fokker 50",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Fokker_50",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-06-1988-b2ee1baf",
+      "year": 1988,
+      "text": "Two earthquakes occurring 12 minutes apart struck Yunnan near the China–Myanmar border, killing more than 730 people.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/55936-Lijiang_%2827941831943%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/55936-Lijiang_%2827941831943%29.jpg/330px-55936-Lijiang_%2827941831943%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "55936-lijiang_(27941831943).jpg",
+        "width": 3000,
+        "height": 1987,
+        "title": "Yunnan",
+        "description": "Province in Southwest China",
+        "extract": "Yunnan is an inland province in Southwestern China, spanning approximately 394,000 km2 (152,000 sq mi) and has a population of 47.2 million. The capital of the province is Kunming. The province borders the Chinese provinces of Guizhou, Sichuan, autonomous regions of Guangxi and Tibet, as well as Southeast Asian countries Myanmar (Burma), Vietnam, and Laos. Yunnan is China's fourth least developed province based on disposable income per capita in 2014.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Yunnan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/55936-Lijiang_%2827941831943%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/55936-Lijiang_%2827941831943%29.jpg/330px-55936-Lijiang_%2827941831943%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "55936-lijiang_(27941831943).jpg",
+          "width": 3000,
+          "height": 1987,
+          "title": "Yunnan",
+          "description": "Province in Southwest China",
+          "extract": "Yunnan is an inland province in Southwestern China, spanning approximately 394,000 km2 (152,000 sq mi) and has a population of 47.2 million. The capital of the province is Kunming. The province borders the Chinese provinces of Guizhou, Sichuan, autonomous regions of Guangxi and Tibet, as well as Southeast Asian countries Myanmar (Burma), Vietnam, and Laos. Yunnan is China's fourth least developed province based on disposable income per capita in 2014.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Yunnan",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "1988 Lancang–Gengma earthquakes",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1988_Lancang%E2%80%93Gengma_earthquakes",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-06-1986-29b7758b",
+      "year": 1986,
+      "text": "Sumburgh disaster: A British International Helicopters Boeing 234LR Chinook crashes 2.5 miles (4.0 km) east of Sumburgh Airport killing 45 people. It is the deadliest civilian helicopter crash on record.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/British_Airways_Chinook_G-BWFC_at_Aberdeen_1982.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/British_Airways_Chinook_G-BWFC_at_Aberdeen_1982.jpg/330px-British_Airways_Chinook_G-BWFC_at_Aberdeen_1982.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "british_airways_chinook_g-bwfc_at_aberdeen_1982.jpg",
+        "width": 1488,
+        "height": 960,
+        "title": "1986 British International Helicopters Chinook crash",
+        "description": "Fatal aviation disaster in the Shetland Islands",
+        "extract": "On 6 November 1986, a Boeing-Vertol Model 234LR Chinook helicopter returning workers from the Brent oilfield crashed on approach to land at Sumburgh Airport in the Shetland Islands. At 2.5 mi (4.0 km) from the runway the helicopter had a catastrophic forward transmission failure which caused the tandem rotor blades to collide. The helicopter crashed into the sea and sank. Forty-three passengers and two crew members were killed in the crash; one passenger and one crew member survived with injuries.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1986_British_International_Helicopters_Chinook_crash",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/British_Airways_Chinook_G-BWFC_at_Aberdeen_1982.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/British_Airways_Chinook_G-BWFC_at_Aberdeen_1982.jpg/330px-British_Airways_Chinook_G-BWFC_at_Aberdeen_1982.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "british_airways_chinook_g-bwfc_at_aberdeen_1982.jpg",
+          "width": 1488,
+          "height": 960,
+          "title": "1986 British International Helicopters Chinook crash",
+          "description": "Fatal aviation disaster in the Shetland Islands",
+          "extract": "On 6 November 1986, a Boeing-Vertol Model 234LR Chinook helicopter returning workers from the Brent oilfield crashed on approach to land at Sumburgh Airport in the Shetland Islands. At 2.5 mi (4.0 km) from the runway the helicopter had a catastrophic forward transmission failure which caused the tandem rotor blades to collide. The helicopter crashed into the sea and sank. Forty-three passengers and two crew members were killed in the crash; one passenger and one crew member survived with injuries.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1986_British_International_Helicopters_Chinook_crash",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/e5/British_International_Helicopters.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/British_International_Helicopters.png/330px-British_International_Helicopters.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "british_international_helicopters.png",
+          "width": 374,
+          "height": 122,
+          "title": "British International Helicopters",
+          "description": "British helicopter operator",
+          "extract": "British International Helicopter Services (BIH), owned by Bristow Group, is a British-owned helicopter operator. It operates a fleet of ten helicopters covering search and rescue, offshore, defence, charter and flying training activities from its bases at Newquay Airport, Coventry Airport and RAF Mount Pleasant in the Falkland Islands.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/British_International_Helicopters",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg/330px-CH-47_assigned_to_3rd_General_Support_Aviation_Battalion%2C_82nd_Combat_Aviation_Brigade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ch-47_assigned_to_3rd_general_support_aviation_battalion,_82nd_combat_aviation_brigade.jpg",
+          "width": 1950,
+          "height": 1228,
+          "title": "Boeing CH-47 Chinook",
+          "description": "American tandem-rotor helicopter introduced in 1962 during the Cold War",
+          "extract": "The Boeing CH-47 Chinook is a tandem-rotor helicopter originally developed by American rotorcraft company Vertol and now manufactured by Boeing Defense, Space & Security. The Chinook is a heavy-lift helicopter that is the second-heaviest lifting Western helicopter to the Sikorsky CH-53. Its name, Chinook, is from the Native American Chinook people of Oregon and Washington.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "1986 British International Helicopters Chinook crash",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1986_British_International_Helicopters_Chinook_crash",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-06-1869-7f1eddd0",
+      "year": 1869,
+      "text": "In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/New_brunswick_from_the_air_in_February_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/New_brunswick_from_the_air_in_February_2026.jpg/330px-New_brunswick_from_the_air_in_February_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "new_brunswick_from_the_air_in_february_2026.jpg",
+        "width": 1600,
+        "height": 1200,
+        "title": "New Brunswick, New Jersey",
+        "description": "City in Middlesex County, New Jersey, US",
+        "extract": "New Brunswick is a city in and the county seat of Middlesex County, in the U.S. state of New Jersey. A regional commercial hub for Central New Jersey, the city is both a college town and a commuter town for residents working in New York City within the New York metropolitan area. The New Brunswick station is a major stop for NJ Transit on the Northeast Corridor rail line, 33 miles (53 km) southwest of New York Penn Station in Midtown Manhattan. The city is located on the southern banks of the Raritan River, in the heart of the Raritan Valley region.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/New_Brunswick%2C_New_Jersey",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/New_brunswick_from_the_air_in_February_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/New_brunswick_from_the_air_in_February_2026.jpg/330px-New_brunswick_from_the_air_in_February_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "new_brunswick_from_the_air_in_february_2026.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": "New Brunswick, New Jersey",
+          "description": "City in Middlesex County, New Jersey, US",
+          "extract": "New Brunswick is a city in and the county seat of Middlesex County, in the U.S. state of New Jersey. A regional commercial hub for Central New Jersey, the city is both a college town and a commuter town for residents working in New York City within the New York metropolitan area. The New Brunswick station is a major stop for NJ Transit on the Northeast Corridor rail line, 33 miles (53 km) southwest of New York Penn Station in Midtown Manhattan. The city is located on the southern banks of the Raritan River, in the heart of the Raritan Valley region.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/New_Brunswick%2C_New_Jersey",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/US_Navy_051203-N-2383B-223_U.S._Naval_Academy_Midshipman_fullback_Adam_Ballard_%2822%29_rushes_for_one_of_two_touchdowns_while_being_persued_by_Army_defenders_Cason_Shrode_%2854%29_and_Taylor_Justice_%2842%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/US_Navy_051203-N-2383B-223_U.S._Naval_Academy_Midshipman_fullback_Adam_Ballard_%2822%29_rushes_for_one_of_two_touchdowns_while_being_persued_by_Army_defenders_Cason_Shrode_%2854%29_and_Taylor_Justice_%2842%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "us_navy_051203-n-2383b-223_u.s._naval_academy_midshipman_fullback_adam_ballard_(22)_rushes_for_one_of_two_touchdowns_while_being_persued_by_army_defenders_cason_shrode_(54)_and_taylor_justice_(42).jpg",
+          "width": 2404,
+          "height": 1776,
+          "title": "College football",
+          "description": "College version of American/Canadian gridiron football",
+          "extract": "College football is gridiron football that is played by teams of amateur student-athletes at universities and colleges. It was through collegiate competition that gridiron football first gained popularity in the United States.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/College_football",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rutgers_spelled_out_in_hedge_on_College_Ave_campus_New_Brunswick_NJ.JPG/500px-Rutgers_spelled_out_in_hedge_on_College_Ave_campus_New_Brunswick_NJ.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Rutgers_spelled_out_in_hedge_on_College_Ave_campus_New_Brunswick_NJ.JPG/500px-Rutgers_spelled_out_in_hedge_on_College_Ave_campus_New_Brunswick_NJ.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "rutgers_spelled_out_in_hedge_on_college_ave_campus_new_brunswick_nj.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Rutgers_spelled_out_in_hedge_on_College_Ave_campus_New_Brunswick_NJ",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/New_Brunswick%2C_New_Jersey",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "New Brunswick, New Jersey",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/New_Brunswick%2C_New_Jersey",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "11-06-2012-6cbde2a8",
+      "year": 2012,
+      "text": "Tammy Baldwin became the first openly gay politician to be elected to the United States Senate.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Tammy_Baldwin%2C_official_portrait%2C_113th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tammy_Baldwin%2C_official_portrait%2C_113th_Congress.jpg/330px-Tammy_Baldwin%2C_official_portrait%2C_113th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "tammy_baldwin,_official_portrait,_113th_congress.jpg",
+        "width": 2400,
+        "height": 3040,
+        "title": "Tammy Baldwin",
+        "description": "American politician and lawyer (born 1962)",
+        "extract": "Tammy Suzanne Green Baldwin is an American politician and lawyer serving since 2013 as the junior United States senator from Wisconsin. A member of the Democratic Party, she has also served as the secretary of the Senate Democratic Caucus since 2017. Baldwin has been the dean of the United States congressional delegation from Wisconsin since 2023, when Representative Ron Kind retired.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tammy_Baldwin",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Tammy_Baldwin%2C_official_portrait%2C_113th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Tammy_Baldwin%2C_official_portrait%2C_113th_Congress.jpg/330px-Tammy_Baldwin%2C_official_portrait%2C_113th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tammy_baldwin,_official_portrait,_113th_congress.jpg",
+          "width": 2400,
+          "height": 3040,
+          "title": "Tammy Baldwin",
+          "description": "American politician and lawyer (born 1962)",
+          "extract": "Tammy Suzanne Green Baldwin is an American politician and lawyer serving since 2013 as the junior United States senator from Wisconsin. A member of the Democratic Party, she has also served as the secretary of the Senate Democratic Caucus since 2017. Baldwin has been the dean of the United States congressional delegation from Wisconsin since 2023, when Representative Ron Kind retired.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tammy_Baldwin",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Tammy Baldwin",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Tammy_Baldwin",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-06-2004-63188543",
+      "year": 2004,
+      "text": "A man committing suicide parked his car on the railway tracks in Ufton Nervet, Berkshire, England, causing a derailment that also killed six people on the train.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ufton_Nervet_church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ufton_Nervet_church.jpg/330px-Ufton_Nervet_church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ufton_nervet_church.jpg",
+        "width": 2304,
+        "height": 3072,
+        "title": "Ufton Nervet",
+        "description": "Village and civil parish in England",
+        "extract": "Ufton Nervet is a village and civil parish in West Berkshire, England centred 6 miles (10 km) west southwest of the large town of Reading and 7 miles\neast of Thatcham. Ufton Nervet has an elected civil parish council.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ufton_Nervet",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ufton_Nervet_church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ufton_Nervet_church.jpg/330px-Ufton_Nervet_church.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ufton_nervet_church.jpg",
+          "width": 2304,
+          "height": 3072,
+          "title": "Ufton Nervet",
+          "description": "Village and civil parish in England",
+          "extract": "Ufton Nervet is a village and civil parish in West Berkshire, England centred 6 miles (10 km) west southwest of the large town of Reading and 7 miles\neast of Thatcham. Ufton Nervet has an elected civil parish council.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ufton_Nervet",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Class_43_43019_Penzance_28-06-2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Class_43_43019_Penzance_28-06-2003.jpg/330px-Class_43_43019_Penzance_28-06-2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "class_43_43019_penzance_28-06-2003.jpg",
+          "width": 2592,
+          "height": 1728,
+          "title": "Ufton Nervet rail crash",
+          "description": "2004 rail crash in Berkshire, England",
+          "extract": "The Ufton Nervet rail crash occurred on 6 November 2004 when a passenger train collided with a stationary car on a level crossing on the Reading–Taunton line near Ufton Nervet, Berkshire, England. The collision derailed the train, and seven people—including the drivers of the train and the car—were killed. An inquest found that all railway personnel and systems were operating correctly, and the crash was caused by the suicide of the car driver.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ufton_Nervet_rail_crash",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Ufton Nervet",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ufton_Nervet",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-06-1944-3dede203",
+      "year": 1944,
+      "text": "The B Reactor at the Hanford Site in the U.S. state of Washington began producing plutonium, with the facility later going on to create more for nearly the entire American nuclear arsenal.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hanford_B_Reactor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hanford_B_Reactor.jpg/330px-Hanford_B_Reactor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hanford_b_reactor.jpg",
+        "width": 1411,
+        "height": 1106,
+        "title": "B Reactor",
+        "description": "First industrial-scale nuclear reactor",
+        "extract": "The B Reactor at the Hanford Site, near Richland, Washington, was the first large-scale nuclear reactor ever built, at 250 MW. It achieved criticality on September 26, 1944. This reactor was of vital importance to the Manhattan Project, the United States nuclear weapons development program during World War II. Its purpose was to convert part of its natural uranium fuel into plutonium-239 by neutron activation, for use in nuclear weapons. Pure plutonium was then chemically separated at the site's T Plant, as an alternative to the Project's uranium enrichment plants in Tennessee. The B reactor was graphite moderated and water-cooled, via a contaminating open cycle with the Columbia River.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/B_Reactor",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hanford_B_Reactor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hanford_B_Reactor.jpg/330px-Hanford_B_Reactor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hanford_b_reactor.jpg",
+          "width": 1411,
+          "height": 1106,
+          "title": "B Reactor",
+          "description": "First industrial-scale nuclear reactor",
+          "extract": "The B Reactor at the Hanford Site, near Richland, Washington, was the first large-scale nuclear reactor ever built, at 250 MW. It achieved criticality on September 26, 1944. This reactor was of vital importance to the Manhattan Project, the United States nuclear weapons development program during World War II. Its purpose was to convert part of its natural uranium fuel into plutonium-239 by neutron activation, for use in nuclear weapons. Pure plutonium was then chemically separated at the site's T Plant, as an alternative to the Project's uranium enrichment plants in Tennessee. The B reactor was graphite moderated and water-cooled, via a contaminating open cycle with the Columbia River.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/B_Reactor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Hanford_N_Reactor_adjusted.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hanford_N_Reactor_adjusted.jpg/330px-Hanford_N_Reactor_adjusted.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hanford_n_reactor_adjusted.jpg",
+          "width": 2812,
+          "height": 2092,
+          "title": "Hanford Site",
+          "description": "Defunct American nuclear production site",
+          "extract": "The Hanford Site is a decommissioned nuclear production complex operated by the United States federal government on the Columbia River in Benton County in the U.S. state of Washington. It has also been known as Site W and the Hanford Nuclear Reservation. Established in 1943 as part of the Manhattan Project, the site was home to the Hanford Engineer Works and B Reactor, the first full-scale plutonium production reactor in the world. Plutonium manufactured at the site was used in the first atomic bomb, which was tested in the Trinity nuclear test, and in the Fat Man bomb used in the bombing of Nagasaki.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hanford_Site",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Plutonium_ring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Plutonium_ring.jpg/330px-Plutonium_ring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "plutonium_ring.jpg",
+          "width": 1295,
+          "height": 1231,
+          "title": "Plutonium",
+          "description": "Chemical element with atomic number 94 (Pu)",
+          "extract": "Plutonium is a chemical element; it has symbol Pu and atomic number 94. It is a silvery-gray actinide metal that tarnishes when exposed to air, and forms a dull coating when oxidized. The element normally exhibits six allotropes and four oxidation states. It reacts with carbon, halogens, nitrogen, silicon and hydrogen. When exposed to moist air, it forms oxides and hydrides that can expand the sample up to 70% in volume, which in turn flake off as a powder that is pyrophoric. It is radioactive and can accumulate in bones, which makes the handling of plutonium dangerous.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Plutonium",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "B Reactor",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/B_Reactor",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "11-06-1971-fce73fab",
+      "year": 1971,
+      "text": "The United States Atomic Energy Commission tests the largest U.S. underground hydrogen bomb, code-named Cannikin, on Amchitka Island in the Aleutians.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 55,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/1971-CANNIKIN-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/1971-CANNIKIN-2.jpg/330px-1971-CANNIKIN-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "1971-cannikin-2.jpg",
+        "width": 2066,
+        "height": 2985,
+        "title": "Cannikin",
+        "description": "1971 underground nuclear weapons test on Amchitka island, Alaska, United States",
+        "extract": "Cannikin was an underground nuclear weapons test performed on November 6, 1971, on Amchitka island, Alaska, by the United States Atomic Energy Commission. The experiment, part of the Operation Grommet nuclear test series, tested the unique W71 warhead design for the LIM-49 Spartan anti-ballistic missile. With an explosive yield of almost 5 megatons of TNT (21 PJ), the test was the largest underground explosion ever detonated by the United States.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cannikin",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/1971-CANNIKIN-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/1971-CANNIKIN-2.jpg/330px-1971-CANNIKIN-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1971-cannikin-2.jpg",
+          "width": 2066,
+          "height": 2985,
+          "title": "Cannikin",
+          "description": "1971 underground nuclear weapons test on Amchitka island, Alaska, United States",
+          "extract": "Cannikin was an underground nuclear weapons test performed on November 6, 1971, on Amchitka island, Alaska, by the United States Atomic Energy Commission. The experiment, part of the Operation Grommet nuclear test series, tested the unique W71 warhead design for the LIM-49 Spartan anti-ballistic missile. With an explosive yield of almost 5 megatons of TNT (21 PJ), the test was the largest underground explosion ever detonated by the United States.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cannikin",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Aleuten-Amchitka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aleuten-Amchitka.jpg/330px-Aleuten-Amchitka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aleuten-amchitka.jpg",
+          "width": 447,
+          "height": 244,
+          "title": "Amchitka Island",
+          "description": "Island in Alaska, United States",
+          "extract": "Amchitka Island is a volcanic, tectonically unstable and uninhabited \nisland in the Rat Islands group of the Aleutian Islands in southwest Alaska. It is part of the Alaska Maritime National Wildlife Refuge. The island, with a land area of roughly 116 square miles (300 km2), is about 42 miles (68 km) long and 1 to 4 miles wide. The area has a maritime climate, with many storms, and mostly overcast skies.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Amchitka_Island",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Aleuten_Lage-blank.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Aleuten_Lage-blank.png/330px-Aleuten_Lage-blank.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aleuten_lage-blank.png",
+          "width": 707,
+          "height": 545,
+          "title": "Aleutian Islands",
+          "description": "Chain of islands in the Pacific Ocean",
+          "extract": "The Aleutian Islands, also called the Aleut Islands, or Aleutic Islands, are a chain of 14 main, larger volcanic islands and 55 smaller ones.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Aleutian_Islands",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "United States Atomic Energy Commission",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/United_States_Atomic_Energy_Commission",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "11-06-1995-9a6d2726",
+      "year": 1995,
+      "text": "Cleveland Browns relocation controversy: Art Modell announces that he signed a deal that would relocate the Cleveland Browns to Baltimore.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 45,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/1980-modell-browns_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/1980-modell-browns_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "1980-modell-browns_crop.jpg",
+        "width": 289,
+        "height": 320,
+        "title": "Art Modell",
+        "description": "American businessman (1925–2012)",
+        "extract": "Arthur Bertram Modell was an American businessman, entrepreneur and National Football League (NFL) team owner. He owned the Cleveland Browns franchise for 35 years and established the Baltimore Ravens franchise, which he owned for eight years.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Art_Modell",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/1980-modell-browns_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/1980-modell-browns_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "1980-modell-browns_crop.jpg",
+          "width": 289,
+          "height": 320,
+          "title": "Art Modell",
+          "description": "American businessman (1925–2012)",
+          "extract": "Arthur Bertram Modell was an American businessman, entrepreneur and National Football League (NFL) team owner. He owned the Cleveland Browns franchise for 35 years and established the Baltimore Ravens franchise, which he owned for eight years.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Art_Modell",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Fell%27s_Point_Aerial_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fell%27s_Point_Aerial_2022.jpg/330px-Fell%27s_Point_Aerial_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fell's_point_aerial_2022.jpg",
+          "width": 2500,
+          "height": 1665,
+          "title": "Baltimore",
+          "description": "Largest city in Maryland, United States",
+          "extract": "Baltimore, also known as Baltimore City, is the most populous city in the U.S. state of Maryland. It is the 30th-most populous U.S. city with a population of 585,708 at the 2020 census and estimated at 569,997 in 2025, while the Baltimore metropolitan area at 2.86 million residents is the 22nd-largest metropolitan area in the nation. The city is also part of the Washington–Baltimore combined statistical area, which had a population of 9.97 million in 2020. Baltimore was designated as an independent city by the Constitution of Maryland in 1851. Though not located under the jurisdiction of any county in the state, it forms part of the Central Maryland region together with the surrounding county that shares its name.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Baltimore",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Cleveland_Municipal_Stadium_last_game_played_in_the_stadium_December_17%2C_1995.jpg/1280px-Cleveland_Municipal_Stadium_last_game_played_in_the_stadium_December_17%2C_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Cleveland_Municipal_Stadium_last_game_played_in_the_stadium_December_17%2C_1995.jpg/1280px-Cleveland_Municipal_Stadium_last_game_played_in_the_stadium_December_17%2C_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "cleveland_municipal_stadium_last_game_played_in_the_stadium_december_17,_1995.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Cleveland Stadium, where the Browns played until 1995.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cleveland_Browns_relocation_controversy",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Cleveland Browns relocation controversy",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cleveland_Browns_relocation_controversy",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-06-1943-12d2cfb4",
+      "year": 1943,
+      "text": "World War II: The 1st Ukrainian Front liberates Kyiv from German occupation.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 45,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+        "width": 798,
+        "height": 544,
+        "title": "World War II",
+        "description": "Global conflict from 1939 to 1945",
+        "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+          "width": 798,
+          "height": 544,
+          "title": "World War II",
+          "description": "Global conflict from 1939 to 1945",
+          "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%BD%D0%B0_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8_24_%D0%B8%D1%8E%D0%BD%D1%8F_1945_%D0%B3._%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/%D0%9F%D0%B0%D1%80%D0%B0%D0%B4_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%BD%D0%B0_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8_24_%D0%B8%D1%8E%D0%BD%D1%8F_1945_%D0%B3._%285%29.jpg/330px-%D0%9F%D0%B0%D1%80%D0%B0%D0%B4_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D1%8B_%D0%BD%D0%B0_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D0%B8_24_%D0%B8%D1%8E%D0%BD%D1%8F_1945_%D0%B3._%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "парад_победы_на_красной_площади_24_июня_1945_г._(5).jpg",
+          "width": 900,
+          "height": 600,
+          "title": "1st Ukrainian Front",
+          "description": "Military unit",
+          "extract": "The 1st Ukrainian Front, previously the Voronezh Front, was a major formation of the Red Army during World War II, being equivalent to a Western army group. They took part in the capture of Berlin, the capital of Nazi Germany.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1st_Ukrainian_Front",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kiev_Kreschatik_after_liberation_November_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Kiev_Kreschatik_after_liberation_November_1943.jpg/330px-Kiev_Kreschatik_after_liberation_November_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kiev_kreschatik_after_liberation_november_1943.jpg",
+          "width": 2431,
+          "height": 1625,
+          "title": "Battle of Kiev (1943)",
+          "description": "Battle during World War II",
+          "extract": "The Second Battle of Kiev, known on the German side as the Defensive battle in the Kiev-Zhitomir area, was a part of a much wider Soviet offensive in Ukraine known as the Battle of the Dnieper involving three strategic operations by the Soviet Red Army and its Czechoslovak units and one operational counterattack by the Wehrmacht, which took place between 4 November and 22 December 1943.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Kiev_(1943)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "World War II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_II",
+      "relatedPagesCount": 4
+    }
+  ]
+}

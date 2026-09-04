@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 1,
+    "day": 21,
+    "formatted": "01-21"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "01-21-2004-532c5f9f",
+      "year": 2004,
+      "text": "NASA's MER-A (the Mars Rover Spirit) ceases communication with mission control. The problem lies in the management of its flash memory and is fixed remotely from Earth on February 6.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/KSC-03PD-0786.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KSC-03PD-0786.jpg/330px-KSC-03PD-0786.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ksc-03pd-0786.jpg",
+        "width": 3000,
+        "height": 1955,
+        "title": "Spirit (rover)",
+        "description": "Former NASA Mars rover, active from 2004 to 2010",
+        "extract": "Spirit, also known as MER-A or MER-2, is a Mars robotic rover, active from 2004 to 2010. Spirit was operational on Mars for 2208 sols or 3.3 Martian years. It was one of two rovers of NASA's Mars Exploration Rover Mission managed by the Jet Propulsion Laboratory (JPL). Spirit landed successfully within the impact crater Gusev on Mars at 04:35 Ground UTC on January 4, 2004, three weeks before its twin, Opportunity (MER-B), which landed on the other side of the planet. Its name was chosen through a NASA-sponsored student essay competition. The rover got stuck in a \"sand trap\" in late 2009 at an angle that hampered recharging of its batteries; its last communication with Earth was on March 22, 2010.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Spirit_(rover)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/KSC-03PD-0786.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KSC-03PD-0786.jpg/330px-KSC-03PD-0786.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ksc-03pd-0786.jpg",
+          "width": 3000,
+          "height": 1955,
+          "title": "Spirit (rover)",
+          "description": "Former NASA Mars rover, active from 2004 to 2010",
+          "extract": "Spirit, also known as MER-A or MER-2, is a Mars robotic rover, active from 2004 to 2010. Spirit was operational on Mars for 2208 sols or 3.3 Martian years. It was one of two rovers of NASA's Mars Exploration Rover Mission managed by the Jet Propulsion Laboratory (JPL). Spirit landed successfully within the impact crater Gusev on Mars at 04:35 Ground UTC on January 4, 2004, three weeks before its twin, Opportunity (MER-B), which landed on the other side of the planet. Its name was chosen through a NASA-sponsored student essay competition. The rover got stuck in a \"sand trap\" in late 2009 at an angle that hampered recharging of its batteries; its last communication with Earth was on March 22, 2010.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Spirit_(rover)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/USB_flash_drive.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/USB_flash_drive.JPG/330px-USB_flash_drive.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "usb_flash_drive.jpg",
+          "width": 2592,
+          "height": 1944,
+          "title": "Flash memory",
+          "description": "Electronic non-volatile computer storage device",
+          "extract": "Flash memory is an electronic non-volatile computer memory storage medium that can be electrically erased and reprogrammed. The two main types of flash memory, NOR flash and NAND flash, are named for the NOR and NAND logic gates. Both use the same cell design, consisting of floating-gate MOSFETs. They differ at the circuit level, depending on whether the state of the bit line or word lines is pulled high or low; in NAND flash, the relationship between the bit line and the word lines resembles a NAND gate; in NOR flash, it resembles a NOR gate.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Flash_memory",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-21-1976-1350c166",
+      "year": 1976,
+      "text": "Concorde, an Anglo-French supersonic airliner, began scheduled commercial flights to London, Paris, Bahrain, and Rio de Janeiro.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/British_Airways_Concorde_G-BOAC_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/330px-British_Airways_Concorde_G-BOAC_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "british_airways_concorde_g-boac_03.jpg",
+        "width": 1024,
+        "height": 679,
+        "title": "Concorde",
+        "description": "British–French supersonic airliner",
+        "extract": "Concorde is a retired Anglo-French supersonic airliner jointly developed and manufactured by Sud Aviation and the British Aircraft Corporation (BAC).\n\nStudies began in 1954 and a UK–France treaty followed in 1962, as the programme cost was estimated at £70 million .\nConstruction of six prototypes began in February 1965, with the first flight from Toulouse on 2 March 1969.\n\nThe market forecast was 350 aircraft, with manufacturers receiving up to 100 options from major airlines.\nOn 9 October 1975, it received its French certificate of airworthiness, and was certified by the UK CAA on 5 December.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Concorde",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/British_Airways_Concorde_G-BOAC_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/British_Airways_Concorde_G-BOAC_03.jpg/330px-British_Airways_Concorde_G-BOAC_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "british_airways_concorde_g-boac_03.jpg",
+          "width": 1024,
+          "height": 679,
+          "title": "Concorde",
+          "description": "British–French supersonic airliner",
+          "extract": "Concorde is a retired Anglo-French supersonic airliner jointly developed and manufactured by Sud Aviation and the British Aircraft Corporation (BAC).\n\nStudies began in 1954 and a UK–France treaty followed in 1962, as the programme cost was estimated at £70 million .\nConstruction of six prototypes began in February 1965, with the first flight from Toulouse on 2 March 1969.\n\nThe market forecast was 350 aircraft, with manufacturers receiving up to 100 options from major airlines.\nOn 9 October 1975, it received its French certificate of airworthiness, and was certified by the UK CAA on 5 December.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Concorde",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Concorde.highup.arp.750pix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Concorde.highup.arp.750pix.jpg/330px-Concorde.highup.arp.750pix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "concorde.highup.arp.750pix.jpg",
+          "width": 750,
+          "height": 536,
+          "title": "Supersonic transport",
+          "description": "Airliner faster than the speed of sound",
+          "extract": "A supersonic transport (SST) or a supersonic airliner is a civilian supersonic aircraft designed to transport passengers at speeds greater than the speed of sound in terms of air speed. To date, the only SSTs to see regular service have been Concorde and the Tupolev Tu-144, although the Boom Technology Overture SST may succeed in starting service around 2029, which would make it the third operational SST. The last passenger flight of the Tu-144 was in June 1978 and it was last flown in 1999 by NASA. Concorde's last commercial flight was in October 2003, with a November 26, 2003, ferry flight being its last flight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Supersonic_transport",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Concorde",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Concorde",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-21-1968-4c7cfd08",
+      "year": 1968,
+      "text": "A B-52 bomber carrying four nuclear weapons crashed onto sea ice near Thule Air Base, Greenland, causing localized radioactive contamination.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/330px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "b-52_stratofortress_assigned_to_the_307th_bomb_wing_(cropped).jpg",
+        "width": 3579,
+        "height": 2436,
+        "title": "Boeing B-52 Stratofortress",
+        "description": "American strategic bomber aircraft",
+        "extract": "The Boeing B-52 Stratofortress is an American nuclear-capable subsonic jet-powered strategic bomber. The B-52 was designed and built by Boeing, which has continued to provide support and upgrades. It has been operated by the United States Air Force (USAF) since 1955 and was flown by NASA from 1959 to 2007. The bomber can carry up to 70,000 pounds (32,000 kg) of weapons and has a typical combat range of around 8,800 miles without aerial refueling.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg/330px-B-52_Stratofortress_assigned_to_the_307th_Bomb_Wing_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "b-52_stratofortress_assigned_to_the_307th_bomb_wing_(cropped).jpg",
+          "width": 3579,
+          "height": 2436,
+          "title": "Boeing B-52 Stratofortress",
+          "description": "American strategic bomber aircraft",
+          "extract": "The Boeing B-52 Stratofortress is an American nuclear-capable subsonic jet-powered strategic bomber. The B-52 was designed and built by Boeing, which has continued to provide support and upgrades. It has been operated by the United States Air Force (USAF) since 1955 and was flown by NASA from 1959 to 2007. The bomber can carry up to 70,000 pounds (32,000 kg) of weapons and has a typical combat range of around 8,800 miles without aerial refueling.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Boeing_B-52G_in_flight_061026-F-1234S-021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Boeing_B-52G_in_flight_061026-F-1234S-021.jpg/330px-Boeing_B-52G_in_flight_061026-F-1234S-021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "boeing_b-52g_in_flight_061026-f-1234s-021.jpg",
+          "width": 1800,
+          "height": 1191,
+          "title": "1968 Thule Air Base B-52 crash",
+          "description": "1968 aviation accident",
+          "extract": "On 21 January 1968, an aircraft accident, sometimes known as the Thule affair or Thule accident, involving a United States Air Force (USAF) B-52 bomber occurred near Thule Air Base in the Danish territory of Greenland. The aircraft was carrying four B28FI thermonuclear bombs on a Cold War \"Chrome Dome\" alert mission over Baffin Bay when a cabin fire forced the crew to abandon the aircraft before they could carry out an emergency landing at Thule Air Base. Six crew members ejected safely, but one who did not have an ejection seat was killed while trying to bail out. The bomber crashed onto sea ice in North Star Bay, Greenland, causing the conventional explosives aboard to detonate and the nuclear payload to rupture and disperse, resulting in radioactive contamination of the area.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1968_Thule_Air_Base_B-52_crash",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Arctic_ice.jpg/3840px-Arctic_ice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Arctic_ice.jpg/330px-Arctic_ice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "arctic_ice.jpg",
+          "width": 4251,
+          "height": 2823,
+          "title": "Sea ice",
+          "description": "Outcome of seawater as it freezes",
+          "extract": "Sea ice forms as seawater freezes. Because ice is less dense than liquid water, it floats on the ocean's surface. Sea ice covers about 7% of the Earth's surface and about 12% of the world's oceans. Much of the world's sea ice is enclosed within the polar ice packs in the Earth's polar regions: the Arctic ice pack of the Arctic Ocean and the Antarctic ice pack of the Southern Ocean. Polar packs naturally undergo significant yearly cycling, reaching their greatest surface extent in winter and retreating in summer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sea_ice",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Boeing B-52 Stratofortress",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "01-21-1960-f4387fe5",
+      "year": 1960,
+      "text": "Little Joe 1B, a Mercury spacecraft, lifts off from Wallops Island, Virginia, with Miss Sam, a female rhesus monkey, on board.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Launch_of_Little_Joe_1B%2C_January_21%2C_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Launch_of_Little_Joe_1B%2C_January_21%2C_1960.jpg/330px-Launch_of_Little_Joe_1B%2C_January_21%2C_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "launch_of_little_joe_1b,_january_21,_1960.jpg",
+        "width": 2078,
+        "height": 1633,
+        "title": "Little Joe 1B",
+        "description": "1960 launch escape system test in the U.S. Mercury program",
+        "extract": "The Little Joe 1B was a launch escape system test of the Mercury spacecraft, conducted as part of the U.S. Mercury program. The mission also carried a female rhesus monkey named Miss Sam in the Mercury spacecraft. The mission was launched January 21, 1960, from Wallops Island, Virginia. The Little Joe 1B flew to an apogee of 9.3 statute miles (15.0 km) and a range of 11.7 miles (18.9 km) out to sea. Miss Sam survived the 8 minute 35 second flight in good condition. The spacecraft was recovered by a Marine helicopter and returned to Wallops Island within about 45 minutes. Miss Sam was one of many monkeys used in space travel research.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Little_Joe_1B",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Launch_of_Little_Joe_1B%2C_January_21%2C_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Launch_of_Little_Joe_1B%2C_January_21%2C_1960.jpg/330px-Launch_of_Little_Joe_1B%2C_January_21%2C_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "launch_of_little_joe_1b,_january_21,_1960.jpg",
+          "width": 2078,
+          "height": 1633,
+          "title": "Little Joe 1B",
+          "description": "1960 launch escape system test in the U.S. Mercury program",
+          "extract": "The Little Joe 1B was a launch escape system test of the Mercury spacecraft, conducted as part of the U.S. Mercury program. The mission also carried a female rhesus monkey named Miss Sam in the Mercury spacecraft. The mission was launched January 21, 1960, from Wallops Island, Virginia. The Little Joe 1B flew to an apogee of 9.3 statute miles (15.0 km) and a range of 11.7 miles (18.9 km) out to sea. Miss Sam survived the 8 minute 35 second flight in good condition. The spacecraft was recovered by a Marine helicopter and returned to Wallops Island within about 45 minutes. Miss Sam was one of many monkeys used in space travel research.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Little_Joe_1B",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Wallops_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wallops_Island.jpg/330px-Wallops_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wallops_island.jpg",
+          "width": 441,
+          "height": 292,
+          "title": "Wallops Island",
+          "description": "Island on the U.S. East Coast, within Virginia",
+          "extract": "Wallops Island is a six-square-mile (16 km2) island in Accomack County, Virginia, part of the Virginia Barrier Islands that stretch along the eastern seaboard of the United States. It is just south of Chincoteague Island, a popular tourist destination.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wallops_Island",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rhesus_macaque_%28Macaca_mulatta_mulatta%29%2C_male%2C_Gokarna.jpg/3840px-Rhesus_macaque_%28Macaca_mulatta_mulatta%29%2C_male%2C_Gokarna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rhesus_macaque_%28Macaca_mulatta_mulatta%29%2C_male%2C_Gokarna.jpg/330px-Rhesus_macaque_%28Macaca_mulatta_mulatta%29%2C_male%2C_Gokarna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rhesus_macaque_(macaca_mulatta_mulatta),_male,_gokarna.jpg",
+          "width": 5532,
+          "height": 3688,
+          "title": "Rhesus macaque",
+          "description": "Species of Old World monkey",
+          "extract": "The rhesus macaque, colloquially rhesus monkey, is a species of Old World monkey in the Macaca genus. There are between six and nine recognised subspecies split between two groups, the Chinese-derived and the Indian-derived. Generally brown or grey in colour, it is 47–53 cm (19–21 in) in length with a 20.7–22.9 cm (8.1–9.0 in) tail and weighs 5.3–7.7 kg (12–17 lb). It is native to South, Central, and Southeast Asia and has the widest geographic range of all non-human primates, occupying a great diversity of altitudes and habitats.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rhesus_macaque",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Little Joe 1B",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Little_Joe_1B",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "01-21-1986-10ba0968",
+      "year": 1986,
+      "text": "Conservative protestors attack a mock shanty town that had been erected on the Green at Dartmouth College as part of anti-apartheid protests.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Barrio_de_Caracas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Barrio_de_Caracas.jpg/330px-Barrio_de_Caracas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "barrio_de_caracas.jpg",
+        "width": 3000,
+        "height": 1930,
+        "title": "Shanty town",
+        "description": "Improvised human settlement",
+        "extract": "A shanty town is a settlement of improvised buildings known as shanties or shacks, typically made of materials such as mud and wood, or from cheap building materials such as corrugated iron sheets. A typical shanty town is squatted and, at least initially, lacks adequate infrastructure, including proper sanitation, safe water supply, electricity and street drainage. Over time, shanty towns may develop their infrastructure and even change into middle class neighbourhoods. They can be small informal settlements or they can house millions of people.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Shanty_town",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Barrio_de_Caracas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Barrio_de_Caracas.jpg/330px-Barrio_de_Caracas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "barrio_de_caracas.jpg",
+          "width": 3000,
+          "height": 1930,
+          "title": "Shanty town",
+          "description": "Improvised human settlement",
+          "extract": "A shanty town is a settlement of improvised buildings known as shanties or shacks, typically made of materials such as mud and wood, or from cheap building materials such as corrugated iron sheets. A typical shanty town is squatted and, at least initially, lacks adequate infrastructure, including proper sanitation, safe water supply, electricity and street drainage. Over time, shanty towns may develop their infrastructure and even change into middle class neighbourhoods. They can be small informal settlements or they can house millions of people.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Shanty_town",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dartmouth_College_campus_2007-10-20_34%2C_crop_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Dartmouth_College_campus_2007-10-20_34%2C_crop_1.jpg/330px-Dartmouth_College_campus_2007-10-20_34%2C_crop_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dartmouth_college_campus_2007-10-20_34,_crop_1.jpg",
+          "width": 2421,
+          "height": 1400,
+          "title": "The Green (Dartmouth College)",
+          "description": "Grass field at Dartmouth College",
+          "extract": "The Green is a grass-covered field and common space at the center of Dartmouth College, an Ivy League university located in Hanover, New Hampshire, United States. It was among the first parcels of land obtained by the college upon its founding in 1769, and is the only creation of the 18th century remaining at the center of the campus. After being cleared of pine trees, it initially served as a pasture and later as an athletic field for College sporting events. Today, it is a central location for rallies, celebrations, and demonstrations, and serves as a general, all-purpose recreation area. The College describes the Green as \"historic\" and as the \"emotional center\" of the institution.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Green_(Dartmouth_College)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Villa31.jpg/1280px-Villa31.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Villa31.jpg/1280px-Villa31.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "villa31.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Shacks in Villa 31, near Retiro Station, Buenos Aires, Argentina, showing construction.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Shanty_town",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Shanty town",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Shanty_town",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-21-1971-9d66846b",
+      "year": 1971,
+      "text": "The current Emley Moor transmitting station, the tallest free-standing structure in the United Kingdom, begins transmitting UHF broadcasts.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/EmleyMoorMastSpring2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/EmleyMoorMastSpring2006.jpg/330px-EmleyMoorMastSpring2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "emleymoormastspring2006.jpg",
+        "width": 2048,
+        "height": 3072,
+        "title": "Emley Moor transmitting station",
+        "description": "Telecommunications and broadcasting facility in West Yorkshire, England",
+        "extract": "The Emley Moor transmitting station is a telecommunications and broadcasting facility on Emley Moor, 1 mile (1.6 km) west of the village centre of Emley, near Huddersfield, in West Yorkshire, England.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Emley_Moor_transmitting_station",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/EmleyMoorMastSpring2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/EmleyMoorMastSpring2006.jpg/330px-EmleyMoorMastSpring2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "emleymoormastspring2006.jpg",
+          "width": 2048,
+          "height": 3072,
+          "title": "Emley Moor transmitting station",
+          "description": "Telecommunications and broadcasting facility in West Yorkshire, England",
+          "extract": "The Emley Moor transmitting station is a telecommunications and broadcasting facility on Emley Moor, 1 mile (1.6 km) west of the village centre of Emley, near Huddersfield, in West Yorkshire, England.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Emley_Moor_transmitting_station",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/UHF_TV_Antenna_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/UHF_TV_Antenna_001.JPG/330px-UHF_TV_Antenna_001.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "uhf_tv_antenna_001.jpg",
+          "width": 1000,
+          "height": 400,
+          "title": "Ultra high frequency",
+          "description": "Electromagnetic spectrum 300–3000 MHz",
+          "extract": "Ultra high frequency (UHF) is the ITU designation for radio frequencies in the range between 300 megahertz (MHz) and 3 gigahertz (GHz), also known as the decimetre band as the wavelengths range from one meter to one tenth of a meter. Radio waves with frequencies above the UHF band fall into the super-high frequency (SHF) or microwave frequency range. Lower frequency signals fall into the VHF or lower bands.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ultra_high_frequency",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Emley_Moor_Mast_Wreckage.jpg/500px-Emley_Moor_Mast_Wreckage.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Emley_Moor_Mast_Wreckage.jpg/500px-Emley_Moor_Mast_Wreckage.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "emley_moor_mast_wreckage.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Wreckage of the Emley Moor Mast, which collapsed in March 1969, strewn across fields.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Emley_Moor_transmitting_station",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Emley Moor transmitting station",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Emley_Moor_transmitting_station",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-21-2025-fa420e68",
+      "year": 2025,
+      "text": "A fire at a hotel at the Kartalkaya ski resort in Turkey's Bolu Province results in 78 people killed.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Grand_Kartal_Hotel_in_Kartalkaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Grand_Kartal_Hotel_in_Kartalkaya.jpg/330px-Grand_Kartal_Hotel_in_Kartalkaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "grand_kartal_hotel_in_kartalkaya.jpg",
+        "width": 2608,
+        "height": 1952,
+        "title": "2025 Kartalkaya hotel fire",
+        "description": "Fire in Bolu Province, Turkey",
+        "extract": "On 21 January 2025, a fire occurred at the Grand Kartal Hotel at the Kartalkaya ski resort in Bolu Province, Turkey; at least 78 people died, 51 others were injured. The fire started in the hotel's fourth floor kitchen/restaurant section. It occurred during the Turkish winter school break, when the hotel was 80–90% full. The scale of the fire and number of deaths were exacerbated by the absence of smoke detectors, automatic sprinklers, functioning fire alarms, functioning emergency exit lights, and other fire safety measures. Rescue efforts were hampered by freezing weather and the hotel's remote location; firefighters did not arrive until over an hour after the fire was reported. Most victims died from suffocation.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2025_Kartalkaya_hotel_fire",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Grand_Kartal_Hotel_in_Kartalkaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Grand_Kartal_Hotel_in_Kartalkaya.jpg/330px-Grand_Kartal_Hotel_in_Kartalkaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "grand_kartal_hotel_in_kartalkaya.jpg",
+          "width": 2608,
+          "height": 1952,
+          "title": "2025 Kartalkaya hotel fire",
+          "description": "Fire in Bolu Province, Turkey",
+          "extract": "On 21 January 2025, a fire occurred at the Grand Kartal Hotel at the Kartalkaya ski resort in Bolu Province, Turkey; at least 78 people died, 51 others were injured. The fire started in the hotel's fourth floor kitchen/restaurant section. It occurred during the Turkish winter school break, when the hotel was 80–90% full. The scale of the fire and number of deaths were exacerbated by the absence of smoke detectors, automatic sprinklers, functioning fire alarms, functioning emergency exit lights, and other fire safety measures. Rescue efforts were hampered by freezing weather and the hotel's remote location; firefighters did not arrive until over an hour after the fire was reported. Most victims died from suffocation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2025_Kartalkaya_hotel_fire",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TAB%C4%B0ATIN_KALB%C4%B0_BOLU_G%C3%96LC%C3%9CK_TAB%C4%B0AT_PARKI.jpg/3840px-TAB%C4%B0ATIN_KALB%C4%B0_BOLU_G%C3%96LC%C3%9CK_TAB%C4%B0AT_PARKI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/TAB%C4%B0ATIN_KALB%C4%B0_BOLU_G%C3%96LC%C3%9CK_TAB%C4%B0AT_PARKI.jpg/330px-TAB%C4%B0ATIN_KALB%C4%B0_BOLU_G%C3%96LC%C3%9CK_TAB%C4%B0AT_PARKI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tabi̇atin_kalbi̇_bolu_gölcük_tabi̇at_parki.jpg",
+          "width": 5184,
+          "height": 3456,
+          "title": "Bolu Province",
+          "description": "Province of Turkey",
+          "extract": "Bolu Province is a province in north-western Turkey, between the capital, Ankara, and the largest city in the country, Istanbul. Its area is 8,313 square kilometres (3,210 sq mi), and its population is 320,824 (2022). The capital city of the province is Bolu.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bolu_Province",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "2025 Kartalkaya hotel fire",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2025_Kartalkaya_hotel_fire",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-21-2023-408e7e04",
+      "year": 2023,
+      "text": "A shooting at a dance studio in Monterey Park, California, left 11 people dead and injured nine others.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Memorial_Monterey_Park_Shooting.jpg/3840px-Memorial_Monterey_Park_Shooting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Memorial_Monterey_Park_Shooting.jpg/330px-Memorial_Monterey_Park_Shooting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "memorial_monterey_park_shooting.jpg",
+        "width": 5472,
+        "height": 3080,
+        "title": "2023 Monterey Park shooting",
+        "description": "Mass shooting in California, U.S.",
+        "extract": "On January 21, 2023, a mass shooting occurred in Monterey Park, California, United States. The gunman killed eleven people and injured nine others. The shooting happened at about 10:22 p.m. PST (UTC-8) at Star Ballroom Dance Studio, after an all-day Lunar New Year Festival was held on a nearby street. Shortly afterwards, the gunman drove north to Lai Lai Ballroom in nearby Alhambra to continue his shooting spree but was confronted by staff and disarmed before fleeing by car. The perpetrator was identified as 72-year-old Huu Can Tran. He died from a self-inflicted gunshot wound during a standoff with police in Torrance the next day. It is the deadliest mass shooting in the history of Los Angeles County.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2023_Monterey_Park_shooting",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Memorial_Monterey_Park_Shooting.jpg/3840px-Memorial_Monterey_Park_Shooting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Memorial_Monterey_Park_Shooting.jpg/330px-Memorial_Monterey_Park_Shooting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "memorial_monterey_park_shooting.jpg",
+          "width": 5472,
+          "height": 3080,
+          "title": "2023 Monterey Park shooting",
+          "description": "Mass shooting in California, U.S.",
+          "extract": "On January 21, 2023, a mass shooting occurred in Monterey Park, California, United States. The gunman killed eleven people and injured nine others. The shooting happened at about 10:22 p.m. PST (UTC-8) at Star Ballroom Dance Studio, after an all-day Lunar New Year Festival was held on a nearby street. Shortly afterwards, the gunman drove north to Lai Lai Ballroom in nearby Alhambra to continue his shooting spree but was confronted by staff and disarmed before fleeing by car. The perpetrator was identified as 72-year-old Huu Can Tran. He died from a self-inflicted gunshot wound during a standoff with police in Torrance the next day. It is the deadliest mass shooting in the history of Los Angeles County.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2023_Monterey_Park_shooting",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Monterey_Park_January_2013_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Monterey_Park_January_2013_002.jpg/330px-Monterey_Park_January_2013_002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "monterey_park_january_2013_002.jpg",
+          "width": 2700,
+          "height": 1800,
+          "title": "Monterey Park, California",
+          "description": "City in California, United States",
+          "extract": "Monterey Park is a city in the western San Gabriel Valley region of Los Angeles County, California, United States, approximately seven miles (11 km) east of the Downtown Los Angeles civic center. It is bordered by Alhambra, East Los Angeles, Montebello and Rosemead. The city's motto is \"Pride in the past, Faith in the future.\"",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Monterey_Park%2C_California",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2023 Monterey Park shooting",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2023_Monterey_Park_shooting",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-21-2017-22beff14",
+      "year": 2017,
+      "text": "Over 400 cities across America and 160+ countries worldwide participate in a large-scale women's march, including in Portland, on Donald Trump's first full day as President of the United States.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Women%27s_March_on_Washington_%2832593123745%29.jpg/3840px-Women%27s_March_on_Washington_%2832593123745%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Women%27s_March_on_Washington_%2832593123745%29.jpg/330px-Women%27s_March_on_Washington_%2832593123745%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "women's_march_on_washington_(32593123745).jpg",
+        "width": 5325,
+        "height": 3550,
+        "title": "2017 Women's March",
+        "description": "Political rallies for women's rights",
+        "extract": "The Women's March was an American protest on January 21, 2017, the day after the first inauguration of Donald Trump as the president of the United States. It was prompted by Trump's policy positions and rhetoric, which were and are seen as misogynistic and representing a threat to the rights of women. It was at the time the largest single-day protest in U.S. history, being surpassed three years later by the George Floyd protests. The goal of the annual marches is to advocate legislation and policies regarding human rights and other issues, including women's rights, immigration reform, healthcare reform, disability justice, reproductive rights, the environment, LGBTQ rights, racial equality, freedom of religion, workers' rights and tolerance. According to organizers, the goal was to \"send a bold message to our new administration on their first day in office, and to the world that women's rights are human rights\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2017_Women's_March",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Women%27s_March_on_Washington_%2832593123745%29.jpg/3840px-Women%27s_March_on_Washington_%2832593123745%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Women%27s_March_on_Washington_%2832593123745%29.jpg/330px-Women%27s_March_on_Washington_%2832593123745%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "women's_march_on_washington_(32593123745).jpg",
+          "width": 5325,
+          "height": 3550,
+          "title": "2017 Women's March",
+          "description": "Political rallies for women's rights",
+          "extract": "The Women's March was an American protest on January 21, 2017, the day after the first inauguration of Donald Trump as the president of the United States. It was prompted by Trump's policy positions and rhetoric, which were and are seen as misogynistic and representing a threat to the rights of women. It was at the time the largest single-day protest in U.S. history, being surpassed three years later by the George Floyd protests. The goal of the annual marches is to advocate legislation and policies regarding human rights and other issues, including women's rights, immigration reform, healthcare reform, disability justice, reproductive rights, the environment, LGBTQ rights, racial equality, freedom of religion, workers' rights and tolerance. According to organizers, the goal was to \"send a bold message to our new administration on their first day in office, and to the world that women's rights are human rights\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2017_Women's_March",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/8b/Women%27s_March_on_Portland_artwork.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Women%27s_March_on_Portland_artwork.png/330px-Women%27s_March_on_Portland_artwork.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "women's_march_on_portland_artwork.png",
+          "width": 447,
+          "height": 223,
+          "title": "Women's March on Portland",
+          "description": "2017 protest in Portland, Oregon",
+          "extract": "The Women's March on Portland, also known as the Portland Women's March, the Women's March on Washington, Portland, and Women's March Portland, was an event in Portland, Oregon. Scheduled to coincide with the 2017 Women's March, it was held on January 21, 2017, the day after the inauguration of Donald Trump. The march was one of the largest public protests in Oregon's history with crowd estimates as high as 100,000 participants. No arrests were made during the demonstration.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Women's_March_on_Portland",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_presidential_portrait_of_president_donald_j._trump_(2025).jpg",
+          "width": 1638,
+          "height": 2048,
+          "title": "Donald Trump",
+          "description": "President of the United States (2017–2021; since 2025)",
+          "extract": "Donald John Trump is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "2017 Women's March",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2017_Women's_March",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-21-2014-cb167821",
+      "year": 2014,
+      "text": "Rojava conflict: The Jazira Canton declares its autonomy from the Syrian Arab Republic.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Rojava_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rojava_Collage.jpg/330px-Rojava_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "rojava_collage.jpg",
+        "width": 2160,
+        "height": 2160,
+        "title": "Rojava Revolution",
+        "description": "Military and political conflict in northern Syria",
+        "extract": "The Rojava Revolution, also known as the Rojava conflict, was a political upheaval and military conflict that took place from 2012 to 2026 in northern Syria, known among Kurds as Western Kurdistan or Rojava.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rojava_Revolution",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Rojava_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rojava_Collage.jpg/330px-Rojava_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rojava_collage.jpg",
+          "width": 2160,
+          "height": 2160,
+          "title": "Rojava Revolution",
+          "description": "Military and political conflict in northern Syria",
+          "extract": "The Rojava Revolution, also known as the Rojava conflict, was a political upheaval and military conflict that took place from 2012 to 2026 in northern Syria, known among Kurds as Western Kurdistan or Rojava.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rojava_Revolution",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Rojava Revolution",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Rojava_Revolution",
+      "relatedPagesCount": 3
+    }
+  ]
+}

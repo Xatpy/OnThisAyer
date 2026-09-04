@@ -1,0 +1,667 @@
+{
+  "date": {
+    "month": 3,
+    "day": 18,
+    "formatted": "03-18"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "03-18-1970-5a51b77c",
+      "year": 1970,
+      "text": "Lon Nol ousts Prince Norodom Sihanouk of Cambodia.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/LonNol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/LonNol.jpg/330px-LonNol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "lonnol.jpg",
+        "width": 458,
+        "height": 720,
+        "title": "Lon Nol",
+        "description": "Prime Minister of Cambodia (1966–1967; 1969–1971)",
+        "extract": "Lon Nol was a Cambodian-Chinese military officer, politician who served as Prime Minister of Cambodia twice, as well as serving repeatedly as defence minister and provincial governor. As a right-wing nationalist, he led the military coup of 1970 against Prince Norodom Sihanouk, abolished the monarchy, and established the short-lived Khmer Republic. Constitutionally a semi-presidential republic, Cambodia was de facto governed under a military dictatorship. He was the commander-in-chief of the Khmer National Armed Forces during the Cambodian Civil War and became President of the Khmer Republic on 10 March 1972. His rule was also marked by massacres of Vietnamese Cambodians. On 1 April 1975, as the only president of the republic 16 days before Angkar and the Khmer Rouge captured Phnom Penh, Lon Nol fled to Indonesia and later the United States; first to the state of Hawaii and then to California, where he remained until his death in 1985.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lon_Nol",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/LonNol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/LonNol.jpg/330px-LonNol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lonnol.jpg",
+          "width": 458,
+          "height": 720,
+          "title": "Lon Nol",
+          "description": "Prime Minister of Cambodia (1966–1967; 1969–1971)",
+          "extract": "Lon Nol was a Cambodian-Chinese military officer, politician who served as Prime Minister of Cambodia twice, as well as serving repeatedly as defence minister and provincial governor. As a right-wing nationalist, he led the military coup of 1970 against Prince Norodom Sihanouk, abolished the monarchy, and established the short-lived Khmer Republic. Constitutionally a semi-presidential republic, Cambodia was de facto governed under a military dictatorship. He was the commander-in-chief of the Khmer National Armed Forces during the Cambodian Civil War and became President of the Khmer Republic on 10 March 1972. His rule was also marked by massacres of Vietnamese Cambodians. On 1 April 1975, as the only president of the republic 16 days before Angkar and the Khmer Rouge captured Phnom Penh, Lon Nol fled to Indonesia and later the United States; first to the state of Hawaii and then to California, where he remained until his death in 1985.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lon_Nol",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Norodom_Sihanouk_in_1941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Norodom_Sihanouk_in_1941.jpg/330px-Norodom_Sihanouk_in_1941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "norodom_sihanouk_in_1941.jpg",
+          "width": 950,
+          "height": 1296,
+          "title": "Norodom Sihanouk",
+          "description": "King of Cambodia (1941–1955; 1993–2004)",
+          "extract": "Norodom Sihanouk was King, Chief of State and Prime Minister of Cambodia. He is known as Samdech Euv or by his nickname The Pink Prince. During his lifetime, Cambodia was under various regimes, from French colonial rule, a Japanese puppet state (1945), an independent kingdom (1953–1970), a military republic (1970–1975), the Khmer Rouge regime (1975–1979), a Vietnamese-backed communist regime (1979–1989), a transitional communist regime (1989–1993) to eventually another kingdom.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Norodom_Sihanouk",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Signature_of_Lon_Nol.png/500px-Signature_of_Lon_Nol.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Signature_of_Lon_Nol.png/500px-Signature_of_Lon_Nol.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "signature_of_lon_nol.png",
+          "width": 800,
+          "height": 600,
+          "title": "Signature_of_Lon_Nol",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lon_Nol",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Lon Nol",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Lon_Nol",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-18-1968-6b31962a",
+      "year": 1968,
+      "text": "Gold standard: The U.S. Congress repeals the requirement for a gold reserve to back US currency.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Two_20kr_gold_coins.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Two_20kr_gold_coins.png/330px-Two_20kr_gold_coins.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "two_20kr_gold_coins.png",
+        "width": 2427,
+        "height": 1268,
+        "title": "Gold standard",
+        "description": "Monetary system based on the value of gold",
+        "extract": "A gold standard is a monetary system in which the standard economic unit of account is defined by a fixed quantity of gold. The gold standard was the basis for the international monetary system from the 1870s to the early 1920s, and from the late 1920s to 1932 as well as from 1944 until 1971, when the United States unilaterally terminated convertibility of the US dollar into gold, effectively ending the Bretton Woods system. Many states nonetheless hold substantial gold reserves.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gold_standard",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Two_20kr_gold_coins.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Two_20kr_gold_coins.png/330px-Two_20kr_gold_coins.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "two_20kr_gold_coins.png",
+          "width": 2427,
+          "height": 1268,
+          "title": "Gold standard",
+          "description": "Monetary system based on the value of gold",
+          "extract": "A gold standard is a monetary system in which the standard economic unit of account is defined by a fixed quantity of gold. The gold standard was the basis for the international monetary system from the 1870s to the early 1920s, and from the late 1920s to 1932 as well as from 1944 until 1971, when the United States unilaterally terminated convertibility of the US dollar into gold, effectively ending the Bretton Woods system. Many states nonetheless hold substantial gold reserves.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gold_standard",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/USDnotesNew.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/USDnotesNew.png/330px-USDnotesNew.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "usdnotesnew.png",
+          "width": 2380,
+          "height": 2075,
+          "title": "United States dollar",
+          "description": "Currency of the United States",
+          "extract": "The United States dollar is the official currency of the United States (U.S.) and several other countries. The U.S. Coinage Act of 1792 established the dollar as the base unit, with each dollar divided into 100 cents. U.S. banknotes are issued in the form of Federal Reserve Notes, popularly called greenbacks due to their predominantly green color.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/United_States_dollar",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/US-%24100-GC-1882-Fr.1207.jpg/1280px-US-%24100-GC-1882-Fr.1207.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/US-%24100-GC-1882-Fr.1207.jpg/1280px-US-%24100-GC-1882-Fr.1207.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "us-$100-gc-1882-fr.1207.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Gold certificates were used as paper currency in the United States from 1882 to 1933. These certificates were freely convertible into gold coins.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gold_standard",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Gold standard",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Gold_standard",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-18-1965-a2b5755e",
+      "year": 1965,
+      "text": "Cosmonaut Alexei Leonov, leaving his spacecraft Voskhod 2 for 12 minutes, becomes the first person to walk in space.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg/330px-Bruce_McCandless_II_during_EVA_in_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bruce_mccandless_ii_during_eva_in_1984.jpg",
+        "width": 3072,
+        "height": 3072,
+        "title": "Astronaut",
+        "description": "Spacecraft crew member",
+        "extract": "An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. Although generally reserved for professional space travelers, the term is sometimes applied to anyone who travels into space, including scientists, politicians, journalists, and space tourists. In the United States, it is a designated term used by three agencies: NASA, the FAA, and the military. The term is also used for people who are trained to fly in a spacecraft after passing certain training courses, regardless of their experience of space travel.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Astronaut",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg/330px-Bruce_McCandless_II_during_EVA_in_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bruce_mccandless_ii_during_eva_in_1984.jpg",
+          "width": 3072,
+          "height": 3072,
+          "title": "Astronaut",
+          "description": "Spacecraft crew member",
+          "extract": "An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. Although generally reserved for professional space travelers, the term is sometimes applied to anyone who travels into space, including scientists, politicians, journalists, and space tourists. In the United States, it is a designated term used by three agencies: NASA, the FAA, and the military. The term is also used for people who are trained to fly in a spacecraft after passing certain training courses, regardless of their experience of space travel.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Astronaut",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Alexei_Leonov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Alexei_Leonov.jpg/330px-Alexei_Leonov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "alexei_leonov.jpg",
+          "width": 3075,
+          "height": 3844,
+          "title": "Alexei Leonov",
+          "description": "Soviet cosmonaut (1934–2019)",
+          "extract": "Alexei Arkhipovich Leonov was a Soviet and Russian cosmonaut and aviator, Air Force major general, writer, and artist. On 18 March 1965, he became the first person to conduct a spacewalk, exiting the capsule during the Voskhod 2 mission for 12 minutes and 9 seconds. He was also selected to be the first Soviet person to land on the Moon although the project was eventually cancelled.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Alexei_Leonov",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/47/FirstSpaceWalk.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FirstSpaceWalk.png/330px-FirstSpaceWalk.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "firstspacewalk.png",
+          "width": 374,
+          "height": 267,
+          "title": "Voskhod 2",
+          "description": "Soviet crewed spaceflight; world's first space walk",
+          "extract": "Voskhod 2 was a Soviet crewed space mission in March 1965. The Vostok-based Voskhod 3KD spacecraft with two crew members on board, Pavel Belyayev and Alexei Leonov, was equipped with an inflatable airlock. It established another milestone in space exploration when Alexei Leonov became the first person to leave the spacecraft in a specialised spacesuit to conduct a 12-minute spacewalk.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Voskhod_2",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Astronaut",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Astronaut",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-18-2005-ec7baa87",
+      "year": 2005,
+      "text": "As per a court order, the feeding tube of Terri Schiavo, an American woman who suffered brain damage, was removed at the request of her husband, fueling a worldwide debate on euthanasia.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Uk-crown-court-order.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Uk-crown-court-order.jpg/330px-Uk-crown-court-order.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "uk-crown-court-order.jpg",
+        "width": 828,
+        "height": 1792,
+        "title": "Court order",
+        "description": "Official proclamation by a judge or panel of judges",
+        "extract": "A court order is an official proclamation by a judge that defines the legal relationships between the parties to a hearing, a trial, an appeal or other court proceedings. Such ruling requires or authorizes the carrying out of certain steps by one or more parties to a case. A court order must be signed by a judge; some jurisdictions may also require it to be notarized. A court order governs each case throughout its entirety. If an individual violates the court order, the judge may hold that person in contempt.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Court_order",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Uk-crown-court-order.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Uk-crown-court-order.jpg/330px-Uk-crown-court-order.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "uk-crown-court-order.jpg",
+          "width": 828,
+          "height": 1792,
+          "title": "Court order",
+          "description": "Official proclamation by a judge or panel of judges",
+          "extract": "A court order is an official proclamation by a judge that defines the legal relationships between the parties to a hearing, a trial, an appeal or other court proceedings. Such ruling requires or authorizes the carrying out of certain steps by one or more parties to a case. A court order must be signed by a judge; some jurisdictions may also require it to be notarized. A court order governs each case throughout its entirety. If an individual violates the court order, the judge may hold that person in contempt.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Court_order",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Enteral_feeding_tube_stylet_retracted.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Enteral_feeding_tube_stylet_retracted.png/330px-Enteral_feeding_tube_stylet_retracted.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "enteral_feeding_tube_stylet_retracted.png",
+          "width": 3280,
+          "height": 1976,
+          "title": "Feeding tube",
+          "description": "Medical device used to provide nutrition to people",
+          "extract": "A feeding tube is a medical device used to provide nutrition to people who cannot obtain nutrition by mouth, are unable to swallow safely, or need nutritional supplementation. The state of being fed by a feeding tube is called enteral feeding or tube feeding. Placement may be temporary for the treatment of acute conditions or lifelong in the case of chronic disabilities.\nA variety of feeding tubes are used in medical practice. They are usually made of polyurethane or silicone. The outer diameter of a feeding tube is measured in French units. They are classified by the site of insertion and intended use.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Feeding_tube",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/3/39/Schiavo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/3/39/Schiavo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "schiavo.jpg",
+          "width": 230,
+          "height": 208,
+          "title": "Terri Schiavo case",
+          "description": "American right-to-die legal case",
+          "extract": "The Terri Schiavo case was a series of court and legislative actions in the United States from 1998 to 2005, regarding the care of Theresa Marie Schiavo, a woman in an irreversible permanent vegetative state. Schiavo's husband and legal guardian argued that Schiavo would not have wanted prolonged artificial life support without the prospect of recovery, and, in 1998, he elected to remove her feeding tube. Schiavo's parents disputed her husband's assertions and challenged Schiavo's medical diagnosis, arguing in favor of continuing artificial nutrition and hydration. The highly publicized and prolonged series of legal challenges presented by her parents, which ultimately involved state and federal politicians up to the level of George W. Bush, caused a seven-year delay before Schiavo's feeding tube was ultimately removed.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Terri_Schiavo_case",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Court order",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Court_order",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "03-18-1997-88ffde8c",
+      "year": 1997,
+      "text": "The tail of a Russian Antonov An-24 charter plane breaks off while en route to Turkey, causing the plane to crash and killing all 50 people on board.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Volga-Avia_Antonov_An-24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Volga-Avia_Antonov_An-24.jpg/330px-Volga-Avia_Antonov_An-24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "volga-avia_antonov_an-24.jpg",
+        "width": 1541,
+        "height": 997,
+        "title": "Antonov An-24",
+        "description": "Soviet turboprop airplane",
+        "extract": "The Antonov An-24 is a 50-seat twin turboprop regional airliner designed in 1957 in the Soviet Union by the Antonov Design Bureau. Later variants saw other uses, such as military transport and aerial cartography. The aircraft was manufactured by the Kyiv, Irkutsk and Ulan-Ude Aviation Factories. It is still license-produced in China as the Xi'an Y-7.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Antonov_An-24",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Volga-Avia_Antonov_An-24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Volga-Avia_Antonov_An-24.jpg/330px-Volga-Avia_Antonov_An-24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "volga-avia_antonov_an-24.jpg",
+          "width": 1541,
+          "height": 997,
+          "title": "Antonov An-24",
+          "description": "Soviet turboprop airplane",
+          "extract": "The Antonov An-24 is a 50-seat twin turboprop regional airliner designed in 1957 in the Soviet Union by the Antonov Design Bureau. Later variants saw other uses, such as military transport and aerial cartography. The aircraft was manufactured by the Kyiv, Irkutsk and Ulan-Ude Aviation Factories. It is still license-produced in China as the Xi'an Y-7.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Antonov_An-24",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Antonov_An-24RV%2C_Aeroflot_AN0989806.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Antonov_An-24RV%2C_Aeroflot_AN0989806.jpg/330px-Antonov_An-24RV%2C_Aeroflot_AN0989806.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "antonov_an-24rv,_aeroflot_an0989806.jpg",
+          "width": 1024,
+          "height": 709,
+          "title": "Stavropolskaya Aktsionernaya Avia Flight 1023",
+          "description": "1997 aviation accident",
+          "extract": "Stavropolskaya Aktsionernaya Avia Flight 1023 was an international charter flight between Stavropol in southern Russia and Trabzon in Turkey operated by the Russian airline Stavropolskaya Aktsionernaya Avia (SAAK). On 18 March 1997, while cruising at 6,000 metres (20,000 ft), the Antonov An-24 operating the flight suffered a catastrophic structural failure, in which its tailplane separated in mid-flight. The aircraft then disintegrated and crashed into a forest, killing all 50 passengers and crew on board.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Stavropolskaya_Aktsionernaya_Avia_Flight_1023",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Polet_Antonov_An-24_Misko-1.jpg/960px-Polet_Antonov_An-24_Misko-1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Polet_Antonov_An-24_Misko-1.jpg/960px-Polet_Antonov_An-24_Misko-1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "polet_antonov_an-24_misko-1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Polet_Antonov_An-24_Misko-1",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Antonov_An-24",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Antonov An-24",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Antonov_An-24",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-18-1980-f9daa29c",
+      "year": 1980,
+      "text": "A Vostok-2M rocket at Plesetsk Cosmodrome Site 43 explodes during a fueling operation, killing 48 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Vostok-2M_%288A292M%29_in_Korolyov%2C_Moscow_Oblast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Vostok-2M_%288A292M%29_in_Korolyov%2C_Moscow_Oblast.jpg/330px-Vostok-2M_%288A292M%29_in_Korolyov%2C_Moscow_Oblast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "vostok-2m_(8a292m)_in_korolyov,_moscow_oblast.jpg",
+        "width": 2871,
+        "height": 4378,
+        "title": "Vostok-2M",
+        "description": "Soviet Union space launch vehicle, 1964–1991",
+        "extract": "Vostok-2M was an expendable carrier rocket used by the Soviet Union between 1964 and 1991. Ninety-three were launched, of which one failed. Another was destroyed before launch. It was originally built as a specialised version of the earlier Vostok-2, for injecting lighter payloads into higher Sun-synchronous orbits. It was a member of the R-7 family of rockets, and the last Vostok.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vostok-2M",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Vostok-2M_%288A292M%29_in_Korolyov%2C_Moscow_Oblast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Vostok-2M_%288A292M%29_in_Korolyov%2C_Moscow_Oblast.jpg/330px-Vostok-2M_%288A292M%29_in_Korolyov%2C_Moscow_Oblast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "vostok-2m_(8a292m)_in_korolyov,_moscow_oblast.jpg",
+          "width": 2871,
+          "height": 4378,
+          "title": "Vostok-2M",
+          "description": "Soviet Union space launch vehicle, 1964–1991",
+          "extract": "Vostok-2M was an expendable carrier rocket used by the Soviet Union between 1964 and 1991. Ninety-three were launched, of which one failed. Another was destroyed before launch. It was originally built as a specialised version of the earlier Vostok-2, for injecting lighter payloads into higher Sun-synchronous orbits. It was a member of the R-7 family of rockets, and the last Vostok.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vostok-2M",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Soyuz_2.1b_GLONASS-K2_13L_launch_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Soyuz_2.1b_GLONASS-K2_13L_launch_01.jpg/330px-Soyuz_2.1b_GLONASS-K2_13L_launch_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "soyuz_2.1b_glonass-k2_13l_launch_01.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Plesetsk Cosmodrome Site 43",
+          "description": "Rocket launching complex of the Plesetsk Cosmodrome in northwestern Russia",
+          "extract": "Plesetsk Cosmodrome Site 43, is a launch complex at the Plesetsk Cosmodrome in Russia. It consists of two pads, Sites 43/3 and 43/4 and has been used by R-7-derived rockets since the early 1960s. As of 2025, both pads remain in use for the Soyuz-2.1a and Soyuz-2.1b rockets.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Plesetsk_Cosmodrome_Site_43",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/1980_Plesetsk_launch_pad_disaster_memorial_in_Mirny_%281989_photo%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/1980_Plesetsk_launch_pad_disaster_memorial_in_Mirny_%281989_photo%29_%28cropped%29.jpg/330px-1980_Plesetsk_launch_pad_disaster_memorial_in_Mirny_%281989_photo%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1980_plesetsk_launch_pad_disaster_memorial_in_mirny_(1989_photo)_(cropped).jpg",
+          "width": 2581,
+          "height": 1619,
+          "title": "1980 Plesetsk launch pad disaster",
+          "description": "Vostok-2M rocket explosion during refueling",
+          "extract": "The 1980 Plesetsk launch pad disaster was the explosion of a Vostok-2M rocket carrying a Tselina-D satellite during fueling at Site 43/4 of the Plesetsk Cosmodrome in the town of Mirny in the Soviet Union at 19:01 local time (16:01 UTC) on 18 March 1980, two hours and fifteen minutes before the intended launch time. Forty-four people were killed in the initial fire and four more soon died in the hospital from burns. It is the third deadliest space exploration-related disaster in history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1980_Plesetsk_launch_pad_disaster",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Vostok-2M",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Vostok-2M",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-18-1977-03cf1d03",
+      "year": 1977,
+      "text": "The punk group the Clash released their first single, \"White Riot\", described as their \"most controversial song\" due to its lyrics about class economics and race.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/The_Clash_-_Pennie_Smith.webp/3840px-The_Clash_-_Pennie_Smith.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/The_Clash_-_Pennie_Smith.webp/330px-The_Clash_-_Pennie_Smith.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "the_clash_-_pennie_smith.webp",
+        "width": 9121,
+        "height": 6841,
+        "title": "The Clash",
+        "description": "English punk rock band (1976–1986)",
+        "extract": "The Clash were an English rock band formed in London in 1976. Billed as \"The Only Band That Matters\", they are considered one of the most influential acts in the original wave of British punk rock, with their music fusing elements of reggae, dub, funk, ska and rockabilly. The band also contributed to the post-punk and new wave movements that followed. For most of their recording career, the Clash consisted of lead vocalist and rhythm guitarist Joe Strummer, lead guitarist and vocalist Mick Jones, bassist Paul Simonon and drummer Nicky \"Topper\" Headon.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Clash",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/The_Clash_-_Pennie_Smith.webp/3840px-The_Clash_-_Pennie_Smith.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/The_Clash_-_Pennie_Smith.webp/330px-The_Clash_-_Pennie_Smith.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_clash_-_pennie_smith.webp",
+          "width": 9121,
+          "height": 6841,
+          "title": "The Clash",
+          "description": "English punk rock band (1976–1986)",
+          "extract": "The Clash were an English rock band formed in London in 1976. Billed as \"The Only Band That Matters\", they are considered one of the most influential acts in the original wave of British punk rock, with their music fusing elements of reggae, dub, funk, ska and rockabilly. The band also contributed to the post-punk and new wave movements that followed. For most of their recording career, the Clash consisted of lead vocalist and rhythm guitarist Joe Strummer, lead guitarist and vocalist Mick Jones, bassist Paul Simonon and drummer Nicky \"Topper\" Headon.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Clash",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/54/WhiteRiot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/5/54/WhiteRiot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "whiteriot.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "White Riot",
+          "description": "1977 single by the Clash",
+          "extract": "\"White Riot\" is a song by the English punk rock band the Clash, released as the band's first single in March 1977 and also included on their self-titled debut album.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/White_Riot",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "The Clash",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Clash",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-18-1229-96591a2f",
+      "year": 1229,
+      "text": "Frederick II, Holy Roman Emperor, declares himself King of Jerusalem in the Sixth Crusade.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Frederick_II_and_eagle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frederick_II_and_eagle.jpg/330px-Frederick_II_and_eagle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "frederick_ii_and_eagle.jpg",
+        "width": 593,
+        "height": 818,
+        "title": "Frederick II, Holy Roman Emperor",
+        "description": "Holy Roman Emperor from 1220 to 1250",
+        "extract": "Frederick II was King of Sicily from 1198, King of Germany from 1212, King of Italy and Holy Roman Emperor from 1220, and King of Jerusalem from 1225 to 1228. He was the son of Emperor Henry VI, of the Hohenstaufen dynasty, and Queen Constance I of Sicily, of the Hauteville dynasty.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II%2C_Holy_Roman_Emperor",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Frederick_II_and_eagle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frederick_II_and_eagle.jpg/330px-Frederick_II_and_eagle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "frederick_ii_and_eagle.jpg",
+          "width": 593,
+          "height": 818,
+          "title": "Frederick II, Holy Roman Emperor",
+          "description": "Holy Roman Emperor from 1220 to 1250",
+          "extract": "Frederick II was King of Sicily from 1198, King of Germany from 1212, King of Italy and Holy Roman Emperor from 1220, and King of Jerusalem from 1225 to 1228. He was the son of Emperor Henry VI, of the Hohenstaufen dynasty, and Queen Constance I of Sicily, of the Hauteville dynasty.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II%2C_Holy_Roman_Emperor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Al-Kamil_Muhammad_al-Malik_and_Frederick_II_Holy_Roman_Emperor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Al-Kamil_Muhammad_al-Malik_and_Frederick_II_Holy_Roman_Emperor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "al-kamil_muhammad_al-malik_and_frederick_ii_holy_roman_emperor.jpg",
+          "width": 191,
+          "height": 393,
+          "title": "Sixth Crusade",
+          "description": "1228–1229 attempted conquest of the Holy Land",
+          "extract": "The Sixth Crusade (1228–1229), also known as the Crusade of Frederick II, was a military expedition to recapture Jerusalem and the rest of the Holy Land. It began seven years after the failure of the Fifth Crusade and involved very little actual fighting. The diplomatic maneuvering of the Holy Roman emperor and king of Sicily, Frederick II, resulted in the Kingdom of Jerusalem regaining some control over Jerusalem for much of the ensuing fifteen years as well as over other areas of the Holy Land. Frederick II's negotiations and power-sharing agreement and negotiation with envoys from al-Malik Al-Kamil of Egypt, which led to a shared Christian-Muslim governance situation in Jerusalem, made this Crusade different from the others. Frederick II carried out his maneuvers in 1228 while under excommunication from the Church by Pope Gregory IX.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sixth_Crusade",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Frederick_is_born_in_Jesi.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Frederick_is_born_in_Jesi.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "frederick_is_born_in_jesi.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The birth of Frederick on the market square of Jesi from the Nuova Cronica, Biblioteca Apostolica Vaticana, ms. Chigi L. VIII.296 (cat. XI.8).",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II%2C_Holy_Roman_Emperor",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Frederick II, Holy Roman Emperor",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Frederick_II%2C_Holy_Roman_Emperor",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-18-2015-8d147c07",
+      "year": 2015,
+      "text": "Gunmen attacked the Bardo National Museum in Tunisia, killing 24 people.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bardo_Museum_-_Carthage_room.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bardo_Museum_-_Carthage_room.jpg/330px-Bardo_Museum_-_Carthage_room.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bardo_museum_-_carthage_room.jpg",
+        "width": 2288,
+        "height": 1712,
+        "title": "Bardo National Museum attack",
+        "description": "2015 mass killing of hostages in Tunis",
+        "extract": "On 18 March 2015, two terrorists attacked the Bardo National Museum in the Tunisian capital city of Tunis, and took hostages. Twenty-one people, mostly European tourists, were killed at the scene, and an additional victim died ten days later. Around fifty others were injured. The two gunmen, Tunisian citizens Yassine Labidi and Saber Khachnaoui, were killed by police. Police treated the event as a terrorist attack.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bardo_National_Museum_attack",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Bardo_Museum_-_Carthage_room.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bardo_Museum_-_Carthage_room.jpg/330px-Bardo_Museum_-_Carthage_room.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bardo_museum_-_carthage_room.jpg",
+          "width": 2288,
+          "height": 1712,
+          "title": "Bardo National Museum attack",
+          "description": "2015 mass killing of hostages in Tunis",
+          "extract": "On 18 March 2015, two terrorists attacked the Bardo National Museum in the Tunisian capital city of Tunis, and took hostages. Twenty-one people, mostly European tourists, were killed at the scene, and an additional victim died ten days later. Around fifty others were injured. The two gunmen, Tunisian citizens Yassine Labidi and Saber Khachnaoui, were killed by police. Police treated the event as a terrorist attack.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bardo_National_Museum_attack",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Tunis%2C_mus%C3%A9e_du_Bardo%2C_salle_de_Virgile_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tunis%2C_mus%C3%A9e_du_Bardo%2C_salle_de_Virgile_01.jpg/330px-Tunis%2C_mus%C3%A9e_du_Bardo%2C_salle_de_Virgile_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tunis,_musée_du_bardo,_salle_de_virgile_01.jpg",
+          "width": 3333,
+          "height": 5000,
+          "title": "Bardo National Museum (Tunis)",
+          "description": "National museum in Tunisia",
+          "extract": "The Bardo National Museum or Bardo Palace is an arts and North African history museum in Le Bardo, Tunis, Tunisia. It is one of the most important museums in the Mediterranean region and the second largest museum in Africa after the Egyptian Museum of Cairo. It traces the history of Tunisia over several millennia and across several civilizations through a wide variety of archaeological pieces.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bardo_National_Museum_(Tunis)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Bardo National Museum attack",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bardo_National_Museum_attack",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-18-2014-0ef4a375",
+      "year": 2014,
+      "text": "The parliaments of Russia and Crimea sign an accession treaty.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/%D0%9A%D1%80%D1%8B%D0%BC%2C_%D0%92%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%BE%D0%B2%2C_%D0%BC%D0%B0%D1%80%D1%82_2014%2C_25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%D0%9A%D1%80%D1%8B%D0%BC%2C_%D0%92%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%BE%D0%B2%2C_%D0%BC%D0%B0%D1%80%D1%82_2014%2C_25.jpg/330px-%D0%9A%D1%80%D1%8B%D0%BC%2C_%D0%92%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%BE%D0%B2%2C_%D0%BC%D0%B0%D1%80%D1%82_2014%2C_25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "крым,_варламов,_март_2014,_25.jpg",
+        "width": 1100,
+        "height": 732,
+        "title": "2014 Russian annexation of Crimea",
+        "description": "2014 annexation of Ukrainian territory",
+        "extract": "In February and March 2014, Russia invaded the Crimean Peninsula of Ukraine, occupied it, and then annexed it after an illegitimate referendum. This took place amid the uncertainty that immediately followed Ukraine's Revolution of Dignity. The invasion marked the beginning of the Russo-Ukrainian war. Crimea's annexation has been described as an instance of modern Russian imperialism. It was the first time since World War II that a European country had annexed part of another, and some analysts see the annexation as the beginning of a Second Cold War between Russia and the West.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2014_Russian_annexation_of_Crimea",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/%D0%9A%D1%80%D1%8B%D0%BC%2C_%D0%92%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%BE%D0%B2%2C_%D0%BC%D0%B0%D1%80%D1%82_2014%2C_25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/%D0%9A%D1%80%D1%8B%D0%BC%2C_%D0%92%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%BE%D0%B2%2C_%D0%BC%D0%B0%D1%80%D1%82_2014%2C_25.jpg/330px-%D0%9A%D1%80%D1%8B%D0%BC%2C_%D0%92%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%BE%D0%B2%2C_%D0%BC%D0%B0%D1%80%D1%82_2014%2C_25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "крым,_варламов,_март_2014,_25.jpg",
+          "width": 1100,
+          "height": 732,
+          "title": "2014 Russian annexation of Crimea",
+          "description": "2014 annexation of Ukrainian territory",
+          "extract": "In February and March 2014, Russia invaded the Crimean Peninsula of Ukraine, occupied it, and then annexed it after an illegitimate referendum. This took place amid the uncertainty that immediately followed Ukraine's Revolution of Dignity. The invasion marked the beginning of the Russo-Ukrainian war. Crimea's annexation has been described as an instance of modern Russian imperialism. It was the first time since World War II that a European country had annexed part of another, and some analysts see the annexation as the beginning of a Second Cold War between Russia and the West.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2014_Russian_annexation_of_Crimea",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Satellite_picture_of_Crimea%2C_Terra-MODIS%2C_05-16-2015.jpg/1280px-Satellite_picture_of_Crimea%2C_Terra-MODIS%2C_05-16-2015.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Satellite_picture_of_Crimea%2C_Terra-MODIS%2C_05-16-2015.jpg/1280px-Satellite_picture_of_Crimea%2C_Terra-MODIS%2C_05-16-2015.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "satellite_picture_of_crimea,_terra-modis,_05-16-2015.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "May 2015 satellite image of the Crimean Peninsula",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Crimea",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sevastopol_Chersonesus_Basilica_of_1935_IMG_0669_1725.jpg/1280px-Sevastopol_Chersonesus_Basilica_of_1935_IMG_0669_1725.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sevastopol_Chersonesus_Basilica_of_1935_IMG_0669_1725.jpg/1280px-Sevastopol_Chersonesus_Basilica_of_1935_IMG_0669_1725.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "sevastopol_chersonesus_basilica_of_1935_img_0669_1725.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Ruins of the ancient Greek colony of Chersonesus",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Crimea",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Crimea",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Crimea",
+      "relatedPagesCount": 2
+    }
+  ]
+}

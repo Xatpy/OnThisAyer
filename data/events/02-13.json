@@ -1,0 +1,595 @@
+{
+  "date": {
+    "month": 2,
+    "day": 13,
+    "formatted": "02-13"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "02-13-2004-6b10325a",
+      "year": 2004,
+      "text": "The Harvard–Smithsonian Center for Astrophysics announces the discovery of the universe's largest known diamond, white dwarf star BPM 37093. Astronomers named this star \"Lucy\" after The Beatles' song \"Lucy in the Sky with Diamonds\".",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Center_for_Astrophysics_at_Harvard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Center_for_Astrophysics_at_Harvard.jpg/330px-Center_for_Astrophysics_at_Harvard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "center_for_astrophysics_at_harvard.jpg",
+        "width": 2272,
+        "height": 1704,
+        "title": "Harvard–Smithsonian Center for Astrophysics",
+        "description": "Astronomical observatory in Massachusetts, US",
+        "extract": "The Center for Astrophysics | Harvard & Smithsonian (CfA), previously known as the Harvard–Smithsonian Center for Astrophysics, is an astrophysics research institute jointly operated by the Harvard College Observatory and Smithsonian Astrophysical Observatory. Founded in 1973 and headquartered in Cambridge, Massachusetts, United States, the CfA leads a broad program of research in astronomy, astrophysics, Earth and space sciences, as well as science education. The CfA either leads or participates in the development and operations of more than fifteen ground- and space-based astronomical research observatories across the electromagnetic spectrum, including the forthcoming Giant Magellan Telescope (GMT) and the Chandra X-ray Observatory, one of NASA's Great Observatories.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harvard%E2%80%93Smithsonian_Center_for_Astrophysics",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Center_for_Astrophysics_at_Harvard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Center_for_Astrophysics_at_Harvard.jpg/330px-Center_for_Astrophysics_at_Harvard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "center_for_astrophysics_at_harvard.jpg",
+          "width": 2272,
+          "height": 1704,
+          "title": "Harvard–Smithsonian Center for Astrophysics",
+          "description": "Astronomical observatory in Massachusetts, US",
+          "extract": "The Center for Astrophysics | Harvard & Smithsonian (CfA), previously known as the Harvard–Smithsonian Center for Astrophysics, is an astrophysics research institute jointly operated by the Harvard College Observatory and Smithsonian Astrophysical Observatory. Founded in 1973 and headquartered in Cambridge, Massachusetts, United States, the CfA leads a broad program of research in astronomy, astrophysics, Earth and space sciences, as well as science education. The CfA either leads or participates in the development and operations of more than fifteen ground- and space-based astronomical research observatories across the electromagnetic spectrum, including the forthcoming Giant Magellan Telescope (GMT) and the Chandra X-ray Observatory, one of NASA's Great Observatories.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Harvard%E2%80%93Smithsonian_Center_for_Astrophysics",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Rough_Diamond.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Rough_Diamond.jpg/330px-Rough_Diamond.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rough_diamond.jpg",
+          "width": 960,
+          "height": 891,
+          "title": "Diamond",
+          "description": "Form of carbon",
+          "extract": "Diamond is a mineral form of the element carbon with its atoms arranged in a crystal structure called diamond cubic. Diamond is a tasteless, odorless, strong, brittle solid, a poor conductor of electricity, colorless in pure form, and insoluble in water. Another solid form of carbon known as graphite is the chemically stable form of carbon at room temperature and pressure, but diamond is metastable and converts to it at a negligible rate under those conditions. Diamond has the highest hardness and thermal conductivity of any natural material, properties that are used in major industrial applications such as cutting and polishing tools.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Diamond",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Sirius_A_and_B_Hubble_photo.editted.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sirius_A_and_B_Hubble_photo.editted.PNG/330px-Sirius_A_and_B_Hubble_photo.editted.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sirius_a_and_b_hubble_photo.editted.png",
+          "width": 369,
+          "height": 403,
+          "title": "White dwarf",
+          "description": "Stellar core remnant",
+          "extract": "A white dwarf is a very dense type of star: in an Earth-sized volume, it packs a mass that is comparable to the Sun. A white dwarf radiates light from residual heat and eventual crystallization, not from nuclear fusion. Stars like the Sun, whose mass is not high enough to collapse into a neutron star or black hole, are expected to become white dwarf stars later in their evolution. The nearest known white dwarf is Sirius B, at 8.6 light years, the smaller component of the Sirius binary star.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/White_dwarf",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Harvard–Smithsonian Center for Astrophysics",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Harvard%E2%80%93Smithsonian_Center_for_Astrophysics",
+      "relatedPagesCount": 7
+    },
+    {
+      "id": "02-13-1979-ac886997",
+      "year": 1979,
+      "text": "An intense windstorm strikes western Washington and sinks a 0.5-mile (0.80 km) long section of the Hood Canal Bridge.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/USS_Ohio_%28SSBN-726%29_at_Hood_Canal_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/USS_Ohio_%28SSBN-726%29_at_Hood_Canal_Bridge.jpg/330px-USS_Ohio_%28SSBN-726%29_at_Hood_Canal_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "uss_ohio_(ssbn-726)_at_hood_canal_bridge.jpg",
+        "width": 1903,
+        "height": 1101,
+        "title": "Hood Canal Bridge",
+        "description": "Pontoon bridge in western Washington State, United States",
+        "extract": "The Hood Canal Bridge is a floating bridge in western Washington state, United States. It carries State Route 104 across Hood Canal in Puget Sound and connects the Olympic and Kitsap Peninsulas. At 7,869 feet in length, it is the longest floating bridge in the world located in a saltwater tidal basin, and the third longest floating bridge overall. It opened in 1961 and was the second concrete floating bridge constructed in Washington. Since that time, it has become a vital link for local residents, freight haulers, commuters, and recreational travelers. The convenience it provides has had a major impact on economic development, especially in eastern Jefferson County.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hood_Canal_Bridge",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/USS_Ohio_%28SSBN-726%29_at_Hood_Canal_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/USS_Ohio_%28SSBN-726%29_at_Hood_Canal_Bridge.jpg/330px-USS_Ohio_%28SSBN-726%29_at_Hood_Canal_Bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "uss_ohio_(ssbn-726)_at_hood_canal_bridge.jpg",
+          "width": 1903,
+          "height": 1101,
+          "title": "Hood Canal Bridge",
+          "description": "Pontoon bridge in western Washington State, United States",
+          "extract": "The Hood Canal Bridge is a floating bridge in western Washington state, United States. It carries State Route 104 across Hood Canal in Puget Sound and connects the Olympic and Kitsap Peninsulas. At 7,869 feet in length, it is the longest floating bridge in the world located in a saltwater tidal basin, and the third longest floating bridge overall. It opened in 1961 and was the second concrete floating bridge constructed in Washington. Since that time, it has become a vital link for local residents, freight haulers, commuters, and recreational travelers. The convenience it provides has had a major impact on economic development, especially in eastern Jefferson County.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hood_Canal_Bridge",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "February 13, 1979, windstorm",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/February_13%2C_1979%2C_windstorm",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-13-1954-0c073dbf",
+      "year": 1954,
+      "text": "Frank Selvy becomes the only NCAA Division I basketball player ever to score 100 points in a single game.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Frank_Selvy_Furman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Frank_Selvy_Furman.jpg/330px-Frank_Selvy_Furman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "frank_selvy_furman.jpg",
+        "width": 788,
+        "height": 1021,
+        "title": "Frank Selvy",
+        "description": "American basketball player (1932–2024)",
+        "extract": "Franklin Delano Selvy was an American National Basketball Association (NBA) player who was best known for holding the record for the most points (100) in a Division I college basketball game. Born in Corbin, Kentucky, Selvy was an All-State basketball player at Corbin High School and was a teammate of College Football Hall of Fame inductee Roy Kidd. Selvy was the No. 1 overall pick in the 1954 NBA draft and was a two-time NBA All-Star, playing nine seasons.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frank_Selvy",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Frank_Selvy_Furman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Frank_Selvy_Furman.jpg/330px-Frank_Selvy_Furman.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "frank_selvy_furman.jpg",
+          "width": 788,
+          "height": 1021,
+          "title": "Frank Selvy",
+          "description": "American basketball player (1932–2024)",
+          "extract": "Franklin Delano Selvy was an American National Basketball Association (NBA) player who was best known for holding the record for the most points (100) in a Division I college basketball game. Born in Corbin, Kentucky, Selvy was an All-State basketball player at Corbin High School and was a teammate of College Football Hall of Fame inductee Roy Kidd. Selvy was the No. 1 overall pick in the 1954 NBA draft and was a two-time NBA All-Star, playing nine seasons.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Frank_Selvy",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Frank Selvy",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Frank_Selvy",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-13-2017-fdd4b313",
+      "year": 2017,
+      "text": "Kim Jong-nam, the half-brother of North Korean leader Kim Jong Un, was assassinated using VX nerve agent in Kuala Lumpur, Malaysia.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/18/Kim_Jong-nam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/Kim_Jong-nam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "kim_jong-nam.jpg",
+        "width": 280,
+        "height": 357,
+        "title": "Kim Jong-nam",
+        "description": "Son of Kim Jong Il (1971–2017)",
+        "extract": "Kim Jong-nam was the eldest son of North Korean leader Kim Jong Il. From roughly 1994 to 2001, he was considered the heir apparent to his father. In 2017, Kim was assassinated in Kuala Lumpur International Airport, Malaysia; North Korean leader Kim Jong Un, his half-brother, was widely believed responsible. Kim was speculated to have fallen out of favor in 2001 following his deportation from Japan to China while attempting to visit Tokyo Disneyland on a forged passport; Kim claimed his fall was due to advocating \"reform and market-opening\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kim_Jong-nam",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/18/Kim_Jong-nam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/Kim_Jong-nam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "kim_jong-nam.jpg",
+          "width": 280,
+          "height": 357,
+          "title": "Kim Jong-nam",
+          "description": "Son of Kim Jong Il (1971–2017)",
+          "extract": "Kim Jong-nam was the eldest son of North Korean leader Kim Jong Il. From roughly 1994 to 2001, he was considered the heir apparent to his father. In 2017, Kim was assassinated in Kuala Lumpur International Airport, Malaysia; North Korean leader Kim Jong Un, his half-brother, was widely believed responsible. Kim was speculated to have fallen out of favor in 2001 following his deportation from Japan to China while attempting to visit Tokyo Disneyland on a forged passport; Kim claimed his fall was due to advocating \"reform and market-opening\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kim_Jong-nam",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg/330px-Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kim_jong-un_and_vladimir_putin_(2023-09-13)_12_(cropped_2).jpg",
+          "width": 1568,
+          "height": 2091,
+          "title": "Kim Jong Un",
+          "description": "Supreme leader of North Korea since 2011",
+          "extract": "\n\nKim Jong Un is a North Korean politician and dictator who is currently serving as the supreme leader of North Korea since 2011, following the death of his father, Kim Jong Il. He is the third ruler from the Kim family to lead the country, which was founded by his grandfather Kim Il Sung. Kim holds the positions of general secretary of the Workers' Party of Korea (WPK) and president of the State Affairs Commission, as well as the highest offices in the Korean People's Army.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kim_Jong_Un",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/KLIA2_international_departure_hall_2016_September_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/KLIA2_international_departure_hall_2016_September_1.jpg/330px-KLIA2_international_departure_hall_2016_September_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "klia2_international_departure_hall_2016_september_1.jpg",
+          "width": 3840,
+          "height": 2560,
+          "title": "Assassination of Kim Jong-nam",
+          "description": "2017 murder in Kuala Lumpur, Malaysia",
+          "extract": "On 13 February 2017, Kim Jong-nam, the older half-brother of the North Korean leader Kim Jong Un, was assassinated at Kuala Lumpur International Airport in Malaysia. He had been living abroad since his exile from North Korea in 2003.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Assassination_of_Kim_Jong-nam",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Kim Jong-nam",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Kim_Jong-nam",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-13-1975-d18697b9",
+      "year": 1975,
+      "text": "Fire at One World Trade Center (North Tower) of the World Trade Center in New York.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg/330px-World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "world_trade_center,_new_york_city_-_aerial_view_(march_2001).jpg",
+        "width": 1361,
+        "height": 1924,
+        "title": "World Trade Center (1973–2001)",
+        "description": "Complex of buildings in New York City",
+        "extract": "The original World Trade Center (WTC) was a complex of seven buildings in the Financial District of Lower Manhattan in New York City. Built primarily between 1966 and 1975, it was dedicated on April 4, 1973, and was destroyed on September 11, 2001, after two hijacked planes were flown into the towers in a coordinated terrorist attack. The complex included the 110-story-tall Twin Towers, at the time of their completion the tallest buildings in the world, with the original 1 World Trade Center at 1,368 feet (417 m), and 2 World Trade Center at 1,362 feet (415.1 m); they were also the tallest twin skyscrapers in the world until 1996, when the Petronas Towers opened in Kuala Lumpur, Malaysia. The other buildings in the complex were the Marriott World Trade Center (3 WTC), 4 WTC, 5 WTC, 6 WTC, and 7 WTC. The complex contained 13,400,000 square feet (1,240,000 m2) of office space and, prior to its completion, was projected to accommodate an estimated 130,000 people.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg/330px-World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "world_trade_center,_new_york_city_-_aerial_view_(march_2001).jpg",
+          "width": 1361,
+          "height": 1924,
+          "title": "World Trade Center (1973–2001)",
+          "description": "Complex of buildings in New York City",
+          "extract": "The original World Trade Center (WTC) was a complex of seven buildings in the Financial District of Lower Manhattan in New York City. Built primarily between 1966 and 1975, it was dedicated on April 4, 1973, and was destroyed on September 11, 2001, after two hijacked planes were flown into the towers in a coordinated terrorist attack. The complex included the 110-story-tall Twin Towers, at the time of their completion the tallest buildings in the world, with the original 1 World Trade Center at 1,368 feet (417 m), and 2 World Trade Center at 1,362 feet (415.1 m); they were also the tallest twin skyscrapers in the world until 1996, when the Petronas Towers opened in Kuala Lumpur, Malaysia. The other buildings in the complex were the Marriott World Trade Center (3 WTC), 4 WTC, 5 WTC, 6 WTC, and 7 WTC. The complex contained 13,400,000 square feet (1,240,000 m2) of office space and, prior to its completion, was projected to accommodate an estimated 130,000 people.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "view_of_empire_state_building_from_rockefeller_center_new_york_city_dllu_(cropped).jpg",
+          "width": 8207,
+          "height": 4616,
+          "title": "New York City",
+          "description": "Most populous city in the United States",
+          "extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance and commerce, culture, entertainment and media, academics and scientific output, the arts and fashion—and as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/New_York_City",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Radio_Row%2C_Cortlandt_Street%2C_Manhattan_%28NYPL_b13668355-482561%29.jpg/1280px-Radio_Row%2C_Cortlandt_Street%2C_Manhattan_%28NYPL_b13668355-482561%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Radio_Row%2C_Cortlandt_Street%2C_Manhattan_%28NYPL_b13668355-482561%29.jpg/1280px-Radio_Row%2C_Cortlandt_Street%2C_Manhattan_%28NYPL_b13668355-482561%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "radio_row-berenice_abbott.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Radio Row and Cortlandt Street station (background) in 1936",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001)",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "World Trade Center (1973–2001)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001)",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-13-2012-a3308916",
+      "year": 2012,
+      "text": "The first Vega rocket was launched by the European Space Agency from the Guiana Space Centre.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Vega_and_Sentinel-2_ready_and_waiting_on_the_launch_pad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Vega_and_Sentinel-2_ready_and_waiting_on_the_launch_pad.jpg/330px-Vega_and_Sentinel-2_ready_and_waiting_on_the_launch_pad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "vega_and_sentinel-2_ready_and_waiting_on_the_launch_pad.jpg",
+        "width": 1033,
+        "height": 1500,
+        "title": "Vega (rocket)",
+        "description": "European Space Agency launch system",
+        "extract": "Vega was a European expendable small-lift launch vehicle developed by Avio and operated by Arianespace for the European Space Agency (ESA) and the Italian Space Agency (ASI). Designed to carry payloads between 300 and 2,500 kilograms into low Earth and polar orbits, Vega served primarily scientific and Earth observation missions.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vega_(rocket)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Vega_and_Sentinel-2_ready_and_waiting_on_the_launch_pad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Vega_and_Sentinel-2_ready_and_waiting_on_the_launch_pad.jpg/330px-Vega_and_Sentinel-2_ready_and_waiting_on_the_launch_pad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "vega_and_sentinel-2_ready_and_waiting_on_the_launch_pad.jpg",
+          "width": 1033,
+          "height": 1500,
+          "title": "Vega (rocket)",
+          "description": "European Space Agency launch system",
+          "extract": "Vega was a European expendable small-lift launch vehicle developed by Avio and operated by Arianespace for the European Space Agency (ESA) and the Italian Space Agency (ASI). Designed to carry payloads between 300 and 2,500 kilograms into low Earth and polar orbits, Vega served primarily scientific and Earth observation missions.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vega_(rocket)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Vega (rocket)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Vega_(rocket)",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-13-1983-fcaae42b",
+      "year": 1983,
+      "text": "A cinema fire in Turin, Italy, kills 64 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Torino_Piazza_Castello_11.jpg/3840px-Torino_Piazza_Castello_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Torino_Piazza_Castello_11.jpg/330px-Torino_Piazza_Castello_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "torino_piazza_castello_11.jpg",
+        "width": 4557,
+        "height": 2294,
+        "title": "Turin",
+        "description": "City in Piedmont, Italy",
+        "extract": "Turin is a city and a business and cultural centre in northern Italy. It is the capital city of the Piedmont region and of the Metropolitan City of Turin. From 1861 to 1865, it was the first capital of the Kingdom of Italy. The city is mainly on the western bank of the River Po, below its Susa Valley, and is surrounded by the western Alpine arch and Superga hill. The population of the city proper is 855,654 as of 2026, while the population of the urban area is estimated by Eurostat to be 1.7 million inhabitants. The Turin metropolitan area is estimated by the OECD to have a population of 2.2 million.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Turin",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Torino_Piazza_Castello_11.jpg/3840px-Torino_Piazza_Castello_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Torino_Piazza_Castello_11.jpg/330px-Torino_Piazza_Castello_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "torino_piazza_castello_11.jpg",
+          "width": 4557,
+          "height": 2294,
+          "title": "Turin",
+          "description": "City in Piedmont, Italy",
+          "extract": "Turin is a city and a business and cultural centre in northern Italy. It is the capital city of the Piedmont region and of the Metropolitan City of Turin. From 1861 to 1865, it was the first capital of the Kingdom of Italy. The city is mainly on the western bank of the River Po, below its Susa Valley, and is surrounded by the western Alpine arch and Superga hill. The population of the city proper is 855,654 as of 2026, while the population of the urban area is estimated by Eurostat to be 1.7 million inhabitants. The Turin metropolitan area is estimated by the OECD to have a population of 2.2 million.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Turin",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Cinema Statuto fire",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cinema_Statuto_fire",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-13-1542-b637a39c",
+      "year": 1542,
+      "text": "Catherine Howard, the fifth wife of Henry VIII of England, is executed for adultery.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Workshop_of_Hans_Holbein_the_Younger_portrait_of_a_Lady.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Workshop_of_Hans_Holbein_the_Younger_portrait_of_a_Lady.jpg/330px-Workshop_of_Hans_Holbein_the_Younger_portrait_of_a_Lady.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "workshop_of_hans_holbein_the_younger_portrait_of_a_lady.jpg",
+        "width": 473,
+        "height": 600,
+        "title": "Catherine Howard",
+        "description": "Queen of England from 1540 to 1541",
+        "extract": "Catherine Howard was Queen of England from July 1540 until November 1541 as the fifth wife of King Henry VIII. She was the daughter of Lord Edmund Howard and Joyce Culpeper, a first cousin to Anne Boleyn, and the niece of Thomas Howard, 3rd Duke of Norfolk. Her uncle secured her a place in the household of Henry's fourth wife, Anne of Cleves, where Catherine caught the King's interest. They were married in July 1540 at Oatlands Palace in Surrey, just 19 days after the annulment of his marriage to Anne. Henry was 49, and Catherine, 17.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_Howard",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Workshop_of_Hans_Holbein_the_Younger_portrait_of_a_Lady.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Workshop_of_Hans_Holbein_the_Younger_portrait_of_a_Lady.jpg/330px-Workshop_of_Hans_Holbein_the_Younger_portrait_of_a_Lady.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "workshop_of_hans_holbein_the_younger_portrait_of_a_lady.jpg",
+          "width": 473,
+          "height": 600,
+          "title": "Catherine Howard",
+          "description": "Queen of England from 1540 to 1541",
+          "extract": "Catherine Howard was Queen of England from July 1540 until November 1541 as the fifth wife of King Henry VIII. She was the daughter of Lord Edmund Howard and Joyce Culpeper, a first cousin to Anne Boleyn, and the niece of Thomas Howard, 3rd Duke of Norfolk. Her uncle secured her a place in the household of Henry's fourth wife, Anne of Cleves, where Catherine caught the King's interest. They were married in July 1540 at Oatlands Palace in Surrey, just 19 days after the annulment of his marriage to Anne. Henry was 49, and Catherine, 17.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Catherine_Howard",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg/330px-After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "after_hans_holbein_the_younger_-_portrait_of_henry_viii_-_google_art_project.jpg",
+          "width": 2040,
+          "height": 3588,
+          "title": "Henry VIII",
+          "description": "King of England from 1509 to 1547",
+          "extract": "Henry VIII was King of England and Ireland from 22 April 1509 until his death in 1547.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henry_VIII",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Isaac_Cruikshank_-_The_Cuckold_Departs_for_the_Hunt_-_B2001.2.769_-_Yale_Center_for_British_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Isaac_Cruikshank_-_The_Cuckold_Departs_for_the_Hunt_-_B2001.2.769_-_Yale_Center_for_British_Art.jpg/330px-Isaac_Cruikshank_-_The_Cuckold_Departs_for_the_Hunt_-_B2001.2.769_-_Yale_Center_for_British_Art.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "isaac_cruikshank_-_the_cuckold_departs_for_the_hunt_-_b2001.2.769_-_yale_center_for_british_art.jpg",
+          "width": 1920,
+          "height": 1462,
+          "title": "Adultery",
+          "description": "Type of extramarital sex",
+          "extract": "Adultery is generally defined as extramarital sex that is or was considered objectionable on social, religious and moral grounds, and which often resulted in legal consequences. Although the sexual activities that can be described as adultery vary, as well as their consequences, the concept is found in many cultures and shares similarities in Judaism, Christianity and Islam. Adultery was and continues to be viewed by many societies as offensive to public morals, and as undermining the \"marital\" relationship.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Adultery",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Catherine Howard",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Catherine_Howard",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-13-1931-88152311",
+      "year": 1931,
+      "text": "The British Raj completes its transfer from Calcutta to New Delhi.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg/330px-British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "british_indian_empire_1909_imperial_gazetteer_of_india.jpg",
+        "width": 1498,
+        "height": 1223,
+        "title": "British Raj",
+        "description": "1858–1947 Crown rule in India",
+        "extract": "The British Raj was the period of rule of the British Crown on the Indian subcontinent, lasting from 1858 to 1947. It is also called Crown rule in India, or direct rule in India. The region under British control was commonly called India in contemporaneous usage and included areas directly administered by the United Kingdom, which were collectively called British India, and areas ruled by indigenous rulers, but under British paramountcy, called the princely states. The region was sometimes called the Indian Empire, though not officially. As India, it was a founding member of the League of Nations and a founding member of the United Nations in San Francisco in 1945. India was a participating state in the Summer Olympics in 1900, 1920, 1928, 1932, and 1936.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/British_Raj",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg/330px-British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "british_indian_empire_1909_imperial_gazetteer_of_india.jpg",
+          "width": 1498,
+          "height": 1223,
+          "title": "British Raj",
+          "description": "1858–1947 Crown rule in India",
+          "extract": "The British Raj was the period of rule of the British Crown on the Indian subcontinent, lasting from 1858 to 1947. It is also called Crown rule in India, or direct rule in India. The region under British control was commonly called India in contemporaneous usage and included areas directly administered by the United Kingdom, which were collectively called British India, and areas ruled by indigenous rulers, but under British paramountcy, called the princely states. The region was sometimes called the Indian Empire, though not officially. As India, it was a founding member of the League of Nations and a founding member of the United Nations in San Francisco in 1945. India was a participating state in the Summer Olympics in 1900, 1920, 1928, 1932, and 1936.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/British_Raj",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Kolkata_maidan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kolkata_maidan.jpg/330px-Kolkata_maidan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kolkata_maidan.jpg",
+          "width": 1838,
+          "height": 1050,
+          "title": "Kolkata",
+          "description": "Capital of West Bengal, India",
+          "extract": "Kolkata, also known as Calcutta, is the capital and largest city of the Indian state of West Bengal. It lies on the eastern bank of the Hooghly River, 80 km (50 mi) west of the border with Bangladesh. It is the primary financial and commercial centre of eastern India and one of the gateways to northeastern India. Kolkata is the seventh most populous city in India with an estimated city proper population of 4.5 million while its metropolitan region Kolkata Metropolitan Area is the third most populous metropolitan region of India with a metro population of over 15 million. Kolkata is regarded by many sources as the cultural capital of India and a historically and culturally significant city in the historic region of Bengal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kolkata",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/3840px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg/330px-Forecourt%2C_Rashtrapati_Bhavan_-_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "forecourt,_rashtrapati_bhavan_-_1.jpg",
+          "width": 5184,
+          "height": 3456,
+          "title": "New Delhi",
+          "description": "Capital city of India",
+          "extract": "New Delhi is a city and the capital city of India and a part of the National Capital Territory of Delhi (NCT). New Delhi is the seat of all three branches of the Government of India, hosting the Rashtrapati Bhavan, Sansad Bhavan, and the Supreme Court. New Delhi is a municipality within the NCT, administered by the New Delhi Municipal Council (NDMC), which covers mostly Lutyens' Delhi and a few adjacent areas. The municipal area is part of a larger administrative district, the New Delhi district.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/New_Delhi",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "British Raj",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/British_Raj",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-13-2021-b329bc00",
+      "year": 2021,
+      "text": "Former U.S. President Donald Trump is acquitted in his second impeachment trial.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "official_presidential_portrait_of_president_donald_j._trump_(2025).jpg",
+        "width": 1638,
+        "height": 2048,
+        "title": "Donald Trump",
+        "description": "President of the United States (2017–2021; since 2025)",
+        "extract": "Donald John Trump is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_presidential_portrait_of_president_donald_j._trump_(2025).jpg",
+          "width": 1638,
+          "height": 2048,
+          "title": "Donald Trump",
+          "description": "President of the United States (2017–2021; since 2025)",
+          "extract": "Donald John Trump is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/President_pro_tempore_Patrick_Leahy_presides_over_the_second_impeachment_trial_of_Donald_Trump.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/President_pro_tempore_Patrick_Leahy_presides_over_the_second_impeachment_trial_of_Donald_Trump.png/330px-President_pro_tempore_Patrick_Leahy_presides_over_the_second_impeachment_trial_of_Donald_Trump.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "president_pro_tempore_patrick_leahy_presides_over_the_second_impeachment_trial_of_donald_trump.png",
+          "width": 1322,
+          "height": 740,
+          "title": "Second impeachment trial of Donald Trump",
+          "description": "2021 trial in the US Senate",
+          "extract": "The second impeachment trial of Donald Trump, the 45th president of the United States, began on February 9, 2021, and concluded with his acquittal on February 13. Trump had been impeached for the second time by the House of Representatives on January 13, 2021. The House adopted one article of impeachment against Trump: incitement of insurrection. He is the only U.S. president and only federal official to be impeached twice. He was impeached by the House seven days prior to the expiration of his term and the inauguration of Joe Biden. Because he left office before the trial, this was the first impeachment trial of a former president. The article of impeachment addressed Trump's attempts to overturn the 2020 presidential election results and stated that Trump incited the attack on the Capitol in Washington, D.C., while Congress was convened to count the electoral votes and certify the victory of Joe Biden and Kamala Harris.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Second_impeachment_trial_of_Donald_Trump",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4_close_cropped%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4_close_cropped%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "official_presidential_portrait_of_president_donald_j._trump_(2025)_(3x4_close_cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025)_(3x4_close_cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Donald Trump",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Donald_Trump",
+      "relatedPagesCount": 2
+    }
+  ]
+}

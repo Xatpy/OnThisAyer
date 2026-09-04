@@ -1,0 +1,667 @@
+{
+  "date": {
+    "month": 10,
+    "day": 2,
+    "formatted": "10-02"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "10-02-1942-96620d47",
+      "year": 1942,
+      "text": "Second World War: HMS Curacoa (pictured) was accidentally rammed and sunk by RMS Queen Mary while escorting the liner to provide protection from submarine attacks.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+        "width": 798,
+        "height": 544,
+        "title": "World War II",
+        "description": "Global conflict from 1939 to 1945",
+        "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+          "width": 798,
+          "height": 544,
+          "title": "World War II",
+          "description": "Global conflict from 1939 to 1945",
+          "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/The_Royal_Navy_during_the_Second_World_War_A5808.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/The_Royal_Navy_during_the_Second_World_War_A5808.jpg/330px-The_Royal_Navy_during_the_Second_World_War_A5808.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_royal_navy_during_the_second_world_war_a5808.jpg",
+          "width": 800,
+          "height": 570,
+          "title": "HMS Curacoa (D41)",
+          "description": "British C-class light cruiser",
+          "extract": "HMS Curacoa was a C-class light cruiser built for the Royal Navy during the First World War. She was one of the five ships of the Ceres sub-class and spent much of her career as a flagship. The ship was assigned to the Harwich Force during the war, but saw little action as she was completed less than a year before the war ended. Briefly assigned to the Atlantic Fleet in early 1919, Curacoa was deployed to the Baltic in May to support anti-Bolshevik forces during the British campaign in the Baltic during the Russian Civil War. Shortly thereafter the ship struck a naval mine and had to return home for repairs.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/HMS_Curacoa_(D41)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Queen_Mary_ship%2C_Long_Beach%2C_California_LCCN2011630073_%28crop%29.tif/lossy-page1-3840px-Queen_Mary_ship%2C_Long_Beach%2C_California_LCCN2011630073_%28crop%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Queen_Mary_ship%2C_Long_Beach%2C_California_LCCN2011630073_%28crop%29.tif/lossy-page1-330px-Queen_Mary_ship%2C_Long_Beach%2C_California_LCCN2011630073_%28crop%29.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lossy-page1-3840px-queen_mary_ship,_long_beach,_california_lccn2011630073_(crop).tif.jpg",
+          "width": 5192,
+          "height": 2688,
+          "title": "RMS Queen Mary",
+          "description": "Former British ocean liner",
+          "extract": "RMS Queen Mary is a former British ocean liner that operated primarily on the North Atlantic Ocean from 1936 to 1967 for the Cunard Line. It is currently a hotel, museum, and convention space in Long Beach, California, United States. It is on the US National Register of Historic Places and member of Historic Hotels of America, the official program of the National Trust for Historic Preservation. Built by John Brown & Company in Clydebank, Scotland, she was subsequently joined by RMS Queen Elizabeth in Cunard's two-ship weekly express service between Southampton, Cherbourg and New York. These \"Queens\" were the British response to the express superliners built by German, Italian, and French companies in the late 1920s and early 1930s.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/RMS_Queen_Mary",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "World War II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_II",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-02-1766-1019c9a2",
+      "year": 1766,
+      "text": "The Nottingham Cheese Riot breaks out at the Goose Fair in Nottingham, UK, in response to the excessive cost of cheese.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jan_Siberechts_-_View_of_Nottingham_from_the_East.jpg/3840px-Jan_Siberechts_-_View_of_Nottingham_from_the_East.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jan_Siberechts_-_View_of_Nottingham_from_the_East.jpg/330px-Jan_Siberechts_-_View_of_Nottingham_from_the_East.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jan_siberechts_-_view_of_nottingham_from_the_east.jpg",
+        "width": 4500,
+        "height": 2196,
+        "title": "Nottingham cheese riot",
+        "description": "1766 riot over food prices in England",
+        "extract": "The Nottingham cheese riot, also known as the Great Cheese Riot, started on 2 October 1766 at the city's annual Goose Fair. Coming at a time of food shortages and rising foodstuff prices in England, violence broke out when city residents attempted to prevent Lincolnshire merchants taking away Nottinghamshire cheeses they had bought at the fair. A warehouse, shops and a cargo boat were looted and hundreds of cheese wheels were rolled through the streets by angry rioters. Government troops were deployed when the mayor of Nottingham, Robie Swann, was unable to restore control. One man was killed and several wounded as the military opened fire on the rioters. Order was eventually restored after several days of unrest.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nottingham_cheese_riot",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jan_Siberechts_-_View_of_Nottingham_from_the_East.jpg/3840px-Jan_Siberechts_-_View_of_Nottingham_from_the_East.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Jan_Siberechts_-_View_of_Nottingham_from_the_East.jpg/330px-Jan_Siberechts_-_View_of_Nottingham_from_the_East.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jan_siberechts_-_view_of_nottingham_from_the_east.jpg",
+          "width": 4500,
+          "height": 2196,
+          "title": "Nottingham cheese riot",
+          "description": "1766 riot over food prices in England",
+          "extract": "The Nottingham cheese riot, also known as the Great Cheese Riot, started on 2 October 1766 at the city's annual Goose Fair. Coming at a time of food shortages and rising foodstuff prices in England, violence broke out when city residents attempted to prevent Lincolnshire merchants taking away Nottinghamshire cheeses they had bought at the fair. A warehouse, shops and a cargo boat were looted and hundreds of cheese wheels were rolled through the streets by angry rioters. Government troops were deployed when the mayor of Nottingham, Robie Swann, was unable to restore control. One man was killed and several wounded as the military opened fire on the rioters. Order was eventually restored after several days of unrest.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nottingham_cheese_riot",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nottingham_Goose_fair_2019.jpg/3840px-Nottingham_Goose_fair_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nottingham_Goose_fair_2019.jpg/330px-Nottingham_Goose_fair_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nottingham_goose_fair_2019.jpg",
+          "width": 4012,
+          "height": 2687,
+          "title": "Nottingham Goose Fair",
+          "description": "Travelling amusement fair in Nottingham, England",
+          "extract": "The Nottingham Goose Fair is an annual travelling funfair held at the Forest Recreation Ground in Nottingham, England, during the first week of October. Largely provided by travelling showmen, it is one of four established fairs in the United Kingdom to carry the name, the others being the smaller Goosey Fair in Tavistock, Devon, the Michaelmas Goose Fayre in Colyford, East Devon, and the Ovingham Goose Fair. In recent years, there have been more than 400,000 visitors to Nottingham's fair annually.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nottingham_Goose_Fair",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Nottingham_Council_House_on_Coronation_Day_-_geograph.org.uk_-_7477109.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nottingham_Council_House_on_Coronation_Day_-_geograph.org.uk_-_7477109.jpg/330px-Nottingham_Council_House_on_Coronation_Day_-_geograph.org.uk_-_7477109.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nottingham_council_house_on_coronation_day_-_geograph.org.uk_-_7477109.jpg",
+          "width": 1280,
+          "height": 1280,
+          "title": "Nottingham",
+          "description": "City and council area in Nottinghamshire, England",
+          "extract": "Nottingham is a city and unitary authority area in Nottinghamshire, East Midlands, England. It is located 42 miles (68 km) south-east of Sheffield and 54 miles (87 km) north-east of Birmingham. Nottingham is the legendary home of Robin Hood's belligerent Sheriff of Nottingham, and is historically associated with the lace-making, bicycle and tobacco industries. The city is also the county town of Nottinghamshire and the settlement was granted its city charter in 1897, as part of Queen Victoria's Diamond Jubilee celebrations. Nottingham is a UNESCO \"City of Literature\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nottingham",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Nottingham cheese riot",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Nottingham_cheese_riot",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-02-1968-dcf35866",
+      "year": 1968,
+      "text": "Mexican President Gustavo Díaz Ordaz orders soldiers to suppress a demonstration of unarmed students, ten days before the start of the 1968 Summer Olympics.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 80,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Gustavo_Diaz_Ordaz_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Gustavo_Diaz_Ordaz_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "gustavo_diaz_ordaz_cropped.jpg",
+        "width": 264,
+        "height": 379,
+        "title": "Gustavo Díaz Ordaz",
+        "description": "President of Mexico from 1964 to 1970",
+        "extract": "Gustavo Díaz Ordaz Bolaños was a Mexican politician and member of the Institutional Revolutionary Party (PRI). He served as the President of Mexico from 1964 to 1970. Previously, he served as a member of the Chamber of Deputies for Puebla's 1st district, a senator of the Congress of the Union for Puebla, and Secretary of the Interior.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gustavo_D%C3%ADaz_Ordaz",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Gustavo_Diaz_Ordaz_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Gustavo_Diaz_Ordaz_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "gustavo_diaz_ordaz_cropped.jpg",
+          "width": 264,
+          "height": 379,
+          "title": "Gustavo Díaz Ordaz",
+          "description": "President of Mexico from 1964 to 1970",
+          "extract": "Gustavo Díaz Ordaz Bolaños was a Mexican politician and member of the Institutional Revolutionary Party (PRI). He served as the President of Mexico from 1964 to 1970. Previously, he served as a member of the Chamber of Deputies for Puebla's 1st district, a senator of the Congress of the Union for Puebla, and Secretary of the Interior.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gustavo_D%C3%ADaz_Ordaz",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Masacre_de_Tlatelolco.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Masacre_de_Tlatelolco.png/330px-Masacre_de_Tlatelolco.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "masacre_de_tlatelolco.png",
+          "width": 1200,
+          "height": 800,
+          "title": "Tlatelolco massacre",
+          "description": "1968 massacre of protestors in Mexico",
+          "extract": "The Tlatelolco massacre was a military massacre committed by the Mexican Armed Forces against the students of the National Autonomous University of Mexico (UNAM), the National Polytechnic Institute (IPN) and other universities in Mexico.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tlatelolco_massacre",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Presidente_L%C3%A1zaro_C%C3%A1rdenas_reunido_con_Sindicato_obrero_veracruzano_en_1938.jpg/1280px-Presidente_L%C3%A1zaro_C%C3%A1rdenas_reunido_con_Sindicato_obrero_veracruzano_en_1938.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Presidente_L%C3%A1zaro_C%C3%A1rdenas_reunido_con_Sindicato_obrero_veracruzano_en_1938.jpg/1280px-Presidente_L%C3%A1zaro_C%C3%A1rdenas_reunido_con_Sindicato_obrero_veracruzano_en_1938.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "presidente_lázaro_cárdenas_reunido_con_sindicato_obrero_veracruzano_en_1938.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A young Díaz Ordaz in 1938, behind President Lázaro Cárdenas (front row, center), and future presidents Manuel Ávila Camacho (front row, farthest to the left), and Miguel Alemán (front row immediately left of center).",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gustavo_D%C3%ADaz_Ordaz",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Gustavo Díaz Ordaz",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Gustavo_D%C3%ADaz_Ordaz",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-02-2025-dc177443",
+      "year": 2025,
+      "text": "2 people are killed and at least 4 others injured in an attack on a synagogue in Manchester, UK, during Yom Kippur.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Heaton_Park_Hebrew_Congregation_%28geograph_4299474%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Heaton_Park_Hebrew_Congregation_%28geograph_4299474%29.jpg/330px-Heaton_Park_Hebrew_Congregation_%28geograph_4299474%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "heaton_park_hebrew_congregation_(geograph_4299474).jpg",
+        "width": 640,
+        "height": 480,
+        "title": "2025 Manchester synagogue attack",
+        "description": "Terrorist attack in England",
+        "extract": "On 2 October 2025, during the Jewish holiday of Yom Kippur, a man drove a black Kia Picanto into pedestrians before stabbing worshippers at the Heaton Park Hebrew Congregation, a synagogue in Higher Crumpsall, a northern suburb of the city of Manchester in North West England.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2025_Manchester_synagogue_attack",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Heaton_Park_Hebrew_Congregation_%28geograph_4299474%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Heaton_Park_Hebrew_Congregation_%28geograph_4299474%29.jpg/330px-Heaton_Park_Hebrew_Congregation_%28geograph_4299474%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "heaton_park_hebrew_congregation_(geograph_4299474).jpg",
+          "width": 640,
+          "height": 480,
+          "title": "2025 Manchester synagogue attack",
+          "description": "Terrorist attack in England",
+          "extract": "On 2 October 2025, during the Jewish holiday of Yom Kippur, a man drove a black Kia Picanto into pedestrians before stabbing worshippers at the Heaton Park Hebrew Congregation, a synagogue in Higher Crumpsall, a northern suburb of the city of Manchester in North West England.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2025_Manchester_synagogue_attack",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Tower_Blocks_over_Knott_Mill%2C_geograph_6866152_by_David_Dixon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tower_Blocks_over_Knott_Mill%2C_geograph_6866152_by_David_Dixon.jpg/330px-Tower_Blocks_over_Knott_Mill%2C_geograph_6866152_by_David_Dixon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tower_blocks_over_knott_mill,_geograph_6866152_by_david_dixon.jpg",
+          "width": 1024,
+          "height": 788,
+          "title": "Manchester",
+          "description": "City and metropolitan borough in England",
+          "extract": "Manchester is a city in North West England, at the centre of the eponymous county of Greater Manchester. It had a population of over 589,000 in 2024. It borders the Cheshire Plain to the south, the Pennines to the north and east, and the city of Salford to the west. The two cities and the surrounding towns form one of the United Kingdom's most populous conurbations, the Greater Manchester Built-up Area, which has a population of 2.87 million.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Manchester",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg/330px-Maurycy_Gottlieb_-_Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "maurycy_gottlieb_-_jews_praying_in_the_synagogue_on_yom_kippur.jpg",
+          "width": 1647,
+          "height": 2130,
+          "title": "Yom Kippur",
+          "description": "Holiest day in Judaism",
+          "extract": "Yom Kippur is the holiest day of the year in Judaism. It occurs annually on the 10th of Tishrei, corresponding to a date in late September or early October.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Yom_Kippur",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "2025 Manchester synagogue attack",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2025_Manchester_synagogue_attack",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-02-2018-be6bc94b",
+      "year": 2018,
+      "text": "The Washington Post journalist Jamal Khashoggi was assassinated in the Saudi consulate in Istanbul, Turkey.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/5/57/The-Washington-Post-10-June-2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/The-Washington-Post-10-June-2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "the-washington-post-10-june-2020.jpg",
+        "width": 241,
+        "height": 413,
+        "title": "The Washington Post",
+        "description": "American daily newspaper",
+        "extract": "The Washington Post is an American daily newspaper published in Washington, D.C. It is the most widely circulated newspaper in the Washington metropolitan area and is considered a newspaper of record in the United States. In 2023, the Post had 130,000 print subscribers and 2.5 million digital subscribers, both ranking third among American newspapers after The New York Times and The Wall Street Journal. In 2025, the number of print subscribers sank below 100,000 for the first time in 55 years.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Washington_Post",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/57/The-Washington-Post-10-June-2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/The-Washington-Post-10-June-2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "the-washington-post-10-june-2020.jpg",
+          "width": 241,
+          "height": 413,
+          "title": "The Washington Post",
+          "description": "American daily newspaper",
+          "extract": "The Washington Post is an American daily newspaper published in Washington, D.C. It is the most widely circulated newspaper in the Washington metropolitan area and is considered a newspaper of record in the United States. In 2023, the Post had 130,000 print subscribers and 2.5 million digital subscribers, both ranking third among American newspapers after The New York Times and The Wall Street Journal. In 2025, the number of print subscribers sank below 100,000 for the first time in 55 years.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Washington_Post",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Jamal_Khashoggi_in_March_2018_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jamal_Khashoggi_in_March_2018_%28cropped%29.jpg/330px-Jamal_Khashoggi_in_March_2018_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jamal_khashoggi_in_march_2018_(cropped).jpg",
+          "width": 1430,
+          "height": 2002,
+          "title": "Jamal Khashoggi",
+          "description": "Saudi journalist and dissident (1958–2018)",
+          "extract": "Jamal Ahmad Hamza Khashoggi was a Saudi journalist, dissident, author, columnist and editor. Khashoggi was assassinated at the Saudi consulate in Istanbul on 2 October 2018 by agents of the Saudi government at the behest of Crown Prince Mohammed bin Salman.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jamal_Khashoggi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Funeral_for_Kashoggi_in_Istanbul%2C_November_16%2C_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Funeral_for_Kashoggi_in_Istanbul%2C_November_16%2C_2018.jpg/330px-Funeral_for_Kashoggi_in_Istanbul%2C_November_16%2C_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "funeral_for_kashoggi_in_istanbul,_november_16,_2018.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": "Assassination of Jamal Khashoggi",
+          "description": "2018 murder in Istanbul, Turkey",
+          "extract": "On 2 October 2018, Jamal Khashoggi, a Saudi dissident journalist, was killed by agents of the Saudi government at the Saudi consulate in Istanbul, Turkey. Khashoggi was ambushed and strangled by a 15-member squad of Saudi operatives. His body was dismembered and disposed of in a manner that was never publicly revealed. The consulate had been secretly bugged by the Turkish government and Khashoggi's final moments were captured in audio recordings, transcripts of which were subsequently made public.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Assassination_of_Jamal_Khashoggi",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "The Washington Post",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Washington_Post",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-02-2016-76a877b7",
+      "year": 2016,
+      "text": "Ethiopian protests break out during a festival in the Oromia region, killing dozens of people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/THE_PERAPLE_OF_WOLKAIT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/THE_PERAPLE_OF_WOLKAIT.jpg/330px-THE_PERAPLE_OF_WOLKAIT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "the_peraple_of_wolkait.jpg",
+        "width": 480,
+        "height": 360,
+        "title": "2014–2016 Oromo protests",
+        "description": "Civil uprising in Ethiopia",
+        "extract": "The 2014–2016 Oromo protests were a series of protests and resistance in Oromia which first sparked on 25 April 2014. The initial actions were taken in opposition to the Addis Ababa Master Plan, and resumed on 12 November 2015 by university students and farmers in the town of Ginchi, located 80 km southwest of Addis Ababa, encircled by Oromia. The plan was to expand the capital into the Oromia special zone, leading to fears that native Oromo farmers would lose their land and be displaced. The plan was later dropped but protests continued, highlighting issues such as marginalization and human rights. Mulatu Gemechu, deputy chairman of the opposition Oromo Federalist Congress, expressed to Reuters: \"so far, we have compiled a list of 33 protesters killed by armed security forces that included police and soldiers but I am very sure the list will grow\". Protesters demanded social and political reforms, including an end to human rights abuses like government killings of civilians, mass arrests, government land seizures, and political marginalization of opposition groups. The government responded by restricting access to the internet and attacking as well as arresting protesters.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2014%E2%80%932016_Oromo_protests",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/THE_PERAPLE_OF_WOLKAIT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/THE_PERAPLE_OF_WOLKAIT.jpg/330px-THE_PERAPLE_OF_WOLKAIT.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_peraple_of_wolkait.jpg",
+          "width": 480,
+          "height": 360,
+          "title": "2014–2016 Oromo protests",
+          "description": "Civil uprising in Ethiopia",
+          "extract": "The 2014–2016 Oromo protests were a series of protests and resistance in Oromia which first sparked on 25 April 2014. The initial actions were taken in opposition to the Addis Ababa Master Plan, and resumed on 12 November 2015 by university students and farmers in the town of Ginchi, located 80 km southwest of Addis Ababa, encircled by Oromia. The plan was to expand the capital into the Oromia special zone, leading to fears that native Oromo farmers would lose their land and be displaced. The plan was later dropped but protests continued, highlighting issues such as marginalization and human rights. Mulatu Gemechu, deputy chairman of the opposition Oromo Federalist Congress, expressed to Reuters: \"so far, we have compiled a list of 33 protesters killed by armed security forces that included police and soldiers but I am very sure the list will grow\". Protesters demanded social and political reforms, including an end to human rights abuses like government killings of civilians, mass arrests, government land seizures, and political marginalization of opposition groups. The government responded by restricting access to the internet and attacking as well as arresting protesters.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2014%E2%80%932016_Oromo_protests",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2014–2016 Oromo protests",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2014%E2%80%932016_Oromo_protests",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-02-2007-d2acee0e",
+      "year": 2007,
+      "text": "President Roh Moo-hyun of South Korea goes to North Korea for an Inter-Korean summit with North Korean leader Kim Jong-il.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Roh_Moo-hyun_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Roh_Moo-hyun_presidential_portrait.jpg/330px-Roh_Moo-hyun_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "roh_moo-hyun_presidential_portrait.jpg",
+        "width": 1093,
+        "height": 1381,
+        "title": "Roh Moo-hyun",
+        "description": "President of South Korea from 2003 to 2008",
+        "extract": "Roh Moo-hyun was a South Korean politician and lawyer who served as the ninth president of South Korea from 2003 to 2008.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roh_Moo-hyun",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Roh_Moo-hyun_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Roh_Moo-hyun_presidential_portrait.jpg/330px-Roh_Moo-hyun_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "roh_moo-hyun_presidential_portrait.jpg",
+          "width": 1093,
+          "height": 1381,
+          "title": "Roh Moo-hyun",
+          "description": "President of South Korea from 2003 to 2008",
+          "extract": "Roh Moo-hyun was a South Korean politician and lawyer who served as the ninth president of South Korea from 2003 to 2008.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Roh_Moo-hyun",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/2018_inter-Korean_summit_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/2018_inter-Korean_summit_01.jpg/330px-2018_inter-Korean_summit_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2018_inter-korean_summit_01.jpg",
+          "width": 1415,
+          "height": 943,
+          "title": "Inter-Korean summits",
+          "description": "Series of meetings between the leaders of North and South Korea",
+          "extract": "Inter-Korean summits are meetings between the leaders of North and South Korea. To date, there have been five such meetings so far, three of them being in Pyongyang, with another two in Panmunjom. The importance of these summits lies in the lack of formal communication between North and South Korea, which makes discussing political and economic issues difficult. The summits' agendas have included topics such as the ending of the 1950-53 war, the massive deployment of troops at the DMZ, the development of nuclear weapons by North Korea, and human rights issues.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Inter-Korean_summits",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Vladimir_Putin_with_Kim_Jong-Il-2_%28cropped%29_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Vladimir_Putin_with_Kim_Jong-Il-2_%28cropped%29_%283%29.jpg/330px-Vladimir_Putin_with_Kim_Jong-Il-2_%28cropped%29_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "vladimir_putin_with_kim_jong-il-2_(cropped)_(3).jpg",
+          "width": 524,
+          "height": 683,
+          "title": "Kim Jong Il",
+          "description": "Leader of North Korea from 1994 to 2011",
+          "extract": "Kim Jong Il was a North Korean politician and dictator who was the second supreme leader of North Korea from the death of his father Kim Il Sung in 1994 until his own death in 2011. Posthumously, Kim Jong Il was declared an eternal leader of the Workers' Party of Korea (WPK).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kim_Jong_Il",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Roh Moo-hyun",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Roh_Moo-hyun",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-02-2006-aa140307",
+      "year": 2006,
+      "text": "A gunman killed five Amish girls before committing suicide in a one-room schoolhouse in Nickel Mines, Pennsylvania.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Lancaster_County_Amish_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lancaster_County_Amish_03.jpg/330px-Lancaster_County_Amish_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "lancaster_county_amish_03.jpg",
+        "width": 800,
+        "height": 600,
+        "title": "Amish",
+        "description": "Group of traditionalist Christian church fellowships",
+        "extract": "The Amish, formally the Old Order Amish, are a group of traditionalist Anabaptist Christian church fellowships with Swiss and Alsatian origins. Because they maintain a degree of separation from surrounding populations, and hold their faith in common, the Amish have been described by certain scholars as an ethnoreligious group, combining features of an ethnicity and a Christian denomination. The Amish are closely related to Old Order Mennonites and Conservative Mennonites, denominations that are also a part of Anabaptist Christianity. The Amish are known for simple living, plain dress, Christian pacifism, and slowness to adopt many conveniences of modern technology, with a view neither to interrupt family time, nor replace face-to-face conversations whenever possible, and a view to maintain self-sufficiency. The Amish value rural life, manual labor, humility and Gelassenheit.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Amish",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Lancaster_County_Amish_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lancaster_County_Amish_03.jpg/330px-Lancaster_County_Amish_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lancaster_county_amish_03.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Amish",
+          "description": "Group of traditionalist Christian church fellowships",
+          "extract": "The Amish, formally the Old Order Amish, are a group of traditionalist Anabaptist Christian church fellowships with Swiss and Alsatian origins. Because they maintain a degree of separation from surrounding populations, and hold their faith in common, the Amish have been described by certain scholars as an ethnoreligious group, combining features of an ethnicity and a Christian denomination. The Amish are closely related to Old Order Mennonites and Conservative Mennonites, denominations that are also a part of Anabaptist Christianity. The Amish are known for simple living, plain dress, Christian pacifism, and slowness to adopt many conveniences of modern technology, with a view neither to interrupt family time, nor replace face-to-face conversations whenever possible, and a view to maintain self-sufficiency. The Amish value rural life, manual labor, humility and Gelassenheit.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Amish",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Shelby_County%2C_Iowa._The_general_attitude_in_this_community_about_education_is_that_every_child_shou_._._._-_NARA_-_522410.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shelby_County%2C_Iowa._The_general_attitude_in_this_community_about_education_is_that_every_child_shou_._._._-_NARA_-_522410.jpg/330px-Shelby_County%2C_Iowa._The_general_attitude_in_this_community_about_education_is_that_every_child_shou_._._._-_NARA_-_522410.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "shelby_county,_iowa._the_general_attitude_in_this_community_about_education_is_that_every_child_shou_._._._-_nara_-_522410.jpg",
+          "width": 3000,
+          "height": 2462,
+          "title": "One-room school",
+          "description": "Small rural school in which students of different ages are mixed in a single classroom",
+          "extract": "One-room schoolhouses, or one-room schools, have been commonplace throughout rural portions of various countries, including Prussia, Norway, Sweden, the United States, Canada, Australia, New Zealand, the United Kingdom, Ireland, Portugal, and Spain. In most rural and small town schools, all of the students meet in a single room. There, a single teacher teaches academic basics to several grade levels of elementary-age children. Recent years have seen a revival of the format. One-room schoolhouses can also be found in developing nations and rural or remote areas undergoing colonization.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/One-room_school",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Nickel_Mines_PA_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Nickel_Mines_PA_1.JPG/330px-Nickel_Mines_PA_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nickel_mines_pa_1.jpg",
+          "width": 3617,
+          "height": 2713,
+          "title": "Nickel Mines, Pennsylvania",
+          "description": "Unincorporated community in Pennsylvania, US",
+          "extract": "Nickel Mines is a hamlet that is located in Bart Township, Lancaster County, Pennsylvania, United States. The zip code is 17562 and the area code is 717.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nickel_Mines%2C_Pennsylvania",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "West Nickel Mines School shooting",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/West_Nickel_Mines_School_shooting",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "10-02-2005-a12d8c0c",
+      "year": 2005,
+      "text": "Typhoon Longwang made landfall in China as the deadliest tropical cyclone in that year to impact the country.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Longwang_2005-10-01_0505Z.jpg/3840px-Longwang_2005-10-01_0505Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Longwang_2005-10-01_0505Z.jpg/330px-Longwang_2005-10-01_0505Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "longwang_2005-10-01_0505z.jpg",
+        "width": 5600,
+        "height": 7200,
+        "title": "Typhoon Longwang",
+        "description": "Pacific typhoon in 2005",
+        "extract": "Typhoon Longwang, known in the Philippines as Typhoon Maring, was the deadliest tropical cyclone to impact China during the 2005 Pacific typhoon season. Longwang was first identified as a tropical depression on September 25 north of the Mariana Islands. Moving along a general westward track, the system quickly intensified and reached typhoon status on September 27. After reaching Category 4-equivalent intensity on the Saffir–Simpson hurricane scale, adverse atmospheric conditions along with internal structural changes resulted in temporary weakening. The structural change culminated in Longwang becoming an annular typhoon and prompted re-intensification. The storm attained peak strength with winds of 175 km/h (109 mph) and a pressure of 930 mbar on October 1 as it approached Taiwan. Interaction with the mountainous terrain of the island and further structural changes caused some weakening before the typhoon made landfall near Hualien City early on October 2. Crossing the island in six hours, Longwang emerged over the Taiwan Strait before moving onshore again later that day, this time in Fujian Province, China as a minimal typhoon. Once over mainland China, the storm quickly weakened and ultimately dissipated late on October 3.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Typhoon_Longwang",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Longwang_2005-10-01_0505Z.jpg/3840px-Longwang_2005-10-01_0505Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Longwang_2005-10-01_0505Z.jpg/330px-Longwang_2005-10-01_0505Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "longwang_2005-10-01_0505z.jpg",
+          "width": 5600,
+          "height": 7200,
+          "title": "Typhoon Longwang",
+          "description": "Pacific typhoon in 2005",
+          "extract": "Typhoon Longwang, known in the Philippines as Typhoon Maring, was the deadliest tropical cyclone to impact China during the 2005 Pacific typhoon season. Longwang was first identified as a tropical depression on September 25 north of the Mariana Islands. Moving along a general westward track, the system quickly intensified and reached typhoon status on September 27. After reaching Category 4-equivalent intensity on the Saffir–Simpson hurricane scale, adverse atmospheric conditions along with internal structural changes resulted in temporary weakening. The structural change culminated in Longwang becoming an annular typhoon and prompted re-intensification. The storm attained peak strength with winds of 175 km/h (109 mph) and a pressure of 930 mbar on October 1 as it approached Taiwan. Interaction with the mountainous terrain of the island and further structural changes caused some weakening before the typhoon made landfall near Hualien City early on October 2. Crossing the island in six hours, Longwang emerged over the Taiwan Strait before moving onshore again later that day, this time in Fujian Province, China as a minimal typhoon. Once over mainland China, the storm quickly weakened and ultimately dissipated late on October 3.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Typhoon_Longwang",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Longwang_2005_track.png/1280px-Longwang_2005_track.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Longwang_2005_track.png/1280px-Longwang_2005_track.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "longwang_2005_track.png",
+          "width": 800,
+          "height": 600,
+          "title": "Map plotting the storm's track and intensity, according to the Saffir–Simpson scale.mw-parser-output .hidden-begin{box-sizing:border-box;width:100%;padding:5px;border:none;font-size:95%}.mw-parser-output .hidden-title{font-weight:bold;line-height:1.6;text-align:left}.mw-parser-output .hidden-content{text-align:left}@media all and (max-width:500px){.mw-parser-output .hidden-begin{width:auto!important;clear:none!important;float:none!important}}Map keySaffir–Simpson scale.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}\n.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}  Tropical depression (≤38 mph, ≤62 km/h)\n  Tropical storm (39–73 mph, 63–118 km/h)\n  Category 1 (74–95 mph, 119–153 km/h)\n  Category 2 (96–110 mph, 154–177 km/h)\n  Category 3 (111–129 mph, 178–208 km/h)\n  Category 4 (130–156 mph, 209–251 km/h)\n  Category 5 (≥157 mph, ≥252 km/h)\n  Unknown\n\n\n\nStorm type\n Tropical cyclone\n Subtropical cyclone\n Extratropical cyclone, remnant low, tropical disturbance, or monsoon depression\n",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Typhoon_Longwang",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Typhoon_Longwang_seen_from_the_ISS_Sep_27_2005.jpg/1280px-Typhoon_Longwang_seen_from_the_ISS_Sep_27_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Typhoon_Longwang_seen_from_the_ISS_Sep_27_2005.jpg/1280px-Typhoon_Longwang_seen_from_the_ISS_Sep_27_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "typhoon_longwang_seen_from_the_iss_sep_27_2005.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Typhoon Longwang seen from the International Space Station on September 27",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Typhoon_Longwang",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Typhoon Longwang",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Typhoon_Longwang",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-02-2004-4ab92860",
+      "year": 2004,
+      "text": "The first parkrun, then known as the Bushy Park Time Trial, takes place in Bushy Park, London, UK.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bushy_parkrun_27th_September_2014_%2815194006519%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bushy_parkrun_27th_September_2014_%2815194006519%29.jpg/330px-Bushy_parkrun_27th_September_2014_%2815194006519%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bushy_parkrun_27th_september_2014_(15194006519).jpg",
+        "width": 1920,
+        "height": 1241,
+        "title": "Parkrun",
+        "description": "Global 5k running events on Saturdays",
+        "extract": "Parkrun is a collection of 5-kilometre (3.1 mi) events for runners, walkers and volunteers that take place every Saturday morning at more than 2,000 locations in 23 countries across five continents.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Parkrun",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bushy_parkrun_27th_September_2014_%2815194006519%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bushy_parkrun_27th_September_2014_%2815194006519%29.jpg/330px-Bushy_parkrun_27th_September_2014_%2815194006519%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bushy_parkrun_27th_september_2014_(15194006519).jpg",
+          "width": 1920,
+          "height": 1241,
+          "title": "Parkrun",
+          "description": "Global 5k running events on Saturdays",
+          "extract": "Parkrun is a collection of 5-kilometre (3.1 mi) events for runners, walkers and volunteers that take place every Saturday morning at more than 2,000 locations in 23 countries across five continents.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Parkrun",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Bushy_park_from_the_air.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bushy_park_from_the_air.jpg/330px-Bushy_park_from_the_air.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bushy_park_from_the_air.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "Bushy Park",
+          "description": "Public park in the London Borough of Richmond upon Thames",
+          "extract": "Bushy Park in the London Borough of Richmond upon Thames is the second largest of London's Royal Parks, at 445 hectares in area, after Richmond Park. The park, most of which is open to the public, is immediately north of Hampton Court Palace and Hampton Court Park and is a few minutes' walk from the west side of Kingston Bridge. It is surrounded by Teddington, Hampton, Hampton Hill and Hampton Wick and is mainly within the post towns of Hampton and Teddington, those of East Molesey and Kingston upon Thames taking the remainder.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bushy_Park",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/London_Skyline_%28125508655%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "london_skyline_(125508655).jpeg",
+          "width": 2048,
+          "height": 1152,
+          "title": "London",
+          "description": "Capital of England and the United Kingdom",
+          "extract": "London is the capital and largest city of England and the United Kingdom, with a population of 9.14 million people in 2025. Its wider metropolitan area is the largest in Western Europe, with a population of 15.4 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea, and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre, the City of London, was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster, to the west of the City of London, has been the site of the national government and parliament for centuries. London grew rapidly in the 19th century, becoming the world's largest city at the time. Since the 19th century the name \"London\" has referred to the metropolis around the City of London, historically split among the counties of Middlesex, Essex, Surrey, Kent and Hertfordshire. Since 1965 it has largely comprised the administrative area of Greater London, governed by 33 local authorities and the Greater London Authority.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/London",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Parkrun",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Parkrun",
+      "relatedPagesCount": 3
+    }
+  ]
+}

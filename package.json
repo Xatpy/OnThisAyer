@@ -1,0 +1,30 @@
+{
+  "name": "tal-dia-como-hoy",
+  "version": "1.0.0",
+  "description": "Extractor de efemérides con fotos, renderizador HD y web pública para Ayer App",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test test/**/*.test.js",
+    "fetch": "node src/cli/fetch.js",
+    "fetch:all": "node src/cli/fetch.js --all",
+    "render": "node src/cli/render.js",
+    "curate:batch": "node src/cli/batch.js"
+  },
+  "keywords": [
+    "on-this-day",
+    "efemerides",
+    "ayer-app",
+    "memories",
+    "wikipedia",
+    "social-media",
+    "github-pages"
+  ],
+  "author": "Chapiware",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}

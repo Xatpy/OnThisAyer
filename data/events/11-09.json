@@ -1,0 +1,619 @@
+{
+  "date": {
+    "month": 11,
+    "day": 9,
+    "formatted": "11-09"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "11-09-1967-5f2613bd",
+      "year": 1967,
+      "text": "Apollo program: NASA launches the unmanned Apollo 4 test spacecraft, atop the first Saturn V rocket, from Florida's Cape Kennedy.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Apollo_4_Launch_-_GPN-2000-000044.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Apollo_4_Launch_-_GPN-2000-000044.jpg/330px-Apollo_4_Launch_-_GPN-2000-000044.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "apollo_4_launch_-_gpn-2000-000044.jpg",
+        "width": 2313,
+        "height": 3000,
+        "title": "Apollo 4",
+        "description": "First test flight of the Apollo Saturn V rocket",
+        "extract": "Apollo 4, also known as SA-501, was the uncrewed first test flight of the Saturn V launch vehicle, the rocket that eventually took astronauts to the Moon. The space vehicle was assembled in the Vehicle Assembly Building, and was the first to be launched from Kennedy Space Center (KSC) in Florida, ascending from Launch Complex 39, where facilities built especially for the Saturn V had been constructed.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_4",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Apollo_4_Launch_-_GPN-2000-000044.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Apollo_4_Launch_-_GPN-2000-000044.jpg/330px-Apollo_4_Launch_-_GPN-2000-000044.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "apollo_4_launch_-_gpn-2000-000044.jpg",
+          "width": 2313,
+          "height": 3000,
+          "title": "Apollo 4",
+          "description": "First test flight of the Apollo Saturn V rocket",
+          "extract": "Apollo 4, also known as SA-501, was the uncrewed first test flight of the Saturn V launch vehicle, the rocket that eventually took astronauts to the Moon. The space vehicle was assembled in the Vehicle Assembly Building, and was the first to be launched from Kennedy Space Center (KSC) in Florida, ascending from Launch Complex 39, where facilities built especially for the Saturn V had been constructed.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_4",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Apollo_11_Launch_-_GPN-2000-000630.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Apollo_11_Launch_-_GPN-2000-000630.jpg/330px-Apollo_11_Launch_-_GPN-2000-000630.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "apollo_11_launch_-_gpn-2000-000630.jpg",
+          "width": 2400,
+          "height": 3000,
+          "title": "Saturn V",
+          "description": "American super heavy-lift expendable rocket",
+          "extract": "The Saturn V is a retired American super heavy-lift launch vehicle developed by NASA under the Apollo program for human exploration of the Moon. The rocket was human-rated, had three stages, and was liquid-fueled. Thirteen Saturn V vehicles were launched, from 1967 to 1973, all from Kennedy Space Center Launch Complex 39, nine of which launched 24 astronauts toward the Moon from Apollo 8 to Apollo 17. Its final launch was Skylab, the first American space station, converted from its own third stage.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Saturn_V",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cape_canaveral.jpg/3840px-Cape_canaveral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cape_canaveral.jpg/330px-Cape_canaveral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cape_canaveral.jpg",
+          "width": 5320,
+          "height": 5266,
+          "title": "Cape Canaveral",
+          "description": "Cape on the Atlantic coast of Florida in the United States",
+          "extract": "Cape Canaveral is a cape in Brevard County, Florida, in the United States, near the center of the state's Atlantic coast. Officially Cape Kennedy from 1963 to 1973, it lies east of Merritt Island, separated from it by the Banana River. It is part of a region known as the Space Coast, and is the site of the Cape Canaveral Space Force Station. Since many U.S. spacecraft have been launched from both the station and the Kennedy Space Center on adjacent Merritt Island, the two are sometimes conflated.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cape_Canaveral",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Apollo program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Apollo_program",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "11-09-1989-ede95aa6",
+      "year": 1989,
+      "text": "East German official Günter Schabowski mistakenly announced the immediate opening of the inner German border, resulting in the fall of the Berlin Wall that night (border crossing pictured).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bundesarchiv_Bild_183-1982-0504-421%2C_G%C3%BCnter_Schabowski.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bundesarchiv_Bild_183-1982-0504-421%2C_G%C3%BCnter_Schabowski.jpg/330px-Bundesarchiv_Bild_183-1982-0504-421%2C_G%C3%BCnter_Schabowski.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_183-1982-0504-421,_günter_schabowski.jpg",
+        "width": 627,
+        "height": 800,
+        "title": "Günter Schabowski",
+        "description": "German politician",
+        "extract": "Günter Schabowski was a German politician who served as an official of the Socialist Unity Party of Germany, the ruling party during most of the existence of East Germany. After climbing up the party ladder, he became the regime's unofficial spokesman. He gained worldwide fame in November 1989 when he improvised a slightly mistaken answer to a press conference question about the future of the Berlin Wall, that seemed to announce the Wall's immediate end and raised popular expectations much more rapidly than the government planned. Massive crowds gathered at the Wall the same night, which forced its opening after 28 years. Soon afterward, the entire inner German border was opened; not much later, East Germany ceased to exist.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/G%C3%BCnter_Schabowski",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bundesarchiv_Bild_183-1982-0504-421%2C_G%C3%BCnter_Schabowski.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Bundesarchiv_Bild_183-1982-0504-421%2C_G%C3%BCnter_Schabowski.jpg/330px-Bundesarchiv_Bild_183-1982-0504-421%2C_G%C3%BCnter_Schabowski.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_183-1982-0504-421,_günter_schabowski.jpg",
+          "width": 627,
+          "height": 800,
+          "title": "Günter Schabowski",
+          "description": "German politician",
+          "extract": "Günter Schabowski was a German politician who served as an official of the Socialist Unity Party of Germany, the ruling party during most of the existence of East Germany. After climbing up the party ladder, he became the regime's unofficial spokesman. He gained worldwide fame in November 1989 when he improvised a slightly mistaken answer to a press conference question about the future of the Berlin Wall, that seemed to announce the Wall's immediate end and raised popular expectations much more rapidly than the government planned. Massive crowds gathered at the Wall the same night, which forced its opening after 28 years. Soon afterward, the entire inner German border was opened; not much later, East Germany ceased to exist.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/G%C3%BCnter_Schabowski",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Halt_hier_grenze.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Halt_hier_grenze.jpg/330px-Halt_hier_grenze.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "halt_hier_grenze.jpg",
+          "width": 3105,
+          "height": 2293,
+          "title": "Inner German border",
+          "description": "Border separating East and West Germany, 1949–1990",
+          "extract": "The inner German border was the border between the German Democratic Republic and the Federal Republic of Germany from 1949 to 1990. It ran north–south in a 1,381-kilometre-long (858 mi) irregular L-shaped line from Dassow at the Baltic Sea to Eichigt at the border with Czechoslovakia. The better-known Berlin Wall was a physically separate, less elaborate, and much shorter border barrier surrounding West Berlin, more than 170 kilometres (110 mi) to the east of the inner German border.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Inner_German_border",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg/330px-West_and_East_Germans_at_the_Brandenburg_Gate_in_1989.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "west_and_east_germans_at_the_brandenburg_gate_in_1989.jpg",
+          "width": 661,
+          "height": 498,
+          "title": "Fall of the Berlin Wall",
+          "description": "1989 destruction of the Berlin Wall",
+          "extract": "The Berlin Wall fell on 9 November 1989 during the Peaceful Revolution, marking the beginning of the destruction of the figurative Iron Curtain, as East Berlin transit restrictions were overwhelmed and discarded. Sections of the wall were breached, and planned deconstruction began the following June. It was one of the series of events that started the fall of communism in Central and Eastern Europe. The fall of the inner German border took place shortly afterward. An end to the Cold War was declared at the Malta Summit in early December, and German reunification took place in October the following year.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Günter Schabowski",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/G%C3%BCnter_Schabowski",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-09-1985-6becb789",
+      "year": 1985,
+      "text": "At age 22, Garry Kasparov became the then-youngest World Chess Champion by defeating then-champion Anatoly Karpov.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Garri_Kasparow_%2818776605665%29_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Garri_Kasparow_%2818776605665%29_%28cropped%29_2.jpg/330px-Garri_Kasparow_%2818776605665%29_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "garri_kasparow_(18776605665)_(cropped)_2.jpg",
+        "width": 1466,
+        "height": 1984,
+        "title": "Garry Kasparov",
+        "description": "Russian chess grandmaster (born 1963)",
+        "extract": "Garry Kimovich Kasparov is a Russian chess grandmaster, political activist and writer, who was the World Chess Champion from 1985 to 2000. His peak FIDE chess rating of 2851, achieved in 1999, was the highest recorded until being surpassed by Magnus Carlsen in 2013. From 1984 until his retirement from regular competitive chess in 2005, Kasparov was ranked the world's No. 1 player for a record 255 months overall. Kasparov also holds records for the most consecutive professional tournament victories (15) and Chess Oscars (11).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Garry_Kasparov",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Garri_Kasparow_%2818776605665%29_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Garri_Kasparow_%2818776605665%29_%28cropped%29_2.jpg/330px-Garri_Kasparow_%2818776605665%29_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "garri_kasparow_(18776605665)_(cropped)_2.jpg",
+          "width": 1466,
+          "height": 1984,
+          "title": "Garry Kasparov",
+          "description": "Russian chess grandmaster (born 1963)",
+          "extract": "Garry Kimovich Kasparov is a Russian chess grandmaster, political activist and writer, who was the World Chess Champion from 1985 to 2000. His peak FIDE chess rating of 2851, achieved in 1999, was the highest recorded until being surpassed by Magnus Carlsen in 2013. From 1984 until his retirement from regular competitive chess in 2005, Kasparov was ranked the world's No. 1 player for a record 255 months overall. Kasparov also holds records for the most consecutive professional tournament victories (15) and Chess Oscars (11).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Garry_Kasparov",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Gukesh_in_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gukesh_in_2025_%28cropped%29.jpg/330px-Gukesh_in_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gukesh_in_2025_(cropped).jpg",
+          "width": 980,
+          "height": 1400,
+          "title": "World Chess Championship",
+          "description": "Competition to determine the World Chess Champion",
+          "extract": "The World Chess Championship is played to determine the world champion in chess. The current world champion is Gukesh Dommaraju, who defeated the previous champion Ding Liren in the 2024 World Chess Championship.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_Chess_Championship",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Anatoly_Karpov_2017_april.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Anatoly_Karpov_2017_april.jpg/330px-Anatoly_Karpov_2017_april.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anatoly_karpov_2017_april.jpg",
+          "width": 2049,
+          "height": 3089,
+          "title": "Anatoly Karpov",
+          "description": "Russian chess grandmaster (born 1951)",
+          "extract": "Anatoly Yevgenyevich Karpov is a Russian and former Soviet chess grandmaster, former World Chess Champion, ⁣and politician. He was the 12th World Chess Champion, from 1975 to 1985, a three-time FIDE World Champion, twice World Chess champion as a member of the USSR team, a six-time winner of Chess Olympiads as a member of the USSR team, and the 1st World Rapid Chess Champion (1988). The International Association of Chess Press awarded him nine Chess Oscars.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anatoly_Karpov",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Garry Kasparov",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Garry_Kasparov",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-09-2019-516d515b",
+      "year": 2019,
+      "text": "Pakistani prime minister Imran Khan inaugurated the Kartarpur Corridor, a visa-free border crossing connecting the Gurdwara Darbar Sahib to the India–Pakistan border.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg/330px-Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "prime_minister_imran_khan_adresses_the_forum_01.jpg",
+        "width": 831,
+        "height": 1078,
+        "title": "Imran Khan",
+        "description": "Prime Minister of Pakistan from 2018 to 2022",
+        "extract": "Imran Ahmed Khan Niazi is a Pakistani former cricketer, philanthropist, and politician who served as the 19th prime minister of Pakistan from August 2018 until April 2022. As a cricketer, he captained the Pakistan national cricket team to victory in the 1992 Cricket World Cup. After retiring from cricket, he founded the Shaukat Khanum Memorial Cancer Hospital and Research Centre, Pakistan's first cancer hospital. He is the founder of the political party Pakistan Tehreek-e-Insaf (PTI) and was its chairman from 1996 to 2023.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Imran_Khan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg/330px-Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "prime_minister_imran_khan_adresses_the_forum_01.jpg",
+          "width": 831,
+          "height": 1078,
+          "title": "Imran Khan",
+          "description": "Prime Minister of Pakistan from 2018 to 2022",
+          "extract": "Imran Ahmed Khan Niazi is a Pakistani former cricketer, philanthropist, and politician who served as the 19th prime minister of Pakistan from August 2018 until April 2022. As a cricketer, he captained the Pakistan national cricket team to victory in the 1992 Cricket World Cup. After retiring from cricket, he founded the Shaukat Khanum Memorial Cancer Hospital and Research Centre, Pakistan's first cancer hospital. He is the founder of the political party Pakistan Tehreek-e-Insaf (PTI) and was its chairman from 1996 to 2023.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Imran_Khan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gurdwara_Darbar_Sahib_Kartarpur_04.jpg/3840px-Gurdwara_Darbar_Sahib_Kartarpur_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gurdwara_Darbar_Sahib_Kartarpur_04.jpg/330px-Gurdwara_Darbar_Sahib_Kartarpur_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gurdwara_darbar_sahib_kartarpur_04.jpg",
+          "width": 3978,
+          "height": 2983,
+          "title": "Kartarpur Corridor",
+          "description": "Border corridor between India and Pakistan",
+          "extract": "The Kartarpur Corridor is a visa-free border crossing and religious corridor, connecting two gurdwaras, Gurdwara Darbar Sahib, near Narowal in Pakistan and Gurudwara Dera Baba Nanak, Gurdaspur district, Punjab, India. The crossing allows devotees from India to visit the gurdwara in Kartarpur, Pakistan, 4.7 kilometres from the India–Pakistan border on the Pakistani side without a visa. Pakistani Sikhs are unable to use the border crossing, and cannot access Dera Baba Nanak on the Indian side without first obtaining an Indian visa or unless they work there.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kartarpur_Corridor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/India-Pakistan_Border_at_Night.jpg/3840px-India-Pakistan_Border_at_Night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/India-Pakistan_Border_at_Night.jpg/330px-India-Pakistan_Border_at_Night.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "india-pakistan_border_at_night.jpg",
+          "width": 4928,
+          "height": 3280,
+          "title": "India–Pakistan border",
+          "description": "International border",
+          "extract": "The India–Pakistan border is the international boundary that separates the nations of the Republic of India and the Islamic Republic of Pakistan. At its northern end is the Line of Control, which separates Indian-administered Jammu & Kashmir from Pakistani-administered Kashmir; and at its southern end is Sir Creek, a tidal estuary in the Rann of Kutch between the Indian state of Gujarat and the Pakistani province of Sindh.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/India%E2%80%93Pakistan_border",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Imran Khan",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Imran_Khan",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-09-1938-89e114bd",
+      "year": 1938,
+      "text": "Kristallnacht began as SA stormtroopers and civilians destroyed and ransacked Jewish homes, businesses and synagogues in Germany and Austria, resulting in at least 90 deaths and the deportation of 30,000 men to concentration camps.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Interior_view_of_the_destroyed_Fasanenstrasse_Synagogue%2C_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Interior_view_of_the_destroyed_Fasanenstrasse_Synagogue%2C_Berlin.jpg/330px-Interior_view_of_the_destroyed_Fasanenstrasse_Synagogue%2C_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "interior_view_of_the_destroyed_fasanenstrasse_synagogue,_berlin.jpg",
+        "width": 1000,
+        "height": 702,
+        "title": "Kristallnacht",
+        "description": "1938 anti-Jewish pogroms in Nazi Germany",
+        "extract": "Kristallnacht (German: [kʁɪsˈtalnaχt] ; lit. 'crystal night') or the Night of Broken Glass, also called the November pogrom(s) (German: Novemberpogrome ), was a pogrom against Jews carried out by the Nazi Party's Sturmabteilung (SA) and Schutzstaffel (SS) paramilitary forces along with some participation from the Hitler Youth and German civilians throughout Nazi Germany on 9–10 November 1938. The German authorities looked on without intervening. The euphemistic name Kristallnacht comes from the shards of broken glass that littered the streets after the windows of Jewish-owned stores, buildings, and synagogues were smashed. The pretext for the attacks was the assassination, on 9 November 1938, of the German diplomat Ernst vom Rath by Herschel Grynszpan, a 17-year-old German-born Polish Jew living in Paris.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kristallnacht",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Interior_view_of_the_destroyed_Fasanenstrasse_Synagogue%2C_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Interior_view_of_the_destroyed_Fasanenstrasse_Synagogue%2C_Berlin.jpg/330px-Interior_view_of_the_destroyed_Fasanenstrasse_Synagogue%2C_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "interior_view_of_the_destroyed_fasanenstrasse_synagogue,_berlin.jpg",
+          "width": 1000,
+          "height": 702,
+          "title": "Kristallnacht",
+          "description": "1938 anti-Jewish pogroms in Nazi Germany",
+          "extract": "Kristallnacht (German: [kʁɪsˈtalnaχt] ; lit. 'crystal night') or the Night of Broken Glass, also called the November pogrom(s) (German: Novemberpogrome ), was a pogrom against Jews carried out by the Nazi Party's Sturmabteilung (SA) and Schutzstaffel (SS) paramilitary forces along with some participation from the Hitler Youth and German civilians throughout Nazi Germany on 9–10 November 1938. The German authorities looked on without intervening. The euphemistic name Kristallnacht comes from the shards of broken glass that littered the streets after the windows of Jewish-owned stores, buildings, and synagogues were smashed. The pretext for the attacks was the assassination, on 9 November 1938, of the German diplomat Ernst vom Rath by Herschel Grynszpan, a 17-year-old German-born Polish Jew living in Paris.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kristallnacht",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Prisoners_hauling_earth_for_the_construction_of_the_%22Russian_camp%22_at_Mauthausen_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Prisoners_hauling_earth_for_the_construction_of_the_%22Russian_camp%22_at_Mauthausen_%28cropped%29.jpg/330px-Prisoners_hauling_earth_for_the_construction_of_the_%22Russian_camp%22_at_Mauthausen_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "prisoners_hauling_earth_for_the_construction_of_the_\"russian_camp\"_at_mauthausen_(cropped).jpg",
+          "width": 1169,
+          "height": 1343,
+          "title": "Nazi concentration camps",
+          "description": "Concentration camps operated by Nazi Germany",
+          "extract": "Nazi Germany built and operated a system of concentration camps between 1933 and 1945. In these camps, prisoners were held in inhumane conditions, with the majority of prisoners dying from causes including disease, malnutrition, forced labor, maltreatment and execution by their captors. There were more than a thousand such camps, including subcamps in Germany and German-occupied Europe. In addition to the concentration camps, there were several other kinds of internment camps, and from 1941 onward an associated system of extermination camps was created that was dedicated solely to the systematic murder of millions of people. Millions of other victims of Nazi Germany were also killed in places outside the concentration camp system.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nazi_concentration_camps",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Kristallnacht",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Kristallnacht",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-09-2005-df58fd2a",
+      "year": 2005,
+      "text": "The Venus Express mission of the European Space Agency is launched from the Baikonur Cosmodrome in Kazakhstan.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Venus_Express_in_orbit_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Venus_Express_in_orbit_%28crop%29.jpg/330px-Venus_Express_in_orbit_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "venus_express_in_orbit_(crop).jpg",
+        "width": 873,
+        "height": 698,
+        "title": "Venus Express",
+        "description": "European orbiter mission to Venus (2005–2015)",
+        "extract": "Venus Express (VEX) was the first Venus exploration mission of the European Space Agency (ESA). Launched in November 2005, it arrived at Venus in April 2006 and began continuously sending back science data from its polar orbit around Venus. Equipped with seven scientific instruments, the main objective of the mission was the long term observation of the Venusian atmosphere. The observation over such long periods of time had never been done in previous missions to Venus, and was key to a better understanding of the atmospheric dynamics. ESA concluded the mission in December 2014.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Venus_Express",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Venus_Express_in_orbit_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Venus_Express_in_orbit_%28crop%29.jpg/330px-Venus_Express_in_orbit_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "venus_express_in_orbit_(crop).jpg",
+          "width": 873,
+          "height": 698,
+          "title": "Venus Express",
+          "description": "European orbiter mission to Venus (2005–2015)",
+          "extract": "Venus Express (VEX) was the first Venus exploration mission of the European Space Agency (ESA). Launched in November 2005, it arrived at Venus in April 2006 and began continuously sending back science data from its polar orbit around Venus. Equipped with seven scientific instruments, the main objective of the mission was the long term observation of the Venusian atmosphere. The observation over such long periods of time had never been done in previous missions to Venus, and was key to a better understanding of the atmospheric dynamics. ESA concluded the mission in December 2014.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Venus_Express",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Baikonur_Cosmodrome_Soyuz_launch_pad.jpg/3840px-Baikonur_Cosmodrome_Soyuz_launch_pad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Baikonur_Cosmodrome_Soyuz_launch_pad.jpg/330px-Baikonur_Cosmodrome_Soyuz_launch_pad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "baikonur_cosmodrome_soyuz_launch_pad.jpg",
+          "width": 4256,
+          "height": 2832,
+          "title": "Baikonur Cosmodrome",
+          "description": "Spaceport in Kazakhstan leased to Russia",
+          "extract": "The Baikonur Cosmodrome is a spaceport operated by Russia within Kazakhstan. Located in the Kazakh city of Baikonur, it is the largest operational space launch facility in terms of area. All Russian crewed spaceflights are launched from Baikonur.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/72/Venus_Express_insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/7/72/Venus_Express_insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "venus_express_insignia.png",
+          "width": 800,
+          "height": 600,
+          "title": "Venus_Express_insignia",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Venus_Express",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Venus Express",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Venus_Express",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-09-2023-890ed448",
+      "year": 2023,
+      "text": "U.S. surgeons at NYU Langone Health announce the world's first whole eye transplant.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/NYU_Langone_Medical_Center_%2841246168170%29.jpg/3840px-NYU_Langone_Medical_Center_%2841246168170%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/NYU_Langone_Medical_Center_%2841246168170%29.jpg/330px-NYU_Langone_Medical_Center_%2841246168170%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "nyu_langone_medical_center_(41246168170).jpg",
+        "width": 4208,
+        "height": 3156,
+        "title": "NYU Langone Health",
+        "description": "Hospital in New York, United States",
+        "extract": "NYU Langone Health is an integrated academic health system located in New York City, New York, United States. The health system consists of the NYU Grossman School of Medicine and NYU Grossman Long Island School of Medicine, both part of New York University (NYU), and more than 330 locations throughout the New York City Region and in Florida, including seven inpatient facilities: Tisch Hospital; Kimmel Pavilion; NYU Langone Orthopedic Hospital; Hassenfeld Children's Hospital; NYU Langone Hospital — Brooklyn; NYU Langone Hospital — Long Island; and NYU Langone Hospital — Suffolk. It is also home to Rusk Rehabilitation. NYU Langone Health is one of the largest healthcare systems in the Northeast, with more than 54,000 employees.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/NYU_Langone_Health",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/NYU_Langone_Medical_Center_%2841246168170%29.jpg/3840px-NYU_Langone_Medical_Center_%2841246168170%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/NYU_Langone_Medical_Center_%2841246168170%29.jpg/330px-NYU_Langone_Medical_Center_%2841246168170%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nyu_langone_medical_center_(41246168170).jpg",
+          "width": 4208,
+          "height": 3156,
+          "title": "NYU Langone Health",
+          "description": "Hospital in New York, United States",
+          "extract": "NYU Langone Health is an integrated academic health system located in New York City, New York, United States. The health system consists of the NYU Grossman School of Medicine and NYU Grossman Long Island School of Medicine, both part of New York University (NYU), and more than 330 locations throughout the New York City Region and in Florida, including seven inpatient facilities: Tisch Hospital; Kimmel Pavilion; NYU Langone Orthopedic Hospital; Hassenfeld Children's Hospital; NYU Langone Hospital — Brooklyn; NYU Langone Hospital — Long Island; and NYU Langone Hospital — Suffolk. It is also home to Rusk Rehabilitation. NYU Langone Health is one of the largest healthcare systems in the Northeast, with more than 54,000 employees.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NYU_Langone_Health",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NYU Langone Health",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NYU_Langone_Health",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-09-2020-a81aad99",
+      "year": 2020,
+      "text": "Second Nagorno-Karabakh War: An armistice agreement is signed by Armenia, Azerbaijan and Russia.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ilham_Aliyev%2C_Russian_President_Vladimir_Putin_met_in_a_videoconference_format_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ilham_Aliyev%2C_Russian_President_Vladimir_Putin_met_in_a_videoconference_format_3.jpg/330px-Ilham_Aliyev%2C_Russian_President_Vladimir_Putin_met_in_a_videoconference_format_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ilham_aliyev,_russian_president_vladimir_putin_met_in_a_videoconference_format_3.jpg",
+        "width": 1960,
+        "height": 1095,
+        "title": "2020 Nagorno-Karabakh ceasefire agreement",
+        "description": "Armistice agreement ending the Second Nagorno-Karabakh War",
+        "extract": "The 2020 Nagorno-Karabakh ceasefire agreement was an armistice agreement that ended the Second Nagorno-Karabakh War. It was signed on 9 November by the President of Azerbaijan Ilham Aliyev, the Prime Minister of Armenia Nikol Pashinyan and the President of Russia Vladimir Putin, and ended all hostilities in the Nagorno-Karabakh region from 00:00, on 10 November 2020 Moscow time. The president of the breakaway Republic of Artsakh, Arayik Harutyunyan, also agreed to an end of hostilities.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ilham_Aliyev%2C_Russian_President_Vladimir_Putin_met_in_a_videoconference_format_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ilham_Aliyev%2C_Russian_President_Vladimir_Putin_met_in_a_videoconference_format_3.jpg/330px-Ilham_Aliyev%2C_Russian_President_Vladimir_Putin_met_in_a_videoconference_format_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ilham_aliyev,_russian_president_vladimir_putin_met_in_a_videoconference_format_3.jpg",
+          "width": 1960,
+          "height": 1095,
+          "title": "2020 Nagorno-Karabakh ceasefire agreement",
+          "description": "Armistice agreement ending the Second Nagorno-Karabakh War",
+          "extract": "The 2020 Nagorno-Karabakh ceasefire agreement was an armistice agreement that ended the Second Nagorno-Karabakh War. It was signed on 9 November by the President of Azerbaijan Ilham Aliyev, the Prime Minister of Armenia Nikol Pashinyan and the President of Russia Vladimir Putin, and ended all hostilities in the Nagorno-Karabakh region from 00:00, on 10 November 2020 Moscow time. The president of the breakaway Republic of Artsakh, Arayik Harutyunyan, also agreed to an end of hostilities.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_ceasefire_agreement",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Second Nagorno-Karabakh War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Second_Nagorno-Karabakh_War",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "11-09-1998-affaf073",
+      "year": 1998,
+      "text": "A U.S. federal judge, in the largest civil settlement in American history, orders 37 U.S. brokerage houses to pay US$1.03 billion to cheated NASDAQ investors to compensate for price fixing.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Nasdaq_Tower_May_2026.jpg/3840px-Nasdaq_Tower_May_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Nasdaq_Tower_May_2026.jpg/330px-Nasdaq_Tower_May_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "nasdaq_tower_may_2026.jpg",
+        "width": 4000,
+        "height": 6000,
+        "title": "Nasdaq",
+        "description": "American stock exchange",
+        "extract": "The Nasdaq Stock Market is an American stock exchange. It is the largest stock exchange by market capitalization and the first fully electronic stock market. Based in Manhattan, New York City, the exchange is among the most active stock trading venues by volume in the United States.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nasdaq",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Nasdaq_Tower_May_2026.jpg/3840px-Nasdaq_Tower_May_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Nasdaq_Tower_May_2026.jpg/330px-Nasdaq_Tower_May_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nasdaq_tower_may_2026.jpg",
+          "width": 4000,
+          "height": 6000,
+          "title": "Nasdaq",
+          "description": "American stock exchange",
+          "extract": "The Nasdaq Stock Market is an American stock exchange. It is the largest stock exchange by market capitalization and the first fully electronic stock market. Based in Manhattan, New York City, the exchange is among the most active stock trading venues by volume in the United States.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nasdaq",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nasdaq_compared_to_corporate_profits.webp/1280px-Nasdaq_compared_to_corporate_profits.webp?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nasdaq_compared_to_corporate_profits.webp/1280px-Nasdaq_compared_to_corporate_profits.webp?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasdaq_compared_to_corporate_profits.webp",
+          "width": 800,
+          "height": 600,
+          "title": "Nasdaq compared to corporate profits\n.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}  Corporate profits after tax\n  NASDAQ Index\n",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nasdaq",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Nasdaq",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Nasdaq",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-09-1993-ea759e12",
+      "year": 1993,
+      "text": "Bosnian War: Croatian Defence Council forces destroyed the Stari Most, a 16th-century bridge crossing the river Neretva in the city of Mostar (rebuilt bridge pictured).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Krupa_nakon_rata.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Krupa_nakon_rata.JPG/330px-Krupa_nakon_rata.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "krupa_nakon_rata.jpg",
+        "width": 813,
+        "height": 567,
+        "title": "Bosnian War",
+        "description": "1992–1995 armed conflict in Bosnia and Herzegovina",
+        "extract": "The Bosnian War was an armed conflict that took place in Bosnia and Herzegovina, from 1992 until 1995. Following several earlier violent incidents, the war is commonly seen as having started on 6 April 1992 when the newly independent Republic of Bosnia and Herzegovina was internationally recognized. It ended on 21 November 1995 when the Dayton Accords were initialed. The main belligerents were the forces of the government of the Republic of Bosnia and Herzegovina, and those of the breakaway proto-states of the Republic of Herzeg-Bosnia and the Republika Srpska which were led and supplied by Croatia and Serbia, respectively.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bosnian_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Krupa_nakon_rata.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Krupa_nakon_rata.JPG/330px-Krupa_nakon_rata.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "krupa_nakon_rata.jpg",
+          "width": 813,
+          "height": 567,
+          "title": "Bosnian War",
+          "description": "1992–1995 armed conflict in Bosnia and Herzegovina",
+          "extract": "The Bosnian War was an armed conflict that took place in Bosnia and Herzegovina, from 1992 until 1995. Following several earlier violent incidents, the war is commonly seen as having started on 6 April 1992 when the newly independent Republic of Bosnia and Herzegovina was internationally recognized. It ended on 21 November 1995 when the Dayton Accords were initialed. The main belligerents were the forces of the government of the Republic of Bosnia and Herzegovina, and those of the breakaway proto-states of the Republic of Herzeg-Bosnia and the Republika Srpska which were led and supplied by Croatia and Serbia, respectively.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bosnian_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mostar_Old_Town_Panorama_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Mostar_Old_Town_Panorama_2007.jpg/330px-Mostar_Old_Town_Panorama_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mostar_old_town_panorama_2007.jpg",
+          "width": 2390,
+          "height": 1600,
+          "title": "Stari Most",
+          "description": "Bridge in Mostar, Bosnia and Herzegovina",
+          "extract": "The Old Bridge, also known as the Mostar Bridge, is a rebuilt 16th-century Ottoman bridge in the city of Mostar in Bosnia and Herzegovina. It crosses the river Neretva and connects the two parts of the city, which is named after the bridge keepers who guarded the Old Bridge during the Ottoman era. Commissioned by Suleiman the Magnificent in 1557 and designed by Mimar Hayruddin, a student and apprentice of the architect Mimar Sinan, the Old Bridge is an exemplary piece of Balkan Islamic architecture.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Stari_Most",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NERETVA_RIVER_VALLEY_NEAR_POCITELJ.jpg/3840px-NERETVA_RIVER_VALLEY_NEAR_POCITELJ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NERETVA_RIVER_VALLEY_NEAR_POCITELJ.jpg/330px-NERETVA_RIVER_VALLEY_NEAR_POCITELJ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "neretva_river_valley_near_pocitelj.jpg",
+          "width": 5262,
+          "height": 3595,
+          "title": "Neretva",
+          "description": "River in Bosnia and Herzegovina and Croatia",
+          "extract": "The Neretva, also known as Narenta, is one of the largest rivers of the eastern part of the Adriatic basin. Four hydroelectric power plants with large dams provide flood protection, electricity and water storage. The Neretva is recognized for its natural environment and diverse landscapes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Neretva",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Bosnian War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bosnian_War",
+      "relatedPagesCount": 5
+    }
+  ]
+}

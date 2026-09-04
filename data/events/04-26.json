@@ -1,0 +1,607 @@
+{
+  "date": {
+    "month": 4,
+    "day": 26,
+    "formatted": "04-26"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "04-26-1993-403cc39c",
+      "year": 1993,
+      "text": "The Space Shuttle Columbia is launched on mission STS-55 to conduct experiments aboard the Spacelab module.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+        "width": 868,
+        "height": 521,
+        "title": "Space Shuttle Columbia",
+        "description": "Space Shuttle orbiter (1981–2003)",
+        "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+          "width": 868,
+          "height": 521,
+          "title": "Space Shuttle Columbia",
+          "description": "Space Shuttle orbiter (1981–2003)",
+          "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/STS-55_Spacelab.jpg/3840px-STS-55_Spacelab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/STS-55_Spacelab.jpg/330px-STS-55_Spacelab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-55_spacelab.jpg",
+          "width": 4684,
+          "height": 3701,
+          "title": "STS-55",
+          "description": "1993 American crewed spaceflight",
+          "extract": "STS-55, or Deutschland 2 (D-2), was the 55th overall flight of the NASA Space Shuttle and the 14th flight of Shuttle Columbia. This flight was a multinational Spacelab flight involving 88 experiments from eleven different nations. The experiments ranged from biology sciences to simple Earth observations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-55",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Spacelab_-_Artist%27s_Concept.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Spacelab_-_Artist%27s_Concept.jpg/330px-Spacelab_-_Artist%27s_Concept.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "spacelab_-_artist's_concept.jpg",
+          "width": 3417,
+          "height": 2692,
+          "title": "Spacelab",
+          "description": "Temporary, reusable laboratory aboard the Space Shuttle",
+          "extract": "Spacelab was a reusable laboratory developed by the European Space Agency (ESA) and used on certain spaceflights flown by the Space Shuttle. The laboratory comprised multiple components, including a pressurized module, an unpressurized carrier, and other related hardware housed in the Shuttle's cargo bay. The components were arranged in various configurations to meet the needs of each spaceflight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Spacelab",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Columbia",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-26-1962-6171f34e",
+      "year": 1962,
+      "text": "The British space programme launches its first satellite, the Ariel 1.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ariel_1_satellite%2C_London_Science_Museum.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ariel_1_satellite%2C_London_Science_Museum.JPG/330px-Ariel_1_satellite%2C_London_Science_Museum.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ariel_1_satellite,_london_science_museum.jpg",
+        "width": 3088,
+        "height": 2056,
+        "title": "Ariel 1",
+        "description": "First British satellite",
+        "extract": "Ariel 1, was the first British-American satellite, and the first satellite in the Ariel programme. Its launch in 1962 made the United Kingdom the third country to operate a satellite, after the Soviet Union and the United States. It was constructed in the UK and the United States by NASA Goddard Space Flight Center and SERC, under an agreement reached as the result of political discussions in 1959 and 1960. The US Starfish Prime exoatmospheric nuclear test affected Ariel 1's operational capability.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ariel_1",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ariel_1_satellite%2C_London_Science_Museum.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ariel_1_satellite%2C_London_Science_Museum.JPG/330px-Ariel_1_satellite%2C_London_Science_Museum.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ariel_1_satellite,_london_science_museum.jpg",
+          "width": 3088,
+          "height": 2056,
+          "title": "Ariel 1",
+          "description": "First British satellite",
+          "extract": "Ariel 1, was the first British-American satellite, and the first satellite in the Ariel programme. Its launch in 1962 made the United Kingdom the third country to operate a satellite, after the Soviet Union and the United States. It was constructed in the UK and the United States by NASA Goddard Space Flight Center and SERC, under an agreement reached as the result of political discussions in 1959 and 1960. The US Starfish Prime exoatmospheric nuclear test affected Ariel 1's operational capability.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ariel_1",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "British space programme",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/British_space_programme",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-26-1923-fdf2a65b",
+      "year": 1923,
+      "text": "The Duke of York (the future King George VI) weds Lady Elizabeth Bowes-Lyon at Westminster Abbey.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/330px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "king_george_vi_loc_matpc.14736_a_(cropped).jpg",
+        "width": 1834,
+        "height": 2385,
+        "title": "George VI",
+        "description": "King of the United Kingdom from 1936 to 1952",
+        "extract": "George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death in 1952. He was also the last Emperor of India from 1936 until the British Raj was dissolved in August 1947, though the title was only formally relinquished in June 1948. Following the London Declaration of 1949, he was the first Head of the Commonwealth.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/George_VI",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/330px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "king_george_vi_loc_matpc.14736_a_(cropped).jpg",
+          "width": 1834,
+          "height": 2385,
+          "title": "George VI",
+          "description": "King of the United Kingdom from 1936 to 1952",
+          "extract": "George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death in 1952. He was also the last Emperor of India from 1936 until the British Raj was dissolved in August 1947, though the title was only formally relinquished in June 1948. Following the London Declaration of 1949, he was the first Head of the Commonwealth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/George_VI",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wedding_of_George_VI_and_Elizabeth_Bowes-Lyon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wedding_of_George_VI_and_Elizabeth_Bowes-Lyon.png/330px-Wedding_of_George_VI_and_Elizabeth_Bowes-Lyon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wedding_of_george_vi_and_elizabeth_bowes-lyon.png",
+          "width": 1087,
+          "height": 1500,
+          "title": "Wedding of Prince Albert and Lady Elizabeth Bowes-Lyon",
+          "description": "1923 British royal wedding",
+          "extract": "The wedding of Prince Albert, Duke of York, and Lady Elizabeth Bowes-Lyon took place on 26 April 1923 at Westminster Abbey. The bride was a member of the Bowes-Lyon family, while the groom was the second son of King George V.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wedding_of_Prince_Albert_and_Lady_Elizabeth_Bowes-Lyon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Queen_Elizabeth_the_Queen_Mother_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Queen_Elizabeth_the_Queen_Mother_portrait.jpg/330px-Queen_Elizabeth_the_Queen_Mother_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_elizabeth_the_queen_mother_portrait.jpg",
+          "width": 2238,
+          "height": 2825,
+          "title": "Queen Elizabeth the Queen Mother",
+          "description": "Queen of the United Kingdom from 1936 to 1952",
+          "extract": "Elizabeth Angela Marguerite Bowes-Lyon was Queen of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 to 6 February 1952 as the wife of King George VI. She was also the last empress of India from 1936 until the British Raj was dissolved on 15 August 1947. After her husband died, she was officially known as Queen Elizabeth the Queen Mother to avoid confusion with her daughter Queen Elizabeth II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Queen_Elizabeth_the_Queen_Mother",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "George VI",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/George_VI",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "04-26-1920-fae4b629",
+      "year": 1920,
+      "text": "Ice hockey makes its Olympic debut at the Antwerp Games with center Frank Fredrickson scoring seven goals in Canada's 12–1 drubbing of Sweden in the gold medal match.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg/3840px-Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg/330px-Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "pittsburgh_penguins,_washington_capitals,_bryan_rust_(33744033514).jpg",
+        "width": 4203,
+        "height": 3042,
+        "title": "Ice hockey",
+        "description": "Team winter sport",
+        "extract": "Ice hockey, known simply as hockey in North America and parts of Europe, is a team sport played on ice skates, usually on an ice skating rink with lines and markings specific to the sport. It belongs to a family of sports called hockey. The two opposing teams score by using their sticks to control and advance a vulcanized rubber hockey puck, and then shooting it into the net of the other team. Each goal is worth one point. The team with the highest score after an hour of gameplay, broken down into three 20-minute periods, is declared the winner; ties are broken in overtime or a shootout. In a formal game, each team has six skaters on the ice at a time, barring any penalties, including a goaltender. It is a full contact game and one of the more physically demanding team sports.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ice_hockey",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg/3840px-Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg/330px-Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pittsburgh_penguins,_washington_capitals,_bryan_rust_(33744033514).jpg",
+          "width": 4203,
+          "height": 3042,
+          "title": "Ice hockey",
+          "description": "Team winter sport",
+          "extract": "Ice hockey, known simply as hockey in North America and parts of Europe, is a team sport played on ice skates, usually on an ice skating rink with lines and markings specific to the sport. It belongs to a family of sports called hockey. The two opposing teams score by using their sticks to control and advance a vulcanized rubber hockey puck, and then shooting it into the net of the other team. Each goal is worth one point. The team with the highest score after an hour of gameplay, broken down into three 20-minute periods, is declared the winner; ties are broken in overtime or a shootout. In a formal game, each team has six skaters on the ice at a time, barring any penalties, including a goaltender. It is a full contact game and one of the more physically demanding team sports.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ice_hockey",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/1920_olympics_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/1920_olympics_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "1920_olympics_poster.jpg",
+          "width": 278,
+          "height": 384,
+          "title": "1920 Summer Olympics",
+          "description": "Multi-sport event in Antwerp, Belgium",
+          "extract": "The 1920 Summer Olympics, officially known as the Games of the VII Olympiad and commonly known as Antwerp 1920, were an international multi-sport event held in 1920 in Antwerp, Belgium.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1920_Summer_Olympics",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Frank_Fredrickson%2C_1920_Olympics.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Frank_Fredrickson%2C_1920_Olympics.jpg/330px-Frank_Fredrickson%2C_1920_Olympics.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "frank_fredrickson,_1920_olympics.jpg",
+          "width": 800,
+          "height": 1224,
+          "title": "Frank Fredrickson",
+          "description": "Icelandic-Canadian ice hockey player (1895–1979)",
+          "extract": "Sigurdur Franklin Fredrickson was an Icelandic-Canadian ice hockey player and aviator. As a player and coach, he was slightly important to both the amateur and professional ice hockey as it evolved in North America in the early 20th century. Fredrickson's career was interrupted by military service during the First World War and prematurely ended by a knee injury in 1931.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Frank_Fredrickson",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Ice hockey",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ice_hockey",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-26-2015-4923333d",
+      "year": 2015,
+      "text": "Peaceful protesters install the first anti-monument in Mexico, Antimonumento +43, as a call for justice and remembrance to commemorate the 2014 Iguala mass kidnapping, later inspiring similar memorials elsewhere in the country and Latin America.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg/3840px-Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg/330px-Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "antimonumento_de_la_guardería_abc_22.jpg",
+        "width": 4000,
+        "height": 3000,
+        "title": "Anti-monuments in Mexico",
+        "description": "Politically motivated art movement",
+        "extract": "In Mexico, an antimonumento is a structure that is traditionally installed during popular protests. They are installed to recall a tragic event or to maintain the claim for justice to which governments have failed to provide a satisfactory response in the eyes of the complainant. Many of these are erected for issues related to forced disappearances, massacres, femicides and other forms of violence against women, or any other act of violence.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Anti-monuments_in_Mexico",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg/3840px-Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg/330px-Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "antimonumento_de_la_guardería_abc_22.jpg",
+          "width": 4000,
+          "height": 3000,
+          "title": "Anti-monuments in Mexico",
+          "description": "Politically motivated art movement",
+          "extract": "In Mexico, an antimonumento is a structure that is traditionally installed during popular protests. They are installed to recall a tragic event or to maintain the claim for justice to which governments have failed to provide a satisfactory response in the eyes of the complainant. Many of these are erected for issues related to forced disappearances, massacres, femicides and other forms of violence against women, or any other act of violence.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anti-monuments_in_Mexico",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Antimonumento_a_los_43_de_Ayotzinapa_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Antimonumento_a_los_43_de_Ayotzinapa_04.jpg/330px-Antimonumento_a_los_43_de_Ayotzinapa_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "antimonumento_a_los_43_de_ayotzinapa_04.jpg",
+          "width": 2816,
+          "height": 2112,
+          "title": "Antimonumento +43",
+          "description": "Anti-monument in Mexico City, Mexico",
+          "extract": "An antimonumento was installed in front of the Superior Court of Justice of Mexico City, on the median strip of Paseo de la Reforma Avenue, in the Cuauhtémoc borough of Mexico City. The work included the installation of a red number 43 made of metal along with a plus symbol, in reference to the forty-three students kidnapped—and possibly killed—in Iguala, Guerrero, in 2014 after being arrested for allegedly committing criminal offenses, plus the six students and witnesses killed during that event, and to honor the more than 150,000 people killed since the start of the Mexican drug war and the 30,000 disappeared persons reported by 2015. The anti-monument was installed by peaceful protesters during a demonstration on 26 April 2015 as a plea for justice and to prevent the case from being forgotten by the authorities and society. The sculpture became the first of its kind in Mexico and would inspire the installation of other guerrilla-like memorials throughout the city and in other states of the country.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Antimonumento_%2B43",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/8f/Missing-students-Ayotzinapa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Missing-students-Ayotzinapa.jpg/330px-Missing-students-Ayotzinapa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "missing-students-ayotzinapa.jpg",
+          "width": 421,
+          "height": 236,
+          "title": "Iguala mass kidnapping",
+          "description": "2014 abduction of rural Mexican college students",
+          "extract": "On September 26, 2014, forty-three male students from the Ayotzinapa Rural Teachers' College disappeared after being forcibly abducted in Iguala, Guerrero, Mexico, in what has been called one of Mexico's most infamous human rights cases. They were allegedly taken into custody by local policemen from Iguala and Cocula in collusion with organized crime, with later evidence implicating the Mexican Army. Officials have concluded there is no indication the students are alive, but as of 2025, only three students' remains have been identified and their deaths confirmed.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iguala_mass_kidnapping",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Anti-monuments in Mexico",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Anti-monuments_in_Mexico",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-26-1986-da45d892",
+      "year": 1986,
+      "text": "The Chernobyl Nuclear Power Plant (pictured) near Chernobyl, Ukrainian SSR, suffered a steam explosion, resulting in a fire, a nuclear meltdown, and the evacuation and resettlement of over 336,000 people around Europe.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/3840px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/330px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "chernobyl_npp_site_panorama_with_nsc_construction_-_june_2013.jpg",
+        "width": 6300,
+        "height": 2408,
+        "title": "Chernobyl Nuclear Power Plant",
+        "description": "Decommissioned nuclear power plant in Ukraine",
+        "extract": "The Chernobyl Nuclear Power Plant (ChNPP) is a nuclear power plant undergoing decommissioning. ChNPP is located near the abandoned city of Pripyat in northern Ukraine, 16.5 kilometres (10 mi) northwest of the city of Chernobyl, 16 kilometres (10 mi) from the Belarus–Ukraine border, and about 100 kilometres (62 mi) north of Kyiv. The plant was cooled by an engineered pond, fed by the Pripyat River about 5 kilometres (3 mi) northwest from its juncture with the Dnieper River. The RBMK type graphite-moderated reactor used in this plant is considered an unusual design. It prioritizes cost efficiency over safety compared to other reactor designs, such as the VVER pressurized water reactor.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/3840px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/330px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chernobyl_npp_site_panorama_with_nsc_construction_-_june_2013.jpg",
+          "width": 6300,
+          "height": 2408,
+          "title": "Chernobyl Nuclear Power Plant",
+          "description": "Decommissioned nuclear power plant in Ukraine",
+          "extract": "The Chernobyl Nuclear Power Plant (ChNPP) is a nuclear power plant undergoing decommissioning. ChNPP is located near the abandoned city of Pripyat in northern Ukraine, 16.5 kilometres (10 mi) northwest of the city of Chernobyl, 16 kilometres (10 mi) from the Belarus–Ukraine border, and about 100 kilometres (62 mi) north of Kyiv. The plant was cooled by an engineered pond, fed by the Pripyat River about 5 kilometres (3 mi) northwest from its juncture with the Dnieper River. The RBMK type graphite-moderated reactor used in this plant is considered an unusual design. It prioritizes cost efficiency over safety compared to other reactor designs, such as the VVER pressurized water reactor.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Administrative_center%2C_Radiation_Control_%2811383715816%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Administrative_center%2C_Radiation_Control_%2811383715816%29.jpg/330px-Administrative_center%2C_Radiation_Control_%2811383715816%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "administrative_center,_radiation_control_(11383715816).jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Chernobyl",
+          "description": "Partially abandoned city in Kyiv Oblast, Ukraine",
+          "extract": "Chernobyl, also known as Chornobyl, is a partially abandoned city in Vyshhorod Raion, Kyiv Oblast, Ukraine. It is located within the Chernobyl Exclusion Zone, 90 kilometres (60 mi) to the north of Kyiv and 160 kilometres (100 mi) to the southwest of Gomel in neighbouring Belarus. Prior to being evacuated in the aftermath of the Chernobyl disaster in 1986, it was home to approximately 14,000 residents—considerably less than adjacent Pripyat, which was completely abandoned following the incident. Since then, although living anywhere within the Chernobyl Exclusion Zone is technically illegal, Ukrainian authorities have tolerated those who have taken up living in some of the city's less irradiated areas; Chernobyl's 2020 population estimate was 150 people.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/IAEA_02790015_%285613115146%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/330px-IAEA_02790015_%285613115146%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iaea_02790015_(5613115146).jpg",
+          "width": 1328,
+          "height": 2040,
+          "title": "Chernobyl disaster",
+          "description": "1986 nuclear accident in the Soviet Union",
+          "extract": "On 26 April 1986, reactor 4 of the Chernobyl Nuclear Power Plant, located near Pripyat, Ukraine, exploded. With dozens of direct casualties and thousands of health complications stemming from the disaster, it is one of only two nuclear accidents rated at the maximum severity on the International Nuclear Event Scale, the other being the 2011 Fukushima nuclear accident, which happened in Japan. The response involved more than 500,000 personnel and cost an estimated 18 billion rubles. It remains the most destructive nuclear disaster and the most expensive disaster in history, with an estimated cost of US$700 billion. The disaster occurred during a test to simulate the cooling of the reactor during a serious accident in blackout conditions. The operators carried out the test following an accidental drop in reactor power. Upon shutting down the reactor in such conditions, pervasive design flaws led to a power surge. The reactor components ruptured and lost coolant, and the resulting steam explosions and meltdown destroyed the reactor building. This was followed by a reactor core fire that spread radioactive contaminants across the Soviet Union and Europe. The Soviet government established a 10 kilometres (6.2 mi) exclusion zone 36 hours after the accident, initially evacuating around 49,000 people. This was later expanded to 30 kilometres (19 mi), resulting in the evacuation of approximately 68,000 more people. The government did not publicly acknowledge the disaster until two days after the explosion, when elevated radiation levels were detected in Sweden.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Chernobyl Nuclear Power Plant",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "04-26-1964-4b771cc1",
+      "year": 1964,
+      "text": "Tanganyika and Zanzibar merged to form Tanzania with Julius Nyerere as its first president.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 80,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg/330px-President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "president_nyerere_van_tanzania,_koppen,_bestanddeelnr_928-2879_(cropped).jpg",
+        "width": 2323,
+        "height": 3412,
+        "title": "Julius Nyerere",
+        "description": "President of Tanzania from 1964 to 1985",
+        "extract": "Julius Kambarage Nyerere was a Tanzanian politician, anti-colonial activist, revolutionary and political theorist. He governed Tanganyika as prime minister from 1961 to 1962 and then as president from 1962 to 1964, after which he led its successor state, Tanzania, as president from 1964 to 1985. He was a founding member and chair of the Tanganyika African National Union (TANU) party and of its successor, Chama Cha Mapinduzi, from 1954 to 1990. Ideologically an African nationalist and African socialist, he promoted a political philosophy known as Ujamaa.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Julius_Nyerere",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg/330px-President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "president_nyerere_van_tanzania,_koppen,_bestanddeelnr_928-2879_(cropped).jpg",
+          "width": 2323,
+          "height": 3412,
+          "title": "Julius Nyerere",
+          "description": "President of Tanzania from 1964 to 1985",
+          "extract": "Julius Kambarage Nyerere was a Tanzanian politician, anti-colonial activist, revolutionary and political theorist. He governed Tanganyika as prime minister from 1961 to 1962 and then as president from 1962 to 1964, after which he led its successor state, Tanzania, as president from 1964 to 1985. He was a founding member and chair of the Tanganyika African National Union (TANU) party and of its successor, Chama Cha Mapinduzi, from 1954 to 1990. Ideologically an African nationalist and African socialist, he promoted a political philosophy known as Ujamaa.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Julius_Nyerere",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Tanganyika (1961–1964)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Tanganyika_(1961%E2%80%931964)",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "04-26-2017-9f8dc1e5",
+      "year": 2017,
+      "text": "The Shandong was launched for the People's Liberation Army Navy, China's first domestically built aircraft carrier.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chinese_aircraft_carrier_Shandong_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Chinese_aircraft_carrier_Shandong_in_2019.jpg/330px-Chinese_aircraft_carrier_Shandong_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "chinese_aircraft_carrier_shandong_in_2019.jpg",
+        "width": 2700,
+        "height": 1800,
+        "title": "Chinese aircraft carrier Shandong",
+        "description": "Chinese aircraft carrier",
+        "extract": "Shandong is a Chinese aircraft carrier that was launched on 26 April 2017 for the People's Liberation Army Navy (PLAN) of the People's Republic of China. She is the country's first domestically built aircraft carrier and second in PLAN service after the completion and commissioning of Liaoning, from which she is derived. Shandong's class was initially suspected to be designated Type 001A but was revealed to be Type 002 at her commissioning ceremony. The class received the NATO reporting name Kuznetsov Mod. (\"modified\"), since the design of the ship is a modified version of and similar to the Kuznetsov-class aircraft carrier originally made for the Soviet Navy.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Shandong",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chinese_aircraft_carrier_Shandong_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Chinese_aircraft_carrier_Shandong_in_2019.jpg/330px-Chinese_aircraft_carrier_Shandong_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chinese_aircraft_carrier_shandong_in_2019.jpg",
+          "width": 2700,
+          "height": 1800,
+          "title": "Chinese aircraft carrier Shandong",
+          "description": "Chinese aircraft carrier",
+          "extract": "Shandong is a Chinese aircraft carrier that was launched on 26 April 2017 for the People's Liberation Army Navy (PLAN) of the People's Republic of China. She is the country's first domestically built aircraft carrier and second in PLAN service after the completion and commissioning of Liaoning, from which she is derived. Shandong's class was initially suspected to be designated Type 001A but was revealed to be Type 002 at her commissioning ceremony. The class received the NATO reporting name Kuznetsov Mod. (\"modified\"), since the design of the ship is a modified version of and similar to the Kuznetsov-class aircraft carrier originally made for the Soviet Navy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Shandong",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fleet_5_nations.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Fleet_5_nations.jpg/330px-Fleet_5_nations.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fleet_5_nations.jpg",
+          "width": 3000,
+          "height": 1829,
+          "title": "Aircraft carrier",
+          "description": "Warship that serves as a seagoing airbase",
+          "extract": "An aircraft carrier is a warship designed to carry, launch, recover and support aircraft at sea, equipped with a full-length flight deck and hangar facilities that allow it to serve as a mobile, seagoing airbase. Typically it is the capital ship of a fleet, as it allows a naval force to project seaborne air power far from national territory without depending on local airfields for the staging of aircraft operations. Since their inception in the early 20th century, aircraft carriers have evolved from wooden vessels used to deploy individual tethered reconnaissance balloons, to nuclear-powered supercarriers that carry dozens of fighters, strike aircraft, military helicopters, AEW&Cs and other types of aircraft such as UCAVs. While heavier fixed-wing aircraft such as airlifters, gunships and bombers have been launched from aircraft carriers, these aircraft do not often land on a carrier due to flight deck limitations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Aircraft_carrier",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Chinese aircraft carrier Shandong",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Shandong",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-26-2005-30bdd79d",
+      "year": 2005,
+      "text": "Cedar Revolution: Under international pressure, Syria withdraws the last of its 14,000 troop military garrison in Lebanon, ending its 29-year military domination of that country (Syrian occupation of Lebanon).",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cedar_Revolution_Demonstrators.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cedar_Revolution_Demonstrators.jpg/330px-Cedar_Revolution_Demonstrators.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "cedar_revolution_demonstrators.jpg",
+        "width": 2048,
+        "height": 1536,
+        "title": "Cedar Revolution",
+        "description": "2005 anti-Syrian protest movement in Lebanon",
+        "extract": "The Cedar Revolution, known in Lebanon as the Independence intifada, was a chain of demonstrations in Lebanon triggered by the assassination of former Lebanese Prime Minister Rafic Hariri. The popular movement was remarkable for its avoidance of violence, peaceful approach, and its total reliance on methods of civil resistance.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cedar_Revolution",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cedar_Revolution_Demonstrators.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cedar_Revolution_Demonstrators.jpg/330px-Cedar_Revolution_Demonstrators.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cedar_revolution_demonstrators.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": "Cedar Revolution",
+          "description": "2005 anti-Syrian protest movement in Lebanon",
+          "extract": "The Cedar Revolution, known in Lebanon as the Independence intifada, was a chain of demonstrations in Lebanon triggered by the assassination of former Lebanese Prime Minister Rafic Hariri. The popular movement was remarkable for its avoidance of violence, peaceful approach, and its total reliance on methods of civil resistance.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cedar_Revolution",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Syrian_BMP-1_column_in_Lebanon_during_Lebanese_civil_war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Syrian_BMP-1_column_in_Lebanon_during_Lebanese_civil_war.jpg/330px-Syrian_BMP-1_column_in_Lebanon_during_Lebanese_civil_war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "syrian_bmp-1_column_in_lebanon_during_lebanese_civil_war.jpg",
+          "width": 450,
+          "height": 264,
+          "title": "Syrian occupation of Lebanon",
+          "description": "1976–2005 military occupation",
+          "extract": "The Syrian occupation of Lebanon lasted from 31 May 1976, beginning with the Syrian intervention in the Lebanese Civil War, until 30 April 2005. This period saw significant Syrian military and political influence over Lebanon, impacting its governance, economy, and society. The Syrian occupation of Lebanon led to an estimated 60,000 deaths, and more than 30,000 forced disappearances of Lebanese civilians at the hands of the Syrian Arab Army and its \"Moukhabarat\", a local term for Syria's intelligence agency.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_occupation_of_Lebanon",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Cedar Revolution",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cedar_Revolution",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "04-26-2002-c6104f2a",
+      "year": 2002,
+      "text": "An expelled student murdered sixteen people and wounded seven others before committing suicide at the Gutenberg-Gymnasium Erfurt in Erfurt, Germany.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/GutenbergGymErfurt.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/GutenbergGymErfurt.JPG/330px-GutenbergGymErfurt.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gutenberggymerfurt.jpg",
+        "width": 2529,
+        "height": 1455,
+        "title": "Erfurt school massacre",
+        "description": "2002 mass shooting in Germany",
+        "extract": "The Erfurt school massacre was a mass shooting that occurred on 26 April 2002 at the Gutenberg-Gymnasium, a secondary school in Erfurt, Thuringia, Germany. 19-year-old expelled student Robert Steinhäuser shot and killed 16 people, including a police officer, before killing himself. One person was also wounded by a bullet fragment. According to students, he ignored them and aimed only for the teachers and administrators, although two students were unintentionally killed by shots fired through a locked door.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Erfurt_school_massacre",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/GutenbergGymErfurt.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/GutenbergGymErfurt.JPG/330px-GutenbergGymErfurt.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gutenberggymerfurt.jpg",
+          "width": 2529,
+          "height": 1455,
+          "title": "Erfurt school massacre",
+          "description": "2002 mass shooting in Germany",
+          "extract": "The Erfurt school massacre was a mass shooting that occurred on 26 April 2002 at the Gutenberg-Gymnasium, a secondary school in Erfurt, Thuringia, Germany. 19-year-old expelled student Robert Steinhäuser shot and killed 16 people, including a police officer, before killing himself. One person was also wounded by a bullet fragment. According to students, he ignored them and aimed only for the teachers and administrators, although two students were unintentionally killed by shots fired through a locked door.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Erfurt_school_massacre",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kr%C3%A4merbr%C3%BCcke%2C_Erfurt_6.jpg/3840px-Kr%C3%A4merbr%C3%BCcke%2C_Erfurt_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kr%C3%A4merbr%C3%BCcke%2C_Erfurt_6.jpg/330px-Kr%C3%A4merbr%C3%BCcke%2C_Erfurt_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "krämerbrücke,_erfurt_6.jpg",
+          "width": 5472,
+          "height": 3648,
+          "title": "Erfurt",
+          "description": "Capital of Thuringia, Germany",
+          "extract": "Erfurt (German pronunciation: [ˈɛʁfʊʁt] ) is the capital and largest city of the Central German state of Thuringia, with a population of around 216,000. It lies in the wide valley of the River Gera, in the southern part of the Thuringian Basin, north of the Thuringian Forest, and in the middle of a line of the six largest Thuringian cities, stretching from Eisenach in the west, via Gotha, Erfurt, Weimar and Jena, to Gera in the east. Together with Kassel and Göttingen, it is one of the cities with more than 100,000 inhabitants lying closest to the geographic centre of Germany. Erfurt is 100 km (62 mi) south-west of Leipzig, 250 km (155 mi) north-east of Frankfurt, 300 km (186 mi) south-west of Berlin and 400 km (249 mi) north of Munich.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Erfurt",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Erfurt school massacre",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Erfurt_school_massacre",
+      "relatedPagesCount": 3
+    }
+  ]
+}

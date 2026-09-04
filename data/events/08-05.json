@@ -1,0 +1,667 @@
+{
+  "date": {
+    "month": 8,
+    "day": 5,
+    "formatted": "08-05"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "08-05-2011-1c595ffd",
+      "year": 2011,
+      "text": "NASA launched the Juno probe to Jupiter as part of the New Frontiers program.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Juno_spacecraft_model_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Juno_spacecraft_model_1.png/330px-Juno_spacecraft_model_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "juno_spacecraft_model_1.png",
+        "width": 2796,
+        "height": 2988,
+        "title": "Juno (spacecraft)",
+        "description": "Second NASA orbiter mission to Jupiter (2011–Present)",
+        "extract": "Juno is a NASA space probe orbiting the planet Jupiter. Built by Lockheed Martin and operated by NASA's Jet Propulsion Laboratory, the spacecraft was launched from Cape Canaveral Air Force Station on August 5, 2011 UTC, as part of the New Frontiers program. Juno entered a polar orbit of Jupiter on July 5, 2016, UTC, to begin a scientific investigation of the planet. After completing its mission, Juno was originally planned to be intentionally deorbited into Jupiter's atmosphere, but has since been approved to continue orbiting until contact is lost with the spacecraft. It will continue to explore Jupiter to study Jovian rings and inner moons area which is not well explored; this phase will also include close flybys of the moons Thebe, Amalthea, Adrastea, and Metis.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Juno_(spacecraft)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Juno_spacecraft_model_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Juno_spacecraft_model_1.png/330px-Juno_spacecraft_model_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "juno_spacecraft_model_1.png",
+          "width": 2796,
+          "height": 2988,
+          "title": "Juno (spacecraft)",
+          "description": "Second NASA orbiter mission to Jupiter (2011–Present)",
+          "extract": "Juno is a NASA space probe orbiting the planet Jupiter. Built by Lockheed Martin and operated by NASA's Jet Propulsion Laboratory, the spacecraft was launched from Cape Canaveral Air Force Station on August 5, 2011 UTC, as part of the New Frontiers program. Juno entered a polar orbit of Jupiter on July 5, 2016, UTC, to begin a scientific investigation of the planet. After completing its mission, Juno was originally planned to be intentionally deorbited into Jupiter's atmosphere, but has since been approved to continue orbiting until contact is lost with the spacecraft. It will continue to explore Jupiter to study Jovian rings and inner moons area which is not well explored; this phase will also include close flybys of the moons Thebe, Amalthea, Adrastea, and Metis.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Juno_(spacecraft)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter_OPAL_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter_OPAL_2024.png/330px-Jupiter_OPAL_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jupiter_opal_2024.png",
+          "width": 1810,
+          "height": 1639,
+          "title": "Jupiter",
+          "description": "Fifth planet from the Sun",
+          "extract": "Jupiter is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that of all the other planets in the Solar System combined and slightly less than one-thousandth the mass of the Sun. The diameter of Jupiter is 11 times that of Earth and a tenth that of the Sun. It orbits the Sun at a distance of 5.20 AU (778.5 Gm), with an orbital period of 11.86 years. Jupiter is the third-brightest natural object in the Earth's night sky, after the Moon and Venus, and has been observed since prehistoric times. Its name derives from that of Jupiter, the chief deity of ancient Roman religion.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jupiter",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Encounter_01_lg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Encounter_01_lg.jpg/330px-Encounter_01_lg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "encounter_01_lg.jpg",
+          "width": 3000,
+          "height": 2400,
+          "title": "New Frontiers program",
+          "description": "Series of space exploration missions being conducted by NASA",
+          "extract": "The New Frontiers program is a series of space exploration missions being conducted by NASA with the purpose of furthering the understanding of the Solar System. The program selects medium-class missions which can provide high science returns.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/New_Frontiers_program",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Juno (spacecraft)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Juno_(spacecraft)",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-05-1984-aafca9f1",
+      "year": 1984,
+      "text": "A Biman Bangladesh Airlines Fokker F27 Friendship crashes on approach to Zia International Airport, in Dhaka, Bangladesh, killing all 49 people on board.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20251011_Biman_S2-AJS_EGLL.jpg/3840px-20251011_Biman_S2-AJS_EGLL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20251011_Biman_S2-AJS_EGLL.jpg/330px-20251011_Biman_S2-AJS_EGLL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "20251011_biman_s2-ajs_egll.jpg",
+        "width": 6016,
+        "height": 4012,
+        "title": "Biman Bangladesh Airlines",
+        "description": "National airline of Bangladesh",
+        "extract": "Biman Bangladesh Airlines, commonly known as Biman, is the flag carrier of Bangladesh. With its main hub at Hazrat Shahjalal International Airport in Dhaka, the airline also operates flights from its secondary hubs at Shah Amanat International Airport in Chittagong and Osmani International Airport in Sylhet. The airline provides international passenger and cargo services to multiple destinations and has air service agreements in 42 countries. The headquarters of the airline, Balaka Bhaban, is located in Kurmitola, in the northern part of Dhaka. Annual Hajj flights, transporting tourists, migrants, and non-resident Bangladeshi workers and the activities of its subsidiaries form an integral part of the corporate business of the airline.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Biman_Bangladesh_Airlines",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20251011_Biman_S2-AJS_EGLL.jpg/3840px-20251011_Biman_S2-AJS_EGLL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/20251011_Biman_S2-AJS_EGLL.jpg/330px-20251011_Biman_S2-AJS_EGLL.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "20251011_biman_s2-ajs_egll.jpg",
+          "width": 6016,
+          "height": 4012,
+          "title": "Biman Bangladesh Airlines",
+          "description": "National airline of Bangladesh",
+          "extract": "Biman Bangladesh Airlines, commonly known as Biman, is the flag carrier of Bangladesh. With its main hub at Hazrat Shahjalal International Airport in Dhaka, the airline also operates flights from its secondary hubs at Shah Amanat International Airport in Chittagong and Osmani International Airport in Sylhet. The airline provides international passenger and cargo services to multiple destinations and has air service agreements in 42 countries. The headquarters of the airline, Balaka Bhaban, is located in Kurmitola, in the northern part of Dhaka. Annual Hajj flights, transporting tourists, migrants, and non-resident Bangladeshi workers and the activities of its subsidiaries form an integral part of the corporate business of the airline.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Biman_Bangladesh_Airlines",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Fokker_F27_Friendship_US_Army_Golden_Knight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fokker_F27_Friendship_US_Army_Golden_Knight.jpg/330px-Fokker_F27_Friendship_US_Army_Golden_Knight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fokker_f27_friendship_us_army_golden_knight.jpg",
+          "width": 714,
+          "height": 519,
+          "title": "Fokker F27 Friendship",
+          "description": "Regional airliner by Fokker",
+          "extract": "The Fokker F27 Friendship is a turboprop airliner developed and manufactured by the Dutch aircraft manufacturer Fokker. It is the most numerous post-war aircraft manufactured in the Netherlands; the F27 was also one of the most successful European airliners of its era. As a result it became the best-selling European turboprop airliner.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fokker_F27_Friendship",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Fokker_F27-600_S2-ABJ_B_Biman_Dum_Dum_08_09_74_edited-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fokker_F27-600_S2-ABJ_B_Biman_Dum_Dum_08_09_74_edited-4.jpg/330px-Fokker_F27-600_S2-ABJ_B_Biman_Dum_Dum_08_09_74_edited-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fokker_f27-600_s2-abj_b_biman_dum_dum_08_09_74_edited-4.jpg",
+          "width": 1025,
+          "height": 729,
+          "title": "Biman Bangladesh Airlines Flight 426",
+          "description": "1984 aviation accident in Bangladesh",
+          "extract": "Biman Bangladesh Airlines Flight 426 was a scheduled domestic passenger flight between Patenga Airport, Chittagong and Zia International Airport, Dhaka. On 5 August 1984, the aircraft operating the flight, a Biman Bangladesh Airlines Fokker F27-600 crashed into a marsh near Zia International Airport in Dhaka, Bangladesh while landing in poor weather. All 49 occupants had died on crash, making it the second deadliest aviation accident involving a Bangladeshi airliner behind US-Bangla Airlines Flight 211 and the deadliest to happen inside Bangladeshi territory to date.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Biman_Bangladesh_Airlines_Flight_426",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Biman Bangladesh Airlines",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Biman_Bangladesh_Airlines",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "08-05-1901-18318f25",
+      "year": 1901,
+      "text": "Peter O'Connor sets the first World Athletics recognised long jump world record of 24 ft 11.75 in (7.6137 m), a record that would stand for 20 years.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/2013_IPC_Athletics_World_Championships_-_26072013_-_Maximiliano_Rodriguez_Magi_of_Spain_during_the_Men%27s_Long_jump_-_T12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2013_IPC_Athletics_World_Championships_-_26072013_-_Maximiliano_Rodriguez_Magi_of_Spain_during_the_Men%27s_Long_jump_-_T12.jpg/330px-2013_IPC_Athletics_World_Championships_-_26072013_-_Maximiliano_Rodriguez_Magi_of_Spain_during_the_Men%27s_Long_jump_-_T12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2013_ipc_athletics_world_championships_-_26072013_-_maximiliano_rodriguez_magi_of_spain_during_the_men's_long_jump_-_t12.jpg",
+        "width": 3584,
+        "height": 2373,
+        "title": "Long jump",
+        "description": "Track and field event",
+        "extract": "The long jump is a track and field event in which athletes combine speed, strength and agility in an attempt to leap as far as possible from a takeoff point. Along with the triple jump, the two events that measure jumping for distance as a group are referred to as the \"horizontal jumps\". This event has a history in the ancient Olympic Games and has been a modern Olympic event for men since the first Olympics in 1896 and for women since 1948.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Long_jump",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/2013_IPC_Athletics_World_Championships_-_26072013_-_Maximiliano_Rodriguez_Magi_of_Spain_during_the_Men%27s_Long_jump_-_T12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/2013_IPC_Athletics_World_Championships_-_26072013_-_Maximiliano_Rodriguez_Magi_of_Spain_during_the_Men%27s_Long_jump_-_T12.jpg/330px-2013_IPC_Athletics_World_Championships_-_26072013_-_Maximiliano_Rodriguez_Magi_of_Spain_during_the_Men%27s_Long_jump_-_T12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2013_ipc_athletics_world_championships_-_26072013_-_maximiliano_rodriguez_magi_of_spain_during_the_men's_long_jump_-_t12.jpg",
+          "width": 3584,
+          "height": 2373,
+          "title": "Long jump",
+          "description": "Track and field event",
+          "extract": "The long jump is a track and field event in which athletes combine speed, strength and agility in an attempt to leap as far as possible from a takeoff point. Along with the triple jump, the two events that measure jumping for distance as a group are referred to as the \"horizontal jumps\". This event has a history in the ancient Olympic Games and has been a modern Olympic event for men since the first Olympics in 1896 and for women since 1948.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Long_jump",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/100_m_final_Berlin_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/100_m_final_Berlin_2009.JPG/330px-100_m_final_Berlin_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "100_m_final_berlin_2009.jpg",
+          "width": 640,
+          "height": 426,
+          "title": "List of world records in athletics",
+          "description": "",
+          "extract": "World records in athletics are ratified by World Athletics. Athletics records comprise the best performances in the sports of track and field, road running and racewalking.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/List_of_world_records_in_athletics",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Peter O'Connor (athlete)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Peter_O'Connor_(athlete)",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "08-05-1974-d6080ec8",
+      "year": 1974,
+      "text": "Watergate scandal: President Richard Nixon, under orders of the US Supreme Court, releases the \"Smoking Gun\" tape, recorded on June 23, 1972, clearly revealing his actions in covering up and interfering investigations into the break-in. His political support vanishes completely.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/330px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "watergate_complex.jpg",
+        "width": 2071,
+        "height": 1584,
+        "title": "Watergate scandal",
+        "description": "1970s political scandal in the U.S.",
+        "extract": "The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex. Nixon's efforts to conceal his administration's involvement led to an impeachment process and ultimately to his resignation in August 1974.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Watergate_scandal",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/330px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "watergate_complex.jpg",
+          "width": 2071,
+          "height": 1584,
+          "title": "Watergate scandal",
+          "description": "1970s political scandal in the U.S.",
+          "extract": "The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex. Nixon's efforts to conceal his administration's involvement led to an impeachment process and ultimately to his resignation in August 1974.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Watergate_scandal",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
+          "width": 2136,
+          "height": 2830,
+          "title": "Richard Nixon",
+          "description": "President of the United States from 1969 to 1974",
+          "extract": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tape_recorder_from_President_Nixon%27s_Oval_Office.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tape_recorder_from_President_Nixon%27s_Oval_Office.jpg/330px-Tape_recorder_from_President_Nixon%27s_Oval_Office.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tape_recorder_from_president_nixon's_oval_office.jpg",
+          "width": 2592,
+          "height": 1936,
+          "title": "Nixon White House tapes",
+          "description": "1971–73 recordings by President Nixon",
+          "extract": "Audio recordings of conversations between U.S. President Richard Nixon and Nixon administration officials, Nixon family members, and White House staff surfaced during the Watergate scandal in 1973 and 1974, leading to Nixon's resignation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nixon_White_House_tapes",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Watergate scandal",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Watergate_scandal",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "08-05-1995-c3c40236",
+      "year": 1995,
+      "text": "Yugoslav Wars: The city of Knin, Croatia, a significant Serb stronghold, is taken by Croatian forces during Operation Storm. The date is celebrated in Croatia as Victory Day.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Collage_Yugoslav_wars.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Collage_Yugoslav_wars.jpg/330px-Collage_Yugoslav_wars.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "collage_yugoslav_wars.jpg",
+        "width": 702,
+        "height": 1024,
+        "title": "Yugoslav Wars",
+        "description": "1991–2001 series of wars in the Balkans",
+        "extract": "The Yugoslav Wars were a series of separate but related ethnic conflicts, wars of independence, and insurgencies that took place from 1991 to 2001 in what had been the Socialist Federal Republic of Yugoslavia. The conflicts both led up to and resulted from the breakup of Yugoslavia, which began in mid-1991, into six independent countries matching the six republics that had previously constituted Yugoslavia: Slovenia, Croatia, Bosnia and Herzegovina, Montenegro, Serbia, and Macedonia, which was later renamed to North Macedonia. The breakup of Yugoslavia and the accompanying Yugoslav Wars are commonly attributed to increasing nationalism and unresolved ethnic tensions in Yugoslavia. While most of the conflicts ended through peace accords that involved full international recognition of the new states, they resulted in the deaths of many as well as severe economic damage to the region.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Yugoslav_Wars",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Collage_Yugoslav_wars.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Collage_Yugoslav_wars.jpg/330px-Collage_Yugoslav_wars.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "collage_yugoslav_wars.jpg",
+          "width": 702,
+          "height": 1024,
+          "title": "Yugoslav Wars",
+          "description": "1991–2001 series of wars in the Balkans",
+          "extract": "The Yugoslav Wars were a series of separate but related ethnic conflicts, wars of independence, and insurgencies that took place from 1991 to 2001 in what had been the Socialist Federal Republic of Yugoslavia. The conflicts both led up to and resulted from the breakup of Yugoslavia, which began in mid-1991, into six independent countries matching the six republics that had previously constituted Yugoslavia: Slovenia, Croatia, Bosnia and Herzegovina, Montenegro, Serbia, and Macedonia, which was later renamed to North Macedonia. The breakup of Yugoslavia and the accompanying Yugoslav Wars are commonly attributed to increasing nationalism and unresolved ethnic tensions in Yugoslavia. While most of the conflicts ended through peace accords that involved full international recognition of the new states, they resulted in the deaths of many as well as severe economic damage to the region.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Yugoslav_Wars",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Knin_25.jpg/3840px-Knin_25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Knin_25.jpg/330px-Knin_25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "knin_25.jpg",
+          "width": 4096,
+          "height": 3072,
+          "title": "Knin",
+          "description": "City in Dalmatia, Croatia",
+          "extract": "Knin is a city in the Šibenik-Knin County of Croatia, located in the Dalmatian hinterland near the source of the river Krka, an important traffic junction on the rail and road routes between Zagreb and Split. Knin rose to prominence twice in history, as the capital of both the medieval Kingdom of Croatia and briefly of the self-proclaimed Republic of Serbian Krajina within the newly independent Republic of Croatia for the duration of the Croatian War of Independence from 1991 to 1995.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Knin",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/16_obljetnica_vojnoredarstvene_operacije_Oluja_05082011_Kninska_tvrdjava_155.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/16_obljetnica_vojnoredarstvene_operacije_Oluja_05082011_Kninska_tvrdjava_155.jpg/330px-16_obljetnica_vojnoredarstvene_operacije_Oluja_05082011_Kninska_tvrdjava_155.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "16_obljetnica_vojnoredarstvene_operacije_oluja_05082011_kninska_tvrdjava_155.jpg",
+          "width": 1000,
+          "height": 665,
+          "title": "Victory Day (Croatia)",
+          "description": "Public holiday in Croatia",
+          "extract": "Victory and Homeland Thanksgiving Day and the Day of Croatian Defenders, commonly shortened to Victory Day, is a public holiday in Croatia that is celebrated annually on 5 August, commemorating the Croatian War of Independence. On that date in 1995 the Croatian Army took the city of Knin during Operation Storm, which effectively brought an end to the proto-state of Republic of Serbian Krajina. In 2008, the Croatian Parliament also assigned the name Day of Croatian Defenders to the holiday, which honors the current service members and veterans of the Armed Forces of Croatia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Victory_Day_(Croatia)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Yugoslav Wars",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Yugoslav_Wars",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "08-05-1993-fff39040",
+      "year": 1993,
+      "text": "Wizards of the Coast released Magic: The Gathering, the first trading card game.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "magic_the_gathering-card_back.jpg",
+        "width": 267,
+        "height": 373,
+        "title": "Magic: The Gathering",
+        "description": "Collectible card game",
+        "extract": "Magic: The Gathering is a collectible, tabletop, and digital collectible card game created by Richard Garfield. It was released by Wizards of the Coast in 1993 as the company's first trading card game. From 2008 to 2016, over twenty billion Magic cards were printed as the game grew in popularity. For the 2022 fiscal year, Hasbro—the parent company of Wizards of the Coast—announced that Magic had generated $1 billion in annual revenue. By 2023, Magic had amassed approximately fifty million players worldwide.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Magic%3A_The_Gathering",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "magic_the_gathering-card_back.jpg",
+          "width": 267,
+          "height": 373,
+          "title": "Magic: The Gathering",
+          "description": "Collectible card game",
+          "extract": "Magic: The Gathering is a collectible, tabletop, and digital collectible card game created by Richard Garfield. It was released by Wizards of the Coast in 1993 as the company's first trading card game. From 2008 to 2016, over twenty billion Magic cards were printed as the game grew in popularity. For the 2022 fiscal year, Hasbro—the parent company of Wizards of the Coast—announced that Magic had generated $1 billion in annual revenue. By 2023, Magic had amassed approximately fifty million players worldwide.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Magic%3A_The_Gathering",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/24/CCG_card_back_image_assortment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CCG_card_back_image_assortment.jpg/330px-CCG_card_back_image_assortment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ccg_card_back_image_assortment.jpg",
+          "width": 356,
+          "height": 279,
+          "title": "Collectible card game",
+          "description": "Game played using specialized playing cards",
+          "extract": "A collectible card game (CCG), also called a trading card game (TCG) among other names, is a type of card game that mixes strategic deck building elements with features of trading cards. The genre was introduced with Magic: The Gathering in 1993.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Collectible_card_game",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Peter_Adkison-2007.jpg/330px-Peter_Adkison-2007.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Peter_Adkison-2007.jpg/330px-Peter_Adkison-2007.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "peter_adkison-2007.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Peter Adkison, founder of Wizards of the Coast, at Gen Con Indy 2007",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wizards_of_the_Coast",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Wizards of the Coast",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Wizards_of_the_Coast",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-05-1981-53de220d",
+      "year": 1981,
+      "text": "U.S. president Ronald Reagan fired the 11,345 striking members of the Professional Air Traffic Controllers Organization en masse.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+        "width": 2399,
+        "height": 3000,
+        "title": "Ronald Reagan",
+        "description": "President of the United States from 1981 to 1989",
+        "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+          "width": 2399,
+          "height": 3000,
+          "title": "Ronald Reagan",
+          "description": "President of the United States from 1981 to 1989",
+          "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/a/ab/PATCO_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/a/ab/PATCO_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "patco_logo.png",
+          "width": 250,
+          "height": 96,
+          "title": "Professional Air Traffic Controllers Organization (1968)",
+          "description": "American labor union (1968–1981)",
+          "extract": "The Professional Air Traffic Controllers Organization (PATCO) was a United States trade union of air traffic controllers that operated from 1968 until its decertification in 1981 following an illegal labor strike broken by the Reagan administration. In striking, the union violated 5 U.S.C. 118p, which prohibits strikes by federal government employees.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Professional_Air_Traffic_Controllers_Organization_(1968)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_Ronald_Reagan_Neil_Reagan_Jack_Reagan_and_Nelle_Reagan_in_Galesburg_Illinois_-_DPLA_-_ea1ffc8ca600cce90c5b9f65eed472c2.jpg/1280px-Portrait_of_Ronald_Reagan_Neil_Reagan_Jack_Reagan_and_Nelle_Reagan_in_Galesburg_Illinois_-_DPLA_-_ea1ffc8ca600cce90c5b9f65eed472c2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Portrait_of_Ronald_Reagan_Neil_Reagan_Jack_Reagan_and_Nelle_Reagan_in_Galesburg_Illinois_-_DPLA_-_ea1ffc8ca600cce90c5b9f65eed472c2.jpg/1280px-Portrait_of_Ronald_Reagan_Neil_Reagan_Jack_Reagan_and_Nelle_Reagan_in_Galesburg_Illinois_-_DPLA_-_ea1ffc8ca600cce90c5b9f65eed472c2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "portrait_of_ronald_reagan,_neil_reagan,_jack_reagan,_and_nelle_reagan_in_galesburg,_illinois.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "From left to right: Jack (father), Neil, Ronald, and Nelle (mother) (c. 1915)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Ronald Reagan",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-05-1583-e0a50420",
+      "year": 1583,
+      "text": "Sir Humphrey Gilbert establishes the first English colony in North America, at what is now St. John's, Newfoundland and Labrador.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sir_Humphrey_Gilbert_Compton_Castle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sir_Humphrey_Gilbert_Compton_Castle.jpg/330px-Sir_Humphrey_Gilbert_Compton_Castle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sir_humphrey_gilbert_compton_castle.jpg",
+        "width": 400,
+        "height": 428,
+        "title": "Humphrey Gilbert",
+        "description": "English explorer, politician and soldier (c.1539–1583)",
+        "extract": "Sir Humphrey Gilbert was an English adventurer, explorer, member of parliament and soldier who served during the reign of Queen Elizabeth I and was a pioneer of the English colonial empire in North America and the Plantations of Ireland. He was a maternal half-brother of Sir Walter Raleigh and a cousin of Sir Richard Grenville.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Humphrey_Gilbert",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Sir_Humphrey_Gilbert_Compton_Castle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sir_Humphrey_Gilbert_Compton_Castle.jpg/330px-Sir_Humphrey_Gilbert_Compton_Castle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sir_humphrey_gilbert_compton_castle.jpg",
+          "width": 400,
+          "height": 428,
+          "title": "Humphrey Gilbert",
+          "description": "English explorer, politician and soldier (c.1539–1583)",
+          "extract": "Sir Humphrey Gilbert was an English adventurer, explorer, member of parliament and soldier who served during the reign of Queen Elizabeth I and was a pioneer of the English colonial empire in North America and the Plantations of Ireland. He was a maternal half-brother of Sir Walter Raleigh and a cousin of Sir Richard Grenville.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Humphrey_Gilbert",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St._John%27s%2C_Newfoundland_and_Labrador_aerial_view_of_downtown_%28cropped%29.jpg/3840px-St._John%27s%2C_Newfoundland_and_Labrador_aerial_view_of_downtown_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/St._John%27s%2C_Newfoundland_and_Labrador_aerial_view_of_downtown_%28cropped%29.jpg/330px-St._John%27s%2C_Newfoundland_and_Labrador_aerial_view_of_downtown_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "st._john's,_newfoundland_and_labrador_aerial_view_of_downtown_(cropped).jpg",
+          "width": 7710,
+          "height": 4629,
+          "title": "St. John's, Newfoundland and Labrador",
+          "description": "Capital and largest city of Newfoundland and Labrador, Canada",
+          "extract": "St. John's is the capital and largest city of the Canadian province of Newfoundland and Labrador. It is located on the eastern tip of the Avalon Peninsula on the island of Newfoundland. The city spans 446.04 square kilometres (172.22 sq mi) and is the easternmost city in North America.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/St._John's%2C_Newfoundland_and_Labrador",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Signature_of_Humphrey_Gilbert_%28c._1539_%E2%80%93_1583%29.png/330px-Signature_of_Humphrey_Gilbert_%28c._1539_%E2%80%93_1583%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Signature_of_Humphrey_Gilbert_%28c._1539_%E2%80%93_1583%29.png/330px-Signature_of_Humphrey_Gilbert_%28c._1539_%E2%80%93_1583%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "signature_of_humphrey_gilbert_(c._1539_–_1583).png",
+          "width": 800,
+          "height": 600,
+          "title": "Signature_of_Humphrey_Gilbert_(c._1539_–_1583)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Humphrey_Gilbert",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Humphrey Gilbert",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Humphrey_Gilbert",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-05-1100-bd99cd6a",
+      "year": 1100,
+      "text": "Henry I was crowned King of England in Westminster Abbey.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Worcester_chronicle_-_Henry_I_in_a_hulk.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Worcester_chronicle_-_Henry_I_in_a_hulk.png/330px-Worcester_chronicle_-_Henry_I_in_a_hulk.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "worcester_chronicle_-_henry_i_in_a_hulk.png",
+        "width": 628,
+        "height": 643,
+        "title": "Henry I of England",
+        "description": "King of England from 1100 to 1135",
+        "extract": "Henry I, also known as Henry Beauclerc, was King of England from 1100 to his death in 1135. He was the fourth son of William the Conqueror and was educated in Latin and the liberal arts. On William's death in 1087, Henry's elder brothers Robert Curthose and William Rufus inherited Normandy and England, respectively, thereby leaving Henry landless. He subsequently purchased the County of Cotentin in western Normandy from Robert, but his brothers deposed him in 1091. He gradually rebuilt his power base in the Cotentin and allied himself with William Rufus against Robert.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Worcester_chronicle_-_Henry_I_in_a_hulk.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Worcester_chronicle_-_Henry_I_in_a_hulk.png/330px-Worcester_chronicle_-_Henry_I_in_a_hulk.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "worcester_chronicle_-_henry_i_in_a_hulk.png",
+          "width": 628,
+          "height": 643,
+          "title": "Henry I of England",
+          "description": "King of England from 1100 to 1135",
+          "extract": "Henry I, also known as Henry Beauclerc, was King of England from 1100 to his death in 1135. He was the fourth son of William the Conqueror and was educated in Latin and the liberal arts. On William's death in 1087, Henry's elder brothers Robert Curthose and William Rufus inherited Normandy and England, respectively, thereby leaving Henry landless. He subsequently purchased the County of Cotentin in western Normandy from Robert, but his brothers deposed him in 1091. He gradually rebuilt his power base in the Cotentin and allied himself with William Rufus against Robert.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Westminster_Abbey%2C_Westminster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Westminster_Abbey%2C_Westminster.jpg/330px-Westminster_Abbey%2C_Westminster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "westminster_abbey,_westminster.jpg",
+          "width": 2292,
+          "height": 4608,
+          "title": "Westminster Abbey",
+          "description": "Church in London, England",
+          "extract": "Westminster Abbey, formally titled the Collegiate Church of Saint Peter at Westminster, is an Anglican church in the City of Westminster, London, England. Since 1066, it has been the location of the coronations of 40 English and British monarchs and a burial site for 18 English, Scottish, and British monarchs. At least 16 royal weddings have taken place at the abbey since 1100.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Henry I of England",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Henry_I_of_England",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-05-1969-7bc299a5",
+      "year": 1969,
+      "text": "Police raided a screening of the film Lonesome Cowboys in Atlanta, Georgia, leading to the creation of a Gay Liberation Front in that city.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 80,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/11/Lonesomecowboys.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/11/Lonesomecowboys.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "lonesomecowboys.png",
+        "width": 225,
+        "height": 308,
+        "title": "Lonesome Cowboys",
+        "description": "1968 film",
+        "extract": "Lonesome Cowboys is a 1968 American Western drama film directed by Andy Warhol, and written and produced by Paul Morrissey. A satire of Hollywood Westerns, it was initially screened in November 1968 at the San Francisco International Film Festival, where it won the Best Film Award. On May 5, 1969, it was shown for initial viewings at the New Andy Warhol Garrick Theatre in New York City.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lonesome_Cowboys",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/11/Lonesomecowboys.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/11/Lonesomecowboys.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "lonesomecowboys.png",
+          "width": 225,
+          "height": 308,
+          "title": "Lonesome Cowboys",
+          "description": "1968 film",
+          "extract": "Lonesome Cowboys is a 1968 American Western drama film directed by Andy Warhol, and written and produced by Paul Morrissey. A satire of Hollywood Westerns, it was initially screened in November 1968 at the San Francisco International Film Festival, where it won the Best Film Award. On May 5, 1969, it was shown for initial viewings at the New Andy Warhol Garrick Theatre in New York City.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lonesome_Cowboys",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/A2ATL20250614-0721_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/A2ATL20250614-0721_%28cropped%29.jpg/330px-A2ATL20250614-0721_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "a2atl20250614-0721_(cropped).jpg",
+          "width": 2280,
+          "height": 1260,
+          "title": "Atlanta",
+          "description": "Capital and most populous city of Georgia, U.S.",
+          "extract": "Atlanta is the capital and most populous city of the U.S. state of Georgia. It is the county seat of Fulton County and extends into neighboring DeKalb County. With a population of 498,715 at the 2020 census and an estimated 529,110 in 2025, Atlanta is the eighth-most populous city in the Southeast and the 36th-most populous city in the United States. Atlanta is classified as a Beta+ global city. The Atlanta metropolitan area has an estimated population of over 6.4 million and is the sixth-largest metropolitan area in the United States. Situated among the foothills of the Appalachian Mountains at an elevation of just over 1,000 feet (300 m) above sea level, Atlanta features a unique topography that includes rolling hills, lush greenery, and the densest urban tree coverage of any major city in the United States.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Atlanta",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Demonstration%2C_with_Gay_Liberation_Front_Banner%2C_1971_%287374381322%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Demonstration%2C_with_Gay_Liberation_Front_Banner%2C_1971_%287374381322%29.jpg/330px-Demonstration%2C_with_Gay_Liberation_Front_Banner%2C_1971_%287374381322%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "demonstration,_with_gay_liberation_front_banner,_1971_(7374381322).jpg",
+          "width": 1253,
+          "height": 1498,
+          "title": "Gay Liberation Front",
+          "description": "Gay liberation groups in major US, UK, and Canadian cities during the 1960s-70s",
+          "extract": "The Gay Liberation Front (GLF) was the name of several gay liberation groups around the world, the first of which was formed in New York City in 1969, immediately after the Stonewall riots. Similar organizations also formed soon after in the UK, Australia and Canada. The original GLF provided a voice for the newly-out and newly radicalized gay community, and a meeting place for a number of activists who would go on to form other groups, such as the Gay Activists Alliance, Gay Youth New York, and Street Transvestite Action Revolutionaries (STAR) in the US. In the UK and Canada, activists also developed a platform for gay liberation and demonstrated for gay rights. Activists from both the US and UK groups would later go on to found or be active in groups including ACT UP, the Lesbian Avengers, Queer Nation, Sisters of Perpetual Indulgence, and Stonewall.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gay_Liberation_Front",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Lonesome Cowboys police raid",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Lonesome_Cowboys_police_raid",
+      "relatedPagesCount": 4
+    }
+  ]
+}

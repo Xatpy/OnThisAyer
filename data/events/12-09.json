@@ -1,0 +1,595 @@
+{
+  "date": {
+    "month": 12,
+    "day": 9,
+    "formatted": "12-09"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "12-09-2006-00d1a6b8",
+      "year": 2006,
+      "text": "Space Shuttle program: Space Shuttle Discovery is launched on STS-116 carrying the P5 truss segment of the International Space Station.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+        "width": 3336,
+        "height": 2507,
+        "title": "Space Shuttle Discovery",
+        "description": "Space Shuttle orbiter (1984–2011)",
+        "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+          "width": 3336,
+          "height": 2507,
+          "title": "Space Shuttle Discovery",
+          "description": "Space Shuttle orbiter (1984–2011)",
+          "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/STS-116_-_P5_Truss_hand-off_to_ISS_%28NASA_S116-E-05765%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/STS-116_-_P5_Truss_hand-off_to_ISS_%28NASA_S116-E-05765%29.jpg/330px-STS-116_-_P5_Truss_hand-off_to_ISS_%28NASA_S116-E-05765%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-116_-_p5_truss_hand-off_to_iss_(nasa_s116-e-05765).jpg",
+          "width": 3032,
+          "height": 2000,
+          "title": "STS-116",
+          "description": "2006 American crewed spaceflight to the ISS",
+          "extract": "STS-116 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Discovery. Discovery lifted off on December 9, 2006, for her 33rd flight at 20:47:35 EST. A previous launch attempt on December 7 had been canceled due to cloud cover. It was the first night launch of a Space Shuttle since STS-113 in November 2002.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-116",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ISS_solar_arrays_%2B_truss_view.jpg/3840px-ISS_solar_arrays_%2B_truss_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ISS_solar_arrays_%2B_truss_view.jpg/330px-ISS_solar_arrays_%2B_truss_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss_solar_arrays_+_truss_view.jpg",
+          "width": 4288,
+          "height": 2848,
+          "title": "Integrated Truss Structure",
+          "description": "Part of the International Space Station; sequence of connected trusses",
+          "extract": "The Integrated Truss Structure (ITS) of the International Space Station (ISS) consists of a linear arranged sequence of connected trusses on which various unpressurized components are mounted such as logistics carriers, radiators, solar arrays, and other equipment. It supplies the ISS with a bus architecture. It is approximately 110 metres long, weighs slightly under 118 tonnes (260,000 lb) with all its attached equipment, and is made primarily from aluminium and stainless steel.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Integrated_Truss_Structure",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "12-09-1968-326a0af6",
+      "year": 1968,
+      "text": "Douglas Engelbart gave what became known as \"The Mother of All Demos\", publicly debuting the computer mouse (pictured), hypertext, and the bit-mapped graphical user interface using the computer system NLS.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/SRI_Douglas_Engelbart_1968_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/SRI_Douglas_Engelbart_1968_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "sri_douglas_engelbart_1968_(cropped).jpg",
+        "width": 235,
+        "height": 322,
+        "title": "Douglas Engelbart",
+        "description": "American engineer and inventor (1925–2013)",
+        "extract": "Douglas Carl Engelbart was an American engineer, inventor, and a pioneer in many aspects of computer science. He is best known for his work on founding the field of human–computer interaction, particularly while at his Augmentation Research Center Lab in SRI International, which resulted in creation of the computer mouse, and the development of hypertext, networked computers, and precursors to graphical user interfaces. These were demonstrated at The Mother of All Demos in 1968. Engelbart's law, the observation that the intrinsic rate of human performance is exponential, is named after him.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Douglas_Engelbart",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/SRI_Douglas_Engelbart_1968_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/SRI_Douglas_Engelbart_1968_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "sri_douglas_engelbart_1968_(cropped).jpg",
+          "width": 235,
+          "height": 322,
+          "title": "Douglas Engelbart",
+          "description": "American engineer and inventor (1925–2013)",
+          "extract": "Douglas Carl Engelbart was an American engineer, inventor, and a pioneer in many aspects of computer science. He is best known for his work on founding the field of human–computer interaction, particularly while at his Augmentation Research Center Lab in SRI International, which resulted in creation of the computer mouse, and the development of hypertext, networked computers, and precursors to graphical user interfaces. These were demonstrated at The Mother of All Demos in 1968. Engelbart's law, the observation that the intrinsic rate of human performance is exponential, is named after him.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Douglas_Engelbart",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/SRI_Douglas_Engelbart_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/SRI_Douglas_Engelbart_1968.jpg/330px-SRI_Douglas_Engelbart_1968.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sri_douglas_engelbart_1968.jpg",
+          "width": 600,
+          "height": 823,
+          "title": "The Mother of All Demos",
+          "description": "1968 computer demonstration by Douglas Engelbart",
+          "extract": "\"The Mother of All Demos\" was a landmark computer demonstration, named retroactively, of developments by Stanford Research Institute's Augmentation Research Center. It was presented at the Association for Computing Machinery / Institute of Electrical and Electronics Engineers (ACM/IEEE)—Computer Society's Fall Joint Computer Conference in San Francisco, by Douglas Engelbart, on December 9, 1968.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Mother_of_All_Demos",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/3-Tasten-Maus_Microsoft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/3-Tasten-Maus_Microsoft.jpg/330px-3-Tasten-Maus_Microsoft.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "3-tasten-maus_microsoft.jpg",
+          "width": 800,
+          "height": 701,
+          "title": "Computer mouse",
+          "description": "Pointing device used to control a computer",
+          "extract": "A computer mouse is a hand-held pointing device that detects two-dimensional motion relative to a surface. This motion is typically translated into the motion of the pointer on a display, which allows a smooth control of the graphical user interface of a computer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Computer_mouse",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Douglas Engelbart",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Douglas_Engelbart",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "12-09-1965-cbad0551",
+      "year": 1965,
+      "text": "A large, brilliant fireball was seen by thousands in midwestern North America before landing in Kecksburg, Pennsylvania.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Kecksburg_UFO.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kecksburg_UFO.JPG/330px-Kecksburg_UFO.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "kecksburg_ufo.jpg",
+        "width": 1806,
+        "height": 2086,
+        "title": "Kecksburg UFO incident",
+        "description": "1965 fireball sighting in North America",
+        "extract": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario. Astronomers said it was likely to have been a meteor bolide burning up in the atmosphere and descending at a steep angle. NASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they were from a Soviet satellite, but that records of their findings were lost in 1987. NASA responded to court orders and Freedom of Information Act requests to search for the records. The incident gained wide notoriety in popular culture and ufology, with speculation ranging from extraterrestrial craft to debris from the Soviet space probe Kosmos 96, and is often called \"Pennsylvania's Roswell\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Kecksburg_UFO.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kecksburg_UFO.JPG/330px-Kecksburg_UFO.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kecksburg_ufo.jpg",
+          "width": 1806,
+          "height": 2086,
+          "title": "Kecksburg UFO incident",
+          "description": "1965 fireball sighting in North America",
+          "extract": "The Kecksburg UFO incident occurred on December 9, 1965, at Kecksburg, Pennsylvania, United States, when a fireball was reported by citizens of six U.S. states and Canada over Detroit, Michigan, and Windsor, Ontario. Astronomers said it was likely to have been a meteor bolide burning up in the atmosphere and descending at a steep angle. NASA released a statement in 2005 reporting that experts had examined fragments from the area and determined they were from a Soviet satellite, but that records of their findings were lost in 1987. NASA responded to court orders and Freedom of Information Act requests to search for the records. The incident gained wide notoriety in popular culture and ufology, with speculation ranging from extraterrestrial craft to debris from the Soviet space probe Kosmos 96, and is often called \"Pennsylvania's Roswell\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Kecksburg UFO incident",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-09-2012-37829e49",
+      "year": 2012,
+      "text": "A plane crash in Mexico kills seven people including singer Jenni Rivera.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Gates_Learjet_25D%2C_Berlin_Air_Rescue_AN1409713.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gates_Learjet_25D%2C_Berlin_Air_Rescue_AN1409713.jpg/330px-Gates_Learjet_25D%2C_Berlin_Air_Rescue_AN1409713.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gates_learjet_25d,_berlin_air_rescue_an1409713.jpg",
+        "width": 1024,
+        "height": 681,
+        "title": "2012 Nuevo León Learjet 25 crash",
+        "description": "Aviation accident in Mexico",
+        "extract": "On 9 December 2012, a Learjet 25 business jet carrying five passengers including Mexican-American singer Jenni Rivera crashed south of Monterrey, Mexico, minutes after taking off from the city's international airport. All aboard, including two crew members, were killed.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2012_Nuevo_Le%C3%B3n_Learjet_25_crash",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Gates_Learjet_25D%2C_Berlin_Air_Rescue_AN1409713.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Gates_Learjet_25D%2C_Berlin_Air_Rescue_AN1409713.jpg/330px-Gates_Learjet_25D%2C_Berlin_Air_Rescue_AN1409713.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gates_learjet_25d,_berlin_air_rescue_an1409713.jpg",
+          "width": 1024,
+          "height": 681,
+          "title": "2012 Nuevo León Learjet 25 crash",
+          "description": "Aviation accident in Mexico",
+          "extract": "On 9 December 2012, a Learjet 25 business jet carrying five passengers including Mexican-American singer Jenni Rivera crashed south of Monterrey, Mexico, minutes after taking off from the city's international airport. All aboard, including two crew members, were killed.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2012_Nuevo_Le%C3%B3n_Learjet_25_crash",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Jenni_Rivera_-_Pepsi_Center_-_08.22.09_-_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jenni_Rivera_-_Pepsi_Center_-_08.22.09_-_Cropped.jpg/330px-Jenni_Rivera_-_Pepsi_Center_-_08.22.09_-_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jenni_rivera_-_pepsi_center_-_08.22.09_-_cropped.jpg",
+          "width": 1786,
+          "height": 2323,
+          "title": "Jenni Rivera",
+          "description": "American singer (1969–2012)",
+          "extract": "Dolores Janney \"Jenni\" Rivera was an American singer, songwriter, actress, businesswoman, and producer known for her work within the regional Mexican music genre, specifically in the styles of banda, mariachi and norteño. In life and death, several media outlets including CNN, Billboard, Fox News, and The New York Times have labeled her the most important female figure and top-selling female artist in regional Mexican music. Billboard magazine named her the \"Top Latin Artist of 2013\", and the \"Best Selling Latin Artist of 2013\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jenni_Rivera",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jenni_Rivera_performing_in_2009_1.png/1280px-Jenni_Rivera_performing_in_2009_1.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Jenni_Rivera_performing_in_2009_1.png/1280px-Jenni_Rivera_performing_in_2009_1.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "jenni_rivera_performing_in_2009_1.png",
+          "width": 800,
+          "height": 600,
+          "title": "Singer Jenni Rivera, 43, was among the seven fatalities",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2012_Nuevo_Le%C3%B3n_Learjet_25_crash",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2012 Nuevo León Learjet 25 crash",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2012_Nuevo_Le%C3%B3n_Learjet_25_crash",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-09-1971-1780febd",
+      "year": 1971,
+      "text": "Indo-Pakistani War: The Indian Air Force executes an airdrop of Indian Army units, bypassing Pakistani defences.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/1971_Instrument_of_Surrender.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/1971_Instrument_of_Surrender.jpg/330px-1971_Instrument_of_Surrender.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "1971_instrument_of_surrender.jpg",
+        "width": 936,
+        "height": 666,
+        "title": "India–Pakistan war of 1971",
+        "description": "Military confrontation between India and Pakistan alongside the Bangladesh Liberation War",
+        "extract": "The India–Pakistan war of 1971, also known as the third Indo-Pakistani war, was a military confrontation between India and Pakistan that occurred during the Bangladesh Liberation War in East Pakistan from 3 December 1971 until the Pakistani capitulation in Dhaka on 16 December 1971. The war began with Pakistan's Operation Chengiz Khan, consisting of preemptive aerial strikes on eight Indian air stations. The strikes led to India declaring war on Pakistan, marking their entry into the war for East Pakistan's independence, on the side of Bengali nationalist forces. India's entry expanded the existing conflict with Indian and Pakistani forces engaging on both the eastern and western fronts.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/India%E2%80%93Pakistan_war_of_1971",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/1971_Instrument_of_Surrender.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/1971_Instrument_of_Surrender.jpg/330px-1971_Instrument_of_Surrender.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1971_instrument_of_surrender.jpg",
+          "width": 936,
+          "height": 666,
+          "title": "India–Pakistan war of 1971",
+          "description": "Military confrontation between India and Pakistan alongside the Bangladesh Liberation War",
+          "extract": "The India–Pakistan war of 1971, also known as the third Indo-Pakistani war, was a military confrontation between India and Pakistan that occurred during the Bangladesh Liberation War in East Pakistan from 3 December 1971 until the Pakistani capitulation in Dhaka on 16 December 1971. The war began with Pakistan's Operation Chengiz Khan, consisting of preemptive aerial strikes on eight Indian air stations. The strikes led to India declaring war on Pakistan, marking their entry into the war for East Pakistan's independence, on the side of Bengali nationalist forces. India's entry expanded the existing conflict with Indian and Pakistani forces engaging on both the eastern and western fronts.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/India%E2%80%93Pakistan_war_of_1971",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Indian_Air_Force_Crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Indian_Air_Force_Crest.png/330px-Indian_Air_Force_Crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "indian_air_force_crest.png",
+          "width": 3464,
+          "height": 3464,
+          "title": "Indian Air Force",
+          "description": "Aerial service branch of the Indian Armed Forces",
+          "extract": "The Indian Air Force (IAF) is the air arm of the Indian Armed Forces. Its primary mission is to secure Indian airspace and to conduct aerial warfare during armed conflicts. It was officially established on 8 October 1932 as an auxiliary air force of British India which honoured India's aviation service during World War II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Indian_Air_Force",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "India–Pakistan war of 1971",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/India%E2%80%93Pakistan_war_of_1971",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "12-09-1956-51b22769",
+      "year": 1956,
+      "text": "An Aeroflot Lisunov Li-2 crashes near Anadyr, killing all 12 people on board.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Aeroflot%2C_VP-BXA%2C_Airbus_A350-941_%2851272267208%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Aeroflot%2C_VP-BXA%2C_Airbus_A350-941_%2851272267208%29.jpg/330px-Aeroflot%2C_VP-BXA%2C_Airbus_A350-941_%2851272267208%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "aeroflot,_vp-bxa,_airbus_a350-941_(51272267208).jpg",
+        "width": 1200,
+        "height": 800,
+        "title": "Aeroflot",
+        "description": "National airline of Russia",
+        "extract": "PJSC Aeroflot – Russian Airlines, commonly known as Aeroflot, is the flag carrier and the largest airline of Russia. Aeroflot is headquartered in the Central Administrative Okrug, Moscow, with its hub being Sheremetyevo International Airport. The Federal Agency for State Property Management, an agency of the Government of Russia, owns 73.77% of the company, with the rest of the shares being public float.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Aeroflot",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Aeroflot%2C_VP-BXA%2C_Airbus_A350-941_%2851272267208%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Aeroflot%2C_VP-BXA%2C_Airbus_A350-941_%2851272267208%29.jpg/330px-Aeroflot%2C_VP-BXA%2C_Airbus_A350-941_%2851272267208%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aeroflot,_vp-bxa,_airbus_a350-941_(51272267208).jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Aeroflot",
+          "description": "National airline of Russia",
+          "extract": "PJSC Aeroflot – Russian Airlines, commonly known as Aeroflot, is the flag carrier and the largest airline of Russia. Aeroflot is headquartered in the Central Administrative Okrug, Moscow, with its hub being Sheremetyevo International Airport. The Federal Agency for State Property Management, an agency of the Government of Russia, owns 73.77% of the company, with the rest of the shares being public float.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Aeroflot",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lisunov_Li-2T_HA-LIX_Hahnweide_2011_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lisunov_Li-2T_HA-LIX_Hahnweide_2011_02.jpg/330px-Lisunov_Li-2T_HA-LIX_Hahnweide_2011_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lisunov_li-2t_ha-lix_hahnweide_2011_02.jpg",
+          "width": 2800,
+          "height": 1575,
+          "title": "Lisunov Li-2",
+          "description": "Airliner and military transport aircraft",
+          "extract": "The Lisunov Li-2, originally designated PS-84, is a license-built Soviet version of the Douglas DC-3. It was produced by State Aircraft Plant No. 84 in Moscow-Khimki and, after the factory's evacuation in 1941, at the Tashkent Aviation Production Association in Tashkent. The project was directed by aeronautical engineer Boris Pavlovich Lisunov.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lisunov_Li-2",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/History_Aeroflot_Dobrolet.jpg/1280px-History_Aeroflot_Dobrolet.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/History_Aeroflot_Dobrolet.jpg/1280px-History_Aeroflot_Dobrolet.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "history_aeroflot_dobrolet.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "An early Soviet poster calling on citizens to buy stock in Dobrolyot",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Aeroflot",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Aeroflot",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Aeroflot",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-09-1950-6a76fc45",
+      "year": 1950,
+      "text": "Cold War: Harry Gold is sentenced to 30 years in jail for helping Klaus Fuchs pass information about the Manhattan Project to the Soviet Union. His testimony is later instrumental in the prosecution of Julius and Ethel Rosenberg.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/U.S._vs._Julius_%26_Ethel_Rosenberg_and_Martin_Sobell%2C_Government_Exhibit_5%2C_photograph_of_Harry_Gold_-_NARA_-_278750.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/U.S._vs._Julius_%26_Ethel_Rosenberg_and_Martin_Sobell%2C_Government_Exhibit_5%2C_photograph_of_Harry_Gold_-_NARA_-_278750.jpg/330px-U.S._vs._Julius_%26_Ethel_Rosenberg_and_Martin_Sobell%2C_Government_Exhibit_5%2C_photograph_of_Harry_Gold_-_NARA_-_278750.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "u.s._vs._julius_&_ethel_rosenberg_and_martin_sobell,_government_exhibit_5,_photograph_of_harry_gold_-_nara_-_278750.jpg",
+        "width": 1860,
+        "height": 2828,
+        "title": "Harry Gold",
+        "description": "American chemist and Second World War Soviet spy",
+        "extract": "Harry Gold was an American laboratory chemist who was convicted as a courier for the Soviet Union passing atomic secrets from Klaus Fuchs, an agent of the Soviet Union, during World War II. Gold served as a government witness and testified in the case of Julius and Ethel Rosenberg, who were convicted and executed in 1953 for their roles. Gold served 15 years in prison.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harry_Gold",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/U.S._vs._Julius_%26_Ethel_Rosenberg_and_Martin_Sobell%2C_Government_Exhibit_5%2C_photograph_of_Harry_Gold_-_NARA_-_278750.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/U.S._vs._Julius_%26_Ethel_Rosenberg_and_Martin_Sobell%2C_Government_Exhibit_5%2C_photograph_of_Harry_Gold_-_NARA_-_278750.jpg/330px-U.S._vs._Julius_%26_Ethel_Rosenberg_and_Martin_Sobell%2C_Government_Exhibit_5%2C_photograph_of_Harry_Gold_-_NARA_-_278750.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "u.s._vs._julius_&_ethel_rosenberg_and_martin_sobell,_government_exhibit_5,_photograph_of_harry_gold_-_nara_-_278750.jpg",
+          "width": 1860,
+          "height": 2828,
+          "title": "Harry Gold",
+          "description": "American chemist and Second World War Soviet spy",
+          "extract": "Harry Gold was an American laboratory chemist who was convicted as a courier for the Soviet Union passing atomic secrets from Klaus Fuchs, an agent of the Soviet Union, during World War II. Gold served as a government witness and testified in the case of Julius and Ethel Rosenberg, who were convicted and executed in 1953 for their roles. Gold served 15 years in prison.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Harry_Gold",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Klaus_Fuchs_-_police_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Klaus_Fuchs_-_police_photograph.jpg/330px-Klaus_Fuchs_-_police_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "klaus_fuchs_-_police_photograph.jpg",
+          "width": 700,
+          "height": 885,
+          "title": "Klaus Fuchs",
+          "description": "German-born British physicist and atomic spy (1911–1988)",
+          "extract": "Klaus Emil Julius Fuchs was a German theoretical physicist, atomic spy, and communist who supplied information from the American, British, and Canadian Manhattan Project to the Soviet Union during and shortly after World War II. While at the Los Alamos Laboratory, Fuchs was responsible for many significant theoretical calculations relating to the first nuclear weapons and, later, early models of the hydrogen bomb. After his conviction in 1950, he served nine years in prison in the United Kingdom, then migrated to East Germany where he resumed his career as a physicist and scientific leader.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Klaus_Fuchs",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Time%2C_3-22_p.m%2C_December_2%2C_1942._Place%2C_Racquets_Court_under_West_Stands_of_Stagg_Field%2C_University_of_Chicago...._-_NARA_-_542144.tif/lossy-page1-1920px-Time%2C_3-22_p.m%2C_December_2%2C_1942._Place%2C_Racquets_Court_under_West_Stands_of_Stagg_Field%2C_University_of_Chicago...._-_NARA_-_542144.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Time%2C_3-22_p.m%2C_December_2%2C_1942._Place%2C_Racquets_Court_under_West_Stands_of_Stagg_Field%2C_University_of_Chicago...._-_NARA_-_542144.tif/lossy-page1-330px-Time%2C_3-22_p.m%2C_December_2%2C_1942._Place%2C_Racquets_Court_under_West_Stands_of_Stagg_Field%2C_University_of_Chicago...._-_NARA_-_542144.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lossy-page1-1920px-time,_3-22_p.m,_december_2,_1942._place,_racquets_court_under_west_stands_of_stagg_field,_university_of_chicago...._-_nara_-_542144.tif.jpg",
+          "width": 3000,
+          "height": 1628,
+          "title": "Manhattan Project",
+          "description": "World War II Allied nuclear weapons program",
+          "extract": "The Manhattan Project was a research and development program undertaken during World War II to produce the first nuclear weapons. It was led by the United States in collaboration with the United Kingdom and Canada. The Manhattan Project employed nearly 130,000 people at its peak and cost nearly US$2 billion.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Manhattan_Project",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cold War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "12-09-2022-cca9b35d",
+      "year": 2022,
+      "text": "Members of the European Parliament, including Vice President Eva Kaili (pictured), and their associates are arrested in connection with the Qatar corruption scandal.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Eva_Kaili%2C_Vice-President_of_the_European_Parliament_-_2022_-_P058515-749136_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Eva_Kaili%2C_Vice-President_of_the_European_Parliament_-_2022_-_P058515-749136_%28cropped%29.jpg/330px-Eva_Kaili%2C_Vice-President_of_the_European_Parliament_-_2022_-_P058515-749136_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "eva_kaili,_vice-president_of_the_european_parliament_-_2022_-_p058515-749136_(cropped).jpg",
+        "width": 1374,
+        "height": 2250,
+        "title": "Eva Kaili",
+        "description": "Greek politician (born 1978)",
+        "extract": "Eva Kaili is a Greek former politician who was a member of the European Parliament (MEP) from 2014 to 2024. She served as one of fourteen vice presidents of the European Parliament from January 2022 until she was arrested in December 2022 and charged with corruption as part of the Qatar corruption scandal at the European Parliament.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Eva_Kaili",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Eva_Kaili%2C_Vice-President_of_the_European_Parliament_-_2022_-_P058515-749136_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Eva_Kaili%2C_Vice-President_of_the_European_Parliament_-_2022_-_P058515-749136_%28cropped%29.jpg/330px-Eva_Kaili%2C_Vice-President_of_the_European_Parliament_-_2022_-_P058515-749136_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "eva_kaili,_vice-president_of_the_european_parliament_-_2022_-_p058515-749136_(cropped).jpg",
+          "width": 1374,
+          "height": 2250,
+          "title": "Eva Kaili",
+          "description": "Greek politician (born 1978)",
+          "extract": "Eva Kaili is a Greek former politician who was a member of the European Parliament (MEP) from 2014 to 2024. She served as one of fourteen vice presidents of the European Parliament from January 2022 until she was arrested in December 2022 and charged with corruption as part of the Qatar corruption scandal at the European Parliament.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Eva_Kaili",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Member of the European Parliament",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Member_of_the_European_Parliament",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-09-2019-853ae075",
+      "year": 2019,
+      "text": "A volcano on Whakaari / White Island, New Zealand, kills 22 people after it erupts.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/White_Island_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/White_Island_2013.jpg/330px-White_Island_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "white_island_2013.jpg",
+        "width": 3648,
+        "height": 2578,
+        "title": "Whakaari / White Island",
+        "description": "Island volcano in New Zealand's Bay of Plenty",
+        "extract": "Whakaari / White Island, also known as White Island or Whakaari, is an active andesite stratovolcano situated 48 km (30 mi) from the east coast of the North Island of New Zealand, in the Bay of Plenty. The island covers an area of approximately 325 ha, which is just the peak of a much larger submarine volcano.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Whakaari_%2F_White_Island",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/White_Island_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/White_Island_2013.jpg/330px-White_Island_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "white_island_2013.jpg",
+          "width": 3648,
+          "height": 2578,
+          "title": "Whakaari / White Island",
+          "description": "Island volcano in New Zealand's Bay of Plenty",
+          "extract": "Whakaari / White Island, also known as White Island or Whakaari, is an active andesite stratovolcano situated 48 km (30 mi) from the east coast of the North Island of New Zealand, in the Bay of Plenty. The island covers an area of approximately 325 ha, which is just the peak of a much larger submarine volcano.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Whakaari_%2F_White_Island",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/White_Island_9_December_2019_eruption.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/White_Island_9_December_2019_eruption.jpg/330px-White_Island_9_December_2019_eruption.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "white_island_9_december_2019_eruption.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": "2019 Whakaari / White Island eruption",
+          "description": "Volcanic eruption in New Zealand",
+          "extract": "On 9 December 2019, Whakaari / White Island, an active stratovolcano island in New Zealand's northeastern Bay of Plenty region, explosively erupted. The island was a popular tourist destination, known for its volcanic activity, and 47 people were on the island at the time. Twenty-two people died, either in the explosion or from injuries sustained, including two whose bodies were never found, later declared dead. The remaining 25 people suffered injuries, with the majority needing intensive care for severe burns. Continuing seismic and volcanic activity, together with heavy rainfall, low visibility and the presence of toxic gases, hampered recovery efforts over the week following the incident.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2019_Whakaari_%2F_White_Island_eruption",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Whakaari / White Island",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Whakaari_%2F_White_Island",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-09-2017-6176a8fe",
+      "year": 2017,
+      "text": "The Marriage Amendment Bill receives royal assent and comes into effect, making Australia the 26th country to legalize same-sex marriage.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Wedding_in_New_Orleans%2C_November_11%2C_2017.jpg/3840px-Wedding_in_New_Orleans%2C_November_11%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Wedding_in_New_Orleans%2C_November_11%2C_2017.jpg/330px-Wedding_in_New_Orleans%2C_November_11%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "wedding_in_new_orleans,_november_11,_2017.jpg",
+        "width": 5380,
+        "height": 3587,
+        "title": "Same-sex marriage",
+        "description": "Marriage of persons of the same sex or gender",
+        "extract": "Same-sex marriage, also known as gay marriage or same-gender marriage, is the marriage of two people of the same legal sex or gender. As of 2026, marriage between same-sex couples is legally performed and recognized in 38 countries, with a total population of 1.5 billion people. The most recent jurisdiction to legalize same-sex marriage is Thailand; legalization has also been mandated for Nepal.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Same-sex_marriage",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Wedding_in_New_Orleans%2C_November_11%2C_2017.jpg/3840px-Wedding_in_New_Orleans%2C_November_11%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Wedding_in_New_Orleans%2C_November_11%2C_2017.jpg/330px-Wedding_in_New_Orleans%2C_November_11%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wedding_in_new_orleans,_november_11,_2017.jpg",
+          "width": 5380,
+          "height": 3587,
+          "title": "Same-sex marriage",
+          "description": "Marriage of persons of the same sex or gender",
+          "extract": "Same-sex marriage, also known as gay marriage or same-gender marriage, is the marriage of two people of the same legal sex or gender. As of 2026, marriage between same-sex couples is legally performed and recognized in 38 countries, with a total population of 1.5 billion people. The most recent jurisdiction to legalize same-sex marriage is Thailand; legalization has also been mandated for Nepal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Same-sex_marriage",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Marriage Amendment (Definition and Religious Freedoms) Act 2017",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Marriage_Amendment_(Definition_and_Religious_Freedoms)_Act_2017",
+      "relatedPagesCount": 3
+    }
+  ]
+}

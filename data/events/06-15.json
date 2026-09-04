@@ -1,0 +1,595 @@
+{
+  "date": {
+    "month": 6,
+    "day": 15,
+    "formatted": "06-15"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "06-15-1988-f6497e43",
+      "year": 1988,
+      "text": "The Ariane 4 rocket is launched on its maiden flight.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ariane42P_rocket.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ariane42P_rocket.png/330px-Ariane42P_rocket.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ariane42p_rocket.png",
+        "width": 360,
+        "height": 480,
+        "title": "Ariane 4",
+        "description": "Rocket",
+        "extract": "The Ariane 4 was a European expendable launch vehicle, developed by the Centre national d'études spatiales (CNES), the French space agency, for the European Space Agency (ESA). It was manufactured by ArianeGroup and marketed by Arianespace. Since its first flight on 15 June 1988 until the final flight on 15 February 2003, it attained 113 successful launches out of 116 total launches.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ariane_4",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ariane42P_rocket.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ariane42P_rocket.png/330px-Ariane42P_rocket.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ariane42p_rocket.png",
+          "width": 360,
+          "height": 480,
+          "title": "Ariane 4",
+          "description": "Rocket",
+          "extract": "The Ariane 4 was a European expendable launch vehicle, developed by the Centre national d'études spatiales (CNES), the French space agency, for the European Space Agency (ESA). It was manufactured by ArianeGroup and marketed by Arianespace. Since its first flight on 15 June 1988 until the final flight on 15 February 2003, it attained 113 successful launches out of 116 total launches.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ariane_4",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Ariane 4",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ariane_4",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "06-15-1978-ee5b969c",
+      "year": 1978,
+      "text": "King Hussein of Jordan married American Lisa Halaby, who became known as Queen Noor of Jordan (pictured).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/HusseinJordanien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/HusseinJordanien.jpg/330px-HusseinJordanien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "husseinjordanien.jpg",
+        "width": 1378,
+        "height": 1880,
+        "title": "Hussein of Jordan",
+        "description": "King of Jordan from 1952 to 1999",
+        "extract": "Hussein bin Talal was King of Jordan from 1952 until his death in 1999. A member of the Hashemite dynasty, he is regarded as a 40th-generation descendant of the Islamic prophet Muhammad.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hussein_of_Jordan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/HusseinJordanien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/HusseinJordanien.jpg/330px-HusseinJordanien.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "husseinjordanien.jpg",
+          "width": 1378,
+          "height": 1880,
+          "title": "Hussein of Jordan",
+          "description": "King of Jordan from 1952 to 1999",
+          "extract": "Hussein bin Talal was King of Jordan from 1952 until his death in 1999. A member of the Hashemite dynasty, he is regarded as a 40th-generation descendant of the Islamic prophet Muhammad.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hussein_of_Jordan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Queen_Noor_Jordan_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Queen_Noor_Jordan_2011.jpg/330px-Queen_Noor_Jordan_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_noor_jordan_2011.jpg",
+          "width": 2981,
+          "height": 2772,
+          "title": "Queen Noor of Jordan",
+          "description": "Queen of Jordan from 1978 to 1999",
+          "extract": "Noor Al Hussein is an American-born Jordanian philanthropist and activist who was the fourth wife and widow of King Hussein of Jordan. She was Queen of Jordan from their marriage on June 15, 1978, until Hussein's death on February 7, 1999.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Queen_Noor_of_Jordan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Six_years_Hussien_with_Mother_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Six_years_Hussien_with_Mother_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "six_years_hussien_with_mother_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Hussein (age six) and his mother, Zein al-Sharaf, 1941",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hussein_of_Jordan",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Hussein of Jordan",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Hussein_of_Jordan",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "06-15-1977-04f25789",
+      "year": 1977,
+      "text": "After the death of dictator Francisco Franco in 1975, the first democratic elections take place in Spain.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Carlos_Arias_Navarro_and_Franco_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Carlos_Arias_Navarro_and_Franco_1975.jpg/330px-Carlos_Arias_Navarro_and_Franco_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "carlos_arias_navarro_and_franco_1975.jpg",
+        "width": 2944,
+        "height": 2264,
+        "title": "Death and funeral of Francisco Franco",
+        "description": "",
+        "extract": "Francisco Franco, the dictator of Spain, died on 20 November 1975 at the age of 82. His designated successor, Prince Juan Carlos de Borbón, was proclaimed King Juan Carlos I on 22 November. The following day, Franco was buried at the Valley of the Fallen. Juan Carlos later led the Spanish transition to democracy.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Death_and_funeral_of_Francisco_Franco",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Carlos_Arias_Navarro_and_Franco_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Carlos_Arias_Navarro_and_Franco_1975.jpg/330px-Carlos_Arias_Navarro_and_Franco_1975.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "carlos_arias_navarro_and_franco_1975.jpg",
+          "width": 2944,
+          "height": 2264,
+          "title": "Death and funeral of Francisco Franco",
+          "description": "",
+          "extract": "Francisco Franco, the dictator of Spain, died on 20 November 1975 at the age of 82. His designated successor, Prince Juan Carlos de Borbón, was proclaimed King Juan Carlos I on 22 November. The following day, Franco was buried at the Valley of the Fallen. Juan Carlos later led the Spanish transition to democracy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Death_and_funeral_of_Francisco_Franco",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Francisco_Franco_posed_portrait_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Francisco_Franco_posed_portrait_photograph.jpg/330px-Francisco_Franco_posed_portrait_photograph.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "francisco_franco_posed_portrait_photograph.jpg",
+          "width": 1949,
+          "height": 2682,
+          "title": "Francisco Franco",
+          "description": "Dictator of Spain from 1939 to 1975",
+          "extract": "Francisco Franco Bahamonde was a Spanish military general and the dictator of Spain from 1939 until his death in 1975. He had led the Nationalist forces in overthrowing the Second Spanish Republic during the Spanish Civil War from 1936 to 1939. This period in Spanish history, from the Nationalist victory to Franco's death, is commonly known as Francoist Spain.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Francisco_Franco",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Adolfo_Su%C3%A1rez_1979_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Adolfo_Su%C3%A1rez_1979_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "adolfo_suárez_1979_(cropped).jpg",
+          "width": 113,
+          "height": 169,
+          "title": "1977 Spanish general election",
+          "description": "",
+          "extract": "A general election was held in Spain on 15 June 1977 to elect the members of the Spanish Cortes. All 350 seats in the Congress of Deputies were up for election, as well as all 207 seats in the Senate.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1977_Spanish_general_election",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Death and funeral of Francisco Franco",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Death_and_funeral_of_Francisco_Franco",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "06-15-1904-8a6dfc9a",
+      "year": 1904,
+      "text": "A fire aboard the steamboat SS General Slocum in New York City's East River kills 1,000.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/PS_General_Slocum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PS_General_Slocum.jpg/330px-PS_General_Slocum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ps_general_slocum.jpg",
+        "width": 645,
+        "height": 424,
+        "title": "PS General Slocum",
+        "description": "Passenger steamboat; sank in New York City in 1904",
+        "extract": "PS General Slocum was an American sidewheel passenger steamboat built in Brooklyn, New York, in 1891. During her service history, she was involved in a number of mishaps, including multiple groundings and collisions.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/PS_General_Slocum",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/PS_General_Slocum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PS_General_Slocum.jpg/330px-PS_General_Slocum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ps_general_slocum.jpg",
+          "width": 645,
+          "height": 424,
+          "title": "PS General Slocum",
+          "description": "Passenger steamboat; sank in New York City in 1904",
+          "extract": "PS General Slocum was an American sidewheel passenger steamboat built in Brooklyn, New York, in 1891. During her service history, she was involved in a number of mishaps, including multiple groundings and collisions.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/PS_General_Slocum",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Wpdms_terra_east_river.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Wpdms_terra_east_river.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "wpdms_terra_east_river.jpg",
+          "width": 300,
+          "height": 398,
+          "title": "East River",
+          "description": "Navigable tidal strait in New York City",
+          "extract": "The East River is a saltwater tidal estuary in New York City. The waterway, which despite its name is a tidal strait, not a river, connects Upper New York Bay on its south end to Long Island Sound on its north end. It separates the boroughs of Brooklyn and Queens on Long Island from Manhattan Island and the Bronx, which is on the mainland.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/East_River",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/PS_General_Slocum_by_Stanton_-_detinted.jpg/1280px-PS_General_Slocum_by_Stanton_-_detinted.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/PS_General_Slocum_by_Stanton_-_detinted.jpg/1280px-PS_General_Slocum_by_Stanton_-_detinted.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "ps_general_slocum_by_stanton_-_detinted.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Drawing by Samuel Ward Stanton",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/PS_General_Slocum",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "PS General Slocum",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/PS_General_Slocum",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "06-15-1567-898d9a5f",
+      "year": 1567,
+      "text": "Mary, Queen of Scots, and her new husband Bothwell are confronted by disgruntled Scottish nobles in the encounter at Carberry Hill. The stand-off ends with the surrender of queen Mary.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg/330px-Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "françois_clouet_-_mary,_queen_of_scots_(1542-87)_-_google_art_project.jpg",
+        "width": 2082,
+        "height": 3216,
+        "title": "Mary, Queen of Scots",
+        "description": "Queen of Scotland from 1542 to 1567",
+        "extract": "Mary, Queen of Scots, also known as Mary Stuart or Mary I of Scotland, was Queen of Scotland from 14 December 1542 until her forced abdication on 24 July 1567.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary%2C_Queen_of_Scots",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg/330px-Fran%C3%A7ois_Clouet_-_Mary%2C_Queen_of_Scots_%281542-87%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "françois_clouet_-_mary,_queen_of_scots_(1542-87)_-_google_art_project.jpg",
+          "width": 2082,
+          "height": 3216,
+          "title": "Mary, Queen of Scots",
+          "description": "Queen of Scotland from 1542 to 1567",
+          "extract": "Mary, Queen of Scots, also known as Mary Stuart or Mary I of Scotland, was Queen of Scotland from 14 December 1542 until her forced abdication on 24 July 1567.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mary%2C_Queen_of_Scots",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/James_Hepburn%2C_4th_Earl_of_Bothwell%2C_c_1535_-_1578._Third_husband_of_Mary_Queen_of_Scots_-_Google_Art_Project.jpg/3840px-James_Hepburn%2C_4th_Earl_of_Bothwell%2C_c_1535_-_1578._Third_husband_of_Mary_Queen_of_Scots_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/James_Hepburn%2C_4th_Earl_of_Bothwell%2C_c_1535_-_1578._Third_husband_of_Mary_Queen_of_Scots_-_Google_Art_Project.jpg/330px-James_Hepburn%2C_4th_Earl_of_Bothwell%2C_c_1535_-_1578._Third_husband_of_Mary_Queen_of_Scots_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "james_hepburn,_4th_earl_of_bothwell,_c_1535_-_1578._third_husband_of_mary_queen_of_scots_-_google_art_project.jpg",
+          "width": 3971,
+          "height": 4000,
+          "title": "James Hepburn, 4th Earl of Bothwell",
+          "description": "Consort of Mary, Queen of Scots in 1567",
+          "extract": "James Hepburn, 1st Duke of Orkney and 4th Earl of Bothwell, better known simply as Lord Bothwell, was the third husband of Mary, Queen of Scots. He was accused of the murder of Mary's second husband, Henry Stuart, Lord Darnley, a charge of which he was acquitted. His marriage to Mary was controversial and divided the country; when he fled the growing rebellion to Norway, he was arrested and lived the rest of his life imprisoned in Denmark.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/James_Hepburn%2C_4th_Earl_of_Bothwell",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/George_Vertue%CB%90_The_Battle_Array_of_Carberry_Hill_near_Edinburgh_in_1567_%28c._1738%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/George_Vertue%CB%90_The_Battle_Array_of_Carberry_Hill_near_Edinburgh_in_1567_%28c._1738%29.jpg/330px-George_Vertue%CB%90_The_Battle_Array_of_Carberry_Hill_near_Edinburgh_in_1567_%28c._1738%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "george_vertueː_the_battle_array_of_carberry_hill_near_edinburgh_in_1567_(c._1738).jpg",
+          "width": 1024,
+          "height": 837,
+          "title": "Battle of Carberry Hill",
+          "description": "1567 battle in Scotland",
+          "extract": "The Battle of Carberry Hill took place on 15 June 1567, near Carberry Tower in East Lothian, a few miles east of Edinburgh, Scotland.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Carberry_Hill",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Mary, Queen of Scots",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mary%2C_Queen_of_Scots",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-15-2013-19891176",
+      "year": 2013,
+      "text": "A bomb explodes on a bus in the Pakistani city of Quetta, killing at least 25 people and wounding 22 others.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quetta_cantt.jpg/3840px-Quetta_cantt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quetta_cantt.jpg/330px-Quetta_cantt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "quetta_cantt.jpg",
+        "width": 5254,
+        "height": 2611,
+        "title": "Quetta",
+        "description": "Capital of Balochistan, Pakistan",
+        "extract": "Quetta is the capital and largest city of the Pakistani province of Balochistan. It is the ninth largest city in Pakistan with an estimated population of over 1.7 million in 2024. It is situated in the south-west of the country, lying in the Quetta Valley region surrounded by mountains on all sides. Quetta is at an average elevation of 1,680 metres above sea level, making it Pakistan's highest-altitude major city.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Quetta",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quetta_cantt.jpg/3840px-Quetta_cantt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Quetta_cantt.jpg/330px-Quetta_cantt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "quetta_cantt.jpg",
+          "width": 5254,
+          "height": 2611,
+          "title": "Quetta",
+          "description": "Capital of Balochistan, Pakistan",
+          "extract": "Quetta is the capital and largest city of the Pakistani province of Balochistan. It is the ninth largest city in Pakistan with an estimated population of over 1.7 million in 2024. It is situated in the south-west of the country, lying in the Quetta Valley region surrounded by mountains on all sides. Quetta is at an average elevation of 1,680 metres above sea level, making it Pakistan's highest-altitude major city.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Quetta",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "June 2013 Quetta attacks",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/June_2013_Quetta_attacks",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-15-1991-dc64ce0e",
+      "year": 1991,
+      "text": "An eruption of Mount Pinatubo (pictured) in the Philippines deposited large amounts of particulate matter into the atmosphere, enough to briefly lower global temperatures by about 0.5 °C (0.9 °F).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pinatubo_Ausbruch_1991.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pinatubo_Ausbruch_1991.jpg/330px-Pinatubo_Ausbruch_1991.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "pinatubo_ausbruch_1991.jpg",
+        "width": 1024,
+        "height": 1514,
+        "title": "1991 eruption of Mount Pinatubo",
+        "description": "Volcanic eruption in the Philippines",
+        "extract": "The 1991 eruption of Mount Pinatubo in the Philippines' Luzon Volcanic Arc was the second-largest volcanic eruption of the 20th century, behind only the 1912 eruption of Novarupta in Alaska. Eruptive activity began on April 2 as a series of phreatic explosions from a fissure that opened on the north side of Mount Pinatubo. Seismographs were set up and began monitoring the volcano for earthquakes. In late May, the number of seismic events under the volcano fluctuated from day-to-day. Beginning June 6, a swarm of progressively shallower earthquakes accompanied by inflationary tilt on the upper east flank of the mountain, culminated in the extrusion of a small lava dome.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1991_eruption_of_Mount_Pinatubo",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pinatubo_Ausbruch_1991.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Pinatubo_Ausbruch_1991.jpg/330px-Pinatubo_Ausbruch_1991.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pinatubo_ausbruch_1991.jpg",
+          "width": 1024,
+          "height": 1514,
+          "title": "1991 eruption of Mount Pinatubo",
+          "description": "Volcanic eruption in the Philippines",
+          "extract": "The 1991 eruption of Mount Pinatubo in the Philippines' Luzon Volcanic Arc was the second-largest volcanic eruption of the 20th century, behind only the 1912 eruption of Novarupta in Alaska. Eruptive activity began on April 2 as a series of phreatic explosions from a fissure that opened on the north side of Mount Pinatubo. Seismographs were set up and began monitoring the volcano for earthquakes. In late May, the number of seismic events under the volcano fluctuated from day-to-day. Beginning June 6, a swarm of progressively shallower earthquakes accompanied by inflationary tilt on the upper east flank of the mountain, culminated in the extrusion of a small lava dome.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1991_eruption_of_Mount_Pinatubo",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mt_Pinatubo_trekking_-_panoramio_%285%29.jpg/3840px-Mt_Pinatubo_trekking_-_panoramio_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mt_Pinatubo_trekking_-_panoramio_%285%29.jpg/330px-Mt_Pinatubo_trekking_-_panoramio_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mt_pinatubo_trekking_-_panoramio_(5).jpg",
+          "width": 4288,
+          "height": 2848,
+          "title": "Mount Pinatubo",
+          "description": "Active stratovolcano in Luzon, Philippines",
+          "extract": "Mount Pinatubo is an active stratovolcano in the Zambales Mountains in Luzon in the Philippines. Located on the tripoint of Zambales, Tarlac and Pampanga provinces, most people were unaware of its eruptive history before the pre-eruption volcanic activity in early 1991. Dense forests, which supported a population of several thousand indigenous Aetas, heavily eroded and obscured Pinatubo.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mount_Pinatubo",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/PM_and_a_human_hair.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/PM_and_a_human_hair.jpg/330px-PM_and_a_human_hair.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pm_and_a_human_hair.jpg",
+          "width": 1950,
+          "height": 1361,
+          "title": "Particulate matter",
+          "description": "Microscopic solid or liquid matter suspended in the Earth's atmosphere",
+          "extract": "Particulate matter (PM) or particulates are microscopic particles of solid or liquid matter suspended in the air. The combination of particulates and air is called an aerosol. Sources of particulate matter can be either natural or occur as a result of human activities. Particulates may adversely affect human health and impact climate and precipitation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Particulate_matter",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "1991 eruption of Mount Pinatubo",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1991_eruption_of_Mount_Pinatubo",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-15-1921-f3b11d45",
+      "year": 1921,
+      "text": "Bessie Coleman (pictured) became the first Black person to earn an international pilot's license from the Fédération Aéronautique Internationale.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bessie_Coleman_in_1923.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bessie_Coleman_in_1923.jpg/330px-Bessie_Coleman_in_1923.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bessie_coleman_in_1923.jpg",
+        "width": 2374,
+        "height": 3101,
+        "title": "Bessie Coleman",
+        "description": "Afro-Indigenous pioneer in aviation (1892–1926)",
+        "extract": "Elizabeth Coleman was an early American civil aviator. She was the first African-American woman and first Native American to hold a pilot license, and is the earliest known Black person to earn an international pilot's license. She earned her license from the Fédération Aéronautique Internationale on June 15, 1921.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bessie_Coleman",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bessie_Coleman_in_1923.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bessie_Coleman_in_1923.jpg/330px-Bessie_Coleman_in_1923.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bessie_coleman_in_1923.jpg",
+          "width": 2374,
+          "height": 3101,
+          "title": "Bessie Coleman",
+          "description": "Afro-Indigenous pioneer in aviation (1892–1926)",
+          "extract": "Elizabeth Coleman was an early American civil aviator. She was the first African-American woman and first Native American to hold a pilot license, and is the earliest known Black person to earn an international pilot's license. She earned her license from the Fédération Aéronautique Internationale on June 15, 1921.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bessie_Coleman",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Bessie Coleman",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bessie_Coleman",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-15-1944-f666d2c0",
+      "year": 1944,
+      "text": "World War II: The United States invades Saipan, capital of Japan's South Seas Mandate.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 45,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Marines_and_King_Kong_on_Saipan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marines_and_King_Kong_on_Saipan.jpg/330px-Marines_and_King_Kong_on_Saipan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "marines_and_king_kong_on_saipan.jpg",
+        "width": 1008,
+        "height": 814,
+        "title": "Battle of Saipan",
+        "description": "1944 battle during the Pacific Campaign of World War II",
+        "extract": "The Battle of Saipan was an amphibious assault launched by the United States against the Empire of Japan during the Pacific campaign of World War II between 15 June and 9 July 1944. The initial invasion triggered the Battle of the Philippine Sea, which effectively destroyed Japanese carrier-based airpower, and the battle resulted in the American capture of the island. Its occupation put the major cities of the Japanese home islands within the range of B-29 bombers, making them vulnerable to strategic bombing by the United States Army Air Forces. It also precipitated the resignation of Hideki Tōjō, the prime minister of Japan.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Saipan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Marines_and_King_Kong_on_Saipan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marines_and_King_Kong_on_Saipan.jpg/330px-Marines_and_King_Kong_on_Saipan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "marines_and_king_kong_on_saipan.jpg",
+          "width": 1008,
+          "height": 814,
+          "title": "Battle of Saipan",
+          "description": "1944 battle during the Pacific Campaign of World War II",
+          "extract": "The Battle of Saipan was an amphibious assault launched by the United States against the Empire of Japan during the Pacific campaign of World War II between 15 June and 9 July 1944. The initial invasion triggered the Battle of the Philippine Sea, which effectively destroyed Japanese carrier-based airpower, and the battle resulted in the American capture of the island. Its occupation put the major cities of the Japanese home islands within the range of B-29 bombers, making them vulnerable to strategic bombing by the United States Army Air Forces. It also precipitated the resignation of Hideki Tōjō, the prime minister of Japan.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Saipan",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Battle of Saipan",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Battle_of_Saipan",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "06-15-1940-d739fa66",
+      "year": 1940,
+      "text": "World War II: Operation Aerial begins: Allied troops start to evacuate France, following Germany's takeover of Paris and most of the nation.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 45,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+        "width": 798,
+        "height": 544,
+        "title": "World War II",
+        "description": "Global conflict from 1939 to 1945",
+        "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+          "width": 798,
+          "height": 544,
+          "title": "World War II",
+          "description": "Global conflict from 1939 to 1945",
+          "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "matilda_tanks_on_the_move_outside_the_perimeter_of_tobruk,_libya,_18_november_1941._e6600.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk,_Libya,_18_November_1941._E6600",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nagasakibomb.jpg/1280px-Nagasakibomb.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nagasakibomb.jpg/1280px-Nagasakibomb.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nagasakibomb.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Nagasakibomb",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "World War II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_II",
+      "relatedPagesCount": 2
+    }
+  ]
+}

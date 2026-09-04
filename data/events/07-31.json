@@ -1,0 +1,619 @@
+{
+  "date": {
+    "month": 7,
+    "day": 31,
+    "formatted": "07-31"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "07-31-2012-be5a1dce",
+      "year": 2012,
+      "text": "Michael Phelps breaks the record set in 1964 by Larisa Latynina for the most medals won at the Olympics.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg/330px-Michael_Phelps_Rio_Olympics_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "michael_phelps_rio_olympics_2016.jpg",
+        "width": 1094,
+        "height": 1446,
+        "title": "Michael Phelps",
+        "description": "American swimmer (born 1985)",
+        "extract": "Michael Fred Phelps II is an American former competitive swimmer. He won more Olympic medals than any other athlete, a total of 28 medals across four Olympic Games. Phelps also holds the all-time records for Olympic gold medals (23), Olympic gold medals in individual events (13), and Olympic medals in individual events (16). At the 2004 Summer Olympics in Athens, Phelps tied the record of eight medals of any color at a single Games, held by gymnast Alexander Dityatin, by winning six gold and two bronze medals. Four years later, when he won eight gold medals at the 2008 Beijing Games, he broke fellow American swimmer Mark Spitz's 1972 record of seven first-place finishes at any single Olympic Games. At the 2012 Summer Olympics in London, Phelps won four gold and two silver medals, and at the 2016 Summer Olympics in Rio de Janeiro, he won five gold medals and one silver. This made him the most successful athlete of the Games for the fourth Olympics in a row.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Michael_Phelps",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg/330px-Michael_Phelps_Rio_Olympics_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "michael_phelps_rio_olympics_2016.jpg",
+          "width": 1094,
+          "height": 1446,
+          "title": "Michael Phelps",
+          "description": "American swimmer (born 1985)",
+          "extract": "Michael Fred Phelps II is an American former competitive swimmer. He won more Olympic medals than any other athlete, a total of 28 medals across four Olympic Games. Phelps also holds the all-time records for Olympic gold medals (23), Olympic gold medals in individual events (13), and Olympic medals in individual events (16). At the 2004 Summer Olympics in Athens, Phelps tied the record of eight medals of any color at a single Games, held by gymnast Alexander Dityatin, by winning six gold and two bronze medals. Four years later, when he won eight gold medals at the 2008 Beijing Games, he broke fellow American swimmer Mark Spitz's 1972 record of seven first-place finishes at any single Olympic Games. At the 2012 Summer Olympics in London, Phelps won four gold and two silver medals, and at the 2016 Summer Olympics in Rio de Janeiro, he won five gold medals and one silver. This made him the most successful athlete of the Games for the fourth Olympics in a row.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Michael_Phelps",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Larisa_Latynina%2C_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Larisa_Latynina%2C_2010.jpg/330px-Larisa_Latynina%2C_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "larisa_latynina,_2010.jpg",
+          "width": 1228,
+          "height": 1708,
+          "title": "Larisa Latynina",
+          "description": "Russian gymnast (born 1934)",
+          "extract": "Larisa Semyonovna Latynina is a Ukrainian former artistic gymnast. Between 1956 and 1964 she won 14 individual Olympic medals and four team medals for the Soviet Union. She holds the record for the most Olympic gold medals by a female gymnast, with nine. Her total of 18 Olympic medals was a record for 48 years. She held the record for individual event medals for over 52 years, winning 14. She is credited with helping to establish the Soviet Union as a dominant force in gymnastics.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Larisa_Latynina",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Michael Phelps",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Michael_Phelps",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "07-31-1999-9a062e0a",
+      "year": 1999,
+      "text": "Discovery Program: Lunar Prospector: NASA intentionally crashes the spacecraft into the Moon, thus ending its mission to detect frozen water on the Moon's surface.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Properties_of_regolith_on_Eros.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Properties_of_regolith_on_Eros.jpg/330px-Properties_of_regolith_on_Eros.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "properties_of_regolith_on_eros.jpg",
+        "width": 375,
+        "height": 468,
+        "title": "Discovery Program",
+        "description": "Solar system exploration program by NASA",
+        "extract": "The Discovery Program is a series of Solar System exploration missions funded by the U.S. National Aeronautics and Space Administration (NASA) through its Planetary Missions Program Office. The cost of each mission is capped at a lower level than missions from NASA's New Frontiers or Flagship Programs. As a result, Discovery missions tend to be more focused on a specific scientific goal rather than serving a general purpose.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Discovery_Program",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Properties_of_regolith_on_Eros.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Properties_of_regolith_on_Eros.jpg/330px-Properties_of_regolith_on_Eros.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "properties_of_regolith_on_eros.jpg",
+          "width": 375,
+          "height": 468,
+          "title": "Discovery Program",
+          "description": "Solar system exploration program by NASA",
+          "extract": "The Discovery Program is a series of Solar System exploration missions funded by the U.S. National Aeronautics and Space Administration (NASA) through its Planetary Missions Program Office. The cost of each mission is capped at a lower level than missions from NASA's New Frontiers or Flagship Programs. As a result, Discovery missions tend to be more focused on a specific scientific goal rather than serving a general purpose.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Discovery_Program",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Discovery_program_website_header%2C_2016.png/500px-Discovery_program_website_header%2C_2016.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Discovery_program_website_header%2C_2016.png/500px-Discovery_program_website_header%2C_2016.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "discovery_program_website_header,_2016.png",
+          "width": 800,
+          "height": 600,
+          "title": "Header of the Discovery Program website (January 2016)[1]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Discovery_Program",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lucy_and_Psyche_discovery-missions_13_and_14-v3.jpg/1280px-Lucy_and_Psyche_discovery-missions_13_and_14-v3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Lucy_and_Psyche_discovery-missions_13_and_14-v3.jpg/1280px-Lucy_and_Psyche_discovery-missions_13_and_14-v3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "lucy_and_psyche_discovery-missions_13_and_14-v3.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Depictions of the Lucy and Psyche missions",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Discovery_Program",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Discovery Program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Discovery_Program",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "07-31-1992-92aee0a0",
+      "year": 1992,
+      "text": "Space Shuttle program: Atlantis is launched on STS-46 to deploy the European Retrievable Carrier and the Tethered Satellite System.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+        "width": 3697,
+        "height": 2217,
+        "title": "Space Shuttle Atlantis",
+        "description": "Space Shuttle orbiter (1985–2011)",
+        "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+          "width": 3697,
+          "height": 2217,
+          "title": "Space Shuttle Atlantis",
+          "description": "Space Shuttle orbiter (1985–2011)",
+          "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/STS-46_EURECA_deployment.jpg/3840px-STS-46_EURECA_deployment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/STS-46_EURECA_deployment.jpg/330px-STS-46_EURECA_deployment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-46_eureca_deployment.jpg",
+          "width": 4316,
+          "height": 2820,
+          "title": "STS-46",
+          "description": "1992 American crewed spaceflight to deploy EURECA and TSS-1",
+          "extract": "STS-46 was a NASA Space Shuttle mission using Atlantis and was launched on July 31, 1992, and landed on August 8, 1992.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-46",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Eureca_ESA382424.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Eureca_ESA382424.jpg/330px-Eureca_ESA382424.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "eureca_esa382424.jpg",
+          "width": 1145,
+          "height": 746,
+          "title": "European Retrievable Carrier",
+          "description": "ESA space science satellite",
+          "extract": "The European Retrievable Carrier (EURECA) was an uncrewed 4.5-tonne satellite with 15 experiments. It was a European Space Agency (ESA) mission and the acronym was derived from Archimedes' bathtub revelation \"Eureka!\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/European_Retrievable_Carrier",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "07-31-1971-6404e3c8",
+      "year": 1971,
+      "text": "Apollo program: The Apollo 15 astronauts become the first to ride in a lunar rover.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AS15-88-11866_-_Apollo_15_flag%2C_rover%2C_LM%2C_Irwin_-_restoration1.jpg/3840px-AS15-88-11866_-_Apollo_15_flag%2C_rover%2C_LM%2C_Irwin_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AS15-88-11866_-_Apollo_15_flag%2C_rover%2C_LM%2C_Irwin_-_restoration1.jpg/330px-AS15-88-11866_-_Apollo_15_flag%2C_rover%2C_LM%2C_Irwin_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "as15-88-11866_-_apollo_15_flag,_rover,_lm,_irwin_-_restoration1.jpg",
+        "width": 3953,
+        "height": 3953,
+        "title": "Apollo 15",
+        "description": "Fourth crewed Moon landing",
+        "extract": "Apollo 15 was the ninth crewed mission in the Apollo program and the fourth Moon landing. It was the first J mission, with a longer stay on the Moon and a greater focus on science than earlier landings. Apollo 15 saw the first use of the Lunar Roving Vehicle.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_15",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AS15-88-11866_-_Apollo_15_flag%2C_rover%2C_LM%2C_Irwin_-_restoration1.jpg/3840px-AS15-88-11866_-_Apollo_15_flag%2C_rover%2C_LM%2C_Irwin_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/AS15-88-11866_-_Apollo_15_flag%2C_rover%2C_LM%2C_Irwin_-_restoration1.jpg/330px-AS15-88-11866_-_Apollo_15_flag%2C_rover%2C_LM%2C_Irwin_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "as15-88-11866_-_apollo_15_flag,_rover,_lm,_irwin_-_restoration1.jpg",
+          "width": 3953,
+          "height": 3953,
+          "title": "Apollo 15",
+          "description": "Fourth crewed Moon landing",
+          "extract": "Apollo 15 was the ninth crewed mission in the Apollo program and the fourth Moon landing. It was the first J mission, with a longer stay on the Moon and a greater focus on science than earlier landings. Apollo 15 saw the first use of the Lunar Roving Vehicle.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_15",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/MoonLanderClem.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/MoonLanderClem.jpg/330px-MoonLanderClem.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "moonlanderclem.jpg",
+          "width": 3650,
+          "height": 2263,
+          "title": "Lunar rover",
+          "description": "Vehicle that travels on the Moon's surface",
+          "extract": "A lunar rover or Moon rover is a space exploration vehicle designed to move across the surface of the Moon. The Apollo program's Lunar Roving Vehicle was driven on the Moon by members of three American crews, Apollo 15, 16, and 17. Other rovers have been partially or fully autonomous robots, such as the Soviet Union's Lunokhods, Chinese Yutus, Indian Pragyan, and Japan's LEVs. Five countries have had operating rovers on the Moon: the Soviet Union, the United States, China, India, and Japan.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lunar_rover",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/1280px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/1280px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "a_man_on_the_moon,_as11-40-5903_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Buzz Aldrin (pictured) walked on the Moon with Neil Armstrong, on Apollo 11, July 20–21, 1969.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Apollo_program",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Apollo program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Apollo_program",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "07-31-1948-dfcd7d3b",
+      "year": 1948,
+      "text": "At Idlewild Field in New York, New York International Airport (later renamed John F. Kennedy International Airport) is dedicated.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/3840px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/330px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jfk_aerial_nov_14_2018.jpg",
+        "width": 4032,
+        "height": 3024,
+        "title": "John F. Kennedy International Airport",
+        "description": "International airport serving New York City",
+        "extract": "John F. Kennedy International Airport is the primary international airport serving the New York metropolitan area. It is located on the southwestern shore of Long Island, in Queens, New York City, bordering Jamaica Bay. It is the busiest of the three airports in the New York airport system, the sixth-busiest airport in the United States. The airport, which covers 5,200 acres (2,104 ha), is the largest in the New York metropolitan area. Nearly 100 airlines operate from JFK Airport, with nonstop or direct flights to destinations on all six permanently inhabited continents.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/3840px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/330px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jfk_aerial_nov_14_2018.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": "John F. Kennedy International Airport",
+          "description": "International airport serving New York City",
+          "extract": "John F. Kennedy International Airport is the primary international airport serving the New York metropolitan area. It is located on the southwestern shore of Long Island, in Queens, New York City, bordering Jamaica Bay. It is the busiest of the three airports in the New York airport system, the sixth-busiest airport in the United States. The airport, which covers 5,200 acres (2,104 ha), is the largest in the New York metropolitan area. Nearly 100 airlines operate from JFK Airport, with nonstop or direct flights to destinations on all six permanently inhabited continents.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "John F. Kennedy International Airport",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "07-31-1964-8fe7bd0c",
+      "year": 1964,
+      "text": "Ranger program: Ranger 7 sends back the first close-up photographs of the moon, with images 1,000 times clearer than anything ever seen from earth-bound telescopes.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 80,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/The_Ranger_Spacecraft_GPN-2000-001979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/The_Ranger_Spacecraft_GPN-2000-001979.jpg/330px-The_Ranger_Spacecraft_GPN-2000-001979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "the_ranger_spacecraft_gpn-2000-001979.jpg",
+        "width": 2466,
+        "height": 3008,
+        "title": "Ranger 7",
+        "description": "NASA lunar impactor (1964)",
+        "extract": "Ranger 7 was the first NASA space probe to successfully transmit close-up images of the lunar surface back to Earth. It was also the first completely successful flight of the Ranger program. Launched on July 28, 1964, Ranger 7 was designed to achieve a lunar-impact trajectory and to transmit high-resolution photographs of the lunar surface during the final minutes of flight up to impact.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ranger_7",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/The_Ranger_Spacecraft_GPN-2000-001979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/The_Ranger_Spacecraft_GPN-2000-001979.jpg/330px-The_Ranger_Spacecraft_GPN-2000-001979.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_ranger_spacecraft_gpn-2000-001979.jpg",
+          "width": 2466,
+          "height": 3008,
+          "title": "Ranger 7",
+          "description": "NASA lunar impactor (1964)",
+          "extract": "Ranger 7 was the first NASA space probe to successfully transmit close-up images of the lunar surface back to Earth. It was also the first completely successful flight of the Ranger program. Launched on July 28, 1964, Ranger 7 was designed to achieve a lunar-impact trajectory and to transmit high-resolution photographs of the lunar surface during the final minutes of flight up to impact.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ranger_7",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/330px-FullMoon2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fullmoon2010.jpg",
+          "width": 2580,
+          "height": 2452,
+          "title": "Moon",
+          "description": "Natural satellite orbiting Earth",
+          "extract": "The Moon is the only natural satellite of Earth. It orbits around Earth at an average distance of 384,399 kilometers (238,854 mi). Because the Moon follows an elliptical path, its distance from Earth varies over the year, ranging from 357,000–407,000 kilometers (222,000–253,000 mi). a distance roughly 30 times the width of Earth. It completes an orbit in relation to Earth and the Sun (synodically) every 29.5 days. The Moon and Earth are bound by gravitational attraction, which is stronger on the sides facing each other. The resulting tidal forces are the main driver of Earth's tides, and have pulled the Moon to always face Earth with the same near side. This tidal locking effectively synchronizes the Moon's rotation period to its orbital period.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Moon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/100inchHooker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/100inchHooker.jpg/330px-100inchHooker.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "100inchhooker.jpg",
+          "width": 554,
+          "height": 904,
+          "title": "Telescope",
+          "description": "Instrument that makes distant objects appear magnified",
+          "extract": "A telescope is a device used to observe distant objects by their emission, absorption, or reflection of electromagnetic radiation. Originally, it was an optical instrument using lenses, curved mirrors, or a combination of both to observe distant objects – an optical telescope. Nowadays, the word \"telescope\" is defined as a wide range of instruments capable of detecting different regions of the electromagnetic spectrum, and in some cases other types of detectors.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Telescope",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Ranger program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ranger_program",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "07-31-1973-411ccfaa",
+      "year": 1973,
+      "text": "A Delta Air Lines jetliner, flight DL 723, crashes while landing in fog at Logan International Airport, Boston, Massachusetts, killing 89.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/N510DN%40PEK_%2820190609140430%29.jpg/3840px-N510DN%40PEK_%2820190609140430%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/N510DN%40PEK_%2820190609140430%29.jpg/330px-N510DN%40PEK_%2820190609140430%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "n510dn@pek_(20190609140430).jpg",
+        "width": 4359,
+        "height": 2905,
+        "title": "Delta Air Lines",
+        "description": "Airline of the United States",
+        "extract": "Delta Air Lines, Inc. is a major airline in the United States headquartered in Atlanta, Georgia, operating nine hubs, with Hartsfield–Jackson Atlanta International Airport being its largest in terms of total passengers and number of departures. With its regional subsidiaries and contractors operating under the brand name Delta Connection, Delta has over 5,400 flights daily and serves 325 destinations in 52 countries on six continents.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Delta_Air_Lines",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/N510DN%40PEK_%2820190609140430%29.jpg/3840px-N510DN%40PEK_%2820190609140430%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/N510DN%40PEK_%2820190609140430%29.jpg/330px-N510DN%40PEK_%2820190609140430%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "n510dn@pek_(20190609140430).jpg",
+          "width": 4359,
+          "height": 2905,
+          "title": "Delta Air Lines",
+          "description": "Airline of the United States",
+          "extract": "Delta Air Lines, Inc. is a major airline in the United States headquartered in Atlanta, Georgia, operating nine hubs, with Hartsfield–Jackson Atlanta International Airport being its largest in terms of total passengers and number of departures. With its regional subsidiaries and contractors operating under the brand name Delta Connection, Delta has over 5,400 flights daily and serves 325 destinations in 52 countries on six continents.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Delta_Air_Lines",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Wreckage_of_Delta_Air_Lines_Flight_723.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Wreckage_of_Delta_Air_Lines_Flight_723.jpg/330px-Wreckage_of_Delta_Air_Lines_Flight_723.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wreckage_of_delta_air_lines_flight_723.jpg",
+          "width": 847,
+          "height": 1317,
+          "title": "Delta Air Lines Flight 723",
+          "description": "1973 aviation accident in Massachusetts",
+          "extract": "Delta Air Lines Flight 723 was a scheduled domestic passenger flight operated by a McDonnell Douglas DC-9 twin-engine jetliner, from Burlington, Vermont, to Logan International Airport in Boston, Massachusetts, with an intermediate stop in Manchester, New Hampshire. On July 31, 1973, at 11:08 a.m., while on an instrument landing system (ILS) instrument approach into Logan in low clouds and fog, the aircraft descended below the glidepath, struck a seawall, and crashed. All 89 of the occupants aboard were killed, including an initial survivor who died months after the crash—in the official report, that person was listed as a survivor with critical injuries, due to length of time between the accident and when he died.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Delta_Air_Lines_Flight_723",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Boston_Logan_International_Airport_on_Massachusetts_Bay_%28iss072e311839%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Boston_Logan_International_Airport_on_Massachusetts_Bay_%28iss072e311839%29_%28cropped%29.jpg/330px-Boston_Logan_International_Airport_on_Massachusetts_Bay_%28iss072e311839%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "boston_logan_international_airport_on_massachusetts_bay_(iss072e311839)_(cropped).jpg",
+          "width": 2812,
+          "height": 2286,
+          "title": "Logan International Airport",
+          "description": "Airport serving Boston, Massachusetts, US",
+          "extract": "General Edward Lawrence Logan International Airport — more commonly known as Boston Logan International Airport — is an international airport located mostly in East Boston, Massachusetts and partially in Winthrop, Massachusetts, United States. Covering 2,384 acres (965 ha), it has six runways and four passenger terminals, and employs an estimated 16,000 people. It is included in the Federal Aviation Administration (FAA) National Plan of Integrated Airport Systems in which it is categorized as a large hub primary commercial service facility.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Logan_International_Airport",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Delta Air Lines",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Delta_Air_Lines",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "07-31-2007-738d0d07",
+      "year": 2007,
+      "text": "The Troubles: Operation Banner, the British Armed Forces' operation in Northern Ireland, ended after 38 years with a military stalemate and ceasefire.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/3/38/British_Army_roadblock_1988.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/British_Army_roadblock_1988.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "british_army_roadblock_1988.jpg",
+        "width": 300,
+        "height": 182,
+        "title": "Operation Banner",
+        "description": "1969–2007 British military operation in Northern Ireland during the Troubles",
+        "extract": "Operation Banner was the operational name for the British Armed Forces' operation in Northern Ireland from 1969 to 2007, as part of the Troubles. It was the longest continuous deployment in British military history. The British Army was initially deployed, at the request of the unionist government of Northern Ireland, in response to the August 1969 riots. Its role was to support the Royal Ulster Constabulary (RUC) and to assert the authority of the British government in Northern Ireland. This involved counter-insurgency and supporting the police in carrying out internal security duties such as guarding key points, mounting checkpoints and patrols, carrying out raids and searches, riot control and bomb disposal. More than 300,000 soldiers served in Operation Banner. At the peak of the operation in the 1970s, about 21,000 British troops were deployed, most of them from Great Britain. As part of the operation, a new locally-recruited regiment was also formed: the Ulster Defence Regiment (UDR).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Banner",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/3/38/British_Army_roadblock_1988.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/British_Army_roadblock_1988.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "british_army_roadblock_1988.jpg",
+          "width": 300,
+          "height": 182,
+          "title": "Operation Banner",
+          "description": "1969–2007 British military operation in Northern Ireland during the Troubles",
+          "extract": "Operation Banner was the operational name for the British Armed Forces' operation in Northern Ireland from 1969 to 2007, as part of the Troubles. It was the longest continuous deployment in British military history. The British Army was initially deployed, at the request of the unionist government of Northern Ireland, in response to the August 1969 riots. Its role was to support the Royal Ulster Constabulary (RUC) and to assert the authority of the British government in Northern Ireland. This involved counter-insurgency and supporting the police in carrying out internal security duties such as guarding key points, mounting checkpoints and patrols, carrying out raids and searches, riot control and bomb disposal. More than 300,000 soldiers served in Operation Banner. At the peak of the operation in the 1970s, about 21,000 British troops were deployed, most of them from Great Britain. As part of the operation, a new locally-recruited regiment was also formed: the Ulster Defence Regiment (UDR).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Banner",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "The Troubles",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Troubles",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "07-31-2006-171dbe95",
+      "year": 2006,
+      "text": "Following intestinal surgery, Fidel Castro provisionally transferred the duties of the Cuban presidency to his brother Raúl.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Fidel_Castro%2C_Prime_Minister_of_Cuba._Castro_at_the_United_Nations%2C_New_York_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Fidel_Castro%2C_Prime_Minister_of_Cuba._Castro_at_the_United_Nations%2C_New_York_%283x4_cropped%29.jpg/330px-Fidel_Castro%2C_Prime_Minister_of_Cuba._Castro_at_the_United_Nations%2C_New_York_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "fidel_castro,_prime_minister_of_cuba._castro_at_the_united_nations,_new_york_(3x4_cropped).jpg",
+        "width": 1716,
+        "height": 2286,
+        "title": "Fidel Castro",
+        "description": "Leader of Cuba from 1959 to 2011",
+        "extract": "Fidel Alejandro Castro Ruz was a Cuban communist revolutionary and politician who was the leader of Cuba from 1959 to 2011. He served as prime minister from 1959 to 1976, president from 1976 to 2008, and first secretary of the Communist Party of Cuba from 1965 until 2011. Ideologically a Marxist–Leninist and Cuban nationalist, under his administration Cuba became a one-party communist state; industry and business were nationalized, and socialist reforms were implemented throughout society.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Fidel_Castro%2C_Prime_Minister_of_Cuba._Castro_at_the_United_Nations%2C_New_York_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Fidel_Castro%2C_Prime_Minister_of_Cuba._Castro_at_the_United_Nations%2C_New_York_%283x4_cropped%29.jpg/330px-Fidel_Castro%2C_Prime_Minister_of_Cuba._Castro_at_the_United_Nations%2C_New_York_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fidel_castro,_prime_minister_of_cuba._castro_at_the_united_nations,_new_york_(3x4_cropped).jpg",
+          "width": 1716,
+          "height": 2286,
+          "title": "Fidel Castro",
+          "description": "Leader of Cuba from 1959 to 2011",
+          "extract": "Fidel Alejandro Castro Ruz was a Cuban communist revolutionary and politician who was the leader of Cuba from 1959 to 2011. He served as prime minister from 1959 to 1976, president from 1976 to 2008, and first secretary of the Communist Party of Cuba from 1965 until 2011. Ideologically a Marxist–Leninist and Cuban nationalist, under his administration Cuba became a one-party communist state; industry and business were nationalized, and socialist reforms were implemented throughout society.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Raul-castro-2015_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Raul-castro-2015_%28cropped%29%282%29.jpg/330px-Raul-castro-2015_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "raul-castro-2015_(cropped)(2).jpg",
+          "width": 419,
+          "height": 582,
+          "title": "Raúl Castro",
+          "description": "First Secretary of the Communist Party of Cuba from 2011 to 2021",
+          "extract": "Raúl Modesto Castro Ruz is a Cuban politician, general, and revolutionary who served as the first secretary of the Communist Party of Cuba, the most senior position in the one-party communist state, from 2011 to 2021, and President of Cuba between 2008 and 2018, succeeding his brother Fidel Castro; he is still considered the de facto leader of the country by some commentators.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Castro",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fidel_Castro%E2%80%99s_Parents.jpg/500px-Fidel_Castro%E2%80%99s_Parents.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fidel_Castro%E2%80%99s_Parents.jpg/500px-Fidel_Castro%E2%80%99s_Parents.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "fidel_castro’s_parents.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Fidel's parents, Ángel Castro y Argiz and Lina Ruz González",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Fidel Castro",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Fidel_Castro",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "07-31-2002-5355eedd",
+      "year": 2002,
+      "text": "Hamas attackers detonated a bomb at the Mount Scopus campus of the Hebrew University of Jerusalem, killing nine students and injuring about 100 more.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/HebrewU-MtScopus.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HebrewU-MtScopus.JPG/330px-HebrewU-MtScopus.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hebrewu-mtscopus.jpg",
+        "width": 2519,
+        "height": 1836,
+        "title": "Hebrew University bombing",
+        "description": "2002 Hamas bombing in Jerusalem",
+        "extract": "The Hebrew University bombing, also called the Hebrew University massacre, was carried out by the Palestinian militant group Hamas on 31 July 2002 in a cafeteria at the Mount Scopus campus of the Hebrew University of Jerusalem. The attack killed 9 people, including 5 U.S. students, and injured about 100. It was carried out by an East Jerusalem-based Hamas cell whose members are serving multiple life sentences in Israeli prisons for that attack and others. The attack, which reportedly sparked a celebration among “hundreds of Hamas supporters” in Gaza City, was condemned by United Nations Secretary General Kofi Annan and several countries.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hebrew_University_bombing",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/HebrewU-MtScopus.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HebrewU-MtScopus.JPG/330px-HebrewU-MtScopus.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hebrewu-mtscopus.jpg",
+          "width": 2519,
+          "height": 1836,
+          "title": "Hebrew University bombing",
+          "description": "2002 Hamas bombing in Jerusalem",
+          "extract": "The Hebrew University bombing, also called the Hebrew University massacre, was carried out by the Palestinian militant group Hamas on 31 July 2002 in a cafeteria at the Mount Scopus campus of the Hebrew University of Jerusalem. The attack killed 9 people, including 5 U.S. students, and injured about 100. It was carried out by an East Jerusalem-based Hamas cell whose members are serving multiple life sentences in Israeli prisons for that attack and others. The attack, which reportedly sparked a celebration among “hundreds of Hamas supporters” in Gaza City, was condemned by United Nations Secretary General Kofi Annan and several countries.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hebrew_University_bombing",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MountScopusNov102022.jpg/3840px-MountScopusNov102022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/MountScopusNov102022.jpg/330px-MountScopusNov102022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mountscopusnov102022.jpg",
+          "width": 4000,
+          "height": 2668,
+          "title": "Mount Scopus",
+          "description": "Mountain in northeast Jerusalem",
+          "extract": "Mount Scopus is a mountain located in Jerusalem with an elevation of 826 meters (2,710 ft) above sea level. Between the 1948 Arab–Israeli War and the 1967 Arab–Israeli War, it was an internationally protected exclave of Israel within Jordan, as it was geographically part of Jordan's East Jerusalem, but politically part of Israel's West Jerusalem. It is home to the main campus of the Hebrew University of Jerusalem and Hadassah Medical Center. Since the collapse of the City Line in 1967, the area now lies within Jerusalem's Israeli municipal boundaries.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mount_Scopus",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Hamas",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Hamas",
+      "relatedPagesCount": 4
+    }
+  ]
+}

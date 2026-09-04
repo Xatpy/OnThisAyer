@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 12,
+    "day": 3,
+    "formatted": "12-03"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "12-03-1999-e902d67c",
+      "year": 1999,
+      "text": "NASA lost contact with the Mars Polar Lander moments before it reached the atmosphere of Mars and disappeared.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mars_Polar_Lander_-_artist_depiction.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mars_Polar_Lander_-_artist_depiction.png/330px-Mars_Polar_Lander_-_artist_depiction.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mars_polar_lander_-_artist_depiction.png",
+        "width": 2945,
+        "height": 2391,
+        "title": "Mars Polar Lander",
+        "description": "Failed NASA Mars lander (1999)",
+        "extract": "The Mars Polar Lander, also known as the Mars Surveyor '98 Lander, was a 290-kilogram uncrewed spacecraft lander launched by NASA on January 3, 1999, to study the soil and climate of Planum Australe, a region near the south pole on Mars. It formed part of the Mars Surveyor '98 mission. On December 3, 1999, however, after the descent phase was expected to be complete, the lander failed to reestablish communication with Earth. A post-mortem analysis determined the most likely cause of the mishap was premature termination of the engine firing prior to the lander touching the surface, causing it to strike the planet at a high velocity.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Polar_Lander",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mars_Polar_Lander_-_artist_depiction.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mars_Polar_Lander_-_artist_depiction.png/330px-Mars_Polar_Lander_-_artist_depiction.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mars_polar_lander_-_artist_depiction.png",
+          "width": 2945,
+          "height": 2391,
+          "title": "Mars Polar Lander",
+          "description": "Failed NASA Mars lander (1999)",
+          "extract": "The Mars Polar Lander, also known as the Mars Surveyor '98 Lander, was a 290-kilogram uncrewed spacecraft lander launched by NASA on January 3, 1999, to study the soil and climate of Planum Australe, a region near the south pole on Mars. It formed part of the Mars Surveyor '98 mission. On December 3, 1999, however, after the descent phase was expected to be complete, the lander failed to reestablish communication with Earth. A post-mortem analysis determined the most likely cause of the mishap was premature termination of the engine firing prior to the lander touching the surface, causing it to strike the planet at a high velocity.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Polar_Lander",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mars_-_august_30_2021_-_flickr_-_kevin_m._gill.png",
+          "width": 1558,
+          "height": 1558,
+          "title": "Mars",
+          "description": "Fourth planet from the Sun",
+          "extract": "Mars is the fourth planet from the Sun. It is also known as the \"Red Planet\", for its orange-red appearance. Mars is a desert-like rocky planet with a tenuous atmosphere that is primarily carbon dioxide. At the average surface level the atmospheric pressure is a few thousandths of Earth's, atmospheric temperature ranges from −153 to 20 °C, and cosmic radiation is high. Mars retains some water, in the ground as well as thinly in the atmosphere, forming cirrus clouds, fog, frost, larger polar regions of permafrost and ice caps, but no bodies of liquid surface water. Its surface gravity is roughly a third of Earth's or double that of the Moon. Its mean diameter, 6,779 km (4,212 mi), is about half the Earth's, or twice the Moon's, and its surface area is the size of all the dry land of Earth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-03-1994-d8582a7f",
+      "year": 1994,
+      "text": "Sony released the PlayStation, the first computer entertainment platform to ship 100 million units.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Sony_Interactive_Entertainment_San_Mateo.jpg/3840px-Sony_Interactive_Entertainment_San_Mateo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Sony_Interactive_Entertainment_San_Mateo.jpg/330px-Sony_Interactive_Entertainment_San_Mateo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sony_interactive_entertainment_san_mateo.jpg",
+        "width": 5184,
+        "height": 3144,
+        "title": "Sony Interactive Entertainment",
+        "description": "American digital entertainment company owned by Sony",
+        "extract": "Sony Interactive Entertainment LLC (SIE) is an American, Japanese-owned, video game and digital entertainment company of Japanese conglomerate Sony Group Corporation. It primarily operates the PlayStation brand of video game consoles and products. It is also the world's largest company in the video game industry based on its equity investments and revenue.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Sony_Interactive_Entertainment_San_Mateo.jpg/3840px-Sony_Interactive_Entertainment_San_Mateo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Sony_Interactive_Entertainment_San_Mateo.jpg/330px-Sony_Interactive_Entertainment_San_Mateo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sony_interactive_entertainment_san_mateo.jpg",
+          "width": 5184,
+          "height": 3144,
+          "title": "Sony Interactive Entertainment",
+          "description": "American digital entertainment company owned by Sony",
+          "extract": "Sony Interactive Entertainment LLC (SIE) is an American, Japanese-owned, video game and digital entertainment company of Japanese conglomerate Sony Group Corporation. It primarily operates the PlayStation brand of video game consoles and products. It is also the world's largest company in the video game industry based on its equity investments and revenue.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Sony Interactive Entertainment",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Sony_Interactive_Entertainment",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-03-1973-4369e275",
+      "year": 1973,
+      "text": "Pioneer program: Pioneer 10 sends back the first close-up images of Jupiter.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pioneer_family.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pioneer_family.jpg/330px-Pioneer_family.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "pioneer_family.jpg",
+        "width": 2432,
+        "height": 1584,
+        "title": "Pioneer program",
+        "description": "Series of United States uncrewed lunar and planetary space probes (1958-60; 1965-92)",
+        "extract": "The Pioneer programs were two series of United States lunar and planetary space probes. The first program, which ran from 1958 to 1960, unsuccessfully attempted to send spacecraft to orbit the Moon, successfully sent one spacecraft to fly by the Moon, and successfully sent one spacecraft to investigate interplanetary space between the orbits of Earth and Venus. The second program, which ran from 1965 to 1992, sent four spacecraft to measure interplanetary space weather, two to explore Jupiter and Saturn, and two to explore Venus. The two outer planet probes, Pioneer 10 and Pioneer 11, became the first two of five artificial objects to achieve the escape velocity that will allow them to leave the Solar System, and carried a golden plaque each depicting a man and a woman and information about the origin and the creators of the probes, in case any extraterrestrials find them someday.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pioneer_program",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pioneer_family.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pioneer_family.jpg/330px-Pioneer_family.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pioneer_family.jpg",
+          "width": 2432,
+          "height": 1584,
+          "title": "Pioneer program",
+          "description": "Series of United States uncrewed lunar and planetary space probes (1958-60; 1965-92)",
+          "extract": "The Pioneer programs were two series of United States lunar and planetary space probes. The first program, which ran from 1958 to 1960, unsuccessfully attempted to send spacecraft to orbit the Moon, successfully sent one spacecraft to fly by the Moon, and successfully sent one spacecraft to investigate interplanetary space between the orbits of Earth and Venus. The second program, which ran from 1965 to 1992, sent four spacecraft to measure interplanetary space weather, two to explore Jupiter and Saturn, and two to explore Venus. The two outer planet probes, Pioneer 10 and Pioneer 11, became the first two of five artificial objects to achieve the escape velocity that will allow them to leave the Solar System, and carried a golden plaque each depicting a man and a woman and information about the origin and the creators of the probes, in case any extraterrestrials find them someday.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pioneer_program",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/An_artist%27s_impression_of_a_Pioneer_spacecraft_on_its_way_to_interstellar_space.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/An_artist%27s_impression_of_a_Pioneer_spacecraft_on_its_way_to_interstellar_space.jpg/330px-An_artist%27s_impression_of_a_Pioneer_spacecraft_on_its_way_to_interstellar_space.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "an_artist's_impression_of_a_pioneer_spacecraft_on_its_way_to_interstellar_space.jpg",
+          "width": 3000,
+          "height": 2477,
+          "title": "Pioneer 10",
+          "description": "First spacecraft to visit Jupiter and the outer Solar System (1972–2003)",
+          "extract": "Pioneer 10 is a NASA space probe launched in 1972 that completed the first mission to the planet Jupiter. It was the first spacecraft to traverse the asteroid belt and the first of five artificial objects to achieve the escape velocity needed to leave the Solar System. The mission was managed by NASA Ames Research Center in California, and the spacecraft was built by TRW Inc.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pioneer_10",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter_OPAL_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Jupiter_OPAL_2024.png/330px-Jupiter_OPAL_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jupiter_opal_2024.png",
+          "width": 1810,
+          "height": 1639,
+          "title": "Jupiter",
+          "description": "Fifth planet from the Sun",
+          "extract": "Jupiter is the fifth planet from the Sun, and the largest in the Solar System. It is a gas giant with a mass nearly 2.5 times that of all the other planets in the Solar System combined and slightly less than one-thousandth the mass of the Sun. The diameter of Jupiter is 11 times that of Earth and a tenth that of the Sun. It orbits the Sun at a distance of 5.20 AU (778.5 Gm), with an orbital period of 11.86 years. Jupiter is the third-brightest natural object in the Earth's night sky, after the Moon and Venus, and has been observed since prehistoric times. Its name derives from that of Jupiter, the chief deity of ancient Roman religion.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jupiter",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Pioneer program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Pioneer_program",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-03-1968-a1494fec",
+      "year": 1968,
+      "text": "American singer Elvis Presley's first television special and first live performance in seven years, Singer Presents ... Elvis, was broadcast by NBC.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "elvis_presley_promoting_jailhouse_rock.jpg",
+        "width": 2673,
+        "height": 3448,
+        "title": "Elvis Presley",
+        "description": "American singer and actor (1935–1977)",
+        "extract": "Elvis Aaron Presley was an American singer and actor. Referred to as the \"King of Rock and Roll\", he is widely regarded as one of the most culturally significant figures of the 20th century. Presley's energetic and sexually provocative performance style, combined with a mixture of influences across color lines during a transformative era in race relations, brought both great success and initial controversy.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "elvis_presley_promoting_jailhouse_rock.jpg",
+          "width": 2673,
+          "height": 3448,
+          "title": "Elvis Presley",
+          "description": "American singer and actor (1935–1977)",
+          "extract": "Elvis Aaron Presley was an American singer and actor. Referred to as the \"King of Rock and Roll\", he is widely regarded as one of the most culturally significant figures of the 20th century. Presley's energetic and sexually provocative performance style, combined with a mixture of influences across color lines during a transformative era in race relations, brought both great success and initial controversy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/43/Singer_Presents_ELVIS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/43/Singer_Presents_ELVIS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "singer_presents_elvis.jpg",
+          "width": 261,
+          "height": 382,
+          "title": "Elvis (1968 TV program)",
+          "description": "1968 American television special",
+          "extract": "Singer Presents ... Elvis, commonly referred to as the '68 Comeback Special, is an Elvis Presley concert television special that aired on NBC on December 3, 1968. It marked Presley's return to live performance after a seven-year period during which he focused on his film appearances.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elvis_(1968_TV_program)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Elvis%27_birthplace_Tupelo%2C_MS_2007.jpg/1280px-Elvis%27_birthplace_Tupelo%2C_MS_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Elvis%27_birthplace_Tupelo%2C_MS_2007.jpg/1280px-Elvis%27_birthplace_Tupelo%2C_MS_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "elvis'_birthplace_tupelo,_ms_2007.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Presley's birthplace in Tupelo, Mississippi",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Elvis Presley",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-03-1927-00511a6c",
+      "year": 1927,
+      "text": "Putting Pants on Philip, the first official film featuring the British-American comedy duo Laurel and Hardy, was released.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/L%26H_Putting_Pants_on_Philip_1927.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/L%26H_Putting_Pants_on_Philip_1927.jpg/330px-L%26H_Putting_Pants_on_Philip_1927.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "l&h_putting_pants_on_philip_1927.jpg",
+        "width": 600,
+        "height": 894,
+        "title": "Putting Pants on Philip",
+        "description": "1927 silent comedy short film by Clyde Bruckman",
+        "extract": "Putting Pants On Philip is a silent short film starring British/American comedy duo Laurel and Hardy. Made in 1927, the short is identified by Wes D. Gehring as the actors' first \"official\" film together as a team.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Putting_Pants_on_Philip",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/L%26H_Putting_Pants_on_Philip_1927.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/L%26H_Putting_Pants_on_Philip_1927.jpg/330px-L%26H_Putting_Pants_on_Philip_1927.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "l&h_putting_pants_on_philip_1927.jpg",
+          "width": 600,
+          "height": 894,
+          "title": "Putting Pants on Philip",
+          "description": "1927 silent comedy short film by Clyde Bruckman",
+          "extract": "Putting Pants On Philip is a silent short film starring British/American comedy duo Laurel and Hardy. Made in 1927, the short is identified by Wes D. Gehring as the actors' first \"official\" film together as a team.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Putting_Pants_on_Philip",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Stan_Laurel_and_Oliver_Hardy_-_1938.jpg/3840px-Stan_Laurel_and_Oliver_Hardy_-_1938.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Stan_Laurel_and_Oliver_Hardy_-_1938.jpg/330px-Stan_Laurel_and_Oliver_Hardy_-_1938.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "stan_laurel_and_oliver_hardy_-_1938.jpg",
+          "width": 4901,
+          "height": 3713,
+          "title": "Laurel and Hardy",
+          "description": "English-American comedy duo",
+          "extract": "Laurel and Hardy were a double act from 1927 to 1955, consisting of Englishman Stan Laurel (1890–1965) and American Oliver Hardy (1892–1957). Starting their career as a team in the silent film era, they transitioned easily to the new talking pictures and became internationally famous for their slapstick comedy. Laurel's character was clumsy and childlike; Hardy's was domineering and genteel, but both were inseparable friends. Their theme song, known variously as \"The Cuckoo Song\", \"Ku-Ku\", or \"The Dance of the Cuckoos\" was heard over their films' opening credits, and became as identified with them as their derby hats.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Laurel_and_Hardy",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Putting Pants on Philip",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Putting_Pants_on_Philip",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-03-1989-b149f408",
+      "year": 1989,
+      "text": "In a meeting off the coast of Malta, U.S. President George H. W. Bush and Soviet General Secretary Mikhail Gorbachev release statements indicating that the Cold War between NATO and the Warsaw Pact may be coming to an end.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg/330px-George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "george_h._w._bush_presidential_portrait_(cropped)_(2).jpg",
+        "width": 1600,
+        "height": 2015,
+        "title": "George H. W. Bush",
+        "description": "President of the United States from 1989 to 1993",
+        "extract": "George Herbert Walker Bush was the 41st president of the United States, serving from 1989 to 1993. A member of the Republican Party, he served as the 43rd vice president under Ronald Reagan. His son, George W. Bush, served as the 43rd president.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/George_H._W._Bush",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg/330px-George_H._W._Bush_presidential_portrait_%28cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "george_h._w._bush_presidential_portrait_(cropped)_(2).jpg",
+          "width": 1600,
+          "height": 2015,
+          "title": "George H. W. Bush",
+          "description": "President of the United States from 1989 to 1993",
+          "extract": "George Herbert Walker Bush was the 41st president of the United States, serving from 1989 to 1993. A member of the Republican Party, he served as the 43rd vice president under Ronald Reagan. His son, George W. Bush, served as the 43rd president.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/George_H._W._Bush",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg/330px-RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rian_archive_850809_general_secretary_of_the_cpsu_cc_m._gorbachev_(crop).jpg",
+          "width": 480,
+          "height": 640,
+          "title": "Mikhail Gorbachev",
+          "description": "Leader of the Soviet Union from 1985 to 1991",
+          "extract": "Mikhail Sergeyevich Gorbachev was a Soviet and Russian politician who was the last leader of the Soviet Union from 1985 until the country's dissolution in 1991. He served as General Secretary of the Communist Party from 1985, and additionally as head of state from 1988. Ideologically, he initially adhered to Marxism–Leninism, but moved towards social democracy by the early 1990s.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mikhail_Gorbachev",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mikhail_Gorbachev%2C_Reykjav%C3%ADk_summit%2C_1986_%283x4_cropped%29.jpg/500px-Mikhail_Gorbachev%2C_Reykjav%C3%ADk_summit%2C_1986_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mikhail_Gorbachev%2C_Reykjav%C3%ADk_summit%2C_1986_%283x4_cropped%29.jpg/500px-Mikhail_Gorbachev%2C_Reykjav%C3%ADk_summit%2C_1986_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "mikhail_gorbachev,_reykjavík_summit,_1986_(3x4_cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Mikhail_Gorbachev,_Reykjavík_summit,_1986_(3x4_cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Malta_Summit",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Malta Summit",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Malta_Summit",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "12-03-2014-41a88fcf",
+      "year": 2014,
+      "text": "The Japanese space agency, JAXA, launches the space explorer Hayabusa2 from the Tanegashima Space Center on a six-year round trip mission to an asteroid to collect rock samples.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hayabusa2_Ion_thruster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hayabusa2_Ion_thruster.jpg/330px-Hayabusa2_Ion_thruster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hayabusa2_ion_thruster.jpg",
+        "width": 3840,
+        "height": 2160,
+        "title": "Hayabusa2",
+        "description": "Japanese space mission to asteroid Ryugu",
+        "extract": "Hayabusa2  is an asteroid sample-return mission operated by the Japanese state space agency JAXA. It is a successor to the Hayabusa mission, which returned asteroid samples for the first time in June 2010. Hayabusa2 was launched on 3 December 2014 and rendezvoused in space with near-Earth asteroid 162173 Ryugu on 27 June 2018. It surveyed the asteroid for a year and a half and took samples. It left the asteroid in November 2019 and returned the samples to Earth on 5 December 2020 UTC. Its mission was extended through at least 2031, during which it flew by the asteroid 98943 Torifune in July 2026, and has a planned rendezvous with the small, rapidly rotating asteroid 1998 KY26 in July 2031.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hayabusa2",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hayabusa2_Ion_thruster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Hayabusa2_Ion_thruster.jpg/330px-Hayabusa2_Ion_thruster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hayabusa2_ion_thruster.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": "Hayabusa2",
+          "description": "Japanese space mission to asteroid Ryugu",
+          "extract": "Hayabusa2  is an asteroid sample-return mission operated by the Japanese state space agency JAXA. It is a successor to the Hayabusa mission, which returned asteroid samples for the first time in June 2010. Hayabusa2 was launched on 3 December 2014 and rendezvoused in space with near-Earth asteroid 162173 Ryugu on 27 June 2018. It surveyed the asteroid for a year and a half and took samples. It left the asteroid in November 2019 and returned the samples to Earth on 5 December 2020 UTC. Its mission was extended through at least 2031, during which it flew by the asteroid 98943 Torifune in July 2026, and has a planned rendezvous with the small, rapidly rotating asteroid 1998 KY26 in July 2031.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hayabusa2",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Osaki_Range.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Osaki_Range.jpg/330px-Osaki_Range.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "osaki_range.jpg",
+          "width": 3072,
+          "height": 2048,
+          "title": "Tanegashima Space Center",
+          "description": "Rocket-launch complex in Japan",
+          "extract": "The Tanegashima Space Center (TNSC) is Japan's primary spaceport, covering approximately about 9.7 million square metres. It is located on the southeastern tip of Tanegashima, the easternmost of the Ōsumi Islands, approximately 40 kilometers (25 mi) south of the major island of Kyushu.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tanegashima_Space_Center",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/162173_Ryugu_brightened.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/162173_Ryugu_brightened.png/330px-162173_Ryugu_brightened.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "162173_ryugu_brightened.png",
+          "width": 1167,
+          "height": 1167,
+          "title": "162173 Ryugu",
+          "description": "Apollo asteroid",
+          "extract": "162173 Ryugu (provisional designation 1999 JU3) is a near-Earth object and also a potentially hazardous asteroid of the Apollo group. It measures approximately 900 metres (3,000 ft) in diameter and is a dark object of the rare spectral type Cb, with qualities of both a C-type asteroid and a B-type asteroid. In June 2018, the Japanese spacecraft Hayabusa2 arrived at the asteroid. After making measurements and taking samples, Hayabusa2 left Ryugu for Earth in November 2019 and returned the sample capsule to Earth on 5 December 2020. The samples showed the presence of organic compounds, such as uracil (one of the four components in RNA) and vitamin B3.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/162173_Ryugu",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "JAXA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/JAXA",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "12-03-1976-8bf6d2cc",
+      "year": 1976,
+      "text": "Jamaican reggae musician Bob Marley survived an assassination attempt by seven gunmen in Kingston.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bob-Marley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bob-Marley.jpg/330px-Bob-Marley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bob-marley.jpg",
+        "width": 500,
+        "height": 744,
+        "title": "Reggae",
+        "description": "Music genre",
+        "extract": "Reggae is a music genre that originated in Jamaica in the late 1960s. The term also refers to the modern popular music of Jamaica and its diaspora. The 1968 single by Toots and the Maytals titled \"Do the Reggay\" was the first popular song to use the word reggae, effectively naming the genre and introducing it to a global audience.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Reggae",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bob-Marley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bob-Marley.jpg/330px-Bob-Marley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bob-marley.jpg",
+          "width": 500,
+          "height": 744,
+          "title": "Reggae",
+          "description": "Music genre",
+          "extract": "Reggae is a music genre that originated in Jamaica in the late 1960s. The term also refers to the modern popular music of Jamaica and its diaspora. The 1968 single by Toots and the Maytals titled \"Do the Reggay\" was the first popular song to use the word reggae, effectively naming the genre and introducing it to a global audience.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Reggae",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bob_Marley_circa_1976_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bob_Marley_circa_1976_%28cropped%29.jpg/330px-Bob_Marley_circa_1976_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bob_marley_circa_1976_(cropped).jpg",
+          "width": 1338,
+          "height": 1784,
+          "title": "Bob Marley",
+          "description": "Jamaican reggae musician (1945–1981)",
+          "extract": "Robert Nesta Marley was a Jamaican reggae singer, songwriter, and guitarist. Considered one of the pioneers of the genre, he was renowned for his distinctive vocal and songwriting style. Marley increased the visibility of Jamaican music worldwide and became a global figure in popular culture. He became known as a Rastafarian icon, and he infused his music with a sense of spirituality. Marley is also considered a global symbol of Jamaican music, culture and identity and was controversial in his outspoken support for democratic social reforms. Marley also supported the legalisation of cannabis and advocated for pan-Africanism.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bob_Marley",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bob_Marley_1976_press_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bob_Marley_1976_press_photo.jpg/330px-Bob_Marley_1976_press_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bob_marley_1976_press_photo.jpg",
+          "width": 655,
+          "height": 862,
+          "title": "Attempted assassination of Bob Marley",
+          "description": "1976 assassination attempt on Bob Marley",
+          "extract": "On 3 December 1976, seven armed men raided the residence of reggae musician Bob Marley in Kingston, Jamaica, two days before Marley was to stage the Smile Jamaica Concert in an attempt to quell recent violence. Politicians from across the political spectrum hoped to capitalize on Marley's support. While Marley remained neutral, many viewed him as tacitly supporting the prime minister Michael Manley and his democratic socialist People's National Party (PNP). Marley and four others were shot, but all survived.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Attempted_assassination_of_Bob_Marley",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Reggae",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Reggae",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "12-03-1971-b7377077",
+      "year": 1971,
+      "text": "With the Pakistani Air Force launching the unsuccessful pre-emptive airstrikes on several forward Indian Air Force airbases and radar installations, the 1971 India-Pakistan War begins and India also joins the Bangladesh Liberation War, siding with Bangladesh.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Indian_Air_Force_Crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Indian_Air_Force_Crest.png/330px-Indian_Air_Force_Crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "indian_air_force_crest.png",
+        "width": 3464,
+        "height": 3464,
+        "title": "Indian Air Force",
+        "description": "Aerial service branch of the Indian Armed Forces",
+        "extract": "The Indian Air Force (IAF) is the air arm of the Indian Armed Forces. Its primary mission is to secure Indian airspace and to conduct aerial warfare during armed conflicts. It was officially established on 8 October 1932 as an auxiliary air force of British India which honoured India's aviation service during World War II.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Indian_Air_Force",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Indian_Air_Force_Crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Indian_Air_Force_Crest.png/330px-Indian_Air_Force_Crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "indian_air_force_crest.png",
+          "width": 3464,
+          "height": 3464,
+          "title": "Indian Air Force",
+          "description": "Aerial service branch of the Indian Armed Forces",
+          "extract": "The Indian Air Force (IAF) is the air arm of the Indian Armed Forces. Its primary mission is to secure Indian airspace and to conduct aerial warfare during armed conflicts. It was officially established on 8 October 1932 as an auxiliary air force of British India which honoured India's aviation service during World War II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Indian_Air_Force",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/1971_Instrument_of_Surrender.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/1971_Instrument_of_Surrender.jpg/330px-1971_Instrument_of_Surrender.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1971_instrument_of_surrender.jpg",
+          "width": 936,
+          "height": 666,
+          "title": "India–Pakistan war of 1971",
+          "description": "Military confrontation between India and Pakistan alongside the Bangladesh Liberation War",
+          "extract": "The India–Pakistan war of 1971, also known as the third Indo-Pakistani war, was a military confrontation between India and Pakistan that occurred during the Bangladesh Liberation War in East Pakistan from 3 December 1971 until the Pakistani capitulation in Dhaka on 16 December 1971. The war began with Pakistan's Operation Chengiz Khan, consisting of preemptive aerial strikes on eight Indian air stations. The strikes led to India declaring war on Pakistan, marking their entry into the war for East Pakistan's independence, on the side of Bengali nationalist forces. India's entry expanded the existing conflict with Indian and Pakistani forces engaging on both the eastern and western fronts.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/India%E2%80%93Pakistan_war_of_1971",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/BangladeshLiberationWarMontage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BangladeshLiberationWarMontage.jpg/330px-BangladeshLiberationWarMontage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bangladeshliberationwarmontage.jpg",
+          "width": 1160,
+          "height": 765,
+          "title": "Bangladesh Liberation War",
+          "description": "1971 Bangladesh–Pakistan armed conflict",
+          "extract": "The Bangladesh Liberation War, also known as the Bangladesh War of Independence, was an armed conflict sparked by the rise of the Bengali nationalist and self-determination movement in East Pakistan, which resulted in the independence of Bangladesh with the help of India. The war began when the Pakistani military junta based in West Pakistan—under the orders of Yahya Khan—launched Operation Searchlight against East Pakistanis on the night of 25 March 1971, initiating the Bangladesh genocide.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bangladesh_Liberation_War",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Pakistan Air Force",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Pakistan_Air_Force",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "12-03-1965-735098a6",
+      "year": 1965,
+      "text": "Soviet Union, Space probe of the Luna program, called Luna 8, is launched, but crashes on the Moon.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/3840px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/330px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "cassini_saturn_orbit_insertion.jpg",
+        "width": 14400,
+        "height": 9600,
+        "title": "Space probe",
+        "description": "Unmanned robotic spacecraft",
+        "extract": "A space probe is an uncrewed robotic spacecraft designed to explore outer space and transmit scientific data back to Earth. Space probes are used to investigate the Moon, planets, moons, asteroids, comets, the Sun, and interstellar space. Unlike artificial satellites, which usually remain in orbit around Earth, probes are sent beyond Earth orbit toward other celestial bodies or into deep space.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_probe",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/3840px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/330px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cassini_saturn_orbit_insertion.jpg",
+          "width": 14400,
+          "height": 9600,
+          "title": "Space probe",
+          "description": "Unmanned robotic spacecraft",
+          "extract": "A space probe is an uncrewed robotic spacecraft designed to explore outer space and transmit scientific data back to Earth. Space probes are used to investigate the Moon, planets, moons, asteroids, comets, the Sun, and interstellar space. Unlike artificial satellites, which usually remain in orbit around Earth, probes are sent beyond Earth orbit toward other celestial bodies or into deep space.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_probe",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Soviet Union",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "relatedPagesCount": 4
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 5,
+    "day": 12,
+    "formatted": "05-12"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "05-12-2017-0938a720",
+      "year": 2017,
+      "text": "The WannaCry ransomware attack affected more than 400,000 computers worldwide, including systems used by the National Health Service and Telefónica.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/18/Wana_Decrypt0r_screenshot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Wana_Decrypt0r_screenshot.png/330px-Wana_Decrypt0r_screenshot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "wana_decrypt0r_screenshot.png",
+        "width": 600,
+        "height": 453,
+        "title": "WannaCry ransomware attack",
+        "description": "2017 worldwide ransomware cyberattack",
+        "extract": "The WannaCry ransomware attack was a worldwide cyberattack in May 2017 by the WannaCry ransomware cryptoworm, which targeted computers running the Microsoft Windows operating system by encrypting data and demanding ransom payments in the form of bitcoin cryptocurrency. It was propagated using EternalBlue, an exploit developed by the United States National Security Agency (NSA) for Microsoft Windows systems. EternalBlue was stolen and leaked by a group called The Shadow Brokers (TSB) a month prior to the attack. While Microsoft had released patches previously to close the exploit, much of WannaCry's spread was from organizations that had not applied these patches, or were using older Windows systems that were past their end of life. These patches were critical to organizations' cyber security but many were not implemented due to general ignorance of their importance.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/18/Wana_Decrypt0r_screenshot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Wana_Decrypt0r_screenshot.png/330px-Wana_Decrypt0r_screenshot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wana_decrypt0r_screenshot.png",
+          "width": 600,
+          "height": 453,
+          "title": "WannaCry ransomware attack",
+          "description": "2017 worldwide ransomware cyberattack",
+          "extract": "The WannaCry ransomware attack was a worldwide cyberattack in May 2017 by the WannaCry ransomware cryptoworm, which targeted computers running the Microsoft Windows operating system by encrypting data and demanding ransom payments in the form of bitcoin cryptocurrency. It was propagated using EternalBlue, an exploit developed by the United States National Security Agency (NSA) for Microsoft Windows systems. EternalBlue was stolen and leaked by a group called The Shadow Brokers (TSB) a month prior to the attack. While Microsoft had released patches previously to close the exploit, much of WannaCry's spread was from organizations that had not applied these patches, or were using older Windows systems that were past their end of life. These patches were critical to organizations' cyber security but many were not implemented due to general ignorance of their importance.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Distrito_Telef%C3%B3nica_%28Madrid%29_09.jpg/3840px-Distrito_Telef%C3%B3nica_%28Madrid%29_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Distrito_Telef%C3%B3nica_%28Madrid%29_09.jpg/330px-Distrito_Telef%C3%B3nica_%28Madrid%29_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "distrito_telefónica_(madrid)_09.jpg",
+          "width": 4114,
+          "height": 1899,
+          "title": "Telefónica",
+          "description": "Spanish multinational telecommunications company",
+          "extract": "Telefónica, S.A. is a Spanish multinational telecommunications company. It has headquarters as well as a registered office in Madrid, Spain. It is one of the largest telephone operators and mobile network providers in the world. It provides fixed and mobile telephony, broadband, and subscription television, operating in Europe and the Americas.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Telef%C3%B3nica",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "WannaCry ransomware attack",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/WannaCry_ransomware_attack",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-12-2022-61801fbd",
+      "year": 2022,
+      "text": "The Event Horizon Telescope released the first image of Sagittarius A*.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg/330px-Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "event_horizon_telescope_collaboration_(testing-general-relativity-with-the-event-horizon).jpg",
+        "width": 2358,
+        "height": 1762,
+        "title": "Event Horizon Telescope",
+        "description": "Global radio telescope array",
+        "extract": "The Event Horizon Telescope (EHT) is a telescope array consisting of a global network of radio telescopes. The EHT project combines data from several very-long-baseline interferometry (VLBI) stations around Earth, which form a combined array with an angular resolution sufficient to observe objects the size of a supermassive black hole's event horizon. The project's observational targets include the two black holes with the largest angular diameter as observed from Earth: the black hole at the center of the supergiant elliptical galaxy Messier 87, and Sagittarius A*, at the center of the Milky Way.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg/330px-Event_Horizon_Telescope_Collaboration_%28testing-general-relativity-with-the-event-horizon%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "event_horizon_telescope_collaboration_(testing-general-relativity-with-the-event-horizon).jpg",
+          "width": 2358,
+          "height": 1762,
+          "title": "Event Horizon Telescope",
+          "description": "Global radio telescope array",
+          "extract": "The Event Horizon Telescope (EHT) is a telescope array consisting of a global network of radio telescopes. The EHT project combines data from several very-long-baseline interferometry (VLBI) stations around Earth, which form a combined array with an angular resolution sufficient to observe objects the size of a supermassive black hole's event horizon. The project's observational targets include the two black holes with the largest angular diameter as observed from Earth: the black hole at the center of the supergiant elliptical galaxy Messier 87, and Sagittarius A*, at the center of the Milky Way.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/EHT_Saggitarius_A_black_hole.tif/lossy-page1-3840px-EHT_Saggitarius_A_black_hole.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/EHT_Saggitarius_A_black_hole.tif/lossy-page1-330px-EHT_Saggitarius_A_black_hole.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lossy-page1-3840px-eht_saggitarius_a_black_hole.tif.jpg",
+          "width": 4076,
+          "height": 4076,
+          "title": "Sagittarius A*",
+          "description": "Supermassive black hole at the center of the Milky Way",
+          "extract": "Sagittarius A*, abbreviated as Sgr A*, is the supermassive black hole at the Galactic Center of the Milky Way. Viewed from Earth, it is located near the border of the constellations Sagittarius and Scorpius, about 5.6° south of the ecliptic, visually close to the Butterfly Cluster (M6) and Lambda Scorpii. Sagittarius A* is a bright and very compact astronomical radio source.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sagittarius_A*",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/EHTobservations2017.jpg/1280px-EHTobservations2017.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/EHTobservations2017.jpg/1280px-EHTobservations2017.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "ehtobservations2017.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "EHT observations during its 2017 M87 multiwavelength campaign decomposed by instrument from lower (EHT/ALMA/SMA) to higher (VERITAS) frequency (Fermi-LAT in continuous survey mode) (dates also in Modified Julian days)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Event Horizon Telescope",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Event_Horizon_Telescope",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-12-1937-fc8548bc",
+      "year": 1937,
+      "text": "King George VI and Queen Elizabeth of the United Kingdom are crowned in Westminster Abbey.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/330px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "king_george_vi_loc_matpc.14736_a_(cropped).jpg",
+        "width": 1834,
+        "height": 2385,
+        "title": "George VI",
+        "description": "King of the United Kingdom from 1936 to 1952",
+        "extract": "George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death in 1952. He was also the last Emperor of India from 1936 until the British Raj was dissolved in August 1947, though the title was only formally relinquished in June 1948. Following the London Declaration of 1949, he was the first Head of the Commonwealth.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/George_VI",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/330px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "king_george_vi_loc_matpc.14736_a_(cropped).jpg",
+          "width": 1834,
+          "height": 2385,
+          "title": "George VI",
+          "description": "King of the United Kingdom from 1936 to 1952",
+          "extract": "George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death in 1952. He was also the last Emperor of India from 1936 until the British Raj was dissolved in August 1947, though the title was only formally relinquished in June 1948. Following the London Declaration of 1949, he was the first Head of the Commonwealth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/George_VI",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Queen_Elizabeth_the_Queen_Mother_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Queen_Elizabeth_the_Queen_Mother_portrait.jpg/330px-Queen_Elizabeth_the_Queen_Mother_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_elizabeth_the_queen_mother_portrait.jpg",
+          "width": 2238,
+          "height": 2825,
+          "title": "Queen Elizabeth the Queen Mother",
+          "description": "Queen of the United Kingdom from 1936 to 1952",
+          "extract": "Elizabeth Angela Marguerite Bowes-Lyon was Queen of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 to 6 February 1952 as the wife of King George VI. She was also the last empress of India from 1936 until the British Raj was dissolved on 15 August 1947. After her husband died, she was officially known as Queen Elizabeth the Queen Mother to avoid confusion with her daughter Queen Elizabeth II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Queen_Elizabeth_the_Queen_Mother",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Dubbelportret_van_koning_George_VI_van_het_Verenigd_Koninkrijk_en_koningin_Elizabeth_bij_hun_kroning_%E2%80%93_RP-F-F21112.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Dubbelportret_van_koning_George_VI_van_het_Verenigd_Koninkrijk_en_koningin_Elizabeth_bij_hun_kroning_%E2%80%93_RP-F-F21112.jpg/330px-Dubbelportret_van_koning_George_VI_van_het_Verenigd_Koninkrijk_en_koningin_Elizabeth_bij_hun_kroning_%E2%80%93_RP-F-F21112.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dubbelportret_van_koning_george_vi_van_het_verenigd_koninkrijk_en_koningin_elizabeth_bij_hun_kroning_–_rp-f-f21112.jpg",
+          "width": 2388,
+          "height": 3498,
+          "title": "Coronation of George VI and Elizabeth",
+          "description": "1937 coronation in the United Kingdom",
+          "extract": "The coronation of George VI and his wife, Elizabeth, as king and queen of the United Kingdom and the Dominions of the British Commonwealth, Emperor and Empress of India took place at Westminster Abbey, London, on Wednesday 12 May 1937. George VI ascended the throne upon the abdication of his brother, Edward VIII, on 11 December 1936, three days before his 41st birthday. Edward's coronation had been planned for 12 May and it was decided to continue with his brother and sister-in-law's coronation on the same date.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_George_VI_and_Elizabeth",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "George VI",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/George_VI",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-12-1982-d0c1d4b8",
+      "year": 1982,
+      "text": "During a procession outside the shrine of the Virgin Mary in Fátima, Portugal, security guards overpower Juan María Fernández y Krohn before he can attack Pope John Paul II with a bayonet.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Madonna_Advocata.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Madonna_Advocata.png/330px-Madonna_Advocata.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "madonna_advocata.png",
+        "width": 511,
+        "height": 855,
+        "title": "Mary, mother of Jesus",
+        "description": "Mother of Jesus",
+        "extract": "Mary was a first-century Jewish woman of Nazareth, the wife of Joseph and the mother of Jesus. She is an important figure of Christianity, venerated under various titles such as virgin or queen, many of which are mentioned in the Litany of Loreto. The Eastern and Oriental Orthodox, Catholic, Evangelical Lutheran, Reformed, Anglican, and Methodist churches believe that Mary, as mother of Jesus, is the Mother of God. The Church of the East historically regarded her as Christotokos, a term still used in the liturgy of the Assyrian Church of the East. She has the highest position in Islam among all women and is mentioned numerous times in the Quran, including in a chapter (surah) named after her. She is also revered in the Baháʼí and Druze faiths.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mary%2C_mother_of_Jesus",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Madonna_Advocata.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Madonna_Advocata.png/330px-Madonna_Advocata.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "madonna_advocata.png",
+          "width": 511,
+          "height": 855,
+          "title": "Mary, mother of Jesus",
+          "description": "Mother of Jesus",
+          "extract": "Mary was a first-century Jewish woman of Nazareth, the wife of Joseph and the mother of Jesus. She is an important figure of Christianity, venerated under various titles such as virgin or queen, many of which are mentioned in the Litany of Loreto. The Eastern and Oriental Orthodox, Catholic, Evangelical Lutheran, Reformed, Anglican, and Methodist churches believe that Mary, as mother of Jesus, is the Mother of God. The Church of the East historically regarded her as Christotokos, a term still used in the liturgy of the Assyrian Church of the East. She has the highest position in Islam among all women and is mentioned numerous times in the Quran, including in a chapter (surah) named after her. She is also revered in the Baháʼí and Druze faiths.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mary%2C_mother_of_Jesus",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fatima_BW_2018-10-07_09-01-03.jpg/3840px-Fatima_BW_2018-10-07_09-01-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Fatima_BW_2018-10-07_09-01-03.jpg/330px-Fatima_BW_2018-10-07_09-01-03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fatima_bw_2018-10-07_09-01-03.jpg",
+          "width": 6016,
+          "height": 4000,
+          "title": "Fátima, Portugal",
+          "description": "Civil parish in Oeste e Vale do Tejo, Portugal",
+          "extract": "Fátima is a city in the municipality of Ourém and district of Santarém in the Oeste e Vale do Tejo Region of Portugal, with 71.29 km2 of area and 13,212 inhabitants (2021). The homonymous civil parish encompasses several villages and localities of which the city of Fátima is the largest.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/F%C3%A1tima%2C_Portugal",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg/330px-ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "adamello_-_papa_-_giovanni_paolo_ii_-_panoramio_(cropped).jpg",
+          "width": 762,
+          "height": 889,
+          "title": "Pope John Paul II",
+          "description": "Head of the Catholic Church from 1978 to 2005",
+          "extract": "Pope John Paul II was the head of the Catholic Church and sovereign of Vatican City from 16 October 1978 until his death in 2005. He was the first non-Italian pope since Adrian VI in the 16th century, as well as the third-longest-serving pope in history, after St. Peter and Pius IX. In addition to this, he was an important philosopher and theologian of the 20th century.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pope_John_Paul_II",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Mary, mother of Jesus",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mary%2C_mother_of_Jesus",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "05-12-2006-7d3ca203",
+      "year": 2006,
+      "text": "Mass unrest by the Primeiro Comando da Capital begins in São Paulo (Brazil), leaving at least 150 dead.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/330px-Marginal_Pinheiros_e_Jockey_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "marginal_pinheiros_e_jockey_club.jpg",
+        "width": 1376,
+        "height": 646,
+        "title": "São Paulo",
+        "description": "Most populous city in Brazil",
+        "extract": "São Paulo is the capital city of the state of the same name, as well as the most populous city in Brazil, South America, the Americas, and in both the Western and Southern Hemispheres. The city exerts international influence in commerce, finance, culture, gastronomy, arts, fashion, technology, entertainment and media, having been listed by UNESCO's Creative Cities Network as a \"City of Film\" and the title of \"World Capital of Gastronomy\", and by the Globalization and World Cities Research Network (GaWC) as an alpha global city. It is the largest urban area by population outside Asia and the most populous Portuguese-speaking city in the world. The city's name \"São Paulo\" honors Paul the Apostle and people from the capital city are known as paulistanos. The city's Latin motto is Non ducor, duco, which translates as \"I am not led, I lead\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/330px-Marginal_Pinheiros_e_Jockey_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "marginal_pinheiros_e_jockey_club.jpg",
+          "width": 1376,
+          "height": 646,
+          "title": "São Paulo",
+          "description": "Most populous city in Brazil",
+          "extract": "São Paulo is the capital city of the state of the same name, as well as the most populous city in Brazil, South America, the Americas, and in both the Western and Southern Hemispheres. The city exerts international influence in commerce, finance, culture, gastronomy, arts, fashion, technology, entertainment and media, having been listed by UNESCO's Creative Cities Network as a \"City of Film\" and the title of \"World Capital of Gastronomy\", and by the Globalization and World Cities Research Network (GaWC) as an alpha global city. It is the largest urban area by population outside Asia and the most populous Portuguese-speaking city in the world. The city's name \"São Paulo\" honors Paul the Apostle and people from the capital city are known as paulistanos. The city's Latin motto is Non ducor, duco, which translates as \"I am not led, I lead\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/A_group_of_police_officers_at_2004_Brazilian_Grand_Prix.JPG/1280px-A_group_of_police_officers_at_2004_Brazilian_Grand_Prix.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/A_group_of_police_officers_at_2004_Brazilian_Grand_Prix.JPG/1280px-A_group_of_police_officers_at_2004_Brazilian_Grand_Prix.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "vbjkhsdfwkueyew0049.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "São Paulo's Military Police (Polícia Militar) is the main target of the attacks.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2006_S%C3%A3o_Paulo_violence_outbreak",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2006 São Paulo violence outbreak",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2006_S%C3%A3o_Paulo_violence_outbreak",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-12-1967-8332f1bb",
+      "year": 1967,
+      "text": "The Jimi Hendrix Experience released the critically acclaimed and widely influential debut album Are You Experienced.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jimi_Hendrix_%281967%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jimi_Hendrix_%281967%29_%28cropped%29.jpg/330px-Jimi_Hendrix_%281967%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jimi_hendrix_(1967)_(cropped).jpg",
+        "width": 1335,
+        "height": 1900,
+        "title": "Jimi Hendrix",
+        "description": "American guitarist (1942–1970)",
+        "extract": "James Marshall \"Jimi\" Hendrix was an American guitarist, singer, and songwriter. He is widely regarded as one of the greatest and most influential guitarists of all time. He was inducted into the Rock and Roll Hall of Fame in 1992 as a part of his band, the Jimi Hendrix Experience; the institution describes him as \"arguably the greatest instrumentalist in the history of rock music\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jimi_Hendrix_%281967%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Jimi_Hendrix_%281967%29_%28cropped%29.jpg/330px-Jimi_Hendrix_%281967%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jimi_hendrix_(1967)_(cropped).jpg",
+          "width": 1335,
+          "height": 1900,
+          "title": "Jimi Hendrix",
+          "description": "American guitarist (1942–1970)",
+          "extract": "James Marshall \"Jimi\" Hendrix was an American guitarist, singer, and songwriter. He is widely regarded as one of the greatest and most influential guitarists of all time. He was inducted into the Rock and Roll Hall of Fame in 1992 as a part of his band, the Jimi Hendrix Experience; the institution describes him as \"arguably the greatest instrumentalist in the history of rock music\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/17/AreyouexpUK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/17/AreyouexpUK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "areyouexpuk.jpg",
+          "width": 300,
+          "height": 293,
+          "title": "Are You Experienced",
+          "description": "1967 studio album by the Jimi Hendrix Experience",
+          "extract": "Are You Experienced is the debut studio album by the Jimi Hendrix Experience, released in May 1967. The album was an immediate critical and commercial success, and is widely regarded as one of the greatest albums of all time. It features Jimi Hendrix's innovative approach to songwriting and electric guitar playing, which soon established a new direction in psychedelic and rock music as a whole.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Are_You_Experienced",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bertran_Philander_Ross_Hendrix_and_Zenora_%22Nora%22_Rose_Hendrix.jpg/330px-Bertran_Philander_Ross_Hendrix_and_Zenora_%22Nora%22_Rose_Hendrix.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bertran_Philander_Ross_Hendrix_and_Zenora_%22Nora%22_Rose_Hendrix.jpg/330px-Bertran_Philander_Ross_Hendrix_and_Zenora_%22Nora%22_Rose_Hendrix.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bertran_philander_ross_hendrix_and_zenora_\"nora\"_rose_hendrix.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Hendrix's paternal grandparents, Ross and Nora Hendrix, pre-1912",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Jimi Hendrix",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-12-2024-0a37e48b",
+      "year": 2024,
+      "text": "Middle/end of the May 2024 solar storms, the most powerful set of geomagnetic storms since the 2003 Halloween solar storms.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Northern_Lights_From_Over_the_North_Pole_%28NESDIS_2024-05-15_nhem-aurora-labels%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Northern_Lights_From_Over_the_North_Pole_%28NESDIS_2024-05-15_nhem-aurora-labels%29.png/330px-Northern_Lights_From_Over_the_North_Pole_%28NESDIS_2024-05-15_nhem-aurora-labels%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "northern_lights_from_over_the_north_pole_(nesdis_2024-05-15_nhem-aurora-labels).png",
+        "width": 1142,
+        "height": 856,
+        "title": "May 2024 solar storms",
+        "description": "Series of intense solar storms in 2024",
+        "extract": "The solar storms of May 2024 were a series of powerful solar storms with extreme solar flares and geomagnetic storm components that occurred from 10 to 13 May 2024 during solar cycle 25. They are also known as the 2024 Mother's Day solar storm or the Gannon storm. The geomagnetic storm was the most powerful to affect Earth since March 1989, and produced aurorae at far lower latitudes than usual.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/May_2024_solar_storms",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Northern_Lights_From_Over_the_North_Pole_%28NESDIS_2024-05-15_nhem-aurora-labels%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Northern_Lights_From_Over_the_North_Pole_%28NESDIS_2024-05-15_nhem-aurora-labels%29.png/330px-Northern_Lights_From_Over_the_North_Pole_%28NESDIS_2024-05-15_nhem-aurora-labels%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "northern_lights_from_over_the_north_pole_(nesdis_2024-05-15_nhem-aurora-labels).png",
+          "width": 1142,
+          "height": 856,
+          "title": "May 2024 solar storms",
+          "description": "Series of intense solar storms in 2024",
+          "extract": "The solar storms of May 2024 were a series of powerful solar storms with extreme solar flares and geomagnetic storm components that occurred from 10 to 13 May 2024 during solar cycle 25. They are also known as the 2024 Mother's Day solar storm or the Gannon storm. The geomagnetic storm was the most powerful to affect Earth since March 1989, and produced aurorae at far lower latitudes than usual.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/May_2024_solar_storms",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Aurora_dmsp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Aurora_dmsp.jpg/330px-Aurora_dmsp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aurora_dmsp.jpg",
+          "width": 880,
+          "height": 880,
+          "title": "2003 Halloween solar storms",
+          "description": "Series of intense solar storms in 2003",
+          "extract": "The Halloween solar storms were a series of solar storms involving solar flares and coronal mass ejections that occurred from mid-October to early November 2003, peaking around October 28–29. This series of storms generated the largest solar flare ever recorded by the GOES system, modeled as strong as X45.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2003_Halloween_solar_storms",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Sunspots_512_20240510.jpg/500px-Sunspots_512_20240510.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Sunspots_512_20240510.jpg/500px-Sunspots_512_20240510.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "sunspots_512_20240510.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Sunspots_512_20240510",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/May_2024_solar_storms",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "May 2024 solar storms",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/May_2024_solar_storms",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-12-2015-427e45f9",
+      "year": 2015,
+      "text": "A train derailment killed eight people and injured more than 200 others in Philadelphia.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/2015_Amtrak_derailment_DCA15MR010_Prelim_Fig2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2015_Amtrak_derailment_DCA15MR010_Prelim_Fig2.jpg/330px-2015_Amtrak_derailment_DCA15MR010_Prelim_Fig2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2015_amtrak_derailment_dca15mr010_prelim_fig2.jpg",
+        "width": 525,
+        "height": 295,
+        "title": "2015 Philadelphia train derailment",
+        "description": "Passenger rail crash in the United States",
+        "extract": "On May 12, 2015, an Amtrak Northeast Regional train from Washington, D.C., bound for New York City derailed and wrecked on the Northeast Corridor near the Port Richmond neighborhood of Philadelphia, Pennsylvania. Of the 238 passengers and five crew on board, eight were killed and over 200 were injured, with 11 critically so. The train was traveling at 102 miles per hour (164 km/h) in a 50 mph (80 km/h) zone of curved tracks when it derailed. The wreck was the deadliest on the Northeast Corridor since 1987, when 16 people died in a crash near Baltimore.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2015_Philadelphia_train_derailment",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/2015_Amtrak_derailment_DCA15MR010_Prelim_Fig2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/2015_Amtrak_derailment_DCA15MR010_Prelim_Fig2.jpg/330px-2015_Amtrak_derailment_DCA15MR010_Prelim_Fig2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2015_amtrak_derailment_dca15mr010_prelim_fig2.jpg",
+          "width": 525,
+          "height": 295,
+          "title": "2015 Philadelphia train derailment",
+          "description": "Passenger rail crash in the United States",
+          "extract": "On May 12, 2015, an Amtrak Northeast Regional train from Washington, D.C., bound for New York City derailed and wrecked on the Northeast Corridor near the Port Richmond neighborhood of Philadelphia, Pennsylvania. Of the 238 passengers and five crew on board, eight were killed and over 200 were injured, with 11 critically so. The train was traveling at 102 miles per hour (164 km/h) in a 50 mph (80 km/h) zone of curved tracks when it derailed. The wreck was the deadliest on the Northeast Corridor since 1987, when 16 people died in a crash near Baltimore.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2015_Philadelphia_train_derailment",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2015_Amtrak_derailment_DCA15MR010_Prelim_Fig1.jpg/500px-2015_Amtrak_derailment_DCA15MR010_Prelim_Fig1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/2015_Amtrak_derailment_DCA15MR010_Prelim_Fig1.jpg/500px-2015_Amtrak_derailment_DCA15MR010_Prelim_Fig1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "2015_amtrak_derailment_dca15mr010_prelim_fig1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Aerial view of the derailed train",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2015_Philadelphia_train_derailment",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Amtrak_ACS-64_601.jpg/1280px-Amtrak_ACS-64_601.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Amtrak_ACS-64_601.jpg/1280px-Amtrak_ACS-64_601.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "amtrak_acs-64_601.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "ACS-64 locomotive 601 led the train that derailed",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2015_Philadelphia_train_derailment",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "2015 Philadelphia train derailment",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2015_Philadelphia_train_derailment",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "05-12-2010-2d838e4a",
+      "year": 2010,
+      "text": "On arrival at Tripoli International Airport, Afriqiyah Airways Flight 771 crashed into the ground at a speed of 262 kn (485 km/h; 302 mph) and exploded, killing all but one of the 304 people on board.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Tripoli_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tripoli_Airport.jpg/330px-Tripoli_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "tripoli_airport.jpg",
+        "width": 2554,
+        "height": 1916,
+        "title": "Tripoli International Airport",
+        "description": "Former airport in Libya",
+        "extract": "Tripoli International Airport is a closed international airport built to serve Tripoli, the capital city of Libya. The airport is located in the area of Qasr bin Ghashir, 24 kilometres (15 mi) from central Tripoli. It used to be the hub for Libyan Airlines, Afriqiyah Airways, and Buraq Air.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tripoli_International_Airport",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Tripoli_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tripoli_Airport.jpg/330px-Tripoli_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tripoli_airport.jpg",
+          "width": 2554,
+          "height": 1916,
+          "title": "Tripoli International Airport",
+          "description": "Former airport in Libya",
+          "extract": "Tripoli International Airport is a closed international airport built to serve Tripoli, the capital city of Libya. The airport is located in the area of Qasr bin Ghashir, 24 kilometres (15 mi) from central Tripoli. It used to be the hub for Libyan Airlines, Afriqiyah Airways, and Buraq Air.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tripoli_International_Airport",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Crash_site_of_Afriqiyah_Airways_Flight_771.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Crash_site_of_Afriqiyah_Airways_Flight_771.jpg/330px-Crash_site_of_Afriqiyah_Airways_Flight_771.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "crash_site_of_afriqiyah_airways_flight_771.jpg",
+          "width": 500,
+          "height": 395,
+          "title": "Afriqiyah Airways Flight 771",
+          "description": "2010 aircraft accident in Libya",
+          "extract": "Afriqiyah Airways Flight 771 was a scheduled international Afriqiyah Airways passenger flight from Johannesburg, South Africa to Tripoli, Libya. On 12 May 2010 at about 06:01 while on approach to Tripoli International Airport, the aircraft operating the flight, an Airbus A330, crashed about 1,200 metres short of the runway. Of the 104 passengers and crew on board, 103 were killed. The sole survivor was a 9-year-old Dutch boy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Afriqiyah_Airways_Flight_771",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tripoli_International.jpg/500px-Tripoli_International.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tripoli_International.jpg/500px-Tripoli_International.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "tripoli_international.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The airport's existing terminals and runways in a satellite image",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tripoli_International_Airport",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Tripoli International Airport",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Tripoli_International_Airport",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-12-2008-9629c1fd",
+      "year": 2008,
+      "text": "An earthquake (measuring around 8.0 magnitude) occurs in Sichuan, China, killing over 69,000 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/2008%EB%85%84_%EC%A4%91%EC%95%99119%EA%B5%AC%EC%A1%B0%EB%8B%A8_%EC%A4%91%EA%B5%AD_%EC%93%B0%EC%B4%A8%EC%84%B1_%EB%8C%80%EC%A7%80%EC%A7%84_%EA%B5%AD%EC%A0%9C_%EC%B6%9C%EB%8F%99%28%E5%9B%9B%E5%B7%9D%E7%9C%81_%E5%A4%A7%E5%9C%B0%E9%9C%87%2C_%EC%82%AC%EC%B2%9C%EC%84%B1_%EB%8C%80%EC%A7%80%EC%A7%84%29_SSL27231.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2008%EB%85%84_%EC%A4%91%EC%95%99119%EA%B5%AC%EC%A1%B0%EB%8B%A8_%EC%A4%91%EA%B5%AD_%EC%93%B0%EC%B4%A8%EC%84%B1_%EB%8C%80%EC%A7%80%EC%A7%84_%EA%B5%AD%EC%A0%9C_%EC%B6%9C%EB%8F%99%28%E5%9B%9B%E5%B7%9D%E7%9C%81_%E5%A4%A7%E5%9C%B0%E9%9C%87%2C_%EC%82%AC%EC%B2%9C%EC%84%B1_%EB%8C%80%EC%A7%80%EC%A7%84%29_SSL27231.JPG/330px-2008%EB%85%84_%EC%A4%91%EC%95%99119%EA%B5%AC%EC%A1%B0%EB%8B%A8_%EC%A4%91%EA%B5%AD_%EC%93%B0%EC%B4%A8%EC%84%B1_%EB%8C%80%EC%A7%80%EC%A7%84_%EA%B5%AD%EC%A0%9C_%EC%B6%9C%EB%8F%99%28%E5%9B%9B%E5%B7%9D%E7%9C%81_%E5%A4%A7%E5%9C%B0%E9%9C%87%2C_%EC%82%AC%EC%B2%9C%EC%84%B1_%EB%8C%80%EC%A7%80%EC%A7%84%29_SSL27231.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2008년_중앙119구조단_중국_쓰촨성_대지진_국제_출동(四川省_大地震,_사천성_대지진)_ssl27231.jpg",
+        "width": 2592,
+        "height": 1944,
+        "title": "2008 Sichuan earthquake",
+        "description": "Magnitude 8.0 earthquake in China",
+        "extract": "An earthquake occurred in the province of Sichuan, China at 14:28:01 China Standard Time on May 12, 2008. Measuring at 8.0 Ms, the earthquake's epicenter was located 80 kilometres (50 mi) west-northwest of Chengdu, the provincial capital, with a focal depth of 19 km (12 mi). The earthquake ruptured the fault for over 240 km (150 mi), with surface displacements of several meters. The earthquake was also felt as far away as Beijing and Shanghai—1,500 and 1,700 km away, respectively—where office buildings swayed with the tremor, as well as Bangkok, Thailand and Hanoi, Vietnam. Strong aftershocks, some exceeding 6 Ms, continued to hit the area up to several months after the main shock, causing further casualties and damage. The earthquake also caused the largest number of geohazards ever recorded, including about 200,000 landslides and more than 800 quake lakes distributed over an area of 110,000 km2 (42,000 sq mi).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2008_Sichuan_earthquake",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/2008%EB%85%84_%EC%A4%91%EC%95%99119%EA%B5%AC%EC%A1%B0%EB%8B%A8_%EC%A4%91%EA%B5%AD_%EC%93%B0%EC%B4%A8%EC%84%B1_%EB%8C%80%EC%A7%80%EC%A7%84_%EA%B5%AD%EC%A0%9C_%EC%B6%9C%EB%8F%99%28%E5%9B%9B%E5%B7%9D%E7%9C%81_%E5%A4%A7%E5%9C%B0%E9%9C%87%2C_%EC%82%AC%EC%B2%9C%EC%84%B1_%EB%8C%80%EC%A7%80%EC%A7%84%29_SSL27231.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2008%EB%85%84_%EC%A4%91%EC%95%99119%EA%B5%AC%EC%A1%B0%EB%8B%A8_%EC%A4%91%EA%B5%AD_%EC%93%B0%EC%B4%A8%EC%84%B1_%EB%8C%80%EC%A7%80%EC%A7%84_%EA%B5%AD%EC%A0%9C_%EC%B6%9C%EB%8F%99%28%E5%9B%9B%E5%B7%9D%E7%9C%81_%E5%A4%A7%E5%9C%B0%E9%9C%87%2C_%EC%82%AC%EC%B2%9C%EC%84%B1_%EB%8C%80%EC%A7%80%EC%A7%84%29_SSL27231.JPG/330px-2008%EB%85%84_%EC%A4%91%EC%95%99119%EA%B5%AC%EC%A1%B0%EB%8B%A8_%EC%A4%91%EA%B5%AD_%EC%93%B0%EC%B4%A8%EC%84%B1_%EB%8C%80%EC%A7%80%EC%A7%84_%EA%B5%AD%EC%A0%9C_%EC%B6%9C%EB%8F%99%28%E5%9B%9B%E5%B7%9D%E7%9C%81_%E5%A4%A7%E5%9C%B0%E9%9C%87%2C_%EC%82%AC%EC%B2%9C%EC%84%B1_%EB%8C%80%EC%A7%80%EC%A7%84%29_SSL27231.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2008년_중앙119구조단_중국_쓰촨성_대지진_국제_출동(四川省_大地震,_사천성_대지진)_ssl27231.jpg",
+          "width": 2592,
+          "height": 1944,
+          "title": "2008 Sichuan earthquake",
+          "description": "Magnitude 8.0 earthquake in China",
+          "extract": "An earthquake occurred in the province of Sichuan, China at 14:28:01 China Standard Time on May 12, 2008. Measuring at 8.0 Ms, the earthquake's epicenter was located 80 kilometres (50 mi) west-northwest of Chengdu, the provincial capital, with a focal depth of 19 km (12 mi). The earthquake ruptured the fault for over 240 km (150 mi), with surface displacements of several meters. The earthquake was also felt as far away as Beijing and Shanghai—1,500 and 1,700 km away, respectively—where office buildings swayed with the tremor, as well as Bangkok, Thailand and Hanoi, Vietnam. Strong aftershocks, some exceeding 6 Ms, continued to hit the area up to several months after the main shock, causing further casualties and damage. The earthquake also caused the largest number of geohazards ever recorded, including about 200,000 landslides and more than 800 quake lakes distributed over an area of 110,000 km2 (42,000 sq mi).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2008_Sichuan_earthquake",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1_huanglong_2.jpg/3840px-1_huanglong_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1_huanglong_2.jpg/330px-1_huanglong_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1_huanglong_2.jpg",
+          "width": 4256,
+          "height": 2832,
+          "title": "Sichuan",
+          "description": "Province in Southwestern China",
+          "extract": "Sichuan is an inland province in Southwestern China. It is located in the Sichuan Basin and Tibetan Plateau—between the Jinsha River to the west, the Daba Mountains to the north, and the Yunnan–Guizhou Plateau to the south. Its capital city is Chengdu, and the province's population stands at 83 million. Sichuan neighbors Qinghai and Gansu to the north, Shaanxi and Chongqing to the east, Guizhou and Yunnan to the south, and Tibet to the west.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sichuan",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2008 Sichuan earthquake",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2008_Sichuan_earthquake",
+      "relatedPagesCount": 2
+    }
+  ]
+}

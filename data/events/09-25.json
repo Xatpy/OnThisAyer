@@ -1,0 +1,607 @@
+{
+  "date": {
+    "month": 9,
+    "day": 25,
+    "formatted": "09-25"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "09-25-1998-d9ab6f60",
+      "year": 1998,
+      "text": "PauknAir Flight 4101, a British Aerospace 146, crashes near Melilla Airport in Melilla, Spain, killing 38 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/BAe_146-100_Paukn_Air_F386-6A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BAe_146-100_Paukn_Air_F386-6A.jpg/330px-BAe_146-100_Paukn_Air_F386-6A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bae_146-100_paukn_air_f386-6a.jpg",
+        "width": 1822,
+        "height": 934,
+        "title": "PauknAir Flight 4101",
+        "description": "1998 aviation accident",
+        "extract": "PauknAir Flight 4101 was a British Aerospace 146 that crashed on a flight from Málaga, Spain, to the Spanish North African exclave of Melilla on 25 September 1998. All 38 passengers and crew on board the aircraft were killed in the accident.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/PauknAir_Flight_4101",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/BAe_146-100_Paukn_Air_F386-6A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BAe_146-100_Paukn_Air_F386-6A.jpg/330px-BAe_146-100_Paukn_Air_F386-6A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bae_146-100_paukn_air_f386-6a.jpg",
+          "width": 1822,
+          "height": 934,
+          "title": "PauknAir Flight 4101",
+          "description": "1998 aviation accident",
+          "extract": "PauknAir Flight 4101 was a British Aerospace 146 that crashed on a flight from Málaga, Spain, to the Spanish North African exclave of Melilla on 25 September 1998. All 38 passengers and crew on board the aircraft were killed in the accident.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/PauknAir_Flight_4101",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Melilla_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Melilla_Airport.jpg/330px-Melilla_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "melilla_airport.jpg",
+          "width": 3072,
+          "height": 2304,
+          "title": "Melilla Airport",
+          "description": "International airport in the Spanish autonomous city of Melilla",
+          "extract": "Melilla Airport is an airport located in Melilla, an exclave of Spain in Africa. The only airport in Spanish territory on the African coast, it serves the Spanish autonomous city of Melilla, in North Africa. The airport is located about 4 km (2.5 mi) southwest of the city, near the border with Morocco. It currently ranks twenty-ninth at national level in terms of passenger numbers. It has the capacity to move up to 500,000 passengers and the annual average of passengers is around 490,000. In 2024 it reached 507,957 passengers. Currently, only one airline, Iberia Regional/Air Nostrum, operates commercial passenger flights from the airport to eleven Spanish cities: Almería, Asturias, Barcelona, Granada, Gran Canaria, Madrid, Málaga, Palma de Mallorca, Santiago de Compostela, Seville and Tenerife North. Between 1931 and 1967 Melilla was served by the Tauima Aerodrome, even when Morocco had gained its independence in 1956. This Spanish controlled airport opened in 1969.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Melilla_Airport",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/%28Melilla%29_Aterrizando_en_Melilla_%2816668390111%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%28Melilla%29_Aterrizando_en_Melilla_%2816668390111%29.jpg/330px-%28Melilla%29_Aterrizando_en_Melilla_%2816668390111%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "(melilla)_aterrizando_en_melilla_(16668390111).jpg",
+          "width": 1926,
+          "height": 1199,
+          "title": "Melilla",
+          "description": "Spanish autonomous city in northwestern Africa",
+          "extract": "Melilla is an autonomous city of Spain on the North African coast. It lies on the eastern side of the Cape Three Forks, on the Morocco–Spain border, adjacent to the Moroccan port town of Beni Ansar, and faces the Mediterranean Sea. It has an area of 12.3 km2 (4.7 sq mi).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Melilla",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "PauknAir Flight 4101",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/PauknAir_Flight_4101",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "09-25-1997-54a156c9",
+      "year": 1997,
+      "text": "NASA launches Space Shuttle Atlantis on STS-86 to the Mir space station.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+        "width": 3697,
+        "height": 2217,
+        "title": "Space Shuttle Atlantis",
+        "description": "Space Shuttle orbiter (1985–2011)",
+        "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+          "width": 3697,
+          "height": 2217,
+          "title": "Space Shuttle Atlantis",
+          "description": "Space Shuttle orbiter (1985–2011)",
+          "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/STS86_Mir_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/STS86_Mir_Station.jpg/330px-STS86_Mir_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts86_mir_station.jpg",
+          "width": 1536,
+          "height": 1559,
+          "title": "STS-86",
+          "description": "1997 American crewed spaceflight to ''Mir''",
+          "extract": "STS-86 was a Space Shuttle Atlantis mission to the Mir space station. This was the last Atlantis mission before it was taken out of service temporarily for maintenance and upgrades, including the glass cockpit.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-86",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg/330px-Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mir_space_station_viewed_from_endeavour_during_sts-89.jpg",
+          "width": 3124,
+          "height": 3044,
+          "title": "Mir",
+          "description": "Soviet/Russian space station (1986–2001)",
+          "extract": "Mir was a space station operated in low Earth orbit from 1986 to 2001, first by the Soviet Union and later by the Russian Federation. Mir was the first modular space station and was assembled in orbit from 1986 to 1996. At the time it was the largest artificial satellite in orbit, only being succeeded by the International Space Station (ISS) after Mir's deorbiting in 2001. The station served as a microgravity research laboratory in which crews conducted experiments in biology, human biology, physics, astronomy, meteorology, and spacecraft systems with a goal of developing technologies required for permanent occupation of space.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mir",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Atlantis",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-25-1992-ac5d14a5",
+      "year": 1992,
+      "text": "NASA launches the Mars Observer. Eleven months later, the probe would fail while preparing for orbital insertion.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mars_Observer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mars_Observer.jpg/330px-Mars_Observer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mars_observer.jpg",
+        "width": 1000,
+        "height": 761,
+        "title": "Mars Observer",
+        "description": "Failed NASA orbiter mission to Mars (1992–1993)",
+        "extract": "Mars Observer was an American robotic space probe launched by NASA on September 25, 1992, to study the surface, atmosphere, climate and magnetic field of Mars. The spacecraft was developed and managed by the Jet Propulsion Laboratory.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Observer",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mars_Observer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mars_Observer.jpg/330px-Mars_Observer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mars_observer.jpg",
+          "width": 1000,
+          "height": 761,
+          "title": "Mars Observer",
+          "description": "Failed NASA orbiter mission to Mars (1992–1993)",
+          "extract": "Mars Observer was an American robotic space probe launched by NASA on September 25, 1992, to study the surface, atmosphere, climate and magnetic field of Mars. The spacecraft was developed and managed by the Jet Propulsion Laboratory.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Observer",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bell_X-1A_in_flight.jpg/1280px-Bell_X-1A_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bell_X-1A_in_flight.jpg/1280px-Bell_X-1A_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bell_x-1a_in_flight.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A US Air Force Bell X-1 test flight",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-25-1987-4a5ead70",
+      "year": 1987,
+      "text": "Fijian Governor-General Penaia Ganilau is overthrown in a coup d'état led by Lieutenant colonel Sitiveni Rabuka.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Penaia_Ganilau_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Penaia_Ganilau_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "penaia_ganilau_1961.jpg",
+        "width": 205,
+        "height": 219,
+        "title": "Penaia Ganilau",
+        "description": "President of Fiji from 1987 to 1993",
+        "extract": "Ratu Sir Penaia Kanatabatu Ganilau was a Fijian politician who served as the first President of Fiji, serving from 8 December 1987 until his death in 1993. He had previously served as Governor-General of Fiji, representing Elizabeth II, Queen of Fiji, from 12 February 1983 to 15 October 1987.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Penaia_Ganilau",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Penaia_Ganilau_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Penaia_Ganilau_1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "penaia_ganilau_1961.jpg",
+          "width": 205,
+          "height": 219,
+          "title": "Penaia Ganilau",
+          "description": "President of Fiji from 1987 to 1993",
+          "extract": "Ratu Sir Penaia Kanatabatu Ganilau was a Fijian politician who served as the first President of Fiji, serving from 8 December 1987 until his death in 1993. He had previously served as Governor-General of Fiji, representing Elizabeth II, Queen of Fiji, from 12 February 1983 to 15 October 1987.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Penaia_Ganilau",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/2025_Sitiveni_Rabuka_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/2025_Sitiveni_Rabuka_%28cropped%29.jpg/330px-2025_Sitiveni_Rabuka_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2025_sitiveni_rabuka_(cropped).jpg",
+          "width": 431,
+          "height": 577,
+          "title": "Sitiveni Rabuka",
+          "description": "Prime Minister of Fiji (1992–1999; since 2022)",
+          "extract": "Sitiveni Ligamamada Rabuka is a Fijian politician, sportsman, and former soldier who has been serving as Prime Minister of Fiji since 24 December 2022. He was the instigator of two military coups in 1987. He was democratically elected as Prime Minister of Fiji, serving from 1992 to 1999, and again in 2022, leading a three-party coalition. He also served as Chairman of the Great Council of Chiefs from 1999 to 2001, and later as Chairman of the Cakaudrove Provincial Council from 2001 to 2008.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sitiveni_Rabuka",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Penaia Ganilau",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Penaia_Ganilau",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-25-1906-91a8882f",
+      "year": 1906,
+      "text": "Leonardo Torres Quevedo demonstrates the Telekino in the Bilbao Abra (Spain), guiding an electric boat from the shore with people on board, which was controlled at a distance over 2 km (1.2 mi), in what is considered to be the origin of modern wireless remote-control operation principles.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/1921_Leonardo_Torres_Quevedo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1921_Leonardo_Torres_Quevedo.jpg/330px-1921_Leonardo_Torres_Quevedo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "1921_leonardo_torres_quevedo.jpg",
+        "width": 1098,
+        "height": 1537,
+        "title": "Leonardo Torres Quevedo",
+        "description": "Spanish civil engineer (1852–1936)",
+        "extract": "Leonardo Torres Quevedo was a Spanish civil engineer, mathematician, and inventor who developed numerous engineering innovations related to aerial trams, airships, catamarans, and remote control. He was also a pioneer in the fields of computing and robotics, while maintaining an active role in several scientific and cultural institutions. He held prominent positions, such as Seat N of the Real Academia Española (1920–1936) and the presidency of the Spanish Royal Academy of Sciences (1928–1934). In 1927, he became a foreign associate of the French Academy of Sciences.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leonardo_Torres_Quevedo",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/1921_Leonardo_Torres_Quevedo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1921_Leonardo_Torres_Quevedo.jpg/330px-1921_Leonardo_Torres_Quevedo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1921_leonardo_torres_quevedo.jpg",
+          "width": 1098,
+          "height": 1537,
+          "title": "Leonardo Torres Quevedo",
+          "description": "Spanish civil engineer (1852–1936)",
+          "extract": "Leonardo Torres Quevedo was a Spanish civil engineer, mathematician, and inventor who developed numerous engineering innovations related to aerial trams, airships, catamarans, and remote control. He was also a pioneer in the fields of computing and robotics, while maintaining an active role in several scientific and cultural institutions. He held prominent positions, such as Seat N of the Real Academia Española (1920–1936) and the presidency of the Spanish Royal Academy of Sciences (1928–1934). In 1927, he became a foreign associate of the French Academy of Sciences.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Leonardo_Torres_Quevedo",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Juan_de_Barroeta_-_View_of_El_Abra%2C_Bilbao%2C_from_Algorta_-_Google_Art_Project.jpg/3840px-Juan_de_Barroeta_-_View_of_El_Abra%2C_Bilbao%2C_from_Algorta_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Juan_de_Barroeta_-_View_of_El_Abra%2C_Bilbao%2C_from_Algorta_-_Google_Art_Project.jpg/330px-Juan_de_Barroeta_-_View_of_El_Abra%2C_Bilbao%2C_from_Algorta_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "juan_de_barroeta_-_view_of_el_abra,_bilbao,_from_algorta_-_google_art_project.jpg",
+          "width": 4333,
+          "height": 2273,
+          "title": "Bilbao Abra",
+          "description": "Part of the Bay of Biscay in Spain",
+          "extract": "The Bilbao Abra is a bay of the Bay of Biscay, in the Atlantic Ocean, that is located at the mouth of the Estuary of Bilbao, in Biscay (Spain). The bay is delimited by the capes of Punta Galea to the north and Punta Lucero to the south. The inner part of the bay is enclosed by the docks of the Port of Bilbao and in the outer south shores new docks are being built.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bilbao_Abra",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Autografo_leonardo_torres_quevedo.png/500px-Autografo_leonardo_torres_quevedo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Autografo_leonardo_torres_quevedo.png/500px-Autografo_leonardo_torres_quevedo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "autografo_leonardo_torres_quevedo.png",
+          "width": 800,
+          "height": 600,
+          "title": "Autografo_leonardo_torres_quevedo",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Leonardo_Torres_Quevedo",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Leonardo Torres Quevedo",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Leonardo_Torres_Quevedo",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-25-2018-a5d86632",
+      "year": 2018,
+      "text": "Bill Cosby is sentenced to three to ten years in prison for aggravated sexual assault.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg/330px-The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "the_world_affairs_council_and_girard_college_present_bill_cosby_(6343666943)_(cropped_to_cosby).jpg",
+        "width": 1358,
+        "height": 1914,
+        "title": "Bill Cosby",
+        "description": "American entertainer (born 1937)",
+        "extract": "William Henry Cosby Jr. is an American former comedian, actor, and media personality. Often deemed a trailblazer for African Americans in the entertainment industry, Cosby was well known in the United States for his stand-up comedy routines and television career before achieving global recognition for his portrayal of Cliff Huxtable in the sitcom The Cosby Show (1984–1992). He was also prolific in advertising for decades and was the recipient of numerous awards and honorary degrees throughout his career, many of which were revoked after dozens of allegations of sexual assault were made against him, starting in 2014 and culminating in a 2018 conviction for aggravated indecent assault.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bill_Cosby",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg/330px-The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_world_affairs_council_and_girard_college_present_bill_cosby_(6343666943)_(cropped_to_cosby).jpg",
+          "width": 1358,
+          "height": 1914,
+          "title": "Bill Cosby",
+          "description": "American entertainer (born 1937)",
+          "extract": "William Henry Cosby Jr. is an American former comedian, actor, and media personality. Often deemed a trailblazer for African Americans in the entertainment industry, Cosby was well known in the United States for his stand-up comedy routines and television career before achieving global recognition for his portrayal of Cliff Huxtable in the sitcom The Cosby Show (1984–1992). He was also prolific in advertising for decades and was the recipient of numerous awards and honorary degrees throughout his career, many of which were revoked after dozens of allegations of sexual assault were made against him, starting in 2014 and culminating in a 2018 conviction for aggravated indecent assault.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bill_Cosby",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/1957_December_23_US_Navy_Medicine_photo_of_Bill_Cosby.jpg/1280px-1957_December_23_US_Navy_Medicine_photo_of_Bill_Cosby.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/1957_December_23_US_Navy_Medicine_photo_of_Bill_Cosby.jpg/1280px-1957_December_23_US_Navy_Medicine_photo_of_Bill_Cosby.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "1957_december_23_us_navy_medicine_photo_of_bill_cosby.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Cosby as a basketball player during his Navy service in 1957",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bill_Cosby",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Bill Cosby",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bill_Cosby",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-25-1974-b884d8df",
+      "year": 1974,
+      "text": "Dr. Frank Jobe performs first ulnar collateral ligament replacement surgery (better known as Tommy John surgery) on baseball player Tommy John.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "frank_jobe.jpg",
+        "width": 274,
+        "height": 362,
+        "title": "Frank Jobe",
+        "description": "American orthopedic surgeon and co-founder of the Kerlan-Jobe Orthopaedic Clinic",
+        "extract": "Frank Wilson Jobe was an American orthopedic surgeon and co-founder of the Kerlan-Jobe Orthopaedic Clinic. Jobe pioneered both elbow ligament replacement and major reconstructive shoulder surgery for baseball players.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frank_Jobe",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "frank_jobe.jpg",
+          "width": 274,
+          "height": 362,
+          "title": "Frank Jobe",
+          "description": "American orthopedic surgeon and co-founder of the Kerlan-Jobe Orthopaedic Clinic",
+          "extract": "Frank Wilson Jobe was an American orthopedic surgeon and co-founder of the Kerlan-Jobe Orthopaedic Clinic. Jobe pioneered both elbow ligament replacement and major reconstructive shoulder surgery for baseball players.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Frank_Jobe",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Tommy_John_-_New_York_Yankees_-_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Tommy_John_-_New_York_Yankees_-_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "tommy_john_-_new_york_yankees_-_1981.jpg",
+          "width": 291,
+          "height": 311,
+          "title": "Tommy John",
+          "description": "American baseball player (1943–2026)",
+          "extract": "Thomas Edward John Jr., nicknamed \"the Bionic Man\", was an American professional baseball pitcher who played in Major League Baseball (MLB) for 26 seasons between 1963 and 1989. He played for the Cleveland Indians, Chicago White Sox, Los Angeles Dodgers, New York Yankees, California Angels, and Oakland Athletics. He was a four-time MLB All-Star and has the second-most wins (288) of any pitcher since 1900 not in the Hall of Fame. Known for his longevity, John was an Opening Day starter six times – three for the White Sox and three times for the Yankees.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tommy_John",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Frank Jobe",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Frank_Jobe",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-25-1959-6c10a7dc",
+      "year": 1959,
+      "text": "S. W. R. D. Bandaranaike, Prime Minister of Ceylon, is mortally shot by a Buddhist monk, Talduwe Somarama, and dies the next day.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg/3840px-Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg/330px-Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "official_photographic_portrait_of_s.w.r.d.bandaranayaka_(1899-1959).jpg",
+        "width": 4740,
+        "height": 5947,
+        "title": "S. W. R. D. Bandaranaike",
+        "description": "4th Prime Minister of the Dominion of Ceylon (now Sri Lanka) from 1956 to 1959",
+        "extract": "Solomon West Ridgeway Dias Bandaranaike, also known as \"The Silver Bell of Asia\", was a Ceylonese statesman who served as the fourth Prime Minister of the Dominion of Ceylon, from 1956 until his assassination in 1959. The founder of the left-wing and Sinhalese nationalist Sri Lanka Freedom Party (SLFP), he was elected the fourth Prime Minister of Ceylon after creating a powerful coalition called the Mahajana Eksath Peramuna and contesting on the lines of Sinhalese nationalism and democratic socialism. He achieved a landslide victory over the ruling United National Party in the general elections in 1956.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/S._W._R._D._Bandaranaike",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg/3840px-Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg/330px-Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_photographic_portrait_of_s.w.r.d.bandaranayaka_(1899-1959).jpg",
+          "width": 4740,
+          "height": 5947,
+          "title": "S. W. R. D. Bandaranaike",
+          "description": "4th Prime Minister of the Dominion of Ceylon (now Sri Lanka) from 1956 to 1959",
+          "extract": "Solomon West Ridgeway Dias Bandaranaike, also known as \"The Silver Bell of Asia\", was a Ceylonese statesman who served as the fourth Prime Minister of the Dominion of Ceylon, from 1956 until his assassination in 1959. The founder of the left-wing and Sinhalese nationalist Sri Lanka Freedom Party (SLFP), he was elected the fourth Prime Minister of Ceylon after creating a powerful coalition called the Mahajana Eksath Peramuna and contesting on the lines of Sinhalese nationalism and democratic socialism. He achieved a landslide victory over the ruling United National Party in the general elections in 1956.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/S._W._R._D._Bandaranaike",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "S. W. R. D. Bandaranaike",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/S._W._R._D._Bandaranaike",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-25-1990-94249e26",
+      "year": 1990,
+      "text": "The Ram Rath Yatra, a political–religious rally organised to erect a temple to the Hindu deity Rama on the site of the Babri Masjid in Ayodhya, began in the Indian state of Gujarat.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rama_in_Adhyatma_Ramayana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rama_in_Adhyatma_Ramayana.jpg/330px-Rama_in_Adhyatma_Ramayana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "rama_in_adhyatma_ramayana.jpg",
+        "width": 2402,
+        "height": 3915,
+        "title": "Rama",
+        "description": "Major deity in Hinduism",
+        "extract": "Rama, also known as Ram, is a major deity in Hinduism, who is worshipped as one of the prominent avatars of Vishnu. Rama is considered an ideal man and is the heroic protagonist of the Hindu epic Ramayana. In Rama-centric Hindu traditions, he is considered the Supreme Being. Often respectfully referred to as Sri Rama, his life is celebrated through several festivals: birth on Rama Navami, victory in battle on Vijayadashami, and return to Ayodhya on Diwali, which is marked by lights and fireworks. Legends of Rama also feature in the texts of Jainism and Buddhism.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rama",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rama_in_Adhyatma_Ramayana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rama_in_Adhyatma_Ramayana.jpg/330px-Rama_in_Adhyatma_Ramayana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rama_in_adhyatma_ramayana.jpg",
+          "width": 2402,
+          "height": 3915,
+          "title": "Rama",
+          "description": "Major deity in Hinduism",
+          "extract": "Rama, also known as Ram, is a major deity in Hinduism, who is worshipped as one of the prominent avatars of Vishnu. Rama is considered an ideal man and is the heroic protagonist of the Hindu epic Ramayana. In Rama-centric Hindu traditions, he is considered the Supreme Being. Often respectfully referred to as Sri Rama, his life is celebrated through several festivals: birth on Rama Navami, victory in battle on Vijayadashami, and return to Ayodhya on Diwali, which is marked by lights and fireworks. Legends of Rama also feature in the texts of Jainism and Buddhism.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rama",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Babri_Masjid_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Babri_Masjid_%28cropped%29.jpg/330px-Babri_Masjid_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "babri_masjid_(cropped).jpg",
+          "width": 2965,
+          "height": 2127,
+          "title": "Babri Masjid",
+          "description": "Destroyed mosque in Ayodhya, Uttar Pradesh, India",
+          "extract": "The Babri Masjid was a mosque located in Ayodhya, in the state of Uttar Pradesh, India. Many Hindus believe that the location where it stood is the site of Ram Janmabhoomi, the mythical birthplace of Rama, a principal deity of Hinduism. The Ayodhya dispute has been a disputed focal point between the Hindu and Muslim communities since the 19th century. According to the mosque's inscriptions, it was built in 935 AH (1528/1529 CE) by Mir Baqi, a commander of the Mughal emperor Babur. Before the 1940s, the masjid was officially known as \"Masjid-i-Janmasthan\". The mosque was attacked and demolished by a Hindu nationalist mob in 1992, which ignited communal violence across the Indian subcontinent.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Babri_Masjid",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Shri_Ram_Janambhoomi_Mandir%2C_Ayodhya_Dham.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Shri_Ram_Janambhoomi_Mandir%2C_Ayodhya_Dham.jpg/330px-Shri_Ram_Janambhoomi_Mandir%2C_Ayodhya_Dham.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "shri_ram_janambhoomi_mandir,_ayodhya_dham.jpg",
+          "width": 2200,
+          "height": 1662,
+          "title": "Ayodhya",
+          "description": "City in Uttar Pradesh, India",
+          "extract": "Ayodhya is a city situated on the banks of the Sarayu river in the Indian state of Uttar Pradesh. It is the administrative headquarters of the Ayodhya district as well as the Ayodhya division of Uttar Pradesh, India. Ayodhya became the top tourist destination of Uttar Pradesh with 110 million visitors in the first half of 2024, surpassing Varanasi.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ayodhya",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Ram Rath Yatra",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ram_Rath_Yatra",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "09-25-2003-601e4f09",
+      "year": 2003,
+      "text": "The 8.3 Mw Hokkaidō earthquake strikes just offshore Hokkaidō, Japan.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg/330px-2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2003年十勝沖地震による苫小牧での石油タンクの火災.jpg",
+        "width": 1600,
+        "height": 1200,
+        "title": "2003 Tokachi earthquake",
+        "description": "Earthquake in Japan",
+        "extract": "The 2003 Tokachi earthquake, known in Japanese as the 2003 Tokachi-Oki earthquake , occurred off the coast of Hokkaido, Japan on 26 September at 04:50 local time. At a focal depth of 27 km (17 mi), this great undersea earthquake measured 8.3 on the moment magnitude scale, making it the most powerful earthquake of 2003, as well as one of the most intense earthquakes to hit Japan since modern record-keeping began in 1900.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2003_Tokachi_earthquake",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg/330px-2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2003年十勝沖地震による苫小牧での石油タンクの火災.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": "2003 Tokachi earthquake",
+          "description": "Earthquake in Japan",
+          "extract": "The 2003 Tokachi earthquake, known in Japanese as the 2003 Tokachi-Oki earthquake , occurred off the coast of Hokkaido, Japan on 26 September at 04:50 local time. At a focal depth of 27 km (17 mi), this great undersea earthquake measured 8.3 on the moment magnitude scale, making it the most powerful earthquake of 2003, as well as one of the most intense earthquakes to hit Japan since modern record-keeping began in 1900.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2003_Tokachi_earthquake",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "2003 Tokachi earthquake",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2003_Tokachi_earthquake",
+      "relatedPagesCount": 1
+    }
+  ]
+}

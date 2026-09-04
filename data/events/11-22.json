@@ -1,0 +1,667 @@
+{
+  "date": {
+    "month": 11,
+    "day": 22,
+    "formatted": "11-22"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "11-22-1995-45013f22",
+      "year": 1995,
+      "text": "Toy Story, the first feature film created using only computer-generated imagery, was released in theaters in the United States.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "toy_story.jpg",
+        "width": 250,
+        "height": 373,
+        "title": "Toy Story",
+        "description": "1995 film by John Lasseter",
+        "extract": "Toy Story is a 1995 American animated adventure comedy film directed by John Lasseter, and written by Joss Whedon, Andrew Stanton, Joel Cohen, and Alec Sokolow. The first entirely computer-animated feature film, as well as the first feature film produced by Pixar Animation Studios, it stars the voices of Tom Hanks, Tim Allen, Annie Potts, John Ratzenberger, Don Rickles, Wallace Shawn, and Jim Varney. Set in a world where toys come to life, Toy Story follows an old-fashioned cowboy doll named Woody (Hanks), who becomes jealous that a space cadet action figure, Buzz Lightyear (Allen), is replacing him as the favorite toy of their owner Andy.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Toy_Story",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "toy_story.jpg",
+          "width": 250,
+          "height": 373,
+          "title": "Toy Story",
+          "description": "1995 film by John Lasseter",
+          "extract": "Toy Story is a 1995 American animated adventure comedy film directed by John Lasseter, and written by Joss Whedon, Andrew Stanton, Joel Cohen, and Alec Sokolow. The first entirely computer-animated feature film, as well as the first feature film produced by Pixar Animation Studios, it stars the voices of Tom Hanks, Tim Allen, Annie Potts, John Ratzenberger, Don Rickles, Wallace Shawn, and Jim Varney. Set in a world where toys come to life, Toy Story follows an old-fashioned cowboy doll named Woody (Hanks), who becomes jealous that a space cadet action figure, Buzz Lightyear (Allen), is replacing him as the favorite toy of their owner Andy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Toy_Story",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Morphogenic_digital_art_exhibition_by_Andy_Lomas_at_Watermans_Arts_Centre%2C_London.jpg/3840px-Morphogenic_digital_art_exhibition_by_Andy_Lomas_at_Watermans_Arts_Centre%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Morphogenic_digital_art_exhibition_by_Andy_Lomas_at_Watermans_Arts_Centre%2C_London.jpg/330px-Morphogenic_digital_art_exhibition_by_Andy_Lomas_at_Watermans_Arts_Centre%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "morphogenic_digital_art_exhibition_by_andy_lomas_at_watermans_arts_centre,_london.jpg",
+          "width": 4000,
+          "height": 3000,
+          "title": "Computer-generated imagery",
+          "description": "Application of computer graphics to create or contribute to images",
+          "extract": "Computer-generated imagery (CGI) is a specific application of computer graphics for creating or improving images in art, printed media, simulators, videos, and video games. These images are either static or dynamic. CGI both refers to 2D computer graphics and 3D computer graphics with the purpose of designing characters, virtual worlds, or scenes and special effects. The application of CGI for creating or improving animations is called computer animation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Computer-generated_imagery",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TomHanksPrincEdw031223_%2811_of_41%29_%28cropped%29.jpg/500px-TomHanksPrincEdw031223_%2811_of_41%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/TomHanksPrincEdw031223_%2811_of_41%29_%28cropped%29.jpg/500px-TomHanksPrincEdw031223_%2811_of_41%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "tomhanksprincedw031223_(11_of_41)_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "TomHanksPrincEdw031223_(11_of_41)_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Toy_Story",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Toy Story",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Toy_Story",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-22-1989-4a7bd94e",
+      "year": 1989,
+      "text": "NASA launches Space Shuttle Discovery on STS-33, a classified mission for the United States Department of Defense.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+        "width": 3336,
+        "height": 2507,
+        "title": "Space Shuttle Discovery",
+        "description": "Space Shuttle orbiter (1984–2011)",
+        "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+          "width": 3336,
+          "height": 2507,
+          "title": "Space Shuttle Discovery",
+          "description": "Space Shuttle orbiter (1984–2011)",
+          "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/STS-33_Tail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/STS-33_Tail.jpg/330px-STS-33_Tail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-33_tail.jpg",
+          "width": 600,
+          "height": 448,
+          "title": "STS-33",
+          "description": "1989 American crewed spaceflight for the Department of Defense",
+          "extract": "STS-33 was a NASA Space Shuttle mission and the 9th flight of Discovery, during which Space Shuttle Discovery deployed a payload for the United States Department of Defense (DoD). It was the 32nd shuttle mission overall, the ninth flight of Discovery, the fifth shuttle mission in support of the DoD, the seventh post-Space Shuttle Challenger disaster mission and the last Shuttle mission of the 1980s. Due to the nature of the mission, specific details remain classified. Discovery lifted off from Launch Complex 39B at Kennedy Space Center (KSC), Florida, on November 22, 1989, at 7:23:30 p.m. EST; it landed at Edwards Air Force Base, California, on November 27, 1989, at 7:30:16 p.m. EST.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-33",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-22-1988-baff06c9",
+      "year": 1988,
+      "text": "The B-2 Spirit stealth bomber of the United States Air Force was first displayed in public at Air Force Plant 42 in Palmdale, California.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/RAF_F-35B_integration_flying_training_with_USAF_B-2_30092019_-_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/RAF_F-35B_integration_flying_training_with_USAF_B-2_30092019_-_4.jpg/330px-RAF_F-35B_integration_flying_training_with_USAF_B-2_30092019_-_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "raf_f-35b_integration_flying_training_with_usaf_b-2_30092019_-_4.jpg",
+        "width": 3600,
+        "height": 2400,
+        "title": "Northrop B-2 Spirit",
+        "description": "American heavy strategic bomber",
+        "extract": "The Northrop B-2 Spirit is an American nuclear-capable subsonic stealth strategic bomber, often referred to as a \"stealth bomber\", solely operated by the United States Air Force. A four-engined flying wing and lambda wing with a crew of two to three, it is designed with stealth technology to penetrate sophisticated air defenses.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Northrop_B-2_Spirit",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/RAF_F-35B_integration_flying_training_with_USAF_B-2_30092019_-_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/RAF_F-35B_integration_flying_training_with_USAF_B-2_30092019_-_4.jpg/330px-RAF_F-35B_integration_flying_training_with_USAF_B-2_30092019_-_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "raf_f-35b_integration_flying_training_with_usaf_b-2_30092019_-_4.jpg",
+          "width": 3600,
+          "height": 2400,
+          "title": "Northrop B-2 Spirit",
+          "description": "American heavy strategic bomber",
+          "extract": "The Northrop B-2 Spirit is an American nuclear-capable subsonic stealth strategic bomber, often referred to as a \"stealth bomber\", solely operated by the United States Air Force. A four-engined flying wing and lambda wing with a crew of two to three, it is designed with stealth technology to penetrate sophisticated air defenses.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Northrop_B-2_Spirit",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Palmdale_Regional_Airport_-_California.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Palmdale_Regional_Airport_-_California.jpg/330px-Palmdale_Regional_Airport_-_California.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "palmdale_regional_airport_-_california.jpg",
+          "width": 748,
+          "height": 749,
+          "title": "United States Air Force Plant 42",
+          "description": "United States Air Force-owned aircraft manufacturing facility in Palmdale, California",
+          "extract": "United States Air Force Plant 42 is a classified aircraft manufacturing plant owned by the United States Air Force in the Antelope Valley, about 60 miles from downtown Los Angeles. It is also used by the National Aeronautics and Space Administration (NASA).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/United_States_Air_Force_Plant_42",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Palmdale%2C_CA.jpg/3840px-Palmdale%2C_CA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Palmdale%2C_CA.jpg/330px-Palmdale%2C_CA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "palmdale,_ca.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": "Palmdale, California",
+          "description": "City in California, United States",
+          "extract": "Palmdale is a suburban city in northern Los Angeles County, California, United States. The city lies in the Antelope Valley of Southern California. The San Gabriel Mountains separate Palmdale from the Los Angeles Basin to the south.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Palmdale%2C_California",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Northrop B-2 Spirit",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Northrop_B-2_Spirit",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-22-1986-738fdb4d",
+      "year": 1986,
+      "text": "Mike Tyson defeated Trevor Berbick to win the World Boxing Council title, becoming the youngest heavyweight champion in history.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg/330px-Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mike_tyson_photo_op_galaxycon_austin_2023.jpg",
+        "width": 844,
+        "height": 1126,
+        "title": "Mike Tyson",
+        "description": "American boxer and media personality (born 1966)",
+        "extract": "Michael Gerard Tyson is an American former professional boxer who competed between 1985 and 2024. Nicknamed \"Iron Mike\" and \"Kid Dynamite\" in his early career, and later known as \"the Baddest Man on the Planet\", Tyson is widely regarded as one of the greatest heavyweight boxers of all time, and one of the most intimidating men in boxing history. He reigned as the undisputed world heavyweight champion from 1987 to 1990.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mike_Tyson",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg/330px-Mike_Tyson_Photo_Op_GalaxyCon_Austin_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mike_tyson_photo_op_galaxycon_austin_2023.jpg",
+          "width": 844,
+          "height": 1126,
+          "title": "Mike Tyson",
+          "description": "American boxer and media personality (born 1966)",
+          "extract": "Michael Gerard Tyson is an American former professional boxer who competed between 1985 and 2024. Nicknamed \"Iron Mike\" and \"Kid Dynamite\" in his early career, and later known as \"the Baddest Man on the Planet\", Tyson is widely regarded as one of the greatest heavyweight boxers of all time, and one of the most intimidating men in boxing history. He reigned as the undisputed world heavyweight champion from 1987 to 1990.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mike_Tyson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mike_Tyson_hitting_Trevor_Berbick_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mike_Tyson_hitting_Trevor_Berbick_%28cropped%29.jpg/330px-Mike_Tyson_hitting_Trevor_Berbick_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mike_tyson_hitting_trevor_berbick_(cropped).jpg",
+          "width": 990,
+          "height": 1333,
+          "title": "Trevor Berbick",
+          "description": "Jamaican boxer (1954–2006)",
+          "extract": "Trevor Berbick was a Jamaican professional boxer who competed from 1976 to 2000. He won the WBC heavyweight title in 1986 by defeating Pinklon Thomas, then lost it in his first defense in the same year to Mike Tyson. Berbick was the last boxer to fight Muhammad Ali, defeating him in 1981 by unanimous decision.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Trevor_Berbick",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/7f/World_Boxing_Council_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/World_Boxing_Council_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "world_boxing_council_logo.png",
+          "width": 291,
+          "height": 341,
+          "title": "World Boxing Council",
+          "description": "Sanctioning organization for professional boxing bouts",
+          "extract": "The World Boxing Council (WBC) is an international professional boxing organization. It is among the four major organizations which sanction professional boxing bouts, alongside the World Boxing Association (WBA), International Boxing Federation (IBF) and World Boxing Organization (WBO).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_Boxing_Council",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Mike Tyson",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mike_Tyson",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-22-1968-5b619e74",
+      "year": 1968,
+      "text": "The Beatles released their eponymous double album, popularly known as the White Album.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/330px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "the_beatles_1963_dezo_hoffman_capitol_records_press_photo_2.jpg",
+        "width": 3621,
+        "height": 2817,
+        "title": "The Beatles",
+        "description": "English rock band (1960–1970)",
+        "extract": "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/330px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_beatles_1963_dezo_hoffman_capitol_records_press_photo_2.jpg",
+          "width": 3621,
+          "height": 2817,
+          "title": "The Beatles",
+          "description": "English rock band (1960–1970)",
+          "extract": "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/TheBeatles68LP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TheBeatles68LP.jpg/330px-TheBeatles68LP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "thebeatles68lp.jpg",
+          "width": 720,
+          "height": 720,
+          "title": "The Beatles (album)",
+          "description": "1968 studio album by the Beatles",
+          "extract": "The Beatles is the ninth studio album and only double album by the English rock band the Beatles, released on 22 November 1968. Featuring a plain white sleeve, the cover contains no graphics or text other than the band's name embossed. This was intended as a direct contrast to the vivid cover artwork of the band's previous LP, Sgt. Pepper's Lonely Hearts Club Band (1967). The Beatles is recognized for its fragmentary style and diverse range of genres, including folk, country rock, British blues, ska, music hall, hard rock and avant-garde. Some critics have since viewed it as a postmodern work, and it is widely regarded as one of the greatest albums of all time. The album was the band's first LP release on their then-recently founded Apple Records.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles_(album)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "The Beatles",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-22-1990-98957f26",
+      "year": 1990,
+      "text": "British Prime Minister Margaret Thatcher withdraws from the Conservative Party leadership election, confirming the end of her Premiership.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg/330px-Margaret_Thatcher_stock_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "margaret_thatcher_stock_portrait_(cropped).jpg",
+        "width": 790,
+        "height": 1099,
+        "title": "Margaret Thatcher",
+        "description": "Prime Minister of the United Kingdom from 1979 to 1990",
+        "extract": "Margaret Hilda Thatcher, Baroness Thatcher was a British stateswoman who served as Prime Minister of the United Kingdom from 1979 to 1990 and Leader of the Conservative Party from 1975 to 1990. She was the longest-serving British prime minister of the 20th century and the first woman to hold the office. As prime minister, she implemented policies that came to be known as Thatcherism. A Soviet journalist dubbed her the \"Iron Lady\", a nickname that became associated with her uncompromising politics and leadership style.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Margaret_Thatcher_stock_portrait_%28cropped%29.jpg/330px-Margaret_Thatcher_stock_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "margaret_thatcher_stock_portrait_(cropped).jpg",
+          "width": 790,
+          "height": 1099,
+          "title": "Margaret Thatcher",
+          "description": "Prime Minister of the United Kingdom from 1979 to 1990",
+          "extract": "Margaret Hilda Thatcher, Baroness Thatcher was a British stateswoman who served as Prime Minister of the United Kingdom from 1979 to 1990 and Leader of the Conservative Party from 1975 to 1990. She was the longest-serving British prime minister of the 20th century and the first woman to hold the office. As prime minister, she implemented policies that came to be known as Thatcherism. A Soviet journalist dubbed her the \"Iron Lady\", a nickname that became associated with her uncompromising politics and leadership style.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/John_Major_Feb._1993.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/John_Major_Feb._1993.jpg/330px-John_Major_Feb._1993.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "john_major_feb._1993.jpg",
+          "width": 792,
+          "height": 1140,
+          "title": "1990 Conservative Party leadership election",
+          "description": "British leadership election to replace Margaret Thatcher",
+          "extract": "The 1990 Conservative Party leadership election was called on 14 November 1990 following the decision of Michael Heseltine, former defence and environment secretary, to challenge Margaret Thatcher, the incumbent Prime Minister of the United Kingdom, for leadership of the Conservative Party.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1990_Conservative_Party_leadership_election",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Premier_Thatcher_932-7042_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Premier_Thatcher_932-7042_%28cropped%29.jpg/330px-Premier_Thatcher_932-7042_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "premier_thatcher_932-7042_(cropped).jpg",
+          "width": 1227,
+          "height": 2079,
+          "title": "Premiership of Margaret Thatcher",
+          "description": "Period of the Government of the United Kingdom from 1979 to 1990",
+          "extract": "Margaret Thatcher's tenure as Prime Minister of the United Kingdom began on 4 May 1979 when she accepted an invitation from Queen Elizabeth II to form a government, succeeding James Callaghan of the Labour Party, and ended on 28 November 1990 upon her resignation. Thatcher, who had been Leader of the Conservative Party since her election in 1975, had led the Conservative Party to victory at the 1979 general election, and won landslide re-elections for the party in 1983 and in 1987. She was the longest-serving British prime minister of the 20th century and the first woman to hold the office. As prime minister Thatcher also served simultaneously as First Lord of the Treasury and Minister for the Civil Service.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Premiership_of_Margaret_Thatcher",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Prime Minister of the United Kingdom",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Prime_Minister_of_the_United_Kingdom",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-22-2013-7accbc6e",
+      "year": 2013,
+      "text": "Norwegian chess grandmaster Magnus Carlsen (pictured) defeated India's Viswanathan Anand to become world chess champion.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Magnus_Carlsen_at_Rapid_Blitz_2025_%28v2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Magnus_Carlsen_at_Rapid_Blitz_2025_%28v2%29.jpg/330px-Magnus_Carlsen_at_Rapid_Blitz_2025_%28v2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "magnus_carlsen_at_rapid_blitz_2025_(v2).jpg",
+        "width": 1007,
+        "height": 1329,
+        "title": "Magnus Carlsen",
+        "description": "Norwegian chess grandmaster (born 1990)",
+        "extract": "Sven Magnus Øen Carlsen is a Norwegian chess grandmaster. Carlsen is a five-time World Chess Champion, reigning six-time World Rapid Chess Champion, reigning nine-time World Blitz Chess Champion and the reigning FIDE Freestyle Chess World Champion. Carlsen has held the No. 1 position in the FIDE rankings since 1 July 2011, the longest consecutive period, and trails only Garry Kasparov in time spent as the highest-rated player in the world. Carlsen's peak rating of 2882 is the highest in history. He also holds the record for the longest unbeaten streak at the elite level in classical chess at 125 games.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Magnus_Carlsen",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Magnus_Carlsen_at_Rapid_Blitz_2025_%28v2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Magnus_Carlsen_at_Rapid_Blitz_2025_%28v2%29.jpg/330px-Magnus_Carlsen_at_Rapid_Blitz_2025_%28v2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "magnus_carlsen_at_rapid_blitz_2025_(v2).jpg",
+          "width": 1007,
+          "height": 1329,
+          "title": "Magnus Carlsen",
+          "description": "Norwegian chess grandmaster (born 1990)",
+          "extract": "Sven Magnus Øen Carlsen is a Norwegian chess grandmaster. Carlsen is a five-time World Chess Champion, reigning six-time World Rapid Chess Champion, reigning nine-time World Blitz Chess Champion and the reigning FIDE Freestyle Chess World Champion. Carlsen has held the No. 1 position in the FIDE rankings since 1 July 2011, the longest consecutive period, and trails only Garry Kasparov in time spent as the highest-rated player in the world. Carlsen's peak rating of 2882 is the highest in history. He also holds the record for the longest unbeaten streak at the elite level in classical chess at 125 games.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Magnus_Carlsen",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Viswanathan_Anand_%282016%29_%28cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Viswanathan_Anand_%282016%29_%28cropped%29.jpeg/330px-Viswanathan_Anand_%282016%29_%28cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "viswanathan_anand_(2016)_(cropped).jpeg",
+          "width": 2621,
+          "height": 2832,
+          "title": "Viswanathan Anand",
+          "description": "Indian chess grandmaster (born 1969)",
+          "extract": "Viswanathan \"Vishy\" Anand is an Indian chess grandmaster. Anand is a four-time undisputed World Chess Champion, a FIDE World Chess Champion, a 13-time World Rapid Chess Champion, and a World Blitz Chess Champion. He became the first grandmaster from India in 1988 and became the fourth player in history to pass the 2800 Elo mark on the FIDE rating list In April 2006. He occupied the number-one position for 21 months, the sixth-longest period on record, and has the eighth-highest peak FIDE rating of all time.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Viswanathan_Anand",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/VishyAnand09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/VishyAnand09.jpg/330px-VishyAnand09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "vishyanand09.jpg",
+          "width": 956,
+          "height": 1123,
+          "title": "World Chess Championship 2013",
+          "description": "Chess match between Viswanathan Anand and Magnus Carlsen",
+          "extract": "The World Chess Championship 2013 was a match between reigning world champion Viswanathan Anand and challenger Magnus Carlsen, to determine the World Chess Champion. It was held from 7 to 25 November 2013 in Chennai, India, under the auspices of FIDE.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_Chess_Championship_2013",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Magnus Carlsen",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Magnus_Carlsen",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-22-1987-5a8e6d06",
+      "year": 1987,
+      "text": "Two television stations in Chicago had their broadcast signals hijacked with footage of an unknown person wearing a Max Headroom mask and costume.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Max_Headroom_broadcast_signal_intrusion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Max_Headroom_broadcast_signal_intrusion.jpg/330px-Max_Headroom_broadcast_signal_intrusion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "max_headroom_broadcast_signal_intrusion.jpg",
+        "width": 446,
+        "height": 301,
+        "title": "Max Headroom signal hijackings",
+        "description": "1987 Chicago television hijacking incident",
+        "extract": "On November 22, 1987, two television stations based in Chicago, Illinois, were hijacked two hours apart from one another by unidentified perpetrators. Both hijackings briefly sent pirate broadcasts of an unidentified person wearing a Max Headroom mask and costume to thousands of homes in the Chicago metropolitan area.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Max_Headroom_signal_hijackings",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Max_Headroom_broadcast_signal_intrusion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Max_Headroom_broadcast_signal_intrusion.jpg/330px-Max_Headroom_broadcast_signal_intrusion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "max_headroom_broadcast_signal_intrusion.jpg",
+          "width": 446,
+          "height": 301,
+          "title": "Max Headroom signal hijackings",
+          "description": "1987 Chicago television hijacking incident",
+          "extract": "On November 22, 1987, two television stations based in Chicago, Illinois, were hijacked two hours apart from one another by unidentified perpetrators. Both hijackings briefly sent pirate broadcasts of an unidentified person wearing a Max Headroom mask and costume to thousands of homes in the Chicago metropolitan area.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Max_Headroom_signal_hijackings",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/16/Max_Headroom_2.3m.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Max_Headroom_2.3m.jpg/330px-Max_Headroom_2.3m.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "max_headroom_2.3m.jpg",
+          "width": 355,
+          "height": 281,
+          "title": "Max Headroom",
+          "description": "American fictional character developed for British TV",
+          "extract": "Max Headroom is a fictional character played by actor Matt Frewer. Advertised as \"the first computer-generated TV presenter\", Max was known for his biting commentary on a variety of topical issues, arrogant wit, stuttering, and pitch-shifting voice. The character was created by British video directors and artists George Stone, Annabel Jankel, and Rocky Morton. Max was advertised as \"computer-generated\", and some believed this, but he was actually Frewer wearing prosthetic makeup, contact lenses, and a plastic moulded suit, and sitting in front of a blue screen. Harsh lighting and other editing and recording effects heighten the illusion of a CGI character. According to his creators, Max's personality was meant to be a satirical exaggeration of the worst tendencies of American television hosts in the 1980s who wanted to appeal to youth culture, yet were not a part of it. Frewer proposed that Max reflected an innocence, largely influenced not by mentors and life experience but by information absorbed from television.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Max_Headroom",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Max Headroom signal hijackings",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Max_Headroom_signal_hijackings",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-22-1869-4aaa27f1",
+      "year": 1869,
+      "text": "In Dumbarton, Scotland, the clipper Cutty Sark is launched.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/River_Leven_joins_the_River_Clyde_-_geograph.org.uk_-_674060.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/River_Leven_joins_the_River_Clyde_-_geograph.org.uk_-_674060.jpg/330px-River_Leven_joins_the_River_Clyde_-_geograph.org.uk_-_674060.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "river_leven_joins_the_river_clyde_-_geograph.org.uk_-_674060.jpg",
+        "width": 640,
+        "height": 480,
+        "title": "Dumbarton",
+        "description": "Town in Scotland",
+        "extract": "Dumbarton is a town in West Dunbartonshire, Scotland, on the north bank of the River Clyde where the River Leven flows into the Clyde estuary. In 2006, it had an estimated population of 19,990.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dumbarton",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/River_Leven_joins_the_River_Clyde_-_geograph.org.uk_-_674060.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/River_Leven_joins_the_River_Clyde_-_geograph.org.uk_-_674060.jpg/330px-River_Leven_joins_the_River_Clyde_-_geograph.org.uk_-_674060.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "river_leven_joins_the_river_clyde_-_geograph.org.uk_-_674060.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "Dumbarton",
+          "description": "Town in Scotland",
+          "extract": "Dumbarton is a town in West Dunbartonshire, Scotland, on the north bank of the River Clyde where the River Leven flows into the Clyde estuary. In 2006, it had an estimated population of 19,990.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dumbarton",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Taeping_%28clipper%2C_1863%29_-_SLV_H91.325-1033.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Taeping_%28clipper%2C_1863%29_-_SLV_H91.325-1033.jpg/330px-Taeping_%28clipper%2C_1863%29_-_SLV_H91.325-1033.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "taeping_(clipper,_1863)_-_slv_h91.325-1033.jpg",
+          "width": 3200,
+          "height": 2149,
+          "title": "Clipper",
+          "description": "Merchant sailing ship of the 19th century",
+          "extract": "A clipper was a type of mid-19th-century merchant sailing vessel, designed for speed. The term was also retrospectively applied to the Baltimore clipper, which originated in the late 18th century.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Clipper",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Northeast_View_of_the_Cutty_Sark_in_Greenwich.jpg/3840px-Northeast_View_of_the_Cutty_Sark_in_Greenwich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Northeast_View_of_the_Cutty_Sark_in_Greenwich.jpg/330px-Northeast_View_of_the_Cutty_Sark_in_Greenwich.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "northeast_view_of_the_cutty_sark_in_greenwich.jpg",
+          "width": 4592,
+          "height": 3448,
+          "title": "Cutty Sark",
+          "description": "British clipper ship, on display at Greenwich, England",
+          "extract": "Cutty Sark is a British clipper ship. Built on the River Leven, Dumbarton, Scotland in 1869 for the Jock Willis Shipping Line, she was one of the last tea clippers to be built and one of the fastest, at the end of a long period of design development for this type of vessel, which ended as steamships took over their routes. She was named after the fictional witch who wore only a short shift in Robert Burns's poem Tam o' Shanter, first published in 1791. The witch Cutty Sark ran after Tam o' Shanter, who was fleeing on his horse, and caught the horse's tail at the Brig o' Doon. The name was an association between the speed of the fictional witch and that of the clipper ship.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cutty_Sark",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Dumbarton",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Dumbarton",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-22-1220-987cb8c2",
+      "year": 1220,
+      "text": "Frederick II is crowned Holy Roman Emperor in Rome by Pope Honorius III.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Frederick_II_and_eagle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frederick_II_and_eagle.jpg/330px-Frederick_II_and_eagle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "frederick_ii_and_eagle.jpg",
+        "width": 593,
+        "height": 818,
+        "title": "Frederick II, Holy Roman Emperor",
+        "description": "Holy Roman Emperor from 1220 to 1250",
+        "extract": "Frederick II was King of Sicily from 1198, King of Germany from 1212, King of Italy and Holy Roman Emperor from 1220, and King of Jerusalem from 1225 to 1228. He was the son of Emperor Henry VI, of the Hohenstaufen dynasty, and Queen Constance I of Sicily, of the Hauteville dynasty.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II%2C_Holy_Roman_Emperor",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Frederick_II_and_eagle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frederick_II_and_eagle.jpg/330px-Frederick_II_and_eagle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "frederick_ii_and_eagle.jpg",
+          "width": 593,
+          "height": 818,
+          "title": "Frederick II, Holy Roman Emperor",
+          "description": "Holy Roman Emperor from 1220 to 1250",
+          "extract": "Frederick II was King of Sicily from 1198, King of Germany from 1212, King of Italy and Holy Roman Emperor from 1220, and King of Jerusalem from 1225 to 1228. He was the son of Emperor Henry VI, of the Hohenstaufen dynasty, and Queen Constance I of Sicily, of the Hauteville dynasty.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Frederick_II%2C_Holy_Roman_Emperor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Hans_Burgkmair_d._%C3%84._005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hans_Burgkmair_d._%C3%84._005.jpg/330px-Hans_Burgkmair_d._%C3%84._005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hans_burgkmair_d._ä._005.jpg",
+          "width": 964,
+          "height": 1467,
+          "title": "Holy Roman Emperor",
+          "description": "Ruler of the Holy Roman Empire from 800 to 1806",
+          "extract": "The Holy Roman Emperor, originally and officially the Emperor of the Romans during the Middle Ages, and also known as the Roman-German Emperor since the early modern period, was the ruler and head of state of the Holy Roman Empire. The title was held in conjunction with the title of King of Italy from the 8th to the 16th century, and, almost without interruption, with the title of King of Germany throughout the 12th to 18th centuries.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Holy_Roman_Emperor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Pope_Honorious_III_kneeling_at_feet_of_Christ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Pope_Honorious_III_kneeling_at_feet_of_Christ.jpg/330px-Pope_Honorious_III_kneeling_at_feet_of_Christ.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pope_honorious_iii_kneeling_at_feet_of_christ.jpg",
+          "width": 1388,
+          "height": 1046,
+          "title": "Pope Honorius III",
+          "description": "Head of the Catholic Church from 1216 to 1227",
+          "extract": "Pope Honorius III, born Cencio Savelli, was head of the Catholic Church and ruler of the Papal States from 18 July 1216 to his death. A canon at the Basilica di Santa Maria Maggiore, he came to hold a number of important administrative positions, including that of Camerlengo. In 1197, he became tutor to the young Frederick II. As pope, he worked to promote the Fifth Crusade, which had been planned under his predecessor, Innocent III. Honorius repeatedly exhorted King Andrew II of Hungary and Emperor Frederick II to fulfill their vows to participate. He also gave approval to the recently formed Dominican and Franciscan religious orders.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pope_Honorius_III",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Frederick II, Holy Roman Emperor",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Frederick_II%2C_Holy_Roman_Emperor",
+      "relatedPagesCount": 3
+    }
+  ]
+}

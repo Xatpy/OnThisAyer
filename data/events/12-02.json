@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 12,
+    "day": 2,
+    "formatted": "12-02"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "12-02-1993-6858e33d",
+      "year": 1993,
+      "text": "Space Shuttle program: STS-61: NASA launches the Space Shuttle Endeavour on a mission to repair the Hubble Space Telescope.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/STS061-98-050_-_Astronauts_Musgrave_and_Hoffman_during_servicing_of_HST_%28Retouched%29.jpg/3840px-STS061-98-050_-_Astronauts_Musgrave_and_Hoffman_during_servicing_of_HST_%28Retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/STS061-98-050_-_Astronauts_Musgrave_and_Hoffman_during_servicing_of_HST_%28Retouched%29.jpg/330px-STS061-98-050_-_Astronauts_Musgrave_and_Hoffman_during_servicing_of_HST_%28Retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts061-98-050_-_astronauts_musgrave_and_hoffman_during_servicing_of_hst_(retouched).jpg",
+        "width": 5228,
+        "height": 5277,
+        "title": "STS-61",
+        "description": "1993 American crewed spaceflight to the Hubble Space Telescope",
+        "extract": "STS-61 was NASA's first Hubble Space Telescope servicing mission, and the fifth flight of the Space Shuttle Endeavour. The mission launched on December 2, 1993, from Kennedy Space Center (KSC) in Florida. The mission restored the spaceborne observatory's vision with the installation of a new main camera and a corrective optics package (COSTAR). This correction occurred more than three and a half years after the Hubble was launched aboard STS-31 in April 1990. The flight also brought instrument upgrades and new solar arrays to the telescope. With its very heavy workload, the STS-61 mission was one of the most complex in the Shuttle's history.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/STS-61",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/STS061-98-050_-_Astronauts_Musgrave_and_Hoffman_during_servicing_of_HST_%28Retouched%29.jpg/3840px-STS061-98-050_-_Astronauts_Musgrave_and_Hoffman_during_servicing_of_HST_%28Retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/STS061-98-050_-_Astronauts_Musgrave_and_Hoffman_during_servicing_of_HST_%28Retouched%29.jpg/330px-STS061-98-050_-_Astronauts_Musgrave_and_Hoffman_during_servicing_of_HST_%28Retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts061-98-050_-_astronauts_musgrave_and_hoffman_during_servicing_of_hst_(retouched).jpg",
+          "width": 5228,
+          "height": 5277,
+          "title": "STS-61",
+          "description": "1993 American crewed spaceflight to the Hubble Space Telescope",
+          "extract": "STS-61 was NASA's first Hubble Space Telescope servicing mission, and the fifth flight of the Space Shuttle Endeavour. The mission launched on December 2, 1993, from Kennedy Space Center (KSC) in Florida. The mission restored the spaceborne observatory's vision with the installation of a new main camera and a corrective optics package (COSTAR). This correction occurred more than three and a half years after the Hubble was launched aboard STS-31 in April 1990. The flight also brought instrument upgrades and new solar arrays to the telescope. With its very heavy workload, the STS-61 mission was one of the most complex in the Shuttle's history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-61",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+          "width": 3680,
+          "height": 2448,
+          "title": "Space Shuttle Endeavour",
+          "description": "Space Shuttle orbiter (1992–2011)",
+          "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/3840px-Hubble_2009_close-up_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/330px-Hubble_2009_close-up_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hubble_2009_close-up_2.jpg",
+          "width": 4288,
+          "height": 2847,
+          "title": "Hubble Space Telescope",
+          "description": "NASA/ESA space telescope launched in 1990",
+          "extract": "The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It was not the first space telescope, but it is one of the largest and most versatile, renowned as a vital research tool and as a public relations boon for astronomy. The Hubble Space Telescope is named after astronomer Edwin Hubble and is one of NASA's Great Observatories. The Space Telescope Science Institute (STScI) selects Hubble's targets and processes the resulting data, while the Goddard Space Flight Center (GSFC) controls the spacecraft.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "12-02-1992-ba9a37e1",
+      "year": 1992,
+      "text": "Space Shuttle Discovery is launched on STS-53 for the United States Department of Defense.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+        "width": 3336,
+        "height": 2507,
+        "title": "Space Shuttle Discovery",
+        "description": "Space Shuttle orbiter (1984–2011)",
+        "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+          "width": 3336,
+          "height": 2507,
+          "title": "Space Shuttle Discovery",
+          "description": "Space Shuttle orbiter (1984–2011)",
+          "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/STS-053_shuttle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/STS-053_shuttle.jpg/330px-STS-053_shuttle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-053_shuttle.jpg",
+          "width": 3666,
+          "height": 5637,
+          "title": "STS-53",
+          "description": "1992 American crewed spaceflight for the Department of Defense",
+          "extract": "STS-53 was a NASA Space Shuttle Discovery mission in support of the United States Department of Defense (DoD). It was Discovery's 15th flight. The mission was launched on December 2, 1992, from Kennedy Space Center, Florida. This was also the last mission to have been operated via MCR-2 in JSC. Afterwards the room was restored entirely to its Apollo era appearance.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-53",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Space_Shuttle_Discovery_at_Udvar-Hazy_Center.jpg/1280px-Space_Shuttle_Discovery_at_Udvar-Hazy_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Space_Shuttle_Discovery_at_Udvar-Hazy_Center.jpg/1280px-Space_Shuttle_Discovery_at_Udvar-Hazy_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_discovery_at_udvar-hazy_center.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Space Shuttle Discovery at the Steven F. Udvar-Hazy Center",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Discovery",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-02-1990-54f694d4",
+      "year": 1990,
+      "text": "Space Shuttle Columbia is launched on STS-35, carrying the ASTRO-1 spacelab observatory.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+        "width": 868,
+        "height": 521,
+        "title": "Space Shuttle Columbia",
+        "description": "Space Shuttle orbiter (1981–2003)",
+        "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+          "width": 868,
+          "height": 521,
+          "title": "Space Shuttle Columbia",
+          "description": "Space Shuttle orbiter (1981–2003)",
+          "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Onboard_Photo_-_Astro-1_Ultraviolet_Telescope_in_Cargo_Bay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Onboard_Photo_-_Astro-1_Ultraviolet_Telescope_in_Cargo_Bay.jpg/330px-Onboard_Photo_-_Astro-1_Ultraviolet_Telescope_in_Cargo_Bay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "onboard_photo_-_astro-1_ultraviolet_telescope_in_cargo_bay.jpg",
+          "width": 2035,
+          "height": 3000,
+          "title": "STS-35",
+          "description": "1990 American crewed spaceflight",
+          "extract": "STS-35 was the tenth flight of Space Shuttle Columbia, in the 38th shuttle mission. It was devoted to astronomical observations with ASTRO-1, a Spacelab observatory consisting of four telescopes. The mission launched from Kennedy Space Center in Florida on December 2, 1990. It was also the first shuttle mission since the Challenger disaster with a crew of seven astronauts.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-35",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Spacelab_-_Artist%27s_Concept.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Spacelab_-_Artist%27s_Concept.jpg/330px-Spacelab_-_Artist%27s_Concept.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "spacelab_-_artist's_concept.jpg",
+          "width": 3417,
+          "height": 2692,
+          "title": "Spacelab",
+          "description": "Temporary, reusable laboratory aboard the Space Shuttle",
+          "extract": "Spacelab was a reusable laboratory developed by the European Space Agency (ESA) and used on certain spaceflights flown by the Space Shuttle. The laboratory comprised multiple components, including a pressurized module, an unpressurized carrier, and other related hardware housed in the Shuttle's cargo bay. The components were arranged in various configurations to meet the needs of each spaceflight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Spacelab",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Columbia",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-02-1988-c8fcd4ff",
+      "year": 1988,
+      "text": "Space Shuttle Atlantis is launched on STS-27, a classified mission for the United States Department of Defense.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+        "width": 3697,
+        "height": 2217,
+        "title": "Space Shuttle Atlantis",
+        "description": "Space Shuttle orbiter (1985–2011)",
+        "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+          "width": 3697,
+          "height": 2217,
+          "title": "Space Shuttle Atlantis",
+          "description": "Space Shuttle orbiter (1985–2011)",
+          "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Atlantis_taking_off_on_STS-27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Atlantis_taking_off_on_STS-27.jpg/330px-Atlantis_taking_off_on_STS-27.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "atlantis_taking_off_on_sts-27.jpg",
+          "width": 3000,
+          "height": 1929,
+          "title": "STS-27",
+          "description": "1988 near-disastrous American crewed spaceflight to deploy Lacrosse 1",
+          "extract": "STS-27 was the 27th NASA Space Shuttle mission, and the third flight of Space Shuttle Atlantis. Launching on December 2, 1988, on a four-day mission, it was the second shuttle flight after the Space Shuttle Challenger disaster of January 1986. STS-27 carried a classified payload for the U.S. Department of Defense (DoD), ultimately determined to be a Lacrosse surveillance satellite. The vessel's heat shielding was substantially damaged during lift-off, and crew members thought that they would die during reentry. This was a situation that was similar to the one that would prove fatal 15 years later on STS-107. Compared to the damage that Columbia sustained on STS-107, Atlantis experienced more extensive damage. However, this damage was experienced over less critical areas, and the missing tile was over an antenna which gave extra protection to the spacecraft structure. The mission landed successfully, although intense heat damage necessitated extensive repairs.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-27",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Atlantis_silhouette.jpg/500px-Atlantis_silhouette.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Atlantis_silhouette.jpg/500px-Atlantis_silhouette.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "atlantis_silhouette.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Space Shuttle Atlantis as it transits the Sun",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Atlantis",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-02-1972-8812aa74",
+      "year": 1972,
+      "text": "Gough Whitlam is elected the 21st Prime Minister of Australia in the 1972 Australian federal election, defeating William McMahon and leading the Australian Labor Party back into office after 23 years in Opposition.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gough_Whitlam_at_the_Lodge_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gough_Whitlam_at_the_Lodge_1974.jpg/330px-Gough_Whitlam_at_the_Lodge_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gough_whitlam_at_the_lodge_1974.jpg",
+        "width": 1108,
+        "height": 1383,
+        "title": "Gough Whitlam",
+        "description": "Prime Minister of Australia from 1972 to 1975",
+        "extract": "Edward Gough Whitlam was the 21st prime minister of Australia, serving from December 1972 to November 1975. To date the longest-serving federal leader of the Australian Labor Party (ALP), he was notable for being the head of a reformist and socially progressive government that ended with his controversial dismissal by the then governor-general of Australia, Sir John Kerr, at the climax of the 1975 constitutional crisis. Whitlam remains the only Australian prime minister to have been removed from office by a governor-general.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gough_Whitlam",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Gough_Whitlam_at_the_Lodge_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Gough_Whitlam_at_the_Lodge_1974.jpg/330px-Gough_Whitlam_at_the_Lodge_1974.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gough_whitlam_at_the_lodge_1974.jpg",
+          "width": 1108,
+          "height": 1383,
+          "title": "Gough Whitlam",
+          "description": "Prime Minister of Australia from 1972 to 1975",
+          "extract": "Edward Gough Whitlam was the 21st prime minister of Australia, serving from December 1972 to November 1975. To date the longest-serving federal leader of the Australian Labor Party (ALP), he was notable for being the head of a reformist and socially progressive government that ended with his controversial dismissal by the then governor-general of Australia, Sir John Kerr, at the climax of the 1975 constitutional crisis. Whitlam remains the only Australian prime minister to have been removed from office by a governor-general.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gough_Whitlam",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Gough_Whitlam_1972_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gough_Whitlam_1972_%28cropped%29.jpg/330px-Gough_Whitlam_1972_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gough_whitlam_1972_(cropped).jpg",
+          "width": 366,
+          "height": 512,
+          "title": "1972 Australian federal election",
+          "description": "",
+          "extract": "A federal election was held in Australia on 2 December 1972. All 125 seats in the House of Representatives were up for election, as well as a single Senate seat in Queensland. The incumbent Liberal–Country coalition government, led by Prime Minister William McMahon, was defeated by the opposition Labor Party led by Gough Whitlam. Labor's victory ended 23 years of successive Coalition governments that began in 1949 and started the three-year Whitlam Labor Government.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1972_Australian_federal_election",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/William_McMahon_1972_b%26w.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/William_McMahon_1972_b%26w.jpg/330px-William_McMahon_1972_b%26w.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "william_mcmahon_1972_b&w.jpg",
+          "width": 1085,
+          "height": 1329,
+          "title": "William McMahon",
+          "description": "Prime Minister of Australia from 1971 to 1972",
+          "extract": "Sir William McMahon was the 20th prime minister of Australia, serving from 1971 to 1972. He held office as the leader of the Liberal Party of Australia, and previously held various ministerial positions from 1951 to 1971, the longest continuous service in Australian history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/William_McMahon",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Gough Whitlam",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Gough_Whitlam",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "12-02-1939-be308b31",
+      "year": 1939,
+      "text": "New York City's LaGuardia Airport opens.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/North_Shore_of_Long_Island_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/North_Shore_of_Long_Island_2021_%28cropped%29.jpg/330px-North_Shore_of_Long_Island_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "north_shore_of_long_island_2021_(cropped).jpg",
+        "width": 930,
+        "height": 620,
+        "title": "LaGuardia Airport",
+        "description": "Airport in East Elmhurst, Queens, New York City, U.S.",
+        "extract": "LaGuardia Airport is a civil airport in East Elmhurst, Queens, New York City, United States, situated on the northwestern shore of Long Island, bordering Flushing Bay. It covers 680 acres (280 ha) as of July 1, 2026. The facility was established in 1929 and began operating as a public airport in 1939. It is named after Fiorello La Guardia, a former mayor of New York City.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/LaGuardia_Airport",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/North_Shore_of_Long_Island_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/North_Shore_of_Long_Island_2021_%28cropped%29.jpg/330px-North_Shore_of_Long_Island_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "north_shore_of_long_island_2021_(cropped).jpg",
+          "width": 930,
+          "height": 620,
+          "title": "LaGuardia Airport",
+          "description": "Airport in East Elmhurst, Queens, New York City, U.S.",
+          "extract": "LaGuardia Airport is a civil airport in East Elmhurst, Queens, New York City, United States, situated on the northwestern shore of Long Island, bordering Flushing Bay. It covers 680 acres (280 ha) as of July 1, 2026. The facility was established in 1929 and began operating as a public airport in 1939. It is named after Fiorello La Guardia, a former mayor of New York City.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/LaGuardia_Airport",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bowery-and-Flushing-Bays-1886.png/1280px-Bowery-and-Flushing-Bays-1886.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bowery-and-Flushing-Bays-1886.png/1280px-Bowery-and-Flushing-Bays-1886.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bowery-and-flushing-bays-1886.png",
+          "width": 800,
+          "height": 600,
+          "title": "Coastline of northwest Queens, circa 1866",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/LaGuardia_Airport",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "LaGuardia Airport",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/LaGuardia_Airport",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "12-02-2016-4683518f",
+      "year": 2016,
+      "text": "Thirty-six people died when a fire broke out at an illegally converted warehouse in Oakland, California, the deadliest U.S. building fire since 2003.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Oakland_warehouse_fire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Oakland_warehouse_fire.jpg/330px-Oakland_warehouse_fire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "oakland_warehouse_fire.jpg",
+        "width": 3552,
+        "height": 4736,
+        "title": "Ghost Ship warehouse fire",
+        "description": "2016 California underground warehouse party inferno",
+        "extract": "On December 2, 2016, at about 11:20 p.m. PST, a fire started in a former warehouse that had been unlawfully converted into an artist collective with living spaces in Oakland, California, which was hosting a concert with 80–100 attendees. The building, located in the Fruitvale neighborhood, was zoned for only industrial purposes; residential and entertainment uses were prohibited. The blaze killed 36 people, making it the deadliest fire in the history of Oakland. It was also the deadliest building fire in the United States since The Station nightclub fire in 2003, the deadliest in California since the 1906 San Francisco earthquake and the deadliest mass-casualty event in Oakland since the 1989 Loma Prieta earthquake.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ghost_Ship_warehouse_fire",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Oakland_warehouse_fire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Oakland_warehouse_fire.jpg/330px-Oakland_warehouse_fire.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "oakland_warehouse_fire.jpg",
+          "width": 3552,
+          "height": 4736,
+          "title": "Ghost Ship warehouse fire",
+          "description": "2016 California underground warehouse party inferno",
+          "extract": "On December 2, 2016, at about 11:20 p.m. PST, a fire started in a former warehouse that had been unlawfully converted into an artist collective with living spaces in Oakland, California, which was hosting a concert with 80–100 attendees. The building, located in the Fruitvale neighborhood, was zoned for only industrial purposes; residential and entertainment uses were prohibited. The blaze killed 36 people, making it the deadliest fire in the history of Oakland. It was also the deadliest building fire in the United States since The Station nightclub fire in 2003, the deadliest in California since the 1906 San Francisco earthquake and the deadliest mass-casualty event in Oakland since the 1989 Loma Prieta earthquake.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ghost_Ship_warehouse_fire",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Lake_Merritt_2022-06-16.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lake_Merritt_2022-06-16.png/330px-Lake_Merritt_2022-06-16.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lake_merritt_2022-06-16.png",
+          "width": 2789,
+          "height": 1859,
+          "title": "Oakland, California",
+          "description": "City in California, United States",
+          "extract": "Oakland is a city in the East Bay region of the San Francisco Bay Area in the U.S. state of California. It is the county seat of and the most populous city in Alameda County, California, with a population of 440,646 in 2020. A major West Coast port, Oakland is the most populous city in the East Bay, the third most populous city in the Bay Area, and the eighth most populous city in California. It serves as the Bay Area's trade center: the Port of Oakland is the busiest port in Northern California, and the fifth- or sixth-busiest in the United States. A charter city, Oakland was incorporated on May 4, 1852, in the wake of the state's increasing population due to the California gold rush.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Oakland%2C_California",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Ghost Ship warehouse fire",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ghost_Ship_warehouse_fire",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-02-1954-84d00d37",
+      "year": 1954,
+      "text": "The United States Senate voted of 67 to 22 to approve a resolution condemning Senator Joseph McCarthy who continued to serve in the Senate until his death two and a half years later.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Joseph_McCarthy_adjusted.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Joseph_McCarthy_adjusted.jpg/330px-Joseph_McCarthy_adjusted.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "joseph_mccarthy_adjusted.jpg",
+        "width": 888,
+        "height": 1184,
+        "title": "Joseph McCarthy",
+        "description": "American politician (1908–1957)",
+        "extract": "Joseph Raymond McCarthy was an American politician who served as a Republican senator from Wisconsin from 1947 until his death in 1957. Beginning in 1950, McCarthy became the most visible public face of a period in the United States in which Cold War tensions fueled fears of widespread communist subversion. He alleged that numerous communists and Soviet spies and sympathizers had infiltrated institutions including the United States federal government and military, universities, and the film industry. Ultimately, he was censured by the Senate in 1954 for refusing to cooperate with and abusing members of the committee established to investigate whether or not he should be censured. The term \"McCarthyism\", coined in 1950 in reference to McCarthy's practices, was soon applied to similar anti-communist activities and came to refer to the post-war \"Red Scare\" period as a whole. Today, the term is used more broadly to refer to demagogic, reckless, and unsubstantiated accusations, as well as public attacks on the character or patriotism of political opponents.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joseph_McCarthy",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Joseph_McCarthy_adjusted.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Joseph_McCarthy_adjusted.jpg/330px-Joseph_McCarthy_adjusted.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "joseph_mccarthy_adjusted.jpg",
+          "width": 888,
+          "height": 1184,
+          "title": "Joseph McCarthy",
+          "description": "American politician (1908–1957)",
+          "extract": "Joseph Raymond McCarthy was an American politician who served as a Republican senator from Wisconsin from 1947 until his death in 1957. Beginning in 1950, McCarthy became the most visible public face of a period in the United States in which Cold War tensions fueled fears of widespread communist subversion. He alleged that numerous communists and Soviet spies and sympathizers had infiltrated institutions including the United States federal government and military, universities, and the film industry. Ultimately, he was censured by the Senate in 1954 for refusing to cooperate with and abusing members of the committee established to investigate whether or not he should be censured. The term \"McCarthyism\", coined in 1950 in reference to McCarthy's practices, was soon applied to similar anti-communist activities and came to refer to the post-war \"Red Scare\" period as a whole. Today, the term is used more broadly to refer to demagogic, reckless, and unsubstantiated accusations, as well as public attacks on the character or patriotism of political opponents.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Joseph_McCarthy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/United_States_Senate_Floor.jpg/500px-United_States_Senate_Floor.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/United_States_Senate_Floor.jpg/500px-United_States_Senate_Floor.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "senatefloor.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Senatefloor",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/United_States_Senate",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Combined--Control_of_the_U.S._House_of_Representatives_-_Control_of_the_U.S._Senate.png/1280px-Combined--Control_of_the_U.S._House_of_Representatives_-_Control_of_the_U.S._Senate.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Combined--Control_of_the_U.S._House_of_Representatives_-_Control_of_the_U.S._Senate.png/1280px-Combined--Control_of_the_U.S._House_of_Representatives_-_Control_of_the_U.S._Senate.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "combined--control_of_the_u.s._house_of_representatives_-_control_of_the_u.s._senate.png",
+          "width": 800,
+          "height": 600,
+          "title": "A graph of party control of the U.S. Senate, U.S. House of Representatives, and the Presidency since 1855",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/United_States_Senate",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "United States Senate",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/United_States_Senate",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-02-1989-01f89083",
+      "year": 1989,
+      "text": "The Malayan Communist Party and the Malaysian government signed a peace accord to end a 21-year communist insurgency.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/%E5%90%88%E8%89%BE%E5%8D%8F%E8%AE%AE%E7%AD%BE%E7%BD%B2%E7%8E%B0%E5%9C%BA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%E5%90%88%E8%89%BE%E5%8D%8F%E8%AE%AE%E7%AD%BE%E7%BD%B2%E7%8E%B0%E5%9C%BA.jpg/330px-%E5%90%88%E8%89%BE%E5%8D%8F%E8%AE%AE%E7%AD%BE%E7%BD%B2%E7%8E%B0%E5%9C%BA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "合艾协议签署现场.jpg",
+        "width": 675,
+        "height": 472,
+        "title": "Hat Yai Peace Agreement",
+        "description": "1989 peace ending the Malaysian communist insurgency",
+        "extract": "The Hat Yai Peace Agreement marked the end of the Communist insurgency in Malaysia (1968–1989). It was signed and ratified by the Malayan Communist Party (MCP), and the Malaysian and Thailand governments at the Lee Gardens Hotel in Hat Yai, Thailand, on 2 December 1989.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hat_Yai_Peace_Agreement",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/%E5%90%88%E8%89%BE%E5%8D%8F%E8%AE%AE%E7%AD%BE%E7%BD%B2%E7%8E%B0%E5%9C%BA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/%E5%90%88%E8%89%BE%E5%8D%8F%E8%AE%AE%E7%AD%BE%E7%BD%B2%E7%8E%B0%E5%9C%BA.jpg/330px-%E5%90%88%E8%89%BE%E5%8D%8F%E8%AE%AE%E7%AD%BE%E7%BD%B2%E7%8E%B0%E5%9C%BA.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "合艾协议签署现场.jpg",
+          "width": 675,
+          "height": 472,
+          "title": "Hat Yai Peace Agreement",
+          "description": "1989 peace ending the Malaysian communist insurgency",
+          "extract": "The Hat Yai Peace Agreement marked the end of the Communist insurgency in Malaysia (1968–1989). It was signed and ratified by the Malayan Communist Party (MCP), and the Malaysian and Thailand governments at the Lee Gardens Hotel in Hat Yai, Thailand, on 2 December 1989.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hat_Yai_Peace_Agreement",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Malaysian_Rangers%2C_Malay-Thai_border_%28AWM_MAL-65-0046-01%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Malaysian_Rangers%2C_Malay-Thai_border_%28AWM_MAL-65-0046-01%29.JPG/330px-Malaysian_Rangers%2C_Malay-Thai_border_%28AWM_MAL-65-0046-01%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "malaysian_rangers,_malay-thai_border_(awm_mal-65-0046-01).jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Communist insurgency in Malaysia (1968–1989)",
+          "description": "",
+          "extract": "The Communist insurgency in Malaysia, also known as the Second Malayan Emergency, was an armed conflict which occurred in Malaysia from 1968 to 1989, between the Malayan Communist Party (MCP) and Malaysian federal security forces.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Communist_insurgency_in_Malaysia_(1968%E2%80%931989)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Malayan Communist Party",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Malayan_Communist_Party",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-02-1982-c388b03f",
+      "year": 1982,
+      "text": "At the University of Utah, Barney Clark becomes the first person to receive a permanent artificial heart.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/CardioWest%E2%84%A2_temporary_Total_Artificial_Heart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CardioWest%E2%84%A2_temporary_Total_Artificial_Heart.jpg/330px-CardioWest%E2%84%A2_temporary_Total_Artificial_Heart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "cardiowest™_temporary_total_artificial_heart.jpg",
+        "width": 2362,
+        "height": 3543,
+        "title": "Artificial heart",
+        "description": "Mechanical device which replaces the heart",
+        "extract": "An artificial heart is a device that replaces the heart. Artificial hearts are typically used as a bridge to heart transplantation, but ongoing research aims to develop a device that could permanently replace the heart when a transplant—whether from a deceased human or, experimentally, from a genetically engineered pig—is unavailable or not viable. As of December 2023, there are two commercially available full artificial heart devices; both are intended for temporary use for patients with total heart failure who are awaiting a human heart transplant.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Artificial_heart",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/CardioWest%E2%84%A2_temporary_Total_Artificial_Heart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CardioWest%E2%84%A2_temporary_Total_Artificial_Heart.jpg/330px-CardioWest%E2%84%A2_temporary_Total_Artificial_Heart.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cardiowest™_temporary_total_artificial_heart.jpg",
+          "width": 2362,
+          "height": 3543,
+          "title": "Artificial heart",
+          "description": "Mechanical device which replaces the heart",
+          "extract": "An artificial heart is a device that replaces the heart. Artificial hearts are typically used as a bridge to heart transplantation, but ongoing research aims to develop a device that could permanently replace the heart when a transplant—whether from a deceased human or, experimentally, from a genetically engineered pig—is unavailable or not viable. As of December 2023, there are two commercially available full artificial heart devices; both are intended for temporary use for patients with total heart failure who are awaiting a human heart transplant.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Artificial_heart",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/University_Hall_%28University_of_Utah%29.jpg/1280px-University_Hall_%28University_of_Utah%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/University_Hall_%28University_of_Utah%29.jpg/1280px-University_Hall_%28University_of_Utah%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "university_hall_(university_of_utah).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "University Hall in Salt Lake City, the first permanent home of the University of Deseret (later the University of Utah)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/University_of_Utah",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MountVanCott.JPG/1280px-MountVanCott.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MountVanCott.JPG/1280px-MountVanCott.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "mountvancott.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The Block U has overlooked the university since 1907.[41]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/University_of_Utah",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "University of Utah",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/University_of_Utah",
+      "relatedPagesCount": 2
+    }
+  ]
+}

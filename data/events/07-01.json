@@ -1,0 +1,607 @@
+{
+  "date": {
+    "month": 7,
+    "day": 1,
+    "formatted": "07-01"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "07-01-2004-36124893",
+      "year": 2004,
+      "text": "Saturn orbit insertion of Cassini–Huygens begins at 01:12 UTC and ends at 02:48 UTC.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/3840px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/330px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "saturn_global_view_from_cassini,_rings_open_better_colour.png",
+        "width": 5500,
+        "height": 2200,
+        "title": "Saturn",
+        "description": "Sixth planet from the Sun",
+        "extract": "Saturn is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter. It is a gas giant, with an average radius of about 9 times that of Earth. It has an eighth of the average density of Earth, but is over 95 times more massive. Even though Saturn is almost as big as Jupiter, it has less than a third of its mass. Saturn orbits the Sun at a distance of 9.59 AU (1,434 million km), with an orbital period of 29.45 years.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Saturn",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/3840px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png/330px-Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "saturn_global_view_from_cassini,_rings_open_better_colour.png",
+          "width": 5500,
+          "height": 2200,
+          "title": "Saturn",
+          "description": "Sixth planet from the Sun",
+          "extract": "Saturn is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter. It is a gas giant, with an average radius of about 9 times that of Earth. It has an eighth of the average density of Earth, but is over 95 times more massive. Even though Saturn is almost as big as Jupiter, it has less than a third of its mass. Saturn orbits the Sun at a distance of 9.59 AU (1,434 million km), with an orbital period of 29.45 years.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Saturn",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/3840px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/330px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cassini_saturn_orbit_insertion.jpg",
+          "width": 14400,
+          "height": 9600,
+          "title": "Cassini–Huygens",
+          "description": "Mission to Saturn (1997–2017)",
+          "extract": "Cassini–Huygens, commonly called Cassini, was a joint space-research mission by NASA, the European Space Agency (ESA), and the Italian Space Agency (ASI) to send a space probe to study the planet Saturn and its system, including its rings and natural satellites. The Flagship-class robotic spacecraft comprised both NASA's Cassini space probe and ESA's Huygens lander, which landed on Saturn's largest moon, Titan. Cassini was the fourth space probe to visit Saturn and the first to enter its orbit, where it stayed from 2004 to 2017. The two craft took their names from the astronomers Giovanni Cassini and Christiaan Huygens.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Saturn_compared_to_Earth_and_the_Moon.png/1280px-Saturn_compared_to_Earth_and_the_Moon.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Saturn_compared_to_Earth_and_the_Moon.png/1280px-Saturn_compared_to_Earth_and_the_Moon.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "saturn_compared_to_earth_and_the_moon.png",
+          "width": 800,
+          "height": 600,
+          "title": "The size of Saturn, compared to Earth and its moon",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Saturn",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Saturn",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Saturn",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "07-01-1997-af747182",
+      "year": 1997,
+      "text": "Space Shuttle program: Space Shuttle Columbia is launched on STS-94, a re-flight of the prematurely-ended STS-83 mission with the same crew.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+        "width": 868,
+        "height": 521,
+        "title": "Space Shuttle Columbia",
+        "description": "Space Shuttle orbiter (1981–2003)",
+        "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+          "width": 868,
+          "height": 521,
+          "title": "Space Shuttle Columbia",
+          "description": "Space Shuttle orbiter (1981–2003)",
+          "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/STS094-737-071_Columbia_and_Spacelab_Module_LM1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/STS094-737-071_Columbia_and_Spacelab_Module_LM1.jpg/330px-STS094-737-071_Columbia_and_Spacelab_Module_LM1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts094-737-071_columbia_and_spacelab_module_lm1.jpg",
+          "width": 1536,
+          "height": 1536,
+          "title": "STS-94",
+          "description": "1997 American crewed spaceflight to conduct space experiments",
+          "extract": "STS-94 was a mission of the United States Space Shuttle Columbia, launched on 1 July 1997.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-94",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/STS-83_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/STS-83_landing.jpg/330px-STS-83_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-83_landing.jpg",
+          "width": 3000,
+          "height": 1950,
+          "title": "STS-83",
+          "description": "Unsuccessful 1997 American crewed spaceflight",
+          "extract": "STS-83 was a NASA Space Shuttle mission flown by Columbia. It was a science research mission that achieved orbit successfully, but the planned duration was a failure due to a technical problem with a fuel cell that resulted in the abort of the 15 day duration. Columbia returned to Earth just shy of four days. The mission was re-flown as STS-94 with the same crew later that year.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-83",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "07-01-1948-8cdc7f4d",
+      "year": 1948,
+      "text": "The first flight departed New York City's John F. Kennedy International Airport, then known as New York International Airport.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/3840px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/330px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jfk_aerial_nov_14_2018.jpg",
+        "width": 4032,
+        "height": 3024,
+        "title": "John F. Kennedy International Airport",
+        "description": "International airport serving New York City",
+        "extract": "John F. Kennedy International Airport is the primary international airport serving the New York metropolitan area. It is located on the southwestern shore of Long Island, in Queens, New York City, bordering Jamaica Bay. It is the busiest of the three airports in the New York airport system, the sixth-busiest airport in the United States. The airport, which covers 5,200 acres (2,104 ha), is the largest in the New York metropolitan area. Nearly 100 airlines operate from JFK Airport, with nonstop or direct flights to destinations on all six permanently inhabited continents.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/3840px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/330px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jfk_aerial_nov_14_2018.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": "John F. Kennedy International Airport",
+          "description": "International airport serving New York City",
+          "extract": "John F. Kennedy International Airport is the primary international airport serving the New York metropolitan area. It is located on the southwestern shore of Long Island, in Queens, New York City, bordering Jamaica Bay. It is the busiest of the three airports in the New York airport system, the sixth-busiest airport in the United States. The airport, which covers 5,200 acres (2,104 ha), is the largest in the New York metropolitan area. Nearly 100 airlines operate from JFK Airport, with nonstop or direct flights to destinations on all six permanently inhabited continents.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "John F. Kennedy International Airport",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "07-01-2008-4492cf43",
+      "year": 2008,
+      "text": "Rioting erupted in Ulaanbaatar, Mongolia, over allegations of fraud surrounding the recent legislative election.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/2008_Mongolia_Riot_Scene2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2008_Mongolia_Riot_Scene2.jpg/330px-2008_Mongolia_Riot_Scene2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2008_mongolia_riot_scene2.jpg",
+        "width": 1000,
+        "height": 590,
+        "title": "2008 riot in Mongolia",
+        "description": "Rioting in Ulaanbataar, Mongolia",
+        "extract": "On 1 July 2008, a riot broke out in Ulaanbaatar, the capital city of Mongolia. The riot was sparked by allegations of fraud surrounding the 2008 parliamentary election, which occurred three days earlier. While initially a peaceful protest, the riot resulted in Mongolia's first state of emergency, which lasted four days, and a military presence was brought into the city to quell the riot. In Mongolia, the event is referred to as the \"July 1 riots\" or the \"Black Day\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2008_riot_in_Mongolia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/2008_Mongolia_Riot_Scene2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2008_Mongolia_Riot_Scene2.jpg/330px-2008_Mongolia_Riot_Scene2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2008_mongolia_riot_scene2.jpg",
+          "width": 1000,
+          "height": 590,
+          "title": "2008 riot in Mongolia",
+          "description": "Rioting in Ulaanbataar, Mongolia",
+          "extract": "On 1 July 2008, a riot broke out in Ulaanbaatar, the capital city of Mongolia. The riot was sparked by allegations of fraud surrounding the 2008 parliamentary election, which occurred three days earlier. While initially a peaceful protest, the riot resulted in Mongolia's first state of emergency, which lasted four days, and a military presence was brought into the city to quell the riot. In Mongolia, the event is referred to as the \"July 1 riots\" or the \"Black Day\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2008_riot_in_Mongolia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/UB_downtown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/UB_downtown.jpg/330px-UB_downtown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ub_downtown.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": "Ulaanbaatar",
+          "description": "Capital and largest city of Mongolia",
+          "extract": "Ulaanbaatar is the capital and largest city of Mongolia. It has a population of 1.79 million, and is the coldest capital city in the world by average yearly temperature. The municipality is located in north central Mongolia at an elevation of about 1,300 metres (4,300 ft) in a valley on the Tuul River. The city was founded in 1639 as a nomadic Buddhist monastic centre, changing location 29 times, and was permanently settled at its modern location in 1778.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ulaanbaatar",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2008_Mongolia_Riot_Scene1.jpg/500px-2008_Mongolia_Riot_Scene1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2008_Mongolia_Riot_Scene1.jpg/500px-2008_Mongolia_Riot_Scene1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "2008_mongolia_riot_scene1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "2008_Mongolia_Riot_Scene1",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2008_riot_in_Mongolia",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "2008 riot in Mongolia",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2008_riot_in_Mongolia",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "07-01-1999-77c8ae55",
+      "year": 1999,
+      "text": "The Scottish Parliament is officially opened by Elizabeth II on the day that legislative powers are officially transferred from the old Scottish Office in London to the new devolved Scottish Executive in Edinburgh. In Wales, the powers of the Welsh Secretary are transferred to the National Assembly.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "queen_elizabeth_ii_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+        "width": 739,
+        "height": 985,
+        "title": "Elizabeth II",
+        "description": "Queen of the United Kingdom from 1952 to 2022",
+        "extract": "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_elizabeth_ii_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+          "width": 739,
+          "height": 985,
+          "title": "Elizabeth II",
+          "description": "Queen of the United Kingdom from 1952 to 2022",
+          "extract": "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/3840px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/330px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "skyline_of_edinburgh.jpg",
+          "width": 5312,
+          "height": 2988,
+          "title": "Edinburgh",
+          "description": "Capital city of Scotland",
+          "extract": "Edinburgh is the capital city of Scotland and one of its 32 council areas. It is located in southeast Scotland and is bounded to the north by the Firth of Forth and to the south by the Pentland Hills. Edinburgh had a population of\n506,520 in 2020, making it the second-most-populous city in Scotland and the seventh-most-populous in the United Kingdom. The wider metropolitan area had a population of 912,490 in the same year.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Edinburgh",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Scottish_Parliament_Debating_Chamber_3.jpg/1280px-Scottish_Parliament_Debating_Chamber_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Scottish_Parliament_Debating_Chamber_3.jpg/1280px-Scottish_Parliament_Debating_Chamber_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "scottish_parliament_debating_chamber_3.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Scottish_Parliament_Debating_Chamber_3",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Scottish_Parliament",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Scottish Parliament",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Scottish_Parliament",
+      "relatedPagesCount": 7
+    },
+    {
+      "id": "07-01-1991-fb20f322",
+      "year": 1991,
+      "text": "Cold War: The Warsaw Pact is officially dissolved at a meeting in Prague.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Prague_%286365119737%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/330px-Prague_%286365119737%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "prague_(6365119737).jpg",
+        "width": 3840,
+        "height": 2284,
+        "title": "Prague",
+        "description": "Capital and largest city of the Czech Republic",
+        "extract": "Prague is the capital and largest city of the Czech Republic and the historical capital of Bohemia. Located on the Vltava River, the city has a population of about 1.4 million, making it the twelfth-largest city in the European Union. Its metropolitan area is home to approximately 2.3 million people.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Prague",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Prague_%286365119737%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/330px-Prague_%286365119737%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "prague_(6365119737).jpg",
+          "width": 3840,
+          "height": 2284,
+          "title": "Prague",
+          "description": "Capital and largest city of the Czech Republic",
+          "extract": "Prague is the capital and largest city of the Czech Republic and the historical capital of Bohemia. Located on the Vltava River, the city has a population of about 1.4 million, making it the twelfth-largest city in the European Union. Its metropolitan area is home to approximately 2.3 million people.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Prague",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cold War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "07-01-1903-96e848a7",
+      "year": 1903,
+      "text": "Start of first Tour de France bicycle race.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Route_of_the_1903_Tour_de_France.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Route_of_the_1903_Tour_de_France.png/330px-Route_of_the_1903_Tour_de_France.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "route_of_the_1903_tour_de_france.png",
+        "width": 2998,
+        "height": 3004,
+        "title": "1903 Tour de France",
+        "description": "Cycling race",
+        "extract": "The 1903 Tour de France was the first cycling race set up and sponsored by the newspaper L'Auto, ancestor of the current daily, L'Équipe. It ran from 1 to 19 July in six stages over 2,428 km (1,509 mi), and was won by Maurice Garin.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1903_Tour_de_France",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Route_of_the_1903_Tour_de_France.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Route_of_the_1903_Tour_de_France.png/330px-Route_of_the_1903_Tour_de_France.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "route_of_the_1903_tour_de_france.png",
+          "width": 2998,
+          "height": 3004,
+          "title": "1903 Tour de France",
+          "description": "Cycling race",
+          "extract": "The 1903 Tour de France was the first cycling race set up and sponsored by the newspaper L'Auto, ancestor of the current daily, L'Équipe. It ran from 1 to 19 July in six stages over 2,428 km (1,509 mi), and was won by Maurice Garin.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1903_Tour_de_France",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Garin03winner.jpg/1280px-Garin03winner.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Garin03winner.jpg/1280px-Garin03winner.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "garin03winner.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Maurice Garin, the winner of the 1903 Tour de France.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1903_Tour_de_France",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "1903 Tour de France",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1903_Tour_de_France",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "07-01-1979-6148b5a2",
+      "year": 1979,
+      "text": "Sony introduced the Walkman, a portable audio player that changed listening habits by offering users the ability to play one's own choice of music.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sony_headquaters_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sony_headquaters_2.jpg/330px-Sony_headquaters_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sony_headquaters_2.jpg",
+        "width": 2051,
+        "height": 2668,
+        "title": "Sony",
+        "description": "Japanese multinational corporation",
+        "extract": "Sony Group Corporation, colloquially known as Sony, is a Japanese multinational conglomerate headquartered at the Sony City building in Minato, Tokyo. The Sony Group encompasses various businesses, including electronics, imaging and sensing, film and television, music, video games, and others.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sony",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Sony_headquaters_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sony_headquaters_2.jpg/330px-Sony_headquaters_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sony_headquaters_2.jpg",
+          "width": 2051,
+          "height": 2668,
+          "title": "Sony",
+          "description": "Japanese multinational corporation",
+          "extract": "Sony Group Corporation, colloquially known as Sony, is a Japanese multinational conglomerate headquartered at the Sony City building in Minato, Tokyo. The Sony Group encompasses various businesses, including electronics, imaging and sensing, film and television, music, video games, and others.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sony",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sony-1945-rice-cooker-2.jpg/500px-Sony-1945-rice-cooker-2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sony-1945-rice-cooker-2.jpg/500px-Sony-1945-rice-cooker-2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "sony-1945-rice-cooker-2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Sony's first product was an electric rice cooker in the late 1940s.[22]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sony",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Sony",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Sony",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "07-01-1862-021f7832",
+      "year": 1862,
+      "text": "Princess Alice of the United Kingdom, second daughter of Queen Victoria, marries Prince Louis of Hesse, the future Louis IV, Grand Duke of Hesse.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Alice%2C_Princess_Louis_of_Hesse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Alice%2C_Princess_Louis_of_Hesse.jpg/330px-Alice%2C_Princess_Louis_of_Hesse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "alice,_princess_louis_of_hesse.jpg",
+        "width": 1168,
+        "height": 1720,
+        "title": "Princess Alice of the United Kingdom",
+        "description": "British princess (1843–1878)",
+        "extract": "Princess Alice was Grand Duchess of Hesse and by Rhine from 13 June 1877 until her death in 1878 as the wife of Grand Duke Louis IV. She was the third child and second daughter of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha. Alice was the first of Queen Victoria's nine children to die and one of three to predecease their mother.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Princess_Alice_of_the_United_Kingdom",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Alice%2C_Princess_Louis_of_Hesse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Alice%2C_Princess_Louis_of_Hesse.jpg/330px-Alice%2C_Princess_Louis_of_Hesse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "alice,_princess_louis_of_hesse.jpg",
+          "width": 1168,
+          "height": 1720,
+          "title": "Princess Alice of the United Kingdom",
+          "description": "British princess (1843–1878)",
+          "extract": "Princess Alice was Grand Duchess of Hesse and by Rhine from 13 June 1877 until her death in 1878 as the wife of Grand Duke Louis IV. She was the third child and second daughter of Queen Victoria and Prince Albert of Saxe-Coburg and Gotha. Alice was the first of Queen Victoria's nine children to die and one of three to predecease their mother.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Princess_Alice_of_the_United_Kingdom",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Grand_Duke_Ludwig_IV_of_He-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Grand_Duke_Ludwig_IV_of_He-1.jpg/330px-Grand_Duke_Ludwig_IV_of_He-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "grand_duke_ludwig_iv_of_he-1.jpg",
+          "width": 412,
+          "height": 568,
+          "title": "Louis IV of Hesse",
+          "description": "Grand Duke of Hesse and by Rhine from 1877 to 1892",
+          "extract": "Louis IV was the Grand Duke of Hesse and by Rhine from 13 June 1877 until his death in 1892. Through his marriage to Queen Victoria's second daughter Alice, he was connected to the British royal family. Two of his daughters married into the House of Romanov.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Louis_IV_of_Hesse",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Princess_Alice_asleep_watched_over_by_Dandie%2C_the_black_terrier.jpg/1280px-Princess_Alice_asleep_watched_over_by_Dandie%2C_the_black_terrier.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Princess_Alice_asleep_watched_over_by_Dandie%2C_the_black_terrier.jpg/1280px-Princess_Alice_asleep_watched_over_by_Dandie%2C_the_black_terrier.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "princess_alice_asleep_watched_over_by_dandie,_the_black_terrier.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Painting of baby Princess Alice by Edwin Landseer, 1843. Prince Albert ordered this painting as a surprise gift to his wife.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Princess_Alice_of_the_United_Kingdom",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Princess Alice of the United Kingdom",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Princess_Alice_of_the_United_Kingdom",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "07-01-1855-577c0147",
+      "year": 1855,
+      "text": "Signing of the Quinault Treaty: The Quinault and the Quileute cede their land to the United States.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Native_American_family._Taholah_Agency_-_NARA_-_298664.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Native_American_family._Taholah_Agency_-_NARA_-_298664.jpg/330px-Native_American_family._Taholah_Agency_-_NARA_-_298664.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "native_american_family._taholah_agency_-_nara_-_298664.jpg",
+        "width": 1738,
+        "height": 3000,
+        "title": "Quinault people",
+        "description": "Native American peoples",
+        "extract": "The Quinault are a group of Native American peoples from western Washington in the United States. They are a Southwestern Coast Salish people and are enrolled in the federally recognized Quinault Indian Nation.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Quinault_people",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Native_American_family._Taholah_Agency_-_NARA_-_298664.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Native_American_family._Taholah_Agency_-_NARA_-_298664.jpg/330px-Native_American_family._Taholah_Agency_-_NARA_-_298664.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "native_american_family._taholah_agency_-_nara_-_298664.jpg",
+          "width": 1738,
+          "height": 3000,
+          "title": "Quinault people",
+          "description": "Native American peoples",
+          "extract": "The Quinault are a group of Native American peoples from western Washington in the United States. They are a Southwestern Coast Salish people and are enrolled in the federally recognized Quinault Indian Nation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Quinault_people",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/La_Push_aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/La_Push_aerial.jpg/330px-La_Push_aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "la_push_aerial.jpg",
+          "width": 2440,
+          "height": 1538,
+          "title": "Quileute",
+          "description": "Native American people in Washington (state)",
+          "extract": "The Quileute are a Native American people indigenous to western Washington state in the United States. Quileute people are represented by the federally recognized Quileute Tribe. Some Quileute are enrolled in the federally recognized Quinault Indian Nation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Quileute",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Quinault Treaty",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Quinault_Treaty",
+      "relatedPagesCount": 3
+    }
+  ]
+}

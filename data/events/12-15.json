@@ -1,0 +1,607 @@
+{
+  "date": {
+    "month": 12,
+    "day": 15,
+    "formatted": "12-15"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "12-15-1965-96420538",
+      "year": 1965,
+      "text": "Project Gemini: Gemini 6A, crewed by Wally Schirra and Thomas Stafford, is launched from Cape Kennedy, Florida. Four orbits later, it achieves the first space rendezvous, with Gemini 7.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gemini_7_in_orbit_-_GPN-2006-000035.jpg/3840px-Gemini_7_in_orbit_-_GPN-2006-000035.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gemini_7_in_orbit_-_GPN-2006-000035.jpg/330px-Gemini_7_in_orbit_-_GPN-2006-000035.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gemini_7_in_orbit_-_gpn-2006-000035.jpg",
+        "width": 4095,
+        "height": 4069,
+        "title": "Gemini 6A",
+        "description": "1965 manned United States spaceflight in NASA's Gemini program",
+        "extract": "Gemini 6A was a 1965 crewed United States spaceflight in NASA's Gemini program. \nThe mission, flown by Wally Schirra and Thomas P. Stafford, achieved the first crewed rendezvous with another spacecraft, its sister Gemini 7. Although the Soviet Union had twice previously launched simultaneous pairs of Vostok spacecraft, these established radio contact with each other, but they had no ability to adjust their orbits in order to rendezvous and came no closer than several kilometers of each other, while the Gemini 6 and 7 spacecraft came as close as one foot (30 cm) and could have docked had they been so equipped.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gemini_6A",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gemini_7_in_orbit_-_GPN-2006-000035.jpg/3840px-Gemini_7_in_orbit_-_GPN-2006-000035.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gemini_7_in_orbit_-_GPN-2006-000035.jpg/330px-Gemini_7_in_orbit_-_GPN-2006-000035.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gemini_7_in_orbit_-_gpn-2006-000035.jpg",
+          "width": 4095,
+          "height": 4069,
+          "title": "Gemini 6A",
+          "description": "1965 manned United States spaceflight in NASA's Gemini program",
+          "extract": "Gemini 6A was a 1965 crewed United States spaceflight in NASA's Gemini program. \nThe mission, flown by Wally Schirra and Thomas P. Stafford, achieved the first crewed rendezvous with another spacecraft, its sister Gemini 7. Although the Soviet Union had twice previously launched simultaneous pairs of Vostok spacecraft, these established radio contact with each other, but they had no ability to adjust their orbits in order to rendezvous and came no closer than several kilometers of each other, while the Gemini 6 and 7 spacecraft came as close as one foot (30 cm) and could have docked had they been so equipped.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gemini_6A",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Schirra_walter_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Schirra_walter_3.jpg/330px-Schirra_walter_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "schirra_walter_3.jpg",
+          "width": 2000,
+          "height": 2427,
+          "title": "Wally Schirra",
+          "description": "American astronaut (1923–2007)",
+          "extract": "Walter Marty Schirra Jr. was an American naval aviator, test pilot, and NASA astronaut. In 1959, he became one of the original seven astronauts chosen for Project Mercury, which was the United States' first effort to put humans into space. On October 3, 1962, he flew the six-orbit, nine-hour, Mercury-Atlas 8 mission, in a spacecraft he nicknamed Sigma 7, becoming the fifth American and ninth human to travel into space. In December 1965, as part of the two-man Gemini program, he achieved the first space rendezvous, station-keeping his Gemini 6A spacecraft within 1 foot (30 cm) of the sister Gemini 7 spacecraft. In October 1968, he commanded Apollo 7, an 11-day low Earth orbit shakedown test of the three-man Apollo Command/Service Module and the first crewed launch for the Apollo program.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wally_Schirra",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Thomas_Stafford.jpg/3840px-Thomas_Stafford.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Thomas_Stafford.jpg/330px-Thomas_Stafford.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "thomas_stafford.jpg",
+          "width": 4096,
+          "height": 5120,
+          "title": "Thomas P. Stafford",
+          "description": "American astronaut and lunar explorer (1930–2024)",
+          "extract": "Thomas Patten Stafford was an American Air Force officer, test pilot, and NASA astronaut, and one of 24 Apollo astronauts who flew to the Moon. He also served as chief of the Astronaut Office from 1969 to 1971.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_P._Stafford",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Project Gemini",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Project_Gemini",
+      "relatedPagesCount": 8
+    },
+    {
+      "id": "12-15-2017-396ddb5b",
+      "year": 2017,
+      "text": "A 6.5Mwearthquake strikes the Indonesian island of Java in the city of Tasikmalaya, resulting in four deaths.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Java_Topography.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Java_Topography.png/330px-Java_Topography.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "java_topography.png",
+        "width": 2688,
+        "height": 1693,
+        "title": "Java",
+        "description": "Island and region in Indonesia",
+        "extract": "Java is one of the Greater Sunda Islands in the South East Asian country of Indonesia. It is bordered by the Indian Ocean to the south and the Java Sea to the north. Java is the world's most populous island, home to an estimated 159.2 million people; about 56% of the Indonesian population, while constituting only 7% of the country's land area. Indonesia's capital city, Jakarta, is located on Java's northwestern coast.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Java",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Java_Topography.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Java_Topography.png/330px-Java_Topography.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "java_topography.png",
+          "width": 2688,
+          "height": 1693,
+          "title": "Java",
+          "description": "Island and region in Indonesia",
+          "extract": "Java is one of the Greater Sunda Islands in the South East Asian country of Indonesia. It is bordered by the Indian Ocean to the south and the Java Sea to the north. Java is the world's most populous island, home to an estimated 159.2 million people; about 56% of the Indonesian population, while constituting only 7% of the country's land area. Indonesia's capital city, Jakarta, is located on Java's northwestern coast.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Java",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Masjid_Agung_Tasikmalaya.jpg/3840px-Masjid_Agung_Tasikmalaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Masjid_Agung_Tasikmalaya.jpg/330px-Masjid_Agung_Tasikmalaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "masjid_agung_tasikmalaya.jpg",
+          "width": 4160,
+          "height": 2340,
+          "title": "Tasikmalaya",
+          "description": "City in West Java, Indonesia",
+          "extract": "Tasikmalaya is a landlocked city in West Java, Indonesia. The city is sometimes dubbed kota santri or \"the City of a Thousand Pesantrens\" for its abundance of Islamic boarding schools. Located around 120 kilometres (75 mi) southeast from the provincial capital of Bandung, Tasikmalaya is passed by Indonesian National Route 3.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tasikmalaya",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "2017 Java earthquake",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2017_Java_earthquake",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-15-2005-6cf75382",
+      "year": 2005,
+      "text": "Introduction of the Lockheed Martin F-22 Raptor into USAF active service.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/F-22_Raptor_edit1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/F-22_Raptor_edit1_%28cropped%29.jpg/330px-F-22_Raptor_edit1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "f-22_raptor_edit1_(cropped).jpg",
+        "width": 1988,
+        "height": 1491,
+        "title": "Lockheed Martin F-22 Raptor",
+        "description": "American stealth air superiority fighter",
+        "extract": "The Lockheed Martin–Boeing F-22 Raptor is an American twin-engine, jet-powered, all-weather, supersonic stealth fighter aircraft. As a product of the United States Air Force's (USAF) Advanced Tactical Fighter (ATF) program, the aircraft was designed as an air superiority fighter, but also incorporates ground attack, electronic warfare, and signals intelligence capabilities. The prime contractor, Lockheed Martin, built most of the F-22 airframe and weapons systems and conducted final assembly, while program partner Boeing provided the wings, aft fuselage, avionics integration, and training systems.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/F-22_Raptor_edit1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/F-22_Raptor_edit1_%28cropped%29.jpg/330px-F-22_Raptor_edit1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "f-22_raptor_edit1_(cropped).jpg",
+          "width": 1988,
+          "height": 1491,
+          "title": "Lockheed Martin F-22 Raptor",
+          "description": "American stealth air superiority fighter",
+          "extract": "The Lockheed Martin–Boeing F-22 Raptor is an American twin-engine, jet-powered, all-weather, supersonic stealth fighter aircraft. As a product of the United States Air Force's (USAF) Advanced Tactical Fighter (ATF) program, the aircraft was designed as an air superiority fighter, but also incorporates ground attack, electronic warfare, and signals intelligence capabilities. The prime contractor, Lockheed Martin, built most of the F-22 airframe and weapons systems and conducted final assembly, while program partner Boeing provided the wings, aft fuselage, avionics integration, and training systems.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Advanced_Tactical_Fighter_Systems_Project_Office_Patch.jpg/500px-Advanced_Tactical_Fighter_Systems_Project_Office_Patch.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Advanced_Tactical_Fighter_Systems_Project_Office_Patch.jpg/500px-Advanced_Tactical_Fighter_Systems_Project_Office_Patch.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "advanced_tactical_fighter_systems_project_office_patch.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "ATF SPO Patch, 1990",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/53/F-22_design_evolution_595_to_645_200x592.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/F-22_design_evolution_595_to_645_200x592.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "f-22_design_evolution_595_to_645_200x592.png",
+          "width": 800,
+          "height": 600,
+          "title": "Evolution of the F-22 design from 1987, with the bottom being the production configuration",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Lockheed Martin F-22 Raptor",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-15-2000-858b097f",
+      "year": 2000,
+      "text": "The third reactor at the Chernobyl Nuclear Power Plant is shut down.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/3840px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/330px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "chernobyl_npp_site_panorama_with_nsc_construction_-_june_2013.jpg",
+        "width": 6300,
+        "height": 2408,
+        "title": "Chernobyl Nuclear Power Plant",
+        "description": "Decommissioned nuclear power plant in Ukraine",
+        "extract": "The Chernobyl Nuclear Power Plant (ChNPP) is a nuclear power plant undergoing decommissioning. ChNPP is located near the abandoned city of Pripyat in northern Ukraine, 16.5 kilometres (10 mi) northwest of the city of Chernobyl, 16 kilometres (10 mi) from the Belarus–Ukraine border, and about 100 kilometres (62 mi) north of Kyiv. The plant was cooled by an engineered pond, fed by the Pripyat River about 5 kilometres (3 mi) northwest from its juncture with the Dnieper River. The RBMK type graphite-moderated reactor used in this plant is considered an unusual design. It prioritizes cost efficiency over safety compared to other reactor designs, such as the VVER pressurized water reactor.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/3840px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/330px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chernobyl_npp_site_panorama_with_nsc_construction_-_june_2013.jpg",
+          "width": 6300,
+          "height": 2408,
+          "title": "Chernobyl Nuclear Power Plant",
+          "description": "Decommissioned nuclear power plant in Ukraine",
+          "extract": "The Chernobyl Nuclear Power Plant (ChNPP) is a nuclear power plant undergoing decommissioning. ChNPP is located near the abandoned city of Pripyat in northern Ukraine, 16.5 kilometres (10 mi) northwest of the city of Chernobyl, 16 kilometres (10 mi) from the Belarus–Ukraine border, and about 100 kilometres (62 mi) north of Kyiv. The plant was cooled by an engineered pond, fed by the Pripyat River about 5 kilometres (3 mi) northwest from its juncture with the Dnieper River. The RBMK type graphite-moderated reactor used in this plant is considered an unusual design. It prioritizes cost efficiency over safety compared to other reactor designs, such as the VVER pressurized water reactor.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Chernobyl Nuclear Power Plant",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "12-15-1970-1af64322",
+      "year": 1970,
+      "text": "The Soviet spacecraft Venera 7 touched down on the surface of Venus, making the first successful landing of a spacecraft on another planet.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Venera-7_spuskaemiy_apparat.jpg/1920px-Venera-7_spuskaemiy_apparat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Venera-7_spuskaemiy_apparat.jpg/330px-Venera-7_spuskaemiy_apparat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "venera-7_spuskaemiy_apparat.jpg",
+        "width": 3024,
+        "height": 4032,
+        "title": "Venera 7",
+        "description": "Soviet lander mission to Venus (1970)",
+        "extract": "Venera 7 was a Soviet spacecraft, part of the Venera series of probes to Venus. When it landed on the Venusian surface on 15 December 1970, it became the first spacecraft to execute a successful soft landing on another planet and the first to transmit data from there back to Earth.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Venera_7",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Venera-7_spuskaemiy_apparat.jpg/1920px-Venera-7_spuskaemiy_apparat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Venera-7_spuskaemiy_apparat.jpg/330px-Venera-7_spuskaemiy_apparat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "venera-7_spuskaemiy_apparat.jpg",
+          "width": 3024,
+          "height": 4032,
+          "title": "Venera 7",
+          "description": "Soviet lander mission to Venus (1970)",
+          "extract": "Venera 7 was a Soviet spacecraft, part of the Venera series of probes to Venus. When it landed on the Venusian surface on 15 December 1970, it became the first spacecraft to execute a successful soft landing on another planet and the first to transmit data from there back to Earth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Venera_7",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1972_CPA_4166.jpg/500px-1972_CPA_4166.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/1972_CPA_4166.jpg/500px-1972_CPA_4166.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "1972_cpa_4166.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "1972_CPA_4166",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Venera_7",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Venera 7",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Venera_7",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-15-2013-0321f993",
+      "year": 2013,
+      "text": "The South Sudanese Civil War began when three opposition leaders voted to boycott the meeting of the National Liberation Council in Juba.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/John_Garang_Mausoleum_Square_in_Juba.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/John_Garang_Mausoleum_Square_in_Juba.JPG/330px-John_Garang_Mausoleum_Square_in_Juba.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "john_garang_mausoleum_square_in_juba.jpg",
+        "width": 3456,
+        "height": 2592,
+        "title": "Juba",
+        "description": "Capital and largest city of South Sudan",
+        "extract": "Juba is the capital and largest city of South Sudan. The city is situated on the White Nile and also serves as the capital of the Central Equatoria State. It is the most recently declared national capital and had a population of 525,953 in 2017. It has an area of 52 km2 (20 sq mi), with the metropolitan area covering 336 km2 (130 sq mi).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Juba",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/John_Garang_Mausoleum_Square_in_Juba.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/John_Garang_Mausoleum_Square_in_Juba.JPG/330px-John_Garang_Mausoleum_Square_in_Juba.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "john_garang_mausoleum_square_in_juba.jpg",
+          "width": 3456,
+          "height": 2592,
+          "title": "Juba",
+          "description": "Capital and largest city of South Sudan",
+          "extract": "Juba is the capital and largest city of South Sudan. The city is situated on the White Nile and also serves as the capital of the Central Equatoria State. It is the most recently declared national capital and had a population of 525,953 in 2017. It has an area of 52 km2 (20 sq mi), with the metropolitan area covering 336 km2 (130 sq mi).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Juba",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/South_Sudan_022.jpg/500px-South_Sudan_022.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/South_Sudan_022.jpg/500px-South_Sudan_022.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "south_sudan_022.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A South Sudanese man holding a HK G3, May 2011",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/South_Sudanese_Civil_War",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "South Sudanese Civil War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/South_Sudanese_Civil_War",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-15-2010-159b1926",
+      "year": 2010,
+      "text": "A boat carrying 90 asylum seekers crashes into rocks off the coast of Christmas Island, Australia, killing 48 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/SIEV-221_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/4f/SIEV-221_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "siev-221_montage.jpg",
+        "width": 249,
+        "height": 400,
+        "title": "2010 Christmas Island boat disaster",
+        "description": "Migrant boat disaster off Christmas Island, Australia",
+        "extract": "On 15 December 2010, an Indonesian fishing boat carrying 89 asylum seekers and 3 crew members sank after being dashed against the rocks near Rocky Point, Christmas Island, an external Australian territory. 50 people died and 42 were rescued. The incident was the worst civilian maritime disaster in Australia in more than a century.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2010_Christmas_Island_boat_disaster",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/4f/SIEV-221_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/4f/SIEV-221_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "siev-221_montage.jpg",
+          "width": 249,
+          "height": 400,
+          "title": "2010 Christmas Island boat disaster",
+          "description": "Migrant boat disaster off Christmas Island, Australia",
+          "extract": "On 15 December 2010, an Indonesian fishing boat carrying 89 asylum seekers and 3 crew members sank after being dashed against the rocks near Rocky Point, Christmas Island, an external Australian territory. 50 people died and 42 were rescued. The incident was the worst civilian maritime disaster in Australia in more than a century.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2010_Christmas_Island_boat_disaster",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/CIA%2C_Conrad_Schumanns_Sprung_in_die_Freiheit%2C_August_1961_%28cropped%29_1.jpg/1280px-CIA%2C_Conrad_Schumanns_Sprung_in_die_Freiheit%2C_August_1961_%28cropped%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/CIA%2C_Conrad_Schumanns_Sprung_in_die_Freiheit%2C_August_1961_%28cropped%29_1.jpg/1280px-CIA%2C_Conrad_Schumanns_Sprung_in_die_Freiheit%2C_August_1961_%28cropped%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "cia,_conrad_schumanns_sprung_in_die_freiheit,_august_1961_(cropped)_1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Konrad Schumann, an East German border guard, fleeing East Germany towards West Germany in 1962",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Refugee",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Darfur_refugee_camp_in_Chad.jpg/500px-Darfur_refugee_camp_in_Chad.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Darfur_refugee_camp_in_Chad.jpg/500px-Darfur_refugee_camp_in_Chad.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "darfur_refugee_camp_in_chad.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Darfur refugee camp in Chad, 2005",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Refugee",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Refugee",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Refugee",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-15-2001-86db2511",
+      "year": 2001,
+      "text": "The Leaning Tower of Pisa reopens after 11 years and $27,000,000 spent to stabilize it, without fixing its famous lean.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg/330px-Italy_-_Pisa_-_Leaning_Tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "italy_-_pisa_-_leaning_tower.jpg",
+        "width": 3257,
+        "height": 4544,
+        "title": "Leaning Tower of Pisa",
+        "description": "Bell tower in Pisa, Italy",
+        "extract": "The Leaning Tower of Pisa, or simply the Tower of Pisa, is the campanile, or freestanding bell tower, of Pisa Cathedral. It is known for its nearly four-degree lean, the result of an unstable foundation. The tower is one of three structures in Pisa's Cathedral Square, which includes the cathedral and Pisa Baptistry. Over time, the flawed tower has become one of the most visited tourist attractions in the world as well as an architectural icon of Italy, receiving over 5 million visitors each year.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Italy_-_Pisa_-_Leaning_Tower.jpg/330px-Italy_-_Pisa_-_Leaning_Tower.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "italy_-_pisa_-_leaning_tower.jpg",
+          "width": 3257,
+          "height": 4544,
+          "title": "Leaning Tower of Pisa",
+          "description": "Bell tower in Pisa, Italy",
+          "extract": "The Leaning Tower of Pisa, or simply the Tower of Pisa, is the campanile, or freestanding bell tower, of Pisa Cathedral. It is known for its nearly four-degree lean, the result of an unstable foundation. The tower is one of three structures in Pisa's Cathedral Square, which includes the cathedral and Pisa Baptistry. Over time, the flawed tower has become one of the most visited tourist attractions in the world as well as an architectural icon of Italy, receiving over 5 million visitors each year.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Leaning_tower_of_Pisa_-_capital_of_column_at_the_top.jpg/250px-Leaning_tower_of_Pisa_-_capital_of_column_at_the_top.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Leaning_tower_of_Pisa_-_capital_of_column_at_the_top.jpg/250px-Leaning_tower_of_Pisa_-_capital_of_column_at_the_top.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "leaning_tower_of_pisa_-_capital_of_column_at_the_top.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Leaning_tower_of_Pisa_-_capital_of_column_at_the_top",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Torre_di_pisa%2C_capitello_con_scimmiette.JPG/250px-Torre_di_pisa%2C_capitello_con_scimmiette.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Torre_di_pisa%2C_capitello_con_scimmiette.JPG/250px-Torre_di_pisa%2C_capitello_con_scimmiette.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "torre_di_pisa,_capitello_con_scimmiette.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Torre_di_pisa,_capitello_con_scimmiette",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Leaning Tower of Pisa",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "12-15-1997-630e9474",
+      "year": 1997,
+      "text": "Tajikistan Airlines Flight 3183 crashes in the desert near Sharjah, United Arab Emirates, killing 85.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tajikistan_Airlines_Flight_3183%EF%BC%88EY-85281%EF%BC%89_wreckage2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tajikistan_Airlines_Flight_3183%EF%BC%88EY-85281%EF%BC%89_wreckage2.jpg/330px-Tajikistan_Airlines_Flight_3183%EF%BC%88EY-85281%EF%BC%89_wreckage2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "tajikistan_airlines_flight_3183（ey-85281）_wreckage2.jpg",
+        "width": 1024,
+        "height": 652,
+        "title": "Tajikistan Airlines Flight 3183",
+        "description": "1997 aircraft accident in the United Arab Emirates",
+        "extract": "Tajikistan Airlines Flight 3183 was a Tupolev Tu-154B-1 that crashed on 15 December 1997 on approach to Sharjah Airport in the United Arab Emirates. There was a sole survivor, the navigator, from a crew of seven and seventy-nine passengers. Investigators determined the cause of the accident was pilot error leading to controlled flight into terrain.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tajikistan_Airlines_Flight_3183",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tajikistan_Airlines_Flight_3183%EF%BC%88EY-85281%EF%BC%89_wreckage2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tajikistan_Airlines_Flight_3183%EF%BC%88EY-85281%EF%BC%89_wreckage2.jpg/330px-Tajikistan_Airlines_Flight_3183%EF%BC%88EY-85281%EF%BC%89_wreckage2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tajikistan_airlines_flight_3183（ey-85281）_wreckage2.jpg",
+          "width": 1024,
+          "height": 652,
+          "title": "Tajikistan Airlines Flight 3183",
+          "description": "1997 aircraft accident in the United Arab Emirates",
+          "extract": "Tajikistan Airlines Flight 3183 was a Tupolev Tu-154B-1 that crashed on 15 December 1997 on approach to Sharjah Airport in the United Arab Emirates. There was a sole survivor, the navigator, from a crew of seven and seventy-nine passengers. Investigators determined the cause of the accident was pilot error leading to controlled flight into terrain.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tajikistan_Airlines_Flight_3183",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tajikistan_Airlines_Tupolev_Tu-154B-1_EY-85281_at_Sharjah_International_Airport_%28SHJ%2C_OMSJ%29.jpg/1280px-Tajikistan_Airlines_Tupolev_Tu-154B-1_EY-85281_at_Sharjah_International_Airport_%28SHJ%2C_OMSJ%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tajikistan_Airlines_Tupolev_Tu-154B-1_EY-85281_at_Sharjah_International_Airport_%28SHJ%2C_OMSJ%29.jpg/1280px-Tajikistan_Airlines_Tupolev_Tu-154B-1_EY-85281_at_Sharjah_International_Airport_%28SHJ%2C_OMSJ%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "tajikistan_airlines_tupolev_tu-154b-1_ey-85281_at_sharjah_international_airport_(shj,_omsj).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Tajikistan_Airlines_Tupolev_Tu-154B-1_EY-85281_at_Sharjah_International_Airport_(SHJ,_OMSJ)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tajikistan_Airlines_Flight_3183",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tajikistan_Airlines_Flight_3183%EF%BC%88EY-85281%EF%BC%89_wreckage.jpg/500px-Tajikistan_Airlines_Flight_3183%EF%BC%88EY-85281%EF%BC%89_wreckage.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Tajikistan_Airlines_Flight_3183%EF%BC%88EY-85281%EF%BC%89_wreckage.jpg/500px-Tajikistan_Airlines_Flight_3183%EF%BC%88EY-85281%EF%BC%89_wreckage.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "tajikistan_airlines_flight_3183（ey-85281）_wreckage.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Another view of the scattered wreckage",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tajikistan_Airlines_Flight_3183",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Tajikistan Airlines Flight 3183",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Tajikistan_Airlines_Flight_3183",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-15-1989-e0c2962b",
+      "year": 1989,
+      "text": "Second Optional Protocol to the International Covenant on Civil and Political Rights relating the abolition of capital punishment is adopted.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Execution_of_Louis_XVI.jpg/3840px-Execution_of_Louis_XVI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Execution_of_Louis_XVI.jpg/330px-Execution_of_Louis_XVI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "execution_of_louis_xvi.jpg",
+        "width": 5043,
+        "height": 3016,
+        "title": "Capital punishment",
+        "description": "Legal killing of a person as punishment",
+        "extract": "Capital punishment, also known as the death penalty and formerly called judicial homicide, is the state-sanctioned killing of a person as punishment for actual or supposed misconduct. The sentence ordering that an offender be punished in such a manner is called a death sentence, and the act of carrying out the sentence is an execution. A prisoner who has been sentenced to death and awaits execution is condemned and is commonly referred to as being \"on death row\". Etymologically, the term capital refers to execution by beheading, but executions are carried out by many methods.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Capital_punishment",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Execution_of_Louis_XVI.jpg/3840px-Execution_of_Louis_XVI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Execution_of_Louis_XVI.jpg/330px-Execution_of_Louis_XVI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "execution_of_louis_xvi.jpg",
+          "width": 5043,
+          "height": 3016,
+          "title": "Capital punishment",
+          "description": "Legal killing of a person as punishment",
+          "extract": "Capital punishment, also known as the death penalty and formerly called judicial homicide, is the state-sanctioned killing of a person as punishment for actual or supposed misconduct. The sentence ordering that an offender be punished in such a manner is called a death sentence, and the act of carrying out the sentence is an execution. A prisoner who has been sentenced to death and awaits execution is condemned and is commonly referred to as being \"on death row\". Etymologically, the term capital refers to execution by beheading, but executions are carried out by many methods.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Capital_punishment",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Second Optional Protocol to the International Covenant on Civil and Political Rights",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Second_Optional_Protocol_to_the_International_Covenant_on_Civil_and_Political_Rights",
+      "relatedPagesCount": 2
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "date": {
+    "month": 5,
+    "day": 7,
+    "formatted": "05-07"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "05-07-1992-5887a7d0",
+      "year": 1992,
+      "text": "Space Shuttle program: The Space Shuttle Endeavour is launched on its first mission, STS-49.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/STS120LaunchHiRes-edit1.jpg/330px-STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts120launchhires-edit1.jpg",
+        "width": 1888,
+        "height": 2956,
+        "title": "Space Shuttle",
+        "description": "Partially reusable launch system and space plane",
+        "extract": "The Space Shuttle is a retired, partially reusable low Earth orbital spacecraft system operated from 1981 to 2011 by the U.S. National Aeronautics and Space Administration (NASA) as part of the Space Shuttle program. Its official program name was the Space Transportation System (STS), taken from the 1969 plan led by U.S. vice president Spiro Agnew for a system of reusable spacecraft where it was the only item funded for development.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/STS120LaunchHiRes-edit1.jpg/330px-STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts120launchhires-edit1.jpg",
+          "width": 1888,
+          "height": 2956,
+          "title": "Space Shuttle",
+          "description": "Partially reusable launch system and space plane",
+          "extract": "The Space Shuttle is a retired, partially reusable low Earth orbital spacecraft system operated from 1981 to 2011 by the U.S. National Aeronautics and Space Administration (NASA) as part of the Space Shuttle program. Its official program name was the Space Transportation System (STS), taken from the 1969 plan led by U.S. vice president Spiro Agnew for a system of reusable spacecraft where it was the only item funded for development.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+          "width": 3680,
+          "height": 2448,
+          "title": "Space Shuttle Endeavour",
+          "description": "Space Shuttle orbiter (1992–2011)",
+          "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Three_Crew_Members_Capture_Intelsat_VI_-_GPN-2000-001035.jpg/3840px-Three_Crew_Members_Capture_Intelsat_VI_-_GPN-2000-001035.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Three_Crew_Members_Capture_Intelsat_VI_-_GPN-2000-001035.jpg/330px-Three_Crew_Members_Capture_Intelsat_VI_-_GPN-2000-001035.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "three_crew_members_capture_intelsat_vi_-_gpn-2000-001035.jpg",
+          "width": 4078,
+          "height": 4095,
+          "title": "STS-49",
+          "description": "1992 American crewed spaceflight to Intelsat 603 and maiden flight of Shuttle Endeavour",
+          "extract": "STS-49 was NASA's maiden flight of the Space Shuttle Endeavour, which launched on May 7, 1992. The primary goal of its nine-day mission was to retrieve an Intelsat VI satellite, Intelsat 603, which failed to leave Low Earth orbit two years before, attach it to a new upper stage, and relaunch it to its intended geosynchronous orbit. After several attempts, the capture was completed with the only three-person extravehicular activity (EVA) in space flight history. It would also stand until STS-102 in 2001 as the longest EVA ever undertaken.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-49",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-07-1931-70d641f5",
+      "year": 1931,
+      "text": "The stand-off between criminal Francis Crowley and 300 members of the New York Police Department takes place in his fifth-floor apartment on West 91st Street, New York City.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/5/59/Francis_%22Two_Gun%22_Crowley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/5/59/Francis_%22Two_Gun%22_Crowley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "francis_\"two_gun\"_crowley.jpg",
+        "width": 214,
+        "height": 276,
+        "title": "Francis Crowley",
+        "description": "American murderer (1912–1932)",
+        "extract": "Francis \"Two Gun\" Crowley was an American murderer. His crime spree lasted nearly three months, ending in a two-hour shootout with the New York City Police Department on May 7, 1931 that was witnessed by 15,000 bystanders and received national attention. In 1932, he was executed on the electric chair of Sing Sing Prison. His story was referenced in Dale Carnegie's How to Win Friends and Influence People.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Francis_Crowley",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/59/Francis_%22Two_Gun%22_Crowley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/5/59/Francis_%22Two_Gun%22_Crowley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "francis_\"two_gun\"_crowley.jpg",
+          "width": 214,
+          "height": 276,
+          "title": "Francis Crowley",
+          "description": "American murderer (1912–1932)",
+          "extract": "Francis \"Two Gun\" Crowley was an American murderer. His crime spree lasted nearly three months, ending in a two-hour shootout with the New York City Police Department on May 7, 1931 that was witnessed by 15,000 bystanders and received national attention. In 1932, he was executed on the electric chair of Sing Sing Prison. His story was referenced in Dale Carnegie's How to Win Friends and Influence People.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Francis_Crowley",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "view_of_empire_state_building_from_rockefeller_center_new_york_city_dllu_(cropped).jpg",
+          "width": 8207,
+          "height": 4616,
+          "title": "New York City",
+          "description": "Most populous city in the United States",
+          "extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance and commerce, culture, entertainment and media, academics and scientific output, the arts and fashion—and as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/New_York_City",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Francis Crowley",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Francis_Crowley",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-07-2025-111c70c2",
+      "year": 2025,
+      "text": "The Indian Army and the Indian Air Force conduct surgical strikes code-named Operation SINDOOR on terrorist hideouts in Pakistan in response to the Pahalgam Attack that killed 26 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Indian_Air_Force_Crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Indian_Air_Force_Crest.png/330px-Indian_Air_Force_Crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "indian_air_force_crest.png",
+        "width": 3464,
+        "height": 3464,
+        "title": "Indian Air Force",
+        "description": "Aerial service branch of the Indian Armed Forces",
+        "extract": "The Indian Air Force (IAF) is the air arm of the Indian Armed Forces. Its primary mission is to secure Indian airspace and to conduct aerial warfare during armed conflicts. It was officially established on 8 October 1932 as an auxiliary air force of British India which honoured India's aviation service during World War II.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Indian_Air_Force",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Indian_Air_Force_Crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Indian_Air_Force_Crest.png/330px-Indian_Air_Force_Crest.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "indian_air_force_crest.png",
+          "width": 3464,
+          "height": 3464,
+          "title": "Indian Air Force",
+          "description": "Aerial service branch of the Indian Armed Forces",
+          "extract": "The Indian Air Force (IAF) is the air arm of the Indian Armed Forces. Its primary mission is to secure Indian airspace and to conduct aerial warfare during armed conflicts. It was officially established on 8 October 1932 as an auxiliary air force of British India which honoured India's aviation service during World War II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Indian_Air_Force",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Baisaran_Valley_Kashmir24102023.jpg/3840px-Baisaran_Valley_Kashmir24102023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Baisaran_Valley_Kashmir24102023.jpg/330px-Baisaran_Valley_Kashmir24102023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "baisaran_valley_kashmir24102023.jpg",
+          "width": 4080,
+          "height": 2296,
+          "title": "2025 Pahalgam attack",
+          "description": "Islamist terrorist attack in Indian-administered Kashmir",
+          "extract": "The 2025 Pahalgam attack, also referred to as the 2025 Pahalgam massacre, was an Islamist terrorist attack on tourists by three armed terrorists near Pahalgam in Indian-administered Jammu and Kashmir in which 26 civilians were killed on 22 April 2025. The militants targeted Hindu tourists, though a Christian tourist and a local Muslim pony ride operator were also killed. The attackers, armed with M4 carbines and AK-47s, entered the Baisaran Valley, a popular tourist spot, through the surrounding forests. This incident is considered the deadliest attack on civilians in India since the 2008 Mumbai attacks. Scholars and analysts contend that the specific targeting of Hindus, the high civilian casualty of the massacre and its barbarity was aimed at exploiting 'communal fault lines' and elicit a reaction from the Indian government, compelling the government to respond militarily.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2025_Pahalgam_attack",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/RML7pounderMountanGunHazaraBattery1895.jpg/500px-RML7pounderMountanGunHazaraBattery1895.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/RML7pounderMountanGunHazaraBattery1895.jpg/500px-RML7pounderMountanGunHazaraBattery1895.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "rml7poundermountangunhazarabattery1895.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "No. 4 (Hazara) Mountain Battery with RML7 pounder \"Steel Gun\" Mountain Gun in Review Order. Left to right Naick, Havaldar, Subadar (Sikhs) and Gunner (Punjabi Musalman) c. 1895.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Indian_Army",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Indian Army",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Indian_Army",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "05-07-1960-e0b07dbc",
+      "year": 1960,
+      "text": "Cold War: U-2 Crisis of 1960: Soviet leader Nikita Khrushchev announces that his nation is holding American U-2 pilot Gary Powers.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Wreckage_of_Lockheed_U-2C_%2856-6693%29_%2838901816671%29.jpg/3840px-Wreckage_of_Lockheed_U-2C_%2856-6693%29_%2838901816671%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Wreckage_of_Lockheed_U-2C_%2856-6693%29_%2838901816671%29.jpg/330px-Wreckage_of_Lockheed_U-2C_%2856-6693%29_%2838901816671%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "wreckage_of_lockheed_u-2c_(56-6693)_(38901816671).jpg",
+        "width": 4519,
+        "height": 3013,
+        "title": "1960 U-2 incident",
+        "description": "Cold War aircraft shootdown",
+        "extract": "On 1 May 1960, a United States U-2 spy plane, having taken off from Peshawar in Pakistan, was shot down by the Soviet Air Defence Forces in Sverdlovsk, Russia. It was conducting photographic aerial reconnaissance inside Soviet territory while being flown by American Central Intelligence Agency pilot Francis Gary Powers, as it was hit by a surface-to-air missile. Powers parachuted to the ground and was captured.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1960_U-2_incident",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Wreckage_of_Lockheed_U-2C_%2856-6693%29_%2838901816671%29.jpg/3840px-Wreckage_of_Lockheed_U-2C_%2856-6693%29_%2838901816671%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Wreckage_of_Lockheed_U-2C_%2856-6693%29_%2838901816671%29.jpg/330px-Wreckage_of_Lockheed_U-2C_%2856-6693%29_%2838901816671%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wreckage_of_lockheed_u-2c_(56-6693)_(38901816671).jpg",
+          "width": 4519,
+          "height": 3013,
+          "title": "1960 U-2 incident",
+          "description": "Cold War aircraft shootdown",
+          "extract": "On 1 May 1960, a United States U-2 spy plane, having taken off from Peshawar in Pakistan, was shot down by the Soviet Air Defence Forces in Sverdlovsk, Russia. It was conducting photographic aerial reconnaissance inside Soviet territory while being flown by American Central Intelligence Agency pilot Francis Gary Powers, as it was hit by a surface-to-air missile. Powers parachuted to the ground and was captured.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1960_U-2_incident",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg/330px-1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1956_press_photo_communist_party_secretary_nikita_s._khrushchev_in_moscow_(cropped).jpg",
+          "width": 1810,
+          "height": 2413,
+          "title": "Nikita Khrushchev",
+          "description": "Leader of the Soviet Union from 1953 to 1964",
+          "extract": "Nikita Sergeyevich Khrushchev was the First Secretary of the Communist Party of the Soviet Union from 1953 to 1964 and the Chairman of the Council of Ministers from 1958 to 1964. As leader of the Soviet Union, he shocked the world by denouncing his predecessor Joseph Stalin, embarking on a campaign of de-Stalinization, and presiding over the Cuban Missile Crisis in 1962.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nikita_Khrushchev",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Usaf.u2.750pix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Usaf.u2.750pix.jpg/330px-Usaf.u2.750pix.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "usaf.u2.750pix.jpg",
+          "width": 2830,
+          "height": 1890,
+          "title": "Lockheed U-2",
+          "description": "American reconnaissance aircraft",
+          "extract": "The Lockheed U-2, nicknamed the \"Dragon Lady\", is an American single-engine, high–altitude reconnaissance aircraft operated by the United States Air Force (USAF) and the Central Intelligence Agency (CIA) since the 1950s. Designed for all-weather, day-and-night intelligence gathering at altitudes above 70,000 feet, the U-2 has played a pivotal role in aerial surveillance for decades.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_U-2",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cold War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "05-07-2010-6f86e995",
+      "year": 2010,
+      "text": "A draft sequence of the Neanderthal genome was published, demonstrating that most living humans have Neanderthal ancestors.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Neanderthal_at_AMNH.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neanderthal_at_AMNH.jpg/330px-Neanderthal_at_AMNH.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "neanderthal_at_amnh.jpg",
+        "width": 2776,
+        "height": 3915,
+        "title": "Neanderthal",
+        "description": "Extinct species of human",
+        "extract": "Neanderthals are an extinct group of archaic humans who inhabited Europe and Western and Central Asia during the Middle to Late Pleistocene. Neanderthal extinction occurred roughly 40,000 years ago with the immigration of modern humans (Cro-Magnons), but Neanderthals in Gibraltar may have persisted for thousands of years longer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Neanderthal",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Neanderthal_at_AMNH.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neanderthal_at_AMNH.jpg/330px-Neanderthal_at_AMNH.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "neanderthal_at_amnh.jpg",
+          "width": 2776,
+          "height": 3915,
+          "title": "Neanderthal",
+          "description": "Extinct species of human",
+          "extract": "Neanderthals are an extinct group of archaic humans who inhabited Europe and Western and Central Asia during the Middle to Late Pleistocene. Neanderthal extinction occurred roughly 40,000 years ago with the immigration of modern humans (Cro-Magnons), but Neanderthals in Gibraltar may have persisted for thousands of years longer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Neanderthal",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Neanderthal",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Neanderthal",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-07-2009-95e9af17",
+      "year": 2009,
+      "text": "Police in Napier, New Zealand, began a 40-hour siege of the home of a former New Zealand Army member who had shot at officers during the routine execution of a search warrant.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Napier_Art_Deco%2C_New_Zealand_%286567969%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Napier_Art_Deco%2C_New_Zealand_%286567969%29.jpg/330px-Napier_Art_Deco%2C_New_Zealand_%286567969%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "napier_art_deco,_new_zealand_(6567969).jpg",
+        "width": 2592,
+        "height": 1728,
+        "title": "Napier, New Zealand",
+        "description": "City in Hawke's Bay, New Zealand",
+        "extract": "Napier is a city in the Hawke's Bay region on the eastern coast of the North Island of New Zealand. It is a beachside city with a seaport, known for its sunny climate, esplanade lined with Norfolk pines, and extensive Art Deco architecture. For these attributes, Napier is sometimes romantically referred to as the \"Nice of the Pacific\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Napier%2C_New_Zealand",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Napier_Art_Deco%2C_New_Zealand_%286567969%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Napier_Art_Deco%2C_New_Zealand_%286567969%29.jpg/330px-Napier_Art_Deco%2C_New_Zealand_%286567969%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "napier_art_deco,_new_zealand_(6567969).jpg",
+          "width": 2592,
+          "height": 1728,
+          "title": "Napier, New Zealand",
+          "description": "City in Hawke's Bay, New Zealand",
+          "extract": "Napier is a city in the Hawke's Bay region on the eastern coast of the North Island of New Zealand. It is a beachside city with a seaport, known for its sunny climate, esplanade lined with Norfolk pines, and extensive Art Deco architecture. For these attributes, Napier is sometimes romantically referred to as the \"Nice of the Pacific\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Napier%2C_New_Zealand",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Crest_of_the_New_Zealand_Army.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Crest_of_the_New_Zealand_Army.jpg/330px-Crest_of_the_New_Zealand_Army.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "crest_of_the_new_zealand_army.jpg",
+          "width": 425,
+          "height": 425,
+          "title": "New Zealand Army",
+          "description": "Land component of the New Zealand Defence Force",
+          "extract": "The New Zealand Army is the principal land warfare force of New Zealand, a component of the New Zealand Defence Force alongside the Royal New Zealand Navy and the Royal New Zealand Air Force.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/New_Zealand_Army",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Napier_Panorama_from_Perfume_Point_2025.jpg/1280px-Napier_Panorama_from_Perfume_Point_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Napier_Panorama_from_Perfume_Point_2025.jpg/1280px-Napier_Panorama_from_Perfume_Point_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "napier_panorama_from_perfume_point_2025.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Napier_Panorama_from_Perfume_Point_2025",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Napier%2C_New_Zealand",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Napier, New Zealand",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Napier%2C_New_Zealand",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-07-2004-f40a2220",
+      "year": 2004,
+      "text": "American businessman Nick Berg is beheaded by Islamist militants. The act is recorded on videotape and released on the Internet.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/NickBergandFiveMen.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/NickBergandFiveMen.JPG/330px-NickBergandFiveMen.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "nickbergandfivemen.jpg",
+        "width": 367,
+        "height": 272,
+        "title": "Killing of Nick Berg",
+        "description": "American repairman taken hostage and killed in Iraq (1978–2004)",
+        "extract": "Nicholas Evan Berg was an American freelance radio-tower repairman who went to Iraq after the United States' invasion of Iraq. He was abducted and beheaded according to a video released in May 2004 by Islamist militants in response to the Abu Ghraib torture and prisoner abuse involving the United States Army and Iraqi prisoners. The CIA claimed Berg was murdered by Abu Musab al-Zarqawi. The decapitation video was released on the internet, reportedly from London to a Malaysian-hosted homepage by the Islamist organization Jama'at al-Tawhid wal-Jihad.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Killing_of_Nick_Berg",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/NickBergandFiveMen.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/NickBergandFiveMen.JPG/330px-NickBergandFiveMen.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nickbergandfivemen.jpg",
+          "width": 367,
+          "height": 272,
+          "title": "Killing of Nick Berg",
+          "description": "American repairman taken hostage and killed in Iraq (1978–2004)",
+          "extract": "Nicholas Evan Berg was an American freelance radio-tower repairman who went to Iraq after the United States' invasion of Iraq. He was abducted and beheaded according to a video released in May 2004 by Islamist militants in response to the Abu Ghraib torture and prisoner abuse involving the United States Army and Iraqi prisoners. The CIA claimed Berg was murdered by Abu Musab al-Zarqawi. The decapitation video was released on the internet, reportedly from London to a Malaysian-hosted homepage by the Islamist organization Jama'at al-Tawhid wal-Jihad.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Killing_of_Nick_Berg",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Decapitaci%C3%B3n_de_San_Pablo_-_Simonet_-_1887.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Decapitaci%C3%B3n_de_San_Pablo_-_Simonet_-_1887.jpg/330px-Decapitaci%C3%B3n_de_San_Pablo_-_Simonet_-_1887.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "decapitación_de_san_pablo_-_simonet_-_1887.jpg",
+          "width": 1939,
+          "height": 1195,
+          "title": "Decapitation",
+          "description": "Complete separation of the head from the body",
+          "extract": "Decapitation is the total separation of the head from the body. This is invariably fatal to humans and all vertebrate animals, since it deprives the brain of oxygenated blood by way of severing the jugular vein and common carotid artery, while all other organs are deprived of the involuntary functions that are needed for the body to function.\nThe term beheading refers to the act of deliberately decapitating a person, either as a means of murder or as an execution; it may be performed with an axe, sword, and knife, or by mechanical means such as a guillotine. An executioner who carries out executions by beheading is sometimes called a headsman. Accidental decapitation can be the result of an explosion, a car or industrial accident, improperly administered execution by hanging or other violent injury. The national laws of Saudi Arabia and Yemen permit beheading. Under Sharia, which exclusively applies to Muslims, beheading is also a legal punishment in Zamfara State, Nigeria. Cases of decapitation by suicidal hanging, suicide by train decapitation and by guillotine have been documented.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Decapitation",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Killing of Nick Berg",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Killing_of_Nick_Berg",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-07-2002-33c40017",
+      "year": 2002,
+      "text": "An EgyptAir Boeing 737-500 crashes on approach to Tunis–Carthage International Airport, killing 14 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Egyptair_B737_SU-GBI_crash_site.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Egyptair_B737_SU-GBI_crash_site.png/330px-Egyptair_B737_SU-GBI_crash_site.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "egyptair_b737_su-gbi_crash_site.png",
+        "width": 2034,
+        "height": 1409,
+        "title": "EgyptAir Flight 843",
+        "description": "2002 aviation accident in Tunisia",
+        "extract": "EgyptAir Flight 843 was a flight from Cairo International Airport to Tunis–Carthage International Airport. On 7 May 2002, the Boeing 737-500 on the route crashed into a hill near Tunis–Carthage International Airport. Of the 6 crew members and 56 passengers, 3 crew members and 11 passengers died, making a total of 14 fatalities.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/EgyptAir_Flight_843",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Egyptair_B737_SU-GBI_crash_site.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Egyptair_B737_SU-GBI_crash_site.png/330px-Egyptair_B737_SU-GBI_crash_site.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "egyptair_b737_su-gbi_crash_site.png",
+          "width": 2034,
+          "height": 1409,
+          "title": "EgyptAir Flight 843",
+          "description": "2002 aviation accident in Tunisia",
+          "extract": "EgyptAir Flight 843 was a flight from Cairo International Airport to Tunis–Carthage International Airport. On 7 May 2002, the Boeing 737-500 on the route crashed into a hill near Tunis–Carthage International Airport. Of the 6 crew members and 56 passengers, 3 crew members and 11 passengers died, making a total of 14 fatalities.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/EgyptAir_Flight_843",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/AeroportTunisCarthage.jpg/3840px-AeroportTunisCarthage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/AeroportTunisCarthage.jpg/330px-AeroportTunisCarthage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aeroporttuniscarthage.jpg",
+          "width": 4288,
+          "height": 2848,
+          "title": "Tunis–Carthage International Airport",
+          "description": "International airport serving Tunis, the capital city of Tunisia",
+          "extract": "Tunis–Carthage International Airport is the international airport of Tunis, the capital of Tunisia. It serves as the home base for Tunisair, Tunisair Express, Nouvelair Tunisia, and Tunisavia. The airport is named for the historic city of Carthage, located just east of the airport.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tunis%E2%80%93Carthage_International_Airport",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/SU-GBI_Aircraft_%28cropped%29.jpg/500px-SU-GBI_Aircraft_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/SU-GBI_Aircraft_%28cropped%29.jpg/500px-SU-GBI_Aircraft_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "su-gbi_aircraft_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "SU-GBI_Aircraft_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/EgyptAir_Flight_843",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "EgyptAir Flight 843",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/EgyptAir_Flight_843",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-07-2000-2d892975",
+      "year": 2000,
+      "text": "Vladimir Putin is inaugurated as president of Russia.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29_2.jpg/330px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "владимир_путин_(08-03-2024)_(cropped)_(higher_res)_2.jpg",
+        "width": 1559,
+        "height": 2078,
+        "title": "Vladimir Putin",
+        "description": "Leader of Russia since 1999",
+        "extract": "Vladimir Vladimirovich Putin is a Russian politician and former intelligence officer who has served as President of Russia since 2012, having previously served from 2000 to 2008. Putin also served as Prime Minister of Russia from 1999 to 2000 and again from 2008 to 2012. He has been described as the de facto leader of Russia between 2008 and 2012.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29_2.jpg/330px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9F%D1%83%D1%82%D0%B8%D0%BD_%2808-03-2024%29_%28cropped%29_%28higher_res%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "владимир_путин_(08-03-2024)_(cropped)_(higher_res)_2.jpg",
+          "width": 1559,
+          "height": 2078,
+          "title": "Vladimir Putin",
+          "description": "Leader of Russia since 1999",
+          "extract": "Vladimir Vladimirovich Putin is a Russian politician and former intelligence officer who has served as President of Russia since 2012, having previously served from 2000 to 2008. Putin also served as Prime Minister of Russia from 1999 to 2000 and again from 2008 to 2012. He has been described as the de facto leader of Russia between 2008 and 2012.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vladimir_Putin_congratulated_Russia%E2%80%99s_women_on_International_Women%E2%80%99s_Day_%283x4_close_cropped%29.jpg/330px-Vladimir_Putin_congratulated_Russia%E2%80%99s_women_on_International_Women%E2%80%99s_Day_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Vladimir_Putin_congratulated_Russia%E2%80%99s_women_on_International_Women%E2%80%99s_Day_%283x4_close_cropped%29.jpg/330px-Vladimir_Putin_congratulated_Russia%E2%80%99s_women_on_International_Women%E2%80%99s_Day_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "vladimir_putin_congratulated_russia’s_women_on_international_women’s_day_(3x4_close_cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Vladimir_Putin_congratulated_Russia’s_women_on_International_Women’s_Day_(3x4_close_cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vladimir_Putin_as_a_child_%28cropped%29.jpg/1280px-Vladimir_Putin_as_a_child_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vladimir_Putin_as_a_child_%28cropped%29.jpg/1280px-Vladimir_Putin_as_a_child_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "vladimir_putin_as_a_child_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Putin, c. 1960s",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Vladimir Putin",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Vladimir_Putin",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "05-07-1999-7adcdc5f",
+      "year": 1999,
+      "text": "Kosovo War: NATO bombing of Yugoslavia, the United States bombed the Chinese embassy in Belgrade.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bllace_refugee_camp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bllace_refugee_camp.jpg/330px-Bllace_refugee_camp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bllace_refugee_camp.jpg",
+        "width": 900,
+        "height": 617,
+        "title": "Kosovo War",
+        "description": "1998–1999 armed conflict in the Balkans",
+        "extract": "The Kosovo War was an armed conflict in Kosovo that lasted from 28 February 1998 until 11 June 1999. It was fought between the forces of the Federal Republic of Yugoslavia (FRY), which controlled Kosovo before the war, and the Kosovo Albanian separatist militia known as the Kosovo Liberation Army (KLA). The conflict ended when the North Atlantic Treaty Organization (NATO) intervened by beginning air strikes in March 1999 which resulted in Yugoslav forces withdrawing from Kosovo.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kosovo_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Bllace_refugee_camp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bllace_refugee_camp.jpg/330px-Bllace_refugee_camp.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bllace_refugee_camp.jpg",
+          "width": 900,
+          "height": 617,
+          "title": "Kosovo War",
+          "description": "1998–1999 armed conflict in the Balkans",
+          "extract": "The Kosovo War was an armed conflict in Kosovo that lasted from 28 February 1998 until 11 June 1999. It was fought between the forces of the Federal Republic of Yugoslavia (FRY), which controlled Kosovo before the war, and the Kosovo Albanian separatist militia known as the Kosovo Liberation Army (KLA). The conflict ended when the North Atlantic Treaty Organization (NATO) intervened by beginning air strikes in March 1999 which resulted in Yugoslav forces withdrawing from Kosovo.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kosovo_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/%D0%9D%D0%B0%D1%82%D0%BE_%D0%B1%D0%BE%D0%BC%D0%B1%D0%B5_%D0%B8%D0%B7%D0%B0%D0%B7%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5_%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D1%88%D0%BA%D1%83_%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D1%83_%D1%83_%D0%9D%D0%BE%D0%B2%D0%BE%D0%BC_%D0%A1%D0%B0%D0%B4%D1%83.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/%D0%9D%D0%B0%D1%82%D0%BE_%D0%B1%D0%BE%D0%BC%D0%B1%D0%B5_%D0%B8%D0%B7%D0%B0%D0%B7%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5_%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D1%88%D0%BA%D1%83_%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D1%83_%D1%83_%D0%9D%D0%BE%D0%B2%D0%BE%D0%BC_%D0%A1%D0%B0%D0%B4%D1%83.jpeg/330px-%D0%9D%D0%B0%D1%82%D0%BE_%D0%B1%D0%BE%D0%BC%D0%B1%D0%B5_%D0%B8%D0%B7%D0%B0%D0%B7%D0%B8%D0%B2%D0%B0%D0%BB%D0%B5_%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D1%88%D0%BA%D1%83_%D0%BA%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D1%83_%D1%83_%D0%9D%D0%BE%D0%B2%D0%BE%D0%BC_%D0%A1%D0%B0%D0%B4%D1%83.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "нато_бомбе_изазивале_еколошку_катастрофу_у_новом_саду.jpeg",
+          "width": 600,
+          "height": 352,
+          "title": "NATO bombing of Yugoslavia",
+          "description": "1999 military operation",
+          "extract": "The North Atlantic Treaty Organization (NATO) carried out an aerial bombing campaign against the Federal Republic of Yugoslavia during the Kosovo War. The air strikes lasted from 24 March 1999 to 10 June 1999. The bombings continued until an agreement was reached that led to the withdrawal of the Yugoslav Army from Kosovo, and the establishment of the United Nations Interim Administration Mission in Kosovo, a UN peacekeeping mission in Kosovo. The official NATO operation code name was Operation Allied Force whereas the United States called it Operation Noble Anvil ; in Yugoslavia, the operation was incorrectly called Merciful Angel, possibly as a result of a misunderstanding or mistranslation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NATO_bombing_of_Yugoslavia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Belgrade_NATO_bombardment_damage1.JPG/1280px-Belgrade_NATO_bombardment_damage1.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Belgrade_NATO_bombardment_damage1.JPG/1280px-Belgrade_NATO_bombardment_damage1.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "belgrade_nato_bombardment_damage1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Belgrade_NATO_bombardment_damage1",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kosovo_War",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Kosovo War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Kosovo_War",
+      "relatedPagesCount": 3
+    }
+  ]
+}

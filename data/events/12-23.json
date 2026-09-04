@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 12,
+    "day": 23,
+    "formatted": "12-23"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "12-23-1986-4b0c8ad6",
+      "year": 1986,
+      "text": "Voyager, piloted by Dick Rutan and Jeana Yeager, lands at Edwards Air Force Base in California becoming the first aircraft to fly non-stop around the world without aerial or ground refueling.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Voyager_aircraft_return_from_non-stop_trip_around_the_world_%28EC87-0029-02%29.jpg/3840px-Voyager_aircraft_return_from_non-stop_trip_around_the_world_%28EC87-0029-02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Voyager_aircraft_return_from_non-stop_trip_around_the_world_%28EC87-0029-02%29.jpg/330px-Voyager_aircraft_return_from_non-stop_trip_around_the_world_%28EC87-0029-02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "voyager_aircraft_return_from_non-stop_trip_around_the_world_(ec87-0029-02).jpg",
+        "width": 5100,
+        "height": 4000,
+        "title": "Rutan Voyager",
+        "description": "American aircraft; first to fly around the world non-stop, unrefueled (1986)",
+        "extract": "The Rutan Model 76 Voyager is an aircraft designed by Burt Rutan that became the first to fly around the world without stopping or refueling. It was piloted by Dick Rutan and Jeana Yeager. The flight took off from Edwards Air Force Base's 15,000 foot runway in the Mojave Desert on December 14, 1986, and ended 9 days, 3 minutes and 44 seconds later on December 23, setting a flight endurance record. The aircraft flew westbound 26,366 statute miles at an average altitude of 11,000 feet (3,350 m).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rutan_Voyager",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Voyager_aircraft_return_from_non-stop_trip_around_the_world_%28EC87-0029-02%29.jpg/3840px-Voyager_aircraft_return_from_non-stop_trip_around_the_world_%28EC87-0029-02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Voyager_aircraft_return_from_non-stop_trip_around_the_world_%28EC87-0029-02%29.jpg/330px-Voyager_aircraft_return_from_non-stop_trip_around_the_world_%28EC87-0029-02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "voyager_aircraft_return_from_non-stop_trip_around_the_world_(ec87-0029-02).jpg",
+          "width": 5100,
+          "height": 4000,
+          "title": "Rutan Voyager",
+          "description": "American aircraft; first to fly around the world non-stop, unrefueled (1986)",
+          "extract": "The Rutan Model 76 Voyager is an aircraft designed by Burt Rutan that became the first to fly around the world without stopping or refueling. It was piloted by Dick Rutan and Jeana Yeager. The flight took off from Edwards Air Force Base's 15,000 foot runway in the Mojave Desert on December 14, 1986, and ended 9 days, 3 minutes and 44 seconds later on December 23, setting a flight endurance record. The aircraft flew westbound 26,366 statute miles at an average altitude of 11,000 feet (3,350 m).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rutan_Voyager",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/DickRutan.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/DickRutan.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "dickrutan.jpeg",
+          "width": 235,
+          "height": 282,
+          "title": "Dick Rutan",
+          "description": "Aviation pioneer (1938–2024)",
+          "extract": "Richard Glenn Rutan was an American military aviator and officer, as well as a record-breaking test pilot who in 1986 piloted the Voyager aircraft on the first non-stop, non-refueled around-the-world flight with co-pilot Jeana Yeager. He was the older brother of famed aerospace designer Burt Rutan, whose many earlier original designs Dick piloted on class record-breaking flights, including Voyager.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dick_Rutan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ray_kamm_collection_image_%2836749883072%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ray_kamm_collection_image_%2836749883072%29.jpg/330px-Ray_kamm_collection_image_%2836749883072%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ray_kamm_collection_image_(36749883072).jpg",
+          "width": 720,
+          "height": 900,
+          "title": "Jeana Yeager",
+          "description": "American aviator (b. 1952)",
+          "extract": "Jeana Lee Yeager is an American aviator. She co-piloted, along with Dick Rutan, the first non-stop, non-refueled flight around the world in the Rutan Voyager aircraft from December 14 to 23, 1986. The flight took 9 days, 3 minutes, and 44 seconds and covered 24,986 miles (40,211 km), almost doubling the old distance record set by a Boeing B-52 strategic bomber in 1962.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jeana_Yeager",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Rutan Voyager",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Rutan_Voyager",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "12-23-1957-4004e71c",
+      "year": 1957,
+      "text": "Leading the Australia national cricket team, Ian Craig became the youngest-ever Test cricket captain at the time.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ian_Craig_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ian_Craig_1960.jpg/330px-Ian_Craig_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ian_craig_1960.jpg",
+        "width": 650,
+        "height": 721,
+        "title": "Ian Craig",
+        "description": "Australian cricketer",
+        "extract": "Ian David Craig was an Australian cricketer who represented the Australian national team in 11 Tests between 1953 and 1958. A right-handed batsman, Craig holds the records for being the youngest Australian to make a first-class double century, appear in a Test match, and captain his country in a Test match. Burdened by the public expectation of being the \"next Bradman\", Craig's career did not fulfil its early promise. In 1957, he was appointed Australian captain, leading a young team as part of a regeneration plan following the decline of the national team in the mid-1950s, but a loss of form and illness forced him out of the team after one season. Craig made a comeback, but work commitments forced him to retire from first-class cricket at only 26 years of age.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ian_Craig",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ian_Craig_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ian_Craig_1960.jpg/330px-Ian_Craig_1960.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ian_craig_1960.jpg",
+          "width": 650,
+          "height": 721,
+          "title": "Ian Craig",
+          "description": "Australian cricketer",
+          "extract": "Ian David Craig was an Australian cricketer who represented the Australian national team in 11 Tests between 1953 and 1958. A right-handed batsman, Craig holds the records for being the youngest Australian to make a first-class double century, appear in a Test match, and captain his country in a Test match. Burdened by the public expectation of being the \"next Bradman\", Craig's career did not fulfil its early promise. In 1957, he was appointed Australian captain, leading a young team as part of a regeneration plan following the decline of the national team in the mid-1950s, but a loss of form and illness forced him out of the team after one season. Craig made a comeback, but work commitments forced him to retire from first-class cricket at only 26 years of age.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ian_Craig",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/England_vs_South_Africa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/England_vs_South_Africa.jpg/330px-England_vs_South_Africa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "england_vs_south_africa.jpg",
+          "width": 3008,
+          "height": 2000,
+          "title": "Test cricket",
+          "description": "Longest and original form of cricket",
+          "extract": "Test cricket is a format of the sport of cricket, considered the game's most prestigious and traditional form. Often referred to as the \"ultimate test\" of a cricketer's skill, endurance and temperament, it is a first-class format of international cricket where two teams in whites, each representing their country, compete over a match that can last up to five days. It consists of up to four innings, with a minimum of ninety overs scheduled to be bowled in six hours per day, making it the sport with the longest playing time except for some multi-stage cycling races. A team wins the match by outscoring the opposition with the bat and bowling them out with the ball. Otherwise the match ends in a draw.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Test_cricket",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Kit_trousers_long.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Kit_trousers_long.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "kit_trousers_long.png",
+          "width": 800,
+          "height": 600,
+          "title": "Kit_trousers_long",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Australia_national_cricket_team",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Australia national cricket team",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Australia_national_cricket_team",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-23-1950-400f196b",
+      "year": 1950,
+      "text": "Korean War:  General Walton Walker dies in a jeep accident and is replaced by General Matthew Ridgway in the Eighth United States Army.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "chosin.jpg",
+        "width": 2858,
+        "height": 2294,
+        "title": "Korean War",
+        "description": "1950–1953 conflict on the Korean Peninsula",
+        "extract": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Korean_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chosin.jpg",
+          "width": 2858,
+          "height": 2294,
+          "title": "Korean War",
+          "description": "1950–1953 conflict on the Korean Peninsula",
+          "extract": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Korean_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Walton_H._Walker_%28US_Army_General%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Walton_H._Walker_%28US_Army_General%29.jpg/330px-Walton_H._Walker_%28US_Army_General%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "walton_h._walker_(us_army_general).jpg",
+          "width": 500,
+          "height": 640,
+          "title": "Walton Walker",
+          "description": "United States Army general (1889–1950)",
+          "extract": "Walton Harris Walker was a United States Army four-star general who served with distinction in World War I, World War II, and the Korean War, where he commanded the Eighth United States Army before dying in a jeep accident. He received two Distinguished Service Crosses for extraordinary heroism in World War II and the Korean War.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Walton_Walker",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Matthew_B._Ridgway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Matthew_B._Ridgway.jpg/330px-Matthew_B._Ridgway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "matthew_b._ridgway.jpg",
+          "width": 1000,
+          "height": 1306,
+          "title": "Matthew Ridgway",
+          "description": "United States Army general (1895–1993)",
+          "extract": "Matthew Bunker Ridgway was a senior officer in the United States Army, who served as Supreme Allied Commander Europe (1952–1953) and the 19th Chief of Staff of the United States Army (1953–1955). Although he saw no combat service in World War I, he was intensively involved in World War II, where he was the first Commanding General (CG) of the 82nd Airborne Division, leading it in action in Sicily, Italy and Normandy, before taking command of the newly formed XVIII Airborne Corps in August 1944. He held the latter post until the end of the war in mid-1945, commanding the corps in the Battle of the Bulge, Operation Varsity and the Western Allied invasion of Germany.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Matthew_Ridgway",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Korean War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Korean_War",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "12-23-583-38e18e9b",
+      "year": 583,
+      "text": "Yohl Ikʼnal (signature pictured) acceded to the throne of the Maya city-state of Palenque.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Palenque_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Palenque_Collage.jpg/330px-Palenque_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "palenque_collage.jpg",
+        "width": 724,
+        "height": 1441,
+        "title": "Palenque",
+        "description": "Ancient Maya city-state in Chiapas, Mexico",
+        "extract": "Palenque, also anciently known in the Itzaʼ language as Lakamha, was a Maya city-state in southern Mexico that perished in the 8th century. The Palenque ruins date from ca. 226 BC to ca. 799 AD. After its decline, it was overgrown by the jungle of cedar, mahogany, and sapodilla trees, but has since been excavated and restored. It is located near the Usumacinta River in the Mexican state of Chiapas, about 130 km (81 mi) south of Ciudad del Carmen, 150 meters (490 ft) above sea level. It is adjacent to the modern town of Palenque, Chiapas. It averages a humid 26 °C (79 °F) with roughly 2,160 millimeters (85 in) of rain a year.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Palenque",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Palenque_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Palenque_Collage.jpg/330px-Palenque_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "palenque_collage.jpg",
+          "width": 724,
+          "height": 1441,
+          "title": "Palenque",
+          "description": "Ancient Maya city-state in Chiapas, Mexico",
+          "extract": "Palenque, also anciently known in the Itzaʼ language as Lakamha, was a Maya city-state in southern Mexico that perished in the 8th century. The Palenque ruins date from ca. 226 BC to ca. 799 AD. After its decline, it was overgrown by the jungle of cedar, mahogany, and sapodilla trees, but has since been excavated and restored. It is located near the Usumacinta River in the Mexican state of Chiapas, about 130 km (81 mi) south of Ciudad del Carmen, 150 meters (490 ft) above sea level. It is adjacent to the modern town of Palenque, Chiapas. It averages a humid 26 °C (79 °F) with roughly 2,160 millimeters (85 in) of rain a year.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Palenque",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Yohl Ikʼnal",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Yohl_Ik%CA%BCnal",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-23-1970-93a40e08",
+      "year": 1970,
+      "text": "The North Tower of the World Trade Center in Manhattan, New York, New York is topped out at 417 metres (1,368 ft), making it the tallest building in the world.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 80,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg/330px-World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "world_trade_center,_new_york_city_-_aerial_view_(march_2001).jpg",
+        "width": 1361,
+        "height": 1924,
+        "title": "World Trade Center (1973–2001)",
+        "description": "Complex of buildings in New York City",
+        "extract": "The original World Trade Center (WTC) was a complex of seven buildings in the Financial District of Lower Manhattan in New York City. Built primarily between 1966 and 1975, it was dedicated on April 4, 1973, and was destroyed on September 11, 2001, after two hijacked planes were flown into the towers in a coordinated terrorist attack. The complex included the 110-story-tall Twin Towers, at the time of their completion the tallest buildings in the world, with the original 1 World Trade Center at 1,368 feet (417 m), and 2 World Trade Center at 1,362 feet (415.1 m); they were also the tallest twin skyscrapers in the world until 1996, when the Petronas Towers opened in Kuala Lumpur, Malaysia. The other buildings in the complex were the Marriott World Trade Center (3 WTC), 4 WTC, 5 WTC, 6 WTC, and 7 WTC. The complex contained 13,400,000 square feet (1,240,000 m2) of office space and, prior to its completion, was projected to accommodate an estimated 130,000 people.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg/330px-World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "world_trade_center,_new_york_city_-_aerial_view_(march_2001).jpg",
+          "width": 1361,
+          "height": 1924,
+          "title": "World Trade Center (1973–2001)",
+          "description": "Complex of buildings in New York City",
+          "extract": "The original World Trade Center (WTC) was a complex of seven buildings in the Financial District of Lower Manhattan in New York City. Built primarily between 1966 and 1975, it was dedicated on April 4, 1973, and was destroyed on September 11, 2001, after two hijacked planes were flown into the towers in a coordinated terrorist attack. The complex included the 110-story-tall Twin Towers, at the time of their completion the tallest buildings in the world, with the original 1 World Trade Center at 1,368 feet (417 m), and 2 World Trade Center at 1,362 feet (415.1 m); they were also the tallest twin skyscrapers in the world until 1996, when the Petronas Towers opened in Kuala Lumpur, Malaysia. The other buildings in the complex were the Marriott World Trade Center (3 WTC), 4 WTC, 5 WTC, 6 WTC, and 7 WTC. The complex contained 13,400,000 square feet (1,240,000 m2) of office space and, prior to its completion, was projected to accommodate an estimated 130,000 people.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "view_of_empire_state_building_from_rockefeller_center_new_york_city_dllu_(cropped).jpg",
+          "width": 8207,
+          "height": 4616,
+          "title": "Manhattan",
+          "description": "Borough in New York City and county in New York State",
+          "extract": "Manhattan is the most densely populated and geographically smallest of the five boroughs of New York City. Coextensive with New York County, Manhattan is the smallest county by area in the U.S. state of New York, and one of the smallest in the United States. Located almost entirely on Manhattan Island near the southern tip of the state, Manhattan is centrally located in the Northeast megalopolis and represents the urban core of the New York metropolitan area. Manhattan serves as New York City's economic and administrative center and has been described as the cultural, financial, media, and entertainment capital of the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Manhattan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29_%281WTC%29.jpg/500px-World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29_%281WTC%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29_%281WTC%29.jpg/500px-World_Trade_Center%2C_New_York_City_-_aerial_view_%28March_2001%29_%281WTC%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "world_trade_center,_new_york_city_-_aerial_view_(march_2001)_(1wtc).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "World_Trade_Center,_New_York_City_-_aerial_view_(March_2001)_(1WTC)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1_World_Trade_Center_(1970%E2%80%932001)",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "1 World Trade Center (1970–2001)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1_World_Trade_Center_(1970%E2%80%932001)",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "12-23-1972-d4bc804a",
+      "year": 1972,
+      "text": "The Immaculate Reception is caught by Franco Harris to win the Pittsburgh Steelers their first ever playoff victory, after defeating the Oakland Raiders.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Three_Rivers_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Three_Rivers_Stadium.jpg/330px-Three_Rivers_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "three_rivers_stadium.jpg",
+        "width": 922,
+        "height": 406,
+        "title": "Immaculate Reception",
+        "description": "Unusual football play in 1972–73 NFL playoffs",
+        "extract": "The Immaculate Reception is one of the most famous plays in the history of American football. It was a touchdown which occurred in the AFC divisional playoff game of the National Football League (NFL), between the Pittsburgh Steelers and the Oakland Raiders at Three Rivers Stadium in Pittsburgh, Pennsylvania, on December 23, 1972.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Immaculate_Reception",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Three_Rivers_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Three_Rivers_Stadium.jpg/330px-Three_Rivers_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "three_rivers_stadium.jpg",
+          "width": 922,
+          "height": 406,
+          "title": "Immaculate Reception",
+          "description": "Unusual football play in 1972–73 NFL playoffs",
+          "extract": "The Immaculate Reception is one of the most famous plays in the history of American football. It was a touchdown which occurred in the AFC divisional playoff game of the National Football League (NFL), between the Pittsburgh Steelers and the Oakland Raiders at Three Rivers Stadium in Pittsburgh, Pennsylvania, on December 23, 1972.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Immaculate_Reception",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Franco_Harris_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Franco_Harris_2022.jpg/330px-Franco_Harris_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "franco_harris_2022.jpg",
+          "width": 1111,
+          "height": 1344,
+          "title": "Franco Harris",
+          "description": "American football player (1950–2022)",
+          "extract": "Franco Harris was an American professional football player who was a fullback for 13 seasons in the National Football League (NFL), primarily with the Pittsburgh Steelers. He played college football for the Penn State Nittany Lions and was selected by the Steelers in the first round of the 1972 NFL draft. Harris spent his first 12 seasons with Pittsburgh, earning nine Pro Bowl selections, and was a member of the Seattle Seahawks in his last.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Franco_Harris",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Immaculate Reception",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Immaculate_Reception",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "12-23-1955-a9e4c163",
+      "year": 1955,
+      "text": "The first film adaptation of Väinö Linna's novel The Unknown Soldier, directed by Edvin Laine, premieres.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/42/Unknown_soldier_1955_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/42/Unknown_soldier_1955_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "unknown_soldier_1955_cover.jpg",
+        "width": 200,
+        "height": 285,
+        "title": "The Unknown Soldier (1955 film)",
+        "description": "1955 film by Edvin Laine",
+        "extract": "The Unknown Soldier is a Finnish war film directed by Edvin Laine that premiered in December 1955. It is based on The Unknown Soldier, a novel by Väinö Linna. The story is about the Continuation War between Finland and the Soviet Union as told from the viewpoint of ordinary Finnish soldiers.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Unknown_Soldier_(1955_film)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/42/Unknown_soldier_1955_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/42/Unknown_soldier_1955_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "unknown_soldier_1955_cover.jpg",
+          "width": 200,
+          "height": 285,
+          "title": "The Unknown Soldier (1955 film)",
+          "description": "1955 film by Edvin Laine",
+          "extract": "The Unknown Soldier is a Finnish war film directed by Edvin Laine that premiered in December 1955. It is based on The Unknown Soldier, a novel by Väinö Linna. The story is about the Continuation War between Finland and the Soviet Union as told from the viewpoint of ordinary Finnish soldiers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Unknown_Soldier_(1955_film)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Vaino_Linna_color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Vaino_Linna_color.jpg/330px-Vaino_Linna_color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "vaino_linna_color.jpg",
+          "width": 1396,
+          "height": 1988,
+          "title": "Väinö Linna",
+          "description": "Finnish author (1920–1992)",
+          "extract": "Väinö Valtteri Linna was a Finnish author and a former soldier who fought in the Continuation War (1941–44). Linna gained literary fame with his third novel, Tuntematon sotilas, and consolidated his position with the trilogy Täällä Pohjantähden alla. Both have been adapted to a film format on several occasions; The Unknown Soldier was first adapted into a film in 1955 and Under the North Star in 1968 as Here, Beneath the North Star, both directed by Edvin Laine.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/V%C3%A4in%C3%B6_Linna",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/3/38/Tuntematon_sotilas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/Tuntematon_sotilas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "tuntematon_sotilas.jpg",
+          "width": 265,
+          "height": 385,
+          "title": "The Unknown Soldier (novel)",
+          "description": "1954 war novel by Väinö Linna",
+          "extract": "The Unknown Soldier or Unknown Soldiers is a war novel by Finnish author Väinö Linna, considered his magnum opus. Published in 1954, The Unknown Soldier chronicles the 1941–1944 Continuation War between Finland and the Soviet Union from the viewpoint of ordinary Finnish soldiers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Unknown_Soldier_(novel)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "The Unknown Soldier (1955 film)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Unknown_Soldier_(1955_film)",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "12-23-2025-dc2b03c6",
+      "year": 2025,
+      "text": "The crash of Harmony Jets Flight 185 killed all eight people on board, including the Libyan Army chief Mohammed al-Haddad in Ankara, Turkey.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Harmony_Jets_Dassault_Falcon_50_%289H-DFS%29_%40_HEL%2C_July_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Harmony_Jets_Dassault_Falcon_50_%289H-DFS%29_%40_HEL%2C_July_2025.jpg/330px-Harmony_Jets_Dassault_Falcon_50_%289H-DFS%29_%40_HEL%2C_July_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "harmony_jets_dassault_falcon_50_(9h-dfs)_@_hel,_july_2025.jpg",
+        "width": 1920,
+        "height": 1280,
+        "title": "Harmony Jets Flight 185",
+        "description": "2025 aviation accident in Turkey",
+        "extract": "Harmony Jets Flight 185 was a charter flight from Ankara Esenboğa Airport, Turkey to Mitiga International Airport, Tripoli, Libya. On 23 December 2025, the aircraft operating the flight, a Dassault Falcon 50, crashed shortly after takeoff. The aircraft was carrying the Libyan Army chief Mohammed Ali Ahmed al-Haddad, three crew members, and four other passengers. All passengers and crew were killed.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harmony_Jets_Flight_185",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Harmony_Jets_Dassault_Falcon_50_%289H-DFS%29_%40_HEL%2C_July_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Harmony_Jets_Dassault_Falcon_50_%289H-DFS%29_%40_HEL%2C_July_2025.jpg/330px-Harmony_Jets_Dassault_Falcon_50_%289H-DFS%29_%40_HEL%2C_July_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "harmony_jets_dassault_falcon_50_(9h-dfs)_@_hel,_july_2025.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": "Harmony Jets Flight 185",
+          "description": "2025 aviation accident in Turkey",
+          "extract": "Harmony Jets Flight 185 was a charter flight from Ankara Esenboğa Airport, Turkey to Mitiga International Airport, Tripoli, Libya. On 23 December 2025, the aircraft operating the flight, a Dassault Falcon 50, crashed shortly after takeoff. The aircraft was carrying the Libyan Army chief Mohammed Ali Ahmed al-Haddad, three crew members, and four other passengers. All passengers and crew were killed.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Harmony_Jets_Flight_185",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ACHOD_24_Bilateral_Engagement_%288502066%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/ACHOD_24_Bilateral_Engagement_%288502066%29_%28cropped%29.jpg/330px-ACHOD_24_Bilateral_Engagement_%288502066%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "achod_24_bilateral_engagement_(8502066)_(cropped).jpg",
+          "width": 667,
+          "height": 985,
+          "title": "Mohammed Ali Ahmed al-Haddad",
+          "description": "Libyan army general (1967–2025)",
+          "extract": "Mohammed Ali Ahmed al-Haddad was a Libyan field marshal who served as the Chief of the General Staff of the Libyan Army from 2020 until his death in a plane crash in 2025. The highest-ranking Libyan officer in the Government of National Unity (GNU), al-Haddad played a key role in efforts to reunify Libya's military. He also expanded military relations with other countries, both regionally and internationally.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mohammed_Ali_Ahmed_al-Haddad",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ankara_from_bus_station.jpg/3840px-Ankara_from_bus_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ankara_from_bus_station.jpg/330px-Ankara_from_bus_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ankara_from_bus_station.jpg",
+          "width": 3883,
+          "height": 2508,
+          "title": "Ankara",
+          "description": "Capital of Turkey",
+          "extract": "Ankara is the capital city of Turkey. Located in the central part of Anatolia, the city has a population of over 5.3 million residents in its urban center, out of 6 million residents in Ankara Province. Ankara is Turkey's second-largest city by population after Istanbul.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ankara",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Harmony Jets Flight 185",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Harmony_Jets_Flight_185",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-23-2015-da24ea0a",
+      "year": 2015,
+      "text": "A bomb explodes at Istanbul's Sabiha Gökçen Airport, killing one airport cleaner. The Kurdistan Freedom Hawks claim responsibility for the attack four days later.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Sabiha_G%C3%B6kcen_%28back%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sabiha_G%C3%B6kcen_%28back%29.jpg/330px-Sabiha_G%C3%B6kcen_%28back%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sabiha_gökcen_(back).jpg",
+        "width": 1574,
+        "height": 983,
+        "title": "2015 Sabiha Gökçen Airport bombing",
+        "description": "Terrorist attack in Istanbul, Turkey",
+        "extract": "The Sabiha Gökçen Airport bombing took place on 23 December 2015 in the apron area of Sabiha Gökçen International Airport in Istanbul, Turkey. The explosion, which occurred at approximately 02:05 local time, wounded two airport cleaners, one of whom later died after being taken to hospital. Flights from the terminal resumed as normal while Binali Yıldırım, the Minister of Transport, Maritime and Communication, claimed that there had been no security lapses at the airport. Witnesses initially claimed that they heard three successive blasts, though their cause was unknown and investigators refused to rule out terrorism as a motive. The Daily Telegraph claimed that the blast was most likely caused by a bomb.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2015_Sabiha_G%C3%B6k%C3%A7en_Airport_bombing",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Sabiha_G%C3%B6kcen_%28back%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sabiha_G%C3%B6kcen_%28back%29.jpg/330px-Sabiha_G%C3%B6kcen_%28back%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sabiha_gökcen_(back).jpg",
+          "width": 1574,
+          "height": 983,
+          "title": "2015 Sabiha Gökçen Airport bombing",
+          "description": "Terrorist attack in Istanbul, Turkey",
+          "extract": "The Sabiha Gökçen Airport bombing took place on 23 December 2015 in the apron area of Sabiha Gökçen International Airport in Istanbul, Turkey. The explosion, which occurred at approximately 02:05 local time, wounded two airport cleaners, one of whom later died after being taken to hospital. Flights from the terminal resumed as normal while Binali Yıldırım, the Minister of Transport, Maritime and Communication, claimed that there had been no security lapses at the airport. Witnesses initially claimed that they heard three successive blasts, though their cause was unknown and investigators refused to rule out terrorism as a motive. The Daily Telegraph claimed that the blast was most likely caused by a bomb.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2015_Sabiha_G%C3%B6k%C3%A7en_Airport_bombing",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/%C4%B0stanbul_Sabiha_G%C3%B6k%C3%A7en_Uluslararas%C4%B1_Havaliman%C4%B1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/%C4%B0stanbul_Sabiha_G%C3%B6k%C3%A7en_Uluslararas%C4%B1_Havaliman%C4%B1.jpg/330px-%C4%B0stanbul_Sabiha_G%C3%B6k%C3%A7en_Uluslararas%C4%B1_Havaliman%C4%B1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "i̇stanbul_sabiha_gökçen_uluslararası_havalimanı.jpg",
+          "width": 1620,
+          "height": 1080,
+          "title": "Sabiha Gökçen International Airport",
+          "description": "Secondary airport serving Istanbul, Turkey",
+          "extract": "Istanbul Sabiha Gökçen International Airport is the secondary international airport serving Istanbul, Turkey. Located 32 km (20 mi) southeast of the city centre, Sabiha Gökçen Airport is in the Asian part of the transcontinental city and serves as the operating base for AJet and Pegasus Airlines.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sabiha_G%C3%B6k%C3%A7en_International_Airport",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/3/30/Tak_Flag.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/3/30/Tak_Flag.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "tak_flag.jpg",
+          "width": 260,
+          "height": 195,
+          "title": "Kurdistan Freedom Hawks",
+          "description": "Kurdish nationalist militant group in Turkey",
+          "extract": "The Kurdistan Freedom Hawks, or TAK, is a Kurdish nationalist militant group in Turkey seeking an independent Kurdish state in Turkish Kurdistan. The group also opposes the Turkish government's policies towards Kurds in Turkey. It has been designated as a terrorist organization by the US, UK and Australian governments.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kurdistan_Freedom_Hawks",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2015 Sabiha Gökçen Airport bombing",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2015_Sabiha_G%C3%B6k%C3%A7en_Airport_bombing",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-23-2005-b3b4bac9",
+      "year": 2005,
+      "text": "An Antonov An-140, Azerbaijan Airlines Flight 217 from Baku, Azerbaijan, to Aktau, Kazakhstan, heading across the Caspian Sea, crashes, killing 23 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Antonov_An-140_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Antonov_An-140_1.jpg/330px-Antonov_An-140_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "antonov_an-140_1.jpg",
+        "width": 1600,
+        "height": 1067,
+        "title": "Antonov An-140",
+        "description": "Twin-turboprop regional airliner by Antonov",
+        "extract": "The Antonov An-140 is a turboprop regional airliner, designed by the Ukrainian Antonov ASTC bureau as a successor to the Antonov An-24, with extended cargo capacity and the ability to use unprepared airstrips.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Antonov_An-140",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Antonov_An-140_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Antonov_An-140_1.jpg/330px-Antonov_An-140_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "antonov_an-140_1.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": "Antonov An-140",
+          "description": "Twin-turboprop regional airliner by Antonov",
+          "extract": "The Antonov An-140 is a turboprop regional airliner, designed by the Ukrainian Antonov ASTC bureau as a successor to the Antonov An-24, with extended cargo capacity and the ability to use unprepared airstrips.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Antonov_An-140",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/4K-AZ48Azerbijan217.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/4K-AZ48Azerbijan217.jpg/330px-4K-AZ48Azerbijan217.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "4k-az48azerbijan217.jpg",
+          "width": 1280,
+          "height": 795,
+          "title": "Azerbaijan Airlines Flight 217",
+          "description": "2005 aviation accident",
+          "extract": "Azerbaijan Airlines Flight 217 was a scheduled passenger flight between Baku and Aktau, Kazakhstan that crashed into the Caspian Sea at ca. 22:40 on 23 December 2005. The flight was operated by an Antonov An-140.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Azerbaijan_Airlines_Flight_217",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Baku_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/330px-Baku_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "baku_montage.jpg",
+          "width": 1948,
+          "height": 2672,
+          "title": "Baku",
+          "description": "Capital and largest city of Azerbaijan",
+          "extract": "Baku is the capital and largest city of Azerbaijan, as well as the largest city on the Caspian Sea and in the Caucasus region. Baku is 28 metres (92 ft) below sea level, which makes it the lowest lying national capital in the world and the largest city in the world below sea level. Baku lies on the southern shore of the Absheron Peninsula, along the Bay of Baku. Baku's urban population is estimated at over two million people. Baku is the primate city of Azerbaijan. It is the sole metropolis in the country, and about 25% of all inhabitants of the country live in Baku's metropolitan area.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Baku",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Antonov An-140",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Antonov_An-140",
+      "relatedPagesCount": 5
+    }
+  ]
+}

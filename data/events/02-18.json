@@ -1,0 +1,619 @@
+{
+  "date": {
+    "month": 2,
+    "day": 18,
+    "formatted": "02-18"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "02-18-2021-19a096d2",
+      "year": 2021,
+      "text": "Perseverance, a Mars rover designed to explore Jezero crater on Mars, as part of NASA's Mars 2020 mission, lands successfully.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/3840px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/330px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "curiosity_self-portrait_at_'big_sky'_drilling_site.jpg",
+        "width": 4483,
+        "height": 6180,
+        "title": "Mars rover",
+        "description": "Robotic vehicle for Mars surface exploration",
+        "extract": "A Mars rover is a remote-controlled motor vehicle designed to travel on the surface of Mars. Rovers have several advantages over stationary landers: they examine more territory, they can be directed to interesting features, they can place themselves in sunny positions to weather winter months, and they can advance the knowledge of how to perform very remote robotic vehicle control. They serve a different purpose than orbital spacecraft like Mars Reconnaissance Orbiter. A more recent development is the Mars helicopter.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mars_rover",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/3840px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/330px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "curiosity_self-portrait_at_'big_sky'_drilling_site.jpg",
+          "width": 4483,
+          "height": 6180,
+          "title": "Mars rover",
+          "description": "Robotic vehicle for Mars surface exploration",
+          "extract": "A Mars rover is a remote-controlled motor vehicle designed to travel on the surface of Mars. Rovers have several advantages over stationary landers: they examine more territory, they can be directed to interesting features, they can place themselves in sunny positions to weather winter months, and they can advance the knowledge of how to perform very remote robotic vehicle control. They serve a different purpose than orbital spacecraft like Mars Reconnaissance Orbiter. A more recent development is the Mars helicopter.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars_rover",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/AS11-40-5964_%2821037459754%29.jpg/3840px-AS11-40-5964_%2821037459754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/AS11-40-5964_%2821037459754%29.jpg/330px-AS11-40-5964_%2821037459754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "as11-40-5964_(21037459754).jpg",
+          "width": 4048,
+          "height": 3968,
+          "title": "Space exploration",
+          "description": "Investigation of outer space",
+          "extract": "Space exploration is the physical investigation of outer space by uncrewed robotic space probes and through human spaceflight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_exploration",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Perseverance%27s_First_Full-Color_Look_at_Mars.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Perseverance%27s_First_Full-Color_Look_at_Mars.png/330px-Perseverance%27s_First_Full-Color_Look_at_Mars.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "perseverance's_first_full-color_look_at_mars.png",
+          "width": 1280,
+          "height": 960,
+          "title": "Jezero (crater)",
+          "description": "Crater on Mars",
+          "extract": "Jezero is a crater on Mars in the Syrtis Major quadrangle, about 45.0 km (28.0 mi) in diameter. Thought to have once been flooded with water, the crater contains a fan-delta deposit rich in clays. The lake in the crater was present when valley networks were forming on Mars. Besides having a delta, the crater shows point bars and inverted channels. From a study of the delta and channels, it was concluded that the lake inside the crater probably formed during a period in which there was continual surface runoff.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jezero_(crater)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Perseverance (rover)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Perseverance_(rover)",
+      "relatedPagesCount": 7
+    },
+    {
+      "id": "02-18-1977-d4a13c1a",
+      "year": 1977,
+      "text": "NASA's first Space Shuttle, Enterprise, made its first test flight on top of the Shuttle Carrier Aircraft (both pictured).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Enterprise_free_flight.jpg/3840px-Enterprise_free_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Enterprise_free_flight.jpg/330px-Enterprise_free_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "enterprise_free_flight.jpg",
+        "width": 5100,
+        "height": 4000,
+        "title": "Space Shuttle Enterprise",
+        "description": "Space Shuttle test vehicle, used for glide tests",
+        "extract": "Space Shuttle Enterprise is the first orbiter of the Space Shuttle system. Rolled out on September 17, 1976, it was built for NASA as part of the Space Shuttle program to perform atmospheric test flights after being launched from a modified Boeing 747. It was constructed without engines or a functional heat shield. As a result, it was not capable of spaceflight.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Enterprise",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Enterprise_free_flight.jpg/3840px-Enterprise_free_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Enterprise_free_flight.jpg/330px-Enterprise_free_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "enterprise_free_flight.jpg",
+          "width": 5100,
+          "height": 4000,
+          "title": "Space Shuttle Enterprise",
+          "description": "Space Shuttle test vehicle, used for glide tests",
+          "extract": "Space Shuttle Enterprise is the first orbiter of the Space Shuttle system. Rolled out on September 17, 1976, it was built for NASA as part of the Space Shuttle program to perform atmospheric test flights after being launched from a modified Boeing 747. It was constructed without engines or a functional heat shield. As a result, it was not capable of spaceflight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Enterprise",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/NASA%27s_Shuttle_Carrier_Aircraft_905_%28front%29_and_911_%28rear%29.jpg/3840px-NASA%27s_Shuttle_Carrier_Aircraft_905_%28front%29_and_911_%28rear%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/NASA%27s_Shuttle_Carrier_Aircraft_905_%28front%29_and_911_%28rear%29.jpg/330px-NASA%27s_Shuttle_Carrier_Aircraft_905_%28front%29_and_911_%28rear%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nasa's_shuttle_carrier_aircraft_905_(front)_and_911_(rear).jpg",
+          "width": 5100,
+          "height": 3400,
+          "title": "Shuttle Carrier Aircraft",
+          "description": "Modified Boeing 747 airliners used to transport Space Shuttle orbiters",
+          "extract": "The Shuttle Carrier Aircraft (SCA) are two extensively modified Boeing 747 airliners that NASA used to transport Space Shuttle orbiters. One (N905NA) is a 747-100 model, while the other (N911NA) is a short-range 747-100SR. Both are now retired.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Shuttle_Carrier_Aircraft",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-18-1906-ccce07fa",
+      "year": 1906,
+      "text": "Édouard de Laveleye forms the Belgian Olympic Committee in Brussels.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/%C3%89douard_De_Laveleye.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/%C3%89douard_De_Laveleye.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "édouard_de_laveleye.jpg",
+        "width": 282,
+        "height": 300,
+        "title": "Édouard de Laveleye",
+        "description": "Belgian engineer, financier, and writer (1854–1938)",
+        "extract": "Baron Édouard-Émile-Albert de Laveleye was a Belgian mining engineer, financier and writer. Laveleye was the first chairman of the Belgian Football Association (1895–1924), and also the first president of the Belgian Olympic Committee (1906–23).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/%C3%89douard_de_Laveleye",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/%C3%89douard_De_Laveleye.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/%C3%89douard_De_Laveleye.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "édouard_de_laveleye.jpg",
+          "width": 282,
+          "height": 300,
+          "title": "Édouard de Laveleye",
+          "description": "Belgian engineer, financier, and writer (1854–1938)",
+          "extract": "Baron Édouard-Émile-Albert de Laveleye was a Belgian mining engineer, financier and writer. Laveleye was the first chairman of the Belgian Football Association (1895–1924), and also the first president of the Belgian Olympic Committee (1906–23).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/%C3%89douard_de_Laveleye",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Grand_Place_Bruselas_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Grand_Place_Bruselas_2.jpg/330px-Grand_Place_Bruselas_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "grand_place_bruselas_2.jpg",
+          "width": 3332,
+          "height": 2000,
+          "title": "Brussels",
+          "description": "Federal region of Belgium including the capital",
+          "extract": "Brussels, officially the Brussels-Capital Region, is a region of Belgium comprising 19 municipalities, including the City of Brussels, which is the capital of Belgium. The Brussels-Capital Region is located in the central portion of the country. It is a part of both the French Community of Belgium and the Flemish Community, and is separate from the Flemish Region (Flanders), within which it forms an enclave, and the Walloon Region (Wallonia), located less than 4 km (2.5 mi) south.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Brussels",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Édouard de Laveleye",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/%C3%89douard_de_Laveleye",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-18-2018-9a82c753",
+      "year": 2018,
+      "text": "Iran Aseman Airlines Flight 3704 crashes in the Dena sub-range in the Zagros Mountains of Iran, Resulting in 66 Deaths",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Iran_Aseman_Airlines_ATR-72-212_EP-ATS_201003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Iran_Aseman_Airlines_ATR-72-212_EP-ATS_201003.jpg/330px-Iran_Aseman_Airlines_ATR-72-212_EP-ATS_201003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "iran_aseman_airlines_atr-72-212_ep-ats_201003.jpg",
+        "width": 1385,
+        "height": 790,
+        "title": "Iran Aseman Airlines Flight 3704",
+        "description": "2018 aviation accident in Iran",
+        "extract": "Iran Aseman Airlines Flight 3704 was a scheduled Iranian domestic passenger flight from Iranian capital Tehran Mehrabad International Airport to Yasuj in southwest Iran. On 18 February 2018, during its approach to Yasuj, the aircraft serving the flight, an ATR 72-212 operated by Iran Aseman Airlines, crashed into Mount Dena in the Zagros Mountains near Noqol village in Semirom county, Isfahan Province. All 66 people on board, including 60 passengers and 6 crew members, were killed.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Iran_Aseman_Airlines_Flight_3704",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Iran_Aseman_Airlines_ATR-72-212_EP-ATS_201003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Iran_Aseman_Airlines_ATR-72-212_EP-ATS_201003.jpg/330px-Iran_Aseman_Airlines_ATR-72-212_EP-ATS_201003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iran_aseman_airlines_atr-72-212_ep-ats_201003.jpg",
+          "width": 1385,
+          "height": 790,
+          "title": "Iran Aseman Airlines Flight 3704",
+          "description": "2018 aviation accident in Iran",
+          "extract": "Iran Aseman Airlines Flight 3704 was a scheduled Iranian domestic passenger flight from Iranian capital Tehran Mehrabad International Airport to Yasuj in southwest Iran. On 18 February 2018, during its approach to Yasuj, the aircraft serving the flight, an ATR 72-212 operated by Iran Aseman Airlines, crashed into Mount Dena in the Zagros Mountains near Noqol village in Semirom county, Isfahan Province. All 66 people on board, including 60 passengers and 6 crew members, were killed.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iran_Aseman_Airlines_Flight_3704",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Dena_Mountain-Iran-Mar2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dena_Mountain-Iran-Mar2012.JPG/330px-Dena_Mountain-Iran-Mar2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dena_mountain-iran-mar2012.jpg",
+          "width": 1692,
+          "height": 914,
+          "title": "Dena",
+          "description": "Sub-range within the Zagros Mountains in Iran",
+          "extract": "Dena is the name of a sub-range within the Zagros Mountains, Iran. Mount Dena, with 80 km length and 15 km average width, is situated on the boundary of the Isfahan, Kohgiluyeh and Boyer-Ahmad and Chaharmahal and Bakhtiari Provinces of Iran.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dena",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Iran Aseman Airlines Flight 3704",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Iran_Aseman_Airlines_Flight_3704",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-18-2014-5b593002",
+      "year": 2014,
+      "text": "A series of violent events (pictured) involving protesters, riot police, and unknown shooters began in Kyiv that culminated in the ousting of Ukrainian president Viktor Yanukovych five days later.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg/3840px-%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg/330px-%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "будинок_з_химерами,_серпень_2019.jpg",
+        "width": 6000,
+        "height": 4000,
+        "title": "Kyiv",
+        "description": "Capital and largest city of Ukraine",
+        "extract": "Kyiv, also spelt Kiev, is the capital and most populous city of Ukraine. Located in the north-central part of the country, it straddles both banks of the Dnieper River. As of January 2022, the population of Kyiv was 2,952,301, making it the seventh-most populous city in Europe. Kyiv is an important industrial, scientific, educational, and cultural center. It is home to high-tech industries, higher education institutions, and historical landmarks. The city has an extensive public transport system, which includes the Kyiv Metro.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kyiv",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg/3840px-%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg/330px-%D0%91%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_%D0%B7_%D1%85%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B8%2C_%D1%81%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D1%8C_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "будинок_з_химерами,_серпень_2019.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": "Kyiv",
+          "description": "Capital and largest city of Ukraine",
+          "extract": "Kyiv, also spelt Kiev, is the capital and most populous city of Ukraine. Located in the north-central part of the country, it straddles both banks of the Dnieper River. As of January 2022, the population of Kyiv was 2,952,301, making it the seventh-most populous city in Europe. Kyiv is an important industrial, scientific, educational, and cultural center. It is home to high-tech industries, higher education institutions, and historical landmarks. The city has an extensive public transport system, which includes the Kyiv Metro.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kyiv",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Viktor_Yanukovych_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Viktor_Yanukovych_official_portrait.jpg/330px-Viktor_Yanukovych_official_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "viktor_yanukovych_official_portrait.jpg",
+          "width": 3476,
+          "height": 4696,
+          "title": "Viktor Yanukovych",
+          "description": "President of Ukraine from 2010 to 2014",
+          "extract": "Viktor Fedorovych Yanukovych is a Ukrainian former politician who served as the fourth president of Ukraine from 2010 to 2014. He also served as the prime minister of Ukraine several times between 2002 and 2007 and was a member of the Verkhovna Rada (parliament) from 2006 to 2010. Yanukovych was removed from the presidency during the 2014 Revolution of Dignity, which followed months of protests against him. Since then, he has lived in exile in Russia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Viktor_Yanukovych",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Spoilt.exile_23.02.2014_%2812756747354%29.jpg/1280px-Spoilt.exile_23.02.2014_%2812756747354%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Spoilt.exile_23.02.2014_%2812756747354%29.jpg/1280px-Spoilt.exile_23.02.2014_%2812756747354%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "spoilt.exile_23.02.2014_(12756747354).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Spoilt.exile_23.02.2014_(12756747354)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Revolution_of_Dignity",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Revolution of Dignity",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Revolution_of_Dignity",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-18-2010-ec3a3650",
+      "year": 2010,
+      "text": "In a coup d'état, military rebels attacked the presidential palace in Niamey, Niger, and replaced President Mamadou Tandja with a ruling junta, the Supreme Council for the Restoration of Democracy.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Niamey_from_grand_mosque_theatre_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Niamey_from_grand_mosque_theatre_2006.jpg/330px-Niamey_from_grand_mosque_theatre_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "niamey_from_grand_mosque_theatre_2006.jpg",
+        "width": 2589,
+        "height": 1996,
+        "title": "Niamey",
+        "description": "Capital and the largest city of Niger",
+        "extract": "Niamey is the capital and largest city of Niger. It is in the western part of the country, surrounded by the Tillabéri Region. Niamey lies on the Niger River, primarily situated on the river's left bank. The capital of Niger since the colonial era, Niamey is an ethnically diverse city and the country's main economic centre.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Niamey",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Niamey_from_grand_mosque_theatre_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Niamey_from_grand_mosque_theatre_2006.jpg/330px-Niamey_from_grand_mosque_theatre_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "niamey_from_grand_mosque_theatre_2006.jpg",
+          "width": 2589,
+          "height": 1996,
+          "title": "Niamey",
+          "description": "Capital and the largest city of Niger",
+          "extract": "Niamey is the capital and largest city of Niger. It is in the western part of the country, surrounded by the Tillabéri Region. Niamey lies on the Niger River, primarily situated on the river's left bank. The capital of Niger since the colonial era, Niamey is an ethnically diverse city and the country's main economic centre.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Niamey",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Tandja_in_Nigeria_June_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Tandja_in_Nigeria_June_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "tandja_in_nigeria_june_2007.jpg",
+          "width": 180,
+          "height": 209,
+          "title": "Mamadou Tandja",
+          "description": "President of Niger from 1999 to 2010",
+          "extract": "Mamadou Tandja was a Nigerien politician who was President of Niger from 1999 to 2010. He was President of the National Movement for the Development of Society (MNSD) from 1991 to 1999 and unsuccessfully ran as the MNSD's presidential candidate in 1993 and 1996 before being elected to his first term in 1999. While serving as President of Niger, he was also Chairman of the Economic Community of West African States from 2005 to 2007.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mamadou_Tandja",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "2010 Nigerien coup d'état",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2010_Nigerien_coup_d'%C3%A9tat",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-18-2003-048c0b91",
+      "year": 2003,
+      "text": "192 people die when an arsonist sets fire to a subway train in Daegu, South Korea.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/2003%EB%85%84_2%EC%9B%94_%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C_%EB%8C%80%EA%B5%AC_%EC%A7%80%ED%95%98%EC%B2%A0_%ED%99%94%EC%9E%AC_%EC%B0%B8%EC%82%AC_%EC%97%B4%EC%B0%A8_%EB%82%B4%EB%B6%80_%EC%82%AC%EC%A7%84_Daegumetrofire02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2003%EB%85%84_2%EC%9B%94_%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C_%EB%8C%80%EA%B5%AC_%EC%A7%80%ED%95%98%EC%B2%A0_%ED%99%94%EC%9E%AC_%EC%B0%B8%EC%82%AC_%EC%97%B4%EC%B0%A8_%EB%82%B4%EB%B6%80_%EC%82%AC%EC%A7%84_Daegumetrofire02.jpg/330px-2003%EB%85%84_2%EC%9B%94_%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C_%EB%8C%80%EA%B5%AC_%EC%A7%80%ED%95%98%EC%B2%A0_%ED%99%94%EC%9E%AC_%EC%B0%B8%EC%82%AC_%EC%97%B4%EC%B0%A8_%EB%82%B4%EB%B6%80_%EC%82%AC%EC%A7%84_Daegumetrofire02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2003년_2월_대구광역시_대구_지하철_화재_참사_열차_내부_사진_daegumetrofire02.jpg",
+        "width": 495,
+        "height": 330,
+        "title": "Daegu subway fire",
+        "description": "2003 subway arson in Daegu, South Korea",
+        "extract": "On February 18, 2003, an arsonist set fire to a Daegu Metro subway train as it arrived at Jungangno station in central Daegu, South Korea. The resulting blaze, which spread when a second train stopped at the same station, killed 192 people and injured another 151. It remains the deadliest loss of life in a single deliberate incident in South Korean peacetime history, surpassing the 1982 shooting rampage committed by Woo Bum-kon.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Daegu_subway_fire",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/2003%EB%85%84_2%EC%9B%94_%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C_%EB%8C%80%EA%B5%AC_%EC%A7%80%ED%95%98%EC%B2%A0_%ED%99%94%EC%9E%AC_%EC%B0%B8%EC%82%AC_%EC%97%B4%EC%B0%A8_%EB%82%B4%EB%B6%80_%EC%82%AC%EC%A7%84_Daegumetrofire02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2003%EB%85%84_2%EC%9B%94_%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C_%EB%8C%80%EA%B5%AC_%EC%A7%80%ED%95%98%EC%B2%A0_%ED%99%94%EC%9E%AC_%EC%B0%B8%EC%82%AC_%EC%97%B4%EC%B0%A8_%EB%82%B4%EB%B6%80_%EC%82%AC%EC%A7%84_Daegumetrofire02.jpg/330px-2003%EB%85%84_2%EC%9B%94_%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C_%EB%8C%80%EA%B5%AC_%EC%A7%80%ED%95%98%EC%B2%A0_%ED%99%94%EC%9E%AC_%EC%B0%B8%EC%82%AC_%EC%97%B4%EC%B0%A8_%EB%82%B4%EB%B6%80_%EC%82%AC%EC%A7%84_Daegumetrofire02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2003년_2월_대구광역시_대구_지하철_화재_참사_열차_내부_사진_daegumetrofire02.jpg",
+          "width": 495,
+          "height": 330,
+          "title": "Daegu subway fire",
+          "description": "2003 subway arson in Daegu, South Korea",
+          "extract": "On February 18, 2003, an arsonist set fire to a Daegu Metro subway train as it arrived at Jungangno station in central Daegu, South Korea. The resulting blaze, which spread when a second train stopped at the same station, killed 192 people and injured another 151. It remains the deadliest loss of life in a single deliberate incident in South Korean peacetime history, surpassing the 1982 shooting rampage committed by Woo Bum-kon.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Daegu_subway_fire",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Daegu subway fire",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Daegu_subway_fire",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "02-18-2001-0bc3eca6",
+      "year": 2001,
+      "text": "American FBI agent Robert Hanssen was arrested for having spied for the KGB and GRU over a 22-year period.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Robert_Hanssen.jpg/3840px-Robert_Hanssen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Robert_Hanssen.jpg/330px-Robert_Hanssen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "robert_hanssen.jpg",
+        "width": 4750,
+        "height": 5900,
+        "title": "Robert Hanssen",
+        "description": "American double agent and spy (1944–2023)",
+        "extract": "Robert Philip Hanssen was an American Federal Bureau of Investigation (FBI) agent who spied for Soviet and Russian intelligence services intermittently against the United States from 1979 to 2001. His espionage was described by the United States Department of Justice as \"possibly the worst intelligence disaster in U.S. history\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Hanssen",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Robert_Hanssen.jpg/3840px-Robert_Hanssen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Robert_Hanssen.jpg/330px-Robert_Hanssen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "robert_hanssen.jpg",
+          "width": 4750,
+          "height": 5900,
+          "title": "Robert Hanssen",
+          "description": "American double agent and spy (1944–2023)",
+          "extract": "Robert Philip Hanssen was an American Federal Bureau of Investigation (FBI) agent who spied for Soviet and Russian intelligence services intermittently against the United States from 1979 to 2001. His espionage was described by the United States Department of Justice as \"possibly the worst intelligence disaster in U.S. history\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Hanssen",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Badge_of_a_Federal_Bureau_of_Investigation_special_agent.png/500px-Badge_of_a_Federal_Bureau_of_Investigation_special_agent.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Badge_of_a_Federal_Bureau_of_Investigation_special_agent.png/500px-Badge_of_a_Federal_Bureau_of_Investigation_special_agent.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "badge_of_the_federal_bureau_of_investigation.png",
+          "width": 800,
+          "height": 600,
+          "title": "Badge_of_the_Federal_Bureau_of_Investigation",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Federal Bureau of Investigation",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-18-1983-f53b57c2",
+      "year": 1983,
+      "text": "Thirteen people die and one is seriously injured in the Wah Mee massacre in Seattle. It is said to be the largest robbery-motivated mass-murder in U.S. history.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Seattle_-_Wah_Mee_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Seattle_-_Wah_Mee_entrance.jpg/330px-Seattle_-_Wah_Mee_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "seattle_-_wah_mee_entrance.jpg",
+        "width": 2592,
+        "height": 1944,
+        "title": "Wah Mee massacre",
+        "description": "1983 mass shooting and robbery in Seattle",
+        "extract": "The Wah Mee massacre was a mass shooting that occurred during the night of February 18–19, 1983, in the Wah Mee gambling club at the Louisa Hotel in Seattle, Washington, United States. Fourteen people were bound, robbed and shot by three gunmen, 22-year-old Kwan Fai \"Willie\" Mak, 20-year old Keung Kin \"Benjamin\" Ng and 25-year-old Wai Chiu \"Tony\" Ng. Thirteen of the victims died, but 61-year-old Wai Yok Chin, a former U.S. Navy sailor and Pai Gow dealer at the Wah Mee, survived to testify against the three in the separate high-profile trials held between 1983 and 1985.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wah_Mee_massacre",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Seattle_-_Wah_Mee_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Seattle_-_Wah_Mee_entrance.jpg/330px-Seattle_-_Wah_Mee_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "seattle_-_wah_mee_entrance.jpg",
+          "width": 2592,
+          "height": 1944,
+          "title": "Wah Mee massacre",
+          "description": "1983 mass shooting and robbery in Seattle",
+          "extract": "The Wah Mee massacre was a mass shooting that occurred during the night of February 18–19, 1983, in the Wah Mee gambling club at the Louisa Hotel in Seattle, Washington, United States. Fourteen people were bound, robbed and shot by three gunmen, 22-year-old Kwan Fai \"Willie\" Mak, 20-year old Keung Kin \"Benjamin\" Ng and 25-year-old Wai Chiu \"Tony\" Ng. Thirteen of the victims died, but 61-year-old Wai Yok Chin, a former U.S. Navy sailor and Pai Gow dealer at the Wah Mee, survived to testify against the three in the separate high-profile trials held between 1983 and 1985.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wah_Mee_massacre",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Seattle_Center_as_night_falls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Seattle_Center_as_night_falls.jpg/330px-Seattle_Center_as_night_falls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "seattle_center_as_night_falls.jpg",
+          "width": 2560,
+          "height": 1600,
+          "title": "Seattle",
+          "description": "City in Washington, United States",
+          "extract": "Seattle is the most populous city in the U.S. state of Washington and the Pacific Northwest region of North America. It is the 18th-most populous city in the United States with a population of 784,777 in 2025, while the Seattle metropolitan area at over 4.15 million residents is the 15th-most populous metropolitan area in the nation. The city is the county seat of King County, the most populous county in Washington. Seattle's growth rate of 21.1% between 2010 and 2020 made it one of the country's fastest-growing large cities.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Seattle",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Seattle_-_Louisa_Hotel_Building_02_%28upright%29.jpg/1280px-Seattle_-_Louisa_Hotel_Building_02_%28upright%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Seattle_-_Louisa_Hotel_Building_02_%28upright%29.jpg/1280px-Seattle_-_Louisa_Hotel_Building_02_%28upright%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "seattle_-_louisa_hotel_building_02_(upright).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "S King St frontage of Louisa Hotel (2009); Maynard Alley is on the right side of the photograph.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wah_Mee_massacre",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Wah Mee massacre",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Wah_Mee_massacre",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-18-1979-b980e855",
+      "year": 1979,
+      "text": "Richard Petty wins a then-record sixth Daytona 500 after leaders Donnie Allison and Cale Yarborough crash on the final lap of the first NASCAR race televised live flag-to-flag.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Richard_Petty_Las_Vegas_Fall_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Richard_Petty_Las_Vegas_Fall_2024.jpg/330px-Richard_Petty_Las_Vegas_Fall_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "richard_petty_las_vegas_fall_2024.jpg",
+        "width": 2531,
+        "height": 3176,
+        "title": "Richard Petty",
+        "description": "American racing driver (born 1937)",
+        "extract": "Richard Lee Petty, nicknamed \"the King\", is an American former stock car racing driver who competed from 1958 to 1992 in the former NASCAR Grand National and Winston Cup Series, most notably driving the No. 43 Plymouth/Pontiac for Petty Enterprises. He is one of the members of the Petty racing family. He was the first driver to win the Cup Series championship seven times, while also winning a record 200 races during his career. This included winning the Daytona 500 a record seven times and winning a record 27 races in one season (1967). Petty is widely regarded as one of the greatest drivers in NASCAR history.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Petty",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Richard_Petty_Las_Vegas_Fall_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Richard_Petty_Las_Vegas_Fall_2024.jpg/330px-Richard_Petty_Las_Vegas_Fall_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "richard_petty_las_vegas_fall_2024.jpg",
+          "width": 2531,
+          "height": 3176,
+          "title": "Richard Petty",
+          "description": "American racing driver (born 1937)",
+          "extract": "Richard Lee Petty, nicknamed \"the King\", is an American former stock car racing driver who competed from 1958 to 1992 in the former NASCAR Grand National and Winston Cup Series, most notably driving the No. 43 Plymouth/Pontiac for Petty Enterprises. He is one of the members of the Petty racing family. He was the first driver to win the Cup Series championship seven times, while also winning a record 200 races during his career. This included winning the Daytona 500 a record seven times and winning a record 27 races in one season (1967). Petty is widely regarded as one of the greatest drivers in NASCAR history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Petty",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/91/1979_Daytona_500_program_cover_and_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/1979_Daytona_500_program_cover_and_logo.jpg/330px-1979_Daytona_500_program_cover_and_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1979_daytona_500_program_cover_and_logo.jpg",
+          "width": 363,
+          "height": 275,
+          "title": "1979 Daytona 500",
+          "description": "Auto race run in Florida in 1979",
+          "extract": "The 1979 Daytona 500, the 21st annual running of the event, was the second race of the 1979 NASCAR Winston Cup Series season. It was held on February 18, 1979 at Daytona International Speedway, in Daytona Beach, Florida. It has been called the most important race in stock car history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1979_Daytona_500",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Donnie_Allison_Greets_Rock_Fans_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Donnie_Allison_Greets_Rock_Fans_%28cropped%29.jpg/330px-Donnie_Allison_Greets_Rock_Fans_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "donnie_allison_greets_rock_fans_(cropped).jpg",
+          "width": 484,
+          "height": 683,
+          "title": "Donnie Allison",
+          "description": "American racecar driver (born 1939)",
+          "extract": "Donnie Allison is an American former driver on the NASCAR Grand National/Winston Cup circuit, who won ten times during his racing career, which spanned from 1966 to 1988. He is part of the \"Alabama Gang\", and is the brother of 1983 champion Bobby Allison and uncle of Davey Allison and Clifford Allison. He was inducted in the International Motorsports Hall of Fame in 2009. He was inducted into the NASCAR Hall of Fame on January 19, 2024.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Donnie_Allison",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Richard Petty",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Richard_Petty",
+      "relatedPagesCount": 6
+    }
+  ]
+}

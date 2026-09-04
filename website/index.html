@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Primary Meta Tags -->
+  <title>OnThisAyer — On This Day Memories by Ayer App (iOS & Android)</title>
+  <meta name="title" content="OnThisAyer — On This Day Memories by Ayer App (iOS & Android)">
+  <meta name="description" content="What happened OnThisAyer? Discover iconic historical moments and relive your own personal photo memories with Ayer App for iOS and Android. 100% private and offline.">
+  <meta name="keywords" content="OnThisAyer, on this day, on this ayer, ayer app, chapiware, photo memories, history, throwback, nostalgia, private photos iphone, private photos android">
+  <meta name="author" content="Chapiware">
+  
+  <!-- Open Graph / Facebook / WhatsApp -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.chapiware.com/ayer/">
+  <meta property="og:site_name" content="OnThisAyer">
+  <meta property="og:title" content="OnThisAyer — What Happened on This Day?">
+  <meta property="og:description" content="Discover iconic historical moments and relive your own personal photo memories with Ayer App for iOS & Android. 100% private, on-device, no cloud.">
+  <meta property="og:image" content="https://www.chapiware.com/ayer/og-image.png">
+
+  <!-- Twitter / X -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:site" content="@AyerApp">
+  <meta property="twitter:title" content="OnThisAyer — On This Day Memories">
+  <meta property="twitter:description" content="Discover iconic historical moments and relive your personal photo memories with Ayer App for iOS & Android.">
+  <meta property="twitter:image" content="https://www.chapiware.com/ayer/og-image.png">
+
+  <!-- Mobile Meta -->
+  <meta name="apple-mobile-web-app-title" content="OnThisAyer">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="theme-color" content="#0a0c10">
+
+  <!-- Favicon & Fonts -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>✨</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Ambient Glow Background -->
+  <div class="ambient-glow glow-top"></div>
+  <div class="ambient-glow glow-bottom"></div>
+
+  <!-- Navigation Bar -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="brand-logo" title="OnThisAyer by Ayer App">
+        <div class="brand-icon">✨</div>
+        <div class="brand-info">
+          <span class="brand-title">OnThisAyer</span>
+          <span class="brand-sub">Daily memories by <strong>Ayer</strong></span>
+        </div>
+      </a>
+
+      <!-- Date Selector Capsule -->
+      <div class="nav-date-picker">
+        <button id="prevDayBtn" class="date-arrow-btn" aria-label="Previous Day" title="Previous Day">‹</button>
+        <div class="date-display" id="datePickerTrigger" title="Jump to any past date">
+          <span class="cal-emoji">📅</span>
+          <span class="active-date-text" id="activeDateDisplay">Today</span>
+        </div>
+        <button id="nextDayBtn" class="date-arrow-btn" aria-label="Next Day" title="Next Day">›</button>
+      </div>
+
+      <!-- Download CTA Button (iOS & Android) -->
+      <div class="header-cta">
+        <a href="https://www.chapiware.com/ayer/" target="_blank" rel="noopener" class="download-btn header-btn" title="Get Ayer on iOS & Android">
+          <div class="platform-icons">
+            <span class="platform-icon-apple"></span>
+            <span class="platform-icon-android">🤖</span>
+          </div>
+          <div class="btn-text-group">
+            <span class="btn-sub">Get Ayer App</span>
+            <span class="btn-main">iOS & Android</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Hero & Showcase -->
+  <main class="main-container">
+    
+    <!-- Hero Header -->
+    <section class="hero-section">
+      <div class="badge-pill">
+        <span class="badge-dot"></span>
+        <span id="heroDateBadge">OnThisAyer in History</span>
+      </div>
+      <h1 class="hero-heading" id="heroHeading">What happened OnThisAyer?</h1>
+      <p class="hero-desc">
+        Explore moments that shaped pop-culture, science, cinema and sports on this exact day across the years.
+      </p>
+    </section>
+
+    <!-- Content Showcase Layout (Mockup + Detailed Stories) -->
+    <section class="showcase-grid">
+      
+      <!-- Left Column: Interactive iPhone Mockup -->
+      <div class="mockup-column">
+        <div class="device-frame-wrapper">
+          <div class="iphone-bezel">
+            <!-- Simulated Hardware Island / Notch -->
+            <div class="bezel-notch"></div>
+            <!-- Mockup Frame -->
+            <iframe id="ayerMockupFrame" class="device-screen-iframe" src="mockup.html" title="Ayer App iOS Interface"></iframe>
+          </div>
+          <div class="device-reflection"></div>
+        </div>
+
+        <!-- Share & Action Bar -->
+        <div class="device-actions">
+          <button id="shareTwitterBtn" class="share-btn twitter-btn">
+            <span>𝕏</span> Share on Twitter
+          </button>
+          <button id="copyLinkBtn" class="share-btn copy-btn">
+            <span>🔗</span> Copy Link
+          </button>
+        </div>
+      </div>
+
+      <!-- Right Column: Historical Events Breakdown -->
+      <div class="stories-column">
+        
+        <div class="stories-header">
+          <h2>Featured Memories</h2>
+          <span class="stories-count" id="storiesCountBadge">3 Key Moments</span>
+        </div>
+
+        <!-- Dynamic Stories Container -->
+        <div class="stories-list" id="storiesList">
+          <div class="loading-spinner-box">
+            <div class="spinner"></div>
+            <p>Loading historical moments...</p>
+          </div>
+        </div>
+
+        <!-- Ayer App Value Proposition Card -->
+        <div class="app-promo-card">
+          <div class="promo-glow"></div>
+          <div class="promo-header">
+            <div class="promo-icon">📸</div>
+            <div class="promo-title-group">
+              <h3>What were you doing on this day?</h3>
+              <p>Rediscover your personal memories with Ayer</p>
+            </div>
+          </div>
+          <p class="promo-body">
+            Ayer automatically groups your camera roll by date across every year. Relive your birthdays, roadtrips and moments. <strong>100% private, on-device, no cloud, no account required.</strong>
+          </p>
+          <div class="promo-foot">
+            <a href="https://www.chapiware.com/ayer/" target="_blank" rel="noopener" class="download-btn promo-btn">
+              <div class="platform-icons">
+                <span class="platform-icon-apple"></span>
+                <span class="platform-icon-android">🤖</span>
+              </div>
+              <div class="btn-text-group">
+                <span class="btn-sub">Get Ayer Free on</span>
+                <span class="btn-main">iOS & Android</span>
+              </div>
+            </a>
+            <span class="promo-guarantee">🔒 100% Private • Offline • No Cloud</span>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- Calendar Month Jump Modal -->
+  <div class="calendar-modal-overlay hidden" id="calendarModal">
+    <div class="calendar-modal-card">
+      <div class="cal-modal-head">
+        <div>
+          <h3>Explore Past Days</h3>
+          <p class="modal-hint">Select any date up to today. Future dates remain locked until they arrive!</p>
+        </div>
+        <button id="closeCalModalBtn" class="close-btn">&times;</button>
+      </div>
+      <div class="months-grid" id="monthsGrid">
+        <!-- Injected via JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <strong>OnThisAyer</strong> is powered by <a href="https://www.chapiware.com/ayer/" target="_blank" rel="noopener">Ayer App</a> by <a href="https://www.chapiware.com" target="_blank" rel="noopener">Chapiware</a>
+      </div>
+      <div class="footer-links">
+        <a href="https://www.chapiware.com/ayer/" target="_blank" rel="noopener">Download Ayer (iOS & Android)</a>
+        <a href="https://www.chapiware.com/ayer/privacy" target="_blank" rel="noopener">Privacy Policy</a>
+        <a href="https://www.chapiware.com" target="_blank" rel="noopener">Chapiware Studio</a>
+      </div>
+      <div class="footer-copy">
+        © <span id="currentYear"></span> Chapiware. Historical information and imagery powered by Wikimedia Foundation.
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

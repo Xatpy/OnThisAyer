@@ -1,0 +1,643 @@
+{
+  "date": {
+    "month": 3,
+    "day": 12,
+    "formatted": "03-12"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "03-12-2014-a122cd2e",
+      "year": 2014,
+      "text": "A gas leak caused an explosion in East Harlem, New York City, destroying two apartment buildings and causing eight deaths.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/East_Harlem_apartment_explosion_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/East_Harlem_apartment_explosion_aerial_view.jpg/330px-East_Harlem_apartment_explosion_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "east_harlem_apartment_explosion_aerial_view.jpg",
+        "width": 3168,
+        "height": 2112,
+        "title": "2014 East Harlem gas explosion",
+        "description": "Explosion caused by gas leak",
+        "extract": "On March 12, 2014, an explosion occurred at 9:31 a.m. in the East Harlem neighborhood of Manhattan in New York City, United States. The explosion leveled two apartment buildings located just north of 116th Street at 1644 and 1646 Park Avenue, killing eight people, injuring at least 70 others, and displacing 100 families. City officials initially pointed to a gas leak as the cause of the blast. In June 2015, the National Transportation Safety Board (NTSB) blamed the explosion on failures by Consolidated Edison and the city. The NTSB also agreed to review Whistleblower Gas Explosion Audit Findings from the 2009 Floral Park Queens gas explosion as part of their East Harlem Gas Explosion Investigation. The NTSB were unable to resolve these hazards found with merit by the New York State Public Service Commission (NYSPSC) and they remain a Public Safety Hazard today.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2014_East_Harlem_gas_explosion",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/East_Harlem_apartment_explosion_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/East_Harlem_apartment_explosion_aerial_view.jpg/330px-East_Harlem_apartment_explosion_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "east_harlem_apartment_explosion_aerial_view.jpg",
+          "width": 3168,
+          "height": 2112,
+          "title": "2014 East Harlem gas explosion",
+          "description": "Explosion caused by gas leak",
+          "extract": "On March 12, 2014, an explosion occurred at 9:31 a.m. in the East Harlem neighborhood of Manhattan in New York City, United States. The explosion leveled two apartment buildings located just north of 116th Street at 1644 and 1646 Park Avenue, killing eight people, injuring at least 70 others, and displacing 100 families. City officials initially pointed to a gas leak as the cause of the blast. In June 2015, the National Transportation Safety Board (NTSB) blamed the explosion on failures by Consolidated Edison and the city. The NTSB also agreed to review Whistleblower Gas Explosion Audit Findings from the 2009 Floral Park Queens gas explosion as part of their East Harlem Gas Explosion Investigation. The NTSB were unable to resolve these hazards found with merit by the New York State Public Service Commission (NYSPSC) and they remain a Public Safety Hazard today.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2014_East_Harlem_gas_explosion",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/East_Harlem_Skyline_%2848200097101%29.jpg/3840px-East_Harlem_Skyline_%2848200097101%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/East_Harlem_Skyline_%2848200097101%29.jpg/330px-East_Harlem_Skyline_%2848200097101%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "east_harlem_skyline_(48200097101).jpg",
+          "width": 4608,
+          "height": 3456,
+          "title": "East Harlem",
+          "description": "Neighborhood in New York City",
+          "extract": "East Harlem, also known as Spanish Harlem or El Barrio, and formerly Italian Harlem, is a neighborhood of Upper Manhattan in New York City, north of the Upper East Side and bounded by 96th Street to the south, Fifth Avenue to the west, and the East and Harlem Rivers to the east and north. Despite its name, it is generally not considered to be a part of Harlem proper, but it is one of the neighborhoods included in Greater Harlem.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/East_Harlem",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/East_Harlem_apartment_explosion_street_view.jpg/1280px-East_Harlem_apartment_explosion_street_view.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/East_Harlem_apartment_explosion_street_view.jpg/1280px-East_Harlem_apartment_explosion_street_view.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "east_harlem_apartment_explosion_street_view.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Firefighters battling the flames",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2014_East_Harlem_gas_explosion",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "2014 East Harlem gas explosion",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2014_East_Harlem_gas_explosion",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-12-1881-45690253",
+      "year": 1881,
+      "text": "Andrew Watson (pictured) captained the Scotland national football team against England, becoming the world's first black international footballer.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Andrew_Watson_Footballer_%28alt%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Andrew_Watson_Footballer_%28alt%29_%28cropped%29.jpg/330px-Andrew_Watson_Footballer_%28alt%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "andrew_watson_footballer_(alt)_(cropped).jpg",
+        "width": 467,
+        "height": 564,
+        "title": "Andrew Watson (footballer, born 1856)",
+        "description": "Scottish footballer (1856–1921)",
+        "extract": "Andrew Watson was a Scottish footballer who is widely considered to be the first black person to play association football at international level. He played three matches for Scotland between 1881 and 1882. Arthur Wharton was previously commonly thought to be the first black player, as he was the first black professional footballer to play in the Football League, but Watson's career predated him by over a decade. There is evidence that Watson was paid professionally when at Bootle in 1887, two years prior to Wharton becoming a professional with Rotherham Town; however, the Merseyside club did not play in the Football League at the time Watson played there.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Andrew_Watson_(footballer%2C_born_1856)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Andrew_Watson_Footballer_%28alt%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Andrew_Watson_Footballer_%28alt%29_%28cropped%29.jpg/330px-Andrew_Watson_Footballer_%28alt%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "andrew_watson_footballer_(alt)_(cropped).jpg",
+          "width": 467,
+          "height": 564,
+          "title": "Andrew Watson (footballer, born 1856)",
+          "description": "Scottish footballer (1856–1921)",
+          "extract": "Andrew Watson was a Scottish footballer who is widely considered to be the first black person to play association football at international level. He played three matches for Scotland between 1881 and 1882. Arthur Wharton was previously commonly thought to be the first black player, as he was the first black professional footballer to play in the Football League, but Watson's career predated him by over a decade. There is evidence that Watson was paid professionally when at Bootle in 1887, two years prior to Wharton becoming a professional with Rotherham Town; however, the Merseyside club did not play in the Football League at the time Watson played there.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Andrew_Watson_(footballer%2C_born_1856)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Football_in_Bloomington%2C_Indiana%2C_1995.jpg/330px-Football_in_Bloomington%2C_Indiana%2C_1995.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "football_in_bloomington,_indiana,_1995.jpg",
+          "width": 3420,
+          "height": 2328,
+          "title": "Association football",
+          "description": "Team sport played with a ball",
+          "extract": "Association football, commonly known as football or soccer, is a team sport played between two teams of 11 players who mostly use their feet to kick an inflated ball around a pitch.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Association_football",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Andrew Watson (footballer, born 1856)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Andrew_Watson_(footballer%2C_born_1856)",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-12-1950-21ccbee3",
+      "year": 1950,
+      "text": "The Llandow air disaster kills 80 people when the aircraft they are travelling in crashes near Sigingstone, Wales. At the time this was the world's deadliest air disaster.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Avro_Tudor_-_The_Berlin_Airlift_1948_-_1949_HU98410.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Avro_Tudor_-_The_Berlin_Airlift_1948_-_1949_HU98410.jpg/330px-Avro_Tudor_-_The_Berlin_Airlift_1948_-_1949_HU98410.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "avro_tudor_-_the_berlin_airlift_1948_-_1949_hu98410.jpg",
+        "width": 1294,
+        "height": 727,
+        "title": "Llandow air disaster",
+        "description": "1950 plane crash in Sigingstone, Wales",
+        "extract": "The Llandow air disaster was an aircraft accident in Wales in 1950. At that time it was the world's worst air disaster, with a total of 80 fatalities. The aircraft, an Avro Tudor V, had been privately hired to fly rugby union enthusiasts to and from an international game in Ireland. On the return flight the aircraft stalled and crashed on its approach to land.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Llandow_air_disaster",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Avro_Tudor_-_The_Berlin_Airlift_1948_-_1949_HU98410.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Avro_Tudor_-_The_Berlin_Airlift_1948_-_1949_HU98410.jpg/330px-Avro_Tudor_-_The_Berlin_Airlift_1948_-_1949_HU98410.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "avro_tudor_-_the_berlin_airlift_1948_-_1949_hu98410.jpg",
+          "width": 1294,
+          "height": 727,
+          "title": "Llandow air disaster",
+          "description": "1950 plane crash in Sigingstone, Wales",
+          "extract": "The Llandow air disaster was an aircraft accident in Wales in 1950. At that time it was the world's worst air disaster, with a total of 80 fatalities. The aircraft, an Avro Tudor V, had been privately hired to fly rugby union enthusiasts to and from an international game in Ireland. On the return flight the aircraft stalled and crashed on its approach to land.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Llandow_air_disaster",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Moorshead_Farm_Cottages_Sigingstone_-_geograph.org.uk_-_1429757.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Moorshead_Farm_Cottages_Sigingstone_-_geograph.org.uk_-_1429757.jpg/330px-Moorshead_Farm_Cottages_Sigingstone_-_geograph.org.uk_-_1429757.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "moorshead_farm_cottages_sigingstone_-_geograph.org.uk_-_1429757.jpg",
+          "width": 640,
+          "height": 425,
+          "title": "Sigingstone",
+          "description": "Human settlement in Wales",
+          "extract": "Sigingstone is a small hamlet in the Vale of Glamorgan, Wales.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sigingstone",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Memorial-Plaque-for-Llandow-Air-Disaster-in-Sigingstone-Wales--by-Mick-Lobb.jpg/500px-Memorial-Plaque-for-Llandow-Air-Disaster-in-Sigingstone-Wales--by-Mick-Lobb.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Memorial-Plaque-for-Llandow-Air-Disaster-in-Sigingstone-Wales--by-Mick-Lobb.jpg/500px-Memorial-Plaque-for-Llandow-Air-Disaster-in-Sigingstone-Wales--by-Mick-Lobb.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "memorial-plaque-for-llandow-air-disaster-in-sigingstone-wales--by-mick-lobb.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Memorial plaque in Sigingstone dedicated in 1990 on the 40th anniversary of the crash.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Llandow_air_disaster",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Llandow air disaster",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Llandow_air_disaster",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-12-2006-5cf81b4d",
+      "year": 2006,
+      "text": "In Mahmoudiyah, Iraq, 14-year-old Abeer Qassim Hamza al-Janabi is raped and murdered by five American soldiers of the 502nd Infantry Regiment, who also murder both of her parents and her sister.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/ISS067-E-169828_-_View_of_Iraq_-_Al_Yusufiyah_-_Mulla_Fayyaz_-_Sippar-Amnanum_-_Mahmoudiyah_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ISS067-E-169828_-_View_of_Iraq_-_Al_Yusufiyah_-_Mulla_Fayyaz_-_Sippar-Amnanum_-_Mahmoudiyah_%28cropped%29.jpg/330px-ISS067-E-169828_-_View_of_Iraq_-_Al_Yusufiyah_-_Mulla_Fayyaz_-_Sippar-Amnanum_-_Mahmoudiyah_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "iss067-e-169828_-_view_of_iraq_-_al_yusufiyah_-_mulla_fayyaz_-_sippar-amnanum_-_mahmoudiyah_(cropped).jpg",
+        "width": 1536,
+        "height": 1864,
+        "title": "Mahmoudiyah, Iraq",
+        "description": "City in Iraq",
+        "extract": "Mahmoudiyah is a rural city south of Baghdad. Known as the \"Gateway to Baghdad,\" the city's proximity to Baghdad made it central to the counterinsurgency campaign.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mahmoudiyah%2C_Iraq",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/ISS067-E-169828_-_View_of_Iraq_-_Al_Yusufiyah_-_Mulla_Fayyaz_-_Sippar-Amnanum_-_Mahmoudiyah_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ISS067-E-169828_-_View_of_Iraq_-_Al_Yusufiyah_-_Mulla_Fayyaz_-_Sippar-Amnanum_-_Mahmoudiyah_%28cropped%29.jpg/330px-ISS067-E-169828_-_View_of_Iraq_-_Al_Yusufiyah_-_Mulla_Fayyaz_-_Sippar-Amnanum_-_Mahmoudiyah_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss067-e-169828_-_view_of_iraq_-_al_yusufiyah_-_mulla_fayyaz_-_sippar-amnanum_-_mahmoudiyah_(cropped).jpg",
+          "width": 1536,
+          "height": 1864,
+          "title": "Mahmoudiyah, Iraq",
+          "description": "City in Iraq",
+          "extract": "Mahmoudiyah is a rural city south of Baghdad. Known as the \"Gateway to Baghdad,\" the city's proximity to Baghdad made it central to the counterinsurgency campaign.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mahmoudiyah%2C_Iraq",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/502_Parachute_Infantry_Regiment_COA.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/502_Parachute_Infantry_Regiment_COA.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "502_parachute_infantry_regiment_coa.png",
+          "width": 85,
+          "height": 185,
+          "title": "502nd Infantry Regiment",
+          "description": "Infantry regiment of the United States Army",
+          "extract": "The 502nd Infantry Regiment, previously titled the 502nd Parachute Infantry Regiment, is an infantry regiment of the United States Army. The regiment was established shortly after U.S. entry into World War II, and was assigned as a regiment of the 101st Airborne Division, \"The Screaming Eagles\", one of the most decorated formations of the U.S. Army. The regiment saw substantial action in the European Theater of World War II and was inactivated in 1945, shortly after the end of the war. Reactivating in a new form in 1956, the 502nd Infantry has served in the Vietnam War, the Persian Gulf War, Iraq War, War in Afghanistan, and Operation Inherent Resolve in Iraq. Since 1974, the regiment has been classified as an Air Assault unit.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/502nd_Infantry_Regiment",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Mahmoudiyah, Iraq",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mahmoudiyah%2C_Iraq",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-12-2004-669adddc",
+      "year": 2004,
+      "text": "President of South Korea, Roh Moo-hyun, is impeached by its National Assembly, the first such impeachment in the nation's history.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Roh_Moo-hyun_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Roh_Moo-hyun_presidential_portrait.jpg/330px-Roh_Moo-hyun_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "roh_moo-hyun_presidential_portrait.jpg",
+        "width": 1093,
+        "height": 1381,
+        "title": "Roh Moo-hyun",
+        "description": "President of South Korea from 2003 to 2008",
+        "extract": "Roh Moo-hyun was a South Korean politician and lawyer who served as the ninth president of South Korea from 2003 to 2008.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roh_Moo-hyun",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Roh_Moo-hyun_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Roh_Moo-hyun_presidential_portrait.jpg/330px-Roh_Moo-hyun_presidential_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "roh_moo-hyun_presidential_portrait.jpg",
+          "width": 1093,
+          "height": 1381,
+          "title": "Roh Moo-hyun",
+          "description": "President of South Korea from 2003 to 2008",
+          "extract": "Roh Moo-hyun was a South Korean politician and lawyer who served as the ninth president of South Korea from 2003 to 2008.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Roh_Moo-hyun",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/House_of_Representatives_Votes_to_Adopt_the_Articles_of_Impeachment_Against_Donald_Trump.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/House_of_Representatives_Votes_to_Adopt_the_Articles_of_Impeachment_Against_Donald_Trump.jpg/330px-House_of_Representatives_Votes_to_Adopt_the_Articles_of_Impeachment_Against_Donald_Trump.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "house_of_representatives_votes_to_adopt_the_articles_of_impeachment_against_donald_trump.jpg",
+          "width": 3197,
+          "height": 1796,
+          "title": "Impeachment",
+          "description": "Legislative charges against a public official",
+          "extract": "Impeachment is a process by which a legislative body or other legally constituted tribunal initiates charges against a public official for misconduct. Impeachment tends to be confined to ministerial officials as the unique nature of their positions may place ministers beyond the reach of the law to prosecute, or their misconduct is not codified into law as an offense except through the unique expectations of their high office. Both \"peers and commoners\" have been subject to the process, however.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Impeachment",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/President_Lee_Jae_Myung_20260306.jpg/500px-President_Lee_Jae_Myung_20260306.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/President_Lee_Jae_Myung_20260306.jpg/500px-President_Lee_Jae_Myung_20260306.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "president_lee_jae_myung_20260306.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "President_Lee_Jae_Myung_20260306",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/President_of_South_Korea",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "President of South Korea",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/President_of_South_Korea",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-12-1989-934ad1c5",
+      "year": 1989,
+      "text": "Tim Berners-Lee submits his proposal to CERN for an information management system, which subsequently develops into the World Wide Web.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg/330px-Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "tim_berners-lee_at_the_2025_web_summit_(cropped).jpg",
+        "width": 3124,
+        "height": 2343,
+        "title": "Tim Berners-Lee",
+        "description": "English computer scientist (born 1955)",
+        "extract": "Sir Timothy John Berners-Lee, also known as TimBL, is an English computer scientist best known as the inventor of the World Wide Web, HTML, the URL system, and HTTP. He is a professorial research fellow at the University of Oxford and a professor emeritus at the Massachusetts Institute of Technology (MIT).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg/330px-Tim_Berners-Lee_at_the_2025_Web_Summit_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tim_berners-lee_at_the_2025_web_summit_(cropped).jpg",
+          "width": 3124,
+          "height": 2343,
+          "title": "Tim Berners-Lee",
+          "description": "English computer scientist (born 1955)",
+          "extract": "Sir Timothy John Berners-Lee, also known as TimBL, is an English computer scientist best known as the inventor of the World Wide Web, HTML, the URL system, and HTTP. He is a professorial research fellow at the University of Oxford and a professor emeritus at the Massachusetts Institute of Technology (MIT).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Chrome_on_Linux.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Chrome_on_Linux.png/330px-Chrome_on_Linux.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chrome_on_linux.png",
+          "width": 1366,
+          "height": 739,
+          "title": "World Wide Web",
+          "description": "Linked hypertext system on the Internet",
+          "extract": "The World Wide Web is a global interconnected information system that enables content sharing over the Internet. It facilitates access to documents and other web resources according to specific rules of the Hypertext Transfer Protocol (HTTP).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_Wide_Web",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tim_Berners-Lee.jpg/330px-Tim_Berners-Lee.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tim_Berners-Lee.jpg/330px-Tim_Berners-Lee.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "tim_berners-lee.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Berners-Lee, 2005",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Tim Berners-Lee",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Tim_Berners-Lee",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-12-1947-bd5829cd",
+      "year": 1947,
+      "text": "Cold War: U.S. president Harry S. Truman proclaimed the Truman Doctrine to help stem the spread of communism.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/330px-TRUMAN_58-766-06_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "truman_58-766-06_(cropped).jpg",
+        "width": 900,
+        "height": 1215,
+        "title": "Harry S. Truman",
+        "description": "President of the United States from 1945 to 1953",
+        "extract": "Harry S. Truman was the 33rd president of the United States, serving from 1945 to 1953. As the 34th vice president in 1945, he assumed the presidency upon the death of Franklin D. Roosevelt in April. Truman set up the Marshall Plan to rebuild the badly damaged economy of Western Europe. He established the Truman Doctrine and supported the founding of NATO to contain the expansion of Soviet communism. A member of the Democratic Party, he proposed numerous New Deal coalition liberal domestic reforms, but few were enacted by the conservative coalition that dominated the United States Congress.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Harry_S._Truman",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/330px-TRUMAN_58-766-06_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "truman_58-766-06_(cropped).jpg",
+          "width": 900,
+          "height": 1215,
+          "title": "Harry S. Truman",
+          "description": "President of the United States from 1945 to 1953",
+          "extract": "Harry S. Truman was the 33rd president of the United States, serving from 1945 to 1953. As the 34th vice president in 1945, he assumed the presidency upon the death of Franklin D. Roosevelt in April. Truman set up the Marshall Plan to rebuild the badly damaged economy of Western Europe. He established the Truman Doctrine and supported the founding of NATO to contain the expansion of Soviet communism. A member of the Democratic Party, he proposed numerous New Deal coalition liberal domestic reforms, but few were enacted by the conservative coalition that dominated the United States Congress.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Harry_S._Truman",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cold War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-12-1920-6913bebc",
+      "year": 1920,
+      "text": "The Kapp Putsch begins when the Marinebrigade Ehrhardt is ordered to march on Berlin.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bundesarchiv_Bild_119-1983-0007%2C_Kapp-Putsch%2C_Marinebrigade_Erhardt_in_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesarchiv_Bild_119-1983-0007%2C_Kapp-Putsch%2C_Marinebrigade_Erhardt_in_Berlin.jpg/330px-Bundesarchiv_Bild_119-1983-0007%2C_Kapp-Putsch%2C_Marinebrigade_Erhardt_in_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_119-1983-0007,_kapp-putsch,_marinebrigade_erhardt_in_berlin.jpg",
+        "width": 795,
+        "height": 531,
+        "title": "Kapp Putsch",
+        "description": "1920 failed coup in the Weimar Republic",
+        "extract": "The Kapp Putsch, also known as the Kapp–Lüttwitz Putsch, was an abortive coup d'état against the German national government in Berlin on 13 March 1920. Named after its leaders Wolfgang Kapp and Walther von Lüttwitz, its goal was to undo the German Revolution of 1918–1919, overthrow the Weimar Republic, and establish an autocratic government. It was supported by parts of the Reichswehr, as well as nationalist and monarchist factions.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kapp_Putsch",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bundesarchiv_Bild_119-1983-0007%2C_Kapp-Putsch%2C_Marinebrigade_Erhardt_in_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bundesarchiv_Bild_119-1983-0007%2C_Kapp-Putsch%2C_Marinebrigade_Erhardt_in_Berlin.jpg/330px-Bundesarchiv_Bild_119-1983-0007%2C_Kapp-Putsch%2C_Marinebrigade_Erhardt_in_Berlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_119-1983-0007,_kapp-putsch,_marinebrigade_erhardt_in_berlin.jpg",
+          "width": 795,
+          "height": 531,
+          "title": "Kapp Putsch",
+          "description": "1920 failed coup in the Weimar Republic",
+          "extract": "The Kapp Putsch, also known as the Kapp–Lüttwitz Putsch, was an abortive coup d'état against the German national government in Berlin on 13 March 1920. Named after its leaders Wolfgang Kapp and Walther von Lüttwitz, its goal was to undo the German Revolution of 1918–1919, overthrow the Weimar Republic, and establish an autocratic government. It was supported by parts of the Reichswehr, as well as nationalist and monarchist factions.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kapp_Putsch",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Marinebrigade_Ehrhardt_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Marinebrigade_Ehrhardt_Logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "marinebrigade_ehrhardt_logo.jpg",
+          "width": 170,
+          "height": 224,
+          "title": "Marinebrigade Ehrhardt",
+          "description": "Volunteer military force (Freikorps) in Germany from 1919 to 1920",
+          "extract": "The Marinebrigade Ehrhardt, also known as the Ehrhardt Brigade, was a Freikorps unit of the early Weimar Republic. It was formed on 17 February 1919 as the Second Marine Brigade from members of the former Imperial German Navy under the leadership of Hermann Ehrhardt. The brigade was used primarily in the suppression of the Bavarian Soviet Republic and the First Silesian Uprising, both in the first half of 1919. In March 1920, faced with its imminent disbanding by orders of the government in Berlin, the Marine Brigade was one of the main supporters of the Kapp Putsch that tried to overthrow the Weimar Republic. After the putsch failed and the brigade was disbanded in May, many of the former members formed the secret Organisation Consul under Ehrhardt's leadership. Before it was banned in 1922, it carried out numerous assassinations and murders in a continuation of the attempts to overthrow the Republic.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Marinebrigade_Ehrhardt",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Plakat_der_Reichsregierung_gegen_den_Kapp-Putsch_1920.jpg/500px-Plakat_der_Reichsregierung_gegen_den_Kapp-Putsch_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Plakat_der_Reichsregierung_gegen_den_Kapp-Putsch_1920.jpg/500px-Plakat_der_Reichsregierung_gegen_den_Kapp-Putsch_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "plakat_der_reichsregierung_gegen_den_kapp-putsch_1920.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Government poster written against the Kapp Putsch, 13 March 1920.[a]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kapp_Putsch",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Kapp Putsch",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Kapp_Putsch",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-12-1913-e42eb2af",
+      "year": 1913,
+      "text": "At a ceremony at Kurrajong Hill, Lady Denman, wife of the governor-general Lord Denman, announced that the future capital of Australia would be called Canberra.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lady_Denman_%28NFWI%29_Chair%2C_1925._%2822680005758%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lady_Denman_%28NFWI%29_Chair%2C_1925._%2822680005758%29_%28cropped%29.jpg/330px-Lady_Denman_%28NFWI%29_Chair%2C_1925._%2822680005758%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "lady_denman_(nfwi)_chair,_1925._(22680005758)_(cropped).jpg",
+        "width": 1717,
+        "height": 1714,
+        "title": "Gertrude Denman, Baroness Denman",
+        "description": "British suffragette",
+        "extract": "Gertrude Mary Denman, Baroness Denman GBE was a British women's suffragist and politician. Her husband was Lord Denman, the 3rd Baron Denman, fifth Governor-General of Australia, and she officially named Australia's capital city Canberra in 1913.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gertrude_Denman%2C_Baroness_Denman",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lady_Denman_%28NFWI%29_Chair%2C_1925._%2822680005758%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lady_Denman_%28NFWI%29_Chair%2C_1925._%2822680005758%29_%28cropped%29.jpg/330px-Lady_Denman_%28NFWI%29_Chair%2C_1925._%2822680005758%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lady_denman_(nfwi)_chair,_1925._(22680005758)_(cropped).jpg",
+          "width": 1717,
+          "height": 1714,
+          "title": "Gertrude Denman, Baroness Denman",
+          "description": "British suffragette",
+          "extract": "Gertrude Mary Denman, Baroness Denman GBE was a British women's suffragist and politician. Her husband was Lord Denman, the 3rd Baron Denman, fifth Governor-General of Australia, and she officially named Australia's capital city Canberra in 1913.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gertrude_Denman%2C_Baroness_Denman",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Lord_Denman_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lord_Denman_%28cropped%29.jpg/330px-Lord_Denman_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lord_denman_(cropped).jpg",
+          "width": 1848,
+          "height": 2589,
+          "title": "Thomas Denman, 3rd Baron Denman",
+          "description": "British politician (1874–1954)",
+          "extract": "Thomas Denman, 3rd Baron Denman was a British aristocrat and politician who served as the fifth governor-general of Australia, in office from 1911 to 1914.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_Denman%2C_3rd_Baron_Denman",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Canberra_panorama_from_Mount_Ainslie.jpg/3840px-Canberra_panorama_from_Mount_Ainslie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Canberra_panorama_from_Mount_Ainslie.jpg/330px-Canberra_panorama_from_Mount_Ainslie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "canberra_panorama_from_mount_ainslie.jpg",
+          "width": 12142,
+          "height": 5356,
+          "title": "Canberra",
+          "description": "Capital city of Australia",
+          "extract": "Canberra is the capital city of Australia and the largest population centre in the Australian Capital Territory. With an estimated population of 484,630 as of 2025, Canberra is Australia's largest inland city and the eighth-largest Australian city by population. The city occupies most of the northern quadrant of the Australian Capital Territory, and its urban sprawl borders the state of New South Wales to the northwest, northeast and southeast. The Brindabellas are located south and west of the city, and form the northern part of the Australian Alps, the country's highest mountain range.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Canberra",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Capital Hill, Australian Capital Territory",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Capital_Hill%2C_Australian_Capital_Territory",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-12-1971-424e8c83",
+      "year": 1971,
+      "text": "The Turkish Armed Forces executed a \"coup by memorandum\", forcing the resignation of Prime Minister Süleyman Demirel (pictured).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 55,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Suleyman_Demirel_1998.jpg/330px-Suleyman_Demirel_1998.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "suleyman_demirel_1998.jpg",
+        "width": 480,
+        "height": 636,
+        "title": "Süleyman Demirel",
+        "description": "President of Turkey from 1993 to 2000",
+        "extract": "Sami Süleyman Gündoğdu Demirel was a Turkish politician, engineer, and statesman who served as the president of Turkey from 1993 to 2000. He previously served as the prime minister of Turkey seven times between 1965 and 1993. He was the leader of the Justice Party (AP) from 1964 to 1980 and the leader of the True Path Party (DYP) from 1987 to 1993.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/S%C3%BCleyman_Demirel",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Suleyman_Demirel_1998.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Suleyman_Demirel_1998.jpg/330px-Suleyman_Demirel_1998.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "suleyman_demirel_1998.jpg",
+          "width": 480,
+          "height": 636,
+          "title": "Süleyman Demirel",
+          "description": "President of Turkey from 1993 to 2000",
+          "extract": "Sami Süleyman Gündoğdu Demirel was a Turkish politician, engineer, and statesman who served as the president of Turkey from 1993 to 2000. He previously served as the prime minister of Turkey seven times between 1965 and 1993. He was the leader of the Justice Party (AP) from 1964 to 1980 and the leader of the True Path Party (DYP) from 1987 to 1993.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/S%C3%BCleyman_Demirel",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/95/Seal_of_the_Turkish_Armed_Forces.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/9/95/Seal_of_the_Turkish_Armed_Forces.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "seal_of_the_turkish_armed_forces.png",
+          "width": 800,
+          "height": 600,
+          "title": "Seal_of_the_Turkish_Armed_Forces",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Turkish_Armed_Forces",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mustafa_Kemal_at_the_end_of_the_First_Battle_of_%C4%B0n%C3%B6n%C3%BC.png/500px-Mustafa_Kemal_at_the_end_of_the_First_Battle_of_%C4%B0n%C3%B6n%C3%BC.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Mustafa_Kemal_at_the_end_of_the_First_Battle_of_%C4%B0n%C3%B6n%C3%BC.png/500px-Mustafa_Kemal_at_the_end_of_the_First_Battle_of_%C4%B0n%C3%B6n%C3%BC.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "mustafa_kemal_at_the_end_of_the_first_battle_of_i̇nönü.png",
+          "width": 800,
+          "height": 600,
+          "title": "Mustafa Kemal Pasha at the end of the First Battle of İnönü",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Turkish_Armed_Forces",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Turkish Armed Forces",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Turkish_Armed_Forces",
+      "relatedPagesCount": 3
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "date": {
+    "month": 8,
+    "day": 6,
+    "formatted": "08-06"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "08-06-2012-477882bf",
+      "year": 2012,
+      "text": "NASA's Curiosity rover lands on the surface of Mars.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/3840px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/330px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "curiosity_self-portrait_at_'big_sky'_drilling_site.jpg",
+        "width": 4483,
+        "height": 6180,
+        "title": "Curiosity (rover)",
+        "description": "NASA rover exploring Mars since 2012",
+        "extract": "Curiosity is a Mars rover that is exploring Gale crater and Mount Sharp on Mars as part of NASA's Mars Science Laboratory (MSL) mission. Launched in 2011 and landed the following year, the car-sized rover continues to operate more than a decade after its original two-year mission.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Curiosity_(rover)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/3840px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/330px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "curiosity_self-portrait_at_'big_sky'_drilling_site.jpg",
+          "width": 4483,
+          "height": 6180,
+          "title": "Curiosity (rover)",
+          "description": "NASA rover exploring Mars since 2012",
+          "extract": "Curiosity is a Mars rover that is exploring Gale crater and Mount Sharp on Mars as part of NASA's Mars Science Laboratory (MSL) mission. Launched in 2011 and landed the following year, the car-sized rover continues to operate more than a decade after its original two-year mission.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Curiosity_(rover)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/MSL_cruise_stage_configuration_%28PIA14831%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MSL_cruise_stage_configuration_%28PIA14831%29.png/330px-MSL_cruise_stage_configuration_%28PIA14831%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "msl_cruise_stage_configuration_(pia14831).png",
+          "width": 1300,
+          "height": 1000,
+          "title": "Mars Science Laboratory",
+          "description": "Robotic mission that deployed the ''Curiosity'' rover to Mars in 2012",
+          "extract": "Mars Science Laboratory (MSL) is a robotic space probe mission to Mars launched by NASA on November 26, 2011, which successfully landed Curiosity, a Mars rover, in Gale Crater on August 6, 2012. The overall objectives include investigating Mars's habitability, studying its climate and geology, and collecting data for a human mission to Mars. The rover carries a variety of scientific instruments designed by an international team.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Science_Laboratory",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mars_-_august_30_2021_-_flickr_-_kevin_m._gill.png",
+          "width": 1558,
+          "height": 1558,
+          "title": "Mars",
+          "description": "Fourth planet from the Sun",
+          "extract": "Mars is the fourth planet from the Sun. It is also known as the \"Red Planet\", for its orange-red appearance. Mars is a desert-like rocky planet with a tenuous atmosphere that is primarily carbon dioxide. At the average surface level the atmospheric pressure is a few thousandths of Earth's, atmospheric temperature ranges from −153 to 20 °C, and cosmic radiation is high. Mars retains some water, in the ground as well as thinly in the atmosphere, forming cirrus clouds, fog, frost, larger polar regions of permafrost and ice caps, but no bodies of liquid surface water. Its surface gravity is roughly a third of Earth's or double that of the Moon. Its mean diameter, 6,779 km (4,212 mi), is about half the Earth's, or twice the Moon's, and its surface area is the size of all the dry land of Earth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "08-06-1996-a75980ff",
+      "year": 1996,
+      "text": "NASA announces that the ALH 84001 meteorite, thought to originate from Mars, contains evidence of primitive life-forms.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ALH84001.jpg/3840px-ALH84001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ALH84001.jpg/330px-ALH84001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "alh84001.jpg",
+        "width": 4683,
+        "height": 3056,
+        "title": "Allan Hills 84001",
+        "description": "Martian meteorite discovered in Antarctica in 1984",
+        "extract": "Allan Hills 84001 (ALH84001) is a fragment of a Martian meteorite that was found in the Allan Hills in Antarctica on December 27, 1984, by a team of American meteorite hunters from the ANSMET project. Like other members of the shergottite–nakhlite–chassignite (SNC) group of meteorites, ALH84001 is thought to have originated on Mars. However, it does not fit into any of the previously discovered SNC groups. Its mass upon discovery was 1.93 kilograms (4.3 lb).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Allan_Hills_84001",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ALH84001.jpg/3840px-ALH84001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ALH84001.jpg/330px-ALH84001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "alh84001.jpg",
+          "width": 4683,
+          "height": 3056,
+          "title": "Allan Hills 84001",
+          "description": "Martian meteorite discovered in Antarctica in 1984",
+          "extract": "Allan Hills 84001 (ALH84001) is a fragment of a Martian meteorite that was found in the Allan Hills in Antarctica on December 27, 1984, by a team of American meteorite hunters from the ANSMET project. Like other members of the shergottite–nakhlite–chassignite (SNC) group of meteorites, ALH84001 is thought to have originated on Mars. However, it does not fit into any of the previously discovered SNC groups. Its mass upon discovery was 1.93 kilograms (4.3 lb).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Allan_Hills_84001",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mars_-_august_30_2021_-_flickr_-_kevin_m._gill.png",
+          "width": 1558,
+          "height": 1558,
+          "title": "Mars",
+          "description": "Fourth planet from the Sun",
+          "extract": "Mars is the fourth planet from the Sun. It is also known as the \"Red Planet\", for its orange-red appearance. Mars is a desert-like rocky planet with a tenuous atmosphere that is primarily carbon dioxide. At the average surface level the atmospheric pressure is a few thousandths of Earth's, atmospheric temperature ranges from −153 to 20 °C, and cosmic radiation is high. Mars retains some water, in the ground as well as thinly in the atmosphere, forming cirrus clouds, fog, frost, larger polar regions of permafrost and ice caps, but no bodies of liquid surface water. Its surface gravity is roughly a third of Earth's or double that of the Moon. Its mean diameter, 6,779 km (4,212 mi), is about half the Earth's, or twice the Moon's, and its surface area is the size of all the dry land of Earth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-06-1986-5759a7f6",
+      "year": 1986,
+      "text": "A low-pressure system that redeveloped off the New South Wales coast dumps a record 328 millimeters (13 inches) of rain in a day on Sydney, New South Wales, Australia.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/3840px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/330px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sydney_opera_house_and_harbour_bridge_dusk_(2)_2019-06-21.jpg",
+        "width": 6173,
+        "height": 3087,
+        "title": "Sydney",
+        "description": "Capital city of New South Wales, Australia",
+        "extract": "Sydney is the capital of the state of New South Wales and the largest city in both the state and Australia. The metropolis surrounds Sydney Harbour and extends about 80 kilometres (50 mi) from the Pacific Ocean in the east to the Blue Mountains in the west, and about 80 kilometres (50 mi) from Ku-ring-gai Chase National Park and the Hawkesbury River in the north and north-west, to the Royal National Park and Macarthur in the south and south-west. Greater Sydney consists of 658 suburbs, spread across 33 local government areas. Residents of the city are colloquially known as \"Sydneysiders\". The estimated population in June 2025 was 5,638,830, which is about 66% of the state's population. The city's nicknames include the Emerald City and the Harbour City.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sydney",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/3840px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/330px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sydney_opera_house_and_harbour_bridge_dusk_(2)_2019-06-21.jpg",
+          "width": 6173,
+          "height": 3087,
+          "title": "Sydney",
+          "description": "Capital city of New South Wales, Australia",
+          "extract": "Sydney is the capital of the state of New South Wales and the largest city in both the state and Australia. The metropolis surrounds Sydney Harbour and extends about 80 kilometres (50 mi) from the Pacific Ocean in the east to the Blue Mountains in the west, and about 80 kilometres (50 mi) from Ku-ring-gai Chase National Park and the Hawkesbury River in the north and north-west, to the Royal National Park and Macarthur in the south and south-west. Greater Sydney consists of 658 suburbs, spread across 33 local government areas. Residents of the city are colloquially known as \"Sydneysiders\". The estimated population in June 2025 was 5,638,830, which is about 66% of the state's population. The city's nicknames include the Emerald City and the Harbour City.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sydney",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "New South Wales",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/New_South_Wales",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-06-2013-14318d71",
+      "year": 2013,
+      "text": "A gas leak caused an explosion that collapsed a building and led to the deaths of 22 people in Rosario, Argentina.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Explosi%C3%B3n_de_Rosario_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Explosi%C3%B3n_de_Rosario_04.jpg/330px-Explosi%C3%B3n_de_Rosario_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "explosión_de_rosario_04.jpg",
+        "width": 1280,
+        "height": 720,
+        "title": "2013 Rosario gas explosion",
+        "description": "Disaster in building in Argentina",
+        "extract": "A gas explosion caused by a large gas leak occurred in a residential area of Rosario, the third-largest city in Argentina, on August 6, 2013. A nearby building collapsed, and others were at high risk of structural failure. Twenty-two people died, and 60 were injured. Several organizations helped secure the area, search for survivors and aid people who lost their homes. Shortly after the explosion, the time needed for reconstruction was estimated at six months.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2013_Rosario_gas_explosion",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Explosi%C3%B3n_de_Rosario_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Explosi%C3%B3n_de_Rosario_04.jpg/330px-Explosi%C3%B3n_de_Rosario_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "explosión_de_rosario_04.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "2013 Rosario gas explosion",
+          "description": "Disaster in building in Argentina",
+          "extract": "A gas explosion caused by a large gas leak occurred in a residential area of Rosario, the third-largest city in Argentina, on August 6, 2013. A nearby building collapsed, and others were at high risk of structural failure. Twenty-two people died, and 60 were injured. Several organizations helped secure the area, search for survivors and aid people who lost their homes. Shortly after the explosion, the time needed for reconstruction was estimated at six months.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2013_Rosario_gas_explosion",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/J30_869_Rosario.jpg/3840px-J30_869_Rosario.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/J30_869_Rosario.jpg/330px-J30_869_Rosario.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "j30_869_rosario.jpg",
+          "width": 5607,
+          "height": 3738,
+          "title": "Rosario",
+          "description": "City in Santa Fe Province, Argentina",
+          "extract": "Rosario, officially the Autonomous City of Rosario, is a city in central Argentina, in the south of the province of Santa Fe. Located 300 km (186 mi) northwest of Buenos Aires on the west bank of the Paraná River, it is the country's third-most populous city after Buenos Aires and Córdoba. With a growing and important metropolitan area, Greater Rosario has an estimated population of 1,750,000 as of 2020. One of its main attractions includes the neoclassical, Art Nouveau, and Art Deco architecture that has been preserved in hundreds of residences, houses and public buildings. The city is also famous for being the birthplace of revolutionary Marxist Che Guevara and footballer Lionel Messi.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rosario",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "2013 Rosario gas explosion",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2013_Rosario_gas_explosion",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-06-1942-a93987f4",
+      "year": 1942,
+      "text": "Queen Wilhelmina of the Netherlands becomes the first reigning queen to address a joint session of the United States Congress.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wilhelmina_of_the_Netherlands_in_1936.jpg/3840px-Wilhelmina_of_the_Netherlands_in_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wilhelmina_of_the_Netherlands_in_1936.jpg/330px-Wilhelmina_of_the_Netherlands_in_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "wilhelmina_of_the_netherlands_in_1936.jpg",
+        "width": 5344,
+        "height": 6672,
+        "title": "Wilhelmina of the Netherlands",
+        "description": "Queen of the Netherlands from 1890 to 1948",
+        "extract": "Wilhelmina was Queen of the Netherlands from 1890 until her abdication in 1948. She reigned for nearly 58 years, making her the longest-reigning monarch in Dutch history, as well as the longest-reigning female monarch outside of the United Kingdom. Her reign encompassed World War I, the Dutch economic crisis of 1933, and World War II.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wilhelmina_of_the_Netherlands",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wilhelmina_of_the_Netherlands_in_1936.jpg/3840px-Wilhelmina_of_the_Netherlands_in_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wilhelmina_of_the_Netherlands_in_1936.jpg/330px-Wilhelmina_of_the_Netherlands_in_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wilhelmina_of_the_netherlands_in_1936.jpg",
+          "width": 5344,
+          "height": 6672,
+          "title": "Wilhelmina of the Netherlands",
+          "description": "Queen of the Netherlands from 1890 to 1948",
+          "extract": "Wilhelmina was Queen of the Netherlands from 1890 until her abdication in 1948. She reigned for nearly 58 years, making her the longest-reigning monarch in Dutch history, as well as the longest-reigning female monarch outside of the United Kingdom. Her reign encompassed World War I, the Dutch economic crisis of 1933, and World War II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wilhelmina_of_the_Netherlands",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Queen_of_Holland_2.jpg/500px-Queen_of_Holland_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Queen_of_Holland_2.jpg/500px-Queen_of_Holland_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "queen_of_holland_2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Queen Wilhelmina in the 1890s",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wilhelmina_of_the_Netherlands",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/VictoriaWilhelmina1895.jpg/1280px-VictoriaWilhelmina1895.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/VictoriaWilhelmina1895.jpg/1280px-VictoriaWilhelmina1895.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "victoriawilhelmina1895.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Queen Victoria and Queen Wilhelmina in a montage photo (1895)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wilhelmina_of_the_Netherlands",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Wilhelmina of the Netherlands",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Wilhelmina_of_the_Netherlands",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-06-1926-a1d60543",
+      "year": 1926,
+      "text": "Gertrude Ederle becomes the first woman to swim across the English Channel.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Gertrude_Ederle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Gertrude_Ederle.jpg/330px-Gertrude_Ederle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gertrude_ederle.jpg",
+        "width": 3618,
+        "height": 2704,
+        "title": "Gertrude Ederle",
+        "description": "American swimmer (1905–2003)",
+        "extract": "Gertrude Caroline Ederle was an American competition swimmer, Olympic champion, and world record-holder in five events. On August 6, 1926, she became the first woman to swim across the English Channel with her finish time of 14 hours and 45 minutes, beating the record set by Enrique Tirabocchi in 1923 by one hour, 48 minutes. Among other nicknames, the press called her \"Queen of the Waves\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gertrude_Ederle",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Gertrude_Ederle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Gertrude_Ederle.jpg/330px-Gertrude_Ederle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gertrude_ederle.jpg",
+          "width": 3618,
+          "height": 2704,
+          "title": "Gertrude Ederle",
+          "description": "American swimmer (1905–2003)",
+          "extract": "Gertrude Caroline Ederle was an American competition swimmer, Olympic champion, and world record-holder in five events. On August 6, 1926, she became the first woman to swim across the English Channel with her finish time of 14 hours and 45 minutes, beating the record set by Enrique Tirabocchi in 1923 by one hour, 48 minutes. Among other nicknames, the press called her \"Queen of the Waves\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gertrude_Ederle",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/English_Channel_Satellite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/English_Channel_Satellite.jpg/330px-English_Channel_Satellite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "english_channel_satellite.jpg",
+          "width": 1893,
+          "height": 991,
+          "title": "English Channel",
+          "description": "Body of water between Great Britain and France",
+          "extract": "The English Channel, also known as the Channel, is an arm of the Atlantic Ocean that separates Southern England from northern France. It links to the southern part of the North Sea by the Strait of Dover at its northeastern end. It is the busiest shipping area in the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/English_Channel",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Gertrude Ederle",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Gertrude_Ederle",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-06-1990-3a02c516",
+      "year": 1990,
+      "text": "Gulf War: The United Nations Security Council orders a global trade embargo against Iraq in response to Iraq's invasion of Kuwait.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/330px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "usaf_f-16a_f-15c_f-15e_desert_storm_edit2.jpg",
+        "width": 2000,
+        "height": 1274,
+        "title": "Gulf War",
+        "description": "1990–1991 conflict in the Middle East",
+        "extract": "The Gulf War was an armed conflict between Iraq and a 42-country coalition led by the United States in response to Saddam Hussein invading neighboring Kuwait on 2 August 1990. The coalition's efforts were in two phases: Operation Desert Shield, which marked the military buildup from August 1990 to January 1991; and Operation Desert Storm, from the bombing campaign against Iraq on 17 January until the American-led liberation of Kuwait on 28 February.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gulf_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg/330px-USAF_F-16A_F-15C_F-15E_Desert_Storm_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "usaf_f-16a_f-15c_f-15e_desert_storm_edit2.jpg",
+          "width": 2000,
+          "height": 1274,
+          "title": "Gulf War",
+          "description": "1990–1991 conflict in the Middle East",
+          "extract": "The Gulf War was an armed conflict between Iraq and a 42-country coalition led by the United States in response to Saddam Hussein invading neighboring Kuwait on 2 August 1990. The coalition's efforts were in two phases: Operation Desert Shield, which marked the military buildup from August 1990 to January 1991; and Operation Desert Storm, from the bombing campaign against Iraq on 17 January until the American-led liberation of Kuwait on 28 February.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gulf_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tank_in_Desert_Storm.JPEG/1280px-Tank_in_Desert_Storm.JPEG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tank_in_Desert_Storm.JPEG/1280px-Tank_in_Desert_Storm.JPEG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "tank_in_desert_storm.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": "Tank_in_Desert_Storm",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gulf_War",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/British_gulf_war_%28cropped%29.jpg/250px-British_gulf_war_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/British_gulf_war_%28cropped%29.jpg/250px-British_gulf_war_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "british_gulf_war_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "British_gulf_war_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gulf_War",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Gulf War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Gulf_War",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "08-06-2015-09fa41d7",
+      "year": 2015,
+      "text": "A suicide bomb attack kills at least 15 people at a mosque in the Saudi city of Abha.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Abha_city.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Abha_city.png/330px-Abha_city.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "abha_city.png",
+        "width": 1992,
+        "height": 1584,
+        "title": "Abha",
+        "description": "Capital governorate of Aseer Province, Saudi Arabia",
+        "extract": "Abha is the capital of Asir Province in Saudi Arabia. It is situated 2,270 metres above sea level in the fertile Asir Mountains of south-western Saudi Arabia, near Asir National Park. Abha's mild climate makes it a popular tourist destination for Saudis. Saudis also call the city the Bride of Mountain due to its position above the sea.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Abha",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Abha_city.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Abha_city.png/330px-Abha_city.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "abha_city.png",
+          "width": 1992,
+          "height": 1584,
+          "title": "Abha",
+          "description": "Capital governorate of Aseer Province, Saudi Arabia",
+          "extract": "Abha is the capital of Asir Province in Saudi Arabia. It is situated 2,270 metres above sea level in the fertile Asir Mountains of south-western Saudi Arabia, near Asir National Park. Abha's mild climate makes it a popular tourist destination for Saudis. Saudis also call the city the Bride of Mountain due to its position above the sea.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Abha",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "2015 Abha mosque bombing",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2015_Abha_mosque_bombing",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-06-2011-202d1645",
+      "year": 2011,
+      "text": "War in Afghanistan: A United States military helicopter is shot down, killing 30 American special forces members and a working dog, seven Afghan soldiers, and one Afghan civilian. It was the deadliest single event for the United States in the War in Afghanistan.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/3840px-U.S._Army_firefight_in_Kunar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/330px-U.S._Army_firefight_in_Kunar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "u.s._army_firefight_in_kunar.jpg",
+        "width": 4554,
+        "height": 3036,
+        "title": "War in Afghanistan (2001–2021)",
+        "description": "U.S Armed conflict in South Asia",
+        "extract": "The war in Afghanistan was a prolonged armed conflict lasting from 2001 to 2021. It began with an invasion by a United States–led coalition under the name Operation Enduring Freedom in response to the September 11 attacks (9/11) carried out by the Taliban-allied and Afghanistan-based al-Qaeda. The Taliban were expelled from major population centers by American-led forces supporting the anti-Taliban Northern Alliance, thus toppling the Taliban-ruled Islamic Emirate. In 2004, the U.S.-backed Islamic Republic was established, but by then, the Taliban, led by founder Mullah Omar, had reorganized and begun an insurgency against the Afghan government and coalition forces. The conflict ended as the 2021 Taliban offensive reestablished the Islamic Emirate. It was the longest war in United States military history, surpassing the Vietnam War by six months.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/3840px-U.S._Army_firefight_in_Kunar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/U.S._Army_firefight_in_Kunar.jpg/330px-U.S._Army_firefight_in_Kunar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "u.s._army_firefight_in_kunar.jpg",
+          "width": 4554,
+          "height": 3036,
+          "title": "War in Afghanistan (2001–2021)",
+          "description": "U.S Armed conflict in South Asia",
+          "extract": "The war in Afghanistan was a prolonged armed conflict lasting from 2001 to 2021. It began with an invasion by a United States–led coalition under the name Operation Enduring Freedom in response to the September 11 attacks (9/11) carried out by the Taliban-allied and Afghanistan-based al-Qaeda. The Taliban were expelled from major population centers by American-led forces supporting the anti-Taliban Northern Alliance, thus toppling the Taliban-ruled Islamic Emirate. In 2004, the U.S.-backed Islamic Republic was established, but by then, the Taliban, led by founder Mullah Omar, had reorganized and begun an insurgency against the Afghan government and coalition forces. The conflict ended as the 2021 Taliban offensive reestablished the Islamic Emirate. It was the longest war in United States military history, surpassing the Vietnam War by six months.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/CH-47_Chinook_in_Bagram.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/CH-47_Chinook_in_Bagram.jpg/330px-CH-47_Chinook_in_Bagram.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ch-47_chinook_in_bagram.jpg",
+          "width": 3008,
+          "height": 1960,
+          "title": "Extortion 17 shootdown",
+          "description": "Attack on a U.S. military helicopter in Tangi Valley, Maidan Wardak Province",
+          "extract": "On 6 August 2011, a U.S. CH-47D Chinook military helicopter operating with the call sign Extortion 17 was shot down while transporting a Quick Reaction Force attempting to reinforce a Joint Special Operations Command unit of the 75th Ranger Regiment in the Tangi Valley in Maidan Wardak province, southwest of Kabul, Afghanistan.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Extortion_17_shootdown",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/F-15E_drops_2%2C000-pound_munitions_Afghanistan_2009.jpg/1280px-F-15E_drops_2%2C000-pound_munitions_Afghanistan_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/F-15E_drops_2%2C000-pound_munitions_Afghanistan_2009.jpg/1280px-F-15E_drops_2%2C000-pound_munitions_Afghanistan_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "f-15e_drops_2,000-pound_munitions_afghanistan_2009.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "F-15E_drops_2,000-pound_munitions_Afghanistan_2009",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "War in Afghanistan (2001–2021)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-06-2010-6128aa2e",
+      "year": 2010,
+      "text": "Flash floods, mudslides, and debris flows across Ladakh in Indian-administered Kashmir left at least 255 people dead.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Skiu_in_2010_Ladakh_floods.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Skiu_in_2010_Ladakh_floods.jpg/330px-Skiu_in_2010_Ladakh_floods.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "skiu_in_2010_ladakh_floods.jpg",
+        "width": 1440,
+        "height": 806,
+        "title": "2010 Ladakh floods",
+        "description": "Natural disaster in India",
+        "extract": "The 2010 Ladakh floods occurred on 6 August 2010 across a large part of Ladakh, then part of the state of Jammu and Kashmir. 71 towns and villages were damaged, including the main town in the area, Leh. At least 255 people are reported to have died, six of whom were foreign tourists, after a cloudburst and heavy overnight rains triggered flash floods, mudflows, and debris flows. 200 people were reported missing in the initial aftermath of the storm, and thousands more were rendered homeless after the flooding caused extensive damage to property and infrastructure. Overall, 9,000 people were directly affected by the event.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2010_Ladakh_floods",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Skiu_in_2010_Ladakh_floods.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Skiu_in_2010_Ladakh_floods.jpg/330px-Skiu_in_2010_Ladakh_floods.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "skiu_in_2010_ladakh_floods.jpg",
+          "width": 1440,
+          "height": 806,
+          "title": "2010 Ladakh floods",
+          "description": "Natural disaster in India",
+          "extract": "The 2010 Ladakh floods occurred on 6 August 2010 across a large part of Ladakh, then part of the state of Jammu and Kashmir. 71 towns and villages were damaged, including the main town in the area, Leh. At least 255 people are reported to have died, six of whom were foreign tourists, after a cloudburst and heavy overnight rains triggered flash floods, mudflows, and debris flows. 200 people were reported missing in the initial aftermath of the storm, and thousands more were rendered homeless after the flooding caused extensive damage to property and infrastructure. Overall, 9,000 people were directly affected by the event.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2010_Ladakh_floods",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/MSH80_mailboxes_along_cowlitz_river_1980.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/MSH80_mailboxes_along_cowlitz_river_1980.jpg/330px-MSH80_mailboxes_along_cowlitz_river_1980.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "msh80_mailboxes_along_cowlitz_river_1980.jpg",
+          "width": 2919,
+          "height": 1905,
+          "title": "Mudflow",
+          "description": "Form of mass wasting",
+          "extract": "A mudflow, also known as mudslide or mud flow, is a form of mass wasting involving fast-moving flow of debris and dirt that has become liquified by the addition of water. Such flows can move at speeds ranging from three to five metres per second. Mudflows contain a significant proportion of clay, which makes them more fluid than debris flows, allowing them to travel farther and across lower slope angles. Both types of flow are generally mixtures of particles with a wide range of sizes, which typically become sorted by size upon deposition.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mudflow",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Debris_flow_channel%2C_Ladakh%2C_NW_Indian_Himalaya.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Debris_flow_channel%2C_Ladakh%2C_NW_Indian_Himalaya.JPG/330px-Debris_flow_channel%2C_Ladakh%2C_NW_Indian_Himalaya.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "debris_flow_channel,_ladakh,_nw_indian_himalaya.jpg",
+          "width": 3072,
+          "height": 2304,
+          "title": "Debris flow",
+          "description": "Geological phenomenon",
+          "extract": "Debris flows are geological phenomena in which water-laden masses of soil and fragmented rock flow down mountainsides, funnel into stream channels, entrain objects in their paths, and form thick, muddy deposits on valley floors. They generally have bulk densities comparable to those of rockslides and other types of landslides, but owing to widespread sediment liquefaction caused by high pore-fluid pressures, they can flow almost as fluidly as water. Debris flows descending steep channels commonly attain speeds that surpass 10 m/s (36 km/h), although some large flows can reach speeds that are much greater. Debris flows with volumes ranging up to about 100,000 cubic meters occur frequently in mountainous regions worldwide. The largest prehistoric flows have had volumes exceeding 1 billion cubic meters. As a result of their high sediment concentrations and mobility, debris flows can be very destructive.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Debris_flow",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2010 Ladakh floods",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2010_Ladakh_floods",
+      "relatedPagesCount": 5
+    }
+  ]
+}

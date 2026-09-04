@@ -1,0 +1,643 @@
+{
+  "date": {
+    "month": 9,
+    "day": 12,
+    "formatted": "09-12"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "09-12-2013-c03d70ea",
+      "year": 2013,
+      "text": "NASA confirms that its Voyager 1 probe has become the first manmade object to enter interstellar space.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "voyager_spacecraft_model.png",
+        "width": 1700,
+        "height": 1233,
+        "title": "Voyager 1",
+        "description": "NASA space probe launched in 1977",
+        "extract": "Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program, to study the outer Solar System and the interstellar space beyond the Sun's heliosphere. It was launched 16 days after its twin, Voyager 2. It communicates through the NASA Deep Space Network (DSN) to receive routine commands and to transmit data to Earth. Real-time distance and velocity data are provided by NASA and JPL. At a distance of 171.19 AU as of August 2026, it is the most distant human-made object from Earth. Voyager 1 is projected to reach a distance of one light day from Earth in November 2026.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_1",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "voyager_spacecraft_model.png",
+          "width": 1700,
+          "height": 1233,
+          "title": "Voyager 1",
+          "description": "NASA space probe launched in 1977",
+          "extract": "Voyager 1 is a space probe launched by NASA on September 5, 1977, as part of the Voyager program, to study the outer Solar System and the interstellar space beyond the Sun's heliosphere. It was launched 16 days after its twin, Voyager 2. It communicates through the NASA Deep Space Network (DSN) to receive routine commands and to transmit data to Earth. Real-time distance and velocity data are provided by NASA and JPL. At a distance of 171.19 AU as of August 2026, it is the most distant human-made object from Earth. Voyager 1 is projected to reach a distance of one light day from Earth in November 2026.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Voyager_1",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/2023_interstellar_probes_NASA-JPL_eyes.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2023_interstellar_probes_NASA-JPL_eyes.png/330px-2023_interstellar_probes_NASA-JPL_eyes.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2023_interstellar_probes_nasa-jpl_eyes.png",
+          "width": 2955,
+          "height": 1653,
+          "title": "Interstellar probe",
+          "description": "Space probe that can travel out of the Solar System",
+          "extract": "An interstellar probe is a space probe that has left—or is expected to leave—the Solar System and enter interstellar space, which is typically defined as the region beyond the heliopause. It also refers to probes capable of reaching other star systems.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Interstellar_probe",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-12-2003-df2f3219",
+      "year": 2003,
+      "text": "Iraq War: In Fallujah, U.S. forces mistakenly shoot and kill eight Iraqi police officers.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/330px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ustanks_baghdad_2003.jpeg",
+        "width": 3008,
+        "height": 1960,
+        "title": "Iraq War",
+        "description": "2003–2011 conflict in Iraq",
+        "extract": "The Iraq War, also referred to as the Second Gulf War, was a protracted armed conflict in Iraq from 2003 to 2011. It began with the invasion by a United States–led coalition, which resulted in the overthrow of the Ba'athist government of Saddam Hussein. During the US occupation of Iraq, the conflict persisted as an insurgency that arose against coalition forces and the newly established Iraqi government. US forces were officially withdrawn in 2011. In 2014, the US became re-engaged in Iraq, leading a new coalition under Combined Joint Task Force – Operation Inherent Resolve, as the conflict evolved into the ongoing Islamic State insurgency.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Iraq_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/330px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ustanks_baghdad_2003.jpeg",
+          "width": 3008,
+          "height": 1960,
+          "title": "Iraq War",
+          "description": "2003–2011 conflict in Iraq",
+          "extract": "The Iraq War, also referred to as the Second Gulf War, was a protracted armed conflict in Iraq from 2003 to 2011. It began with the invasion by a United States–led coalition, which resulted in the overthrow of the Ba'athist government of Saddam Hussein. During the US occupation of Iraq, the conflict persisted as an insurgency that arose against coalition forces and the newly established Iraqi government. US forces were officially withdrawn in 2011. In 2014, the US became re-engaged in Iraq, leading a new coalition under Combined Joint Task Force – Operation Inherent Resolve, as the conflict evolved into the ongoing Islamic State insurgency.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iraq_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/%D8%A7%D9%84%D9%81%D9%84%D9%88%D8%AC%D8%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/%D8%A7%D9%84%D9%81%D9%84%D9%88%D8%AC%D8%A9.jpg/330px-%D8%A7%D9%84%D9%81%D9%84%D9%88%D8%AC%D8%A9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "الفلوجة.jpg",
+          "width": 576,
+          "height": 358,
+          "title": "Fallujah",
+          "description": "City in Al Anbar, Iraq",
+          "extract": "Fallujah is a city in Al Anbar Governorate, Iraq. Situated on the Euphrates River, it is located roughly 69 kilometres (43 mi) to the west of the capital city of Baghdad and 50 kilometres (31 mi) from the neighboring city of Ramadi. The city is located in the region defined as Sunni Triangle by the United States, as the majority of its residents are Sunni Arabs. In 1947, Fallujah was a small town with a relatively small population but had grown to a population of about 250,900 people by 2018.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fallujah",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SaddamStatue.jpg/1280px-SaddamStatue.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SaddamStatue.jpg/1280px-SaddamStatue.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "saddamstatue.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "SaddamStatue",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iraq_War",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Iraq War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Iraq_War",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-12-1993-8056de1f",
+      "year": 1993,
+      "text": "NASA launches Space Shuttle Discovery on STS-51.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/1993_s51_IMAX_view_of_Discovery_from_Spas.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1993_s51_IMAX_view_of_Discovery_from_Spas.JPG/330px-1993_s51_IMAX_view_of_Discovery_from_Spas.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "1993_s51_imax_view_of_discovery_from_spas.jpg",
+        "width": 1260,
+        "height": 1009,
+        "title": "STS-51",
+        "description": "1993 American crewed spaceflight",
+        "extract": "STS-51 was a NASA Space Shuttle Discovery mission that launched the Advanced Communications Technology Satellite (ACTS) in September 1993. Discovery's 17th flight also featured the deployment and retrieval of the SPAS-ORFEUS satellite and its IMAX camera, which captured spectacular footage of Discovery in space. A spacewalk was also performed during the mission to evaluate tools and techniques for the STS-61 Hubble Space Telescope (HST) servicing mission later that year. STS-51 was the first shuttle mission to fly a Global Positioning System (GPS) receiver, a Trimble TANS Quadrex. It was mounted in an overhead window where limited field of view (FoV) and signal attenuation from the glass severely impacted receiver performance. Full triple-redundant 3-string GPS would not happen until 14 years later with STS-118 in 2007.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/STS-51",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/1993_s51_IMAX_view_of_Discovery_from_Spas.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/1993_s51_IMAX_view_of_Discovery_from_Spas.JPG/330px-1993_s51_IMAX_view_of_Discovery_from_Spas.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1993_s51_imax_view_of_discovery_from_spas.jpg",
+          "width": 1260,
+          "height": 1009,
+          "title": "STS-51",
+          "description": "1993 American crewed spaceflight",
+          "extract": "STS-51 was a NASA Space Shuttle Discovery mission that launched the Advanced Communications Technology Satellite (ACTS) in September 1993. Discovery's 17th flight also featured the deployment and retrieval of the SPAS-ORFEUS satellite and its IMAX camera, which captured spectacular footage of Discovery in space. A spacewalk was also performed during the mission to evaluate tools and techniques for the STS-61 Hubble Space Telescope (HST) servicing mission later that year. STS-51 was the first shuttle mission to fly a Global Positioning System (GPS) receiver, a Trimble TANS Quadrex. It was mounted in an overhead window where limited field of view (FoV) and signal attenuation from the glass severely impacted receiver performance. Full triple-redundant 3-string GPS would not happen until 14 years later with STS-118 in 2007.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-51",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/STS-51-crew.jpg/1280px-STS-51-crew.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/STS-51-crew.jpg/1280px-STS-51-crew.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "sts-51-crew.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "STS-51-crew",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-51",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "STS-51",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/STS-51",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "09-12-1992-9058a2c2",
+      "year": 1992,
+      "text": "Aboard Space Shuttle Endeavour, American Mae Jemison became the first Black woman to travel to space.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+        "width": 3680,
+        "height": 2448,
+        "title": "Space Shuttle Endeavour",
+        "description": "Space Shuttle orbiter (1992–2011)",
+        "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+          "width": 3680,
+          "height": 2448,
+          "title": "Space Shuttle Endeavour",
+          "description": "Space Shuttle orbiter (1992–2011)",
+          "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mae_Carol_Jemison.jpg/3840px-Mae_Carol_Jemison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mae_Carol_Jemison.jpg/330px-Mae_Carol_Jemison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mae_carol_jemison.jpg",
+          "width": 6204,
+          "height": 7755,
+          "title": "Mae Jemison",
+          "description": "American astronaut, doctor and engineer (born 1956)",
+          "extract": "Mae Carol Jemison is an American engineer, physician, and former NASA astronaut. She became the first African-American woman to travel into space when she served as a mission specialist aboard the Space Shuttle Endeavour in 1992. Jemison joined NASA's astronaut corps in 1987 and was selected for the STS-47 mission, during which the Endeavour orbited the Earth for nearly eight days on September 12–20, 1992.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mae_Jemison",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Endeavour_rollout_ceremony.jpg/1280px-Endeavour_rollout_ceremony.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Endeavour_rollout_ceremony.jpg/1280px-Endeavour_rollout_ceremony.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "endeavour_rollout_ceremony.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Endeavour rollout ceremony in April 1991",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Endeavour",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-12-1991-3730af9f",
+      "year": 1991,
+      "text": "NASA launches Space Shuttle Discovery on STS-48 to deploy the Upper Atmosphere Research Satellite.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+        "width": 3336,
+        "height": 2507,
+        "title": "Space Shuttle Discovery",
+        "description": "Space Shuttle orbiter (1984–2011)",
+        "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+          "width": 3336,
+          "height": 2507,
+          "title": "Space Shuttle Discovery",
+          "description": "Space Shuttle orbiter (1984–2011)",
+          "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/STS-48_UARS_deployment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/STS-48_UARS_deployment.jpg/330px-STS-48_UARS_deployment.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-48_uars_deployment.jpg",
+          "width": 3000,
+          "height": 2336,
+          "title": "STS-48",
+          "description": "1991 American crewed spaceflight to deploy the Upper Atmospheric Research Satellite",
+          "extract": "STS-48 was a Space Shuttle mission that launched on September 12, 1991, from Kennedy Space Center, Florida. The orbiter was Space Shuttle Discovery on her 13th flight. The primary payload was the Upper Atmosphere Research Satellite (UARS). The mission landed on September 18 at 12:38 a.m. EDT at Edwards Air Force Base on runway 22. The mission was completed in 81 revolutions of the Earth and traveled 3,530,369 km (2,193,670 mi). The 5 astronauts carried out a number of experiments and deployed several satellites. The total launch mass was 108,890 kg (240,060 lb) and the landing mass was 87,440 kg (192,770 lb).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-48",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/UARS_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/UARS_1.jpg/330px-UARS_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "uars_1.jpg",
+          "width": 900,
+          "height": 769,
+          "title": "Upper Atmosphere Research Satellite",
+          "description": "NASA-operated orbital observatory (1991-2011)",
+          "extract": "The Upper Atmosphere Research Satellite (UARS) was a NASA-operated orbital observatory whose mission was to study the Earth's atmosphere, particularly the protective ozone layer. The 5,900-kilogram (13,000 lb) satellite was deployed from Space Shuttle Discovery during the STS-48 mission on 15 September 1991. It entered Earth orbit at an operational altitude of 600 kilometers (370 mi), with an orbital inclination of 57 degrees.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Upper_Atmosphere_Research_Satellite",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Discovery",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-12-1966-2fc2eb6d",
+      "year": 1966,
+      "text": "Gemini 11, the penultimate mission of NASA's Gemini program, and the current human altitude record holder (except for the Apollo lunar missions).",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Gemini_11_Agena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gemini_11_Agena.jpg/330px-Gemini_11_Agena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gemini_11_agena.jpg",
+        "width": 3000,
+        "height": 3000,
+        "title": "Gemini 11",
+        "description": "1966 NASA crewed spaceflight",
+        "extract": "Gemini 11 was the ninth crewed spaceflight mission of NASA's Project Gemini, which flew from September 12 to 15, 1966. It was the 17th crewed American flight and the 25th spaceflight to that time. Astronauts Pete Conrad and Dick Gordon performed the first direct-ascent rendezvous with an Agena Target Vehicle, docking with it 1 hour 34 minutes after launch; used the Agena rocket engine to achieve a record high-apogee Earth orbit; and created a small amount of artificial gravity by spinning the two spacecraft connected by a tether. Gordon also performed two extra-vehicular activities for a total of 2 hours 41 minutes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gemini_11",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Gemini_11_Agena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gemini_11_Agena.jpg/330px-Gemini_11_Agena.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gemini_11_agena.jpg",
+          "width": 3000,
+          "height": 3000,
+          "title": "Gemini 11",
+          "description": "1966 NASA crewed spaceflight",
+          "extract": "Gemini 11 was the ninth crewed spaceflight mission of NASA's Project Gemini, which flew from September 12 to 15, 1966. It was the 17th crewed American flight and the 25th spaceflight to that time. Astronauts Pete Conrad and Dick Gordon performed the first direct-ascent rendezvous with an Agena Target Vehicle, docking with it 1 hour 34 minutes after launch; used the Agena rocket engine to achieve a record high-apogee Earth orbit; and created a small amount of artificial gravity by spinning the two spacecraft connected by a tether. Gordon also performed two extra-vehicular activities for a total of 2 hours 41 minutes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gemini_11",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gemini_11_patch.png/1280px-Gemini_11_patch.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Gemini_11_patch.png/1280px-Gemini_11_patch.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "gemini_11_patch.png",
+          "width": 800,
+          "height": 600,
+          "title": "Gemini_11_patch",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gemini_11",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gemini_11_prime_crew_%28Gordon_and_Conrad%29.jpg/1280px-Gemini_11_prime_crew_%28Gordon_and_Conrad%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gemini_11_prime_crew_%28Gordon_and_Conrad%29.jpg/1280px-Gemini_11_prime_crew_%28Gordon_and_Conrad%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "gemini_11_prime_crew_(gordon_and_conrad).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Gemini_11_prime_crew_(Gordon_and_Conrad)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gemini_11",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Gemini 11",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Gemini_11",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-12-2007-ee1570ac",
+      "year": 2007,
+      "text": "Former Philippine President Joseph Estrada is convicted of plunder.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Joseph_Estrada_and_Judge_Floro_2013jf_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Joseph_Estrada_and_Judge_Floro_2013jf_%28cropped%29.jpg/330px-Joseph_Estrada_and_Judge_Floro_2013jf_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "joseph_estrada_and_judge_floro_2013jf_(cropped).jpg",
+        "width": 940,
+        "height": 1386,
+        "title": "Joseph Estrada",
+        "description": "President of the Philippines from 1998 to 2001",
+        "extract": "Joseph Ejercito Estrada, also known by the nickname Erap, is a Filipino retired politician and former actor who served as the 13th president of the Philippines from 1998 until his removal from office in 2001. He served as the 14th mayor of San Juan from 1969 to 1986, the ninth vice president under Fidel V. Ramos from 1992 to 1998, and the 26th mayor of Manila, the country's capital, from 2013 to 2019. His presidency was the third-shortest in Philippine history, after Emilio Aguinaldo and Sergio Osmeña.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Joseph_Estrada",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Joseph_Estrada_and_Judge_Floro_2013jf_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Joseph_Estrada_and_Judge_Floro_2013jf_%28cropped%29.jpg/330px-Joseph_Estrada_and_Judge_Floro_2013jf_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "joseph_estrada_and_judge_floro_2013jf_(cropped).jpg",
+          "width": 940,
+          "height": 1386,
+          "title": "Joseph Estrada",
+          "description": "President of the Philippines from 1998 to 2001",
+          "extract": "Joseph Ejercito Estrada, also known by the nickname Erap, is a Filipino retired politician and former actor who served as the 13th president of the Philippines from 1998 until his removal from office in 2001. He served as the 14th mayor of San Juan from 1969 to 1986, the ninth vice president under Fidel V. Ramos from 1992 to 1998, and the 26th mayor of Manila, the country's capital, from 2013 to 2019. His presidency was the third-shortest in Philippine history, after Emilio Aguinaldo and Sergio Osmeña.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Joseph_Estrada",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/George_Cruikshank%2C_Seizing_the_Italian_Relics%2C_1815.jpg/3840px-George_Cruikshank%2C_Seizing_the_Italian_Relics%2C_1815.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/George_Cruikshank%2C_Seizing_the_Italian_Relics%2C_1815.jpg/330px-George_Cruikshank%2C_Seizing_the_Italian_Relics%2C_1815.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "george_cruikshank,_seizing_the_italian_relics,_1815.jpg",
+          "width": 4511,
+          "height": 2686,
+          "title": "Looting",
+          "description": "Indiscriminate taking of goods by force",
+          "extract": "Looting is the act of stealing, or the taking of goods by force, typically in the midst of a military, political, or other social crisis, such as war, natural disasters, or rioting. The proceeds of all these activities can be described as booty, loot, plunder, spoils, or pillage. Throughout history, the practice of war looting was often considered a customary right of victorious armies until the development of modern international humanitarian law.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Looting",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Joseph Estrada",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Joseph_Estrada",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-12-1984-6f1427c4",
+      "year": 1984,
+      "text": "Dwight Gooden sets the baseball record for strikeouts in a season by a rookie with 276, previously set by Herb Score with 246 in 1954. Gooden's 276 strikeouts that season, pitched in 218 innings, set the current record.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Dwight_Gooden_1986_by_Barry_Colla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Dwight_Gooden_1986_by_Barry_Colla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "dwight_gooden_1986_by_barry_colla.jpg",
+        "width": 304,
+        "height": 427,
+        "title": "Dwight Gooden",
+        "description": "American baseball player (born 1964)",
+        "extract": "Dwight Eugene Gooden, nicknamed \"Dr. K\" and \"Doc\", is an American former professional baseball pitcher who played 16 seasons in Major League Baseball (MLB). Gooden pitched from 1984 to 1994 and from 1996 to 2000 for the New York Mets, New York Yankees, Cleveland Indians, Houston Astros, and Tampa Bay Devil Rays. In a career spanning 430 games, he pitched 2,800+2⁄3 innings and posted a win–loss record of 194–112, with a 3.51 earned run average (ERA), and 2,293 strikeouts.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dwight_Gooden",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Dwight_Gooden_1986_by_Barry_Colla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/90/Dwight_Gooden_1986_by_Barry_Colla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "dwight_gooden_1986_by_barry_colla.jpg",
+          "width": 304,
+          "height": 427,
+          "title": "Dwight Gooden",
+          "description": "American baseball player (born 1964)",
+          "extract": "Dwight Eugene Gooden, nicknamed \"Dr. K\" and \"Doc\", is an American former professional baseball pitcher who played 16 seasons in Major League Baseball (MLB). Gooden pitched from 1984 to 1994 and from 1996 to 2000 for the New York Mets, New York Yankees, Cleveland Indians, Houston Astros, and Tampa Bay Devil Rays. In a career spanning 430 games, he pitched 2,800+2⁄3 innings and posted a win–loss record of 194–112, with a 3.51 earned run average (ERA), and 2,293 strikeouts.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dwight_Gooden",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tommy_Milone_gives_up_a_home_run_to_Mike_Trout_on_May_21%2C_2017.jpg/3840px-Tommy_Milone_gives_up_a_home_run_to_Mike_Trout_on_May_21%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tommy_Milone_gives_up_a_home_run_to_Mike_Trout_on_May_21%2C_2017.jpg/330px-Tommy_Milone_gives_up_a_home_run_to_Mike_Trout_on_May_21%2C_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tommy_milone_gives_up_a_home_run_to_mike_trout_on_may_21,_2017.jpg",
+          "width": 4000,
+          "height": 3000,
+          "title": "Baseball",
+          "description": "Bat-and-ball game",
+          "extract": "Baseball is a bat-and-ball sport played between two teams of nine players each, taking turns batting and fielding. The game occurs over the course of several plays, with each play beginning when a player on the fielding team, called the pitcher, throws a ball that a player on the batting team, called the batter, tries to hit with a bat. The objective of the offensive team is to hit the ball into the field of play, away from the other team's players, allowing its players to run the bases, having them advance counter-clockwise around four bases to score what are called \"runs\". The objective of the defensive team is to prevent batters from becoming runners, and to prevent runners advancing around the bases. A run is scored when a runner legally advances around the bases in order and touches home plate.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Baseball",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Swinging_strikeout.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Swinging_strikeout.jpg/330px-Swinging_strikeout.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "swinging_strikeout.jpg",
+          "width": 1400,
+          "height": 1326,
+          "title": "Strikeout",
+          "description": "In baseball, a batter called out due to three strikes",
+          "extract": "In baseball or softball, a strikeout occurs when a batter accumulates three strikes during a time at bat. It means the batter is out, unless the third strike is not caught by the catcher and the batter reaches first base safely as a result. A strikeout is a statistic recorded for both pitchers and batters, and is usually denoted by the letter K, or sometimes by the initialism SO. A \"strikeout looking\"—in which the batter does not swing and the third strike is called by the umpire—may be denoted by an inverted K.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Strikeout",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Dwight Gooden",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Dwight_Gooden",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "09-12-1983-c55b9a3a",
+      "year": 1983,
+      "text": "The USSR vetoes a United Nations Security Council Resolution deploring the Soviet destruction of Korean Air Lines Flight 007.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/20559-186-HL7442-B747-230B-ZRH-5%2780.jpg/3840px-20559-186-HL7442-B747-230B-ZRH-5%2780.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/20559-186-HL7442-B747-230B-ZRH-5%2780.jpg/330px-20559-186-HL7442-B747-230B-ZRH-5%2780.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "20559-186-hl7442-b747-230b-zrh-5'80.jpg",
+        "width": 5900,
+        "height": 3933,
+        "title": "Korean Air Lines Flight 007",
+        "description": "1983 aircraft shotdown over the Sea of Japan",
+        "extract": "Korean Air Lines Flight 007 was a scheduled Korean Air Lines flight from New York City to Seoul via Anchorage. On September 1, 1983, the flight was shot down by a Soviet Sukhoi Su-15 interceptor aircraft. The Boeing 747-230B airliner was en route from Anchorage to Seoul, but owing to a navigational mistake made by the crew, the airliner drifted from its planned route and flew through Soviet airspace. The Soviet Air Forces treated the unidentified aircraft as an intruding U.S. spy plane, and destroyed it with air-to-air missiles, after firing warning shots. The South Korean airliner eventually crashed into the sea near Moneron Island west of Sakhalin in the Sea of Japan, killing all 246 passengers and 23 crew aboard, including Larry McDonald, a United States representative. It is the worst Korean Air disaster to date.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_007",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/20559-186-HL7442-B747-230B-ZRH-5%2780.jpg/3840px-20559-186-HL7442-B747-230B-ZRH-5%2780.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/20559-186-HL7442-B747-230B-ZRH-5%2780.jpg/330px-20559-186-HL7442-B747-230B-ZRH-5%2780.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "20559-186-hl7442-b747-230b-zrh-5'80.jpg",
+          "width": 5900,
+          "height": 3933,
+          "title": "Korean Air Lines Flight 007",
+          "description": "1983 aircraft shotdown over the Sea of Japan",
+          "extract": "Korean Air Lines Flight 007 was a scheduled Korean Air Lines flight from New York City to Seoul via Anchorage. On September 1, 1983, the flight was shot down by a Soviet Sukhoi Su-15 interceptor aircraft. The Boeing 747-230B airliner was en route from Anchorage to Seoul, but owing to a navigational mistake made by the crew, the airliner drifted from its planned route and flew through Soviet airspace. The Soviet Air Forces treated the unidentified aircraft as an intruding U.S. spy plane, and destroyed it with air-to-air missiles, after firing warning shots. The South Korean airliner eventually crashed into the sea near Moneron Island west of Sakhalin in the Sea of Japan, killing all 246 passengers and 23 crew aboard, including Larry McDonald, a United States representative. It is the worst Korean Air disaster to date.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_007",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Soviet Union",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Soviet_Union",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-12-1962-947de849",
+      "year": 1962,
+      "text": "US President John F. Kennedy delivers his \"We choose to go to the Moon\" speech at Rice University.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "john_f._kennedy,_white_house_color_photo_portrait.jpg",
+        "width": 1419,
+        "height": 1840,
+        "title": "John F. Kennedy",
+        "description": "President of the United States from 1961 to 1963",
+        "extract": "John Fitzgerald Kennedy, also known as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. He was the youngest person elected president, at 43 years, and the first Catholic president. Kennedy served at the height of the Cold War, and the majority of his foreign policy concerned relations with the Soviet Union and Cuba. A member of the Democratic Party, Kennedy represented Massachusetts in both houses of the United States Congress before his presidency.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "john_f._kennedy,_white_house_color_photo_portrait.jpg",
+          "width": 1419,
+          "height": 1840,
+          "title": "John F. Kennedy",
+          "description": "President of the United States from 1961 to 1963",
+          "extract": "John Fitzgerald Kennedy, also known as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. He was the youngest person elected president, at 43 years, and the first Catholic president. Kennedy served at the height of the Cold War, and the majority of his foreign policy concerned relations with the Soviet Union and Cuba. A member of the Democratic Party, Kennedy represented Massachusetts in both houses of the United States Congress before his presidency.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/John_F._Kennedy_speaks_at_Rice_University.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/John_F._Kennedy_speaks_at_Rice_University.jpg/330px-John_F._Kennedy_speaks_at_Rice_University.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "john_f._kennedy_speaks_at_rice_university.jpg",
+          "width": 2034,
+          "height": 2954,
+          "title": "We choose to go to the Moon",
+          "description": "1962 speech by John F. Kennedy",
+          "extract": "The Address at Rice University on the Nation's Space Effort was a speech on September 12, 1962, by John F. Kennedy, the president of the United States. Its aim was to bolster public support for his proposal to land a man on the Moon before the end of the decade and bring him safely back to Earth. Kennedy gave the speech, largely written by presidential advisor and speechwriter Ted Sorensen, to a large crowd at Rice University Stadium in Houston, Texas.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/We_choose_to_go_to_the_Moon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/John_F._Kennedy_%E2%80%93_Presidential_Portrait_%281960%29_%28cropped%29.jpg/500px-John_F._Kennedy_%E2%80%93_Presidential_Portrait_%281960%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/John_F._Kennedy_%E2%80%93_Presidential_Portrait_%281960%29_%28cropped%29.jpg/500px-John_F._Kennedy_%E2%80%93_Presidential_Portrait_%281960%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "john_f._kennedy_–_presidential_portrait_(1960)_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "John_F._Kennedy_–_Presidential_Portrait_(1960)_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "John F. Kennedy",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+      "relatedPagesCount": 2
+    }
+  ]
+}

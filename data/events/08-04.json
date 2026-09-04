@@ -1,0 +1,667 @@
+{
+  "date": {
+    "month": 8,
+    "day": 4,
+    "formatted": "08-04"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "08-04-2007-87381653",
+      "year": 2007,
+      "text": "NASA's Phoenix Mars lander is launched.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Phoenix_landing.jpg/3840px-Phoenix_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Phoenix_landing.jpg/330px-Phoenix_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "phoenix_landing.jpg",
+        "width": 5200,
+        "height": 4800,
+        "title": "Phoenix (spacecraft)",
+        "description": "NASA Mars lander (2008)",
+        "extract": "Phoenix was an uncrewed space probe that landed on the surface of Mars on May 25, 2008, and operated until November 2, 2008. Phoenix was operational on Mars for 157 sols. Its instruments were used to assess the local habitability and to research the history of water on Mars. The mission was part of the Mars Scout Program; its total cost was $420 million, including the cost of launch.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Phoenix_(spacecraft)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Phoenix_landing.jpg/3840px-Phoenix_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Phoenix_landing.jpg/330px-Phoenix_landing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "phoenix_landing.jpg",
+          "width": 5200,
+          "height": 4800,
+          "title": "Phoenix (spacecraft)",
+          "description": "NASA Mars lander (2008)",
+          "extract": "Phoenix was an uncrewed space probe that landed on the surface of Mars on May 25, 2008, and operated until November 2, 2008. Phoenix was operational on Mars for 157 sols. Its instruments were used to assess the local habitability and to research the history of water on Mars. The mission was part of the Mars Scout Program; its total cost was $420 million, including the cost of launch.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Phoenix_(spacecraft)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mars_-_august_30_2021_-_flickr_-_kevin_m._gill.png",
+          "width": 1558,
+          "height": 1558,
+          "title": "Mars",
+          "description": "Fourth planet from the Sun",
+          "extract": "Mars is the fourth planet from the Sun. It is also known as the \"Red Planet\", for its orange-red appearance. Mars is a desert-like rocky planet with a tenuous atmosphere that is primarily carbon dioxide. At the average surface level the atmospheric pressure is a few thousandths of Earth's, atmospheric temperature ranges from −153 to 20 °C, and cosmic radiation is high. Mars retains some water, in the ground as well as thinly in the atmosphere, forming cirrus clouds, fog, frost, larger polar regions of permafrost and ice caps, but no bodies of liquid surface water. Its surface gravity is roughly a third of Earth's or double that of the Moon. Its mean diameter, 6,779 km (4,212 mi), is about half the Earth's, or twice the Moon's, and its surface area is the size of all the dry land of Earth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mars",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-04-1995-8f1d718a",
+      "year": 1995,
+      "text": "Operation Storm, the last major battle of the Croatian War of Independence begins.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Dubrovnik_Wartime_Stradun_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dubrovnik_Wartime_Stradun_%28cropped%29.jpg/330px-Dubrovnik_Wartime_Stradun_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "dubrovnik_wartime_stradun_(cropped).jpg",
+        "width": 702,
+        "height": 558,
+        "title": "Croatian War of Independence",
+        "description": "1991–95 war during the Yugoslav Wars",
+        "extract": "The Croatian War of Independence was an armed conflict fought in Croatia from 1991 to 1995 between Croat forces loyal to the Government of Croatia—which had declared independence from the Socialist Federal Republic of Yugoslavia (SFRY)—and the Serb-controlled Yugoslav People's Army (JNA) and local Serb forces, with the JNA ending its combat operations by 1992.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Croatian_War_of_Independence",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Dubrovnik_Wartime_Stradun_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dubrovnik_Wartime_Stradun_%28cropped%29.jpg/330px-Dubrovnik_Wartime_Stradun_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dubrovnik_wartime_stradun_(cropped).jpg",
+          "width": 702,
+          "height": 558,
+          "title": "Croatian War of Independence",
+          "description": "1991–95 war during the Yugoslav Wars",
+          "extract": "The Croatian War of Independence was an armed conflict fought in Croatia from 1991 to 1995 between Croat forces loyal to the Government of Croatia—which had declared independence from the Socialist Federal Republic of Yugoslavia (SFRY)—and the Serb-controlled Yugoslav People's Army (JNA) and local Serb forces, with the JNA ending its combat operations by 1992.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Croatian_War_of_Independence",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/CroatianSerbs.jpg/500px-CroatianSerbs.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/CroatianSerbs.jpg/500px-CroatianSerbs.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "croatianserbs.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Serb-populated areas in Croatia according to the 1981 census",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Storm",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Generals_Cosic_and_Clark_discuss_Bihac_pocket%2C_Washington_DC%2C_29_November_1994.jpg/330px-Generals_Cosic_and_Clark_discuss_Bihac_pocket%2C_Washington_DC%2C_29_November_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Generals_Cosic_and_Clark_discuss_Bihac_pocket%2C_Washington_DC%2C_29_November_1994.jpg/330px-Generals_Cosic_and_Clark_discuss_Bihac_pocket%2C_Washington_DC%2C_29_November_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "generals_cosic_and_clark_discuss_bihac_pocket,_washington_dc,_29_november_1994.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Croatian Brigadier General Krešimir Ćosić and US Army Lieutenant General Wesley Clark discussing the Siege of Bihać on 29 November 1994",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Storm",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Operation Storm",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Operation_Storm",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "08-04-1983-5543de7e",
+      "year": 1983,
+      "text": "Jean-Baptiste Ouédraogo, the president of Upper Volta, was ousted in a coup d'état led by Thomas Sankara.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Jean-Baptiste_Ou%C3%A9draogo_at_book_signing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Jean-Baptiste_Ou%C3%A9draogo_at_book_signing.jpg/330px-Jean-Baptiste_Ou%C3%A9draogo_at_book_signing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jean-baptiste_ouédraogo_at_book_signing.jpg",
+        "width": 597,
+        "height": 530,
+        "title": "Jean-Baptiste Ouédraogo",
+        "description": "Burkinabé politician (born 1942)",
+        "extract": "Jean-Baptiste Philippe Ouédraogo, also referred to by his initials JBO, is a Burkinabé physician and retired military officer who served as President of Upper Volta from 8 November 1982 to 4 August 1983. He has since mediated a few national political disputes and operates a clinic in Somgandé.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jean-Baptiste_Ou%C3%A9draogo",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Jean-Baptiste_Ou%C3%A9draogo_at_book_signing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Jean-Baptiste_Ou%C3%A9draogo_at_book_signing.jpg/330px-Jean-Baptiste_Ou%C3%A9draogo_at_book_signing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jean-baptiste_ouédraogo_at_book_signing.jpg",
+          "width": 597,
+          "height": 530,
+          "title": "Jean-Baptiste Ouédraogo",
+          "description": "Burkinabé politician (born 1942)",
+          "extract": "Jean-Baptiste Philippe Ouédraogo, also referred to by his initials JBO, is a Burkinabé physician and retired military officer who served as President of Upper Volta from 8 November 1982 to 4 August 1983. He has since mediated a few national political disputes and operates a clinic in Somgandé.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jean-Baptiste_Ou%C3%A9draogo",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Thomas_Sankara_in_Harlem_%281984%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Thomas_Sankara_in_Harlem_%281984%29.png/330px-Thomas_Sankara_in_Harlem_%281984%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "thomas_sankara_in_harlem_(1984).png",
+          "width": 671,
+          "height": 860,
+          "title": "Thomas Sankara",
+          "description": "President of Burkina Faso from 1983 to 1987",
+          "extract": "Thomas Isidore Noël Sankara was a Burkinabé military officer, politician and revolutionary who served as the first president of Burkina Faso from 1983 until his assassination in 1987. Ideologically a Marxist and pan-Africanist, he previously also served as the fifth prime minister of Upper Volta from January to May 1983.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_Sankara",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Jean-Baptiste Ouédraogo",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Jean-Baptiste_Ou%C3%A9draogo",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "08-04-1977-9b75b912",
+      "year": 1977,
+      "text": "U.S. President Jimmy Carter signs legislation creating the United States Department of Energy.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg/330px-Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jimmy_carter_official_portrait2_(3x4_cropped).jpg",
+        "width": 1528,
+        "height": 2027,
+        "title": "Jimmy Carter",
+        "description": "President of the United States from 1977 to 1981",
+        "extract": "James Earl Carter Jr. was an American politician and humanitarian who served as the 39th president of the United States from 1977 to 1981. A member of the Democratic Party, Carter served as the 76th governor of Georgia from 1971 to 1975 and in the Georgia State Senate from 1963 to 1967. He lived longer than any other president in U.S. history, reaching age 100.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg/330px-Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jimmy_carter_official_portrait2_(3x4_cropped).jpg",
+          "width": 1528,
+          "height": 2027,
+          "title": "Jimmy Carter",
+          "description": "President of the United States from 1977 to 1981",
+          "extract": "James Earl Carter Jr. was an American politician and humanitarian who served as the 39th president of the United States from 1977 to 1981. A member of the Democratic Party, Carter served as the 76th governor of Georgia from 1971 to 1975 and in the Georgia State Senate from 1963 to 1967. He lived longer than any other president in U.S. history, reaching age 100.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jimmy_Carter",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "official_presidential_portrait_of_president_donald_j._trump_(2025).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/President_of_the_United_States",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "President of the United States",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/President_of_the_United_States",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-04-1704-5aac7d51",
+      "year": 1704,
+      "text": "War of the Spanish Succession: A combined Anglo-Dutch fleet under the command of George Rooke and allied with Archduke Charles captured Gibraltar from Spain.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Final_War_of_the_Spanish_Succession_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Final_War_of_the_Spanish_Succession_Collage.jpg/330px-Final_War_of_the_Spanish_Succession_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "final_war_of_the_spanish_succession_collage.jpg",
+        "width": 2880,
+        "height": 2880,
+        "title": "War of the Spanish Succession",
+        "description": "1701–1714 European great power conflict",
+        "extract": "The War of the Spanish Succession was a conflict between the European great powers, fought between 1701 and 1714. The death of the childless Charles II of Spain in November 1700 led to a succession crisis, the rival claimants being Philip of Anjou, grandson of Louis XIV of France, and Archduke Charles of Austria, supported by the Grand Alliance. Related conflicts include the Great Northern War and Queen Anne's War in North America.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Final_War_of_the_Spanish_Succession_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Final_War_of_the_Spanish_Succession_Collage.jpg/330px-Final_War_of_the_Spanish_Succession_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "final_war_of_the_spanish_succession_collage.jpg",
+          "width": 2880,
+          "height": 2880,
+          "title": "War of the Spanish Succession",
+          "description": "1701–1714 European great power conflict",
+          "extract": "The War of the Spanish Succession was a conflict between the European great powers, fought between 1701 and 1714. The death of the childless Charles II of Spain in November 1700 led to a succession crisis, the rival claimants being Philip of Anjou, grandson of Louis XIV of France, and Archduke Charles of Austria, supported by the Grand Alliance. Related conflicts include the Great Northern War and Queen Anne's War in North America.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/George_Rooke.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/George_Rooke.jpg/330px-George_Rooke.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "george_rooke.jpg",
+          "width": 1040,
+          "height": 1280,
+          "title": "George Rooke",
+          "description": "Royal Navy officer and politician (1650–1709)",
+          "extract": "Admiral of the Fleet Sir George Rooke was a Royal Navy officer and politician. As a junior officer he saw action at the Battle of Solebay and again at the Battle of Schooneveld during the Third Anglo-Dutch War. As a captain, he conveyed Prince William of Orange to England and took part in the Battle of Bantry Bay during the Williamite War in Ireland.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/George_Rooke",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Johann_Gottfried_Auerbach_004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Johann_Gottfried_Auerbach_004.jpg/330px-Johann_Gottfried_Auerbach_004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "johann_gottfried_auerbach_004.jpg",
+          "width": 1335,
+          "height": 2048,
+          "title": "Charles VI, Holy Roman Emperor",
+          "description": "Holy Roman Emperor from 1711 to 1740",
+          "extract": "Charles VI was Holy Roman Emperor and ruler of the Austrian Habsburg monarchy from 1711 until his death, succeeding his elder brother, Joseph I. He unsuccessfully claimed the throne of Spain following the death of his relative Charles II of Spain. In 1708, he married Elisabeth Christine of Brunswick-Wolfenbüttel, by whom he had his four children: Leopold Johann, Maria Theresa, Maria Anna, and Maria Amalia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Charles_VI%2C_Holy_Roman_Emperor",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "War of the Spanish Succession",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "08-04-1356-c7c0ad72",
+      "year": 1356,
+      "text": "Hundred Years' War: A large-scale mounted raid by Anglo-Gascon forces began under the command of Edward the Black Prince.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Schlacht_von_Azincourt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schlacht_von_Azincourt.jpg/330px-Schlacht_von_Azincourt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "schlacht_von_azincourt.jpg",
+        "width": 3501,
+        "height": 2333,
+        "title": "Hundred Years' War",
+        "description": "Medieval Anglo-French conflicts, 1337–1453",
+        "extract": "The Hundred Years' War was a series of conflicts between the kingdoms of England and France and a civil war in France during the late Middle Ages. It emerged from feudal disputes over the Duchy of Aquitaine and was triggered by a claim to the French throne made by Edward III of England. The war grew into a broader military, economic, and political struggle involving factions from across Western Europe, fuelled by emerging nationalism on both sides. The periodisation of the war typically charts it as taking place over 116 years. However, it was an intermittent conflict which was frequently interrupted by external factors, such as the Black Death, and several years of truces.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hundred_Years'_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Schlacht_von_Azincourt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schlacht_von_Azincourt.jpg/330px-Schlacht_von_Azincourt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "schlacht_von_azincourt.jpg",
+          "width": 3501,
+          "height": 2333,
+          "title": "Hundred Years' War",
+          "description": "Medieval Anglo-French conflicts, 1337–1453",
+          "extract": "The Hundred Years' War was a series of conflicts between the kingdoms of England and France and a civil war in France during the late Middle Ages. It emerged from feudal disputes over the Duchy of Aquitaine and was triggered by a claim to the French throne made by Edward III of England. The war grew into a broader military, economic, and political struggle involving factions from across Western Europe, fuelled by emerging nationalism on both sides. The periodisation of the war typically charts it as taking place over 116 years. However, it was an intermittent conflict which was frequently interrupted by external factors, such as the Black Death, and several years of truces.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hundred_Years'_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Battle-poitiers%281356%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Battle-poitiers%281356%29.jpg/330px-Battle-poitiers%281356%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "battle-poitiers(1356).jpg",
+          "width": 1658,
+          "height": 1446,
+          "title": "Black Prince's chevauchée of 1356",
+          "description": "English raid of the Hundred Years' War",
+          "extract": "An Anglo-Gascon force under Edward, the Black Prince, conducted a large-scale chevauchée between 4 August and 2 October 1356 as a part of the Hundred Years' War. The war had broken out in 1337, but a truce and the ravages of the Black Death had restricted the extent of the fighting since 1347. By 1355 the French king, John II, was determined to resume full-scale war. That autumn, while Edward III of England threatened northern France, his son, Edward of Woodstock, later known as the Black Prince, carried out a devastating mounted raid, or chevauchée: an Anglo-Gascon army marched from the English possession of Gascony 675 miles (1,086 km) to Narbonne and back. The French refused battle, despite suffering enormous economic damage.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Black_Prince's_chevauch%C3%A9e_of_1356",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/TombaPrincepNegre_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/TombaPrincepNegre_%28cropped%29.JPG/330px-TombaPrincepNegre_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tombaprincepnegre_(cropped).jpg",
+          "width": 800,
+          "height": 894,
+          "title": "Edward the Black Prince",
+          "description": "Heir apparent of Edward III of England (1330–1376)",
+          "extract": "Edward of Woodstock, known as the Black Prince, was the eldest son and heir apparent of King Edward III of England. He died before his father, and his son Richard II therefore succeeded to the throne instead. Edward was one of the most successful English commanders of the Hundred Years' War (1337–1453). He was regarded by English contemporaries as a model of chivalry and one of the greatest knights of his era, while French sources remember him for his brutality.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Hundred Years' War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Hundred_Years'_War",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-04-1964-3c0ef6dc",
+      "year": 1964,
+      "text": "Civil rights movement: Civil rights workers Michael Schwerner, Andrew Goodman and James Chaney are found dead in Mississippi after disappearing on June 21.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg/330px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "civil_rights_march_on_washington,_d.c._(leaders_marching_from_the_washington_monument_to_the_lincoln_memorial)_-_nara_-_542010.jpg",
+        "width": 1968,
+        "height": 1310,
+        "title": "Civil rights movement",
+        "description": "1954–1968 U.S. social movement",
+        "extract": "The civil rights movement was a social movement in the United States from 1954 to 1968 which aimed to abolish legalized racial segregation, discrimination, and disenfranchisement in the country, which most commonly affected African Americans. The movement had origins in the Reconstruction era in the late 19th century, and modern roots in the 1940s and in Mahatma Gandhi's nonviolent movement in India. After years of nonviolent protests and civil disobedience campaigns, the civil rights movement achieved many of its legislative goals in the 1960s, during which it secured new protections in federal law for the civil rights of all Americans, including the Civil Rights Act of 1964, the Voting Rights Act of 1965, and the Civil Rights Act of 1968.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Civil_rights_movement",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg/330px-Civil_Rights_March_on_Washington%2C_D.C._%28Leaders_marching_from_the_Washington_Monument_to_the_Lincoln_Memorial%29_-_NARA_-_542010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "civil_rights_march_on_washington,_d.c._(leaders_marching_from_the_washington_monument_to_the_lincoln_memorial)_-_nara_-_542010.jpg",
+          "width": 1968,
+          "height": 1310,
+          "title": "Civil rights movement",
+          "description": "1954–1968 U.S. social movement",
+          "extract": "The civil rights movement was a social movement in the United States from 1954 to 1968 which aimed to abolish legalized racial segregation, discrimination, and disenfranchisement in the country, which most commonly affected African Americans. The movement had origins in the Reconstruction era in the late 19th century, and modern roots in the 1940s and in Mahatma Gandhi's nonviolent movement in India. After years of nonviolent protests and civil disobedience campaigns, the civil rights movement achieved many of its legislative goals in the 1960s, during which it secured new protections in federal law for the civil rights of all Americans, including the Civil Rights Act of 1964, the Voting Rights Act of 1965, and the Civil Rights Act of 1968.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Civil_rights_movement",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Michael_Schwerner_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Michael_Schwerner_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "michael_schwerner_(3x4_cropped).jpg",
+          "width": 231,
+          "height": 298,
+          "title": "Michael Schwerner",
+          "description": "American civil rights activist and murder victim (1939–1964)",
+          "extract": "Michael Henry \"Mickey\" Schwerner was an American civil rights activist. He was one of three civil rights workers murdered in rural Neshoba County, Mississippi, by members of the Ku Klux Klan. Schwerner and two co-workers, James Chaney and Andrew Goodman, were killed in response to their civil rights work, which included promoting voting registration among African Americans, most of whom had been disenfranchised in the state since 1890.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Michael_Schwerner",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Andrew_Goodman_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Andrew_Goodman_%283x4_cropped%29.jpg/330px-Andrew_Goodman_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "andrew_goodman_(3x4_cropped).jpg",
+          "width": 938,
+          "height": 1210,
+          "title": "Andrew Goodman (activist)",
+          "description": "American civil rights activist and murder victim (1943–1964)",
+          "extract": "Andrew Goodman was an American civil rights activist. He was one of three civil rights workers murdered in Philadelphia, Mississippi, by members of the Ku Klux Klan in 1964. Goodman was a volunteer for the Freedom Summer campaign that sought to register African Americans to vote in Mississippi and to set up Freedom Schools for black Southerners. His two fellow activists, James Chaney and Michael Schwerner, worked for the Congress of Racial Equality (CORE).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Andrew_Goodman_(activist)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Civil rights movement",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Civil_rights_movement",
+      "relatedPagesCount": 7
+    },
+    {
+      "id": "08-04-1953-b1f933dc",
+      "year": 1953,
+      "text": "Alfred C. Glassell Jr. caught a black marlin weighing 1,560 lb (710 kg) (pictured) off the coast of Peru, setting the record for the largest bony fish caught by hand.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Alfred_Glassell%27s_black_marlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alfred_Glassell%27s_black_marlin.jpg/330px-Alfred_Glassell%27s_black_marlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "alfred_glassell's_black_marlin.jpg",
+        "width": 1439,
+        "height": 2048,
+        "title": "Alfred C. Glassell Jr.",
+        "description": "American businessman and fisherman (1913–2008)",
+        "extract": "Alfred Curry Glassell Jr. was an American businessman and philanthropist. He made a fortune in the oil and gas industry in Louisiana and Texas and was a co-founder of Transcontinental Pipeline. He amassed a significant collection of gold artifacts and had a long association with the Museum of Fine Arts, Houston, also making significant contributions to the Houston Museum of Natural Science and in oceanographic research. As a sport fisherman he set a longstanding record for the largest black marlin caught by handheld rod, weighing 1,560 pounds (710 kg), which is recognised by the International Game Fish Association (IGFA) as the largest bony fish caught by hand.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_C._Glassell_Jr.",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Alfred_Glassell%27s_black_marlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alfred_Glassell%27s_black_marlin.jpg/330px-Alfred_Glassell%27s_black_marlin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "alfred_glassell's_black_marlin.jpg",
+          "width": 1439,
+          "height": 2048,
+          "title": "Alfred C. Glassell Jr.",
+          "description": "American businessman and fisherman (1913–2008)",
+          "extract": "Alfred Curry Glassell Jr. was an American businessman and philanthropist. He made a fortune in the oil and gas industry in Louisiana and Texas and was a co-founder of Transcontinental Pipeline. He amassed a significant collection of gold artifacts and had a long association with the Museum of Fine Arts, Houston, also making significant contributions to the Houston Museum of Natural Science and in oceanographic research. As a sport fisherman he set a longstanding record for the largest black marlin caught by handheld rod, weighing 1,560 pounds (710 kg), which is recognised by the International Game Fish Association (IGFA) as the largest bony fish caught by hand.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Alfred_C._Glassell_Jr.",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Istiompax_indica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Istiompax_indica.jpg/330px-Istiompax_indica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "istiompax_indica.jpg",
+          "width": 1688,
+          "height": 2048,
+          "title": "Black marlin",
+          "description": "Species of fish",
+          "extract": "The black marlin is a species of marlin found in tropical and subtropical areas of the Indian and Pacific Oceans approximately between 40 degrees North and 45 degrees South, while in some instances venturing into more temperate waters. Reaching lengths of over 4.5 m (15 ft), it is one of the largest marlins and also one of the largest bony fish. Marlin are among the fastest fish, but speeds may be exaggerated in popular media, such as reports of 129 km/h (80 mph). A 2016 study estimated maximum swimming speeds from muscle contraction times, which in turn limit the tail-beat frequency; the study suggested a theoretical upper limit for the black marlin's burst speed of 36 km/h (22 mph).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Black_marlin",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Osteichthyes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Osteichthyes.jpg/330px-Osteichthyes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "osteichthyes.jpg",
+          "width": 1772,
+          "height": 948,
+          "title": "Osteichthyes",
+          "description": "Diverse clade of vertebrate animals",
+          "extract": "Osteichthyes, also known as osteichthyans or commonly referred to as the bony fish, is a diverse clade of vertebrate animals that have endoskeletons primarily composed of bone tissue, encompassing both the conventional bony fishes and, in a cladistic sense, all tetrapods, including mammals and reptiles. They can be contrasted with the Chondrichthyes and the extinct placoderms and acanthodians, which have endoskeletons primarily composed of cartilage. The vast majority of extant fish are members of Osteichthyes, being an extremely diverse and abundant group consisting of 45 orders, over 435 families and 28,000 species.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Osteichthyes",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Alfred C. Glassell Jr.",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Alfred_C._Glassell_Jr.",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-04-2020-dce4e6a9",
+      "year": 2020,
+      "text": "A large explosion of ammonium nitrate stored at the Port of Beirut in Lebanon killed 218 people and caused US$15 billion in damage.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Damages_after_2020_Beirut_explosions_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Damages_after_2020_Beirut_explosions_1.jpg/330px-Damages_after_2020_Beirut_explosions_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "damages_after_2020_beirut_explosions_1.jpg",
+        "width": 1000,
+        "height": 615,
+        "title": "2020 Beirut explosion",
+        "description": "Ammonium nitrate explosion in Lebanon",
+        "extract": "On 4 August 2020, a major explosion occurred in Beirut, Lebanon, caused by the ignition of 2,750 tonnes of ammonium nitrate. The chemical, confiscated in 2014 from the cargo ship MV Rhosus and stored at the Port of Beirut without adequate safety measures for six years, detonated after a fire broke out in a nearby warehouse. The explosion resulted in at least 218 deaths, 7,000 injuries, and approximately 300,000 displaced people, alongside property damage estimated at US$15 billion. The blast released energy comparable to 1.1 kilotons of TNT, ranking it among the most powerful non-nuclear explosions ever recorded and the largest single detonation of ammonium nitrate.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2020_Beirut_explosion",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Damages_after_2020_Beirut_explosions_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Damages_after_2020_Beirut_explosions_1.jpg/330px-Damages_after_2020_Beirut_explosions_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "damages_after_2020_beirut_explosions_1.jpg",
+          "width": 1000,
+          "height": 615,
+          "title": "2020 Beirut explosion",
+          "description": "Ammonium nitrate explosion in Lebanon",
+          "extract": "On 4 August 2020, a major explosion occurred in Beirut, Lebanon, caused by the ignition of 2,750 tonnes of ammonium nitrate. The chemical, confiscated in 2014 from the cargo ship MV Rhosus and stored at the Port of Beirut without adequate safety measures for six years, detonated after a fire broke out in a nearby warehouse. The explosion resulted in at least 218 deaths, 7,000 injuries, and approximately 300,000 displaced people, alongside property damage estimated at US$15 billion. The blast released energy comparable to 1.1 kilotons of TNT, ranking it among the most powerful non-nuclear explosions ever recorded and the largest single detonation of ammonium nitrate.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2020_Beirut_explosion",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ammonium-nitrate-xtal-3D-balls-A.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ammonium-nitrate-xtal-3D-balls-A.png/330px-Ammonium-nitrate-xtal-3D-balls-A.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ammonium-nitrate-xtal-3d-balls-a.png",
+          "width": 1040,
+          "height": 1100,
+          "title": "Ammonium nitrate",
+          "description": "Chemical compound with formula NH4NO3",
+          "extract": "Ammonium nitrate is a chemical compound with the formula NH4NO3. It is a white crystalline salt consisting of ions of ammonium and nitrate. It is highly soluble in water and hygroscopic as a solid, but does not form hydrates. It is predominantly used in agriculture as a high-nitrogen fertilizer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ammonium_nitrate",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Hafen_von_Beirut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hafen_von_Beirut.jpg/330px-Hafen_von_Beirut.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hafen_von_beirut.jpg",
+          "width": 1024,
+          "height": 686,
+          "title": "Port of Beirut",
+          "description": "Port in Lebanon and quarter of Beirut",
+          "extract": "The Port of Beirut is the main port in Lebanon on the eastern part of the Saint George Bay on Beirut's northern Mediterranean coast, west of the Beirut River. It is one of the largest and busiest ports on the Eastern Mediterranean.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Port_of_Beirut",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "2020 Beirut explosion",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2020_Beirut_explosion",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "08-04-2018-eac487dd",
+      "year": 2018,
+      "text": "Syrian civil war: The Syrian Democratic Forces (SDF) expel the Islamic State of Iraq and the Levant (ISIL) from the Iraq–Syria border, concluding the second phase of the Deir ez-Zor campaign.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bombed_out_vehicles_aleppo.jpg",
+        "width": 1210,
+        "height": 658,
+        "title": "Syrian civil war",
+        "description": "2011–2024 armed conflict in Syria",
+        "extract": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war even though clashes have continued into 2026.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bombed_out_vehicles_aleppo.jpg",
+          "width": 1210,
+          "height": 658,
+          "title": "Syrian civil war",
+          "description": "2011–2024 armed conflict in Syria",
+          "extract": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war even though clashes have continued into 2026.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg/500px-People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg/500px-People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "people's_defense_units_defending_ras_al-ayn_against_al-nusra_front_terrorists_(8).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "People's_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_(8)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rebel_rocket_artillery_%28Hama_March_2017%29.png/500px-Rebel_rocket_artillery_%28Hama_March_2017%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rebel_rocket_artillery_%28Hama_March_2017%29.png/500px-Rebel_rocket_artillery_%28Hama_March_2017%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "rebel_rocket_artillery_(hama_march_2017).png",
+          "width": 800,
+          "height": 600,
+          "title": "Rebel_rocket_artillery_(Hama_March_2017)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Syrian civil war",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+      "relatedPagesCount": 5
+    }
+  ]
+}

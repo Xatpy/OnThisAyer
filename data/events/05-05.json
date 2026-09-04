@@ -1,0 +1,595 @@
+{
+  "date": {
+    "month": 5,
+    "day": 5,
+    "formatted": "05-05"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "05-05-1961-d75c5e00",
+      "year": 1961,
+      "text": "Project Mercury: American astronaut Alan Shepard made a sub-orbital spaceflight on board Freedom 7, becoming the second person to travel into outer space.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Business_suit_portrait_of_Al_Shepard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Business_suit_portrait_of_Al_Shepard.jpg/330px-Business_suit_portrait_of_Al_Shepard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "business_suit_portrait_of_al_shepard.jpg",
+        "width": 714,
+        "height": 900,
+        "title": "Alan Shepard",
+        "description": "American astronaut (1923–1998)",
+        "extract": "Alan Bartlett Shepard Jr. was an American astronaut. In 1961, he became the second person and the first American to travel into space and, in 1971, he became the fifth and oldest person to walk on the Moon, at age 47.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Alan_Shepard",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Business_suit_portrait_of_Al_Shepard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Business_suit_portrait_of_Al_Shepard.jpg/330px-Business_suit_portrait_of_Al_Shepard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "business_suit_portrait_of_al_shepard.jpg",
+          "width": 714,
+          "height": 900,
+          "title": "Alan Shepard",
+          "description": "American astronaut (1923–1998)",
+          "extract": "Alan Bartlett Shepard Jr. was an American astronaut. In 1961, he became the second person and the first American to travel into space and, in 1971, he became the fifth and oldest person to walk on the Moon, at age 47.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Alan_Shepard",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Riding_on_a_Sounding_Rocket.webm/1280px--Riding_on_a_Sounding_Rocket.webm.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Riding_on_a_Sounding_Rocket.webm/330px--Riding_on_a_Sounding_Rocket.webm.jpg",
+          "canonicalKey": "-riding_on_a_sounding_rocket.webm.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Sub-orbital spaceflight",
+          "description": "Spaceflight where the spacecraft does not go into orbit",
+          "extract": "A sub-orbital spaceflight is a spaceflight in which the vehicle reaches outer space, but its trajectory intersects the surface of the gravitating body from which it was launched. Hence, it will not complete one orbital revolution, will not become an artificial satellite nor will it reach escape velocity.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sub-orbital_spaceflight",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Alan_Shepard_during_flight_5.5.61.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Alan_Shepard_during_flight_5.5.61.jpg/330px-Alan_Shepard_during_flight_5.5.61.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "alan_shepard_during_flight_5.5.61.jpg",
+          "width": 2835,
+          "height": 2144,
+          "title": "Mercury-Redstone 3",
+          "description": "First United States human spaceflight (1961)",
+          "extract": "Mercury-Redstone 3, or Freedom 7, was the first United States human spaceflight, on May 5, 1961, piloted by astronaut Alan Shepard. It was the first crewed flight of Project Mercury. The project had the ultimate objective of putting an astronaut into orbit around the Earth and returning him safely. Shepard's mission was a 15-minute suborbital flight with the primary objective of demonstrating his ability to withstand the high g-forces of launch and atmospheric re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mercury-Redstone_3",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Project Mercury",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Project_Mercury",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "05-05-1985-456fe139",
+      "year": 1985,
+      "text": "Ronald Reagan visits the military cemetery at Bitburg and the site of the Bergen-Belsen concentration camp, where he makes a speech.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+        "width": 2399,
+        "height": 3000,
+        "title": "Ronald Reagan",
+        "description": "President of the United States from 1981 to 1989",
+        "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+          "width": 2399,
+          "height": 3000,
+          "title": "Ronald Reagan",
+          "description": "President of the United States from 1981 to 1989",
+          "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Visit_by_U.S._President_Ronald_Reagan_to_Bitburg_military_cemetery_1985%2C_people_on_cemetery_1_-0002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Visit_by_U.S._President_Ronald_Reagan_to_Bitburg_military_cemetery_1985%2C_people_on_cemetery_1_-0002.jpg/330px-Visit_by_U.S._President_Ronald_Reagan_to_Bitburg_military_cemetery_1985%2C_people_on_cemetery_1_-0002.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "visit_by_u.s._president_ronald_reagan_to_bitburg_military_cemetery_1985,_people_on_cemetery_1_-0002.jpg",
+          "width": 2981,
+          "height": 1952,
+          "title": "Bitburg controversy",
+          "description": "1985 US presidential visit to West Germany",
+          "extract": "The Bitburg controversy concerned a ceremonial visit by Ronald Reagan, the incumbent President of the United States, to a German military cemetery in Bitburg, West Germany in May 1985. The visit was intended to commemorate the 40th anniversary of the end of World War II in Europe, but aroused considerable criticism from Jewish communities within the United States and around the world when it became known that 49 of the 2,000 German soldiers buried at the site had been members of the Waffen-SS, the military arm of Nazi Germany's Schutzstaffel (SS). The entire SS had been judged to be a criminal organisation at the Nuremberg trials. Although not part of the original itinerary, as part of their own reconciliatory gesture, Reagan and West German Chancellor Helmut Kohl made an impromptu visit to the Bergen-Belsen concentration camp before visiting Bitburg, thus reducing the time Reagan had to spend at Kolmeshöhe Military Cemetery to only eight minutes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bitburg_controversy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Bitburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bitburg.jpg/330px-Bitburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bitburg.jpg",
+          "width": 2576,
+          "height": 1932,
+          "title": "Bitburg",
+          "description": "Town in Rhineland-Palatinate, Germany",
+          "extract": "Bitburg is a city in Germany, in the state of Rhineland-Palatinate approximately 25 km northwest of Trier and 50 km northeast of Luxembourg City. The American Spangdahlem Air Base is located nearby.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bitburg",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Ronald Reagan",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-05-1877-bccae713",
+      "year": 1877,
+      "text": "American Indian Wars: Sitting Bull leads his band of Lakota into Canada to avoid harassment by the United States Army under Colonel Nelson Miles.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg/330px-U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "u.s._army-cavalry_pursuing_indians-1876_(cropped).jpg",
+        "width": 1594,
+        "height": 1087,
+        "title": "American Indian Wars",
+        "description": "Frontier conflicts in North America, 1609–1890s",
+        "extract": "The American Indian Wars, also known as the American Frontier Wars, and the Indian Wars, were initially fought by European colonial empires, the United States, and briefly the Confederate States of America and Republic of Texas against various American Indian tribes in North America. These conflicts occurred from the time of the earliest colonial settlements in the 17th century until the end of the 19th century. The various conflicts resulted from a wide variety of factors, the most common being the desire of settlers and governments for tribal lands. The European powers and their colonies enlisted allied Indian tribes to help them conduct warfare against each other's colonial settlements. After the American Revolution, many conflicts were local to specific states or regions and frequently involved disputes over land use; many involved retaliatory violence.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/American_Indian_Wars",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg/330px-U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "u.s._army-cavalry_pursuing_indians-1876_(cropped).jpg",
+          "width": 1594,
+          "height": 1087,
+          "title": "American Indian Wars",
+          "description": "Frontier conflicts in North America, 1609–1890s",
+          "extract": "The American Indian Wars, also known as the American Frontier Wars, and the Indian Wars, were initially fought by European colonial empires, the United States, and briefly the Confederate States of America and Republic of Texas against various American Indian tribes in North America. These conflicts occurred from the time of the earliest colonial settlements in the 17th century until the end of the 19th century. The various conflicts resulted from a wide variety of factors, the most common being the desire of settlers and governments for tribal lands. The European powers and their colonies enlisted allied Indian tribes to help them conduct warfare against each other's colonial settlements. After the American Revolution, many conflicts were local to specific states or regions and frequently involved disputes over land use; many involved retaliatory violence.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/American_Indian_Wars",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sitting_Bull_by_D_F_Barry_ca_1883_Dakota_Territory.jpg/3840px-Sitting_Bull_by_D_F_Barry_ca_1883_Dakota_Territory.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Sitting_Bull_by_D_F_Barry_ca_1883_Dakota_Territory.jpg/330px-Sitting_Bull_by_D_F_Barry_ca_1883_Dakota_Territory.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sitting_bull_by_d_f_barry_ca_1883_dakota_territory.jpg",
+          "width": 4572,
+          "height": 6302,
+          "title": "Sitting Bull",
+          "description": "Hunkpapa Lakota leader (1831–1890)",
+          "extract": "Sitting Bull was a Hunkpapa Lakota leader who led his people during years of resistance against United States government policies. Sitting Bull was killed by Indian agency police accompanied by U.S. officers and supported by U.S. troops on the Standing Rock Indian Reservation during an attempt to arrest him at a time when authorities feared that he would join the Ghost Dance movement.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sitting_Bull",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/En-chief-sitting-bull.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/En-chief-sitting-bull.jpg/330px-En-chief-sitting-bull.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "en-chief-sitting-bull.jpg",
+          "width": 2129,
+          "height": 3052,
+          "title": "Lakota people",
+          "description": "Indigenous people of the Great Plains",
+          "extract": "The Lakota are a Native American people. Also known as the Teton Sioux, they are one of the three prominent subcultures of the Sioux people, with the Eastern Dakota (Santee) and Western Dakota. Their current lands are in North and South Dakota. They speak Lakȟótiyapi—the Lakota language, the westernmost of three closely related languages that belong to the Siouan language family.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lakota_people",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "American Indian Wars",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/American_Indian_Wars",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "05-05-1192-118efa5e",
+      "year": 1192,
+      "text": "Queen Isabella I of Jerusalem marries Henry II, Count of Champagne.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Isabella_I_of_Jerusalem.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Isabella_I_of_Jerusalem.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "isabella_i_of_jerusalem.jpeg",
+        "width": 254,
+        "height": 380,
+        "title": "Isabella I of Jerusalem",
+        "description": "Queen of Jerusalem (r. 1190/1192–1205)",
+        "extract": "Isabella I was the queen of Jerusalem who reigned from the early 1190s to her death. She received the homage of her vassals as the rightful heir to the throne after the death of her half-sister Queen Sibylla in 1190, but Sibylla's widower, Guy of Lusignan, held onto the kingdom until 1192. Isabella became queen upon her coronation in 1198. Having little political ambition, she passed the government on to three successive husbands, Conrad of Montferrat, Henry II of Champagne, and Aimery of Lusignan, all of whom included her in the issuing of their charters. Isabella's co-reign with Aimery saw the compilation of the Livre au Roi, a law treatise establishing the rights and obligations of queens regnant of Jerusalem.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_I_of_Jerusalem",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Isabella_I_of_Jerusalem.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Isabella_I_of_Jerusalem.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "isabella_i_of_jerusalem.jpeg",
+          "width": 254,
+          "height": 380,
+          "title": "Isabella I of Jerusalem",
+          "description": "Queen of Jerusalem (r. 1190/1192–1205)",
+          "extract": "Isabella I was the queen of Jerusalem who reigned from the early 1190s to her death. She received the homage of her vassals as the rightful heir to the throne after the death of her half-sister Queen Sibylla in 1190, but Sibylla's widower, Guy of Lusignan, held onto the kingdom until 1192. Isabella became queen upon her coronation in 1198. Having little political ambition, she passed the government on to three successive husbands, Conrad of Montferrat, Henry II of Champagne, and Aimery of Lusignan, all of whom included her in the issuing of their charters. Isabella's co-reign with Aimery saw the compilation of the Livre au Roi, a law treatise establishing the rights and obligations of queens regnant of Jerusalem.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Isabella_I_of_Jerusalem",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Henry_2_of_Champagne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Henry_2_of_Champagne.jpg/330px-Henry_2_of_Champagne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "henry_2_of_champagne.jpg",
+          "width": 343,
+          "height": 372,
+          "title": "Henry II of Champagne",
+          "description": "Lord of the Kingdom of Jerusalem from 1192 to 1197",
+          "extract": "Henry II was the count of Champagne from 1181 and the lord of the Kingdom of Jerusalem from his marriage to Isabella I of Jerusalem in 1192 until his death in 1197. He was an assertive ruler and was especially popular among his subjects in Palestine.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Henry_II_of_Champagne",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Isabella I of Jerusalem",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Isabella_I_of_Jerusalem",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-05-2020-2a89f620",
+      "year": 2020,
+      "text": "Philippine broadcast network ABS-CBN was forced to go off-air by the National Telecommunications Commission after Congress failed to renew its franchise granted in 1995.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/ABS-CBN_%28Quezon_City%3B_03-06-2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ABS-CBN_%28Quezon_City%3B_03-06-2020%29.jpg/330px-ABS-CBN_%28Quezon_City%3B_03-06-2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "abs-cbn_(quezon_city;_03-06-2020).jpg",
+        "width": 3648,
+        "height": 2736,
+        "title": "Shutdown of ABS-CBN broadcasting",
+        "description": "Philippine media event in 2020",
+        "extract": "The shutdown of ABS-CBN broadcasting arose from the lack of renewal of Philippine media network ABS-CBN's congressional broadcast franchise. The disputes between the administrations of Presidents Benigno Aquino III and Rodrigo Duterte and the media company arose over the terms and conditions of the franchise renewal agreement. Amid the controversy, the Congress of the Philippines, the country's legislature, was unable to renew the franchise before its expiration date. The congressional franchise expired on May 4, 2020, while the Philippines was dealing with the effects of the COVID-19 pandemic and the enhanced community quarantine in Luzon. The next day, exercising constitutional powers, the National Telecommunications Commission (NTC) issued a cease-and-desist order demanding ABS-CBN to stop the entire broadcast operations of all its free TV and radio stations immediately. ABS-CBN complied with the government order and shut down all of its radio stations and free television channels later that day. On June 30, 2020, the NTC released two alias cease-and-desist orders against ABS-CBN TV Plus and Sky Direct.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Shutdown_of_ABS-CBN_broadcasting",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/ABS-CBN_%28Quezon_City%3B_03-06-2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/ABS-CBN_%28Quezon_City%3B_03-06-2020%29.jpg/330px-ABS-CBN_%28Quezon_City%3B_03-06-2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "abs-cbn_(quezon_city;_03-06-2020).jpg",
+          "width": 3648,
+          "height": 2736,
+          "title": "Shutdown of ABS-CBN broadcasting",
+          "description": "Philippine media event in 2020",
+          "extract": "The shutdown of ABS-CBN broadcasting arose from the lack of renewal of Philippine media network ABS-CBN's congressional broadcast franchise. The disputes between the administrations of Presidents Benigno Aquino III and Rodrigo Duterte and the media company arose over the terms and conditions of the franchise renewal agreement. Amid the controversy, the Congress of the Philippines, the country's legislature, was unable to renew the franchise before its expiration date. The congressional franchise expired on May 4, 2020, while the Philippines was dealing with the effects of the COVID-19 pandemic and the enhanced community quarantine in Luzon. The next day, exercising constitutional powers, the National Telecommunications Commission (NTC) issued a cease-and-desist order demanding ABS-CBN to stop the entire broadcast operations of all its free TV and radio stations immediately. ABS-CBN complied with the government order and shut down all of its radio stations and free television channels later that day. On June 30, 2020, the NTC released two alias cease-and-desist orders against ABS-CBN TV Plus and Sky Direct.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Shutdown_of_ABS-CBN_broadcasting",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "ABS-CBN",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/ABS-CBN",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-05-2017-ec810efd",
+      "year": 2017,
+      "text": "An unidentified man is captured on CCTV pushing a woman onto oncoming traffic while jogging across Putney Bridge in south-west London, sparking public outrage and a police investigation.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Putney_Pusher_dual_CCTV_image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Putney_Pusher_dual_CCTV_image.jpg/330px-Putney_Pusher_dual_CCTV_image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "putney_pusher_dual_cctv_image.jpg",
+        "width": 2048,
+        "height": 1152,
+        "title": "Putney Pusher",
+        "description": "Unidentified jogger who pushed woman in path of London bus",
+        "extract": "The Putney Pusher is an unidentified male who, unprovoked, pushed a woman into the path of oncoming traffic on Putney Bridge, London, on 5 May 2017. The woman narrowly avoided being struck by a bus. CCTV footage of the incident was released in August 2017 and subsequently went viral. Despite efforts to identify the man, the Metropolitan Police closed the case in June 2018, stating that all leads had been exhausted. In June 2026, a 44-year-old man was arrested on \"suspicion of attempted grievous bodily harm\" in connection with the case.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Putney_Pusher",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Putney_Pusher_dual_CCTV_image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Putney_Pusher_dual_CCTV_image.jpg/330px-Putney_Pusher_dual_CCTV_image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "putney_pusher_dual_cctv_image.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": "Putney Pusher",
+          "description": "Unidentified jogger who pushed woman in path of London bus",
+          "extract": "The Putney Pusher is an unidentified male who, unprovoked, pushed a woman into the path of oncoming traffic on Putney Bridge, London, on 5 May 2017. The woman narrowly avoided being struck by a bus. CCTV footage of the incident was released in August 2017 and subsequently went viral. Despite efforts to identify the man, the Metropolitan Police closed the case in June 2018, stating that all leads had been exhausted. In June 2026, a 44-year-old man was arrested on \"suspicion of attempted grievous bodily harm\" in connection with the case.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Putney_Pusher",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Putney_Bridge_at_Dusk%2C_London%2C_UK_-_Diliff.jpg/3840px-Putney_Bridge_at_Dusk%2C_London%2C_UK_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Putney_Bridge_at_Dusk%2C_London%2C_UK_-_Diliff.jpg/330px-Putney_Bridge_at_Dusk%2C_London%2C_UK_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "putney_bridge_at_dusk,_london,_uk_-_diliff.jpg",
+          "width": 6730,
+          "height": 2766,
+          "title": "Putney Bridge",
+          "description": "Bridge in London, England",
+          "extract": "Putney Bridge is a Grade II listed bridge over the River Thames in west London, linking Putney on the south side with Fulham to the north.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Putney_Bridge",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Putney Pusher",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Putney_Pusher",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-05-2007-a70bdd9f",
+      "year": 2007,
+      "text": "Kenya Airways Flight 507 crashed immediately after takeoff from Douala International Airport in Cameroon, resulting in the deaths of all 114 people aboard.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Kenya_Airways_Boeing_737-8AL_5Y-KYA_at_London_Heathrow_Airport_%28LHR%29_on_29_October_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kenya_Airways_Boeing_737-8AL_5Y-KYA_at_London_Heathrow_Airport_%28LHR%29_on_29_October_2006.jpg/330px-Kenya_Airways_Boeing_737-8AL_5Y-KYA_at_London_Heathrow_Airport_%28LHR%29_on_29_October_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "kenya_airways_boeing_737-8al_5y-kya_at_london_heathrow_airport_(lhr)_on_29_october_2006.jpg",
+        "width": 1536,
+        "height": 1024,
+        "title": "Kenya Airways Flight 507",
+        "description": "2007 aviation accident in Cameroon",
+        "extract": "Kenya Airways Flight 507 was a scheduled international passenger service between Abidjan, Ivory Coast, and Nairobi, Kenya, with a stopover in Douala, Cameroon, operated by Kenya Airways. On 5 May 2007, the Boeing 737-800 aircraft serving the flight crashed immediately after takeoff from Douala International Airport in Cameroon, killing all 114 occupants onboard.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Kenya_Airways_Flight_507",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Kenya_Airways_Boeing_737-8AL_5Y-KYA_at_London_Heathrow_Airport_%28LHR%29_on_29_October_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kenya_Airways_Boeing_737-8AL_5Y-KYA_at_London_Heathrow_Airport_%28LHR%29_on_29_October_2006.jpg/330px-Kenya_Airways_Boeing_737-8AL_5Y-KYA_at_London_Heathrow_Airport_%28LHR%29_on_29_October_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kenya_airways_boeing_737-8al_5y-kya_at_london_heathrow_airport_(lhr)_on_29_october_2006.jpg",
+          "width": 1536,
+          "height": 1024,
+          "title": "Kenya Airways Flight 507",
+          "description": "2007 aviation accident in Cameroon",
+          "extract": "Kenya Airways Flight 507 was a scheduled international passenger service between Abidjan, Ivory Coast, and Nairobi, Kenya, with a stopover in Douala, Cameroon, operated by Kenya Airways. On 5 May 2007, the Boeing 737-800 aircraft serving the flight crashed immediately after takeoff from Douala International Airport in Cameroon, killing all 114 occupants onboard.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kenya_Airways_Flight_507",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Douala_Airport%2C_2013.jpg/3840px-Douala_Airport%2C_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Douala_Airport%2C_2013.jpg/330px-Douala_Airport%2C_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "douala_airport,_2013.jpg",
+          "width": 3888,
+          "height": 2573,
+          "title": "Douala International Airport",
+          "description": "International airport in Douala, Cameroon",
+          "extract": "Douala International Airport is an international airport located in Douala, the largest city in Cameroon and the capital of Cameroon's Littoral Region. With its 4 terminals and an average of 1.5 million passengers and 50,000 tonnes of freight per year, it is the country's busiest airport. The airport is managed and partly owned (34%) by the company Aeroport du Cameroon (ADC) which also manages all other 13 airports on Cameroonian soil.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Douala_International_Airport",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Kenya Airways Flight 507",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Kenya_Airways_Flight_507",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-05-1991-906cf936",
+      "year": 1991,
+      "text": "A riot breaks out in the Mt. Pleasant section of Washington, D.C. after police shoot a Salvadoran man.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mount_Pleasant_library_%284356776281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mount_Pleasant_library_%284356776281%29_%28cropped%29.jpg/330px-Mount_Pleasant_library_%284356776281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mount_pleasant_library_(4356776281)_(cropped).jpg",
+        "width": 923,
+        "height": 768,
+        "title": "Mount Pleasant (Washington, D.C.)",
+        "description": "Neighborhood of Washington, D.C.",
+        "extract": "Mount Pleasant is a neighborhood in Washington, D.C., located in Northwest D.C. The neighborhood is primarily residential, with restaurants and stores centered along a commercial corridor on Mt. Pleasant Street. Mount Pleasant is known for its unique identity and multicultural landscape, home to diverse groups such as the punk rock, the Peace Corps and Hispanic Washingtonian communities.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mount_Pleasant_(Washington%2C_D.C.)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Mount_Pleasant_library_%284356776281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Mount_Pleasant_library_%284356776281%29_%28cropped%29.jpg/330px-Mount_Pleasant_library_%284356776281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mount_pleasant_library_(4356776281)_(cropped).jpg",
+          "width": 923,
+          "height": 768,
+          "title": "Mount Pleasant (Washington, D.C.)",
+          "description": "Neighborhood of Washington, D.C.",
+          "extract": "Mount Pleasant is a neighborhood in Washington, D.C., located in Northwest D.C. The neighborhood is primarily residential, with restaurants and stores centered along a commercial corridor on Mt. Pleasant Street. Mount Pleasant is known for its unique identity and multicultural landscape, home to diverse groups such as the punk rock, the Peace Corps and Hispanic Washingtonian communities.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mount_Pleasant_(Washington%2C_D.C.)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "1991 Washington, D.C., riot",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1991_Washington%2C_D.C.%2C_riot",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-05-1987-52c8b598",
+      "year": 1987,
+      "text": "Iran–Contra affair: Start of Congressional televised hearings in the United States.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg/330px-President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "president_ronald_reagan_meets_with_aides_on_iran-contra_(cropped).jpg",
+        "width": 2708,
+        "height": 1810,
+        "title": "Iran–Contra affair",
+        "description": "1985–1987 political scandal in the U.S.",
+        "extract": "The Iran–Contra affair, also referred to as the Iran–Contra scandal, the Contragate, Iran Initiative, or simply Iran–Contra, was a political scandal in the United States that centered on arms trafficking to Iran between 1981 and 1986, facilitated by senior officials of the Reagan administration. The administration hoped to use the proceeds of the arms sale to fund the Contras, an anti-Sandinista rebel group in Nicaragua. Under the Boland Amendments, a series of laws passed by Congress and signed by Ronald Reagan, further funding of the Contras by legislative appropriations was prohibited by Congress, but the Reagan administration continued funding them secretly using non-appropriated funds.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg/330px-President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "president_ronald_reagan_meets_with_aides_on_iran-contra_(cropped).jpg",
+          "width": 2708,
+          "height": 1810,
+          "title": "Iran–Contra affair",
+          "description": "1985–1987 political scandal in the U.S.",
+          "extract": "The Iran–Contra affair, also referred to as the Iran–Contra scandal, the Contragate, Iran Initiative, or simply Iran–Contra, was a political scandal in the United States that centered on arms trafficking to Iran between 1981 and 1986, facilitated by senior officials of the Reagan administration. The administration hoped to use the proceeds of the arms sale to fund the Contras, an anti-Sandinista rebel group in Nicaragua. Under the Boland Amendments, a series of laws passed by Congress and signed by Ronald Reagan, further funding of the Contras by legislative appropriations was prohibited by Congress, but the Reagan administration continued funding them secretly using non-appropriated funds.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Tow_atm.jpg/330px-Tow_atm.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Tow_atm.jpg/330px-Tow_atm.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "tow_atm.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A BGM-71 TOW antitank guided missile",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Iran–Contra affair",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-05-1981-3c16dcfb",
+      "year": 1981,
+      "text": "After a 66-day hunger strike, Irish republican Bobby Sands died of starvation in HM Prison Maze.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/25th_commemoration_of_1981_Irish_hunger_strike.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/25th_commemoration_of_1981_Irish_hunger_strike.JPG/330px-25th_commemoration_of_1981_Irish_hunger_strike.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "25th_commemoration_of_1981_irish_hunger_strike.jpg",
+        "width": 2048,
+        "height": 1536,
+        "title": "1981 Irish hunger strike",
+        "description": "Protest by Irish republican prisoners in Northern Ireland",
+        "extract": "A five-year protest during the Troubles by Irish republican prisoners in Northern Ireland culminated in a hunger strike in 1981. The protest began as the blanket protest in 1976 when the British government withdrew Special Category Status for convicted paramilitary prisoners.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1981_Irish_hunger_strike",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/25th_commemoration_of_1981_Irish_hunger_strike.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/25th_commemoration_of_1981_Irish_hunger_strike.JPG/330px-25th_commemoration_of_1981_Irish_hunger_strike.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "25th_commemoration_of_1981_irish_hunger_strike.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": "1981 Irish hunger strike",
+          "description": "Protest by Irish republican prisoners in Northern Ireland",
+          "extract": "A five-year protest during the Troubles by Irish republican prisoners in Northern Ireland culminated in a hunger strike in 1981. The protest began as the blanket protest in 1976 when the British government withdrew Special Category Status for convicted paramilitary prisoners.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1981_Irish_hunger_strike",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/09/Bobbysandslongkesh1973.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/09/Bobbysandslongkesh1973.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "bobbysandslongkesh1973.jpg",
+          "width": 200,
+          "height": 302,
+          "title": "Bobby Sands",
+          "description": "Irish Provisional IRA member (1954–1981)",
+          "extract": "Robert Gerard Sands was a member of the Provisional Irish Republican Army (IRA) who died on hunger strike while imprisoned at HM Prison Maze in Northern Ireland. Sands helped to plan the 1976 Balmoral Furniture Company bombing in Dunmurry, which was followed by a gun battle with the Royal Ulster Constabulary. Sands was arrested while trying to escape and sentenced to 14 years for firearms possession.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bobby_Sands",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Maze_Prison_-_geograph_-_341034.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Maze_Prison_-_geograph_-_341034.jpg/330px-Maze_Prison_-_geograph_-_341034.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "maze_prison_-_geograph_-_341034.jpg",
+          "width": 640,
+          "height": 426,
+          "title": "HM Prison Maze",
+          "description": "1971–2000 prison in Northern Ireland",
+          "extract": "HM Prison Maze was a prison and internment camp in Northern Ireland that was used to house paramilitary prisoners during the Troubles from August 1971 to September 2000. On 15 October 1974 Irish Republican internees burned 21 of the compounds used to house the internees thereby destroying much of Long Kesh.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/HM_Prison_Maze",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "1981 Irish hunger strike",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1981_Irish_hunger_strike",
+      "relatedPagesCount": 3
+    }
+  ]
+}

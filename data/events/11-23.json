@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 11,
+    "day": 23,
+    "formatted": "11-23"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "11-23-2019-204f33a0",
+      "year": 2019,
+      "text": "The last Sumatran rhinoceros in Malaysia, Imam, dies, making the species officially extinct in the country.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG/330px-Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sumatran_rhinoceros_at_sumatran_rhino_sanctuary_lampung_indonesia_2013.jpg",
+        "width": 2592,
+        "height": 1944,
+        "title": "Sumatran rhinoceros",
+        "description": "Endangered species of Asian rhinoceros",
+        "extract": "The Sumatran rhinoceros, also known as the Sumatran rhino, hairy rhinoceros or Asian two-horned rhinoceros, is a rare member of the family Rhinocerotidae and one of five extant species of rhinoceros; it is the only extant species of the genus Dicerorhinus. It is the smallest rhinoceros, although it is still a large mammal; it stands 112–145 cm (44–57 in) high at the shoulder, with a head-and-body length of 2.36–3.18 m and a tail of 35–70 cm (14–28 in). The weight is reported to range from 500–1,000 kg (1,100–2,200 lb), averaging 700–800 kg (1,540–1,760 lb). Like both African species, it has two horns; the larger is the nasal horn, typically 15–25 cm (5.9–9.8 in), while the other horn is typically a stub. A coat of reddish-brown hair covers most of the Sumatran rhino's body.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sumatran_rhinoceros",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG/330px-Sumatran_Rhinoceros_at_Sumatran_Rhino_Sanctuary_Lampung_Indonesia_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sumatran_rhinoceros_at_sumatran_rhino_sanctuary_lampung_indonesia_2013.jpg",
+          "width": 2592,
+          "height": 1944,
+          "title": "Sumatran rhinoceros",
+          "description": "Endangered species of Asian rhinoceros",
+          "extract": "The Sumatran rhinoceros, also known as the Sumatran rhino, hairy rhinoceros or Asian two-horned rhinoceros, is a rare member of the family Rhinocerotidae and one of five extant species of rhinoceros; it is the only extant species of the genus Dicerorhinus. It is the smallest rhinoceros, although it is still a large mammal; it stands 112–145 cm (44–57 in) high at the shoulder, with a head-and-body length of 2.36–3.18 m and a tail of 35–70 cm (14–28 in). The weight is reported to range from 500–1,000 kg (1,100–2,200 lb), averaging 700–800 kg (1,540–1,760 lb). Like both African species, it has two horns; the larger is the nasal horn, typically 15–25 cm (5.9–9.8 in), while the other horn is typically a stub. A coat of reddish-brown hair covers most of the Sumatran rhino's body.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sumatran_rhinoceros",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dicerorhinus_sumatrensis_Bell_1793.jpg/500px-Dicerorhinus_sumatrensis_Bell_1793.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Dicerorhinus_sumatrensis_Bell_1793.jpg/500px-Dicerorhinus_sumatrensis_Bell_1793.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "dicerorhinus_sumatrensis_bell_1793.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "First drawing of the first specimen known to Western science, by William Bell, 1793",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sumatran_rhinoceros",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Sumatran_Rhino_skeleton.jpg/500px-Sumatran_Rhino_skeleton.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Sumatran_Rhino_skeleton.jpg/500px-Sumatran_Rhino_skeleton.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "sumatran_rhino_skeleton.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Skeleton of the Sumatran rhinoceros",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sumatran_rhinoceros",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Sumatran rhinoceros",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Sumatran_rhinoceros",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "11-23-2015-4e6906b3",
+      "year": 2015,
+      "text": "Blue Origin's New Shepard space vehicle became the first rocket to successfully fly to space and then return to Earth for a controlled, vertical landing.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/New_Shepard_booster_at_Oshkosh_Airventure_2017_03_%2836103651636%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/New_Shepard_booster_at_Oshkosh_Airventure_2017_03_%2836103651636%29.jpg/330px-New_Shepard_booster_at_Oshkosh_Airventure_2017_03_%2836103651636%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "new_shepard_booster_at_oshkosh_airventure_2017_03_(36103651636).jpg",
+        "width": 3456,
+        "height": 4608,
+        "title": "New Shepard",
+        "description": "Rocket developed by Blue Origin",
+        "extract": "New Shepard is a fully reusable sub-orbital launch vehicle developed for space tourism by Blue Origin. The vehicle is named after Alan Shepard, for being the first American to travel into space, also being the fifth person to walk on the Moon. The vehicle is capable of vertical takeoff and landings. Additionally, it is also capable of carrying humans and customer payloads into a sub-orbital trajectory.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/New_Shepard",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/New_Shepard_booster_at_Oshkosh_Airventure_2017_03_%2836103651636%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/New_Shepard_booster_at_Oshkosh_Airventure_2017_03_%2836103651636%29.jpg/330px-New_Shepard_booster_at_Oshkosh_Airventure_2017_03_%2836103651636%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "new_shepard_booster_at_oshkosh_airventure_2017_03_(36103651636).jpg",
+          "width": 3456,
+          "height": 4608,
+          "title": "New Shepard",
+          "description": "Rocket developed by Blue Origin",
+          "extract": "New Shepard is a fully reusable sub-orbital launch vehicle developed for space tourism by Blue Origin. The vehicle is named after Alan Shepard, for being the first American to travel into space, also being the fifth person to walk on the Moon. The vehicle is capable of vertical takeoff and landings. Additionally, it is also capable of carrying humans and customer payloads into a sub-orbital trajectory.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/New_Shepard",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/New_Shepard_booster_at_Oshkosh_Airventure_2017_02_%2836143645465%29.jpg/1280px-New_Shepard_booster_at_Oshkosh_Airventure_2017_02_%2836143645465%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/New_Shepard_booster_at_Oshkosh_Airventure_2017_02_%2836143645465%29.jpg/1280px-New_Shepard_booster_at_Oshkosh_Airventure_2017_02_%2836143645465%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "new_shepard_booster_at_oshkosh_airventure_2017_02_(36143645465).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "New Shepard booster",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Blue_Origin",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Blue_Origin_M7.jpg/1280px-Blue_Origin_M7.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Blue_Origin_M7.jpg/1280px-Blue_Origin_M7.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "blue_origin_m7.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Flown New Shepard Capsule",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Blue_Origin",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Blue Origin",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Blue_Origin",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-23-2002-f124398b",
+      "year": 2002,
+      "text": "Space Shuttle Endeavour launches on STS-113 to the International Space Station carrying the Expedition 6 crew and the P1 truss.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+        "width": 3680,
+        "height": 2448,
+        "title": "Space Shuttle Endeavour",
+        "description": "Space Shuttle orbiter (1992–2011)",
+        "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+          "width": 3680,
+          "height": 2448,
+          "title": "Space Shuttle Endeavour",
+          "description": "Space Shuttle orbiter (1992–2011)",
+          "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/ISS-05_STS-113_EVA_Michael_Lopez-Alegria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/ISS-05_STS-113_EVA_Michael_Lopez-Alegria.jpg/330px-ISS-05_STS-113_EVA_Michael_Lopez-Alegria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss-05_sts-113_eva_michael_lopez-alegria.jpg",
+          "width": 3032,
+          "height": 2008,
+          "title": "STS-113",
+          "description": "2002 American crewed spaceflight to the ISS",
+          "extract": "STS-113 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Endeavour. During the 14-day mission in late 2002, Endeavour and its crew extended the ISS backbone with the P1 truss and exchanged the Expedition 5 and Expedition 6 crews aboard the station. With commander Jim Wetherbee and pilot Paul Lockhart at the controls, Endeavour docked with the station on 25 November 2002 to begin seven days of station assembly, spacewalks, and crew and equipment transfers. This was the last flight of Endeavour before entering its Orbiter Major Modification period until STS-118 in 2007, which included modernizing the cockpit, and also the final shuttle mission before the Columbia disaster.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-113",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/3840px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/330px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss-56_international_space_station_fly-around_(07).jpg",
+          "width": 6048,
+          "height": 4032,
+          "title": "International Space Station",
+          "description": "Modular space station in low Earth orbit",
+          "extract": "The International Space Station (ISS) is a space station in low Earth orbit (LEO). It is the product of the International Space Station program and is operated by five partner space agencies: NASA, Roscosmos (Russia), ESA (Europe), JAXA (Japan), and CSA (Canada). It is the first space station built, maintained and crewed through international cooperation and the largest human spacecraft ever constructed. It is an orbital research station, where scientific experiments in microgravity are conducted and the space environment is studied. Since 2 November 2000, it has hosted the longest continuous human presence in space. Alongside China's Tiangong, it is one of two currently operational space stations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/International_Space_Station",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Endeavour",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "11-23-1991-1b67d4c1",
+      "year": 1991,
+      "text": "Queen lead singer Freddie Mercury announces in a statement that he is HIV-positive. He dies the following day.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg/330px-Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "queen_a_night_at_the_opera_(1975_elektra_publicity_photo_02).jpg",
+        "width": 1798,
+        "height": 1146,
+        "title": "Queen (band)",
+        "description": "British rock band",
+        "extract": "Queen are a British rock band formed in London in 1970 by Freddie Mercury, Brian May, and Roger Taylor, later joined by John Deacon (bass). Their earliest works were influenced by progressive rock, hard rock and heavy metal, but the band gradually ventured into more conventional and radio-friendly works by incorporating further styles, such as arena rock and pop rock.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Queen_(band)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg/330px-Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_a_night_at_the_opera_(1975_elektra_publicity_photo_02).jpg",
+          "width": 1798,
+          "height": 1146,
+          "title": "Queen (band)",
+          "description": "British rock band",
+          "extract": "Queen are a British rock band formed in London in 1970 by Freddie Mercury, Brian May, and Roger Taylor, later joined by John Deacon (bass). Their earliest works were influenced by progressive rock, hard rock and heavy metal, but the band gradually ventured into more conventional and radio-friendly works by incorporating further styles, such as arena rock and pop rock.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Queen_(band)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg/330px-Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "freddie_mercury_performing_in_new_haven,_ct,_november_1977.jpg",
+          "width": 3534,
+          "height": 5244,
+          "title": "Freddie Mercury",
+          "description": "British rock singer and songwriter (1946–1991)",
+          "extract": "Freddie Mercury was a British singer, songwriter and pianist who achieved global fame as the lead vocalist and pianist of the rock band Queen, which he co-founded with guitarist Brian May and drummer Roger Taylor. Regarded as one of the greatest singers in the history of popular music, he is known for his flamboyant stage persona and four-octave vocal range. Mercury defied the conventions of a rock frontman with his theatrical style, influencing the artistic direction of Queen.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Freddie_Mercury",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg/1280px-Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg/1280px-Queen_A_Night_At_The_Opera_%281975_Elektra_publicity_photo_02%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "queen_promo_1970s.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Queen_promo_1970s",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Queen_(band)",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Queen (band)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Queen_(band)",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-23-1924-b551116b",
+      "year": 1924,
+      "text": "The New York Times published evidence from Edwin Hubble (pictured) stating that the Andromeda Nebula, previously believed to be part of the Milky Way, is in fact another galaxy.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_New_York_Times%2C_January_13%2C_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_New_York_Times%2C_January_13%2C_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "the_new_york_times,_january_13,_2024.png",
+        "width": 234,
+        "height": 426,
+        "title": "The New York Times",
+        "description": "American daily newspaper",
+        "extract": "The New York Times (NYT) is a newspaper based in Manhattan, New York City. The New York Times covers domestic, national, and international news, and publishes opinion pieces and reviews. One of the longest-running newspapers in the United States, the Times serves as one of the country's newspapers of record. As of August 2025, The New York Times had 11.88 million total and 11.3 million online subscribers, both the highest numbers for any newspaper in the United States by a significant margin; the total also included 580,000 print subscribers. The New York Times is published by the New York Times Company. Since 1896, the company has been chaired by the Ochs-Sulzberger family. The current chairman and the paper's publisher is A. G. Sulzberger. The Times is headquartered at The New York Times Building in Midtown Manhattan.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_New_York_Times",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_New_York_Times%2C_January_13%2C_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_New_York_Times%2C_January_13%2C_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "the_new_york_times,_january_13,_2024.png",
+          "width": 234,
+          "height": 426,
+          "title": "The New York Times",
+          "description": "American daily newspaper",
+          "extract": "The New York Times (NYT) is a newspaper based in Manhattan, New York City. The New York Times covers domestic, national, and international news, and publishes opinion pieces and reviews. One of the longest-running newspapers in the United States, the Times serves as one of the country's newspapers of record. As of August 2025, The New York Times had 11.88 million total and 11.3 million online subscribers, both the highest numbers for any newspaper in the United States by a significant margin; the total also included 580,000 print subscribers. The New York Times is published by the New York Times Company. Since 1896, the company has been chaired by the Ochs-Sulzberger family. The current chairman and the paper's publisher is A. G. Sulzberger. The Times is headquartered at The New York Times Building in Midtown Manhattan.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_New_York_Times",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG/330px-Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "studio_portrait_photograph_of_edwin_powell_hubble_(cropped).jpg",
+          "width": 846,
+          "height": 1068,
+          "title": "Edwin Hubble",
+          "description": "American astronomer (1889–1953)",
+          "extract": "Edwin Powell Hubble was an American astronomer. He played a crucial role in establishing the fields of extragalactic astronomy and observational cosmology. Hubble proved that many objects previously thought to be clouds of dust and gas and classified as \"nebulae\" were actually galaxies beyond the Milky Way. He used the strong direct relationship between a classical Cepheid variable's luminosity and pulsation period for scaling galactic and extragalactic distances.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Edwin_Hubble",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Andromeda_Galaxy_2025.png/3840px-Andromeda_Galaxy_2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Andromeda_Galaxy_2025.png/330px-Andromeda_Galaxy_2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "andromeda_galaxy_2025.png",
+          "width": 5827,
+          "height": 3803,
+          "title": "Andromeda Galaxy",
+          "description": "Barred spiral galaxy in the Local Group",
+          "extract": "The Andromeda Galaxy is a barred spiral galaxy and is the nearest major galaxy to the Milky Way. It was originally named the Andromeda Nebula and is cataloged as Messier 31, M31, and NGC 224. Andromeda has a D25 isophotal diameter of about 46.56 kiloparsecs (152,000 light-years) and is approximately 765 kpc (2.5 million light-years) from Earth. The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of Andromeda, which itself is named after the princess who was the wife of Perseus in Greek mythology.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Andromeda_Galaxy",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "The New York Times",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_New_York_Times",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "11-23-1981-81ca1c56",
+      "year": 1981,
+      "text": "Iran–Contra affair: Ronald Reagan signs the top secret National Security Decision Directive 17 (NSDD-17), giving the Central Intelligence Agency the authority to recruit and support Contra rebels in Nicaragua.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg/330px-President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "president_ronald_reagan_meets_with_aides_on_iran-contra_(cropped).jpg",
+        "width": 2708,
+        "height": 1810,
+        "title": "Iran–Contra affair",
+        "description": "1985–1987 political scandal in the U.S.",
+        "extract": "The Iran–Contra affair, also referred to as the Iran–Contra scandal, the Contragate, Iran Initiative, or simply Iran–Contra, was a political scandal in the United States that centered on arms trafficking to Iran between 1981 and 1986, facilitated by senior officials of the Reagan administration. The administration hoped to use the proceeds of the arms sale to fund the Contras, an anti-Sandinista rebel group in Nicaragua. Under the Boland Amendments, a series of laws passed by Congress and signed by Ronald Reagan, further funding of the Contras by legislative appropriations was prohibited by Congress, but the Reagan administration continued funding them secretly using non-appropriated funds.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg/330px-President_Ronald_Reagan_meets_with_aides_on_Iran-Contra_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "president_ronald_reagan_meets_with_aides_on_iran-contra_(cropped).jpg",
+          "width": 2708,
+          "height": 1810,
+          "title": "Iran–Contra affair",
+          "description": "1985–1987 political scandal in the U.S.",
+          "extract": "The Iran–Contra affair, also referred to as the Iran–Contra scandal, the Contragate, Iran Initiative, or simply Iran–Contra, was a political scandal in the United States that centered on arms trafficking to Iran between 1981 and 1986, facilitated by senior officials of the Reagan administration. The administration hoped to use the proceeds of the arms sale to fund the Contras, an anti-Sandinista rebel group in Nicaragua. Under the Boland Amendments, a series of laws passed by Congress and signed by Ronald Reagan, further funding of the Contras by legislative appropriations was prohibited by Congress, but the Reagan administration continued funding them secretly using non-appropriated funds.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "official_portrait_of_president_reagan_1981.jpg",
+          "width": 2399,
+          "height": 3000,
+          "title": "Ronald Reagan",
+          "description": "President of the United States from 1981 to 1989",
+          "extract": "Ronald Wilson Reagan was an American politician and actor who served as the 40th president of the United States from 1981 to 1989. A member of the Republican Party, he became an important figure in the American conservative movement. The period encompassing his presidency is known as the Reagan era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Contra_commandas_1987.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Contra_commandas_1987.jpg/330px-Contra_commandas_1987.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "contra_commandas_1987.jpg",
+          "width": 2294,
+          "height": 1588,
+          "title": "Contras",
+          "description": "1979–1990 anti-Marxist Nicaraguan rebels",
+          "extract": "The Contras were the anti-communist rebels who waged a guerrilla war against the Marxist Sandinista National Liberation Front (FSLN) and the Junta of National Reconstruction, which came to power after the Nicaraguan Revolution in 1979. The insurgency against the Sandinista government lasted from 1979 until 1990, and was one of the highest profile conflicts of the Cold War.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Contras",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Iran–Contra affair",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Iran%E2%80%93Contra_affair",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "11-23-1978-5d5deca5",
+      "year": 1978,
+      "text": "The Geneva Frequency Plan of 1975 goes into effect, realigning many of Europe's longwave and mediumwave broadcasting frequencies.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/84/Harumphy.radio_dial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Harumphy.radio_dial.jpg/330px-Harumphy.radio_dial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "harumphy.radio_dial.jpg",
+        "width": 1467,
+        "height": 1488,
+        "title": "Longwave",
+        "description": "Radio transmission using wavelengths above 1000 m",
+        "extract": "In radio, longwave is the part of the radio spectrum with wavelengths longer than what was originally called the medium-wave (MW) broadcasting band. The term is historic, dating from the early 20th century, when the radio spectrum was considered to consist of LW, MW, and short-wave (SW) radio bands. Most modern radio systems and devices use wavelengths which would then have been considered 'ultra-short'.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Longwave",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/84/Harumphy.radio_dial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Harumphy.radio_dial.jpg/330px-Harumphy.radio_dial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "harumphy.radio_dial.jpg",
+          "width": 1467,
+          "height": 1488,
+          "title": "Longwave",
+          "description": "Radio transmission using wavelengths above 1000 m",
+          "extract": "In radio, longwave is the part of the radio spectrum with wavelengths longer than what was originally called the medium-wave (MW) broadcasting band. The term is historic, dating from the early 20th century, when the radio spectrum was considered to consist of LW, MW, and short-wave (SW) radio bands. Most modern radio systems and devices use wavelengths which would then have been considered 'ultra-short'.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Longwave",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/2008-07-28_Mast_radiator.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/2008-07-28_Mast_radiator.jpg/330px-2008-07-28_Mast_radiator.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2008-07-28_mast_radiator.jpg",
+          "width": 2553,
+          "height": 3830,
+          "title": "Medium wave",
+          "description": "Radio transmission using wavelengths 200-1000 m",
+          "extract": "Medium wave (MW) is a part of the medium frequency (MF) radio band used mainly for AM radio broadcasting. The spectrum provides about 120 channels with more limited sound quality than FM stations on the FM broadcast band. During the daytime, reception is usually limited to more local stations, though this is dependent on the signal conditions and quality of radio receiver used. Improved signal propagation at night allows the reception of much longer distance signals. This can cause increased interference because on most channels multiple transmitters operate simultaneously worldwide. In addition, amplitude modulation (AM) is often more prone to interference by various electronic devices, especially power supplies and computers. Strong transmitters cover larger areas than on the FM broadcast band but require more energy and longer antennas. Digital modes like HD Radio is used mostly in the US while DRM30 is mostly used as test transmissions by India, South Korea, and China.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Medium_wave",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Plandecopenhauge.jpg/500px-Plandecopenhauge.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Plandecopenhauge.jpg/500px-Plandecopenhauge.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "plandecopenhauge.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A vintage European radio set with a dial marked according to the Copenhagen Plan of 1948",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Geneva_Frequency_Plan_of_1975",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Geneva Frequency Plan of 1975",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Geneva_Frequency_Plan_of_1975",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "11-23-1976-5f518951",
+      "year": 1976,
+      "text": "Jacques Mayol became the first person to freedive to a depth of 100 metres (330 ft).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Record_mondial_de_poids_constant_-_62_m_en_1989.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Record_mondial_de_poids_constant_-_62_m_en_1989.png/330px-Record_mondial_de_poids_constant_-_62_m_en_1989.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "record_mondial_de_poids_constant_-_62_m_en_1989.png",
+        "width": 400,
+        "height": 272,
+        "title": "Jacques Mayol",
+        "description": "French free diver (1927–2001)",
+        "extract": "Jacques Mayol was a French diver and the holder of many world records in free diving. The 1988 film The Big Blue, directed by Luc Besson, was inspired by his life story and that of his friend, Enzo Maiorca. Mayol was one of the screenwriters and authored the book Homo Delphinus: the Dolphin Within Man of his philosophy about the aquatic origins of humans.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jacques_Mayol",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Record_mondial_de_poids_constant_-_62_m_en_1989.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Record_mondial_de_poids_constant_-_62_m_en_1989.png/330px-Record_mondial_de_poids_constant_-_62_m_en_1989.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "record_mondial_de_poids_constant_-_62_m_en_1989.png",
+          "width": 400,
+          "height": 272,
+          "title": "Jacques Mayol",
+          "description": "French free diver (1927–2001)",
+          "extract": "Jacques Mayol was a French diver and the holder of many world records in free diving. The 1988 film The Big Blue, directed by Luc Besson, was inspired by his life story and that of his friend, Enzo Maiorca. Mayol was one of the screenwriters and authored the book Homo Delphinus: the Dolphin Within Man of his philosophy about the aquatic origins of humans.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jacques_Mayol",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Agata_Bogusz_wrakowe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Agata_Bogusz_wrakowe.png/330px-Agata_Bogusz_wrakowe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "agata_bogusz_wrakowe.png",
+          "width": 525,
+          "height": 671,
+          "title": "Freediving",
+          "description": "Underwater diving without breathing apparatus",
+          "extract": "Freediving, free-diving, free diving, or breath-hold diving is a mode of underwater diving that relies on breath-holding (apnea) until resurfacing rather than the use of breathing apparatus such as scuba gear. Historically and colloquially, the term skin diving has been used interchangeably with freediving. However, in modern and recreational context, skin diving generally refers to recreational breath-hold diving at shallow depths to observe marine life, whereas freediving is recognized as a distinct discipline focusing on maximizing underwater breath hold duration, depths, or distance. Competitive freediving has a range of apnea disciplines; in which competitors attempt to attain great depths, times, or distances on a single breath.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Freediving",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Jacques Mayol",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Jacques_Mayol",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-23-1890-ca599f90",
+      "year": 1890,
+      "text": "King William III of the Netherlands dies without a male heir and a special law is passed to allow his daughter Princess Wilhelmina to succeed him.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Portret_koning_Willem_III_door_Maria_Hille_HGA001008802_%28uitsnede%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Portret_koning_Willem_III_door_Maria_Hille_HGA001008802_%28uitsnede%29.jpg/330px-Portret_koning_Willem_III_door_Maria_Hille_HGA001008802_%28uitsnede%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "portret_koning_willem_iii_door_maria_hille_hga001008802_(uitsnede).jpg",
+        "width": 2054,
+        "height": 2781,
+        "title": "William III of the Netherlands",
+        "description": "King of the Netherlands from 1849 to 1890",
+        "extract": "William III was King of the Netherlands and Grand Duke of Luxembourg from 1849 until his death in 1890, and was also the Duke of Limburg from 1849 until the abolition of the duchy in 1866. Having reigned for 41 years, he is the second-longest reigning Dutch monarch, only surpassed by his daughter, Wilhelmina.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/William_III_of_the_Netherlands",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Portret_koning_Willem_III_door_Maria_Hille_HGA001008802_%28uitsnede%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Portret_koning_Willem_III_door_Maria_Hille_HGA001008802_%28uitsnede%29.jpg/330px-Portret_koning_Willem_III_door_Maria_Hille_HGA001008802_%28uitsnede%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "portret_koning_willem_iii_door_maria_hille_hga001008802_(uitsnede).jpg",
+          "width": 2054,
+          "height": 2781,
+          "title": "William III of the Netherlands",
+          "description": "King of the Netherlands from 1849 to 1890",
+          "extract": "William III was King of the Netherlands and Grand Duke of Luxembourg from 1849 until his death in 1890, and was also the Duke of Limburg from 1849 until the abolition of the duchy in 1866. Having reigned for 41 years, he is the second-longest reigning Dutch monarch, only surpassed by his daughter, Wilhelmina.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/William_III_of_the_Netherlands",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wilhelmina_of_the_Netherlands_in_1936.jpg/3840px-Wilhelmina_of_the_Netherlands_in_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Wilhelmina_of_the_Netherlands_in_1936.jpg/330px-Wilhelmina_of_the_Netherlands_in_1936.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wilhelmina_of_the_netherlands_in_1936.jpg",
+          "width": 5344,
+          "height": 6672,
+          "title": "Wilhelmina of the Netherlands",
+          "description": "Queen of the Netherlands from 1890 to 1948",
+          "extract": "Wilhelmina was Queen of the Netherlands from 1890 until her abdication in 1948. She reigned for nearly 58 years, making her the longest-reigning monarch in Dutch history, as well as the longest-reigning female monarch outside of the United Kingdom. Her reign encompassed World War I, the Dutch economic crisis of 1933, and World War II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wilhelmina_of_the_Netherlands",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Jan_Baptist_van_der_Hulst_-_Koning_Willem_II_en_familie.jpg/1280px-Jan_Baptist_van_der_Hulst_-_Koning_Willem_II_en_familie.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Jan_Baptist_van_der_Hulst_-_Koning_Willem_II_en_familie.jpg/1280px-Jan_Baptist_van_der_Hulst_-_Koning_Willem_II_en_familie.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "jan_baptist_van_der_hulst_-_koning_willem_ii_en_familie.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "King William II and his family (1832) by Jan Baptist van der Hulst with William III on the far left",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/William_III_of_the_Netherlands",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "William III of the Netherlands",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/William_III_of_the_Netherlands",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "11-23-1972-ef4e2553",
+      "year": 1972,
+      "text": "The Soviet Union makes its final attempt at launching the N1 rocket.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/N1_1M1_mockup_on_the_launch_pad_at_the_Baikonur_Cosmodrome_in_late_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/N1_1M1_mockup_on_the_launch_pad_at_the_Baikonur_Cosmodrome_in_late_1967.jpg/330px-N1_1M1_mockup_on_the_launch_pad_at_the_Baikonur_Cosmodrome_in_late_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "n1_1m1_mockup_on_the_launch_pad_at_the_baikonur_cosmodrome_in_late_1967.jpg",
+        "width": 916,
+        "height": 1500,
+        "title": "N1 (rocket)",
+        "description": "Soviet super heavy-lift launch vehicle (1965–1972)",
+        "extract": "The N1 was a super heavy-lift launch vehicle of the Soviet space program intended for crewed travel to the Moon and beyond. All four launch attempts between 1969 and 1972 failed. Studied and designed by OKB-1 since 1959, it was the counterpart to the US Saturn V.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/N1_(rocket)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/N1_1M1_mockup_on_the_launch_pad_at_the_Baikonur_Cosmodrome_in_late_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/N1_1M1_mockup_on_the_launch_pad_at_the_Baikonur_Cosmodrome_in_late_1967.jpg/330px-N1_1M1_mockup_on_the_launch_pad_at_the_Baikonur_Cosmodrome_in_late_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "n1_1m1_mockup_on_the_launch_pad_at_the_baikonur_cosmodrome_in_late_1967.jpg",
+          "width": 916,
+          "height": 1500,
+          "title": "N1 (rocket)",
+          "description": "Soviet super heavy-lift launch vehicle (1965–1972)",
+          "extract": "The N1 was a super heavy-lift launch vehicle of the Soviet space program intended for crewed travel to the Moon and beyond. All four launch attempts between 1969 and 1972 failed. Studied and designed by OKB-1 since 1959, it was the counterpart to the US Saturn V.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/N1_(rocket)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "N1 (rocket)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/N1_(rocket)",
+      "relatedPagesCount": 1
+    }
+  ]
+}

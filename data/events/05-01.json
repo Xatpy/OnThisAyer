@@ -1,0 +1,679 @@
+{
+  "date": {
+    "month": 5,
+    "day": 1,
+    "formatted": "05-01"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "05-01-1994-0fcd64e1",
+      "year": 1994,
+      "text": "Three-time Formula One champion Ayrton Senna is killed in an accident during the San Marino Grand Prix.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/2010_Malaysian_GP_opening_lap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2010_Malaysian_GP_opening_lap.jpg/330px-2010_Malaysian_GP_opening_lap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2010_malaysian_gp_opening_lap.jpg",
+        "width": 3200,
+        "height": 1530,
+        "title": "Formula One",
+        "description": "Motorsport championship held worldwide",
+        "extract": "Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars run by the Formula One Group and sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in 1950 and is often considered to be the pinnacle of motorsport. The word formula in the name refers to the set of rules all participant cars must follow. A Formula One season consists of a series of races, known as Grands Prix. Grands Prix take place in multiple countries and continents on either purpose-built circuits or closed roads, as street circuits.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Formula_One",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/2010_Malaysian_GP_opening_lap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/2010_Malaysian_GP_opening_lap.jpg/330px-2010_Malaysian_GP_opening_lap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2010_malaysian_gp_opening_lap.jpg",
+          "width": 3200,
+          "height": 1530,
+          "title": "Formula One",
+          "description": "Motorsport championship held worldwide",
+          "extract": "Formula One (F1) is the highest class of worldwide racing for open-wheel, single-seater formula racing cars run by the Formula One Group and sanctioned by the Fédération Internationale de l'Automobile (FIA). The FIA Formula One World Championship has been one of the world's premier forms of motorsport since its inaugural running in 1950 and is often considered to be the pinnacle of motorsport. The word formula in the name refers to the set of rules all participant cars must follow. A Formula One season consists of a series of races, known as Grands Prix. Grands Prix take place in multiple countries and continents on either purpose-built circuits or closed roads, as street circuits.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Formula_One",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Schumacher_china_2012_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schumacher_china_2012_crop.jpg/330px-Schumacher_china_2012_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "schumacher_china_2012_crop.jpg",
+          "width": 1410,
+          "height": 1971,
+          "title": "List of Formula One World Drivers' Champions",
+          "description": "",
+          "extract": "The World Drivers' Championship is presented by the Fédération Internationale de l'Automobile (FIA), motorsport's world governing body, to the most successful driver over the course of the season of Formula One races, through a points system based on individual race results. The World Championship is awarded at the FIA Prize Giving Ceremony after the season.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/List_of_Formula_One_World_Drivers'_Champions",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ayrton_Senna_Pesawat_RC_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ayrton_Senna_Pesawat_RC_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "ayrton_senna_pesawat_rc_cropped.jpg",
+          "width": 274,
+          "height": 349,
+          "title": "Ayrton Senna",
+          "description": "Brazilian racing driver (1960–1994)",
+          "extract": "Ayrton Senna da Silva was a Brazilian racing driver and philanthropist who competed in Formula One from 1984 to 1994. Senna won three Formula One World Drivers' Championship titles with McLaren, and—at the time of his death—held the record for most pole positions (65), among others; he won 41 Grands Prix across 11 seasons.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Formula One",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Formula_One",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "05-01-1991-de2ff69d",
+      "year": 1991,
+      "text": "In Major League Baseball, Rickey Henderson broke the record for stolen bases on the same night that Nolan Ryan broke his own record for no-hitters.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/c/cc/RickeyHenderson1983.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/RickeyHenderson1983.jpg/330px-RickeyHenderson1983.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "rickeyhenderson1983.jpg",
+        "width": 848,
+        "height": 926,
+        "title": "Rickey Henderson",
+        "description": "American baseball player (1958–2024)",
+        "extract": "Rickey Nelson Henley Henderson, nicknamed \"Man of Steal\", was an American professional baseball left fielder who played 25 seasons in Major League Baseball (MLB) for nine teams from 1979 to 2003, including four separate tenures with his original team, the Oakland Athletics. He is widely regarded as the greatest leadoff hitter and baserunner in the history of baseball. He holds MLB records for career stolen bases, runs, unintentional walks, and leadoff home runs. At the time of his last major league game in 2003, the 10-time American League (AL) All-Star ranked among the sport's top 100 all-time home run hitters and was its all-time leader in walks. In 2009, he was inducted to the Baseball Hall of Fame in his first year of eligibility.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rickey_Henderson",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/c/cc/RickeyHenderson1983.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/RickeyHenderson1983.jpg/330px-RickeyHenderson1983.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rickeyhenderson1983.jpg",
+          "width": 848,
+          "height": 926,
+          "title": "Rickey Henderson",
+          "description": "American baseball player (1958–2024)",
+          "extract": "Rickey Nelson Henley Henderson, nicknamed \"Man of Steal\", was an American professional baseball left fielder who played 25 seasons in Major League Baseball (MLB) for nine teams from 1979 to 2003, including four separate tenures with his original team, the Oakland Athletics. He is widely regarded as the greatest leadoff hitter and baserunner in the history of baseball. He holds MLB records for career stolen bases, runs, unintentional walks, and leadoff home runs. At the time of his last major league game in 2003, the 10-time American League (AL) All-Star ranked among the sport's top 100 all-time home run hitters and was its all-time leader in walks. In 2009, he was inducted to the Baseball Hall of Fame in his first year of eligibility.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rickey_Henderson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Baseball_steal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Baseball_steal.jpg/330px-Baseball_steal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "baseball_steal.jpg",
+          "width": 2643,
+          "height": 1762,
+          "title": "Stolen base",
+          "description": "In baseball, when a runner advances one or more bases before the ball has been batted",
+          "extract": "In baseball, a stolen base occurs when a runner advances to a base unaided by other actions and the official scorer rules that the advance should be credited to the action of the runner. The umpires determine whether the runner is safe or out at the next base, but the official scorer rules on the question of credit or blame for the advance under Rule 10 of the MLB's Official Rules.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Stolen_base",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Nolan_Ryan_Tiger_Stadium_1990_CROP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nolan_Ryan_Tiger_Stadium_1990_CROP.jpg/330px-Nolan_Ryan_Tiger_Stadium_1990_CROP.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nolan_ryan_tiger_stadium_1990_crop.jpg",
+          "width": 767,
+          "height": 886,
+          "title": "Nolan Ryan",
+          "description": "American baseball player (born 1947)",
+          "extract": "Lynn Nolan Ryan Jr., nicknamed \"the Ryan Express\", is an American former professional baseball pitcher and sports executive. Over a record 27-year playing career in Major League Baseball (MLB), Ryan pitched for the New York Mets, California Angels, Houston Astros, and Texas Rangers. After his retirement in 1993, Ryan served as chief executive officer (CEO) of the Texas Rangers and an executive advisor to the Houston Astros. He was inducted into the Baseball Hall of Fame in 1999 in his first year of eligibility, and is widely considered to be one of the greatest pitchers of all time.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nolan_Ryan",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Major League Baseball",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Major_League_Baseball",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "05-01-1982-1467eb64",
+      "year": 1982,
+      "text": "Operation Black Buck: The Royal Air Force attacks the Argentine Air Force during the Falklands War.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Blackbuck.operation.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Blackbuck.operation.png/330px-Blackbuck.operation.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "blackbuck.operation.png",
+        "width": 500,
+        "height": 500,
+        "title": "Operation Black Buck",
+        "description": "Series of British long-range airstrikes during the Falklands War",
+        "extract": "Operations Black Buck 1 to Black Buck 7 were seven extremely long-range airstrikes conducted during the 1982 Falklands War by Royal Air Force (RAF) Vulcan bombers of the RAF Waddington Wing, comprising aircraft from Nos. 44, 50 and 101 Squadrons, against Argentine positions in the Falkland Islands. Five of the missions completed attacks. The objective of the missions was to attack Port Stanley Airport and its associated defences. The raids, at almost 6,600 nautical miles and 16 hours for the round trip, were the longest-ranged bombing raids in history at that time.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Black_Buck",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Blackbuck.operation.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Blackbuck.operation.png/330px-Blackbuck.operation.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "blackbuck.operation.png",
+          "width": 500,
+          "height": 500,
+          "title": "Operation Black Buck",
+          "description": "Series of British long-range airstrikes during the Falklands War",
+          "extract": "Operations Black Buck 1 to Black Buck 7 were seven extremely long-range airstrikes conducted during the 1982 Falklands War by Royal Air Force (RAF) Vulcan bombers of the RAF Waddington Wing, comprising aircraft from Nos. 44, 50 and 101 Squadrons, against Argentine positions in the Falkland Islands. Five of the missions completed attacks. The objective of the missions was to attack Port Stanley Airport and its associated defences. The raids, at almost 6,600 nautical miles and 16 hours for the round trip, were the longest-ranged bombing raids in history at that time.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Black_Buck",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg/330px-HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hms_broadsword_and_hermes,_1982_(iwm).jpg",
+          "width": 800,
+          "height": 628,
+          "title": "Falklands War",
+          "description": "1982 undeclared Argentina–United Kingdom war",
+          "extract": "The Falklands War was a ten-week war in the South Atlantic in 1982 between Argentina and the United Kingdom over possession of the Falkland Islands and its dependencies of South Georgia and the South Sandwich Islands. The conflict began on 2 April 1982 when Argentina invaded the Falkland Islands, followed by the invasion of South Georgia the next day. On 5 April, the British government dispatched a naval task force to regain possession of the islands. The conflict lasted 74 days and ended with an Argentine surrender on 14 June, which formally returned possession to Britain. In total, 649 Argentine military personnel, 255 British military personnel, and 3 Falkland Islanders were killed during the hostilities.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Falklands_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RAF_Victor_in_Bermuda.jpg/330px-RAF_Victor_in_Bermuda.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RAF_Victor_in_Bermuda.jpg/330px-RAF_Victor_in_Bermuda.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "raf_victor_in_bermuda.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Victor XM717 (in Bermuda in 1984)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Black_Buck",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Operation Black Buck",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Operation_Black_Buck",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-01-1851-474762a7",
+      "year": 1851,
+      "text": "Queen Victoria opens The Great Exhibition at The Crystal Palace in London.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Queen_Victoria_by_Bassano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/330px-Queen_Victoria_by_Bassano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "queen_victoria_by_bassano.jpg",
+        "width": 2729,
+        "height": 3851,
+        "title": "Queen Victoria",
+        "description": "Queen of the United Kingdom from 1837 to 1901",
+        "extract": "Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, constituted the Victorian era, a period of industrial, political, scientific, and military change within the United Kingdom marked by a great expansion of the British Empire. In 1876, the British parliament voted to grant her the additional title of Empress of India.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Queen_Victoria",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Queen_Victoria_by_Bassano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/330px-Queen_Victoria_by_Bassano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_victoria_by_bassano.jpg",
+          "width": 2729,
+          "height": 3851,
+          "title": "Queen Victoria",
+          "description": "Queen of the United Kingdom from 1837 to 1901",
+          "extract": "Victoria was Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death in 1901. Her reign of 63 years and 216 days, which was longer than those of any of her predecessors, constituted the Victorian era, a period of industrial, political, scientific, and military change within the United Kingdom marked by a great expansion of the British Empire. In 1876, the British parliament voted to grant her the additional title of Empress of India.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Queen_Victoria",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/The_Crystal_Palace_in_Hyde_Park_for_Grand_International_Exhibition_of_1851.jpg/3840px-The_Crystal_Palace_in_Hyde_Park_for_Grand_International_Exhibition_of_1851.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/The_Crystal_Palace_in_Hyde_Park_for_Grand_International_Exhibition_of_1851.jpg/330px-The_Crystal_Palace_in_Hyde_Park_for_Grand_International_Exhibition_of_1851.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_crystal_palace_in_hyde_park_for_grand_international_exhibition_of_1851.jpg",
+          "width": 6113,
+          "height": 4049,
+          "title": "Great Exhibition",
+          "description": "1st world's fair in 1851 in London, England",
+          "extract": "The Great Exhibition of the Works of Industry of All Nations, also known as the Great Exhibition or the Crystal Palace Exhibition, was an international exhibition that took place in Hyde Park, London, from 1 May to 15 October 1851. It was the first in a series of world's fairs, exhibitions of culture and industry that became popular in the 19th century. The event was organised by Henry Cole and Albert, Prince Consort of Victoria, Queen of the United Kingdom.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Great_Exhibition",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Crystal_Palace_General_view_from_Water_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Crystal_Palace_General_view_from_Water_Temple.jpg/330px-Crystal_Palace_General_view_from_Water_Temple.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "crystal_palace_general_view_from_water_temple.jpg",
+          "width": 928,
+          "height": 706,
+          "title": "The Crystal Palace",
+          "description": "Glasshouse for the 1851 Great Exhibition in London",
+          "extract": "The Crystal Palace was a cast iron and plate glass structure, originally built in Hyde Park, London, to house the Great Exhibition of 1851. The exhibition took place from 1 May to 15 October 1851, and more than 14,000 exhibitors from around the world gathered in its 990,000-square-foot (92,000 m2) exhibition space to display examples of technology developed in the Industrial Revolution. Designed by Joseph Paxton, the Great Exhibition building was 1,851 feet (564 m) long, with an interior height of 128 feet (39 m), and was three times the size of St Paul's Cathedral.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Crystal_Palace",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Queen Victoria",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Queen_Victoria",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-01-1576-6f44df38",
+      "year": 1576,
+      "text": "Stephen Báthory and Anna Jagiellon  were crowned as the elected rulers of the Polish–Lithuanian Commonwealth.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Anonymous_Stephen_B%C3%A1thory_%28detail%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Anonymous_Stephen_B%C3%A1thory_%28detail%29_01.jpg/330px-Anonymous_Stephen_B%C3%A1thory_%28detail%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "anonymous_stephen_báthory_(detail)_01.jpg",
+        "width": 3096,
+        "height": 4128,
+        "title": "Stephen Báthory",
+        "description": "Ruler of the Polish-Lithuanian Commonwealth from 1576 to 1586",
+        "extract": "Stephen Báthory was King of Poland and Grand Duke of Lithuania as well as Prince of Transylvania (1576–1586), after previously being Voivode of Transylvania (1571–1576).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_B%C3%A1thory",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Anonymous_Stephen_B%C3%A1thory_%28detail%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Anonymous_Stephen_B%C3%A1thory_%28detail%29_01.jpg/330px-Anonymous_Stephen_B%C3%A1thory_%28detail%29_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anonymous_stephen_báthory_(detail)_01.jpg",
+          "width": 3096,
+          "height": 4128,
+          "title": "Stephen Báthory",
+          "description": "Ruler of the Polish-Lithuanian Commonwealth from 1576 to 1586",
+          "extract": "Stephen Báthory was King of Poland and Grand Duke of Lithuania as well as Prince of Transylvania (1576–1586), after previously being Voivode of Transylvania (1571–1576).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_B%C3%A1thory",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Kober_Anna_Jagiellon_in_coronation_robes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kober_Anna_Jagiellon_in_coronation_robes.jpg/330px-Kober_Anna_Jagiellon_in_coronation_robes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kober_anna_jagiellon_in_coronation_robes.jpg",
+          "width": 752,
+          "height": 1437,
+          "title": "Anna Jagiellon",
+          "description": "Ruler of Poland–Lithuania from 1575 to 1587",
+          "extract": "Anna Jagiellon was Queen of Poland and Grand Duchess of Lithuania from 1575 to 1587.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anna_Jagiellon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Riehl_Portrait_of_Stephen_Bathory.jpg/500px-Riehl_Portrait_of_Stephen_Bathory.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Riehl_Portrait_of_Stephen_Bathory.jpg/500px-Riehl_Portrait_of_Stephen_Bathory.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "riehl_portrait_of_stephen_bathory.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Stephen Báthory as King of Poland with a Mannerist crown from about 1584, most probably created for him in Gdańsk after Willem van den Blocke's design.[4]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Stephen_B%C3%A1thory",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Stephen Báthory",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Stephen_B%C3%A1thory",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-01-1947-1ed7be6b",
+      "year": 1947,
+      "text": "Sicilian separatist Salvatore Giuliano and his gang fired into a crowd of May Day marchers near Piana degli Albanesi, Sicily, killing 11 and wounding 33.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/GiulianoGenovese1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/GiulianoGenovese1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "giulianogenovese1.jpg",
+        "width": 265,
+        "height": 400,
+        "title": "Salvatore Giuliano",
+        "description": "Sicilian bandit (1922–1950)",
+        "extract": "Salvatore Giuliano was a Sicilian brigand, who rose to prominence in the disorder that followed the Allied invasion of Sicily in 1943. In September of that year, Giuliano became an outlaw after shooting and killing a police officer who tried to arrest him for black market food smuggling, at a time when 70 per cent of Sicily's food supply was provided by the black market. He maintained a band of subordinates for most of his career. He was a flamboyant, high-profile criminal, attacking the police at least as often as they sought him. In addition, he was a local power-broker in Sicilian politics between 1945 and 1948, including his role as a nominal colonel for the Movement for the Independence of Sicily. He and his band were held legally responsible for the Portella della Ginestra massacre, though there is some doubt about their role in the numerous deaths which occurred.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Salvatore_Giuliano",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/GiulianoGenovese1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/GiulianoGenovese1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "giulianogenovese1.jpg",
+          "width": 265,
+          "height": 400,
+          "title": "Salvatore Giuliano",
+          "description": "Sicilian bandit (1922–1950)",
+          "extract": "Salvatore Giuliano was a Sicilian brigand, who rose to prominence in the disorder that followed the Allied invasion of Sicily in 1943. In September of that year, Giuliano became an outlaw after shooting and killing a police officer who tried to arrest him for black market food smuggling, at a time when 70 per cent of Sicily's food supply was provided by the black market. He maintained a band of subordinates for most of his career. He was a flamboyant, high-profile criminal, attacking the police at least as often as they sought him. In addition, he was a local power-broker in Sicilian politics between 1945 and 1948, including his role as a nominal colonel for the Movement for the Independence of Sicily. He and his band were held legally responsible for the Portella della Ginestra massacre, though there is some doubt about their role in the numerous deaths which occurred.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Salvatore_Giuliano",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/e5/Portella_della_Ginestra_massacre_%28photo_of_mural%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Portella_della_Ginestra_massacre_%28photo_of_mural%29.jpg/330px-Portella_della_Ginestra_massacre_%28photo_of_mural%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "portella_della_ginestra_massacre_(photo_of_mural).jpg",
+          "width": 426,
+          "height": 281,
+          "title": "Portella della Ginestra massacre",
+          "description": "1947 mass killing by Sicilian separatists in Sicily, Italy",
+          "extract": "The Portella della Ginestra massacre refers to the killing of 11 people and wounding of 27 others during May Day celebrations in Sicily on 1 May 1947, in the municipality of Piana degli Albanesi. Those held responsible were the bandit and separatist leader Salvatore Giuliano and his gang, although their motives and intentions are still a matter of controversy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Portella_della_Ginestra_massacre",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Mayday%2C_mayday%21_%28496597063%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mayday%2C_mayday%21_%28496597063%29.jpg/330px-Mayday%2C_mayday%21_%28496597063%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mayday,_mayday!_(496597063).jpg",
+          "width": 2048,
+          "height": 1371,
+          "title": "May Day",
+          "description": "Festival marking the beginning of summer",
+          "extract": "May Day is a European festival of ancient origins marking the beginning of summer, usually celebrated on May 1, around halfway between the Northern Hemisphere's spring equinox and midsummer solstice. Festivities may also be held the night before, known as May Eve. Traditions include gathering green branches and wildflowers, which are used to decorate buildings and made into wreaths; crowning a May Queen, sometimes with a male companion decked in greenery; setting up a Maypole, May Tree, or May Bush, around which people dance and sing; as well as parades and processions involving these. Bonfires are also a major part of the festival in some regions. Regional varieties and related traditions include Walpurgis Night in central and northern Europe, the Gaelic festival Beltane, the Welsh festival Calan Mai, and May devotions to the Blessed Virgin Mary. It has also been associated with the ancient Roman festival Floralia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/May_Day",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Salvatore Giuliano",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Salvatore_Giuliano",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "05-01-2026-c18682ba",
+      "year": 2026,
+      "text": "After a ransomware attack by the group ShinyHunters, the education platform Canvas operated by private company Instructure, goes offline, affecting thousands of educational institutions.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/9/98/ShinyHunters_Hacking_Message.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/ShinyHunters_Hacking_Message.png/330px-ShinyHunters_Hacking_Message.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "shinyhunters_hacking_message.png",
+        "width": 1068,
+        "height": 1291,
+        "title": "2026 Canvas data breach",
+        "description": "Cybersecurity incident",
+        "extract": "In late April 2026, Canvas LMS, a learning management system operated by private company Instructure, was affected by a data breach and outage. Instructure disclosed that it was investigating a cybersecurity attack involving certain user data, including names, email addresses, student ID numbers, and messages among users. The company said it had found no evidence that passwords, birth dates, government IDs, or financial information were involved in the hacking.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2026_Canvas_data_breach",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/98/ShinyHunters_Hacking_Message.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/ShinyHunters_Hacking_Message.png/330px-ShinyHunters_Hacking_Message.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "shinyhunters_hacking_message.png",
+          "width": 1068,
+          "height": 1291,
+          "title": "2026 Canvas data breach",
+          "description": "Cybersecurity incident",
+          "extract": "In late April 2026, Canvas LMS, a learning management system operated by private company Instructure, was affected by a data breach and outage. Instructure disclosed that it was investigating a cybersecurity attack involving certain user data, including names, email addresses, student ID numbers, and messages among users. The company said it had found no evidence that passwords, birth dates, government IDs, or financial information were involved in the hacking.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2026_Canvas_data_breach",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/f/f5/ShinyHuntersWebsite.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/ShinyHuntersWebsite.png/330px-ShinyHuntersWebsite.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "shinyhunterswebsite.png",
+          "width": 2400,
+          "height": 1500,
+          "title": "ShinyHunters",
+          "description": "Black-hat criminal hacker group",
+          "extract": "ShinyHunters is a black-hat criminal hacker and extortion group that has been active since 2019 and is said to have been involved in a significant number of data breaches.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/ShinyHunters",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2026 Canvas data breach",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2026_Canvas_data_breach",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-01-2019-8d54bf63",
+      "year": 2019,
+      "text": "Naruhito ascends to the throne of Japan succeeding his father Akihito, beginning the Reiwa period.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg/330px-Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "emperor_naruhito_20250611_(54582524056,_cropped).jpg",
+        "width": 791,
+        "height": 1033,
+        "title": "Naruhito",
+        "description": "Emperor of Japan since 2019",
+        "extract": "Naruhito is Emperor of Japan. He acceded to the Chrysanthemum Throne on 1 May 2019 following the abdication of his father, Akihito. He is the 126th monarch, according to the traditional order of succession. His reign is known as the Reiwa era.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Naruhito",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg/330px-Emperor_Naruhito_20250611_%2854582524056%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "emperor_naruhito_20250611_(54582524056,_cropped).jpg",
+          "width": 791,
+          "height": 1033,
+          "title": "Naruhito",
+          "description": "Emperor of Japan since 2019",
+          "extract": "Naruhito is Emperor of Japan. He acceded to the Chrysanthemum Throne on 1 May 2019 following the abdication of his father, Akihito. He is the 126th monarch, according to the traditional order of succession. His reign is known as the Reiwa era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Naruhito",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Emperor_Akihito_%282016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Emperor_Akihito_%282016%29.jpg/330px-Emperor_Akihito_%282016%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "emperor_akihito_(2016).jpg",
+          "width": 639,
+          "height": 784,
+          "title": "Akihito",
+          "description": "Emperor of Japan from 1989 to 2019",
+          "extract": "Akihito is a member of the Imperial House of Japan who reigned as the 125th emperor of Japan from 7 January 1989 until his abdication on 30 April 2019. The era of his rule was named the Heisei era, Heisei being an expression of achieving peace worldwide.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Akihito",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Emperor_Naruhito_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Emperor_Naruhito_%28cropped%29.jpg/330px-Emperor_Naruhito_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "emperor_naruhito_(cropped).jpg",
+          "width": 623,
+          "height": 872,
+          "title": "Reiwa era",
+          "description": "Era of Japanese history (2019–present)",
+          "extract": "Reiwa  is the current and 232nd era of the official calendar of Japan. It began on 1 May 2019, the day on which Naruhito was enthroned as the 126th Emperor of Japan. He is the eldest son of Emperor Emeritus Akihito who had abdicated the Chrysanthemum Throne the previous day, marking the end of the Heisei era. The year 2019 corresponds with Heisei 31 from 1 January to 30 April, and with Reiwa 1  from 1 May. The Ministry of Foreign Affairs of Japan explained the meaning of Reiwa to be \"beautiful harmony\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Reiwa_era",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Naruhito",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Naruhito",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "05-01-2018-e495c85e",
+      "year": 2018,
+      "text": "Syrian civil war: The Syrian Democratic Forces (SDF) resumes the Deir ez-Zor campaign in order to clear the remnants of the Islamic State of Iraq and the Levant (ISIL) from the Iraq–Syria border.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bombed_out_vehicles_aleppo.jpg",
+        "width": 1210,
+        "height": 658,
+        "title": "Syrian civil war",
+        "description": "2011–2024 armed conflict in Syria",
+        "extract": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war even though clashes have continued into 2026.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bombed_out_vehicles_aleppo.jpg",
+          "width": 1210,
+          "height": 658,
+          "title": "Syrian civil war",
+          "description": "2011–2024 armed conflict in Syria",
+          "extract": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war even though clashes have continued into 2026.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg/500px-People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg/500px-People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "people's_defense_units_defending_ras_al-ayn_against_al-nusra_front_terrorists_(8).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "People's_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_(8)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rebel_rocket_artillery_%28Hama_March_2017%29.png/500px-Rebel_rocket_artillery_%28Hama_March_2017%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rebel_rocket_artillery_%28Hama_March_2017%29.png/500px-Rebel_rocket_artillery_%28Hama_March_2017%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "rebel_rocket_artillery_(hama_march_2017).png",
+          "width": 800,
+          "height": 600,
+          "title": "Rebel_rocket_artillery_(Hama_March_2017)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Syrian civil war",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "05-01-2003-3c61fef0",
+      "year": 2003,
+      "text": "Invasion of Iraq: In what becomes known as the \"Mission Accomplished\" speech, on board the USS Abraham Lincoln (off the coast of California), U.S. President George W. Bush declares that \"major combat operations in Iraq have ended\".",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/U.S._Marines_with_Iraqi_POWs_-_March_21%2C_2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/U.S._Marines_with_Iraqi_POWs_-_March_21%2C_2003.jpg/330px-U.S._Marines_with_Iraqi_POWs_-_March_21%2C_2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "u.s._marines_with_iraqi_pows_-_march_21,_2003.jpg",
+        "width": 1728,
+        "height": 1152,
+        "title": "2003 invasion of Iraq",
+        "description": "Military invasion led by the United States",
+        "extract": "The 2003 invasion of Iraq was the first stage of the Iraq War. The invasion began on 20 March 2003 and lasted just over one month, including 26 days of major combat operations. The invasion was conducted by a United States–led coalition of mainly American, British, Australian, and Polish troops.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2003_invasion_of_Iraq",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/U.S._Marines_with_Iraqi_POWs_-_March_21%2C_2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/U.S._Marines_with_Iraqi_POWs_-_March_21%2C_2003.jpg/330px-U.S._Marines_with_Iraqi_POWs_-_March_21%2C_2003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "u.s._marines_with_iraqi_pows_-_march_21,_2003.jpg",
+          "width": 1728,
+          "height": 1152,
+          "title": "2003 invasion of Iraq",
+          "description": "Military invasion led by the United States",
+          "extract": "The 2003 invasion of Iraq was the first stage of the Iraq War. The invasion began on 20 March 2003 and lasted just over one month, including 26 days of major combat operations. The invasion was conducted by a United States–led coalition of mainly American, British, Australian, and Polish troops.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2003_invasion_of_Iraq",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Mission_Accomplished_banner_on_the_USS_Abraham_Lincoln_%28CVN-72%29_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Mission_Accomplished_banner_on_the_USS_Abraham_Lincoln_%28CVN-72%29_%281%29.jpg/330px-Mission_Accomplished_banner_on_the_USS_Abraham_Lincoln_%28CVN-72%29_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mission_accomplished_banner_on_the_uss_abraham_lincoln_(cvn-72)_(1).jpg",
+          "width": 667,
+          "height": 301,
+          "title": "Mission Accomplished speech",
+          "description": "2003 speech by U.S. President George W. Bush",
+          "extract": "Mission Accomplished is the name given to a televised speech made on May 1, 2003, by United States president George W. Bush on the aircraft carrier USS Abraham Lincoln near the coast of California. Bush, who had launched the United States invasion of Iraq six weeks earlier, mounted a podium in front of a White House-produced banner that read \"Mission Accomplished\". Reading from a prepared text, he said, \"Major combat operations in Iraq have ended. In the battle of Iraq, the United States and our allies have prevailed ... because the regime [of Iraqi dictator Saddam Hussein] is no more.\" Although Bush went on to say that \"Our mission continues\" and \"We have difficult work to do in Iraq\", his words implied that the Iraq War was over and the United States-led Coalition forces had won.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mission_Accomplished_speech",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/USS_Abraham_Lincoln_%28CVN-72%29_underway_in_the_Atlantic_Ocean_on_30_January_2019_%28190130-N-PW716-1312%29.JPG/3840px-USS_Abraham_Lincoln_%28CVN-72%29_underway_in_the_Atlantic_Ocean_on_30_January_2019_%28190130-N-PW716-1312%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/USS_Abraham_Lincoln_%28CVN-72%29_underway_in_the_Atlantic_Ocean_on_30_January_2019_%28190130-N-PW716-1312%29.JPG/330px-USS_Abraham_Lincoln_%28CVN-72%29_underway_in_the_Atlantic_Ocean_on_30_January_2019_%28190130-N-PW716-1312%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "uss_abraham_lincoln_(cvn-72)_underway_in_the_atlantic_ocean_on_30_january_2019_(190130-n-pw716-1312).jpg",
+          "width": 4582,
+          "height": 3448,
+          "title": "USS Abraham Lincoln (CVN-72)",
+          "description": "US Navy Nimitz-class aircraft carrier",
+          "extract": "USS Abraham Lincoln (CVN-72) is the fifth Nimitz-class aircraft carrier in the United States Navy. It is the third Navy ship to have been named after the former president Abraham Lincoln. Its home port is NAS North Island, San Diego, California; she is a member of the United States Pacific Fleet. It was administratively responsible to Commander, Naval Air Forces Pacific, and operationally serves as the flagship of Carrier Strike Group 3 and host to Carrier Air Wing Nine.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/USS_Abraham_Lincoln_(CVN-72)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "2003 invasion of Iraq",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2003_invasion_of_Iraq",
+      "relatedPagesCount": 6
+    }
+  ]
+}

@@ -1,0 +1,679 @@
+{
+  "date": {
+    "month": 5,
+    "day": 27,
+    "formatted": "05-27"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "05-27-1999-524b1fdd",
+      "year": 1999,
+      "text": "Space Shuttle Discovery is launched on STS-96, the first shuttle mission to dock with the International Space Station.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+        "width": 3336,
+        "height": 2507,
+        "title": "Space Shuttle Discovery",
+        "description": "Space Shuttle orbiter (1984–2011)",
+        "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+          "width": 3336,
+          "height": 2507,
+          "title": "Space Shuttle Discovery",
+          "description": "Space Shuttle orbiter (1984–2011)",
+          "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tamara_E._Jernigan_Discovery_crew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Tamara_E._Jernigan_Discovery_crew.jpg/330px-Tamara_E._Jernigan_Discovery_crew.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tamara_e._jernigan_discovery_crew.jpg",
+          "width": 3072,
+          "height": 2040,
+          "title": "STS-96",
+          "description": "1999 American crewed spaceflight to the ISS",
+          "extract": "STS-96 was a Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle  Discovery, and the first shuttle flight to dock at the International Space Station. It was Discovery's 26th flight. The shuttle carried the Spacehab module in the payload, filled with cargo for station outfitting. STS-96 launched from Kennedy Space Center, Florida, on 27 May 1999 at 06:49:42 AM EDT and returned to Kennedy on 6 June 1999, 2:02:43 AM EDT.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-96",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/3840px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/330px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss-56_international_space_station_fly-around_(07).jpg",
+          "width": 6048,
+          "height": 4032,
+          "title": "International Space Station",
+          "description": "Modular space station in low Earth orbit",
+          "extract": "The International Space Station (ISS) is a space station in low Earth orbit (LEO). It is the product of the International Space Station program and is operated by five partner space agencies: NASA, Roscosmos (Russia), ESA (Europe), JAXA (Japan), and CSA (Canada). It is the first space station built, maintained and crewed through international cooperation and the largest human spacecraft ever constructed. It is an orbital research station, where scientific experiments in microgravity are conducted and the space environment is studied. Since 2 November 2000, it has hosted the longest continuous human presence in space. Alongside China's Tiangong, it is one of two currently operational space stations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/International_Space_Station",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Discovery",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-27-1995-965c680e",
+      "year": 1995,
+      "text": "American actor Christopher Reeve was thrown from his horse, leaving him quadriplegic; he later became an activist on behalf of people with spinal cord injuries.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/C_Reeve_in_Marriage_of_Figaro_Opening_night_1985.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/C_Reeve_in_Marriage_of_Figaro_Opening_night_1985.jpg/330px-C_Reeve_in_Marriage_of_Figaro_Opening_night_1985.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "c_reeve_in_marriage_of_figaro_opening_night_1985.jpg",
+        "width": 394,
+        "height": 507,
+        "title": "Christopher Reeve",
+        "description": "American actor and activist (1952–2004)",
+        "extract": "Christopher D'Olier Reeve was an American actor, activist, director, and author. He amassed many stage and screen credits in his 34-year career, including playing the title character in the Superman film series (1978–1987). He won a British Academy Film Award, an Emmy Award, a Grammy Award and a Screen Actors Guild Award. He was also known for his activism.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Christopher_Reeve",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/C_Reeve_in_Marriage_of_Figaro_Opening_night_1985.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/C_Reeve_in_Marriage_of_Figaro_Opening_night_1985.jpg/330px-C_Reeve_in_Marriage_of_Figaro_Opening_night_1985.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "c_reeve_in_marriage_of_figaro_opening_night_1985.jpg",
+          "width": 394,
+          "height": 507,
+          "title": "Christopher Reeve",
+          "description": "American actor and activist (1952–2004)",
+          "extract": "Christopher D'Olier Reeve was an American actor, activist, director, and author. He amassed many stage and screen credits in his 34-year career, including playing the title character in the Superman film series (1978–1987). He won a British Academy Film Award, an Emmy Award, a Grammy Award and a Screen Actors Guild Award. He was also known for his activism.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Christopher_Reeve",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Neurological_Levels_%26_Types_of_Paralysis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Neurological_Levels_%26_Types_of_Paralysis.png/330px-Neurological_Levels_%26_Types_of_Paralysis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "neurological_levels_&_types_of_paralysis.png",
+          "width": 2015,
+          "height": 1298,
+          "title": "Tetraplegia",
+          "description": "Paralysis of all four limbs and torso",
+          "extract": "Tetraplegia, also known as quadriplegia, is defined as the dysfunction or loss of motor or sensory function in all four limbs, typically caused by damage to the cervical area of the spinal cord. A loss of motor function can present as either weakness or paralysis leading to partial or total loss of function in the arms, legs, trunk, and pelvis. The paralysis may be flaccid or spastic. A loss of sensory function can present as an impairment or complete inability to sense light touch, pressure, heat, pinprick/pain, and proprioception. In these types of spinal cord or peripheral nerve injury, it is common to have a loss of both sensation and motor control.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tetraplegia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Cervical_Spine_MRI_%28T2W%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Cervical_Spine_MRI_%28T2W%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "cervical_spine_mri_(t2w).jpg",
+          "width": 245,
+          "height": 289,
+          "title": "Spinal cord injury",
+          "description": "Injury to the main nerve bundle in the back of humans",
+          "extract": "A spinal cord injury (SCI) is damage to the spinal cord that causes temporary or permanent changes in its function. It is a destructive neurological and pathological state that causes major motor, sensory and autonomic dysfunctions.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Spinal_cord_injury",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Christopher Reeve",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Christopher_Reeve",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-27-1930-95f21aa6",
+      "year": 1930,
+      "text": "The 1,046 feet (319 m) Chrysler Building in New York City, the tallest man-made structure at the time, opens to the public.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "view_of_empire_state_building_from_rockefeller_center_new_york_city_dllu_(cropped).jpg",
+        "width": 8207,
+        "height": 4616,
+        "title": "New York City",
+        "description": "Most populous city in the United States",
+        "extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance and commerce, culture, entertainment and media, academics and scientific output, the arts and fashion—and as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/New_York_City",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "view_of_empire_state_building_from_rockefeller_center_new_york_city_dllu_(cropped).jpg",
+          "width": 8207,
+          "height": 4616,
+          "title": "New York City",
+          "description": "Most populous city in the United States",
+          "extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance and commerce, culture, entertainment and media, academics and scientific output, the arts and fashion—and as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/New_York_City",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/93/Burj_Khalifa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Burj_Khalifa.jpg/330px-Burj_Khalifa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "burj_khalifa.jpg",
+          "width": 3279,
+          "height": 5740,
+          "title": "List of tallest buildings",
+          "description": "",
+          "extract": "This is a list of the tallest buildings. Tall buildings, such as skyscrapers, are intended here as enclosed structures with continuously occupiable floors and a height of at least 350 metres (1,148 ft). Such definition excludes non-building structures, such as radio towers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/List_of_tallest_buildings",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chrysler_Building_by_David_Shankbone_Retouched.jpg/500px-Chrysler_Building_by_David_Shankbone_Retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Chrysler_Building_by_David_Shankbone_Retouched.jpg/500px-Chrysler_Building_by_David_Shankbone_Retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "chrysler_building_by_david_shankbone_retouched.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Chrysler_Building_by_David_Shankbone_Retouched",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chrysler_Building",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Chrysler Building",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Chrysler_Building",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-27-1958-c2496e54",
+      "year": 1958,
+      "text": "The F-4 Phantom II, the principal air superiority jet fighter for both the U.S. Navy and Air Force, made its first flight.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/QF-4_Holloman_AFB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/QF-4_Holloman_AFB.jpg/330px-QF-4_Holloman_AFB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "qf-4_holloman_afb.jpg",
+        "width": 1668,
+        "height": 1123,
+        "title": "McDonnell Douglas F-4 Phantom II",
+        "description": "Fighter aircraft family developed from 1958",
+        "extract": "The McDonnell Douglas F-4 Phantom II is an American tandem two-seat, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber that was developed by McDonnell Aircraft for the United States Navy. It entered service with the Navy in 1961, then was adopted by the United States Marine Corps, and the United States Air Force, and within a few years became a major part of their air arms. A total of 5,195 Phantoms were built from 1958 to 1981, making it the most-produced American supersonic military aircraft in history and a signature combat aircraft of the Cold War.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/QF-4_Holloman_AFB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/QF-4_Holloman_AFB.jpg/330px-QF-4_Holloman_AFB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "qf-4_holloman_afb.jpg",
+          "width": 1668,
+          "height": 1123,
+          "title": "McDonnell Douglas F-4 Phantom II",
+          "description": "Fighter aircraft family developed from 1958",
+          "extract": "The McDonnell Douglas F-4 Phantom II is an American tandem two-seat, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber that was developed by McDonnell Aircraft for the United States Navy. It entered service with the Navy in 1961, then was adopted by the United States Marine Corps, and the United States Air Force, and within a few years became a major part of their air arms. A total of 5,195 Phantoms were built from 1958 to 1981, making it the most-produced American supersonic military aircraft in history and a signature combat aircraft of the Cold War.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/384th_Bomb_Group_8th_AF_B-17_Bombers_in_Formation_Over_Clouds.2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/384th_Bomb_Group_8th_AF_B-17_Bombers_in_Formation_Over_Clouds.2.jpg/330px-384th_Bomb_Group_8th_AF_B-17_Bombers_in_Formation_Over_Clouds.2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "384th_bomb_group_8th_af_b-17_bombers_in_formation_over_clouds.2.jpg",
+          "width": 1321,
+          "height": 808,
+          "title": "Air supremacy",
+          "description": "Complete control in air warfare",
+          "extract": "Air supremacy is the degree to which a side in a conflict holds control of air power over opposing forces. There are levels of control of the air in aerial warfare. Control of the air is the aerial equivalent of command of the sea.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Air_supremacy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/McDonnell_F3H-G_mockup_in_1954.jpg/1280px-McDonnell_F3H-G_mockup_in_1954.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/McDonnell_F3H-G_mockup_in_1954.jpg/1280px-McDonnell_F3H-G_mockup_in_1954.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "mcdonnell_f3h-g_mockup_in_1954.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The McDonnell F3H-G/H mockup, 1954",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "McDonnell Douglas F-4 Phantom II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-27-1096-0a7244ad",
+      "year": 1096,
+      "text": "The largest of the Rhineland massacres (depicted) took place in Mainz, where at least 1,100 Jews were killed by the People's Crusade.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Massacre_of_Jews.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Massacre_of_Jews.jpg/330px-Massacre_of_Jews.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "massacre_of_jews.jpg",
+        "width": 480,
+        "height": 395,
+        "title": "Rhineland massacres",
+        "description": "Pogroms of 1096",
+        "extract": "The Rhineland massacres, also known as the German Crusade of 1096, were a series of mass murders of Jews in the Rhineland which took place in 1096 A.D. They were perpetrated by mobs of French and German Christian peasants during the People's Crusade. These massacres are generally regarded as the beginning of a long sequence of antisemitic persecution in Europe, which culminated in the 20th century during the Holocaust.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rhineland_massacres",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Massacre_of_Jews.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Massacre_of_Jews.jpg/330px-Massacre_of_Jews.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "massacre_of_jews.jpg",
+          "width": 480,
+          "height": 395,
+          "title": "Rhineland massacres",
+          "description": "Pogroms of 1096",
+          "extract": "The Rhineland massacres, also known as the German Crusade of 1096, were a series of mass murders of Jews in the Rhineland which took place in 1096 A.D. They were perpetrated by mobs of French and German Christian peasants during the People's Crusade. These massacres are generally regarded as the beginning of a long sequence of antisemitic persecution in Europe, which culminated in the 20th century during the Holocaust.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rhineland_massacres",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mainzer_Dom_Blaue_Stunde_%2837539430014%29.jpg/3840px-Mainzer_Dom_Blaue_Stunde_%2837539430014%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mainzer_Dom_Blaue_Stunde_%2837539430014%29.jpg/330px-Mainzer_Dom_Blaue_Stunde_%2837539430014%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mainzer_dom_blaue_stunde_(37539430014).jpg",
+          "width": 6016,
+          "height": 4016,
+          "title": "Mainz",
+          "description": "Capital of Rhineland-Palatinate, Germany",
+          "extract": "Mainz is the capital and largest city of the German state of Rhineland-Palatinate, and with around 223,000 inhabitants, it is Germany's 35th-largest city. It lies in the Rhine-Main Metropolitan Region — Germany's second-largest metropolitan region after Rhine-Ruhr — which also encompasses the cities of Frankfurt am Main, Wiesbaden, Darmstadt, Offenbach am Main, and Hanau.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mainz",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/PeoplesCrusadeMassacre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/PeoplesCrusadeMassacre.jpg/330px-PeoplesCrusadeMassacre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "peoplescrusademassacre.jpg",
+          "width": 858,
+          "height": 1247,
+          "title": "People's Crusade",
+          "description": "Prelude to the First Crusade (April–October 1096)",
+          "extract": "The People's Crusade was the beginning phase of the First Crusade whose objective was to retake the Holy Land, and Jerusalem in particular, from Islamic rule. In 1095, after the head of the Catholic Church Pope Urban II started to urge faithful Christians to undertake an armed pilgrimage to Jerusalem, the People's Crusade was conducted for roughly six months from April to October 1096. It is also known as the Peasants' Crusade, Paupers' Crusade or the Popular Crusade as it was executed by a mainly untrained peasant army prior to the main church-organized crusade. It was led primarily by Peter the Hermit with forces of Walter Sans Avoir. The peasant army of this crusade was largely destroyed by the forces of the Seljuk Turks under Kilij Arslan at the Battle of Civetot in northwestern Anatolia, though some survivors joined the armies of the Prince's Crusade in Constantinople.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/People's_Crusade",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Rhineland massacres",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Rhineland_massacres",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-27-1963-41283817",
+      "year": 1963,
+      "text": "American singer Bob Dylan (pictured) released The Freewheelin' Bob Dylan, his first album to include a significant number of original songs.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg/330px-DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "dylanyoungkilkenny140719v2_(50_of_52)_(52246124397)_(cropped).jpg",
+        "width": 1620,
+        "height": 2165,
+        "title": "Bob Dylan",
+        "description": "American singer-songwriter (born 1941)",
+        "extract": "Bob Dylan is an American singer-songwriter. Described as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 69-year career. Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s, infusing it \"with the intellectualism of classic literature and poetry\". His lyrics incorporated political, social, and philosophical influences, defying pop music conventions and appealing to the burgeoning counterculture.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bob_Dylan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg/330px-DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dylanyoungkilkenny140719v2_(50_of_52)_(52246124397)_(cropped).jpg",
+          "width": 1620,
+          "height": 2165,
+          "title": "Bob Dylan",
+          "description": "American singer-songwriter (born 1941)",
+          "extract": "Bob Dylan is an American singer-songwriter. Described as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 69-year career. Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s, infusing it \"with the intellectualism of classic literature and poetry\". His lyrics incorporated political, social, and philosophical influences, defying pop music conventions and appealing to the burgeoning counterculture.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bob_Dylan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Bob_Dylan_-_The_Freewheelin%27_Bob_Dylan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bob_Dylan_-_The_Freewheelin%27_Bob_Dylan.jpg/330px-Bob_Dylan_-_The_Freewheelin%27_Bob_Dylan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bob_dylan_-_the_freewheelin'_bob_dylan.jpg",
+          "width": 1080,
+          "height": 1080,
+          "title": "The Freewheelin' Bob Dylan",
+          "description": "1963 studio album by Bob Dylan",
+          "extract": "The Freewheelin' Bob Dylan is the second studio album by the American singer-songwriter Bob Dylan. It was released on May 27, 1963, through Columbia Records. The record marks the beginning of Dylan's writing contemporary lyrics to traditional melodies. His debut album Bob Dylan contains only two original songs, whereas eleven of the thirteen songs on Freewheelin' are Dylan's compositions. It opens with \"Blowin' in the Wind\", which became an anthem of the 1960s, and an international hit for folk trio Peter, Paul and Mary soon after the release of the album. The album featured several other songs which came to be regarded as among Dylan's best compositions and classics of the 1960s folk scene: \"Girl from the North Country\", \"Masters of War\", \"A Hard Rain's a-Gonna Fall\" and \"Don't Think Twice, It's All Right\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Freewheelin'_Bob_Dylan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ZimmermanHouseHibbingMN.jpg/1280px-ZimmermanHouseHibbingMN.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ZimmermanHouseHibbingMN.jpg/1280px-ZimmermanHouseHibbingMN.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "zimmermanhousehibbingmn.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The Bob Dylan Childhood Home in Hibbing, Minnesota",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bob_Dylan",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Bob Dylan",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bob_Dylan",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "05-27-1962-1c9f63d3",
+      "year": 1962,
+      "text": "The Centralia mine fire is ignited in the town's landfill above a coal mine.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Old_Mine_Fire_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Old_Mine_Fire_1969.jpg/330px-Old_Mine_Fire_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "old_mine_fire_1969.jpg",
+        "width": 1440,
+        "height": 1525,
+        "title": "Centralia mine fire",
+        "description": "Long-burning coal-seam fire in Pennsylvania, US",
+        "extract": "A coal-seam fire has been burning in the labyrinth of abandoned coal mines underneath the borough of Centralia, Pennsylvania, United States, since at least May 27, 1962. Its original cause and start date are still a matter of debate. It is burning at depths of up to 300 feet (90 m) over an 8-mile (13 km) stretch of 3,700 acres (15 km2). At its current rate, it could continue to burn for over 250 years. Due to the fire, Centralia was mostly abandoned in the 1980s. There were 1,500 residents at the time the fire is believed to have started, but as of 2017 Centralia has a population of 5 and most of the buildings have been demolished.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Centralia_mine_fire",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Old_Mine_Fire_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Old_Mine_Fire_1969.jpg/330px-Old_Mine_Fire_1969.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "old_mine_fire_1969.jpg",
+          "width": 1440,
+          "height": 1525,
+          "title": "Centralia mine fire",
+          "description": "Long-burning coal-seam fire in Pennsylvania, US",
+          "extract": "A coal-seam fire has been burning in the labyrinth of abandoned coal mines underneath the borough of Centralia, Pennsylvania, United States, since at least May 27, 1962. Its original cause and start date are still a matter of debate. It is burning at depths of up to 300 feet (90 m) over an 8-mile (13 km) stretch of 3,700 acres (15 km2). At its current rate, it could continue to burn for over 250 years. Due to the fire, Centralia was mostly abandoned in the 1980s. There were 1,500 residents at the time the fire is believed to have started, but as of 2017 Centralia has a population of 5 and most of the buildings have been demolished.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Centralia_mine_fire",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Smoke_Rising_From_The_Former_Pennsylvania_Route_61.jpg/1280px-Smoke_Rising_From_The_Former_Pennsylvania_Route_61.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Smoke_Rising_From_The_Former_Pennsylvania_Route_61.jpg/1280px-Smoke_Rising_From_The_Former_Pennsylvania_Route_61.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "smoke_rising_from_the_former_pennsylvania_route_61.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Steam rising through a fissure in the ground in the closed-off area of former Pennsylvania Route 61 in 2010. The melted snow shows areas where heat is escaping from the ground below.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Centralia_mine_fire",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dump0307.png/1280px-Dump0307.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Dump0307.png/1280px-Dump0307.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "dump0307.png",
+          "width": 800,
+          "height": 600,
+          "title": "The Buck Vein Outcrop",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Centralia_mine_fire",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Centralia mine fire",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Centralia_mine_fire",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "05-27-2017-903ac76f",
+      "year": 2017,
+      "text": "Andrew Scheer takes over after Rona Ambrose as the leader of the Conservative Party of Canada.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Andrew_Scheer_%2835173037403%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Andrew_Scheer_%2835173037403%29_%28cropped%29.jpg/330px-Andrew_Scheer_%2835173037403%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "andrew_scheer_(35173037403)_(cropped).jpg",
+        "width": 940,
+        "height": 1197,
+        "title": "Andrew Scheer",
+        "description": "Canadian politician (born 1979)",
+        "extract": "Andrew James Scheer is a Canadian politician who has been the member of Parliament (MP) for Regina—Qu'Appelle since 2004. Scheer was the leader of the Conservative Party of Canada from 2017 to 2020. He served as the leader of the Official Opposition from 2017 to 2020 and briefly in 2025. He was the 35th speaker of the House of Commons from 2011 to 2015.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Andrew_Scheer",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Andrew_Scheer_%2835173037403%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Andrew_Scheer_%2835173037403%29_%28cropped%29.jpg/330px-Andrew_Scheer_%2835173037403%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "andrew_scheer_(35173037403)_(cropped).jpg",
+          "width": 940,
+          "height": 1197,
+          "title": "Andrew Scheer",
+          "description": "Canadian politician (born 1979)",
+          "extract": "Andrew James Scheer is a Canadian politician who has been the member of Parliament (MP) for Regina—Qu'Appelle since 2004. Scheer was the leader of the Conservative Party of Canada from 2017 to 2020. He served as the leader of the Official Opposition from 2017 to 2020 and briefly in 2025. He was the 35th speaker of the House of Commons from 2011 to 2015.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Andrew_Scheer",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Rona_Ambrose_at_the_67th_World_Health_Assembly_-_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rona_Ambrose_at_the_67th_World_Health_Assembly_-_2014_%28cropped%29.jpg/330px-Rona_Ambrose_at_the_67th_World_Health_Assembly_-_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rona_ambrose_at_the_67th_world_health_assembly_-_2014_(cropped).jpg",
+          "width": 1869,
+          "height": 1822,
+          "title": "Rona Ambrose",
+          "description": "Canadian politician (born 1969)",
+          "extract": "Ronalee Ambrose Veitch is a former Canadian politician who served as leader of the Official Opposition and interim leader of the Conservative Party from 2015 to 2017. She was the member of Parliament (MP) for Sturgeon River—Parkland from 2015 to 2017, after previously representing Edmonton—Spruce Grove from 2004 to 2015.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rona_Ambrose",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Signature_of_Andrew_Scheer.png/1280px-Signature_of_Andrew_Scheer.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Signature_of_Andrew_Scheer.png/1280px-Signature_of_Andrew_Scheer.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "signature_of_andrew_scheer.png",
+          "width": 800,
+          "height": 600,
+          "title": "Signature_of_Andrew_Scheer",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Andrew_Scheer",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Andrew Scheer",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Andrew_Scheer",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-27-2016-9b22bbcb",
+      "year": 2016,
+      "text": "Barack Obama is the first president of the United States to visit Hiroshima Peace Memorial Park and meet Hibakusha.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/330px-President_Barack_Obama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "president_barack_obama.jpg",
+        "width": 2687,
+        "height": 3356,
+        "title": "Barack Obama",
+        "description": "President of the United States from 2009 to 2017",
+        "extract": "Barack Hussein Obama II is an American politician who served as the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African American to serve as president. Obama represented Illinois in the United States Senate from 2005 to 2008 and served as an Illinois state senator from 1997 to 2004.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Barack_Obama",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/330px-President_Barack_Obama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "president_barack_obama.jpg",
+          "width": 2687,
+          "height": 3356,
+          "title": "Barack Obama",
+          "description": "President of the United States from 2009 to 2017",
+          "extract": "Barack Hussein Obama II is an American politician who served as the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African American to serve as president. Obama represented Illinois in the United States Senate from 2005 to 2008 and served as an Illinois state senator from 1997 to 2004.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Barack_Obama",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/20181111_Hiroshima_Memorial_Cenotaph-1.jpg/3840px-20181111_Hiroshima_Memorial_Cenotaph-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/20181111_Hiroshima_Memorial_Cenotaph-1.jpg/330px-20181111_Hiroshima_Memorial_Cenotaph-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "20181111_hiroshima_memorial_cenotaph-1.jpg",
+          "width": 5509,
+          "height": 3673,
+          "title": "Hiroshima Peace Memorial Park",
+          "description": "Memorial to the atomic bombing of Hiroshima, Japan",
+          "extract": "Hiroshima Peace Memorial Park  is a memorial park in the center of Hiroshima, Japan. It is dedicated to the legacy of Hiroshima as the first city in the world to suffer a nuclear attack at the end of World War II, and to the memories of the bomb's direct and indirect victims. The Hiroshima Peace Memorial Park is visited by more than one million people each year. The park is there in memory of the victims of the nuclear attack on August 6, 1945, in which the United States dropped an atomic bomb on the Japanese city of Hiroshima. The Hiroshima Peace Memorial Park was planned and designed by the Japanese Architect Kenzō Tange at Tange Lab.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hiroshima_Peace_Memorial_Park",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/The_patient%27s_skin_is_burned_in_a_pattern_corresponding_to_the_dark_portions_of_a_kimono_-_NARA_-_519686.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/The_patient%27s_skin_is_burned_in_a_pattern_corresponding_to_the_dark_portions_of_a_kimono_-_NARA_-_519686.jpg/330px-The_patient%27s_skin_is_burned_in_a_pattern_corresponding_to_the_dark_portions_of_a_kimono_-_NARA_-_519686.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_patient's_skin_is_burned_in_a_pattern_corresponding_to_the_dark_portions_of_a_kimono_-_nara_-_519686.jpg",
+          "width": 2362,
+          "height": 2955,
+          "title": "Hibakusha",
+          "description": "Survivors of atomic bombings in Japan",
+          "extract": "Hibakusha is a word of Japanese origin generally designating the people affected by the atomic bombings of Hiroshima and Nagasaki by the United States at the end of World War II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hibakusha",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Barack Obama",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Barack_Obama",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "05-27-2014-f687deb7",
+      "year": 2014,
+      "text": "The football club Kerala Blasters FC and its first supporters' group Manjappada were formed.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/7/71/Manjappada_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/7/71/Manjappada_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "manjappada_logo.png",
+        "width": 300,
+        "height": 300,
+        "title": "Manjappada",
+        "description": "Kerala Blasters FC supporters' group",
+        "extract": "Manjappada is an organised supporters' group of the Kochi-based professional football club Kerala Blasters FC, which competes in the Indian Super League, the top-tier league of Indian football. One of the largest and most active sports fan groups in the country, Manjappada received the Indian Sports Honours Fan Club of the Year award three times, in 2017, 2019 and 2024.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Manjappada",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/7/71/Manjappada_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/7/71/Manjappada_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "manjappada_logo.png",
+          "width": 300,
+          "height": 300,
+          "title": "Manjappada",
+          "description": "Kerala Blasters FC supporters' group",
+          "extract": "Manjappada is an organised supporters' group of the Kochi-based professional football club Kerala Blasters FC, which competes in the Indian Super League, the top-tier league of Indian football. One of the largest and most active sports fan groups in the country, Manjappada received the Indian Sports Honours Fan Club of the Year award three times, in 2017, 2019 and 2024.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Manjappada",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/SachinTendulkar4.jpg/500px-SachinTendulkar4.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/SachinTendulkar4.jpg/500px-SachinTendulkar4.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "sachintendulkar4.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Sachin Tendulkar, one of the first co-owners of the club",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kerala_Blasters_FC",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Kerala Blasters FC",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Kerala_Blasters_FC",
+      "relatedPagesCount": 2
+    }
+  ]
+}

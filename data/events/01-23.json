@@ -1,0 +1,643 @@
+{
+  "date": {
+    "month": 1,
+    "day": 23,
+    "formatted": "01-23"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "01-23-2003-23e80647",
+      "year": 2003,
+      "text": "The final signal was detected from the NASA space probe Pioneer 10, then about 12 billion kilometres (7.5 billion miles) from Earth.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/An_artist%27s_impression_of_a_Pioneer_spacecraft_on_its_way_to_interstellar_space.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/An_artist%27s_impression_of_a_Pioneer_spacecraft_on_its_way_to_interstellar_space.jpg/330px-An_artist%27s_impression_of_a_Pioneer_spacecraft_on_its_way_to_interstellar_space.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "an_artist's_impression_of_a_pioneer_spacecraft_on_its_way_to_interstellar_space.jpg",
+        "width": 3000,
+        "height": 2477,
+        "title": "Pioneer 10",
+        "description": "First spacecraft to visit Jupiter and the outer Solar System (1972–2003)",
+        "extract": "Pioneer 10 is a NASA space probe launched in 1972 that completed the first mission to the planet Jupiter. It was the first spacecraft to traverse the asteroid belt and the first of five artificial objects to achieve the escape velocity needed to leave the Solar System. The mission was managed by NASA Ames Research Center in California, and the spacecraft was built by TRW Inc.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pioneer_10",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/An_artist%27s_impression_of_a_Pioneer_spacecraft_on_its_way_to_interstellar_space.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/An_artist%27s_impression_of_a_Pioneer_spacecraft_on_its_way_to_interstellar_space.jpg/330px-An_artist%27s_impression_of_a_Pioneer_spacecraft_on_its_way_to_interstellar_space.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "an_artist's_impression_of_a_pioneer_spacecraft_on_its_way_to_interstellar_space.jpg",
+          "width": 3000,
+          "height": 2477,
+          "title": "Pioneer 10",
+          "description": "First spacecraft to visit Jupiter and the outer Solar System (1972–2003)",
+          "extract": "Pioneer 10 is a NASA space probe launched in 1972 that completed the first mission to the planet Jupiter. It was the first spacecraft to traverse the asteroid belt and the first of five artificial objects to achieve the escape velocity needed to leave the Solar System. The mission was managed by NASA Ames Research Center in California, and the spacecraft was built by TRW Inc.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pioneer_10",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nasa_hq_building.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "NASA_HQ_Building",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bell_X-1A_in_flight.jpg/1280px-Bell_X-1A_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bell_X-1A_in_flight.jpg/1280px-Bell_X-1A_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bell_x-1a_in_flight.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A US Air Force Bell X-1 test flight",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "NASA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-23-1986-40169f6c",
+      "year": 1986,
+      "text": "The Rock and Roll Hall of Fame inducts its first members: Little Richard, Chuck Berry, James Brown, Ray Charles, Sam Cooke, Fats Domino, The Everly Brothers, Buddy Holly, Jerry Lee Lewis and Elvis Presley.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Rock_and_Roll_Hall_of_Fame_-_Joy_of_Museums_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rock_and_Roll_Hall_of_Fame_-_Joy_of_Museums_1.jpg/330px-Rock_and_Roll_Hall_of_Fame_-_Joy_of_Museums_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "rock_and_roll_hall_of_fame_-_joy_of_museums_1.jpg",
+        "width": 2736,
+        "height": 1824,
+        "title": "Rock and Roll Hall of Fame",
+        "description": "Music museum in Cleveland, Ohio, US",
+        "extract": "The Rock and Roll Hall of Fame (RRHOF), also simply referred to as the Rock Hall, is a museum and hall of fame located in downtown Cleveland, Ohio, United States, on the shore of Lake Erie. The museum documents the history of rock music and the artists, producers, engineers, and other personnel who have influenced its development.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Rock_and_Roll_Hall_of_Fame_-_Joy_of_Museums_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rock_and_Roll_Hall_of_Fame_-_Joy_of_Museums_1.jpg/330px-Rock_and_Roll_Hall_of_Fame_-_Joy_of_Museums_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rock_and_roll_hall_of_fame_-_joy_of_museums_1.jpg",
+          "width": 2736,
+          "height": 1824,
+          "title": "Rock and Roll Hall of Fame",
+          "description": "Music museum in Cleveland, Ohio, US",
+          "extract": "The Rock and Roll Hall of Fame (RRHOF), also simply referred to as the Rock Hall, is a museum and hall of fame located in downtown Cleveland, Ohio, United States, on the shore of Lake Erie. The museum documents the history of rock music and the artists, producers, engineers, and other personnel who have influenced its development.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Little_Richard_1984_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Little_Richard_1984_%28cropped%29.jpg/330px-Little_Richard_1984_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "little_richard_1984_(cropped).jpg",
+          "width": 1316,
+          "height": 1678,
+          "title": "Little Richard",
+          "description": "American musician and songwriter (1932–2020)",
+          "extract": "Richard Wayne Penniman, better known by his stage name Little Richard, was an American singer-songwriter and pianist. He was an influential figure in popular music and culture for seven decades. Referred to as the \"Architect of Rock and Roll\", Richard's most celebrated work dates from the mid-1950s, when his charismatic showmanship and dynamic music, characterized by frenetic piano playing, pounding backbeat and powerful raspy vocals, laid the foundation for rock and roll. Richard's innovative emotive vocalizations and uptempo rhythmic music played a key role in the formation of other popular music genres, including soul and funk. He influenced singers and musicians across musical genres and his music helped shape rhythm and blues for generations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Little_Richard",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Chuck_Berry_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chuck_Berry_1957.jpg/330px-Chuck_Berry_1957.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chuck_berry_1957.jpg",
+          "width": 1234,
+          "height": 1558,
+          "title": "Chuck Berry",
+          "description": "American musician (1926–2017)",
+          "extract": "Charles Edward Anderson Berry was an American guitarist, singer, and songwriter who was one of the pioneers of rock and roll. Nicknamed the \"Father of Rock and Roll\", he refined and developed rhythm and blues into the major elements that made rock and roll distinctive with songs such as \"Maybellene\" (1955), \"Roll Over Beethoven\" (1956), \"Rock and Roll Music\" (1957), and \"Johnny B. Goode\" (1958). Writing lyrics that focused on teen life and consumerism, and developing a music style that included guitar solos and showmanship, Berry was a major influence on subsequent rock music.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chuck_Berry",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Rock and Roll Hall of Fame",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame",
+      "relatedPagesCount": 11
+    },
+    {
+      "id": "01-23-2024-06372703",
+      "year": 2024,
+      "text": "Northwestern Air Flight 738 crashes after takeoff from Fort Smith Airport, Northwest Territories, Canada, killing six people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Foto_del_Avi%C3%B3n_accidentado..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Foto_del_Avi%C3%B3n_accidentado..jpg/330px-Foto_del_Avi%C3%B3n_accidentado..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "foto_del_avión_accidentado..jpg",
+        "width": 1600,
+        "height": 1200,
+        "title": "Northwestern Air Flight 738",
+        "description": "2024 aviation accident in Canada",
+        "extract": "On 23 January 2024, Northwestern Air Flight 738, a British Aerospace Jetstream, was chartered by the Rio Tinto Group to carry mine workers from Fort Smith to the Diavik Diamond Mine, located around 300 km (190 mi) northeast of Yellowknife. The aircraft crashed shortly after takeoff, 1,200 m (3,900 ft) from the runway near Fort Smith Airport, killing six of the seven passengers and crew. The only survivor was taken to the Fort Smith Health Centre and was later airlifted to the Stanton Territorial Hospital in Yellowknife for further treatment.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Northwestern_Air_Flight_738",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Foto_del_Avi%C3%B3n_accidentado..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Foto_del_Avi%C3%B3n_accidentado..jpg/330px-Foto_del_Avi%C3%B3n_accidentado..jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "foto_del_avión_accidentado..jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": "Northwestern Air Flight 738",
+          "description": "2024 aviation accident in Canada",
+          "extract": "On 23 January 2024, Northwestern Air Flight 738, a British Aerospace Jetstream, was chartered by the Rio Tinto Group to carry mine workers from Fort Smith to the Diavik Diamond Mine, located around 300 km (190 mi) northeast of Yellowknife. The aircraft crashed shortly after takeoff, 1,200 m (3,900 ft) from the runway near Fort Smith Airport, killing six of the seven passengers and crew. The only survivor was taken to the Fort Smith Health Centre and was later airlifted to the Stanton Territorial Hospital in Yellowknife for further treatment.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Northwestern_Air_Flight_738",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Northwestern_Air_-_BAe_Jetstream_32_%28Quintin_Soloviev%29.jpg/1280px-Northwestern_Air_-_BAe_Jetstream_32_%28Quintin_Soloviev%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Northwestern_Air_-_BAe_Jetstream_32_%28Quintin_Soloviev%29.jpg/1280px-Northwestern_Air_-_BAe_Jetstream_32_%28Quintin_Soloviev%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "northwestern_air_-_bae_jetstream_32_(quintin_soloviev).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Northwestern_Air_-_BAe_Jetstream_32_(Quintin_Soloviev)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Northwestern_Air_Flight_738",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Northwestern Air Flight 738",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Northwestern_Air_Flight_738",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-23-1571-c527b3f7",
+      "year": 1571,
+      "text": "Queen Elizabeth I opened the Royal Exchange in London, giving it its royal title.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/330px-Darnley_stage_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "darnley_stage_3.jpg",
+        "width": 1581,
+        "height": 2313,
+        "title": "Elizabeth I",
+        "description": "Queen of England and Ireland from 1558 to 1603",
+        "extract": "Elizabeth I was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her eventful reign, and its effect on history and culture, gave name to the Elizabethan era.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Darnley_stage_3.jpg/330px-Darnley_stage_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "darnley_stage_3.jpg",
+          "width": 1581,
+          "height": 2313,
+          "title": "Elizabeth I",
+          "description": "Queen of England and Ireland from 1558 to 1603",
+          "extract": "Elizabeth I was Queen of England and Ireland from 17 November 1558 until her death in 1603. She was the last and longest reigning monarch of the House of Tudor. Her eventful reign, and its effect on history and culture, gave name to the Elizabethan era.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bolsa%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_144.JPG/3840px-Bolsa%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_144.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bolsa%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_144.JPG/330px-Bolsa%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_144.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bolsa,_londres,_inglaterra,_2014-08-11,_dd_144.jpg",
+          "width": 4398,
+          "height": 3478,
+          "title": "Royal Exchange, London",
+          "description": "Commercial building in London (built 1571, rebuilt 1844)",
+          "extract": "The Royal Exchange is a building in central London, built to house the London Stock Exchange, which now operates elsewhere. Today, the Royal Exchange contains restaurants and luxury shops.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Royal_Exchange%2C_London",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/HenryAndAnneBoleynPortraits.jpg/1280px-HenryAndAnneBoleynPortraits.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/HenryAndAnneBoleynPortraits.jpg/1280px-HenryAndAnneBoleynPortraits.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "henryandanneboleynportraits.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Elizabeth's parents, Henry VIII and Anne Boleyn. Anne was executed within three years of Elizabeth's birth.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Elizabeth I",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Elizabeth_I",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-23-1957-2b98f620",
+      "year": 1957,
+      "text": "American inventor Fred Morrison sold the rights to his \"flying disc\" to the Wham-O toy company, who later renamed it the \"Frisbee\"",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Walter_Frederick_Morrison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Walter_Frederick_Morrison.jpg/330px-Walter_Frederick_Morrison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "walter_frederick_morrison.jpg",
+        "width": 1263,
+        "height": 1010,
+        "title": "Walter Frederick Morrison",
+        "description": "American inventor (1920-2010)",
+        "extract": "Walter Frederick Morrison was an American inventor and entrepreneur, who invented the Frisbee.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Walter_Frederick_Morrison",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Walter_Frederick_Morrison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Walter_Frederick_Morrison.jpg/330px-Walter_Frederick_Morrison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "walter_frederick_morrison.jpg",
+          "width": 1263,
+          "height": 1010,
+          "title": "Walter Frederick Morrison",
+          "description": "American inventor (1920-2010)",
+          "extract": "Walter Frederick Morrison was an American inventor and entrepreneur, who invented the Frisbee.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Walter_Frederick_Morrison",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Wham-O_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wham-O_Logo.png/330px-Wham-O_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wham-o_logo.png",
+          "width": 1424,
+          "height": 706,
+          "title": "Wham-O",
+          "description": "American toy company",
+          "extract": "Wham-O Inc. is an American toy company based in Carson, California, United States. It is known for creating and marketing many popular toys for nearly 70 years, including the Hula hoop, Frisbee, Slip 'N Slide, Super Ball, Trac-Ball, Silly String, Hacky Sack, Wham-O Bird Ornithopter, and Boogie Board, many of which have become genericized trademarks.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wham-O",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Frisbee_090719.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Frisbee_090719.jpg/330px-Frisbee_090719.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "frisbee_090719.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Frisbee",
+          "description": "Throwing toy",
+          "extract": "A frisbee, also called a flying disc or simply a disc, is a gliding toy or sporting item generally made of injection-molded plastic and roughly 20 to 25 centimetres in diameter with a pronounced lip. It is used recreationally and competitively for throwing and catching, as in flying disc games. The shape of the disc is an airfoil in cross-section which allows it to fly by reducing the drag and increasing lift as it moves through the air, compared to a flat plate. Spinning the disc imparts a stabilizing gyroscopic force, allowing it to be both aimed with accuracy and thrown for distance.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Frisbee",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Walter Frederick Morrison",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Walter_Frederick_Morrison",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-23-2022-9b3b9117",
+      "year": 2022,
+      "text": "Mutinying Burkinabè soldiers led by Paul-Henri Sandaogo Damiba depose and detain President Roch Marc Christian Kaboré amid widespread anti-government protests.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Le_lieutenant-colonel_Paul_Henri_Sandaogo_Damiba%2C_Ouagadougou_le_27_janvier_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Le_lieutenant-colonel_Paul_Henri_Sandaogo_Damiba%2C_Ouagadougou_le_27_janvier_2022_%28cropped%29.jpg/330px-Le_lieutenant-colonel_Paul_Henri_Sandaogo_Damiba%2C_Ouagadougou_le_27_janvier_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "le_lieutenant-colonel_paul_henri_sandaogo_damiba,_ouagadougou_le_27_janvier_2022_(cropped).jpg",
+        "width": 575,
+        "height": 732,
+        "title": "Paul-Henri Sandaogo Damiba",
+        "description": "Burkinabé military officer and president in 2022",
+        "extract": "Paul-Henri Sandaogo Damiba is a Burkinabé military officer who served as interim president of Burkina Faso from 31 January 2022 to 30 September 2022, when he was removed in a coup d'état by his own military colleague, Ibrahim Traoré. Damiba had come to power just eight months earlier, on 24 January 2022, when he removed president Roch Marc Christian Kaboré in a coup.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Paul-Henri_Sandaogo_Damiba",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Le_lieutenant-colonel_Paul_Henri_Sandaogo_Damiba%2C_Ouagadougou_le_27_janvier_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Le_lieutenant-colonel_Paul_Henri_Sandaogo_Damiba%2C_Ouagadougou_le_27_janvier_2022_%28cropped%29.jpg/330px-Le_lieutenant-colonel_Paul_Henri_Sandaogo_Damiba%2C_Ouagadougou_le_27_janvier_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "le_lieutenant-colonel_paul_henri_sandaogo_damiba,_ouagadougou_le_27_janvier_2022_(cropped).jpg",
+          "width": 575,
+          "height": 732,
+          "title": "Paul-Henri Sandaogo Damiba",
+          "description": "Burkinabé military officer and president in 2022",
+          "extract": "Paul-Henri Sandaogo Damiba is a Burkinabé military officer who served as interim president of Burkina Faso from 31 January 2022 to 30 September 2022, when he was removed in a coup d'état by his own military colleague, Ibrahim Traoré. Damiba had come to power just eight months earlier, on 24 January 2022, when he removed president Roch Marc Christian Kaboré in a coup.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Paul-Henri_Sandaogo_Damiba",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Burkinasoldiersaftercoup.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Burkinasoldiersaftercoup.png/330px-Burkinasoldiersaftercoup.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "burkinasoldiersaftercoup.png",
+          "width": 900,
+          "height": 555,
+          "title": "January 2022 Burkina Faso coup d'état",
+          "description": "",
+          "extract": "A coup d'état was launched in Burkina Faso on 24 January 2022. Gunfire erupted in front of the presidential residence in the Burkinabé capital Ouagadougou and several military barracks around the city. Soldiers were reported to have seized control of the military base in the capital. The government denied there was an active coup in the country. Several hours later, President Roch Marc Christian Kaboré was reported to have been detained by the soldiers at the military camp in the capital. On 24 January, the military announced on television that Kaboré had been deposed from his position as president. After the announcement, the military declared that the parliament, government and constitution had been dissolved. The coup d'état was led by military officer Paul-Henri Sandaogo Damiba.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/January_2022_Burkina_Faso_coup_d'%C3%A9tat",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Roch_Marc_Christian_Kabor%C3%A9_%2804-06-2018%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Roch_Marc_Christian_Kabor%C3%A9_%2804-06-2018%29.jpg/330px-Roch_Marc_Christian_Kabor%C3%A9_%2804-06-2018%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "roch_marc_christian_kaboré_(04-06-2018).jpg",
+          "width": 887,
+          "height": 1258,
+          "title": "Roch Marc Christian Kaboré",
+          "description": "President of Burkina Faso from 2015 to 2022",
+          "extract": "Roch Marc Christian Kaboré is a Burkinabé banker and politician who served as the President of Burkina Faso from 2015 until he was deposed in 2022. He was the Prime Minister of Burkina Faso between 1994 and 1996 and President of the National Assembly of Burkina Faso from 2002 to 2012. Kaboré was also president of the Congress for Democracy and Progress (CDP) until his departure from the party in 2014. He founded the People's Movement for Progress party that same year.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Roch_Marc_Christian_Kabor%C3%A9",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Paul-Henri Sandaogo Damiba",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Paul-Henri_Sandaogo_Damiba",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-23-2018-b27ba08e",
+      "year": 2018,
+      "text": "A 7.9 Mw earthquake occurs in the Gulf of Alaska. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/2018_Alaska_earthquake_intensity.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_Alaska_earthquake_intensity.jpg/330px-2018_Alaska_earthquake_intensity.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2018_alaska_earthquake_intensity.jpg",
+        "width": 612,
+        "height": 761,
+        "title": "2018 Gulf of Alaska earthquake",
+        "description": "Earthquake in Gulf of Alaska",
+        "extract": "On January 23, 2018, at 00:31 AKST, an earthquake occurred in the Gulf of Alaska near Kodiak Island. The earthquake, measured at 7.9 on the Mw scale, was approximately 280 kilometers (170 mi) southeast of Kodiak and happened at a depth of 25 kilometers (16 mi).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2018_Gulf_of_Alaska_earthquake",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/2018_Alaska_earthquake_intensity.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/2018_Alaska_earthquake_intensity.jpg/330px-2018_Alaska_earthquake_intensity.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2018_alaska_earthquake_intensity.jpg",
+          "width": 612,
+          "height": 761,
+          "title": "2018 Gulf of Alaska earthquake",
+          "description": "Earthquake in Gulf of Alaska",
+          "extract": "On January 23, 2018, at 00:31 AKST, an earthquake occurred in the Gulf of Alaska near Kodiak Island. The earthquake, measured at 7.9 on the Mw scale, was approximately 280 kilometers (170 mi) southeast of Kodiak and happened at a depth of 25 kilometers (16 mi).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2018_Gulf_of_Alaska_earthquake",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/GulfOfAlaska_AMO_2008073.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GulfOfAlaska_AMO_2008073.jpg/330px-GulfOfAlaska_AMO_2008073.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gulfofalaska_amo_2008073.jpg",
+          "width": 540,
+          "height": 405,
+          "title": "Gulf of Alaska",
+          "description": "Arm of the Pacific Ocean",
+          "extract": "The Gulf of Alaska is an arm of the Pacific Ocean defined by the curve of the southern coast of Alaska, stretching from Kabuch Point in the Alaska Peninsula and Kodiak Island in the west to the Cape Spencer in the east, where Glacier Bay is found and start the Inside Passage.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gulf_of_Alaska",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "2018 Gulf of Alaska earthquake",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2018_Gulf_of_Alaska_earthquake",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-23-2002-a8ea2ed6",
+      "year": 2002,
+      "text": "American journalist Daniel Pearl was kidnapped and later murdered by al-Qaeda agents in Karachi, Pakistan.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Daniel_pearl_highres.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/01/Daniel_pearl_highres.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "daniel_pearl_highres.jpg",
+        "width": 258,
+        "height": 387,
+        "title": "Daniel Pearl",
+        "description": "American journalist beheaded by militants in Pakistan (1963–2002)",
+        "extract": "Daniel Pearl was an American journalist who worked for The Wall Street Journal. On January 23, 2002, he was kidnapped by jihadist militants while he was on his way to what he had expected would be an interview with Pakistani Islamic scholar Mubarak Ali Gilani in Karachi, Pakistan. Pearl had moved to Mumbai, India, upon taking up a regional posting by his newspaper and later entered Pakistan to cover the war on terror, which was launched by the United States in response to the September 11 attacks in 2001. At the time of his abduction, he had been investigating the alleged links between British citizen Richard Reid and Al-Qaeda; Reid had reportedly completed his training at a facility owned by Gilani, who had been accused by the United States of being affiliated with the Pakistani terrorist organization Jamaat ul-Fuqra.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Daniel_Pearl",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/01/Daniel_pearl_highres.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/01/Daniel_pearl_highres.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "daniel_pearl_highres.jpg",
+          "width": 258,
+          "height": 387,
+          "title": "Daniel Pearl",
+          "description": "American journalist beheaded by militants in Pakistan (1963–2002)",
+          "extract": "Daniel Pearl was an American journalist who worked for The Wall Street Journal. On January 23, 2002, he was kidnapped by jihadist militants while he was on his way to what he had expected would be an interview with Pakistani Islamic scholar Mubarak Ali Gilani in Karachi, Pakistan. Pearl had moved to Mumbai, India, upon taking up a regional posting by his newspaper and later entered Pakistan to cover the war on terror, which was launched by the United States in response to the September 11 attacks in 2001. At the time of his abduction, he had been investigating the alleged links between British citizen Richard Reid and Al-Qaeda; Reid had reportedly completed his training at a facility owned by Gilani, who had been accused by the United States of being affiliated with the Pakistani terrorist organization Jamaat ul-Fuqra.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Daniel_Pearl",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Clifton_Karachi_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Clifton_Karachi_View.jpg/330px-Clifton_Karachi_View.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "clifton_karachi_view.jpg",
+          "width": 1284,
+          "height": 690,
+          "title": "Karachi",
+          "description": "Capital of Sindh, Pakistan",
+          "extract": "Karachi is the capital city of the Pakistani province of Sindh. It is the largest city in Pakistan and the 11th largest in the world, with a population of over 20 million. Situated at the southern tip of the country along the Arabian Sea coast, Karachi formerly served as the federal capital from 1947 to 1959. Ranked as a beta-global city, it is Pakistan's premier industrial and financial centre, with an estimated GDP of over $200 billion (PPP) as of 2021. Karachi is a major metropolitan area and is considered Pakistan's most cosmopolitan city, and among the country's most linguistically, ethnically, and religiously diverse regions, as well as one of the country's most progressive and socially liberal cities.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Karachi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Daniel_Pearl_1980_yearbook_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Daniel_Pearl_1980_yearbook_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "daniel_pearl_1980_yearbook_photo.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Pearl's 1980 yearbook photo at Birmingham",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Daniel_Pearl",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Daniel Pearl",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Daniel_Pearl",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-23-2001-51094895",
+      "year": 2001,
+      "text": "Five people attempted to set themselves on fire in Tiananmen Square, Beijing, an act that many later claimed to have been staged by the Chinese Communist Party to frame Falun Gong and thus escalate their persecution.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tiananmen_Square_%2854137047250%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tiananmen_Square_%2854137047250%29.jpg/330px-Tiananmen_Square_%2854137047250%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "tiananmen_square_(54137047250).jpg",
+        "width": 2560,
+        "height": 1607,
+        "title": "Tiananmen Square",
+        "description": "Public square in Beijing, China",
+        "extract": "Tiananmen Square or Tian'anmen Square is a city square in the city centre of Beijing, China, named after the Tiananmen located to its north, which separates it from the Forbidden City imperial palace complex. The square holds the Monument to the People's Heroes, the Great Hall of the People, the National Museum of China, and the Chairman Mao Memorial Hall. They were inscribed in the UNESCO World Heritage Sites in 2024 as a part of the Beijing Central Axis.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tiananmen_Square",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tiananmen_Square_%2854137047250%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tiananmen_Square_%2854137047250%29.jpg/330px-Tiananmen_Square_%2854137047250%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tiananmen_square_(54137047250).jpg",
+          "width": 2560,
+          "height": 1607,
+          "title": "Tiananmen Square",
+          "description": "Public square in Beijing, China",
+          "extract": "Tiananmen Square or Tian'anmen Square is a city square in the city centre of Beijing, China, named after the Tiananmen located to its north, which separates it from the Forbidden City imperial palace complex. The square holds the Monument to the People's Heroes, the Great Hall of the People, the National Museum of China, and the Chairman Mao Memorial Hall. They were inscribed in the UNESCO World Heritage Sites in 2024 as a part of the Beijing Central Axis.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tiananmen_Square",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Speaker_at_Washington_DC._STOP_the_Persecution_of_Falun_Gong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Speaker_at_Washington_DC._STOP_the_Persecution_of_Falun_Gong.jpg/330px-Speaker_at_Washington_DC._STOP_the_Persecution_of_Falun_Gong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "speaker_at_washington_dc._stop_the_persecution_of_falun_gong.jpg",
+          "width": 864,
+          "height": 557,
+          "title": "Persecution of Falun Gong",
+          "description": "",
+          "extract": "In 1999, the Chinese Communist Party (CCP) initiated an ongoing campaign to eliminate the new religious movement Falun Gong in China, maintaining a doctrine of state atheism. It is characterized by a multifaceted propaganda campaign, a program of enforced ideological conversion and re-education and reportedly a variety of extralegal coercive measures such as arbitrary arrests, forced labor and physical torture, sometimes resulting in death.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Persecution_of_Falun_Gong",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/April25Zhognanhai.jpg/330px-April25Zhognanhai.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/April25Zhognanhai.jpg/330px-April25Zhognanhai.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "april25zhognanhai.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Falun Gong practitioners demonstrating outside the Zhongnanhai government compound in April 1999 to request an end to official harassment of Falun Gong practitioners. Soon thereafter, a nationwide persecution of the practice began.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2001_Tiananmen_Square_self-immolation_incident",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2001 Tiananmen Square self-immolation incident",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2001_Tiananmen_Square_self-immolation_incident",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "01-23-1998-e35d9d17",
+      "year": 1998,
+      "text": "Netscape announces Mozilla, with the intention to release Communicator code as open source.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Debian_13_with_FOSS_software_open.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Debian_13_with_FOSS_software_open.png/330px-Debian_13_with_FOSS_software_open.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "debian_13_with_foss_software_open.png",
+        "width": 1920,
+        "height": 1080,
+        "title": "Open-source software",
+        "description": "Software with publicly available source code",
+        "extract": "Open-source software (OSS) is computer software whose source code is publicly available, allowing users to use, study, modify, and distribute it — in contrast with proprietary (closed-source) software. These abilities are typically granted through open licenses or, more rarely, by dedication to the public domain. The development of open-source software can be based on open collaboration, a decentralized model of production. It is commonly defined according to the Open Source Definition of the Open Source Initiative, but the precise meaning of open source remains a source of conflicts.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Open-source_software",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Debian_13_with_FOSS_software_open.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Debian_13_with_FOSS_software_open.png/330px-Debian_13_with_FOSS_software_open.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "debian_13_with_foss_software_open.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Open-source software",
+          "description": "Software with publicly available source code",
+          "extract": "Open-source software (OSS) is computer software whose source code is publicly available, allowing users to use, study, modify, and distribute it — in contrast with proprietary (closed-source) software. These abilities are typically granted through open licenses or, more rarely, by dedication to the public domain. The development of open-source software can be based on open collaboration, a decentralized model of production. It is commonly defined according to the Open Source Definition of the Open Source Initiative, but the precise meaning of open source remains a source of conflicts.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Open-source_software",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Netscape",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Netscape",
+      "relatedPagesCount": 3
+    }
+  ]
+}

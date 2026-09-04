@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 9,
+    "day": 29,
+    "formatted": "09-29"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "09-29-2004-52c41f8e",
+      "year": 2004,
+      "text": "Burt Rutan's Ansari SpaceShipOne performs a successful spaceflight, the first of two required to win the Ansari X Prize.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Burt_Rutan_Oct_3_2004_photo_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burt_Rutan_Oct_3_2004_photo_Don_Ramey_Logan.jpg/330px-Burt_Rutan_Oct_3_2004_photo_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "burt_rutan_oct_3_2004_photo_don_ramey_logan.jpg",
+        "width": 2000,
+        "height": 3008,
+        "title": "Burt Rutan",
+        "description": "American aerospace engineer (born 1943)",
+        "extract": "Elbert Leander \"Burt\" Rutan is an American retired aerospace engineer and entrepreneur noted for his originality in designing light, strong, unusual-looking, and energy-efficient air and space craft. He designed the record-breaking Voyager, which in 1986 was the first plane to fly around the world without stopping or refueling. He also designed the Virgin Atlantic GlobalFlyer, which in 2006 set the world record for the fastest and longest nonstop non-refueled circumnavigation flight in history. In 2004, Rutan's sub-orbital spaceplane design SpaceShipOne became the first privately funded spacecraft to enter the realm of space, winning the Ansari X-Prize that year for achieving the feat twice within a two-week period.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Burt_Rutan",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Burt_Rutan_Oct_3_2004_photo_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Burt_Rutan_Oct_3_2004_photo_Don_Ramey_Logan.jpg/330px-Burt_Rutan_Oct_3_2004_photo_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "burt_rutan_oct_3_2004_photo_don_ramey_logan.jpg",
+          "width": 2000,
+          "height": 3008,
+          "title": "Burt Rutan",
+          "description": "American aerospace engineer (born 1943)",
+          "extract": "Elbert Leander \"Burt\" Rutan is an American retired aerospace engineer and entrepreneur noted for his originality in designing light, strong, unusual-looking, and energy-efficient air and space craft. He designed the record-breaking Voyager, which in 1986 was the first plane to fly around the world without stopping or refueling. He also designed the Virgin Atlantic GlobalFlyer, which in 2006 set the world record for the fastest and longest nonstop non-refueled circumnavigation flight in history. In 2004, Rutan's sub-orbital spaceplane design SpaceShipOne became the first privately funded spacecraft to enter the realm of space, winning the Ansari X-Prize that year for achieving the feat twice within a two-week period.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Burt_Rutan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/SpaceShipOne_Flight_15P_photo_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/SpaceShipOne_Flight_15P_photo_Don_Ramey_Logan.jpg/330px-SpaceShipOne_Flight_15P_photo_Don_Ramey_Logan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "spaceshipone_flight_15p_photo_don_ramey_logan.jpg",
+          "width": 3008,
+          "height": 2000,
+          "title": "SpaceShipOne",
+          "description": "American experimental spaceplane",
+          "extract": "SpaceShipOne is an experimental air-launched rocket-powered aircraft with sub-orbital spaceflight capability at speeds of up to 3,000 ft/s (2,000 mph) / 910 m/s (3,300 km/h)\nusing a hybrid rocket motor. The design features a unique \"feathering\" atmospheric reentry system where the rear half of the wing and the twin tail booms folds 70 degrees upward along a hinge running the length of the wing; this increases drag while retaining stability. SpaceShipOne completed the first crewed private spaceflight in 2004. That same year, it won the US$10 million Ansari X Prize and was immediately retired from active service. Its mother ship was named \"White Knight\". Both craft were developed and flown by Mojave Aerospace Ventures, which was a joint venture between Paul Allen and Scaled Composites, Burt Rutan's aviation company. Allen provided the funding of approximately US$25 million.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/SpaceShipOne",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Space_Ship_One_and_White_Knight_-_Flickr_-_Beige_Alert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Space_Ship_One_and_White_Knight_-_Flickr_-_Beige_Alert.jpg/330px-Space_Ship_One_and_White_Knight_-_Flickr_-_Beige_Alert.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_ship_one_and_white_knight_-_flickr_-_beige_alert.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": "Ansari X Prize",
+          "description": "Space competition and award",
+          "extract": "The Ansari X Prize was a space competition in which the X Prize Foundation offered a US$10,000,000 prize for the first non-government organization to launch a reusable crewed spacecraft into space twice within two weeks. It was modeled after early 20th-century aviation prizes, and aimed to spur development of low-cost spaceflight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ansari_X_Prize",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Burt Rutan",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Burt_Rutan",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-29-1991-fac0f28a",
+      "year": 1991,
+      "text": "The award-winning Disney animated film Beauty and the Beast premiered while unfinished at the New York Film Festival.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Beauty_and_the_Beast_%281991_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/5/5e/Beauty_and_the_Beast_%281991_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "beauty_and_the_beast_(1991_film)_poster.jpg",
+        "width": 248,
+        "height": 367,
+        "title": "Beauty and the Beast (1991 film)",
+        "description": "American animated film by Disney",
+        "extract": "Beauty and the Beast is a 1991 American animated musical romantic fantasy film directed by Gary Trousdale and Kirk Wise, written by Linda Woolverton, and based on the French fairy tale \"Beauty and the Beast\". Produced by Walt Disney Feature Animation, the film stars Paige O'Hara, Robby Benson, Richard White, Jerry Orbach, David Ogden Stiers, Angela Lansbury, Bradley Michael Pierce, Rex Everhart, Jesse Corti, Hal Smith in his final film, and Jo Anne Worley. Set in 18th-century France, a selfish prince is cursed to remain a beast forever unless he can earn the love of a spirited young woman named Belle before the final petal falls from his enchanted rose.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_film)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/5/5e/Beauty_and_the_Beast_%281991_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/5/5e/Beauty_and_the_Beast_%281991_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "beauty_and_the_beast_(1991_film)_poster.jpg",
+          "width": 248,
+          "height": 367,
+          "title": "Beauty and the Beast (1991 film)",
+          "description": "American animated film by Disney",
+          "extract": "Beauty and the Beast is a 1991 American animated musical romantic fantasy film directed by Gary Trousdale and Kirk Wise, written by Linda Woolverton, and based on the French fairy tale \"Beauty and the Beast\". Produced by Walt Disney Feature Animation, the film stars Paige O'Hara, Robby Benson, Richard White, Jerry Orbach, David Ogden Stiers, Angela Lansbury, Bradley Michael Pierce, Rex Everhart, Jesse Corti, Hal Smith in his final film, and Jo Anne Worley. Set in 18th-century France, a selfish prince is cursed to remain a beast forever unless he can earn the love of a spirited young woman named Belle before the final petal falls from his enchanted rose.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(1991_film)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RoyE.DisneyAnimationBuilding.jpg/1280px-RoyE.DisneyAnimationBuilding.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/RoyE.DisneyAnimationBuilding.jpg/1280px-RoyE.DisneyAnimationBuilding.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "roye.disneyanimationbuilding.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "RoyE.DisneyAnimationBuilding",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Walt_Disney_Animation_Studios",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Kingswellstudio.JPG/1280px-Kingswellstudio.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Kingswellstudio.JPG/1280px-Kingswellstudio.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "kingswellstudio.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The building on Kingswell Avenue in Los Feliz which was home to the studio from 1923 to 1926.[19]",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Walt_Disney_Animation_Studios",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Walt Disney Animation Studios",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Walt_Disney_Animation_Studios",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-29-1990-b09f6cfa",
+      "year": 1990,
+      "text": "The Lockheed YF-22, the prototype for the F-22 Raptor, made its first flight.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/YF-22_test_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/YF-22_test_flight.jpg/330px-YF-22_test_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "yf-22_test_flight.jpg",
+        "width": 1199,
+        "height": 899,
+        "title": "Lockheed YF-22",
+        "description": "American aircraft prototype",
+        "extract": "The Lockheed–Boeing–General Dynamics YF-22 is an American single-seat, twin-engine, stealth fighter prototype technology demonstrator designed for the United States Air Force (USAF). The design team, with Lockheed as the prime contractor, was a finalist in the USAF's Advanced Tactical Fighter (ATF) competition, and two prototypes were built for the demonstration and validation phase. The YF-22 team won the contest against the Northrop-led YF-23 team for full-scale development and the design was developed into the Lockheed Martin F-22. The YF-22 has a similar aerodynamic layout and configuration as the F-22, but with notable differences in the overall shaping such as the position and design of the cockpit, tail fins and wings, and in internal structural layout.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_YF-22",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/YF-22_test_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/YF-22_test_flight.jpg/330px-YF-22_test_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "yf-22_test_flight.jpg",
+          "width": 1199,
+          "height": 899,
+          "title": "Lockheed YF-22",
+          "description": "American aircraft prototype",
+          "extract": "The Lockheed–Boeing–General Dynamics YF-22 is an American single-seat, twin-engine, stealth fighter prototype technology demonstrator designed for the United States Air Force (USAF). The design team, with Lockheed as the prime contractor, was a finalist in the USAF's Advanced Tactical Fighter (ATF) competition, and two prototypes were built for the demonstration and validation phase. The YF-22 team won the contest against the Northrop-led YF-23 team for full-scale development and the design was developed into the Lockheed Martin F-22. The YF-22 has a similar aerodynamic layout and configuration as the F-22, but with notable differences in the overall shaping such as the position and design of the cockpit, tail fins and wings, and in internal structural layout.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_YF-22",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/F-22_Raptor_edit1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/F-22_Raptor_edit1_%28cropped%29.jpg/330px-F-22_Raptor_edit1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "f-22_raptor_edit1_(cropped).jpg",
+          "width": 1988,
+          "height": 1491,
+          "title": "Lockheed Martin F-22 Raptor",
+          "description": "American stealth air superiority fighter",
+          "extract": "The Lockheed Martin–Boeing F-22 Raptor is an American twin-engine, jet-powered, all-weather, supersonic stealth fighter aircraft. As a product of the United States Air Force's (USAF) Advanced Tactical Fighter (ATF) program, the aircraft was designed as an air superiority fighter, but also incorporates ground attack, electronic warfare, and signals intelligence capabilities. The prime contractor, Lockheed Martin, built most of the F-22 airframe and weapons systems and conducted final assembly, while program partner Boeing provided the wings, aft fuselage, avionics integration, and training systems.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_Martin_F-22_Raptor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/F-22_RFI.jpg/500px-F-22_RFI.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/F-22_RFI.jpg/500px-F-22_RFI.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "f-22_rfi.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Diagram of several designs submitted for ATF RFI. Note Lockheed's large CL-2016 design with inspiration from the SR-71 family.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lockheed_YF-22",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Lockheed YF-22",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Lockheed_YF-22",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-29-1988-5e09b50d",
+      "year": 1988,
+      "text": "NASA launches STS-26, the first Space Shuttle mission since the Challenger disaster.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/TDRS-C.jpg/3840px-TDRS-C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/TDRS-C.jpg/330px-TDRS-C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "tdrs-c.jpg",
+        "width": 4094,
+        "height": 4136,
+        "title": "STS-26",
+        "description": "1988 American crewed spaceflight",
+        "extract": "STS-26 was the 26th NASA Space Shuttle mission and the seventh flight of the orbiter Discovery. The mission launched from Kennedy Space Center, Florida, on September 29, 1988, and landed four days later on October 3, 1988. STS-26 was declared the \"Return to Flight\" mission, being the first mission after the Space Shuttle Challenger disaster of January 28, 1986. It was the first mission since STS-9 to use the original Space Transportation System (STS) numbering system, the first to have all its crew members wear pressure suits for launch and landing since STS-4, and the first mission with bailout capacity since STS-4. STS-26 was also the first U.S. space mission with an all-veteran crew since Apollo 11, with all of its crew members having flown at least one prior mission.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/STS-26",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/TDRS-C.jpg/3840px-TDRS-C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/TDRS-C.jpg/330px-TDRS-C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tdrs-c.jpg",
+          "width": 4094,
+          "height": 4136,
+          "title": "STS-26",
+          "description": "1988 American crewed spaceflight",
+          "extract": "STS-26 was the 26th NASA Space Shuttle mission and the seventh flight of the orbiter Discovery. The mission launched from Kennedy Space Center, Florida, on September 29, 1988, and landed four days later on October 3, 1988. STS-26 was declared the \"Return to Flight\" mission, being the first mission after the Space Shuttle Challenger disaster of January 28, 1986. It was the first mission since STS-9 to use the original Space Transportation System (STS) numbering system, the first to have all its crew members wear pressure suits for launch and landing since STS-4, and the first mission with bailout capacity since STS-4. STS-26 was also the first U.S. space mission with an all-veteran crew since Apollo 11, with all of its crew members having flown at least one prior mission.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-26",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/STS120LaunchHiRes-edit1.jpg/330px-STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts120launchhires-edit1.jpg",
+          "width": 1888,
+          "height": 2956,
+          "title": "Space Shuttle",
+          "description": "Partially reusable launch system and space plane",
+          "extract": "The Space Shuttle is a retired, partially reusable low Earth orbital spacecraft system operated from 1981 to 2011 by the U.S. National Aeronautics and Space Administration (NASA) as part of the Space Shuttle program. Its official program name was the Space Transportation System (STS), taken from the 1969 plan led by U.S. vice president Spiro Agnew for a system of reusable spacecraft where it was the only item funded for development.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Challenger_explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Challenger_explosion.jpg/330px-Challenger_explosion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "challenger_explosion.jpg",
+          "width": 3555,
+          "height": 2879,
+          "title": "Space Shuttle Challenger disaster",
+          "description": "1986 breakup of American orbiter",
+          "extract": "On January 28, 1986, Space Shuttle Challenger broke apart 73 seconds into its flight, killing all seven crew members. The spacecraft disintegrated about 46,000 feet (14 km) above the Atlantic Ocean, off the coast of Cape Canaveral, Florida, at 16:39:13 UTC. It was the first fatal accident involving an American spacecraft while in flight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "STS-26",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/STS-26",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-29-1940-b1ed1982",
+      "year": 1940,
+      "text": "Two Avro Ansons collide in mid-air over New South Wales, Australia, remain locked together, then land safely.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/CF15_Avro_Anson_ZK-RRA_040415_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/CF15_Avro_Anson_ZK-RRA_040415_01.jpg/330px-CF15_Avro_Anson_ZK-RRA_040415_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "cf15_avro_anson_zk-rra_040415_01.jpg",
+        "width": 2000,
+        "height": 1333,
+        "title": "Avro Anson",
+        "description": "1935 multi-role military aircraft family by Avro",
+        "extract": "The Avro Anson is a British twin-engine, multi-role aircraft built by the aircraft manufacturer Avro. Large numbers served in a variety of roles with the Royal Air Force (RAF), Fleet Air Arm (FAA), Royal Canadian Air Force (RCAF), Royal Australian Air Force (RAAF), and numerous other air forces before, during, and after the Second World War.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Avro_Anson",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/CF15_Avro_Anson_ZK-RRA_040415_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/CF15_Avro_Anson_ZK-RRA_040415_01.jpg/330px-CF15_Avro_Anson_ZK-RRA_040415_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cf15_avro_anson_zk-rra_040415_01.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": "Avro Anson",
+          "description": "1935 multi-role military aircraft family by Avro",
+          "extract": "The Avro Anson is a British twin-engine, multi-role aircraft built by the aircraft manufacturer Avro. Large numbers served in a variety of roles with the Royal Air Force (RAF), Fleet Air Arm (FAA), Royal Canadian Air Force (RCAF), Royal Australian Air Force (RAAF), and numerous other air forces before, during, and after the Second World War.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Avro_Anson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Two_Avro_Ansons_%28L9162_and_N4876%29_%22piggyback%22_in_a_paddock_near_Brocklesby_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Two_Avro_Ansons_%28L9162_and_N4876%29_%22piggyback%22_in_a_paddock_near_Brocklesby_1.jpg/330px-Two_Avro_Ansons_%28L9162_and_N4876%29_%22piggyback%22_in_a_paddock_near_Brocklesby_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "two_avro_ansons_(l9162_and_n4876)_\"piggyback\"_in_a_paddock_near_brocklesby_1.jpg",
+          "width": 640,
+          "height": 495,
+          "title": "1940 Brocklesby mid-air collision",
+          "description": "Collision involving Royal Australian Air Force training aircraft",
+          "extract": "On 29 September 1940, a mid-air collision occurred over Brocklesby, New South Wales, Australia. The accident was unusual in that the aircraft involved, two Royal Australian Air Force (RAAF) Avro Ansons of No. 2 Service Flying Training School, remained locked together after colliding, and then landed safely. The collision stopped the engines of the upper Anson, but those of the one underneath continued to run, allowing the aircraft to keep flying. The navigators of both aircraft and the pilot of the lower Anson bailed out. The pilot of the upper Anson found that he was able to control the interlocked aircraft with his ailerons and flaps, and made an emergency landing in a nearby paddock. All four crewmen survived the incident. The upper Anson was repaired and returned to flight service; the lower Anson was used as an instructional airframe.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1940_Brocklesby_mid-air_collision",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Avro_Anson_-_Royal_Air_Force_Transport_Command%2C_1943-1945._CH16482.jpg/1280px-Avro_Anson_-_Royal_Air_Force_Transport_Command%2C_1943-1945._CH16482.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Avro_Anson_-_Royal_Air_Force_Transport_Command%2C_1943-1945._CH16482.jpg/1280px-Avro_Anson_-_Royal_Air_Force_Transport_Command%2C_1943-1945._CH16482.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "avro_anson_-_royal_air_force_transport_command,_1943-1945._ch16482.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The interior of an Anson C Mark XI, looking forward from the passenger compartment towards the cockpit",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Avro_Anson",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Avro Anson",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Avro_Anson",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-29-2007-940f0919",
+      "year": 2007,
+      "text": "Calder Hall, the world's first commercial nuclear power station, is demolished in a controlled explosion.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Calder_Hall_nuclear_power_station%2C_after_opening.jpg/3840px-Calder_Hall_nuclear_power_station%2C_after_opening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Calder_Hall_nuclear_power_station%2C_after_opening.jpg/330px-Calder_Hall_nuclear_power_station%2C_after_opening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "calder_hall_nuclear_power_station,_after_opening.jpg",
+        "width": 4267,
+        "height": 3212,
+        "title": "Calder Hall nuclear power station",
+        "description": "UK nuclear power station (1956–2003)",
+        "extract": "Calder Hall Nuclear Power Station is a former Magnox nuclear power station on the Sellafield site in Cumbria in North West England. Calder Hall was the first full-scale nuclear power station to enter operation in the World, and was the sister plant to the Chapelcross plant in Scotland. Both were commissioned and originally operated by the United Kingdom Atomic Energy Authority. The primary purpose of both plants was to produce weapons-grade plutonium for the UK's nuclear weapons programme, but they also generated electrical power for the National Grid.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Calder_Hall_nuclear_power_station",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Calder_Hall_nuclear_power_station%2C_after_opening.jpg/3840px-Calder_Hall_nuclear_power_station%2C_after_opening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Calder_Hall_nuclear_power_station%2C_after_opening.jpg/330px-Calder_Hall_nuclear_power_station%2C_after_opening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "calder_hall_nuclear_power_station,_after_opening.jpg",
+          "width": 4267,
+          "height": 3212,
+          "title": "Calder Hall nuclear power station",
+          "description": "UK nuclear power station (1956–2003)",
+          "extract": "Calder Hall Nuclear Power Station is a former Magnox nuclear power station on the Sellafield site in Cumbria in North West England. Calder Hall was the first full-scale nuclear power station to enter operation in the World, and was the sister plant to the Chapelcross plant in Scotland. Both were commissioned and originally operated by the United Kingdom Atomic Energy Authority. The primary purpose of both plants was to produce weapons-grade plutonium for the UK's nuclear weapons programme, but they also generated electrical power for the National Grid.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Calder_Hall_nuclear_power_station",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Centrale-nucl%C3%A9aire-de-saint-alban-1.jpg/3840px-Centrale-nucl%C3%A9aire-de-saint-alban-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Centrale-nucl%C3%A9aire-de-saint-alban-1.jpg/330px-Centrale-nucl%C3%A9aire-de-saint-alban-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "centrale-nucléaire-de-saint-alban-1.jpg",
+          "width": 4049,
+          "height": 2699,
+          "title": "Nuclear power plant",
+          "description": "Thermal power station where the heat source is a nuclear reactor",
+          "extract": "A nuclear power plant (NPP), also known as a nuclear power station (NPS), nuclear generating station (NGS) or atomic power station (APS) is a thermal power station in which the heat source is a nuclear reactor. As is typical of thermal power stations, heat is used to generate steam that drives a steam turbine connected to a generator that produces electricity. As of October 2025, the International Atomic Energy Agency reported that there were 416 nuclear power reactors in operation in 31 countries around the world, and 62 nuclear power reactors under construction.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nuclear_power_plant",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Calder_Hall%2C_fuel_loading.jpg/1280px-Calder_Hall%2C_fuel_loading.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Calder_Hall%2C_fuel_loading.jpg/1280px-Calder_Hall%2C_fuel_loading.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "calder_hall,_fuel_loading.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Fuel loading at Calder Hall power station",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Calder_Hall_nuclear_power_station",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Calder Hall nuclear power station",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Calder_Hall_nuclear_power_station",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-29-1957-f5ff6fc8",
+      "year": 1957,
+      "text": "An explosion at the Soviet nuclear reprocessing plant Mayak released 74 to 1,850 PBq of radioactive material.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Aerial_view_Sellafield%2C_Cumbria_-_geograph.org.uk_-_50827.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Aerial_view_Sellafield%2C_Cumbria_-_geograph.org.uk_-_50827.jpg/330px-Aerial_view_Sellafield%2C_Cumbria_-_geograph.org.uk_-_50827.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "aerial_view_sellafield,_cumbria_-_geograph.org.uk_-_50827.jpg",
+        "width": 640,
+        "height": 404,
+        "title": "Nuclear reprocessing",
+        "description": "Chemical separation of spent nuclear fuel",
+        "extract": "Nuclear reprocessing is the chemical separation of fission products and actinides from spent nuclear fuel. Originally, reprocessing was used to extract plutonium for producing nuclear weapons. With commercialization of nuclear power, reprocessed plutonium was recycled into MOX nuclear fuel for thermal reactors. Reprocessed uranium can in principle be re-used as fuel. Nuclear reprocessing may include the reprocessing of other nuclear reactor material, such as Zircaloy cladding.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nuclear_reprocessing",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Aerial_view_Sellafield%2C_Cumbria_-_geograph.org.uk_-_50827.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Aerial_view_Sellafield%2C_Cumbria_-_geograph.org.uk_-_50827.jpg/330px-Aerial_view_Sellafield%2C_Cumbria_-_geograph.org.uk_-_50827.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aerial_view_sellafield,_cumbria_-_geograph.org.uk_-_50827.jpg",
+          "width": 640,
+          "height": 404,
+          "title": "Nuclear reprocessing",
+          "description": "Chemical separation of spent nuclear fuel",
+          "extract": "Nuclear reprocessing is the chemical separation of fission products and actinides from spent nuclear fuel. Originally, reprocessing was used to extract plutonium for producing nuclear weapons. With commercialization of nuclear power, reprocessed plutonium was recycled into MOX nuclear fuel for thermal reactors. Reprocessed uranium can in principle be re-used as fuel. Nuclear reprocessing may include the reprocessing of other nuclear reactor material, such as Zircaloy cladding.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nuclear_reprocessing",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7%D0%B0_%D0%9F%D0%9E_%D0%9C%D0%B0%D1%8F%D0%BA.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7%D0%B0_%D0%9F%D0%9E_%D0%9C%D0%B0%D1%8F%D0%BA.JPG/330px-%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D1%84%D1%81%D0%BE%D1%8E%D0%B7%D0%B0_%D0%9F%D0%9E_%D0%9C%D0%B0%D1%8F%D0%BA.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "здание_профсоюза_по_маяк.jpg",
+          "width": 3200,
+          "height": 1920,
+          "title": "Mayak",
+          "description": "Nuclear reprocessing plant in Russia",
+          "extract": "The Mayak Production Association is a nuclear facility near Ozyorsk, Chelyabinsk Oblast, Russia, with production reactors and a reprocessing plant. Its reprocessing capacity, at 400 tonnes of heavy metal per year, is the second-largest in the world, following the La Hague site in France. It is currently used for military and civilian radioisotope production, and was historically central to the Soviet nuclear weapons program.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mayak",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Radium_226_radiation_source_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Radium_226_radiation_source_1.jpg/330px-Radium_226_radiation_source_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "radium_226_radiation_source_1.jpg",
+          "width": 1712,
+          "height": 1368,
+          "title": "Becquerel",
+          "description": "SI derived unit of radioactivity",
+          "extract": "The becquerel is the unit of radioactivity in the International System of Units (SI). One becquerel is defined as an activity of one per second, on average, for aperiodic activity events referred to a radionuclide. For applications relating to human health this is a small quantity, and SI multiples of the unit are commonly used.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Becquerel",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Nuclear reprocessing",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Nuclear_reprocessing",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "09-29-1954-6ec35bd1",
+      "year": 1954,
+      "text": "Willie Mays (pictured) of the New York Giants made The Catch, one of the most famous defensive plays in the history of Major League Baseball.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Willie_Mays_%281955%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Willie_Mays_%281955%29_%28cropped%29.jpg/330px-Willie_Mays_%281955%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "willie_mays_(1955)_(cropped).jpg",
+        "width": 1560,
+        "height": 2080,
+        "title": "Willie Mays",
+        "description": "American baseball player (1931–2024)",
+        "extract": "Willie Howard Mays Jr., nicknamed \"the Say Hey Kid\", was an American professional baseball center fielder who played 23 major league seasons. Widely regarded as one of the greatest players of all time, Mays was a five-tool player who began his career in the Negro leagues, playing for the Birmingham Black Barons, and spent the rest of his career in the National League (NL), playing for the New York / San Francisco Giants and New York Mets.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Willie_Mays",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Willie_Mays_%281955%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Willie_Mays_%281955%29_%28cropped%29.jpg/330px-Willie_Mays_%281955%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "willie_mays_(1955)_(cropped).jpg",
+          "width": 1560,
+          "height": 2080,
+          "title": "Willie Mays",
+          "description": "American baseball player (1931–2024)",
+          "extract": "Willie Howard Mays Jr., nicknamed \"the Say Hey Kid\", was an American professional baseball center fielder who played 23 major league seasons. Widely regarded as one of the greatest players of all time, Mays was a five-tool player who began his career in the Negro leagues, playing for the Birmingham Black Barons, and spent the rest of his career in the National League (NL), playing for the New York / San Francisco Giants and New York Mets.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Willie_Mays",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Catch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/06/The_Catch.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "the_catch.png",
+          "width": 271,
+          "height": 350,
+          "title": "The Catch (baseball)",
+          "description": "Defensive play by Willie Mays in the 1954 World Series",
+          "extract": "The Catch was a baseball play made by New York Giants center fielder Willie Mays on September 29, 1954, during Game 1 of the 1954 World Series at the Polo Grounds in Upper Manhattan, New York City. In the eighth inning, with the score tied 2–2, Cleveland Indians batter Vic Wertz hit a deep fly ball to center field that had the runners on base poised to score. However, Mays made an over-the-shoulder catch while on the run to record the out, and his throw back to the infield prevented one of the runners from advancing. The Giants won the game 5–2 in extra innings, and eventually the World Series. The Catch is regarded as one of the greatest plays in baseball history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Catch_(baseball)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Willie Mays",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Willie_Mays",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "09-29-2013-8942ab4b",
+      "year": 2013,
+      "text": "Over 42 people are killed by members of Boko Haram at the College of Agriculture in Nigeria.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Gujba_college_massacre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gujba_college_massacre.jpg/330px-Gujba_college_massacre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gujba_college_massacre.jpg",
+        "width": 2048,
+        "height": 1297,
+        "title": "Gujba college massacre",
+        "description": "2013 mass shooting by Islamist militants in Gujba, Yobe State, Nigeria",
+        "extract": "On 29 September 2013, gunmen from Boko Haram entered the male dormitory in the College of Agriculture in Gujba, Yobe State, Nigeria, killing fifty students and teachers.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gujba_college_massacre",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Gujba_college_massacre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gujba_college_massacre.jpg/330px-Gujba_college_massacre.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gujba_college_massacre.jpg",
+          "width": 2048,
+          "height": 1297,
+          "title": "Gujba college massacre",
+          "description": "2013 mass shooting by Islamist militants in Gujba, Yobe State, Nigeria",
+          "extract": "On 29 September 2013, gunmen from Boko Haram entered the male dormitory in the College of Agriculture in Gujba, Yobe State, Nigeria, killing fifty students and teachers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gujba_college_massacre",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Gujba college massacre",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Gujba_college_massacre",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-29-2006-fe8c854d",
+      "year": 2006,
+      "text": "A Boeing 737 and an Embraer 600 collide in mid-air, killing 154 people and triggering a Brazilian aviation crisis.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Wreckage_of_flight_GLO_1907.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wreckage_of_flight_GLO_1907.jpg/330px-Wreckage_of_flight_GLO_1907.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "wreckage_of_flight_glo_1907.jpg",
+        "width": 2598,
+        "height": 1949,
+        "title": "Gol Transportes Aéreos Flight 1907",
+        "description": "2006 mid-air collision over Brazil",
+        "extract": "On September 29, 2006, Gol Transportes Aéreos Flight 1907, a Boeing 737-800 on a scheduled domestic passenger flight from Manaus, Brazil, to Brasília and Rio de Janeiro, collided mid-air with an Embraer Legacy 600 business jet flying on an opposite heading over the Brazilian state of Mato Grosso. The winglet of the Legacy sliced off about half of the 737's left wing, causing the 737 to break up and crash into an area of dense jungle, killing all 154 passengers and crew on board. Despite sustaining serious damage to its left wing and tail, the Legacy landed with its seven occupants uninjured.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gol_Transportes_A%C3%A9reos_Flight_1907",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Wreckage_of_flight_GLO_1907.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Wreckage_of_flight_GLO_1907.jpg/330px-Wreckage_of_flight_GLO_1907.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wreckage_of_flight_glo_1907.jpg",
+          "width": 2598,
+          "height": 1949,
+          "title": "Gol Transportes Aéreos Flight 1907",
+          "description": "2006 mid-air collision over Brazil",
+          "extract": "On September 29, 2006, Gol Transportes Aéreos Flight 1907, a Boeing 737-800 on a scheduled domestic passenger flight from Manaus, Brazil, to Brasília and Rio de Janeiro, collided mid-air with an Embraer Legacy 600 business jet flying on an opposite heading over the Brazilian state of Mato Grosso. The winglet of the Legacy sliced off about half of the 737's left wing, causing the 737 to break up and crash into an area of dense jungle, killing all 154 passengers and crew on board. Despite sustaining serious damage to its left wing and tail, the Legacy landed with its seven occupants uninjured.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gol_Transportes_A%C3%A9reos_Flight_1907",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/BrazilATCDelay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/BrazilATCDelay.jpg/330px-BrazilATCDelay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "brazilatcdelay.jpg",
+          "width": 2598,
+          "height": 1675,
+          "title": "2006–2007 Brazilian aviation crisis",
+          "description": "Civil aviation crisis",
+          "extract": "Between 2006 and 2007, Brazil's civil aviation sector suffered a crisis characterized by significant flight delays and cancellations, air traffic controller strikes and safety concerns about the country's airport and air traffic infrastructure. It ostensibly started after the crash of Gol Transportes Aéreos Flight 1907 in September 2006, and extended to January 2008. While the government announced a series of measures aimed at mitigating its effects, no clear solution has been found. In Brazil the crisis has been dubbed \"Apagão Aéreo\", an allusion to an energy crisis which Brazil experienced between 2001 and 2002.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2006%E2%80%932007_Brazilian_aviation_crisis",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PR-GTD_Aircraft.jpg/500px-PR-GTD_Aircraft.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PR-GTD_Aircraft.jpg/500px-PR-GTD_Aircraft.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "pr-gtd_aircraft.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "PR-GTD_Aircraft",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gol_Transportes_A%C3%A9reos_Flight_1907",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Gol Transportes Aéreos Flight 1907",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Gol_Transportes_A%C3%A9reos_Flight_1907",
+      "relatedPagesCount": 2
+    }
+  ]
+}

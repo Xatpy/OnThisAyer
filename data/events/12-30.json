@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 12,
+    "day": 30,
+    "formatted": "12-30"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "12-30-1916-07425c07",
+      "year": 1916,
+      "text": "The last coronation in Hungary is performed for King Charles IV and Queen Zita.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Crown%2C_Sword_and_Globus_Cruciger_of_Hungary2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Crown%2C_Sword_and_Globus_Cruciger_of_Hungary2.jpg/330px-Crown%2C_Sword_and_Globus_Cruciger_of_Hungary2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "crown,_sword_and_globus_cruciger_of_hungary2.jpg",
+        "width": 1610,
+        "height": 1094,
+        "title": "Coronation of the Hungarian monarch",
+        "description": "Legitimation ceremony in the Kingdom of Hungary",
+        "extract": "The coronation of the Hungarian monarch was a ceremony in which the king or queen of the Kingdom of Hungary was formally crowned and invested with regalia. It corresponded to the coronation ceremonies in other European monarchies. While in countries like France and England the king's reign began immediately upon the death of his predecessor, in Hungary the coronation was absolutely indispensable: if it were not properly executed, the Kingdom stayed \"orphaned\". All monarchs had to be crowned as King of Hungary in order to promulgate laws and exercise his royal prerogatives in the Kingdom of Hungary. Starting from the Golden Bull of 1222, all new Hungarian monarchs had to take a coronation oath, by which they had to agree to uphold the constitutional arrangements of the country, and to preserve the liberties of their subjects and the territorial integrity of the realm.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_the_Hungarian_monarch",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Crown%2C_Sword_and_Globus_Cruciger_of_Hungary2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Crown%2C_Sword_and_Globus_Cruciger_of_Hungary2.jpg/330px-Crown%2C_Sword_and_Globus_Cruciger_of_Hungary2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "crown,_sword_and_globus_cruciger_of_hungary2.jpg",
+          "width": 1610,
+          "height": 1094,
+          "title": "Coronation of the Hungarian monarch",
+          "description": "Legitimation ceremony in the Kingdom of Hungary",
+          "extract": "The coronation of the Hungarian monarch was a ceremony in which the king or queen of the Kingdom of Hungary was formally crowned and invested with regalia. It corresponded to the coronation ceremonies in other European monarchies. While in countries like France and England the king's reign began immediately upon the death of his predecessor, in Hungary the coronation was absolutely indispensable: if it were not properly executed, the Kingdom stayed \"orphaned\". All monarchs had to be crowned as King of Hungary in order to promulgate laws and exercise his royal prerogatives in the Kingdom of Hungary. Starting from the Golden Bull of 1222, all new Hungarian monarchs had to take a coronation oath, by which they had to agree to uphold the constitutional arrangements of the country, and to preserve the liberties of their subjects and the territorial integrity of the realm.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Coronation_of_the_Hungarian_monarch",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Karl_I.%2C_Kaiser_von_%C3%96sterreich_%281887-1922%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Karl_I.%2C_Kaiser_von_%C3%96sterreich_%281887-1922%29.jpg/330px-Karl_I.%2C_Kaiser_von_%C3%96sterreich_%281887-1922%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "karl_i.,_kaiser_von_österreich_(1887-1922).jpg",
+          "width": 559,
+          "height": 801,
+          "title": "Charles I of Austria",
+          "description": "Emperor of Austria from 1916 to 1918",
+          "extract": "Charles I and IV was Emperor of Austria, King of Hungary, and the ruler of the other states of the Habsburg monarchy from November 1916 until the monarchy was abolished in November 1918. He was the last of the monarchs belonging to the House of Habsburg-Lorraine to rule over Austria-Hungary. The son of Archduke Otto of Austria and Princess Maria Josepha of Saxony, Charles became heir presumptive of Emperor Franz Joseph when his uncle Archduke Franz Ferdinand of Austria was assassinated in 1914. In 1911, he married Princess Zita of Bourbon-Parma.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Charles_I_of_Austria",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Empress_Zita_of_Austria_-_Hungary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Empress_Zita_of_Austria_-_Hungary.jpg/330px-Empress_Zita_of_Austria_-_Hungary.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "empress_zita_of_austria_-_hungary.jpg",
+          "width": 539,
+          "height": 707,
+          "title": "Zita of Bourbon-Parma",
+          "description": "Empress-queen of Austria-Hungary from 1916 to 1918",
+          "extract": "Zita of Bourbon-Parma was the last Empress of Austria and Queen of Hungary, in addition to other titles. She ascended to these titles when her husband, Charles I, became the last monarch of Austria-Hungary. She was declared Servant of God by Pope Benedict XVI.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Zita_of_Bourbon-Parma",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Coronation of the Hungarian monarch",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Coronation_of_the_Hungarian_monarch",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-30-2009-0b2e2479",
+      "year": 2009,
+      "text": "A suicide bomber kills nine people at Forward Operating Base Chapman, a key facility of the Central Intelligence Agency in Afghanistan.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Defense.gov_photo_essay_110731-N-TT977-134.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Defense.gov_photo_essay_110731-N-TT977-134.jpg/330px-Defense.gov_photo_essay_110731-N-TT977-134.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "defense.gov_photo_essay_110731-n-tt977-134.jpg",
+        "width": 3489,
+        "height": 2475,
+        "title": "Camp Chapman attack",
+        "description": "2009 suicide bombing of a US Armed Forces base in Khost Province, Afghanistan",
+        "extract": "The Camp Chapman attack was a suicide attack by Humam Khalil Abu-Mulal al-Balawi against the Central Intelligence Agency facility inside Forward Operating Base Chapman in Afghanistan on December 30, 2009. One of the main tasks of the CIA personnel stationed at the base was to provide intelligence supporting drone attacks in Pakistan. Seven American CIA officers and contractors, a Jordanian intelligence officer, and an Afghan working for the CIA were killed when al-Balawi detonated a bomb sewn into a vest he was wearing. Six other American CIA officers were wounded. The bombing was the most lethal attack against the CIA in more than 25 years.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Camp_Chapman_attack",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Defense.gov_photo_essay_110731-N-TT977-134.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Defense.gov_photo_essay_110731-N-TT977-134.jpg/330px-Defense.gov_photo_essay_110731-N-TT977-134.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "defense.gov_photo_essay_110731-n-tt977-134.jpg",
+          "width": 3489,
+          "height": 2475,
+          "title": "Camp Chapman attack",
+          "description": "2009 suicide bombing of a US Armed Forces base in Khost Province, Afghanistan",
+          "extract": "The Camp Chapman attack was a suicide attack by Humam Khalil Abu-Mulal al-Balawi against the Central Intelligence Agency facility inside Forward Operating Base Chapman in Afghanistan on December 30, 2009. One of the main tasks of the CIA personnel stationed at the base was to provide intelligence supporting drone attacks in Pakistan. Seven American CIA officers and contractors, a Jordanian intelligence officer, and an Afghan working for the CIA were killed when al-Balawi detonated a bomb sewn into a vest he was wearing. Six other American CIA officers were wounded. The bombing was the most lethal attack against the CIA in more than 25 years.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Camp_Chapman_attack",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/19th_sf_CO_at_Chapman_July_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/19th_sf_CO_at_Chapman_July_02.JPG/330px-19th_sf_CO_at_Chapman_July_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "19th_sf_co_at_chapman_july_02.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": "Forward Operating Base Chapman",
+          "description": "US military/CIA base in Khost province, Afghanistan (2001–13)",
+          "extract": "Forward Operating Base Chapman, also known as Camp Chapman, was a U.S. installation situated in Khost province, Afghanistan, on an airstrip 2 miles east of Khost. It was opened by the United States Army and extensively used by the Central Intelligence Agency.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Forward_Operating_Base_Chapman",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Camp Chapman attack",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Camp_Chapman_attack",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "12-30-2006-87309d70",
+      "year": 2006,
+      "text": "Basque nationalist group ETA detonated a van bomb at Madrid–Barajas Airport in Spain, ending a nine-month ceasefire.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Barajas_terrorist_attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Barajas_terrorist_attack.jpg/330px-Barajas_terrorist_attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "barajas_terrorist_attack.jpg",
+        "width": 3264,
+        "height": 2448,
+        "title": "2006 Madrid–Barajas Airport bombing",
+        "description": "Van bomb by the Basque separatist organisation ETA",
+        "extract": " On 30 December 2006, a van bomb exploded in the Terminal 4 parking area at the Madrid–Barajas Airport in Spain, killing two and injuring 52. On 9 January 2007, the Basque nationalist and separatist organisation ETA claimed responsibility for the attack. The attack, one of the most powerful carried out by ETA, damaged the airport terminal and destroyed the entire parking structure. The bombing ended a nine-month ceasefire declared by the armed organisation and prompted the government to halt plans for negotiations with the organisation. Despite the attack, ETA claimed that the ceasefire was still in place and regretted the death of civilians. The organisation eventually announced the end of the ceasefire in June 2007.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2006_Madrid%E2%80%93Barajas_Airport_bombing",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Barajas_terrorist_attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Barajas_terrorist_attack.jpg/330px-Barajas_terrorist_attack.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "barajas_terrorist_attack.jpg",
+          "width": 3264,
+          "height": 2448,
+          "title": "2006 Madrid–Barajas Airport bombing",
+          "description": "Van bomb by the Basque separatist organisation ETA",
+          "extract": " On 30 December 2006, a van bomb exploded in the Terminal 4 parking area at the Madrid–Barajas Airport in Spain, killing two and injuring 52. On 9 January 2007, the Basque nationalist and separatist organisation ETA claimed responsibility for the attack. The attack, one of the most powerful carried out by ETA, damaged the airport terminal and destroyed the entire parking structure. The bombing ended a nine-month ceasefire declared by the armed organisation and prompted the government to halt plans for negotiations with the organisation. Despite the attack, ETA claimed that the ceasefire was still in place and regretted the death of civilians. The organisation eventually announced the end of the ceasefire in June 2007.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2006_Madrid%E2%80%93Barajas_Airport_bombing",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Basque nationalism",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Basque_nationalism",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "12-30-1845-cdec97fd",
+      "year": 1845,
+      "text": "The University of Galway, University College Cork and Queen's University Belfast were established as part of the Queen's University of Ireland.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/County_Cork_-_University_College_Cork_-_20190125141016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/County_Cork_-_University_College_Cork_-_20190125141016.jpg/330px-County_Cork_-_University_College_Cork_-_20190125141016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "county_cork_-_university_college_cork_-_20190125141016.jpg",
+        "width": 3178,
+        "height": 2384,
+        "title": "University College Cork",
+        "description": "Constituent university of the National University of Ireland",
+        "extract": "University College Cork – National University of Ireland, Cork is a constituent university of the National University of Ireland in Cork.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/University_College_Cork",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/County_Cork_-_University_College_Cork_-_20190125141016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/County_Cork_-_University_College_Cork_-_20190125141016.jpg/330px-County_Cork_-_University_College_Cork_-_20190125141016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "county_cork_-_university_college_cork_-_20190125141016.jpg",
+          "width": 3178,
+          "height": 2384,
+          "title": "University College Cork",
+          "description": "Constituent university of the National University of Ireland",
+          "extract": "University College Cork – National University of Ireland, Cork is a constituent university of the National University of Ireland in Cork.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/University_College_Cork",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Queen%27s_University_of_Ireland_Escutcheon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Queen%27s_University_of_Ireland_Escutcheon.png/330px-Queen%27s_University_of_Ireland_Escutcheon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen's_university_of_ireland_escutcheon.png",
+          "width": 440,
+          "height": 511,
+          "title": "Queen's University of Ireland",
+          "description": "Former public university in Ireland (1850–1882)",
+          "extract": "The Queen's University of Ireland was established formally by royal charter on 3 September 1850, as the degree-awarding university of the Queen's Colleges of Belfast, Cork, and Galway that were established in 1845 \"to afford a university education to members of all religious denominations\" in Ireland.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Queen's_University_of_Ireland",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/91/Crest_of_NUI%2C_Galway.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/9/91/Crest_of_NUI%2C_Galway.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "crest_of_nui,_galway.png",
+          "width": 800,
+          "height": 600,
+          "title": "Crest_of_NUI,_Galway",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/University_of_Galway",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "University of Galway",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/University_of_Galway",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "12-30-1702-05097d89",
+      "year": 1702,
+      "text": "Queen Anne's War: James Moore, Governor of the Province of Carolina, abandons the Siege of St. Augustine.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/OcmulgeeRaid.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OcmulgeeRaid.JPG/330px-OcmulgeeRaid.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ocmulgeeraid.jpg",
+        "width": 3088,
+        "height": 2320,
+        "title": "James Moore Sr.",
+        "description": "Governor of Carolina from 1700 to 1703",
+        "extract": "James Moore Sr. was a military officer and colonial administrator who served as the governor of Carolina from 1700 to 1703. He is best known for leading several invasions of Spanish Florida during Queen Anne's War, including attacks in 1704 and 1706 which wiped out most of the Spanish missions in Florida. He captured and brought back to Carolina as slaves thousands of Apalachee.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_Moore_Sr.",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/OcmulgeeRaid.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/OcmulgeeRaid.JPG/330px-OcmulgeeRaid.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ocmulgeeraid.jpg",
+          "width": 3088,
+          "height": 2320,
+          "title": "James Moore Sr.",
+          "description": "Governor of Carolina from 1700 to 1703",
+          "extract": "James Moore Sr. was a military officer and colonial administrator who served as the governor of Carolina from 1700 to 1703. He is best known for leading several invasions of Spanish Florida during Queen Anne's War, including attacks in 1704 and 1706 which wiped out most of the Spanish missions in Florida. He captured and brought back to Carolina as slaves thousands of Apalachee.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/James_Moore_Sr.",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/CarolinaToFloridaCoast1733.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/CarolinaToFloridaCoast1733.jpg/330px-CarolinaToFloridaCoast1733.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "carolinatofloridacoast1733.jpg",
+          "width": 964,
+          "height": 972,
+          "title": "Siege of St. Augustine (1702)",
+          "description": "Part of Queen Anne's War",
+          "extract": "The siege of St. Augustine occurred in Queen Anne's War during November and December 1702. It was conducted by English colonists from the Province of Carolina and their Indian allies, under the command of governor of Carolina James Moore, against the Spanish colonial fortress of Castillo de San Marcos at St. Augustine, in Spanish Florida.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_St._Augustine_(1702)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Recognition_of_the_Duke_of_Anjou_as_King_of_Spain.png/500px-Recognition_of_the_Duke_of_Anjou_as_King_of_Spain.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Recognition_of_the_Duke_of_Anjou_as_King_of_Spain.png/500px-Recognition_of_the_Duke_of_Anjou_as_King_of_Spain.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "recognition_of_the_duke_of_anjou_as_king_of_spain.png",
+          "width": 800,
+          "height": 600,
+          "title": "Philip of Anjou proclaimed as the King of Spain in November 1700. A dispute over his succession led to war between the Grand Alliance and the Bourbon alliance.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Queen_Anne's_War",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Queen Anne's War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Queen_Anne's_War",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "12-30-1906-cc1d13c9",
+      "year": 1906,
+      "text": "The All-India Muslim League, a political party in British India that developed into the driving force behind the creation of Pakistan as a Muslim state on the Indian subcontinent, was founded in Dhaka.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg/330px-British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "british_indian_empire_1909_imperial_gazetteer_of_india.jpg",
+        "width": 1498,
+        "height": 1223,
+        "title": "British Raj",
+        "description": "1858–1947 Crown rule in India",
+        "extract": "The British Raj was the period of rule of the British Crown on the Indian subcontinent, lasting from 1858 to 1947. It is also called Crown rule in India, or direct rule in India. The region under British control was commonly called India in contemporaneous usage and included areas directly administered by the United Kingdom, which were collectively called British India, and areas ruled by indigenous rulers, but under British paramountcy, called the princely states. The region was sometimes called the Indian Empire, though not officially. As India, it was a founding member of the League of Nations and a founding member of the United Nations in San Francisco in 1945. India was a participating state in the Summer Olympics in 1900, 1920, 1928, 1932, and 1936.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/British_Raj",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg/330px-British_Indian_Empire_1909_Imperial_Gazetteer_of_India.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "british_indian_empire_1909_imperial_gazetteer_of_india.jpg",
+          "width": 1498,
+          "height": 1223,
+          "title": "British Raj",
+          "description": "1858–1947 Crown rule in India",
+          "extract": "The British Raj was the period of rule of the British Crown on the Indian subcontinent, lasting from 1858 to 1947. It is also called Crown rule in India, or direct rule in India. The region under British control was commonly called India in contemporaneous usage and included areas directly administered by the United Kingdom, which were collectively called British India, and areas ruled by indigenous rulers, but under British paramountcy, called the princely states. The region was sometimes called the Indian Empire, though not officially. As India, it was a founding member of the League of Nations and a founding member of the United Nations in San Francisco in 1945. India was a participating state in the Summer Olympics in 1900, 1920, 1928, 1932, and 1936.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/British_Raj",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Muslim_League_leaders_after_a_dinner_party%2C_1940_%28Photo_429-6%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muslim_League_leaders_after_a_dinner_party%2C_1940_%28Photo_429-6%29.jpg/330px-Muslim_League_leaders_after_a_dinner_party%2C_1940_%28Photo_429-6%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "muslim_league_leaders_after_a_dinner_party,_1940_(photo_429-6).jpg",
+          "width": 750,
+          "height": 481,
+          "title": "Pakistan Movement",
+          "description": "Muslim nationalist movement in South Asia (1940–1947)",
+          "extract": "The Pakistan Movement was a Muslim nationalist political and social movement, emerging in the early 20th century, that advocated the formation of Pakistan as a separate Muslim homeland in the Muslim-majority parts of what was then the British India. It was rooted in the two-nation theory, which asserted that Muslims were fundamentally and irreconcilably distinct from Hindus and would therefore require separate self-determination upon decolonisation. The idea was largely realised when the All-India Muslim League ratified the Lahore Resolution on 23 March 1940, calling for the Muslim-majority regions of the Indian subcontinent to be \"grouped to constitute independent states\" that would be \"autonomous and sovereign\" with the aim of securing Muslim socio-political interests vis-à-vis the Hindu majority. It was in the aftermath of the Lahore Resolution under the aegis of Muhammad Ali Jinnah, that the cause of \"Pakistan\" became widely popular among the Muslims of South Asia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pakistan_Movement",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tejgaon_Commercial_Area.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tejgaon_Commercial_Area.jpg/330px-Tejgaon_Commercial_Area.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tejgaon_commercial_area.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": "Dhaka",
+          "description": "Capital and largest city of Bangladesh",
+          "extract": "Dhaka, formerly spelled as Dacca, is the capital and largest city of Bangladesh. With an estimated population of 36.6 million, Dhaka is the second largest city by population in the world, and is widely considered to be the most densely populated built-up urban area in the world. Dhaka is an important cultural, economic, and scientific hub of Eastern South Asia. Dhaka ranks fourth in South Asia and 55th in the world in terms of GDP. Lying on the Ganges Delta, it is bounded by the Buriganga, Turag, Dhaleshwari and Shitalakshya rivers. It is also the largest Bengali-speaking city in the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dhaka",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "All-India Muslim League",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/All-India_Muslim_League",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "12-30-2013-e360a369",
+      "year": 2013,
+      "text": "Supporters of Congolese religious leader Paul-Joseph Mukungubila carried out a series of attacks on television studios, the airport and a military base in Kinshasa.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Joseph_Mukungubila_Mutombo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Joseph_Mukungubila_Mutombo_2.jpg/330px-Joseph_Mukungubila_Mutombo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "joseph_mukungubila_mutombo_2.jpg",
+        "width": 870,
+        "height": 616,
+        "title": "Paul-Joseph Mukungubila",
+        "description": "Congolese religious and political figure (born 1947)",
+        "extract": "Paul Joseph Mukungubila Mutombo is a Congolese religious and political figure. He is the leader of the \"Church of the Lord Jesus Christ\", established in Kinshasa, Lubumbashi, Kolwezi, Kalemie, Brussels, Paris and Washington DC area. He declared himself \"prophet of the Lord\" for \"The Ministry of Restoration from Sub-Saharan Africa \".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Paul-Joseph_Mukungubila",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Joseph_Mukungubila_Mutombo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Joseph_Mukungubila_Mutombo_2.jpg/330px-Joseph_Mukungubila_Mutombo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "joseph_mukungubila_mutombo_2.jpg",
+          "width": 870,
+          "height": 616,
+          "title": "Paul-Joseph Mukungubila",
+          "description": "Congolese religious and political figure (born 1947)",
+          "extract": "Paul Joseph Mukungubila Mutombo is a Congolese religious and political figure. He is the leader of the \"Church of the Lord Jesus Christ\", established in Kinshasa, Lubumbashi, Kolwezi, Kalemie, Brussels, Paris and Washington DC area. He declared himself \"prophet of the Lord\" for \"The Ministry of Restoration from Sub-Saharan Africa \".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Paul-Joseph_Mukungubila",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/KIH01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KIH01.jpg/330px-KIH01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kih01.jpg",
+          "width": 919,
+          "height": 690,
+          "title": "December 2013 Kinshasa attacks",
+          "description": "Rioting by followers of Paul Joseph Mukungubila in DR Congo",
+          "extract": "Attacks in Kinshasa, the capital of the Democratic Republic of the Congo, were launched by supporters of religious leader Paul Joseph Mukungubila against television studios, the airport and a military base in the capital on 30 December 2013. The state security forces responded, killing around 54 of the attackers. An additional 47 of Mukungubila's supporters were killed in separate clashes in the cities of Lubumbashi and Kolwezi and around 100 people were arrested.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/December_2013_Kinshasa_attacks",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/La_Gombe%2C_Kinshasa%2C_RDC_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/La_Gombe%2C_Kinshasa%2C_RDC_%28cropped%29.jpg/330px-La_Gombe%2C_Kinshasa%2C_RDC_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "la_gombe,_kinshasa,_rdc_(cropped).jpg",
+          "width": 1284,
+          "height": 829,
+          "title": "Kinshasa",
+          "description": "Capital and most populous city of DR Congo",
+          "extract": "Kinshasa, formerly named Léopoldville from 1881 to 1966, is the capital and largest city of the Democratic Republic of the Congo. Kinshasa is one of the world's fastest-growing megacities, with an estimated population of 18.5 million in 2026. It is the most densely populated city in the DRC, the third-most populous city and third-largest metropolitan area in Africa, the world's seventh-most populous city proper, and the fourth-most populous capital city in the world. It is the leading economic, political, and cultural center of the DRC, housing several industries including manufacturing, telecommunications, banking, and entertainment. The city also hosts some of the DRC's significant institutional buildings, such as the People's Palace, Palace of the Nation, Constitutional Court, Court of Cassation, Council of State, African Union City, Marble Palace, Government House, Kinshasa Financial Center, and other national departments and agencies.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kinshasa",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Paul-Joseph Mukungubila",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Paul-Joseph_Mukungubila",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-30-2005-0e776628",
+      "year": 2005,
+      "text": "Tropical Storm Zeta (pictured) became a tropical depression, making it the record-breaking 28th tropical cyclone of the 2005 Atlantic hurricane season, the most active in recorded history until 2020.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Zeta_2006-01-03_1345Z.jpg/3840px-Zeta_2006-01-03_1345Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Zeta_2006-01-03_1345Z.jpg/330px-Zeta_2006-01-03_1345Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "zeta_2006-01-03_1345z.jpg",
+        "width": 4800,
+        "height": 6200,
+        "title": "Tropical Storm Zeta",
+        "description": "2005–2006 Atlantic tropical storm",
+        "extract": "Tropical Storm Zeta was a very late-developing tropical storm that formed in the central Atlantic Ocean during the 2005 Atlantic hurricane season, forming one month after the season's official end. Becoming a tropical depression on December 30, and intensifying the following day into the season's 28th storm, Zeta continued into January 2006. It was one of only two Atlantic tropical cyclones to span two calendar years.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tropical_Storm_Zeta",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Zeta_2006-01-03_1345Z.jpg/3840px-Zeta_2006-01-03_1345Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Zeta_2006-01-03_1345Z.jpg/330px-Zeta_2006-01-03_1345Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "zeta_2006-01-03_1345z.jpg",
+          "width": 4800,
+          "height": 6200,
+          "title": "Tropical Storm Zeta",
+          "description": "2005–2006 Atlantic tropical storm",
+          "extract": "Tropical Storm Zeta was a very late-developing tropical storm that formed in the central Atlantic Ocean during the 2005 Atlantic hurricane season, forming one month after the season's official end. Becoming a tropical depression on December 30, and intensifying the following day into the season's 28th storm, Zeta continued into January 2006. It was one of only two Atlantic tropical cyclones to span two calendar years.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tropical_Storm_Zeta",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/3840px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/330px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dramatic_views_of_hurricane_florence_from_the_international_space_station_from_9_12_(42828603210)_(cropped).jpg",
+          "width": 4750,
+          "height": 3250,
+          "title": "Tropical cyclone",
+          "description": "Rapidly rotating storm system",
+          "extract": "A tropical cyclone is a rapidly rotating storm system with a low-pressure area, a closed low-level atmospheric circulation, strong winds, and a spiral arrangement of thunderstorms that produce heavy rain and squalls. Depending on its location and strength, a tropical cyclone is called a hurricane, typhoon, tropical storm, cyclonic storm, tropical depression, or simply cyclone. A hurricane is a strong tropical cyclone that occurs in the Atlantic Ocean or northeastern Pacific Ocean. A typhoon is the same thing which occurs in the northwestern Pacific Ocean. In the Indian Ocean and South Pacific, comparable storms are referred to as \"tropical cyclones\". In modern times, on average around 80 to 90 named tropical cyclones form each year around the world, over half of which develop hurricane-force winds of 65 kn or more.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2005_Atlantic_hurricane_season_summary.png/3840px-2005_Atlantic_hurricane_season_summary.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/2005_Atlantic_hurricane_season_summary.png/330px-2005_Atlantic_hurricane_season_summary.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2005_atlantic_hurricane_season_summary.png",
+          "width": 4000,
+          "height": 2476,
+          "title": "2005 Atlantic hurricane season",
+          "description": "",
+          "extract": "The 2005 Atlantic hurricane season was a record-breaking, catastrophic, and deadly Atlantic hurricane season. It is the second-costliest hurricane season, just behind the 2017 season. It featured 28 tropical and subtropical storms, which was previously the most recorded in a hurricane season until the 2020 season. The United States National Hurricane Center named 27 storms, exhausting the annual pre-designated list, requiring the use of six Greek letter names, and adding an additional unnamed subtropical storm during a post-season re-analysis. A record 15 storms attained hurricane status, with maximum sustained winds of at least 74 miles per hour (119 km/h). Of those, a record seven became major hurricanes, rated Category 3 or higher on the Saffir–Simpson scale. Four storms of this season became Category 5 hurricanes, the most of any season on record.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2005_Atlantic_hurricane_season",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Tropical Storm Zeta",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Tropical_Storm_Zeta",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "12-30-2004-29b32f3b",
+      "year": 2004,
+      "text": "A fire in the República Cromagnon nightclub in Buenos Aires, Argentina, kills 194.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Encendiendo_velas_por_las_v%C3%ADctimas_del_incendio_de_Rep%C3%BAblica_Croma%C3%B1%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Encendiendo_velas_por_las_v%C3%ADctimas_del_incendio_de_Rep%C3%BAblica_Croma%C3%B1%C3%B3n.jpg/330px-Encendiendo_velas_por_las_v%C3%ADctimas_del_incendio_de_Rep%C3%BAblica_Croma%C3%B1%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "encendiendo_velas_por_las_víctimas_del_incendio_de_república_cromañón.jpg",
+        "width": 768,
+        "height": 504,
+        "title": "Cromañón nightclub fire",
+        "description": "2004 fire in Buenos Aires, Argentina",
+        "extract": "On 30 December 2004, a fire broke out in the crowded República Cromañón nightclub in Buenos Aires, Argentina, killing 194 people and leaving at least 1,492 injured. The direct cause was the indoor pyrotechnics igniting the ceiling.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Croma%C3%B1%C3%B3n_nightclub_fire",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Encendiendo_velas_por_las_v%C3%ADctimas_del_incendio_de_Rep%C3%BAblica_Croma%C3%B1%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Encendiendo_velas_por_las_v%C3%ADctimas_del_incendio_de_Rep%C3%BAblica_Croma%C3%B1%C3%B3n.jpg/330px-Encendiendo_velas_por_las_v%C3%ADctimas_del_incendio_de_Rep%C3%BAblica_Croma%C3%B1%C3%B3n.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "encendiendo_velas_por_las_víctimas_del_incendio_de_república_cromañón.jpg",
+          "width": 768,
+          "height": 504,
+          "title": "Cromañón nightclub fire",
+          "description": "2004 fire in Buenos Aires, Argentina",
+          "extract": "On 30 December 2004, a fire broke out in the crowded República Cromañón nightclub in Buenos Aires, Argentina, killing 194 people and leaving at least 1,492 injured. The direct cause was the indoor pyrotechnics igniting the ceiling.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Croma%C3%B1%C3%B3n_nightclub_fire",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg/330px-Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "puerto_madero,_buenos_aires_(40689219792)_(cropped).jpg",
+          "width": 3761,
+          "height": 1538,
+          "title": "Buenos Aires",
+          "description": "Capital and most populous city of Argentina",
+          "extract": "Buenos Aires, officially the Autonomous City of Buenos Aires, is the capital and largest city of Argentina. It is located on the southwest of the Río de la Plata. Buenos Aires is classified as an Alpha− global city, according to the GaWC 2024 ranking. The city proper has a population of 3.1 million and its urban area has a population of 16.7 million, making it the 21st most populous metropolitan area in the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Buenos_Aires",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Puesto_Cromag%C3%B1on.JPG/1280px-Puesto_Cromag%C3%B1on.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Puesto_Cromag%C3%B1on.JPG/1280px-Puesto_Cromag%C3%B1on.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "puesto_cromagñon.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Makeshift memorial for the dead",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Croma%C3%B1%C3%B3n_nightclub_fire",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Cromañón nightclub fire",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Croma%C3%B1%C3%B3n_nightclub_fire",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "12-30-1996-0d3ca50b",
+      "year": 1996,
+      "text": "Proposed budget cuts by Benjamin Netanyahu spark protests from 250,000 workers who shut down services across Israel.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Benjamin_Netanyahu%2C_February_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/330px-Benjamin_Netanyahu%2C_February_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "benjamin_netanyahu,_february_2023.jpg",
+        "width": 2024,
+        "height": 2947,
+        "title": "Benjamin Netanyahu",
+        "description": "Prime Minister of Israel (1996–1999; 2009–2021; 2022–present)",
+        "extract": "Benjamin Netanyahu, nicknamed \"Bibi\", is an Israeli politician and diplomat who has served as Prime Minister of Israel since 2022. Having previously held office from 1996 to 1999 and from 2009 to 2021, Netanyahu is Israel's longest-serving prime minister.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Benjamin_Netanyahu%2C_February_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/330px-Benjamin_Netanyahu%2C_February_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "benjamin_netanyahu,_february_2023.jpg",
+          "width": 2024,
+          "height": 2947,
+          "title": "Benjamin Netanyahu",
+          "description": "Prime Minister of Israel (1996–1999; 2009–2021; 2022–present)",
+          "extract": "Benjamin Netanyahu, nicknamed \"Bibi\", is an Israeli politician and diplomat who has served as Prime Minister of Israel since 2022. Having previously held office from 1996 to 1999 and from 2009 to 2021, Netanyahu is Israel's longest-serving prime minister.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Benjamin_Netanyahu%2C_February_2023_%283x4_close_cropped%29.jpg/500px-Benjamin_Netanyahu%2C_February_2023_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Benjamin_Netanyahu%2C_February_2023_%283x4_close_cropped%29.jpg/500px-Benjamin_Netanyahu%2C_February_2023_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "benjamin_netanyahu,_february_2023_(3x4_close_cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Benjamin_Netanyahu,_February_2023_(3x4_close_cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Netanyahu%27s_military_service_I.jpg/500px-Netanyahu%27s_military_service_I.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Netanyahu%27s_military_service_I.jpg/500px-Netanyahu%27s_military_service_I.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "netanyahu's_military_service_i.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "1967 photograph of Netanyahu by the Israel Defense Forces",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Benjamin Netanyahu",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu",
+      "relatedPagesCount": 1
+    }
+  ]
+}

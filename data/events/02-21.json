@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 2,
+    "day": 21,
+    "formatted": "02-21"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "02-21-1972-e38837b8",
+      "year": 1972,
+      "text": "United States President Richard Nixon visits China to normalize Sino-American relations.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
+        "width": 2136,
+        "height": 2830,
+        "title": "Richard Nixon",
+        "description": "President of the United States from 1969 to 1974",
+        "extract": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
+          "width": 2136,
+          "height": 2830,
+          "title": "Richard Nixon",
+          "description": "President of the United States from 1969 to 1974",
+          "extract": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Richard_Nixon_presidential_portrait_crop.jpg/1280px-Richard_Nixon_presidential_portrait_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Richard_Nixon_presidential_portrait_crop.jpg/1280px-Richard_Nixon_presidential_portrait_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "richard_nixon_presidential_portrait_crop.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Richard_Nixon_presidential_portrait_crop",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nixon_child.jpeg/1280px-Nixon_child.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nixon_child.jpeg/1280px-Nixon_child.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "nixon_child.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": "Nixon (second from right) makes his newspaper debut in 1916, contributing five cents to a fund for World War I orphans; his brother Donald is to his right.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Richard Nixon",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-21-1973-3c0b7178",
+      "year": 1973,
+      "text": "After accidentally straying into the airspace of the Israeli-occupied Sinai Peninsula, Libyan Arab Airlines Flight 114 was shot down by two Israeli fighter aircraft, killing 108 of the 113 people on board.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/6DayWarEnglish.png/3840px-6DayWarEnglish.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/6DayWarEnglish.png/330px-6DayWarEnglish.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "6daywarenglish.png",
+        "width": 4000,
+        "height": 6900,
+        "title": "Israeli occupation of the Sinai Peninsula",
+        "description": "Sinai's 1956–1957 and 1967–1982 occupations",
+        "extract": "The Sinai Peninsula, which is a part of Egypt, has been militarily occupied by Israel twice since the beginning of the Arab–Israeli conflict: the first occupation lasted from October 1956 to March 1957, and the second occupation lasted from June 1967 to April 1982. Taba, Egypt, the only territory which was not returned in 1982, was returned to Egypt in 1989.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Israeli_occupation_of_the_Sinai_Peninsula",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/6DayWarEnglish.png/3840px-6DayWarEnglish.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/6DayWarEnglish.png/330px-6DayWarEnglish.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "6daywarenglish.png",
+          "width": 4000,
+          "height": 6900,
+          "title": "Israeli occupation of the Sinai Peninsula",
+          "description": "Sinai's 1956–1957 and 1967–1982 occupations",
+          "extract": "The Sinai Peninsula, which is a part of Egypt, has been militarily occupied by Israel twice since the beginning of the Arab–Israeli conflict: the first occupation lasted from October 1956 to March 1957, and the second occupation lasted from June 1967 to April 1982. Taba, Egypt, the only territory which was not returned in 1982, was returned to Egypt in 1989.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Israeli_occupation_of_the_Sinai_Peninsula",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Libyan_Arab_Airlines_Boeing_727_5A-DAH.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Libyan_Arab_Airlines_Boeing_727_5A-DAH.jpg/330px-Libyan_Arab_Airlines_Boeing_727_5A-DAH.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "libyan_arab_airlines_boeing_727_5a-dah.jpg",
+          "width": 2567,
+          "height": 1472,
+          "title": "Libyan Arab Airlines Flight 114",
+          "description": "1973 Israeli shootdown of an airliner",
+          "extract": "Libyan Arab Airlines Flight 114 was a regularly scheduled international passenger flight from Tripoli, Libya, to Cairo, Egypt, through Benghazi in Libya. The flight was shot down on 21 February 1973 by two Israeli McDonnell Douglas F-4 fighter jets after it mistakenly entered the airspace of Egypt's Sinai Peninsula – then under Israeli occupation – resulting in the death of 108 passengers and crew, with 5 survivors.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Libyan_Arab_Airlines_Flight_114",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Formation_of_a_Legacy%2C_Heritage_flight_merges_aviation_past_and_present_86-16-51-22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Formation_of_a_Legacy%2C_Heritage_flight_merges_aviation_past_and_present_86-16-51-22.jpg/330px-Formation_of_a_Legacy%2C_Heritage_flight_merges_aviation_past_and_present_86-16-51-22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "formation_of_a_legacy,_heritage_flight_merges_aviation_past_and_present_86-16-51-22.jpg",
+          "width": 1814,
+          "height": 1218,
+          "title": "Fighter aircraft",
+          "description": "Military aircraft for air-to-air combat",
+          "extract": "Fighter aircraft are military aircraft designed primarily for air-to-air combat. In military conflict, the role of fighter aircraft is to establish air superiority of the battlespace. Domination of the airspace above a battlefield permits bombers and attack aircraft to engage in tactical and strategic bombing of enemy targets, and helps prevent the enemy from doing the same.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fighter_aircraft",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Israeli occupation of the Sinai Peninsula",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Israeli_occupation_of_the_Sinai_Peninsula",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-21-1995-6a880929",
+      "year": 1995,
+      "text": "Steve Fossett lands in Leader, Saskatchewan, Canada becoming the first person to make a solo flight across the Pacific Ocean in a balloon.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Steve_Fossett_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Steve_Fossett_1.jpg/330px-Steve_Fossett_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "steve_fossett_1.jpg",
+        "width": 1228,
+        "height": 1818,
+        "title": "Steve Fossett",
+        "description": "American businessman, aviator, sailor, and adventurer (1944–2007)",
+        "extract": "James Stephen Fossett was an American businessman and a record-setting aviator, sailor, and adventurer. He was the first person to fly solo nonstop around the world in a balloon and in a fixed-wing aircraft. He made his fortune in the financial services industry and held world records for five nonstop circumnavigations of the Earth: as a long-distance solo balloonist, as a sailor, and as a solo flight fixed-wing aircraft pilot.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Steve_Fossett",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Steve_Fossett_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Steve_Fossett_1.jpg/330px-Steve_Fossett_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "steve_fossett_1.jpg",
+          "width": 1228,
+          "height": 1818,
+          "title": "Steve Fossett",
+          "description": "American businessman, aviator, sailor, and adventurer (1944–2007)",
+          "extract": "James Stephen Fossett was an American businessman and a record-setting aviator, sailor, and adventurer. He was the first person to fly solo nonstop around the world in a balloon and in a fixed-wing aircraft. He made his fortune in the financial services industry and held world records for five nonstop circumnavigations of the Earth: as a long-distance solo balloonist, as a sailor, and as a solo flight fixed-wing aircraft pilot.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Steve_Fossett",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Leader_Welcome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Leader_Welcome.jpg/330px-Leader_Welcome.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "leader_welcome.jpg",
+          "width": 1280,
+          "height": 1707,
+          "title": "Leader, Saskatchewan",
+          "description": "Town in Saskatchewan, Canada",
+          "extract": "Leader is a town in southwestern Saskatchewan, Canada, located approximately 350 kilometres (220 mi) directly east of Calgary, Alberta and is near the border between Saskatchewan and Alberta. It has a population of 881 as of 2021.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Leader%2C_Saskatchewan",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/2006_Ojiya_balloon_festival_011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2006_Ojiya_balloon_festival_011.jpg/330px-2006_Ojiya_balloon_festival_011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2006_ojiya_balloon_festival_011.jpg",
+          "width": 1896,
+          "height": 2852,
+          "title": "Hot air balloon",
+          "description": "Lighter-than-air aircraft",
+          "extract": "A hot air balloon is a lighter-than-air aircraft consisting of a bag, called an envelope, which contains heated air. Suspended beneath is a gondola or wicker basket, which carries passengers and a source of heat, in most cases an open flame caused by burning liquid propane. The heated air inside the envelope makes it buoyant, since it has a lower density than the colder air outside the envelope. As with all aircraft, hot air balloons cannot fly beyond the atmosphere. The envelope does not have to be sealed at the bottom, since the air inside the envelope is at about the same pressure as the surrounding air. In modern sport balloons the envelope is generally made from nylon fabric, and the inlet of the balloon is made from a fire-resistant material such as Nomex. Modern balloons have been made in many shapes, such as rocket ships and the shapes of various commercial products, though the traditional shape is used for most non-commercial and many commercial applications.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hot_air_balloon",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Steve Fossett",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Steve_Fossett",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "02-21-1975-3e9f55e6",
+      "year": 1975,
+      "text": "Watergate scandal: Former United States Attorney General John N. Mitchell and former White House aides H. R. Haldeman and John Ehrlichman are sentenced to prison.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/330px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "watergate_complex.jpg",
+        "width": 2071,
+        "height": 1584,
+        "title": "Watergate scandal",
+        "description": "1970s political scandal in the U.S.",
+        "extract": "The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex. Nixon's efforts to conceal his administration's involvement led to an impeachment process and ultimately to his resignation in August 1974.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Watergate_scandal",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/330px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "watergate_complex.jpg",
+          "width": 2071,
+          "height": 1584,
+          "title": "Watergate scandal",
+          "description": "1970s political scandal in the U.S.",
+          "extract": "The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex. Nixon's efforts to conceal his administration's involvement led to an impeachment process and ultimately to his resignation in August 1974.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Watergate_scandal",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Interview_with_Atty._Gen._John_Mitchell_01_copy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Interview_with_Atty._Gen._John_Mitchell_01_copy.jpg/330px-Interview_with_Atty._Gen._John_Mitchell_01_copy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "interview_with_atty._gen._john_mitchell_01_copy.jpg",
+          "width": 3043,
+          "height": 3670,
+          "title": "John N. Mitchell",
+          "description": "American lawyer and criminal (1913–1988)",
+          "extract": "John Newton Mitchell was the 67th attorney general of the United States under President Richard Nixon. He also was chairman of Nixon's 1968 and 1972 presidential campaigns. Prior to that, he had been a municipal bond lawyer and one of Nixon's associates. Mitchell was tried and convicted as a result of his involvement in the Watergate scandal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_N._Mitchell",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/3840px-White_House_north_and_south_sides.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/330px-White_House_north_and_south_sides.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "white_house_north_and_south_sides.jpg",
+          "width": 4418,
+          "height": 5056,
+          "title": "White House",
+          "description": "Residence and workplace of the US president",
+          "extract": "The White House is the official residence and workplace of the president of the United States. Located at 1600 Pennsylvania Avenue NW in Washington, D.C., it has served as the residence of every U.S. president since John Adams in 1800 when the national capital was moved from Philadelphia. The White House is also a metonym for the Executive Office of the President.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/White_House",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Watergate scandal",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Watergate_scandal",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "02-21-1947-7a03a950",
+      "year": 1947,
+      "text": "In New York City, Edwin Land demonstrates the first \"instant camera\", the Polaroid Land Camera, to a meeting of the Optical Society of America.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Edwin_H._Land%2C_founder%2C_Polaroid_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Edwin_H._Land%2C_founder%2C_Polaroid_%28cropped%29.jpg/330px-Edwin_H._Land%2C_founder%2C_Polaroid_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "edwin_h._land,_founder,_polaroid_(cropped).jpg",
+        "width": 1196,
+        "height": 1593,
+        "title": "Edwin H. Land",
+        "description": "American scientist, inventor, and entrepreneur (1909–1991)",
+        "extract": "Edwin Herbert Land, ForMemRS, FRPS, Hon.MRI was an American scientist and inventor, best known as the co-founder of the Polaroid Corporation. He invented inexpensive filters for polarizing light, a practical system of in-camera instant photography, and the retinex theory of color vision. His Polaroid instant camera went on sale in 1948 and made it possible for a picture to be taken and developed in one minute or less.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Edwin_H._Land",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Edwin_H._Land%2C_founder%2C_Polaroid_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Edwin_H._Land%2C_founder%2C_Polaroid_%28cropped%29.jpg/330px-Edwin_H._Land%2C_founder%2C_Polaroid_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "edwin_h._land,_founder,_polaroid_(cropped).jpg",
+          "width": 1196,
+          "height": 1593,
+          "title": "Edwin H. Land",
+          "description": "American scientist, inventor, and entrepreneur (1909–1991)",
+          "extract": "Edwin Herbert Land, ForMemRS, FRPS, Hon.MRI was an American scientist and inventor, best known as the co-founder of the Polaroid Corporation. He invented inexpensive filters for polarizing light, a practical system of in-camera instant photography, and the retinex theory of color vision. His Polaroid instant camera went on sale in 1948 and made it possible for a picture to be taken and developed in one minute or less.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Edwin_H._Land",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/0464_Fuji_Instax_210_Polaroid_600_Spirit_Fuji_Cheki_%287159344382%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0464_Fuji_Instax_210_Polaroid_600_Spirit_Fuji_Cheki_%287159344382%29.jpg/330px-0464_Fuji_Instax_210_Polaroid_600_Spirit_Fuji_Cheki_%287159344382%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "0464_fuji_instax_210_polaroid_600_spirit_fuji_cheki_(7159344382).jpg",
+          "width": 1500,
+          "height": 1010,
+          "title": "Instant camera",
+          "description": "Type of camera whose film self-develops a short time after the picture is taken",
+          "extract": "An instant camera is a camera which uses self-developing film to create a chemically developed print shortly after taking the picture. Polaroid Corporation pioneered consumer-friendly instant cameras and film, and were followed by various other manufacturers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Instant_camera",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Polaroid_Land_Camera_Model_95_-_MIT_Museum_-_DSC03766.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Polaroid_Land_Camera_Model_95_-_MIT_Museum_-_DSC03766.JPG/330px-Polaroid_Land_Camera_Model_95_-_MIT_Museum_-_DSC03766.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "polaroid_land_camera_model_95_-_mit_museum_-_dsc03766.jpg",
+          "width": 3648,
+          "height": 5472,
+          "title": "Land Camera",
+          "description": "Model of instant film cameras manufactured by Polaroid from 1948-83",
+          "extract": "The Land Camera is a model of self-developing film camera manufactured by Polaroid between 1948 and 1983. It is named after the inventor, American scientist Edwin Land, who developed a process for self-developing photography between 1943 and 1947. After Edwin Land's retirement from Polaroid in 1982, the name 'Land' was dropped from the camera name. The first commercially available model was the Model 95, which produced sepia-colored prints in about 1 minute. It was first sold to the public on November 26, 1948.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Land_Camera",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Edwin H. Land",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Edwin_H._Land",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-21-1885-14586f97",
+      "year": 1885,
+      "text": "The newly completed Washington Monument is dedicated.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Washington_Monument_2022.jpg/1920px-Washington_Monument_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Washington_Monument_2022.jpg/330px-Washington_Monument_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "washington_monument_2022.jpg",
+        "width": 3024,
+        "height": 4032,
+        "title": "Washington Monument",
+        "description": "U.S. national memorial in Washington, D.C.",
+        "extract": "The Washington Monument is a 555-foot (169 m) tall obelisk on the National Mall in Washington, D.C., built to commemorate George Washington, a Founding Father of the United States and the nation's first president. Standing east of the Reflecting Pool and the Lincoln Memorial, the monument is made of bluestone gneiss for the foundation and of granite for the construction. The outside facing consists of three different kinds of white marble, as the building process was repeatedly interrupted. The monument stands 554 feet 7+11⁄32 inches (169.046 m) tall, according to U.S. National Geodetic Survey measurements in 2013 and 2014. It is the third tallest monumental column in the world, trailing only the Juche Tower in Pyongyang, and the San Jacinto Monument in Houston, Texas. It was the world's tallest structure between 1884 and 1889, after which it was overtaken by the Eiffel Tower, in Paris.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Washington_Monument",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Washington_Monument_2022.jpg/1920px-Washington_Monument_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Washington_Monument_2022.jpg/330px-Washington_Monument_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "washington_monument_2022.jpg",
+          "width": 3024,
+          "height": 4032,
+          "title": "Washington Monument",
+          "description": "U.S. national memorial in Washington, D.C.",
+          "extract": "The Washington Monument is a 555-foot (169 m) tall obelisk on the National Mall in Washington, D.C., built to commemorate George Washington, a Founding Father of the United States and the nation's first president. Standing east of the Reflecting Pool and the Lincoln Memorial, the monument is made of bluestone gneiss for the foundation and of granite for the construction. The outside facing consists of three different kinds of white marble, as the building process was repeatedly interrupted. The monument stands 554 feet 7+11⁄32 inches (169.046 m) tall, according to U.S. National Geodetic Survey measurements in 2013 and 2014. It is the third tallest monumental column in the world, trailing only the Juche Tower in Pyongyang, and the San Jacinto Monument in Houston, Texas. It was the world's tallest structure between 1884 and 1889, after which it was overtaken by the Eiffel Tower, in Paris.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Washington_Monument",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LCCN2003656330_Design_of_the_National_Washington_Monument_in_the_City_of_Washington_cropped.jpg/1280px-LCCN2003656330_Design_of_the_National_Washington_Monument_in_the_City_of_Washington_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LCCN2003656330_Design_of_the_National_Washington_Monument_in_the_City_of_Washington_cropped.jpg/1280px-LCCN2003656330_Design_of_the_National_Washington_Monument_in_the_City_of_Washington_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "lccn2003656330_design_of_the_national_washington_monument_in_the_city_of_washington_cropped.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Print of the proposed Washington Monument by architect Robert Mills, c. 1845–1848",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Washington_Monument",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "culture",
+        "name": "Cultura y Letras",
+        "icon": "📚"
+      },
+      "mainPageTitle": "Washington Monument",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Washington_Monument",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "02-21-1974-d1d53369",
+      "year": 1974,
+      "text": "The last Israeli soldiers leave the west bank of the Suez Canal pursuant to a truce with Egypt.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 55,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Iss016e019375.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Iss016e019375.jpg/330px-Iss016e019375.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "iss016e019375.jpg",
+        "width": 2000,
+        "height": 3032,
+        "title": "Suez Canal",
+        "description": "Artificial sea-level waterway in Egypt",
+        "extract": "The Suez Canal is an artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea through the Isthmus of Suez and dividing Africa and Asia. It is the border between Africa and Asia. The 193.3-kilometre-long (120.1-mile) canal is a key trade route between Europe and Asia.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Suez_Canal",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Iss016e019375.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Iss016e019375.jpg/330px-Iss016e019375.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss016e019375.jpg",
+          "width": 2000,
+          "height": 3032,
+          "title": "Suez Canal",
+          "description": "Artificial sea-level waterway in Egypt",
+          "extract": "The Suez Canal is an artificial sea-level waterway in Egypt, connecting the Mediterranean Sea to the Red Sea through the Isthmus of Suez and dividing Africa and Asia. It is the border between Africa and Asia. The 193.3-kilometre-long (120.1-mile) canal is a key trade route between Europe and Asia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Suez_Canal",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Suez_Canal%2C_Egypt_%2831596166706%29.jpg/1280px-Suez_Canal%2C_Egypt_%2831596166706%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Suez_Canal%2C_Egypt_%2831596166706%29.jpg/1280px-Suez_Canal%2C_Egypt_%2831596166706%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "suez_canal,_egypt_(31596166706).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Suez_Canal,_Egypt_(31596166706)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Suez_Canal",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Aerial_view_of_city_of_Suez_and_Suez_Canal.jpg/500px-Aerial_view_of_city_of_Suez_and_Suez_Canal.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Aerial_view_of_city_of_Suez_and_Suez_Canal.jpg/500px-Aerial_view_of_city_of_Suez_and_Suez_Canal.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "aerial_view_of_city_of_suez_and_suez_canal.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Aerial_view_of_city_of_Suez_and_Suez_Canal",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Suez_Canal",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Suez Canal",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Suez_Canal",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-21-1971-4b7a3b58",
+      "year": 1971,
+      "text": "The Convention on Psychotropic Substances is signed at Vienna.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 55,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ecstasy_monogram.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ecstasy_monogram.jpg/330px-Ecstasy_monogram.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ecstasy_monogram.jpg",
+        "width": 434,
+        "height": 424,
+        "title": "Convention on Psychotropic Substances",
+        "description": "1971 UN treaty to regulate recreational drugs",
+        "extract": "The Convention on Psychotropic Substances of 1971 is a United Nations treaty designed to control psychoactive drugs such as amphetamine-type stimulants, barbiturates, benzodiazepines, and psychedelics signed in Vienna, Austria on 21 February 1971. The Single Convention on Narcotic Drugs of 1961 did not ban the many newly discovered psychotropics, since its scope was limited to drugs with cannabis, coca and opium-like effects.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Convention_on_Psychotropic_Substances",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ecstasy_monogram.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ecstasy_monogram.jpg/330px-Ecstasy_monogram.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ecstasy_monogram.jpg",
+          "width": 434,
+          "height": 424,
+          "title": "Convention on Psychotropic Substances",
+          "description": "1971 UN treaty to regulate recreational drugs",
+          "extract": "The Convention on Psychotropic Substances of 1971 is a United Nations treaty designed to control psychoactive drugs such as amphetamine-type stimulants, barbiturates, benzodiazepines, and psychedelics signed in Vienna, Austria on 21 February 1971. The Single Convention on Narcotic Drugs of 1961 did not ban the many newly discovered psychotropics, since its scope was limited to drugs with cannabis, coca and opium-like effects.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Convention_on_Psychotropic_Substances",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schoenbrunn_philharmoniker_2012.jpg/3840px-Schoenbrunn_philharmoniker_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Schoenbrunn_philharmoniker_2012.jpg/330px-Schoenbrunn_philharmoniker_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "schoenbrunn_philharmoniker_2012.jpg",
+          "width": 5073,
+          "height": 2282,
+          "title": "Vienna",
+          "description": "Capital and largest city of Austria",
+          "extract": "Vienna is the capital, most populous city, and one of the nine states of Austria. It is Austria's primate city, with just over two million inhabitants. Its larger metropolitan area has a population of nearly 2.9 million, representing nearly one-third of the country's population. Vienna is the cultural, economic, and political centre of the country, the fifth-largest city by population in the European Union, and the most populous of the cities on the river Danube.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vienna",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Convention on Psychotropic Substances",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Convention_on_Psychotropic_Substances",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "02-21-1965-f9d50854",
+      "year": 1965,
+      "text": "American Black nationalist Malcolm X (pictured) was assassinated while giving a speech in New York City's Audubon Ballroom.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 55,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Malcolm_X_1964_press_photo_%28cropped%29_%28lighting_diff%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Malcolm_X_1964_press_photo_%28cropped%29_%28lighting_diff%29.jpg/330px-Malcolm_X_1964_press_photo_%28cropped%29_%28lighting_diff%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "malcolm_x_1964_press_photo_(cropped)_(lighting_diff).jpg",
+        "width": 1650,
+        "height": 2200,
+        "title": "Malcolm X",
+        "description": "American civil rights activist (1925–1965)",
+        "extract": "Malcolm X was an African American revolutionary, civil rights activist, and Muslim minister who was a prominent figure during the civil rights movement until his assassination in 1965. He discovered the new religious movement the Nation of Islam (NOI) while in prison and served as a spokesperson from 1952 until he transitioned to Sunni Islam in 1964. He is often regarded as one of the most significant Muslim figures in the history of the United States. A controversial figure accused of preaching violence, Malcolm X is also a celebrated figure within the African American community for his pursuit of racial justice and equality.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_X",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Malcolm_X_1964_press_photo_%28cropped%29_%28lighting_diff%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Malcolm_X_1964_press_photo_%28cropped%29_%28lighting_diff%29.jpg/330px-Malcolm_X_1964_press_photo_%28cropped%29_%28lighting_diff%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "malcolm_x_1964_press_photo_(cropped)_(lighting_diff).jpg",
+          "width": 1650,
+          "height": 2200,
+          "title": "Malcolm X",
+          "description": "American civil rights activist (1925–1965)",
+          "extract": "Malcolm X was an African American revolutionary, civil rights activist, and Muslim minister who was a prominent figure during the civil rights movement until his assassination in 1965. He discovered the new religious movement the Nation of Islam (NOI) while in prison and served as a spokesperson from 1952 until he transitioned to Sunni Islam in 1964. He is often regarded as one of the most significant Muslim figures in the history of the United States. A controversial figure accused of preaching violence, Malcolm X is also a celebrated figure within the African American community for his pursuit of racial justice and equality.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Malcolm_X",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Malcolm_X_on_stretcher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Malcolm_X_on_stretcher.jpg/330px-Malcolm_X_on_stretcher.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "malcolm_x_on_stretcher.jpg",
+          "width": 1398,
+          "height": 1252,
+          "title": "Assassination of Malcolm X",
+          "description": "1965 murder in New York City, U.S.",
+          "extract": "On February 21, 1965, Malcolm X, a Muslim African American minister and Black power activist who was a popular figure during the civil rights movement, was shot multiple times and died from his wounds in Manhattan, New York City, at the age of 39 while preparing to address the Organization of Afro-American Unity at the Audubon Ballroom in the neighborhood of Washington Heights. Three members of the Nation of Islam—Muhammad Abdul Aziz, Khalil Islam, and Thomas Hagan—were charged, tried, and convicted of the murder and given indeterminate life sentences. In April 2010, Hagan was released from prison, and in November 2021, Aziz and Islam were exonerated.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Assassination_of_Malcolm_X",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/2014_Audubon_Ballroom_and_Lasker_Biomedical_Research_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2014_Audubon_Ballroom_and_Lasker_Biomedical_Research_Building.jpg/330px-2014_Audubon_Ballroom_and_Lasker_Biomedical_Research_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2014_audubon_ballroom_and_lasker_biomedical_research_building.jpg",
+          "width": 2891,
+          "height": 1621,
+          "title": "Audubon Ballroom",
+          "description": "Former theater and ballroom in Manhattan, New York",
+          "extract": "The Audubon Theatre and Ballroom was a theatre and ballroom located at 3940 Broadway, at the intersection with West 165th Street, in the Washington Heights neighborhood of Manhattan, New York City. It was built in 1912 and was designed by Thomas W. Lamb. The theatre was known at various times as the William Fox Audubon Theatre, the Beverly Hills Theater, and the San Juan Theater. The ballroom is noted for being the site of the assassination of Malcolm X on February 21, 1965. Most of the building was demolished starting in 1992, with two-thirds of the facade preserved. Since 2005, it has been the Audubon Business and Technology Center, which is part of Columbia University's Audubon Research Park.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Audubon_Ballroom",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Black nationalism",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Black_nationalism",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "02-21-1958-ca3814a3",
+      "year": 1958,
+      "text": "The CND symbol, aka peace symbol, commissioned by the Direct Action Committee in protest against the Atomic Weapons Research Establishment, is designed and completed by Gerald Holtom.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 55,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Atomic_Weapons_Establishment_at_Aldermaston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Atomic_Weapons_Establishment_at_Aldermaston.jpg/330px-Atomic_Weapons_Establishment_at_Aldermaston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "atomic_weapons_establishment_at_aldermaston.jpg",
+        "width": 2272,
+        "height": 1704,
+        "title": "AWE Nuclear Security Technologies",
+        "description": "UK Ministry of Defence facility",
+        "extract": "AWE Nuclear Security Technologies, formerly known as the Atomic Weapons Establishment (AWE), is a United Kingdom Ministry of Defence research facility responsible for the design, manufacture and support of warheads for the UK's nuclear weapons. It is the successor to the Atomic Weapons Research Establishment (AWRE) with its main site on the former RAF Aldermaston and has major facilities at Burghfield, Blacknest and RNAD Coulport.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/AWE_Nuclear_Security_Technologies",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Atomic_Weapons_Establishment_at_Aldermaston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Atomic_Weapons_Establishment_at_Aldermaston.jpg/330px-Atomic_Weapons_Establishment_at_Aldermaston.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "atomic_weapons_establishment_at_aldermaston.jpg",
+          "width": 2272,
+          "height": 1704,
+          "title": "AWE Nuclear Security Technologies",
+          "description": "UK Ministry of Defence facility",
+          "extract": "AWE Nuclear Security Technologies, formerly known as the Atomic Weapons Establishment (AWE), is a United Kingdom Ministry of Defence research facility responsible for the design, manufacture and support of warheads for the UK's nuclear weapons. It is the successor to the Atomic Weapons Research Establishment (AWRE) with its main site on the former RAF Aldermaston and has major facilities at Burghfield, Blacknest and RNAD Coulport.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/AWE_Nuclear_Security_Technologies",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OliveBritAmerica1775.jpg/500px-OliveBritAmerica1775.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OliveBritAmerica1775.jpg/500px-OliveBritAmerica1775.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "olivebritamerica1775.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "An engraving from The London Magazine, January 1775, showing the Goddess of Peace bringing an olive branch to America and Britannia",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Peace_symbols",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Peace symbols",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Peace_symbols",
+      "relatedPagesCount": 4
+    }
+  ]
+}

@@ -1,0 +1,643 @@
+{
+  "date": {
+    "month": 10,
+    "day": 3,
+    "formatted": "10-03"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "10-03-1985-69c58af6",
+      "year": 1985,
+      "text": "The Space Shuttle Atlantis makes its maiden flight, carrying two DSCS-III Satellites on STS-51-J.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+        "width": 3697,
+        "height": 2217,
+        "title": "Space Shuttle Atlantis",
+        "description": "Space Shuttle orbiter (1985–2011)",
+        "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+          "width": 3697,
+          "height": 2217,
+          "title": "Space Shuttle Atlantis",
+          "description": "Space Shuttle orbiter (1985–2011)",
+          "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/DSCS-3_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/DSCS-3_1.jpg/330px-DSCS-3_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dscs-3_1.jpg",
+          "width": 3300,
+          "height": 2550,
+          "title": "Defense Satellite Communications System",
+          "description": "Defense satellite communications project",
+          "extract": "The Defense Satellite Communications System (DSCS) is a United States Space Force satellite constellation that provides the United States with military communications to support globally distributed military users. Beginning in 2007, DSCS began being replaced by the Wideband Global SATCOM system. A total of 14 DSCS-III satellites were launched between the early 1980s and 2003. Two satellites were launched aboard the Space Shuttle Atlantis in 1985 during the STS-51-J flight. As of 14 September 2021, six DSCS-III satellites were still operational. DSCS operations are currently run by the 4th Space Operations Squadron out of Schriever Space Force Base.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Defense_Satellite_Communications_System",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/DSCS-III_STS-51-J.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/DSCS-III_STS-51-J.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "dscs-iii_sts-51-j.jpg",
+          "width": 250,
+          "height": 370,
+          "title": "STS-51-J",
+          "description": "1985 American crewed spaceflight",
+          "extract": "STS-51-J was NASA's 21st Space Shuttle mission and the maiden flight of Space Shuttle Atlantis. It launched from Kennedy Space Center, Florida, on October 3, 1985, carrying a payload for the U.S. Department of Defense (DoD), and landed at Edwards Air Force Base, California, on October 7, 1985.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-51-J",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Atlantis",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-03-1962-0f1c1d42",
+      "year": 1962,
+      "text": "Mercury-Atlas 8, the fifth United States crewed space mission, was launched from Cape Canaveral Air Force Station in Florida, carrying astronaut Wally Schirra (pictured).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mercury-8_schirra_boarding.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mercury-8_schirra_boarding.jpg/330px-Mercury-8_schirra_boarding.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mercury-8_schirra_boarding.jpg",
+        "width": 1280,
+        "height": 831,
+        "title": "Mercury-Atlas 8",
+        "description": "Manned NASA spacecraft",
+        "extract": "Mercury-Atlas 8 (MA-8) was the fifth United States crewed space mission, part of NASA's Mercury program. Astronaut Walter M. Schirra Jr., orbited the Earth six times in the Sigma 7 spacecraft on October 3, 1962, in a nine-hour flight focused mainly on technical evaluation rather than on scientific experimentation. This was the longest U.S. crewed orbital flight yet achieved in the Space Race, though well behind the several-day record set by the Soviet Vostok 3 earlier in the year. It confirmed the Mercury spacecraft's durability ahead of the one-day Mercury-Atlas 9 mission that followed in 1963.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mercury-Atlas_8",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mercury-8_schirra_boarding.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mercury-8_schirra_boarding.jpg/330px-Mercury-8_schirra_boarding.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mercury-8_schirra_boarding.jpg",
+          "width": 1280,
+          "height": 831,
+          "title": "Mercury-Atlas 8",
+          "description": "Manned NASA spacecraft",
+          "extract": "Mercury-Atlas 8 (MA-8) was the fifth United States crewed space mission, part of NASA's Mercury program. Astronaut Walter M. Schirra Jr., orbited the Earth six times in the Sigma 7 spacecraft on October 3, 1962, in a nine-hour flight focused mainly on technical evaluation rather than on scientific experimentation. This was the longest U.S. crewed orbital flight yet achieved in the Space Race, though well behind the several-day record set by the Soviet Vostok 3 earlier in the year. It confirmed the Mercury spacecraft's durability ahead of the one-day Mercury-Atlas 9 mission that followed in 1963.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mercury-Atlas_8",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/STS115_Atlantis_undock_ISS_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/STS115_Atlantis_undock_ISS_edit2.jpg/330px-STS115_Atlantis_undock_ISS_edit2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts115_atlantis_undock_iss_edit2.jpg",
+          "width": 2928,
+          "height": 1920,
+          "title": "Human spaceflight",
+          "description": "Spaceflight with a crew or passengers",
+          "extract": "Human spaceflight is spaceflight with a crew or passengers aboard a spacecraft, often with the spacecraft being operated directly by the onboard crew. Spacecraft can also be remotely operated from ground stations on Earth, or autonomously, without any direct human involvement. People trained for spaceflight are called astronauts, cosmonauts (Russian), or taikonauts (Chinese); and non-professionals are referred to as spaceflight participants or spacefarers. Humans have had a continuous presence in space since 2 November 2000, on the International Space Station (ISS).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Human_spaceflight",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/STORIE_Launch_and_Install_on_the_Space_Station_%28SVS15043_-_4~orig%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/STORIE_Launch_and_Install_on_the_Space_Station_%28SVS15043_-_4~orig%29.jpg/330px-STORIE_Launch_and_Install_on_the_Space_Station_%28SVS15043_-_4~orig%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "storie_launch_and_install_on_the_space_station_(svs15043_-_4~orig).jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": "Cape Canaveral Space Force Station",
+          "description": "Military rocket launch site in Florida",
+          "extract": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Force_Station",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Mercury-Atlas 8",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mercury-Atlas_8",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "10-03-1995-48b4623d",
+      "year": 1995,
+      "text": "O. J. Simpson murder case: O. J. Simpson is acquitted of the murders of Nicole Brown Simpson and Ronald Goldman.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG/330px-O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "o.j._simpson_1990_·_dn-st-91-03444_crop.jpeg",
+        "width": 584,
+        "height": 789,
+        "title": "O. J. Simpson",
+        "description": "American football player and actor (1947–2024)",
+        "extract": "Orenthal James Simpson, nicknamed \"the Juice\", was an American football player, actor, and media personality. He played in the National Football League (NFL) for 11 seasons—nine with the Buffalo Bills—and is regarded as one of the greatest running backs of all time. His success is widely considered to be overshadowed by his two criminal charges for the 1994 murders of his ex-wife Nicole Brown and her friend Ron Goldman, and the contentious criminal trial in which he was acquitted on both counts.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/O._J._Simpson",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG/330px-O.J._Simpson_1990_%C2%B7_DN-ST-91-03444_crop.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "o.j._simpson_1990_·_dn-st-91-03444_crop.jpeg",
+          "width": 584,
+          "height": 789,
+          "title": "O. J. Simpson",
+          "description": "American football player and actor (1947–2024)",
+          "extract": "Orenthal James Simpson, nicknamed \"the Juice\", was an American football player, actor, and media personality. He played in the National Football League (NFL) for 11 seasons—nine with the Buffalo Bills—and is regarded as one of the greatest running backs of all time. His success is widely considered to be overshadowed by his two criminal charges for the 1994 murders of his ex-wife Nicole Brown and her friend Ron Goldman, and the contentious criminal trial in which he was acquitted on both counts.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/O._J._Simpson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Eureka_Rebellion_Prisoners_Released.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Eureka_Rebellion_Prisoners_Released.jpg/330px-Eureka_Rebellion_Prisoners_Released.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "eureka_rebellion_prisoners_released.jpg",
+          "width": 958,
+          "height": 710,
+          "title": "Acquittal",
+          "description": "Legal result of a \"not guilty\" verdict",
+          "extract": "In common law jurisdictions, an acquittal means that the criminal prosecution has failed to prove that the accused is guilty beyond a reasonable doubt of the charge presented. It certifies that the accused is free from the charge of an offense, as far as criminal law is concerned. The finality of an acquittal is dependent on the jurisdiction. In some countries, such as the United States, an acquittal prohibits the retrial of the accused for the same offense, even if new evidence surfaces that further implicates the accused. The effect of an acquittal on criminal proceedings is the same whether it results from a jury verdict or results from the operation of some other rule that discharges the accused. In other countries, like Australia, Canada and the UK, the prosecuting authority may appeal an acquittal similar to how a defendant may appeal a conviction — but usually only if new and compelling evidence comes to light or the accused has interfered with or intimidated a juror or witness.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Acquittal",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Nicole_Brown_Simpson_driver%27s_license.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Nicole_Brown_Simpson_driver%27s_license.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "nicole_brown_simpson_driver's_license.jpg",
+          "width": 301,
+          "height": 397,
+          "title": "Nicole Brown Simpson",
+          "description": "German-American murder victim (1959–1994)",
+          "extract": "Nicole Brown Simpson was a German-American woman best known for being the second wife of American professional football player, actor, and media personality O. J. Simpson. She was murdered outside her Los Angeles home, along with her friend Ron Goldman, in 1994.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nicole_Brown_Simpson",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Murder trial of O. J. Simpson",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Murder_trial_of_O._J._Simpson",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "10-03-1992-3e000d92",
+      "year": 1992,
+      "text": "Sinéad O'Connor  tore up a photograph of Pope John Paul II on live television.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg/330px-Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sinead_o'connor_(14828633401)_(cropped).jpg",
+        "width": 1335,
+        "height": 1765,
+        "title": "Sinéad O'Connor",
+        "description": "Irish singer (1966–2023)",
+        "extract": "Sinéad Marie Bernadette O'Connor, also known as Shuhada' Sadaqat, was an Irish singer and songwriter. During her musical career, which encompassed several hit records and artist collaborations, O'Connor drew attention to issues such as child abuse, human rights, racism, and women's rights. She was also known for her outspoken public image, openly discussing her spiritual journey, activism, socio-political viewpoints, and struggles with mental health.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sin%C3%A9ad_O'Connor",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg/330px-Sinead_O%27Connor_%2814828633401%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sinead_o'connor_(14828633401)_(cropped).jpg",
+          "width": 1335,
+          "height": 1765,
+          "title": "Sinéad O'Connor",
+          "description": "Irish singer (1966–2023)",
+          "extract": "Sinéad Marie Bernadette O'Connor, also known as Shuhada' Sadaqat, was an Irish singer and songwriter. During her musical career, which encompassed several hit records and artist collaborations, O'Connor drew attention to issues such as child abuse, human rights, racism, and women's rights. She was also known for her outspoken public image, openly discussing her spiritual journey, activism, socio-political viewpoints, and struggles with mental health.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sin%C3%A9ad_O'Connor",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/10/Sinead_rips_into_the_Pope.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sinead_rips_into_the_Pope.jpg/330px-Sinead_rips_into_the_Pope.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sinead_rips_into_the_pope.jpg",
+          "width": 365,
+          "height": 273,
+          "title": "Sinéad O'Connor on Saturday Night Live",
+          "description": "1992 TV protest by Irish singer-songwriter",
+          "extract": "On October 3, 1992, the Irish singer-songwriter Sinéad O'Connor appeared as the musical guest on the American live television sketch comedy show Saturday Night Live (SNL). While performing a rendition of Bob Marley's 1976 song \"War\", she staged a protest against the Catholic Church. O'Connor held a photograph of Pope John Paul II in front of the camera, ripped it up, said \"fight the real enemy\", and threw the pieces of the photograph onto the floor.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sin%C3%A9ad_O'Connor_on_Saturday_Night_Live",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Sinéad O'Connor",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Sin%C3%A9ad_O'Connor",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-03-1951-b95d5598",
+      "year": 1951,
+      "text": "In Major League Baseball, the New York Giants' Bobby Thomson hit the \"Shot Heard 'Round the World\", a game-winning home run, to win the National League pennant.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bobby_Thomson_NY_Sunday_News_1950.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bobby_Thomson_NY_Sunday_News_1950.jpg/330px-Bobby_Thomson_NY_Sunday_News_1950.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bobby_thomson_ny_sunday_news_1950.jpg",
+        "width": 996,
+        "height": 1404,
+        "title": "Bobby Thomson",
+        "description": "American baseball player (1923–2010)",
+        "extract": "Robert Brown Thomson was an American professional baseball player, nicknamed \"the Staten Island Scot\". He was an outfielder and right-handed batter for the New York Giants, Milwaukee Braves (1954–57), Chicago Cubs (1958–59), Boston Red Sox (1960), and Baltimore Orioles (1960). His pennant-winning three-run home run for the Giants in 1951 is popularly known as the \"Shot Heard 'Round the World\", and is one of the most famous moments in baseball history. It overshadowed his other accomplishments, including eight 20-home-run seasons and three All-Star selections. \"It was the best thing that ever happened to me\", he said. \"It may have been the best thing that ever happened to anybody.\"",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bobby_Thomson",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Bobby_Thomson_NY_Sunday_News_1950.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Bobby_Thomson_NY_Sunday_News_1950.jpg/330px-Bobby_Thomson_NY_Sunday_News_1950.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bobby_thomson_ny_sunday_news_1950.jpg",
+          "width": 996,
+          "height": 1404,
+          "title": "Bobby Thomson",
+          "description": "American baseball player (1923–2010)",
+          "extract": "Robert Brown Thomson was an American professional baseball player, nicknamed \"the Staten Island Scot\". He was an outfielder and right-handed batter for the New York Giants, Milwaukee Braves (1954–57), Chicago Cubs (1958–59), Boston Red Sox (1960), and Baltimore Orioles (1960). His pennant-winning three-run home run for the Giants in 1951 is popularly known as the \"Shot Heard 'Round the World\", and is one of the most famous moments in baseball history. It overshadowed his other accomplishments, including eight 20-home-run seasons and three All-Star selections. \"It was the best thing that ever happened to me\", he said. \"It may have been the best thing that ever happened to anybody.\"",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bobby_Thomson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/6/6c/Thomson_19511003.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Thomson_19511003.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "thomson_19511003.jpg",
+          "width": 317,
+          "height": 240,
+          "title": "Shot Heard 'Round the World (baseball)",
+          "description": "Baseball home run",
+          "extract": "In baseball, the \"Shot Heard 'Round the World\" was a walk-off home run hit by New York Giants outfielder and third baseman Bobby Thomson off Brooklyn Dodgers pitcher Ralph Branca at the Polo Grounds in New York City on October 3, 1951, to win the National League (NL) pennant. Thomson's dramatic three-run homer came in the ninth inning of the decisive third game of a three-game playoff for the pennant in which the Giants trailed 4–1 entering the ninth and 4–2 with two runners on base at the time of Thomson's at-bat.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Shot_Heard_'Round_the_World_(baseball)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/20060825_Barry_Bonds_follow_through.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/20060825_Barry_Bonds_follow_through.jpg/330px-20060825_Barry_Bonds_follow_through.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "20060825_barry_bonds_follow_through.jpg",
+          "width": 1930,
+          "height": 1562,
+          "title": "Home run",
+          "description": "Four-base hit resulting in a run by the batter in baseball",
+          "extract": "In baseball, a home run is scored when the ball is hit in such a way that the batter is able to circle the bases and reach home plate safely in one play without any errors being committed by the defensive team. A home run is usually achieved by hitting the ball over the outfield fence between the foul poles without the ball touching the field.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Home_run",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Major League Baseball",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Major_League_Baseball",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "10-03-2023-4976d9fb",
+      "year": 2023,
+      "text": "Wab Kinew is elected to be the first First Nations Premier of a Canadian province in the 2023 Manitoba general election",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Wab_Kinew_in_Sept_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wab_Kinew_in_Sept_2024_%28cropped%29.jpg/330px-Wab_Kinew_in_Sept_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "wab_kinew_in_sept_2024_(cropped).jpg",
+        "width": 1351,
+        "height": 1802,
+        "title": "Wab Kinew",
+        "description": "Premier of Manitoba since 2023",
+        "extract": "Wabanakwut \"Wab\" Kinew is a Canadian politician who has served as the 25th premier of Manitoba since 2023 and the leader of the Manitoba New Democratic Party (NDP) since 2017. Kinew represents Fort Rouge in the Legislative Assembly of Manitoba and was the leader of the Opposition from 2017 until his party's victory in the 2023 provincial election.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wab_Kinew",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Wab_Kinew_in_Sept_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wab_Kinew_in_Sept_2024_%28cropped%29.jpg/330px-Wab_Kinew_in_Sept_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wab_kinew_in_sept_2024_(cropped).jpg",
+          "width": 1351,
+          "height": 1802,
+          "title": "Wab Kinew",
+          "description": "Premier of Manitoba since 2023",
+          "extract": "Wabanakwut \"Wab\" Kinew is a Canadian politician who has served as the 25th premier of Manitoba since 2023 and the leader of the Manitoba New Democratic Party (NDP) since 2017. Kinew represents Fort Rouge in the Legislative Assembly of Manitoba and was the leader of the Opposition from 2017 until his party's victory in the 2023 provincial election.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wab_Kinew",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ambassador_David_L._Cohen_Meet_with_Wab_Kinew_F8VGCCiagAA9BS4_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ambassador_David_L._Cohen_Meet_with_Wab_Kinew_F8VGCCiagAA9BS4_%28cropped%29.jpg/330px-Ambassador_David_L._Cohen_Meet_with_Wab_Kinew_F8VGCCiagAA9BS4_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ambassador_david_l._cohen_meet_with_wab_kinew_f8vgcciagaa9bs4_(cropped).jpg",
+          "width": 470,
+          "height": 634,
+          "title": "2023 Manitoba general election",
+          "description": "Provincial election",
+          "extract": "The 2023 Manitoba general election was held on October 3, 2023, to elect 57 members to the Legislative Assembly of Manitoba. The New Democratic Party of Manitoba, led by Wab Kinew, formed a majority government, defeating the two-term Progressive Conservative government. Following the election, Kinew became the second Indigenous premier of Manitoba and the first First Nations person to become premier of a Canadian province.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2023_Manitoba_general_election",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Wab Kinew",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Wab_Kinew",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-03-2022-c10c0eac",
+      "year": 2022,
+      "text": "Svante Pääbo is awarded the Nobel Prize in Physiology or Medicine.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Professor_Svante_Paabo_ForMemRS_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Professor_Svante_Paabo_ForMemRS_%28cropped%29_%28cropped%29.jpg/330px-Professor_Svante_Paabo_ForMemRS_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "professor_svante_paabo_formemrs_(cropped)_(cropped).jpg",
+        "width": 707,
+        "height": 727,
+        "title": "Svante Pääbo",
+        "description": "Swedish geneticist (born 1955)",
+        "extract": "Svante Pääbo is a Swedish geneticist and Nobel Laureate who specialises in the field of evolutionary genetics. As one of the founders of paleogenetics, he has worked extensively on the Neanderthal genome. In 1997, he became founding director of the Department of Genetics at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. Since 1999, he has been an honorary professor at Leipzig University; he currently teaches molecular evolutionary biology at the university. He is also an adjunct professor at Okinawa Institute of Science and Technology, Japan.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Professor_Svante_Paabo_ForMemRS_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Professor_Svante_Paabo_ForMemRS_%28cropped%29_%28cropped%29.jpg/330px-Professor_Svante_Paabo_ForMemRS_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "professor_svante_paabo_formemrs_(cropped)_(cropped).jpg",
+          "width": 707,
+          "height": 727,
+          "title": "Svante Pääbo",
+          "description": "Swedish geneticist (born 1955)",
+          "extract": "Svante Pääbo is a Swedish geneticist and Nobel Laureate who specialises in the field of evolutionary genetics. As one of the founders of paleogenetics, he has worked extensively on the Neanderthal genome. In 1997, he became founding director of the Department of Genetics at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. Since 1999, he has been an honorary professor at Leipzig University; he currently teaches molecular evolutionary biology at the university. He is also an adjunct professor at Okinawa Institute of Science and Technology, Japan.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/ed/Nobel_Prize.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Nobel_Prize.png/330px-Nobel_Prize.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nobel_prize.png",
+          "width": 500,
+          "height": 492,
+          "title": "Nobel Prize in Physiology or Medicine",
+          "description": "One of five Nobel Prizes established in 1895 by Alfred Nobel",
+          "extract": "The Nobel Prize in Physiology or Medicine is awarded yearly by the Nobel Assembly at the Karolinska Institute for outstanding discoveries in physiology or medicine. It is one of the five Nobel Prizes prizes that, in accordance with Alfred Nobel's 1895 will, are awarded \"to those who, during the preceding year, have conferred the greatest benefit to humankind\". Nobel Prizes are awarded in the fields of Physics, Medicine or Physiology, Chemistry, Literature, and Peace. A sixth prize, for Economic Sciences, was established in 1968 by Sveriges Riksbank in memory of Alfred Nobel.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nobel_Prize_in_Physiology_or_Medicine",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SvanteP%C3%A4%C3%A4bo.jpg/1280px-SvanteP%C3%A4%C3%A4bo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/SvanteP%C3%A4%C3%A4bo.jpg/1280px-SvanteP%C3%A4%C3%A4bo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "svantepääbo.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Pääbo at the 2014 Nobel Conference",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Svante Pääbo",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-03-2021-c81751a9",
+      "year": 2021,
+      "text": "Eight people are killed in an airplane crash near Milan, Italy.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/YR-PDV_Pilatus_PC-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YR-PDV_Pilatus_PC-12.jpg/330px-YR-PDV_Pilatus_PC-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "yr-pdv_pilatus_pc-12.jpg",
+        "width": 2000,
+        "height": 1125,
+        "title": "2021 Milan Pilatus PC-12 crash",
+        "description": "2021 aviation accident in Italy",
+        "extract": "On 3 October 2021, a Romanian private plane crashed into a building in Milan, Lombardy, Italy. All eight occupants of the aircraft were killed, including the Romanian businessman and billionaire Dan Petrescu, who owned and piloted the plane.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2021_Milan_Pilatus_PC-12_crash",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/YR-PDV_Pilatus_PC-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YR-PDV_Pilatus_PC-12.jpg/330px-YR-PDV_Pilatus_PC-12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "yr-pdv_pilatus_pc-12.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": "2021 Milan Pilatus PC-12 crash",
+          "description": "2021 aviation accident in Italy",
+          "extract": "On 3 October 2021, a Romanian private plane crashed into a building in Milan, Lombardy, Italy. All eight occupants of the aircraft were killed, including the Romanian businessman and billionaire Dan Petrescu, who owned and piloted the plane.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2021_Milan_Pilatus_PC-12_crash",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/3840px-Milan_Cathedral_from_Piazza_del_Duomo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/330px-Milan_Cathedral_from_Piazza_del_Duomo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "milan_cathedral_from_piazza_del_duomo.jpg",
+          "width": 4164,
+          "height": 3129,
+          "title": "Milan",
+          "description": "Second-largest city in Italy",
+          "extract": "Milan is the regional capital of Lombardy, in northern Italy, and the seat of the Metropolitan City of Milan. It is the second-most populous city in Italy after Rome, with a population of 1,362,863 in 2026. The city's wider metropolitan area is the largest in Italy, and the fourth-largest in the European Union, with an estimated population of 6.55 million. Milan is considered Italy's economic capital, and its metropolitan area accounts for about 20% of the country's GDP.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Milan",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2021 Milan Pilatus PC-12 crash",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2021_Milan_Pilatus_PC-12_crash",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-03-2013-1dec2ce2",
+      "year": 2013,
+      "text": "A boat carrying migrants from Libya to Italy sank off the Italian island of Lampedusa, resulting in more than 360 deaths.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Lampedusa_island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lampedusa_island.jpg/330px-Lampedusa_island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "lampedusa_island.jpg",
+        "width": 1024,
+        "height": 768,
+        "title": "Lampedusa",
+        "description": "Italian island in the Mediterranean Sea",
+        "extract": "Lampedusa is the largest of Italy's Pelagian Islands in the Mediterranean Sea.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lampedusa",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Lampedusa_island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lampedusa_island.jpg/330px-Lampedusa_island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lampedusa_island.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Lampedusa",
+          "description": "Italian island in the Mediterranean Sea",
+          "extract": "Lampedusa is the largest of Italy's Pelagian Islands in the Mediterranean Sea.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lampedusa",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/La_cruz_de_Lampedusa_-_IMG_20200218_173133_594.jpg/1280px-La_cruz_de_Lampedusa_-_IMG_20200218_173133_594.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/La_cruz_de_Lampedusa_-_IMG_20200218_173133_594.jpg/1280px-La_cruz_de_Lampedusa_-_IMG_20200218_173133_594.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "la_cruz_de_lampedusa_-_img_20200218_173133_594.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Cross made with wood of broken immigration boats in Lampedusa",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2013_Lampedusa_migrant_shipwreck",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "2013 Lampedusa migrant shipwreck",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2013_Lampedusa_migrant_shipwreck",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-03-2003-1d76c4e8",
+      "year": 2003,
+      "text": "Roy Horn of the American entertainment duo Siegfried & Roy (both pictured) was mauled by a tiger during a performance at the Mirage on the Las Vegas Strip.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Siegfried_%26_Roy_by_Carol_M._Highsmith_%28cropped_2%29.jpg/3840px-Siegfried_%26_Roy_by_Carol_M._Highsmith_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Siegfried_%26_Roy_by_Carol_M._Highsmith_%28cropped_2%29.jpg/330px-Siegfried_%26_Roy_by_Carol_M._Highsmith_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "siegfried_&_roy_by_carol_m._highsmith_(cropped_2).jpg",
+        "width": 4970,
+        "height": 3310,
+        "title": "Siegfried & Roy",
+        "description": "German-American entertainer duo",
+        "extract": "Siegfried Fischbacher and Roy Horn were German-American entertainers who performed an animal-based magic show together as Siegfried & Roy. The duo, who were also romantically involved, were best known for their flamboyant, Liberace-style costumes and use of white lions and white tigers in their acts. Siegfried was the magician, and Roy was the animal trainer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Siegfried_%26_Roy",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Siegfried_%26_Roy_by_Carol_M._Highsmith_%28cropped_2%29.jpg/3840px-Siegfried_%26_Roy_by_Carol_M._Highsmith_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Siegfried_%26_Roy_by_Carol_M._Highsmith_%28cropped_2%29.jpg/330px-Siegfried_%26_Roy_by_Carol_M._Highsmith_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "siegfried_&_roy_by_carol_m._highsmith_(cropped_2).jpg",
+          "width": 4970,
+          "height": 3310,
+          "title": "Siegfried & Roy",
+          "description": "German-American entertainer duo",
+          "extract": "Siegfried Fischbacher and Roy Horn were German-American entertainers who performed an animal-based magic show together as Siegfried & Roy. The duo, who were also romantically involved, were best known for their flamboyant, Liberace-style costumes and use of white lions and white tigers in their acts. Siegfried was the magician, and Roy was the animal trainer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Siegfried_%26_Roy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Las_Vegas_%28Nevada%2C_USA%29%2C_The_Strip_--_2012_--_6215.jpg/3840px-Las_Vegas_%28Nevada%2C_USA%29%2C_The_Strip_--_2012_--_6215.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Las_Vegas_%28Nevada%2C_USA%29%2C_The_Strip_--_2012_--_6215.jpg/330px-Las_Vegas_%28Nevada%2C_USA%29%2C_The_Strip_--_2012_--_6215.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "las_vegas_(nevada,_usa),_the_strip_--_2012_--_6215.jpg",
+          "width": 4974,
+          "height": 2797,
+          "title": "The Mirage",
+          "description": "Defunct casino hotel resort in Las Vegas, Nevada",
+          "extract": "The Mirage is a defunct casino hotel resort on the Las Vegas Strip in Paradise, Nevada, United States. The 65-acre (26 ha) property included a 90,548 sq ft (8,412.2 m2) casino and 3,044 rooms.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Mirage",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Las_Vegas_Strip_09_2017_4897.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Las_Vegas_Strip_09_2017_4897.jpg/330px-Las_Vegas_Strip_09_2017_4897.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "las_vegas_strip_09_2017_4897.jpg",
+          "width": 1912,
+          "height": 1000,
+          "title": "Las Vegas Strip",
+          "description": "Stretch of Las Vegas Boulevard with many resorts, shows, and casinos",
+          "extract": "The Las Vegas Strip is a stretch of Las Vegas Boulevard in Clark County, Nevada, that is known for its concentration of resort hotels and casinos. The Strip, as it is colloquially known, is about 4.2 mi (6.8 km) long, and is immediately south of the Las Vegas city limits in the unincorporated towns of Paradise and Winchester, but is often referred to simply as \"Las Vegas\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Las_Vegas_Strip",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Siegfried & Roy",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Siegfried_%26_Roy",
+      "relatedPagesCount": 3
+    }
+  ]
+}

@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 6,
+    "day": 7,
+    "formatted": "06-07"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "06-07-1982-375b9ae8",
+      "year": 1982,
+      "text": "Priscilla Presley opens Graceland to the public; the bathroom where Elvis Presley died five years earlier is kept off-limits.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/8-15-22_Conversations_-_Priscilla_Presley_%26_Jerry_Schilling_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/8-15-22_Conversations_-_Priscilla_Presley_%26_Jerry_Schilling_%285%29.jpg/330px-8-15-22_Conversations_-_Priscilla_Presley_%26_Jerry_Schilling_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "8-15-22_conversations_-_priscilla_presley_&_jerry_schilling_(5).jpg",
+        "width": 1235,
+        "height": 1720,
+        "title": "Priscilla Presley",
+        "description": "American businesswoman and actress (born 1945)",
+        "extract": "Priscilla Ann Presley is an American businesswoman and actress. She is the former wife of Elvis Presley, to whom she was married from 1967 to 1973. Priscilla later co-founded and chaired Elvis Presley Enterprises (EPE), which oversaw the public opening of Graceland as a museum. As an actress, she portrayed Jane Spencer in The Naked Gun film series (1988–2025) and Jenna Wade on the CBS primetime soap Dallas.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Priscilla_Presley",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/8-15-22_Conversations_-_Priscilla_Presley_%26_Jerry_Schilling_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/8-15-22_Conversations_-_Priscilla_Presley_%26_Jerry_Schilling_%285%29.jpg/330px-8-15-22_Conversations_-_Priscilla_Presley_%26_Jerry_Schilling_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "8-15-22_conversations_-_priscilla_presley_&_jerry_schilling_(5).jpg",
+          "width": 1235,
+          "height": 1720,
+          "title": "Priscilla Presley",
+          "description": "American businesswoman and actress (born 1945)",
+          "extract": "Priscilla Ann Presley is an American businesswoman and actress. She is the former wife of Elvis Presley, to whom she was married from 1967 to 1973. Priscilla later co-founded and chaired Elvis Presley Enterprises (EPE), which oversaw the public opening of Graceland as a museum. As an actress, she portrayed Jane Spencer in The Naked Gun film series (1988–2025) and Jenna Wade on the CBS primetime soap Dallas.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Priscilla_Presley",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USA_Tour_2019_P095_Graceland.jpg/3840px-USA_Tour_2019_P095_Graceland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/USA_Tour_2019_P095_Graceland.jpg/330px-USA_Tour_2019_P095_Graceland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "usa_tour_2019_p095_graceland.jpg",
+          "width": 5184,
+          "height": 3888,
+          "title": "Graceland",
+          "description": "Home of Elvis Presley in Memphis, Tennessee, US",
+          "extract": "Graceland is a mansion on a 13.8-acre (5.6-hectare) estate in Memphis, Tennessee, United States, which American singer Elvis Presley once owned. He is buried there, as are his parents Vernon and Gladys, paternal grandmother Minnie Mae, grandson Benjamin, and daughter Lisa Marie.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Graceland",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "elvis_presley_promoting_jailhouse_rock.jpg",
+          "width": 2673,
+          "height": 3448,
+          "title": "Elvis Presley",
+          "description": "American singer and actor (1935–1977)",
+          "extract": "Elvis Aaron Presley was an American singer and actor. Referred to as the \"King of Rock and Roll\", he is widely regarded as one of the most culturally significant figures of the 20th century. Presley's energetic and sexually provocative performance style, combined with a mixture of influences across color lines during a transformative era in race relations, brought both great success and initial controversy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elvis_Presley",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Priscilla Presley",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Priscilla_Presley",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-07-1975-cd2ae675",
+      "year": 1975,
+      "text": "The inaugural edition of the Cricket World Cup, the premier international championship of men's One Day International cricket, began in England.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Cwc2019finalover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cwc2019finalover.png/330px-Cwc2019finalover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "cwc2019finalover.png",
+        "width": 1192,
+        "height": 670,
+        "title": "One Day International",
+        "description": "Form of limited overs cricket, 50 overs format",
+        "extract": "One Day International (ODI) is a format of cricket played between two teams with international status in which each team faces a fixed number of fifty overs, with games lasting up to 7 hours. The World Cup, generally held every four years, is played in this format. They are major matches and considered the highest standard of List A limited-overs competition.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/One_Day_International",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Cwc2019finalover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cwc2019finalover.png/330px-Cwc2019finalover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cwc2019finalover.png",
+          "width": 1192,
+          "height": 670,
+          "title": "One Day International",
+          "description": "Form of limited overs cricket, 50 overs format",
+          "extract": "One Day International (ODI) is a format of cricket played between two teams with international status in which each team faces a fixed number of fifty overs, with games lasting up to 7 hours. The World Cup, generally held every four years, is played in this format. They are major matches and considered the highest standard of List A limited-overs competition.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/One_Day_International",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "1975 Cricket World Cup",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1975_Cricket_World_Cup",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-07-1948-bae6b549",
+      "year": 1948,
+      "text": "In Shostakovich v. Twentieth Century-Fox Film Corp., a New York trial court declined to issue a permanent injunction in favor of several Soviet composers against the distribution of The Iron Curtain, the first anti-Soviet Hollywood film of the Cold War era.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Microcosm_of_London_Plate_022_-_Court_of_Chancery%2C_Lincoln%27s_Inn_Hall_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Microcosm_of_London_Plate_022_-_Court_of_Chancery%2C_Lincoln%27s_Inn_Hall_edited.jpg/330px-Microcosm_of_London_Plate_022_-_Court_of_Chancery%2C_Lincoln%27s_Inn_Hall_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "microcosm_of_london_plate_022_-_court_of_chancery,_lincoln's_inn_hall_edited.jpg",
+        "width": 841,
+        "height": 631,
+        "title": "Injunction",
+        "description": "Legal order to stop specific acts",
+        "extract": "An injunction is an equitable remedy in the form of a special court order compelling a party to do or refrain from doing certain acts. It was developed by the English courts of equity but its origins go back to Roman law and the equitable remedy of the \"interdict\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Injunction",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Microcosm_of_London_Plate_022_-_Court_of_Chancery%2C_Lincoln%27s_Inn_Hall_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Microcosm_of_London_Plate_022_-_Court_of_Chancery%2C_Lincoln%27s_Inn_Hall_edited.jpg/330px-Microcosm_of_London_Plate_022_-_Court_of_Chancery%2C_Lincoln%27s_Inn_Hall_edited.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "microcosm_of_london_plate_022_-_court_of_chancery,_lincoln's_inn_hall_edited.jpg",
+          "width": 841,
+          "height": 631,
+          "title": "Injunction",
+          "description": "Legal order to stop specific acts",
+          "extract": "An injunction is an equitable remedy in the form of a special court order compelling a party to do or refrain from doing certain acts. It was developed by the English courts of equity but its origins go back to Roman law and the equitable remedy of the \"interdict\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Injunction",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/0e/Poster_of_the_movie_The_Iron_Curtain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/0e/Poster_of_the_movie_The_Iron_Curtain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "poster_of_the_movie_the_iron_curtain.jpg",
+          "width": 257,
+          "height": 388,
+          "title": "The Iron Curtain (film)",
+          "description": "1948 film by William Wellman",
+          "extract": "The Iron Curtain is a 1948 American thriller film starring Dana Andrews and Gene Tierney, directed by William A. Wellman. It was the first film on the Cold War. The film was based on the memoirs of Igor Gouzenko. Principal photography was done on location in Ottawa, Ontario, Canada by Charles G. Clarke. The film was later re-released as Behind the Iron Curtain.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Iron_Curtain_(film)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Thecristisrizenoldrussiancivilwarposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Thecristisrizenoldrussiancivilwarposter.jpg/330px-Thecristisrizenoldrussiancivilwarposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "thecristisrizenoldrussiancivilwarposter.jpg",
+          "width": 1280,
+          "height": 1766,
+          "title": "Anti-Sovietism",
+          "description": "Opposition to the Soviet Union",
+          "extract": "Anti-Sovietism or anti-Soviet sentiment are activities that were actually or allegedly aimed against the Soviet Union or government power within the Soviet Union.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anti-Sovietism",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Shostakovich v. Twentieth Century-Fox Film Corp.",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Shostakovich_v._Twentieth_Century-Fox_Film_Corp.",
+      "relatedPagesCount": 7
+    },
+    {
+      "id": "06-07-1906-8c213367",
+      "year": 1906,
+      "text": "Cunard Line's RMS Lusitania is launched from the John Brown Shipyard, Glasgow (Clydebank), Scotland.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/RMS_Lusitania_coming_into_port%2C_possibly_in_New_York%2C_1907-13-crop.jpg/3840px-RMS_Lusitania_coming_into_port%2C_possibly_in_New_York%2C_1907-13-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/RMS_Lusitania_coming_into_port%2C_possibly_in_New_York%2C_1907-13-crop.jpg/330px-RMS_Lusitania_coming_into_port%2C_possibly_in_New_York%2C_1907-13-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "rms_lusitania_coming_into_port,_possibly_in_new_york,_1907-13-crop.jpg",
+        "width": 4291,
+        "height": 2757,
+        "title": "RMS Lusitania",
+        "description": "British ocean liner (1907–1915)",
+        "extract": "RMS Lusitania was a British ocean liner launched by the Cunard Line in 1906 as a Royal Mail Ship. She was the world's largest passenger ship until the completion of her running mate Mauretania three months later. In 1907, she gained the Blue Riband appellation for the fastest Atlantic crossing, which had been held by German ships for a decade.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/RMS_Lusitania",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/RMS_Lusitania_coming_into_port%2C_possibly_in_New_York%2C_1907-13-crop.jpg/3840px-RMS_Lusitania_coming_into_port%2C_possibly_in_New_York%2C_1907-13-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/RMS_Lusitania_coming_into_port%2C_possibly_in_New_York%2C_1907-13-crop.jpg/330px-RMS_Lusitania_coming_into_port%2C_possibly_in_New_York%2C_1907-13-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "rms_lusitania_coming_into_port,_possibly_in_new_york,_1907-13-crop.jpg",
+          "width": 4291,
+          "height": 2757,
+          "title": "RMS Lusitania",
+          "description": "British ocean liner (1907–1915)",
+          "extract": "RMS Lusitania was a British ocean liner launched by the Cunard Line in 1906 as a Royal Mail Ship. She was the world's largest passenger ship until the completion of her running mate Mauretania three months later. In 1907, she gained the Blue Riband appellation for the fastest Atlantic crossing, which had been held by German ships for a decade.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/RMS_Lusitania",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/John_Brown_advertisement_Brasseys_1923.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/John_Brown_advertisement_Brasseys_1923.jpg/330px-John_Brown_advertisement_Brasseys_1923.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "john_brown_advertisement_brasseys_1923.jpg",
+          "width": 416,
+          "height": 653,
+          "title": "John Brown & Company",
+          "description": "British marine engineering and shipbuilding firm (1851–1986)",
+          "extract": "John Brown and Company of Clydebank was a Scottish marine engineering and shipbuilding firm. It built many notable and world-famous ships including RMS Lusitania, RMS Aquitania, HMS Hood, HMS Repulse, RMS Queen Mary, RMS Queen Elizabeth and Queen Elizabeth 2.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_Brown_%26_Company",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Glasgow_-_aerial_-_2025-04-17_14.jpg/3840px-Glasgow_-_aerial_-_2025-04-17_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Glasgow_-_aerial_-_2025-04-17_14.jpg/330px-Glasgow_-_aerial_-_2025-04-17_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "glasgow_-_aerial_-_2025-04-17_14.jpg",
+          "width": 4032,
+          "height": 2268,
+          "title": "Glasgow",
+          "description": "Largest city in Scotland",
+          "extract": "Glasgow is the most populous city in Scotland, located on the banks of the River Clyde in west central Scotland. It is the third-most populous city in the United Kingdom and the 27th-most populous city in Europe, and comprises 23 wards which represent the areas within the city boundaries. Glasgow is a leading city in Scotland for university education and research, finance, industry, commerce, shopping, culture and fashion, and was commonly referred to as the \"second city of the British Empire\" for much of the Victorian and Edwardian eras.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Glasgow",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Cunard Line",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cunard_Line",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "06-07-1977-da6261f7",
+      "year": 1977,
+      "text": "Five hundred million people watch the high day of the Silver Jubilee of Queen Elizabeth II begin on television.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/First_London_Silver_Jubilee_Routemaster_SRM3_%28RM1650%29_%28650_DYE%29_heritage_route_9_Trafalgar_Square_9_December_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/First_London_Silver_Jubilee_Routemaster_SRM3_%28RM1650%29_%28650_DYE%29_heritage_route_9_Trafalgar_Square_9_December_2005.jpg/330px-First_London_Silver_Jubilee_Routemaster_SRM3_%28RM1650%29_%28650_DYE%29_heritage_route_9_Trafalgar_Square_9_December_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "first_london_silver_jubilee_routemaster_srm3_(rm1650)_(650_dye)_heritage_route_9_trafalgar_square_9_december_2005.jpg",
+        "width": 1754,
+        "height": 1512,
+        "title": "Silver Jubilee of Elizabeth II",
+        "description": "25th anniversary of the monarch's accession",
+        "extract": "The Silver Jubilee of Elizabeth II marked the 25th anniversary of the accession of Queen Elizabeth II on 6 February 1977. It was celebrated with large-scale parties and parades throughout London and the Commonwealth throughout 1977, culminating in June with the official \"Jubilee Days\", held to coincide with the Queen's Official Birthday. The anniversary date itself was commemorated in church services across the land on 6 February 1977, and continued to be for the rest of that month. In March, preparations started for large parties in every major of the city, as well as for smaller ones for countless individual streets throughout the country.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Silver_Jubilee_of_Elizabeth_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/First_London_Silver_Jubilee_Routemaster_SRM3_%28RM1650%29_%28650_DYE%29_heritage_route_9_Trafalgar_Square_9_December_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/First_London_Silver_Jubilee_Routemaster_SRM3_%28RM1650%29_%28650_DYE%29_heritage_route_9_Trafalgar_Square_9_December_2005.jpg/330px-First_London_Silver_Jubilee_Routemaster_SRM3_%28RM1650%29_%28650_DYE%29_heritage_route_9_Trafalgar_Square_9_December_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "first_london_silver_jubilee_routemaster_srm3_(rm1650)_(650_dye)_heritage_route_9_trafalgar_square_9_december_2005.jpg",
+          "width": 1754,
+          "height": 1512,
+          "title": "Silver Jubilee of Elizabeth II",
+          "description": "25th anniversary of the monarch's accession",
+          "extract": "The Silver Jubilee of Elizabeth II marked the 25th anniversary of the accession of Queen Elizabeth II on 6 February 1977. It was celebrated with large-scale parties and parades throughout London and the Commonwealth throughout 1977, culminating in June with the official \"Jubilee Days\", held to coincide with the Queen's Official Birthday. The anniversary date itself was commemorated in church services across the land on 6 February 1977, and continued to be for the rest of that month. In March, preparations started for large parties in every major of the city, as well as for smaller ones for countless individual streets throughout the country.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Silver_Jubilee_of_Elizabeth_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_elizabeth_ii_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+          "width": 739,
+          "height": 985,
+          "title": "Elizabeth II",
+          "description": "Queen of the United Kingdom from 1952 to 2022",
+          "extract": "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Seychelles_Silver_Jubilee_stamps_1977.jpg/1280px-Seychelles_Silver_Jubilee_stamps_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Seychelles_Silver_Jubilee_stamps_1977.jpg/1280px-Seychelles_Silver_Jubilee_stamps_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "seychelles_silver_jubilee_stamps_1977.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Seychelles_Silver_Jubilee_stamps_1977",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Silver_Jubilee_of_Elizabeth_II",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Silver Jubilee of Elizabeth II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Silver_Jubilee_of_Elizabeth_II",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "06-07-1917-5cc97669",
+      "year": 1917,
+      "text": "First World War: The British Army detonated 19 ammonal mines under German lines, killing perhaps 10,000 in the deadliest non-nuclear man-made explosion in history during the Battle of Messines.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bataille_de_verdun_1916.jpg",
+        "width": 1875,
+        "height": 1402,
+        "title": "World War I",
+        "description": "Global conflict from 1914 to 1918",
+        "extract": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bataille_de_verdun_1916.jpg",
+          "width": 1875,
+          "height": 1402,
+          "title": "World War I",
+          "description": "Global conflict from 1914 to 1918",
+          "extract": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/British_39th_Siege_Battery_RGA_Somme_1916.jpg/1280px-British_39th_Siege_Battery_RGA_Somme_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/British_39th_Siege_Battery_RGA_Somme_1916.jpg/1280px-British_39th_Siege_Battery_RGA_Somme_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "british_39th_siege_battery_rga_somme_1916.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "British_39th_Siege_Battery_RGA_Somme_1916",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/American_troops_going_forward_to_the_battle_line_in_the_Forest_of_Argonne._France%2C_September_26%2C_1918._-_NARA_-_530748.jpg/1280px-American_troops_going_forward_to_the_battle_line_in_the_Forest_of_Argonne._France%2C_September_26%2C_1918._-_NARA_-_530748.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/American_troops_going_forward_to_the_battle_line_in_the_Forest_of_Argonne._France%2C_September_26%2C_1918._-_NARA_-_530748.jpg/1280px-American_troops_going_forward_to_the_battle_line_in_the_Forest_of_Argonne._France%2C_September_26%2C_1918._-_NARA_-_530748.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "american_troops_going_forward_to_the_battle_line_in_the_forest_of_argonne._france,_september_26,_1918._-_nara_-_530748.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "American_troops_going_forward_to_the_battle_line_in_the_Forest_of_Argonne._France,_September_26,_1918._-_NARA_-_530748",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "World War I",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_I",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "06-07-1981-1d681aec",
+      "year": 1981,
+      "text": "The Israeli Air Force attacked a nuclear reactor under the assumption that it was about to start producing plutonium to further an Iraqi nuclear-weapons program.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Plutonium_ring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Plutonium_ring.jpg/330px-Plutonium_ring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "plutonium_ring.jpg",
+        "width": 1295,
+        "height": 1231,
+        "title": "Plutonium",
+        "description": "Chemical element with atomic number 94 (Pu)",
+        "extract": "Plutonium is a chemical element; it has symbol Pu and atomic number 94. It is a silvery-gray actinide metal that tarnishes when exposed to air, and forms a dull coating when oxidized. The element normally exhibits six allotropes and four oxidation states. It reacts with carbon, halogens, nitrogen, silicon and hydrogen. When exposed to moist air, it forms oxides and hydrides that can expand the sample up to 70% in volume, which in turn flake off as a powder that is pyrophoric. It is radioactive and can accumulate in bones, which makes the handling of plutonium dangerous.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Plutonium",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Plutonium_ring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Plutonium_ring.jpg/330px-Plutonium_ring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "plutonium_ring.jpg",
+          "width": 1295,
+          "height": 1231,
+          "title": "Plutonium",
+          "description": "Chemical element with atomic number 94 (Pu)",
+          "extract": "Plutonium is a chemical element; it has symbol Pu and atomic number 94. It is a silvery-gray actinide metal that tarnishes when exposed to air, and forms a dull coating when oxidized. The element normally exhibits six allotropes and four oxidation states. It reacts with carbon, halogens, nitrogen, silicon and hydrogen. When exposed to moist air, it forms oxides and hydrides that can expand the sample up to 70% in volume, which in turn flake off as a powder that is pyrophoric. It is radioactive and can accumulate in bones, which makes the handling of plutonium dangerous.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Plutonium",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Israeli Air Force",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Israeli_Air_Force",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "06-07-1628-5b4be5cc",
+      "year": 1628,
+      "text": "The Petition of Right, a major English constitutional document that set out specific liberties of individuals, received royal assent from King Charles I.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/RoyalVisitSenate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RoyalVisitSenate.jpg/330px-RoyalVisitSenate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "royalvisitsenate.jpg",
+        "width": 600,
+        "height": 751,
+        "title": "Royal assent",
+        "description": "Formal approval of a proposed law in monarchies",
+        "extract": "Royal assent is the method by which a monarch formally approves an act of the legislature, either directly or through an official acting on the monarch's behalf. In some jurisdictions, royal assent is equivalent to promulgation, while in others that is a separate step. Under a modern constitutional monarchy, royal assent is considered little more than a formality. Even in nations such as the United Kingdom, Norway, the Netherlands, Liechtenstein and Monaco which still, in theory, permit their monarch to withhold assent to laws, the monarch almost never does so, except in a dire political emergency or on advice of government. While the power to veto by withholding royal assent was once exercised often by European monarchs, such an occurrence has been very rare since the eighteenth century.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Royal_assent",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/RoyalVisitSenate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RoyalVisitSenate.jpg/330px-RoyalVisitSenate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "royalvisitsenate.jpg",
+          "width": 600,
+          "height": 751,
+          "title": "Royal assent",
+          "description": "Formal approval of a proposed law in monarchies",
+          "extract": "Royal assent is the method by which a monarch formally approves an act of the legislature, either directly or through an official acting on the monarch's behalf. In some jurisdictions, royal assent is equivalent to promulgation, while in others that is a separate step. Under a modern constitutional monarchy, royal assent is considered little more than a formality. Even in nations such as the United Kingdom, Norway, the Netherlands, Liechtenstein and Monaco which still, in theory, permit their monarch to withhold assent to laws, the monarch almost never does so, except in a dire political emergency or on advice of government. While the power to veto by withholding royal assent was once exercised often by European monarchs, such an occurrence has been very rare since the eighteenth century.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Royal_assent",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/King_Charles_I_after_original_by_van_Dyck.jpg/330px-King_Charles_I_after_original_by_van_Dyck.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "king_charles_i_after_original_by_van_dyck.jpg",
+          "width": 2317,
+          "height": 4000,
+          "title": "Charles I of England",
+          "description": "King of England, Scotland and Ireland from 1625 to 1649",
+          "extract": "Charles I was King of England, Scotland, and Ireland from 27 March 1625 until his execution in 1649.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Charles_I_of_England",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Petition_of_Right.jpg/500px-Petition_of_Right.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Petition_of_Right.jpg/500px-Petition_of_Right.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "petition_of_right.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Petition_of_Right",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Petition_of_Right",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Petition of Right",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Petition_of_Right",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "06-07-1969-1504185d",
+      "year": 1969,
+      "text": "In their only UK concert, the rock supergroup Blind Faith, featuring Eric Clapton, Steve Winwood and Ginger Baker, debuted in London's Hyde Park in front of 100,000 fans.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Blind_Faith_%281969%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Blind_Faith_%281969%29.jpg/330px-Blind_Faith_%281969%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "blind_faith_(1969).jpg",
+        "width": 800,
+        "height": 531,
+        "title": "Blind Faith",
+        "description": "English rock supergroup (1969)",
+        "extract": "Blind Faith were an English rock supergroup that consisted of Steve Winwood, Eric Clapton, Ginger Baker, and Ric Grech. They followed the success of the members' former bands, including Clapton and Baker's former group Cream and Winwood's former group Traffic, but they split after a few months, producing only one album and a three-month summer tour.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Blind_Faith",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Blind_Faith_%281969%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Blind_Faith_%281969%29.jpg/330px-Blind_Faith_%281969%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "blind_faith_(1969).jpg",
+          "width": 800,
+          "height": 531,
+          "title": "Blind Faith",
+          "description": "English rock supergroup (1969)",
+          "extract": "Blind Faith were an English rock supergroup that consisted of Steve Winwood, Eric Clapton, Ginger Baker, and Ric Grech. They followed the success of the members' former bands, including Clapton and Baker's former group Cream and Winwood's former group Traffic, but they split after a few months, producing only one album and a three-month summer tour.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Blind_Faith",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/ClaptonGingerEventim170220-38_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ClaptonGingerEventim170220-38_%28cropped%29.jpg/330px-ClaptonGingerEventim170220-38_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "claptongingereventim170220-38_(cropped).jpg",
+          "width": 1015,
+          "height": 1552,
+          "title": "Eric Clapton",
+          "description": "English musician (born 1945)",
+          "extract": "Eric Patrick Clapton is an English rock and blues guitarist, singer, and songwriter. He is regarded as one of the most successful and influential guitarists in rock music. Clapton ranked second in Rolling Stone's list of the \"100 Greatest Guitarists of All Time\" and fourth in Gibson's \"Top 50 Guitarists of All Time\". He was named number five in Time magazine's list of \"The 10 Best Electric Guitar Players\" in 2009.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Eric_Clapton",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Steve-Winwood2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Steve-Winwood2_%28cropped%29.jpg/330px-Steve-Winwood2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "steve-winwood2_(cropped).jpg",
+          "width": 1806,
+          "height": 2267,
+          "title": "Steve Winwood",
+          "description": "English musician (born 1948)",
+          "extract": "Stephen Lawrence Winwood is an English musician and songwriter whose genres include blue-eyed soul, rhythm and blues, blues rock, and pop rock. Though primarily a keyboard player, guitarist, and vocalist prominent for his distinctive soulful high tenor voice, Winwood also plays other instruments including mandolin, electric bass, saxophone, flute, drums, and percussion.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Steve_Winwood",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Blind Faith",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Blind_Faith",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "06-07-2017-2723e00e",
+      "year": 2017,
+      "text": "A Myanmar Air Force Shaanxi Y-8 crashed into the Andaman Sea near Dawei, killing all 122 people on board.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Myanmar_Air_Force_Shaanxi_Y-8_MRD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Myanmar_Air_Force_Shaanxi_Y-8_MRD.jpg/330px-Myanmar_Air_Force_Shaanxi_Y-8_MRD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "myanmar_air_force_shaanxi_y-8_mrd.jpg",
+        "width": 1200,
+        "height": 799,
+        "title": "2017 Myanmar Air Force Shaanxi Y-8 crash",
+        "description": "Air transport disaster over the Andaman Sea",
+        "extract": "On 7 June 2017, a Shaanxi Y-8 aircraft of the Myanmar Air Force crashed on a flight from Myeik to Yangon, killing all 122 people on board. Debris from the aircraft was found in the Andaman Sea, 118 nautical miles (218 km) off Dawei by Myanmar Navy ships. It is the deadliest aviation accident in Myanmar's history.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2017_Myanmar_Air_Force_Shaanxi_Y-8_crash",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Myanmar_Air_Force_Shaanxi_Y-8_MRD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Myanmar_Air_Force_Shaanxi_Y-8_MRD.jpg/330px-Myanmar_Air_Force_Shaanxi_Y-8_MRD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "myanmar_air_force_shaanxi_y-8_mrd.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": "2017 Myanmar Air Force Shaanxi Y-8 crash",
+          "description": "Air transport disaster over the Andaman Sea",
+          "extract": "On 7 June 2017, a Shaanxi Y-8 aircraft of the Myanmar Air Force crashed on a flight from Myeik to Yangon, killing all 122 people on board. Debris from the aircraft was found in the Andaman Sea, 118 nautical miles (218 km) off Dawei by Myanmar Navy ships. It is the deadliest aviation accident in Myanmar's history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2017_Myanmar_Air_Force_Shaanxi_Y-8_crash",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Dawei_13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Dawei_13.jpg/330px-Dawei_13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dawei_13.jpg",
+          "width": 1597,
+          "height": 1146,
+          "title": "Dawei, Myanmar",
+          "description": "Capital Town in Tanintharyi Region, Myanmar",
+          "extract": "Dawei, formerly known as Tavoy, is a city in south-eastern Myanmar and is the capital of the Tanintharyi Region, formerly known as the Tenasserim Division, on the eastern bank of the Dawei River Canal. The city is about 614.3 km (381.7 mi) southeast of Yangon. Its population is 125,605.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dawei%2C_Myanmar",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Myanmar Air Force",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Myanmar_Air_Force",
+      "relatedPagesCount": 4
+    }
+  ]
+}

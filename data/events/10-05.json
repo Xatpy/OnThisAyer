@@ -1,0 +1,595 @@
+{
+  "date": {
+    "month": 10,
+    "day": 5,
+    "formatted": "10-05"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "10-05-2021-d81a3096",
+      "year": 2021,
+      "text": "Windows 11 is released to the general public.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/9/92/Windows_11_Desktop.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Windows_11_Desktop.png/330px-Windows_11_Desktop.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "windows_11_desktop.png",
+        "width": 724,
+        "height": 407,
+        "title": "Windows 11",
+        "description": "2021 Microsoft operating system version",
+        "extract": "Windows 11 is the current major release of Microsoft's Windows NT operating system, released on October 5, 2021, as the successor to Windows 10 (2015). It is available as a free upgrade for devices running Windows 10 that meet its system requirements. The Windows Server counterpart, Windows Server 2025, was released in 2024. It is the first major version of Windows without a corresponding mobile edition, following the end of support for Windows 10 Mobile, and is implemented to mobile devices with different form factors, screen sizes and CPU architectures as a unified edition of Windows. As of October 14, 2025, it is the only fully supported consumer-oriented version of Windows.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Windows_11",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/92/Windows_11_Desktop.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Windows_11_Desktop.png/330px-Windows_11_Desktop.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "windows_11_desktop.png",
+          "width": 724,
+          "height": 407,
+          "title": "Windows 11",
+          "description": "2021 Microsoft operating system version",
+          "extract": "Windows 11 is the current major release of Microsoft's Windows NT operating system, released on October 5, 2021, as the successor to Windows 10 (2015). It is available as a free upgrade for devices running Windows 10 that meet its system requirements. The Windows Server counterpart, Windows Server 2025, was released in 2024. It is the first major version of Windows without a corresponding mobile edition, following the end of support for Windows 10 Mobile, and is implemented to mobile devices with different form factors, screen sizes and CPU architectures as a unified edition of Windows. As of October 14, 2025, it is the only fully supported consumer-oriented version of Windows.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Windows_11",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Windows 11",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Windows_11",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-05-1962-8f52355a",
+      "year": 1962,
+      "text": "\"Love Me Do\", the first single by the Beatles, was released in the United Kingdom.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/e/e6/Love_Me_Do.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/Love_Me_Do.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "love_me_do.jpg",
+        "width": 300,
+        "height": 300,
+        "title": "Love Me Do",
+        "description": "1962 single by the Beatles",
+        "extract": "\"Love Me Do\" is the debut single by the English rock band the Beatles, backed by \"P.S. I Love You\". When the single was originally released in the United Kingdom on 5 October 1962, it peaked at number 17. It was released in the United States in 1964 and topped the nation's song chart. Re-released in 1982 as part of EMI's Beatles 20th anniversary, it re-entered the UK charts and peaked at number 4. \"Love Me Do\" also topped the charts in Australia and New Zealand.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Love_Me_Do",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/e/e6/Love_Me_Do.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/Love_Me_Do.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "love_me_do.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Love Me Do",
+          "description": "1962 single by the Beatles",
+          "extract": "\"Love Me Do\" is the debut single by the English rock band the Beatles, backed by \"P.S. I Love You\". When the single was originally released in the United Kingdom on 5 October 1962, it peaked at number 17. It was released in the United States in 1964 and topped the nation's song chart. Re-released in 1982 as part of EMI's Beatles 20th anniversary, it re-entered the UK charts and peaked at number 4. \"Love Me Do\" also topped the charts in Australia and New Zealand.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Love_Me_Do",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/330px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_beatles_1963_dezo_hoffman_capitol_records_press_photo_2.jpg",
+          "width": 3621,
+          "height": 2817,
+          "title": "The Beatles",
+          "description": "English rock band (1960–1970)",
+          "extract": "The Beatles were an English rock band formed in Liverpool in 1960. The band comprised John Lennon, Paul McCartney, George Harrison and Ringo Starr. They are regarded as the most influential band in popular music and were integral to the development of 1960s counterculture and the recognition of popular music as an art form. Rooted in skiffle, beat and 1950s rock 'n' roll, their sound incorporated elements of classical music and traditional pop in innovative ways. They also explored styles ranging from folk and Indian music to psychedelia and hard rock. As pioneers in recording, songwriting and artistic presentation, the Beatles revolutionised many aspects of the music industry and were often publicised as leaders of the era's youth and sociocultural movements.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Beatles",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Love Me Do",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Love_Me_Do",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-05-1937-c4411b3a",
+      "year": 1937,
+      "text": "Six days after retiring from the Queen's College, Oxford, Robert Howard Hodgkin was elected its provost due to the sudden death of B. H. Streeter.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Facade_of_The_Queen%27s_College%2C_Oxford%2C_2020.jpg/3840px-Facade_of_The_Queen%27s_College%2C_Oxford%2C_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Facade_of_The_Queen%27s_College%2C_Oxford%2C_2020.jpg/330px-Facade_of_The_Queen%27s_College%2C_Oxford%2C_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "facade_of_the_queen's_college,_oxford,_2020.jpg",
+        "width": 3941,
+        "height": 2956,
+        "title": "The Queen's College, Oxford",
+        "description": "College of the University of Oxford",
+        "extract": "The Queen's College is a constituent college of the University of Oxford, England. The college was founded in 1341 by Robert de Eglesfield in honour of Philippa of Hainault, queen of England. It is distinguished by its predominantly neoclassical architecture, primarily dating from the 18th century.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Queen's_College%2C_Oxford",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Facade_of_The_Queen%27s_College%2C_Oxford%2C_2020.jpg/3840px-Facade_of_The_Queen%27s_College%2C_Oxford%2C_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Facade_of_The_Queen%27s_College%2C_Oxford%2C_2020.jpg/330px-Facade_of_The_Queen%27s_College%2C_Oxford%2C_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "facade_of_the_queen's_college,_oxford,_2020.jpg",
+          "width": 3941,
+          "height": 2956,
+          "title": "The Queen's College, Oxford",
+          "description": "College of the University of Oxford",
+          "extract": "The Queen's College is a constituent college of the University of Oxford, England. The college was founded in 1341 by Robert de Eglesfield in honour of Philippa of Hainault, queen of England. It is distinguished by its predominantly neoclassical architecture, primarily dating from the 18th century.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Queen's_College%2C_Oxford",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/db/Robert_Howard_Hodgkin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/d/db/Robert_Howard_Hodgkin.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "robert_howard_hodgkin.png",
+          "width": 259,
+          "height": 384,
+          "title": "Robert Howard Hodgkin",
+          "description": "British historian (1877–1951)",
+          "extract": "Robert Howard Hodgkin , who went by Robin, was an English historian. He taught at the Queen's College, Oxford, from 1900 to 1937 and served as its provost from 1937 until 1946. He was particularly known for his 1935 work, A History of the Anglo-Saxons, and for his 1949 book, Six Centuries of an Oxford College.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Howard_Hodgkin",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aerial_view_of_Queens_College_Oxford_%2831651737006%29.jpg/1280px-Aerial_view_of_Queens_College_Oxford_%2831651737006%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Aerial_view_of_Queens_College_Oxford_%2831651737006%29.jpg/1280px-Aerial_view_of_Queens_College_Oxford_%2831651737006%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "aerial_view_of_queens_college_oxford_(31651737006).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Aerial view of The Queen's College, Oxford",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Queen's_College%2C_Oxford",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "The Queen's College, Oxford",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/The_Queen's_College%2C_Oxford",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "10-05-1903-1b1c7f4f",
+      "year": 1903,
+      "text": "Samuel Griffith (pictured) became the first Chief Justice of Australia, while Edmund Barton and Richard O'Connor became the first Puisne Justices of the High Court of Australia.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Sir_Samuel_Walker_Griffith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sir_Samuel_Walker_Griffith.jpg/330px-Sir_Samuel_Walker_Griffith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sir_samuel_walker_griffith.jpg",
+        "width": 2874,
+        "height": 4098,
+        "title": "Samuel Griffith",
+        "description": "Australian judge and politician (1845–1920)",
+        "extract": "Sir Samuel Walker Griffith was an Australian judge and politician who served as the inaugural Chief Justice of Australia, in office from 1903 to 1919. He also served a term as Chief Justice of Queensland and two terms as Premier of Queensland, and played a key role in the drafting of the Australian Constitution.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Samuel_Griffith",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Sir_Samuel_Walker_Griffith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sir_Samuel_Walker_Griffith.jpg/330px-Sir_Samuel_Walker_Griffith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sir_samuel_walker_griffith.jpg",
+          "width": 2874,
+          "height": 4098,
+          "title": "Samuel Griffith",
+          "description": "Australian judge and politician (1845–1920)",
+          "extract": "Sir Samuel Walker Griffith was an Australian judge and politician who served as the inaugural Chief Justice of Australia, in office from 1903 to 1919. He also served a term as Chief Justice of Queensland and two terms as Premier of Queensland, and played a key role in the drafting of the Australian Constitution.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Samuel_Griffith",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Edmund_Barton_-_Swiss_Studios_%28b%26w%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Edmund_Barton_-_Swiss_Studios_%28b%26w%29.jpg/330px-Edmund_Barton_-_Swiss_Studios_%28b%26w%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "edmund_barton_-_swiss_studios_(b&w).jpg",
+          "width": 1005,
+          "height": 1405,
+          "title": "Edmund Barton",
+          "description": "Prime Minister of Australia from 1901 to 1903",
+          "extract": "Sir Edmund \"Toby\" Barton was the first prime minister of Australia, serving from 1901 to 1903. He held office as the leader of the Protectionist Party, before resigning in 1903 to become a founding justice of the High Court of Australia, on which he served until his death in 1920. Barton is regarded as a founding father of Australia, a principal leader in the federation of the Australian colonies and a drafter of the Commonwealth Constitution.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_Barton",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Richard_O%27Connor%2C_Justice_of_the_High_Court_of_Australia_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Richard_O%27Connor%2C_Justice_of_the_High_Court_of_Australia_%28cropped%29.jpg/330px-Richard_O%27Connor%2C_Justice_of_the_High_Court_of_Australia_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "richard_o'connor,_justice_of_the_high_court_of_australia_(cropped).jpg",
+          "width": 2346,
+          "height": 3285,
+          "title": "Richard Edward O'Connor",
+          "description": "Australian politician and judge (1851–1912)",
+          "extract": "Richard Edward O'Connor was an Australian politician and judge.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Edward_O'Connor",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Samuel Griffith",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Samuel_Griffith",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "10-05-1905-e09e952d",
+      "year": 1905,
+      "text": "The Wright brothers pilot the Wright Flyer III in a new world record flight of 24 miles in 39 minutes.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Orville_Wright_1905-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Orville_Wright_1905-crop.jpg/330px-Orville_Wright_1905-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "orville_wright_1905-crop.jpg",
+        "width": 3582,
+        "height": 4477,
+        "title": "Wright brothers",
+        "description": "American aviation pioneers, inventors of the airplane",
+        "extract": "The Wright brothers, Orville Wright and Wilbur Wright, were American aviation pioneers generally credited with inventing, building, and flying the world's first successful airplane. They made the first controlled, sustained flight of an engine-powered, heavier-than-air aircraft with the Wright Flyer on December 17, 1903, four miles (6 km) south of Kitty Hawk, North Carolina, at what is now known as Kill Devil Hills. In 1904 the Wright brothers developed the Wright Flyer II, which made longer-duration flights including the first circle, followed in 1905 by the first truly practical fixed-wing aircraft, the Wright Flyer III.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wright_brothers",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Orville_Wright_1905-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Orville_Wright_1905-crop.jpg/330px-Orville_Wright_1905-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "orville_wright_1905-crop.jpg",
+          "width": 3582,
+          "height": 4477,
+          "title": "Wright brothers",
+          "description": "American aviation pioneers, inventors of the airplane",
+          "extract": "The Wright brothers, Orville Wright and Wilbur Wright, were American aviation pioneers generally credited with inventing, building, and flying the world's first successful airplane. They made the first controlled, sustained flight of an engine-powered, heavier-than-air aircraft with the Wright Flyer on December 17, 1903, four miles (6 km) south of Kitty Hawk, North Carolina, at what is now known as Kill Devil Hills. In 1904 the Wright brothers developed the Wright Flyer II, which made longer-duration flights including the first circle, followed in 1905 by the first truly practical fixed-wing aircraft, the Wright Flyer III.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wright_brothers",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ohio_quarter%2C_reverse_side%2C_2002.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ohio_quarter%2C_reverse_side%2C_2002.png/330px-Ohio_quarter%2C_reverse_side%2C_2002.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ohio_quarter,_reverse_side,_2002.png",
+          "width": 942,
+          "height": 936,
+          "title": "Wright Flyer III",
+          "description": "Third powered aircraft built by the Wright brothers",
+          "extract": "The Wright Flyer III is the third powered aircraft by the Wright Brothers, built during the winter of 1904–05. Orville Wright made the first flight with it on June 23, 1905. The Wright Flyer III had an airframe of spruce construction with a wing camber of 1-in-20 as used in 1903, rather than the less effective 1-in-25 used in 1904. The new machine was equipped with the engine and other hardware from the scrapped Flyer II and, after major modifications, achieved much greater performance than Flyers I and II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wright_Flyer_III",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wilbur_Wright-crop.jpg/1280px-Wilbur_Wright-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wilbur_Wright-crop.jpg/1280px-Wilbur_Wright-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "wilbur_wright-crop.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Wilbur_Wright-crop",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wright_brothers",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Wright brothers",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Wright_brothers",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-05-1984-0cba3f5f",
+      "year": 1984,
+      "text": "Marc Garneau becomes the first Canadian in space.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Marc_Garneau_-_2018_%2842748534304%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Marc_Garneau_-_2018_%2842748534304%29_%28cropped%29.jpg/330px-Marc_Garneau_-_2018_%2842748534304%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "marc_garneau_-_2018_(42748534304)_(cropped).jpg",
+        "width": 983,
+        "height": 1402,
+        "title": "Marc Garneau",
+        "description": "Canadian astronaut and politician (1949–2025)",
+        "extract": "Joseph Jean-Pierre Marc Garneau was a Canadian Armed Forces officer, astronaut and politician. Garneau served as a naval officer before being selected as an astronaut as part of the 1983 NRC Group. He became the first Canadian in space on October 5, 1984, and flew on three Space Shuttle missions. From 2001 to 2005, Garneau was president of the Canadian Space Agency (CSA). Garneau entered politics and was elected to the House of Commons in 2008, serving as a Montreal-area member of Parliament (MP) until 2023. A member of the Liberal Party, Garneau served as Minister of Foreign Affairs from January to October in 2021 and as Minister of Transport from 2015 to 2021.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Marc_Garneau",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Marc_Garneau_-_2018_%2842748534304%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Marc_Garneau_-_2018_%2842748534304%29_%28cropped%29.jpg/330px-Marc_Garneau_-_2018_%2842748534304%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "marc_garneau_-_2018_(42748534304)_(cropped).jpg",
+          "width": 983,
+          "height": 1402,
+          "title": "Marc Garneau",
+          "description": "Canadian astronaut and politician (1949–2025)",
+          "extract": "Joseph Jean-Pierre Marc Garneau was a Canadian Armed Forces officer, astronaut and politician. Garneau served as a naval officer before being selected as an astronaut as part of the 1983 NRC Group. He became the first Canadian in space on October 5, 1984, and flew on three Space Shuttle missions. From 2001 to 2005, Garneau was president of the Canadian Space Agency (CSA). Garneau entered politics and was elected to the House of Commons in 2008, serving as a Montreal-area member of Parliament (MP) until 2023. A member of the Liberal Party, Garneau served as Minister of Foreign Affairs from January to October in 2021 and as Minister of Transport from 2015 to 2021.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Marc_Garneau",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Marc Garneau",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Marc_Garneau",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "10-05-2014-89a88ced",
+      "year": 2014,
+      "text": "Formula One racing driver Jules Bianchi sustained fatal head injuries in a crash at the Japanese Grand Prix, dying the following year.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Jules_Bianchi_2012-1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jules_Bianchi_2012-1.JPG/330px-Jules_Bianchi_2012-1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jules_bianchi_2012-1.jpg",
+        "width": 2117,
+        "height": 3005,
+        "title": "Jules Bianchi",
+        "description": "French racing driver (1989–2015)",
+        "extract": "Jules Lucien André Bianchi was a French racing driver who competed in Formula One from 2013 to 2014.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jules_Bianchi",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Jules_Bianchi_2012-1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Jules_Bianchi_2012-1.JPG/330px-Jules_Bianchi_2012-1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jules_bianchi_2012-1.jpg",
+          "width": 2117,
+          "height": 3005,
+          "title": "Jules Bianchi",
+          "description": "French racing driver (1989–2015)",
+          "extract": "Jules Lucien André Bianchi was a French racing driver who competed in Formula One from 2013 to 2014.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jules_Bianchi",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Jules Bianchi",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Jules_Bianchi",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-05-2011-3f700e03",
+      "year": 2011,
+      "text": "Two Chinese cargo ships were attacked and their crews murdered on a stretch of the Mekong River in far northern Thailand.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Golden_Triangle_Mekong_at_Doi_Pu_Khao_06.jpg/3840px-Golden_Triangle_Mekong_at_Doi_Pu_Khao_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Golden_Triangle_Mekong_at_Doi_Pu_Khao_06.jpg/330px-Golden_Triangle_Mekong_at_Doi_Pu_Khao_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "golden_triangle_mekong_at_doi_pu_khao_06.jpg",
+        "width": 4032,
+        "height": 3024,
+        "title": "Mekong River massacre",
+        "description": "2011 hijacking of two Chinese cargo ships and subsequent massacre of all 13 crew members",
+        "extract": "The Mekong River massacre occurred on the morning of 5 October 2011, when two Chinese cargo ships were attacked on a stretch of the Mekong River in the Golden Triangle region on the borders of Myanmar (Burma) and Thailand. All 13 crew members on both ships were killed and dumped in the river. It was the deadliest attack on Chinese nationals abroad in modern times. In response, China temporarily suspended shipping on the Mekong, and reached an agreement with Myanmar, Thailand and Laos to jointly patrol the river. The event was also the impetus for the Naypyidaw Declaration and other anti-drug cooperation efforts in the region. On 28 October 2011, Thai authorities arrested nine Pha Muang Task Force soldiers, who subsequently \"disappeared from the justice system\". Drug lord Naw Kham and three subordinates were eventually tried and executed by the Chinese government for their roles in the massacre.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mekong_River_massacre",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Golden_Triangle_Mekong_at_Doi_Pu_Khao_06.jpg/3840px-Golden_Triangle_Mekong_at_Doi_Pu_Khao_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Golden_Triangle_Mekong_at_Doi_Pu_Khao_06.jpg/330px-Golden_Triangle_Mekong_at_Doi_Pu_Khao_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "golden_triangle_mekong_at_doi_pu_khao_06.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": "Mekong River massacre",
+          "description": "2011 hijacking of two Chinese cargo ships and subsequent massacre of all 13 crew members",
+          "extract": "The Mekong River massacre occurred on the morning of 5 October 2011, when two Chinese cargo ships were attacked on a stretch of the Mekong River in the Golden Triangle region on the borders of Myanmar (Burma) and Thailand. All 13 crew members on both ships were killed and dumped in the river. It was the deadliest attack on Chinese nationals abroad in modern times. In response, China temporarily suspended shipping on the Mekong, and reached an agreement with Myanmar, Thailand and Laos to jointly patrol the river. The event was also the impetus for the Naypyidaw Declaration and other anti-drug cooperation efforts in the region. On 28 October 2011, Thai authorities arrested nine Pha Muang Task Force soldiers, who subsequently \"disappeared from the justice system\". Drug lord Naw Kham and three subordinates were eventually tried and executed by the Chinese government for their roles in the massacre.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mekong_River_massacre",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Mekong-River-Near-Luang-Prabang.jpg/3840px-Mekong-River-Near-Luang-Prabang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Mekong-River-Near-Luang-Prabang.jpg/330px-Mekong-River-Near-Luang-Prabang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mekong-river-near-luang-prabang.jpg",
+          "width": 4980,
+          "height": 3432,
+          "title": "Mekong",
+          "description": "Major river in Southeast Asia",
+          "extract": "The Mekong or Mekong River is a transboundary river in East Asia and Southeast Asia. It is the world's twelfth-longest river and the third-longest in Asia with an estimated length of 4,909 km (3,050 mi) and a drainage area of 795,000 km2 (307,000 sq mi), discharging 475 km3 (114 cu mi) of water annually. From its headwaters in the Tibetan Plateau, the river runs through Southwest China, Myanmar, Laos, Thailand, Cambodia, and southern Vietnam. The extreme seasonal variations in flow and the presence of rapids and waterfalls in the Mekong make navigation difficult, though the river remains a major trade route between Tibet and Southeast Asia. The construction of hydroelectric dams along the Mekong in the 2000s through the 2020s has caused serious problems for the river's ecosystem, including the exacerbation of drought.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mekong",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Mekong River massacre",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mekong_River_massacre",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "10-05-2000-99a70138",
+      "year": 2000,
+      "text": "Colour revolutions: During protests over irregularities in the Yugoslavian general election, a wheel-loader was driven into the Radio Television of Serbia building, giving the protests the nickname \"Bulldozer Revolution\".",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Front_end_loader_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Front_end_loader_2.jpg/330px-Front_end_loader_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "front_end_loader_2.jpg",
+        "width": 3224,
+        "height": 2866,
+        "title": "Loader (equipment)",
+        "description": "Heavy equipment machine",
+        "extract": "A loader is a heavy equipment machine used in construction to move or load materials such as soil, rock, sand, demolition debris, etc. into or onto another type of machinery.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Loader_(equipment)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Front_end_loader_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Front_end_loader_2.jpg/330px-Front_end_loader_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "front_end_loader_2.jpg",
+          "width": 3224,
+          "height": 2866,
+          "title": "Loader (equipment)",
+          "description": "Heavy equipment machine",
+          "extract": "A loader is a heavy equipment machine used in construction to move or load materials such as soil, rock, sand, demolition debris, etc. into or onto another type of machinery.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Loader_(equipment)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Petooktobarska_revolucija.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Petooktobarska_revolucija.png/330px-Petooktobarska_revolucija.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "petooktobarska_revolucija.png",
+          "width": 1277,
+          "height": 763,
+          "title": "Overthrow of Slobodan Milošević",
+          "description": "2000 overthrow of Yugoslav President Slobodan Milošević",
+          "extract": "The overthrow of Slobodan Milošević, president of the Federal Republic of Yugoslavia, began after the general election on 24 September 2000 and culminated on 5 October 2000. It is commonly referred to as the 5 October Revolution or as the Bulldozer Revolution, after an event during the day-long protest in which a heavy equipment operator charged the Radio Television of Serbia building, considered to be symbolic of the Milošević regime's propaganda.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg/1280px-La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg/1280px-La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "la_liberté_guidant_le_peuple_-_eugène_delacroix_-_musée_du_louvre_peintures_rf_129_-_après_restauration_2024.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "La_Liberté_guidant_le_peuple_-_Eugène_Delacroix_-_Musée_du_Louvre_Peintures_RF_129_-_après_restauration_2024",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Colour_revolution",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Colour revolution",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Colour_revolution",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "10-05-1999-267ae926",
+      "year": 1999,
+      "text": "Two trains collided head-on in Ladbroke Grove, London, killing 31 people, injuring 417, and severely damaging public confidence in the management and regulation of safety of Britain's privatised railway system.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ladbroke_Grove_rail_crash_-_Metropolitan_Police_Service_image_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ladbroke_Grove_rail_crash_-_Metropolitan_Police_Service_image_%283%29.jpg/330px-Ladbroke_Grove_rail_crash_-_Metropolitan_Police_Service_image_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ladbroke_grove_rail_crash_-_metropolitan_police_service_image_(3).jpg",
+        "width": 701,
+        "height": 418,
+        "title": "Ladbroke Grove rail crash",
+        "description": "1999 rail accident in London",
+        "extract": "The Ladbroke Grove rail crash occurred on 5 October 1999 at Ladbroke Grove in London, England, when a Thames Trains passenger train passed a signal at danger, colliding almost head-on with a First Great Western passenger train. With 31 people killed and 417 injured, it was one of the worst rail accidents in 20th-century British history.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ladbroke_Grove_rail_crash",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ladbroke_Grove_rail_crash_-_Metropolitan_Police_Service_image_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ladbroke_Grove_rail_crash_-_Metropolitan_Police_Service_image_%283%29.jpg/330px-Ladbroke_Grove_rail_crash_-_Metropolitan_Police_Service_image_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ladbroke_grove_rail_crash_-_metropolitan_police_service_image_(3).jpg",
+          "width": 701,
+          "height": 418,
+          "title": "Ladbroke Grove rail crash",
+          "description": "1999 rail accident in London",
+          "extract": "The Ladbroke Grove rail crash occurred on 5 October 1999 at Ladbroke Grove in London, England, when a Thames Trains passenger train passed a signal at danger, colliding almost head-on with a First Great Western passenger train. With 31 people killed and 417 injured, it was one of the worst rail accidents in 20th-century British history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ladbroke_Grove_rail_crash",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Notting_Hill_Carnival_2006_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Notting_Hill_Carnival_2006_006.jpg/330px-Notting_Hill_Carnival_2006_006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "notting_hill_carnival_2006_006.jpg",
+          "width": 2448,
+          "height": 3264,
+          "title": "Ladbroke Grove",
+          "description": "Road in London, England",
+          "extract": "Ladbroke Grove is a road in the Royal Borough of Kensington and Chelsea, London, England, which passes through Kensal Green and Notting Hill, running north–south between Harrow Road and Holland Park Avenue.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Ladbroke_Grove",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/4_GWR_Class_80X_at_Paddington%2C_from_overbridge_above_pl_4%2C_Nov_2021.jpg/3840px-4_GWR_Class_80X_at_Paddington%2C_from_overbridge_above_pl_4%2C_Nov_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/4_GWR_Class_80X_at_Paddington%2C_from_overbridge_above_pl_4%2C_Nov_2021.jpg/330px-4_GWR_Class_80X_at_Paddington%2C_from_overbridge_above_pl_4%2C_Nov_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "4_gwr_class_80x_at_paddington,_from_overbridge_above_pl_4,_nov_2021.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": "Rail transport in Great Britain",
+          "description": "",
+          "extract": "The railway system in Great Britain is the oldest railway system in the world. The first locomotive-hauled public railway opened in 1825, which was followed by an era of rapid expansion. Most of the track is managed by Network Rail, which in 2024 had a network of 9,848 miles (15,849 km) of standard-gauge lines, of which 3,810 miles (6,130 km) were electrified. In addition, some cities have separate metro, light rail and tram systems, among them the historic London Underground and the Glasgow Subway. There are also many private railways, some of them narrow-gauge, which are primarily short lines for tourists. The main rail network is connected with that of continental Europe by the Channel Tunnel and High Speed 1, opened in 1994 and 2007 respectively.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rail_transport_in_Great_Britain",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Ladbroke Grove rail crash",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ladbroke_Grove_rail_crash",
+      "relatedPagesCount": 3
+    }
+  ]
+}

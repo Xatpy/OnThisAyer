@@ -1,0 +1,619 @@
+{
+  "date": {
+    "month": 7,
+    "day": 10,
+    "formatted": "07-10"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "07-10-2016-337223c8",
+      "year": 2016,
+      "text": "Portugal defeats France in the UEFA Euro 2016 Final to win their first European title.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Germany_vs_Poland_0-0_%2827103531294%29.jpg/3840px-Germany_vs_Poland_0-0_%2827103531294%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Germany_vs_Poland_0-0_%2827103531294%29.jpg/330px-Germany_vs_Poland_0-0_%2827103531294%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "germany_vs_poland_0-0_(27103531294).jpg",
+        "width": 4160,
+        "height": 2340,
+        "title": "UEFA Euro 2016 final",
+        "description": "European football match",
+        "extract": "The UEFA Euro 2016 final was the final match of UEFA Euro 2016, the fifteenth edition of the European Championship, UEFA's quadrennial competition for national association football teams. The match was played at the Stade de France in Paris, France, on 10 July 2016, and was contested between Portugal and hosts France.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_final",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Germany_vs_Poland_0-0_%2827103531294%29.jpg/3840px-Germany_vs_Poland_0-0_%2827103531294%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Germany_vs_Poland_0-0_%2827103531294%29.jpg/330px-Germany_vs_Poland_0-0_%2827103531294%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "germany_vs_poland_0-0_(27103531294).jpg",
+          "width": 4160,
+          "height": 2340,
+          "title": "UEFA Euro 2016 final",
+          "description": "European football match",
+          "extract": "The UEFA Euro 2016 final was the final match of UEFA Euro 2016, the fifteenth edition of the European Championship, UEFA's quadrennial competition for national association football teams. The match was played at the Stade de France in Paris, France, on 10 July 2016, and was contested between Portugal and hosts France.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/UEFA_Euro_2016_final",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Coupe_Henri_Delaunay_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Coupe_Henri_Delaunay_2017.jpg/330px-Coupe_Henri_Delaunay_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "coupe_henri_delaunay_2017.jpg",
+          "width": 949,
+          "height": 1317,
+          "title": "UEFA European Championship",
+          "description": "Association football tournament",
+          "extract": "The UEFA European Football Championship, less formally the European Championship and informally the Euro or Euros, is the primary association football tournament organised by UEFA. The competition is contested by members' senior men's national teams, determining the continental champion of Europe. It is the second-most watched football tournament in the world after the FIFA World Cup. It was originally called the European Nations' Cup before changing to its current name in 1968.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/UEFA_European_Championship",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Portugal national football team",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Portugal_national_football_team",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "07-10-1999-d546d8af",
+      "year": 1999,
+      "text": "The United States defeated China in the final match of the third FIFA Women's World Cup, setting records in both attendance and television ratings for women's sports.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/2018.06.17_Over_the_Rose_Bowl%2C_Pasadena%2C_CA_USA_0039_%2842855669451%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2018.06.17_Over_the_Rose_Bowl%2C_Pasadena%2C_CA_USA_0039_%2842855669451%29_%28cropped%29.jpg/330px-2018.06.17_Over_the_Rose_Bowl%2C_Pasadena%2C_CA_USA_0039_%2842855669451%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2018.06.17_over_the_rose_bowl,_pasadena,_ca_usa_0039_(42855669451)_(cropped).jpg",
+        "width": 2566,
+        "height": 1613,
+        "title": "1999 FIFA Women's World Cup final",
+        "description": "Association football match",
+        "extract": "The 1999 FIFA Women's World Cup final was a soccer match that took place on July 10, 1999, to determine the winner of the 1999 FIFA Women's World Cup. The host United States and China played to a scoreless draw following double golden goal extra time. After that, the United States won the title 5–4 with a penalties victory.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1999_FIFA_Women's_World_Cup_final",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/2018.06.17_Over_the_Rose_Bowl%2C_Pasadena%2C_CA_USA_0039_%2842855669451%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2018.06.17_Over_the_Rose_Bowl%2C_Pasadena%2C_CA_USA_0039_%2842855669451%29_%28cropped%29.jpg/330px-2018.06.17_Over_the_Rose_Bowl%2C_Pasadena%2C_CA_USA_0039_%2842855669451%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2018.06.17_over_the_rose_bowl,_pasadena,_ca_usa_0039_(42855669451)_(cropped).jpg",
+          "width": 2566,
+          "height": 1613,
+          "title": "1999 FIFA Women's World Cup final",
+          "description": "Association football match",
+          "extract": "The 1999 FIFA Women's World Cup final was a soccer match that took place on July 10, 1999, to determine the winner of the 1999 FIFA Women's World Cup. The host United States and China played to a scoreless draw following double golden goal extra time. After that, the United States won the title 5–4 with a penalties victory.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1999_FIFA_Women's_World_Cup_final",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "United States women's national soccer team",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/United_States_women's_national_soccer_team",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "07-10-1962-91d1f504",
+      "year": 1962,
+      "text": "Telstar, the world's first communications satellite, is launched into orbit.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Telstar_1_replica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Telstar_1_replica.jpg/330px-Telstar_1_replica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "telstar_1_replica.jpg",
+        "width": 1151,
+        "height": 1287,
+        "title": "Telstar 1",
+        "description": "Defunct Communications Satellite",
+        "extract": "Telstar 1 is a defunct communications satellite launched by NASA on July 10th, 1962. One of the earliest communications satellites, it was the first telecommunications satellite, achieving live transmission of broadcast television images between the United States and Europe. Telstar 1 remained active for only 7 months before it prematurely failed due to Starfish Prime, a high-altitude nuclear test conducted by the United States. Although the satellite is no longer operational, it remains in Earth orbit.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Telstar_1",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Telstar_1_replica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Telstar_1_replica.jpg/330px-Telstar_1_replica.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "telstar_1_replica.jpg",
+          "width": 1151,
+          "height": 1287,
+          "title": "Telstar 1",
+          "description": "Defunct Communications Satellite",
+          "extract": "Telstar 1 is a defunct communications satellite launched by NASA on July 10th, 1962. One of the earliest communications satellites, it was the first telecommunications satellite, achieving live transmission of broadcast television images between the United States and Europe. Telstar 1 remained active for only 7 months before it prematurely failed due to Starfish Prime, a high-altitude nuclear test conducted by the United States. Although the satellite is no longer operational, it remains in Earth orbit.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Telstar_1",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Iridium_satellite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Iridium_satellite.jpg/330px-Iridium_satellite.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iridium_satellite.jpg",
+          "width": 1536,
+          "height": 1024,
+          "title": "Communications satellite",
+          "description": "Artificial satellite that relays radio signals",
+          "extract": "A communications satellite is an artificial satellite that relays and amplifies radio telecommunication signals via a transponder; it creates a communication channel between a source transmitter and a receiver at different locations on Earth. Communications satellites are used for television, telephone, radio, internet, and military applications. Some communications satellites are in geostationary orbit 22,236 miles (35,785 km) above the equator, so that the satellite appears stationary at the same point in the sky; therefore the satellite dish antennas of ground stations can be aimed permanently at that spot and do not have to move to track the satellite. However, most form satellite constellations in low Earth orbit, where ground antennas must track the satellites and switch between them frequently.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Communications_satellite",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Relay_1_antenna_USA.jpg/500px-Relay_1_antenna_USA.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Relay_1_antenna_USA.jpg/500px-Relay_1_antenna_USA.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "relay_1_antenna_usa.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Huge horn antenna at the AT&T Andover satellite ground station at Andover, Maine",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Telstar_1",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Telstar 1",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Telstar_1",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "07-10-2006-227b153f",
+      "year": 2006,
+      "text": "A Pakistan International Airlines Fokker F27 Friendship crashes near Multan International Airport, killing all 45 people on board.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/A_Pakistan_International_Airlines_Fokker_F27-200_registered_AP-BAL_seen_here_in_Karachi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/A_Pakistan_International_Airlines_Fokker_F27-200_registered_AP-BAL_seen_here_in_Karachi_%28cropped%29.jpg/330px-A_Pakistan_International_Airlines_Fokker_F27-200_registered_AP-BAL_seen_here_in_Karachi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "a_pakistan_international_airlines_fokker_f27-200_registered_ap-bal_seen_here_in_karachi_(cropped).jpg",
+        "width": 507,
+        "height": 315,
+        "title": "Pakistan International Airlines Flight 688",
+        "description": "2006 aviation accident in Pakistan",
+        "extract": "Pakistan International Airlines Flight 688 was a domestic passenger flight from Multan to Islamabad with a stopover in Lahore, operated by Pakistan's flag carrier Pakistan International Airlines. On 10 July 2006, the aircraft operating the route, a Fokker F27, crashed into a mango orchard after one of its two engines failed shortly after takeoff from Multan International Airport. All 41 passengers and four crew on board were killed.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pakistan_International_Airlines_Flight_688",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/A_Pakistan_International_Airlines_Fokker_F27-200_registered_AP-BAL_seen_here_in_Karachi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/A_Pakistan_International_Airlines_Fokker_F27-200_registered_AP-BAL_seen_here_in_Karachi_%28cropped%29.jpg/330px-A_Pakistan_International_Airlines_Fokker_F27-200_registered_AP-BAL_seen_here_in_Karachi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "a_pakistan_international_airlines_fokker_f27-200_registered_ap-bal_seen_here_in_karachi_(cropped).jpg",
+          "width": 507,
+          "height": 315,
+          "title": "Pakistan International Airlines Flight 688",
+          "description": "2006 aviation accident in Pakistan",
+          "extract": "Pakistan International Airlines Flight 688 was a domestic passenger flight from Multan to Islamabad with a stopover in Lahore, operated by Pakistan's flag carrier Pakistan International Airlines. On 10 July 2006, the aircraft operating the route, a Fokker F27, crashed into a mango orchard after one of its two engines failed shortly after takeoff from Multan International Airport. All 41 passengers and four crew on board were killed.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pakistan_International_Airlines_Flight_688",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Multan_International_Airport_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Multan_International_Airport_front_view.jpg/330px-Multan_International_Airport_front_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "multan_international_airport_front_view.jpg",
+          "width": 1000,
+          "height": 493,
+          "title": "Multan International Airport",
+          "description": "Airport near Multan, South Punjab, Pakistan",
+          "extract": "Multan International Airport is an international airport located 4 km west of the city of Multan, Pakistan. The airport is South Punjab's largest and busiest airport. Multan International Airport offers flights throughout Pakistan, as well as direct flights to Bahrain, Oman, Qatar, Saudi Arabia, and the United Arab Emirates.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Multan_International_Airport",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Pakistan International Airlines Flight 688",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Pakistan_International_Airlines_Flight_688",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "07-10-1924-a7910cb4",
+      "year": 1924,
+      "text": "Paavo Nurmi wins the 1,500 m and 5,000 m events at the Paris Olympics, with just an hour between the two races.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "paavo_nurmi_(antwerp_1920).jpg",
+        "width": 324,
+        "height": 506,
+        "title": "Paavo Nurmi",
+        "description": "Finnish middle and long distance runner (1897–1973)",
+        "extract": "Paavo Johannes Nurmi was a Finnish middle-distance and long-distance runner. He was called the \"Flying Finn\" because he dominated distance running in the 1920s. Nurmi set 22 official world records at distances between 1,500 metres and 20 kilometres, and won nine gold and three silver medals in his 12 events in the Summer Olympic Games. At his peak, Nurmi was undefeated for 121 races at distances from 800 m upwards. Throughout his 14-year career, he remained unbeaten in cross country events and the 10,000 metres.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Paavo_Nurmi",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Paavo_Nurmi_%28Antwerp_1920%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "paavo_nurmi_(antwerp_1920).jpg",
+          "width": 324,
+          "height": 506,
+          "title": "Paavo Nurmi",
+          "description": "Finnish middle and long distance runner (1897–1973)",
+          "extract": "Paavo Johannes Nurmi was a Finnish middle-distance and long-distance runner. He was called the \"Flying Finn\" because he dominated distance running in the 1920s. Nurmi set 22 official world records at distances between 1,500 metres and 20 kilometres, and won nine gold and three silver medals in his 12 events in the Summer Olympic Games. At his peak, Nurmi was undefeated for 121 races at distances from 800 m upwards. Throughout his 14-year career, he remained unbeaten in cross country events and the 10,000 metres.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Paavo_Nurmi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Paavo_Nurmi_and_his_family_in_1924.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Paavo_Nurmi_and_his_family_in_1924.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "paavo_nurmi_and_his_family_in_1924.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Nurmi (second from right) with his family in 1924",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Paavo_Nurmi",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Paavo_Nurmi_at_the_1920_Olympic_trials.jpg/500px-Paavo_Nurmi_at_the_1920_Olympic_trials.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Paavo_Nurmi_at_the_1920_Olympic_trials.jpg/500px-Paavo_Nurmi_at_the_1920_Olympic_trials.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "paavo_nurmi_at_the_1920_olympic_trials.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Nurmi at the 1920 Olympic trials",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Paavo_Nurmi",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "sports",
+        "name": "Deportes",
+        "icon": "🏆"
+      },
+      "mainPageTitle": "Paavo Nurmi",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Paavo_Nurmi",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "07-10-1925-5f356a9c",
+      "year": 1925,
+      "text": "Indian mystic and spiritual master Meher Baba began his silence until his death in 1969, only communicating by means of an alphabet board or by unique hand gestures.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Guru_and_DiscipleI.jpg/3840px-Guru_and_DiscipleI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Guru_and_DiscipleI.jpg/330px-Guru_and_DiscipleI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "guru_and_disciplei.jpg",
+        "width": 3975,
+        "height": 2775,
+        "title": "Guru",
+        "description": "Spiritual teacher and guide",
+        "extract": "Guru is a Sanskrit term for a \"mentor, guide, expert, or master\" of certain knowledge or field. In pan-Indian traditions, a guru is more than a teacher: traditionally, the guru is a reverential figure to the disciple or student, with the guru serving as a \"counsellor, who helps mould values, shares experiential knowledge as much as literal knowledge, an exemplar in life, an inspirational source and who helps in the spiritual evolution of a student\". Many spiritual texts are written in a language which is not commonly understood by masses, or sometimes the scriptures present contradictory concepts. Hence, only a qualified teacher or the guru is required to interpret scriptures in the right context and avoid misunderstandings. A guru is also one's spiritual guide, who helps one to discover the same potentialities that the guru has already realized.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Guru",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Guru_and_DiscipleI.jpg/3840px-Guru_and_DiscipleI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Guru_and_DiscipleI.jpg/330px-Guru_and_DiscipleI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "guru_and_disciplei.jpg",
+          "width": 3975,
+          "height": 2775,
+          "title": "Guru",
+          "description": "Spiritual teacher and guide",
+          "extract": "Guru is a Sanskrit term for a \"mentor, guide, expert, or master\" of certain knowledge or field. In pan-Indian traditions, a guru is more than a teacher: traditionally, the guru is a reverential figure to the disciple or student, with the guru serving as a \"counsellor, who helps mould values, shares experiential knowledge as much as literal knowledge, an exemplar in life, an inspirational source and who helps in the spiritual evolution of a student\". Many spiritual texts are written in a language which is not commonly understood by masses, or sometimes the scriptures present contradictory concepts. Hence, only a qualified teacher or the guru is required to interpret scriptures in the right context and avoid misunderstandings. A guru is also one's spiritual guide, who helps one to discover the same potentialities that the guru has already realized.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Guru",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Meher_Baba_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Meher_Baba_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "meher_baba_1945.jpg",
+          "width": 278,
+          "height": 351,
+          "title": "Meher Baba",
+          "description": "Indian spiritual master (1894–1969)",
+          "extract": "Meher Baba was an Indian spiritual leader who said he was the Avatar, the reincarnation of Muhammad, Buddha, Jesus, Krishna, Rama and Zoroaster, or the total manifestation of God in human form. A spiritual figure of the 20th century, he had a following of hundreds of thousands of people, mostly in India, with a smaller number of followers in North America, Europe, South America, and Australia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Meher_Baba",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Adiyogi-4-Isha_yoga_centre-coimbatore-India.jpg/1280px-Adiyogi-4-Isha_yoga_centre-coimbatore-India.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Adiyogi-4-Isha_yoga_centre-coimbatore-India.jpg/1280px-Adiyogi-4-Isha_yoga_centre-coimbatore-India.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "adiyogi-4-isha_yoga_centre-coimbatore-india.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The yogic traditions of ancient India worshipped Shiva as Adiguru, or the first Guru.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Guru",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Guru",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Guru",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "07-10-2000-c8ad766d",
+      "year": 2000,
+      "text": "EADS, the world's second-largest aerospace group is formed by the merger of Aérospatiale-Matra, DASA, and CASA.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Airbus_Lagard%C3%A8re_-_A%C3%A9roconstellation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Airbus_Lagard%C3%A8re_-_A%C3%A9roconstellation.jpg/330px-Airbus_Lagard%C3%A8re_-_A%C3%A9roconstellation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "airbus_lagardère_-_aéroconstellation.jpg",
+        "width": 2974,
+        "height": 1835,
+        "title": "Airbus",
+        "description": "European aircraft manufacturer",
+        "extract": "Airbus SE is a European aerospace corporation. While the company's primary business is the design and manufacture of commercial aircraft, it also operates separate divisions for Defence and Space and Helicopters. Airbus has long been the world's leading helicopter manufacturer and, in 2019, emerged as the world's largest manufacturer of airliners.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Airbus",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Airbus_Lagard%C3%A8re_-_A%C3%A9roconstellation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Airbus_Lagard%C3%A8re_-_A%C3%A9roconstellation.jpg/330px-Airbus_Lagard%C3%A8re_-_A%C3%A9roconstellation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "airbus_lagardère_-_aéroconstellation.jpg",
+          "width": 2974,
+          "height": 1835,
+          "title": "Airbus",
+          "description": "European aircraft manufacturer",
+          "extract": "Airbus SE is a European aerospace corporation. While the company's primary business is the design and manufacture of commercial aircraft, it also operates separate divisions for Defence and Space and Helicopters. Airbus has long been the world's leading helicopter manufacturer and, in 2019, emerged as the world's largest manufacturer of airliners.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Airbus",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Toulouse_Si%C3%A8ge_Airbus.jpg/1280px-Toulouse_Si%C3%A8ge_Airbus.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Toulouse_Si%C3%A8ge_Airbus.jpg/1280px-Toulouse_Si%C3%A8ge_Airbus.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "toulouse_siège_airbus.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Global headquarters of Airbus at Toulouse-Blagnac Airport",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Airbus",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Airbus",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Airbus",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "07-10-1553-0edb6475",
+      "year": 1553,
+      "text": "Lady Jane Grey (pictured) was proclaimed the successor to King Edward VI of England, beginning her disputed reign as the \"Nine Days' Queen\".",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Streathamladyjayne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/330px-Streathamladyjayne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "streathamladyjayne.jpg",
+        "width": 2400,
+        "height": 3102,
+        "title": "Lady Jane Grey",
+        "description": "Disputed Queen of England and Ireland in 1553",
+        "extract": "Lady Jane Grey, also known as Lady Jane Dudley after her marriage, and nicknamed the \"Nine Days Queen\", was an English noblewoman who was proclaimed Queen of England and Ireland on 10 July 1553 and reigned until she was deposed by the Privy Council of England, which proclaimed her cousin, Mary I, as the new Queen on 19 July. Jane was later beheaded for high treason.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Lady_Jane_Grey",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Streathamladyjayne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Streathamladyjayne.jpg/330px-Streathamladyjayne.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "streathamladyjayne.jpg",
+          "width": 2400,
+          "height": 3102,
+          "title": "Lady Jane Grey",
+          "description": "Disputed Queen of England and Ireland in 1553",
+          "extract": "Lady Jane Grey, also known as Lady Jane Dudley after her marriage, and nicknamed the \"Nine Days Queen\", was an English noblewoman who was proclaimed Queen of England and Ireland on 10 July 1553 and reigned until she was deposed by the Privy Council of England, which proclaimed her cousin, Mary I, as the new Queen on 19 July. Jane was later beheaded for high treason.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lady_Jane_Grey",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Circle_of_William_Scrots_Edward_VI_of_England.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Circle_of_William_Scrots_Edward_VI_of_England.jpg/330px-Circle_of_William_Scrots_Edward_VI_of_England.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "circle_of_william_scrots_edward_vi_of_england.jpg",
+          "width": 1518,
+          "height": 2000,
+          "title": "Edward VI",
+          "description": "King of England and Ireland from 1547 to 1553",
+          "extract": "Edward VI was King of England and Ireland from 28 January 1547 until his death in 1553. He was crowned on 20 February 1547 at the age of nine. The only surviving son of Henry VIII by his third wife, Jane Seymour, Edward was the first English monarch to be raised as a Protestant. During his reign, the realm was governed by a regency council because Edward never reached maturity. The council was first led by his uncle Edward Seymour, Duke of Somerset (1547–1549), and then by John Dudley, Duke of Northumberland (1550–1553).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Edward_VI",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/British_School%2C_16th_century_-_Portrait_of_a_Woman_-_RCIN_402655_-_Royal_Collection.jpg/500px-British_School%2C_16th_century_-_Portrait_of_a_Woman_-_RCIN_402655_-_Royal_Collection.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/British_School%2C_16th_century_-_Portrait_of_a_Woman_-_RCIN_402655_-_Royal_Collection.jpg/500px-British_School%2C_16th_century_-_Portrait_of_a_Woman_-_RCIN_402655_-_Royal_Collection.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "british_school,_16th_century_-_portrait_of_a_woman_-_rcin_402655_-_royal_collection.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "British_School,_16th_century_-_Portrait_of_a_Woman_-_RCIN_402655_-_Royal_Collection",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lady_Jane_Grey",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Lady Jane Grey",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Lady_Jane_Grey",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "07-10-1951-509f3196",
+      "year": 1951,
+      "text": "Korean War: Armistice negotiations begin at Kaesong.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "chosin.jpg",
+        "width": 2858,
+        "height": 2294,
+        "title": "Korean War",
+        "description": "1950–1953 conflict on the Korean Peninsula",
+        "extract": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Korean_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chosin.jpg",
+          "width": 2858,
+          "height": 2294,
+          "title": "Korean War",
+          "description": "1950–1953 conflict on the Korean Peninsula",
+          "extract": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Korean_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Koryo_Songgyungwan_University.jpg/3840px-Koryo_Songgyungwan_University.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Koryo_Songgyungwan_University.jpg/330px-Koryo_Songgyungwan_University.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "koryo_songgyungwan_university.jpg",
+          "width": 5312,
+          "height": 2988,
+          "title": "Kaesong",
+          "description": "Special city in North Korea",
+          "extract": "Kaesong is a special city in the southern part of North Korea, and the capital of Korea during the Taebong kingdom and subsequent Goryeo dynasty. The city is near the Kaesong Industrial Region close to the border with South Korea and contains the remains of the Manwoldae palace. Called Songdo while it was the ancient capital of Goryeo, the city prospered as a trade centre that produced Korean ginseng. Kaesong now functions as North Korea's light industry centre.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kaesong",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Korean_War_bombing_Wonsan_%28cropped%29.jpg/1280px-Korean_War_bombing_Wonsan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Korean_War_bombing_Wonsan_%28cropped%29.jpg/1280px-Korean_War_bombing_Wonsan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "korean_war_bombing_wonsan_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Korean_War_bombing_Wonsan_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Korean_War",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Korean War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Korean_War",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "07-10-2011-aa29a737",
+      "year": 2011,
+      "text": "The Russian river cruise liner Bulgaria was caught in a storm in Tatarstan on the Volga and sank in several minutes, resulting in 122 deaths.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D1%8B.jpg/3840px-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D1%8B.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D1%8B.jpg/330px-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D1%8B.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "булгария_корабы.jpg",
+        "width": 4320,
+        "height": 3240,
+        "title": "Bulgaria (1955 ship)",
+        "description": "Russian cruise ship",
+        "extract": "Bulgaria was a class 785/OL800 Russian river cruise ship which operated in the Volga-Don basin. On 10 July 2011, Bulgaria sank in the Kuybyshev Reservoir of the Volga River near Syukeyevo, Kamsko-Ustyinsky District, Tatarstan, Russia, with 201 passengers and crew aboard when sailing from the town of Bolgar to the regional capital, Kazan. The catastrophe led to 122 confirmed deaths.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bulgaria_(1955_ship)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D1%8B.jpg/3840px-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D1%8B.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D1%8B.jpg/330px-%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F_%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D1%8B.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "булгария_корабы.jpg",
+          "width": 4320,
+          "height": 3240,
+          "title": "Bulgaria (1955 ship)",
+          "description": "Russian cruise ship",
+          "extract": "Bulgaria was a class 785/OL800 Russian river cruise ship which operated in the Volga-Don basin. On 10 July 2011, Bulgaria sank in the Kuybyshev Reservoir of the Volga River near Syukeyevo, Kamsko-Ustyinsky District, Tatarstan, Russia, with 201 passengers and crew aboard when sailing from the town of Bolgar to the regional capital, Kazan. The catastrophe led to 122 confirmed deaths.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bulgaria_(1955_ship)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Yaroslavl._Volga_River._Cathedral_of_the_Dormition_P5212700_2200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Yaroslavl._Volga_River._Cathedral_of_the_Dormition_P5212700_2200.jpg/330px-Yaroslavl._Volga_River._Cathedral_of_the_Dormition_P5212700_2200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "yaroslavl._volga_river._cathedral_of_the_dormition_p5212700_2200.jpg",
+          "width": 3426,
+          "height": 2200,
+          "title": "Volga",
+          "description": "River in Russia; the longest river in Europe",
+          "extract": "The Volga is the longest river in Europe and the longest endorheic basin river in the world. Situated in Russia, it flows through Central Russia to Southern Russia and into the Caspian Sea. The Volga has a length of 3,531 km (2,194 mi), and a catchment area of 1,360,000 km2 (530,000 sq mi). It is also Europe's largest river in terms of average discharge at delta – between 8,000 and 8,500 cubic metres per second – and of drainage basin. It is widely regarded as the national river of Russia. The hypothetical old Russian state, the Rus' Khaganate, arose along the Volga c. 830 AD. Historically, the river served as an important meeting place of various Eurasian civilizations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Volga",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Bulgaria (1955 ship)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bulgaria_(1955_ship)",
+      "relatedPagesCount": 3
+    }
+  ]
+}

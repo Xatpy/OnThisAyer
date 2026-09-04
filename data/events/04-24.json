@@ -1,0 +1,643 @@
+{
+  "date": {
+    "month": 4,
+    "day": 24,
+    "formatted": "04-24"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "04-24-1990-df17ae2b",
+      "year": 1990,
+      "text": "The Hubble Space Telescope was launched aboard STS-31 by Space Shuttle Discovery.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/3840px-Hubble_2009_close-up_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/330px-Hubble_2009_close-up_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hubble_2009_close-up_2.jpg",
+        "width": 4288,
+        "height": 2847,
+        "title": "Hubble Space Telescope",
+        "description": "NASA/ESA space telescope launched in 1990",
+        "extract": "The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It was not the first space telescope, but it is one of the largest and most versatile, renowned as a vital research tool and as a public relations boon for astronomy. The Hubble Space Telescope is named after astronomer Edwin Hubble and is one of NASA's Great Observatories. The Space Telescope Science Institute (STScI) selects Hubble's targets and processes the resulting data, while the Goddard Space Flight Center (GSFC) controls the spacecraft.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/3840px-Hubble_2009_close-up_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/330px-Hubble_2009_close-up_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hubble_2009_close-up_2.jpg",
+          "width": 4288,
+          "height": 2847,
+          "title": "Hubble Space Telescope",
+          "description": "NASA/ESA space telescope launched in 1990",
+          "extract": "The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It was not the first space telescope, but it is one of the largest and most versatile, renowned as a vital research tool and as a public relations boon for astronomy. The Hubble Space Telescope is named after astronomer Edwin Hubble and is one of NASA's Great Observatories. The Space Telescope Science Institute (STScI) selects Hubble's targets and processes the resulting data, while the Goddard Space Flight Center (GSFC) controls the spacecraft.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/1990_s31_IMAX_view_of_HST_release.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1990_s31_IMAX_view_of_HST_release.jpg/330px-1990_s31_IMAX_view_of_HST_release.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1990_s31_imax_view_of_hst_release.jpg",
+          "width": 1730,
+          "height": 1105,
+          "title": "STS-31",
+          "description": "1990 American crewed spaceflight to deploy the Hubble Space Telescope",
+          "extract": "STS-31 was the 35th mission of NASA's Space Shuttle program and the tenth flight of the Space Shuttle Discovery. The primary purpose of this mission was the deployment of the Hubble Space Telescope (HST) into low Earth orbit. Discovery lifted off from Launch Complex 39B on April 24, 1990, from Kennedy Space Center, Florida.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-31",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-133_space_shuttle_discovery_after_undocking_3_(cropped).jpg",
+          "width": 3336,
+          "height": 2507,
+          "title": "Space Shuttle Discovery",
+          "description": "Space Shuttle orbiter (1984–2011)",
+          "extract": "Space Shuttle Discovery is a retired American Space Shuttle orbiter. The spaceplane was one of the orbiters from NASA's Space Shuttle program and the third of five fully operational orbiters to be built. Its first mission, STS-41-D, flew from August 30 to September 5, 1984. Over 27 years of service it launched and landed 39 times, aggregating more spaceflights than any other spacecraft as of December 2024. The Space Shuttle launch vehicle had three main components: the Space Shuttle orbiter, a single-use central fuel tank, and two reusable solid rocket boosters. Nearly 25,000 heat-resistant tiles cover the orbiter to protect it from high temperatures on re-entry.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Hubble Space Telescope",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-24-1967-4ace9e3f",
+      "year": 1967,
+      "text": "Cosmonaut Vladimir Komarov dies in Soyuz 1 when its parachute fails to open. He is the first human to die during a space mission.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg/330px-Bruce_McCandless_II_during_EVA_in_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bruce_mccandless_ii_during_eva_in_1984.jpg",
+        "width": 3072,
+        "height": 3072,
+        "title": "Astronaut",
+        "description": "Spacecraft crew member",
+        "extract": "An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. Although generally reserved for professional space travelers, the term is sometimes applied to anyone who travels into space, including scientists, politicians, journalists, and space tourists. In the United States, it is a designated term used by three agencies: NASA, the FAA, and the military. The term is also used for people who are trained to fly in a spacecraft after passing certain training courses, regardless of their experience of space travel.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Astronaut",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg/330px-Bruce_McCandless_II_during_EVA_in_1984.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bruce_mccandless_ii_during_eva_in_1984.jpg",
+          "width": 3072,
+          "height": 3072,
+          "title": "Astronaut",
+          "description": "Spacecraft crew member",
+          "extract": "An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. Although generally reserved for professional space travelers, the term is sometimes applied to anyone who travels into space, including scientists, politicians, journalists, and space tourists. In the United States, it is a designated term used by three agencies: NASA, the FAA, and the military. The term is also used for people who are trained to fly in a spacecraft after passing certain training courses, regardless of their experience of space travel.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Astronaut",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9A%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9A%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2.jpg/330px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9A%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "владимир_комаров.jpg",
+          "width": 1041,
+          "height": 1428,
+          "title": "Vladimir Komarov",
+          "description": "Soviet test pilot (1927–1967)",
+          "extract": "Vladimir Mikhaylovich Komarov was a Soviet test pilot, aerospace engineer, and cosmonaut. In October 1964, he commanded Voskhod 1, the first spaceflight to carry more than one crew member. He became the first Soviet cosmonaut to fly in space twice when he was selected as the solo pilot of Soyuz 1, its first crewed test flight. A parachute failure caused his Soyuz capsule to crash into the ground after re-entry on 24 April 1967, making him the first human to die in a space flight incident.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vladimir_Komarov",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/f/f7/Soyuz_1_crash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Soyuz_1_crash.jpg/330px-Soyuz_1_crash.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "soyuz_1_crash.jpg",
+          "width": 450,
+          "height": 222,
+          "title": "Soyuz 1",
+          "description": "First crewed flight of the Soyuz programme",
+          "extract": "Soyuz 1 was a crewed spaceflight of the Soviet space program. Launched into orbit on 23 April 1967 carrying cosmonaut colonel Vladimir Komarov, Soyuz 1 was the first crewed flight of the Soyuz spacecraft. The flight was plagued with technical issues, and Komarov was killed when the descent module crashed into the ground due to a parachute failure. This was the first in-flight fatality in the history of spaceflight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Soyuz_1",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Astronaut",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Astronaut",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "04-24-2013-313dc3c6",
+      "year": 2013,
+      "text": "A building collapses near Dhaka, Bangladesh, killing 1,134 people and injuring about 2,500 others.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/2013_savar_building_collapse02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2013_savar_building_collapse02.jpg/330px-2013_savar_building_collapse02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "2013_savar_building_collapse02.jpg",
+        "width": 800,
+        "height": 534,
+        "title": "Rana Plaza collapse",
+        "description": "2013 industrial building collapse in Savar, Bangladesh",
+        "extract": "The Rana Plaza collapse occurred on 24 April 2013 in Savar Upazila, near Dhaka, Bangladesh, when the nine-story Rana Plaza commercial building collapsed due to a structural failure. The search for survivors lasted for 19 days and ended on 13 May 2013, with a confirmed death toll of 1,134. Approximately 2,500 injured people were rescued from the building. It is considered to be one of the deadliest structural failures in modern human history, as well as the deadliest garment-factory disaster in history, and is the deadliest industrial accident in the history of Bangladesh. Amnesty International called it \"the most shocking recent example of business-related human rights abuse.\"",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Rana_Plaza_collapse",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/2013_savar_building_collapse02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/2013_savar_building_collapse02.jpg/330px-2013_savar_building_collapse02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2013_savar_building_collapse02.jpg",
+          "width": 800,
+          "height": 534,
+          "title": "Rana Plaza collapse",
+          "description": "2013 industrial building collapse in Savar, Bangladesh",
+          "extract": "The Rana Plaza collapse occurred on 24 April 2013 in Savar Upazila, near Dhaka, Bangladesh, when the nine-story Rana Plaza commercial building collapsed due to a structural failure. The search for survivors lasted for 19 days and ended on 13 May 2013, with a confirmed death toll of 1,134. Approximately 2,500 injured people were rescued from the building. It is considered to be one of the deadliest structural failures in modern human history, as well as the deadliest garment-factory disaster in history, and is the deadliest industrial accident in the history of Bangladesh. Amnesty International called it \"the most shocking recent example of business-related human rights abuse.\"",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rana_Plaza_collapse",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Tejgaon_Commercial_Area.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tejgaon_Commercial_Area.jpg/330px-Tejgaon_Commercial_Area.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tejgaon_commercial_area.jpg",
+          "width": 2048,
+          "height": 1152,
+          "title": "Dhaka",
+          "description": "Capital and largest city of Bangladesh",
+          "extract": "Dhaka, formerly spelled as Dacca, is the capital and largest city of Bangladesh. With an estimated population of 36.6 million, Dhaka is the second largest city by population in the world, and is widely considered to be the most densely populated built-up urban area in the world. Dhaka is an important cultural, economic, and scientific hub of Eastern South Asia. Dhaka ranks fourth in South Asia and 55th in the world in terms of GDP. Lying on the Ganges Delta, it is bounded by the Buriganga, Turag, Dhaleshwari and Shitalakshya rivers. It is also the largest Bengali-speaking city in the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dhaka",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Savar_building_2013.png/500px-Savar_building_2013.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Savar_building_2013.png/500px-Savar_building_2013.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "savar_building_2013.png",
+          "width": 800,
+          "height": 600,
+          "title": "The location of Savar (red marker), the site of the building collapse, in relation to Dhaka.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rana_Plaza_collapse",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Rana Plaza collapse",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Rana_Plaza_collapse",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-24-2004-78f97635",
+      "year": 2004,
+      "text": "The United States lifts economic sanctions imposed on Libya 18 years previously, as a reward for its cooperation in eliminating weapons of mass destruction.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Redwing_Tewa_004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Redwing_Tewa_004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "redwing_tewa_004.jpg",
+        "width": 200,
+        "height": 155,
+        "title": "Weapon of mass destruction",
+        "description": "Weapon that can kill many people or cause great damage",
+        "extract": "A weapon of mass destruction (WMD) is a biological, chemical, radiological, nuclear, or any other weapon that can kill or significantly harm many people or cause great damage to artificial structures, natural structures, or the biosphere. The scope and usage of the term has evolved and been disputed, often signifying more politically than technically. Originally coined in reference to aerial bombing with conventional explosives during World War II, it has later come to refer to large-scale weaponry of warfare-related technologies, primarily biological, chemical, radiological, or nuclear warfare. Protective measures against weapons of mass destruction are known as CBRN defense.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Weapon_of_mass_destruction",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Redwing_Tewa_004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Redwing_Tewa_004.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "redwing_tewa_004.jpg",
+          "width": 200,
+          "height": 155,
+          "title": "Weapon of mass destruction",
+          "description": "Weapon that can kill many people or cause great damage",
+          "extract": "A weapon of mass destruction (WMD) is a biological, chemical, radiological, nuclear, or any other weapon that can kill or significantly harm many people or cause great damage to artificial structures, natural structures, or the biosphere. The scope and usage of the term has evolved and been disputed, often signifying more politically than technically. Originally coined in reference to aerial bombing with conventional explosives during World War II, it has later come to refer to large-scale weaponry of warfare-related technologies, primarily biological, chemical, radiological, or nuclear warfare. Protective measures against weapons of mass destruction are known as CBRN defense.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Weapon_of_mass_destruction",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Storck_Harbour_scene.jpg/1280px-Storck_Harbour_scene.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Storck_Harbour_scene.jpg/1280px-Storck_Harbour_scene.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "storck_harbour_scene.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Storck_Harbour_scene",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Economic_sanctions",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Economic sanctions",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Economic_sanctions",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-24-1980-c601e012",
+      "year": 1980,
+      "text": "Eight U.S. servicemen died in Operation Eagle Claw, a failed attempt to rescue the captives in the Iran hostage crisis.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Eagle_Claw_wrecks_at_Desert_One.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Eagle_Claw_wrecks_at_Desert_One.png/330px-Eagle_Claw_wrecks_at_Desert_One.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "eagle_claw_wrecks_at_desert_one.png",
+        "width": 990,
+        "height": 642,
+        "title": "Operation Eagle Claw",
+        "description": "Failed 1980 American military operation in Iran",
+        "extract": "Operation Eagle Claw was a failed United States Department of Defense attempt to rescue 52 embassy staff held captive by Revolutionary Iran on 24 April 1980. It was ordered by U.S. president Jimmy Carter after the staff were seized at the Embassy of the United States, Tehran. The operation, one of Delta Force's first, encountered many obstacles and failures and was subsequently aborted. Eight helicopters were sent to the first staging area in Great Salt Desert called Desert One, but only five arrived in operational condition. One had encountered hydraulic problems, another was caught in a sand storm, and the third showed signs of a cracked rotor blade. During the operational planning, it was decided that the mission would be aborted if fewer than six helicopters remained operational upon arrival at the Desert One site, despite only four being absolutely necessary. The field commanders advised President Carter to abort the mission, which he did.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Eagle_Claw_wrecks_at_Desert_One.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Eagle_Claw_wrecks_at_Desert_One.png/330px-Eagle_Claw_wrecks_at_Desert_One.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "eagle_claw_wrecks_at_desert_one.png",
+          "width": 990,
+          "height": 642,
+          "title": "Operation Eagle Claw",
+          "description": "Failed 1980 American military operation in Iran",
+          "extract": "Operation Eagle Claw was a failed United States Department of Defense attempt to rescue 52 embassy staff held captive by Revolutionary Iran on 24 April 1980. It was ordered by U.S. president Jimmy Carter after the staff were seized at the Embassy of the United States, Tehran. The operation, one of Delta Force's first, encountered many obstacles and failures and was subsequently aborted. Eight helicopters were sent to the first staging area in Great Salt Desert called Desert One, but only five arrived in operational condition. One had encountered hydraulic problems, another was caught in a sand storm, and the third showed signs of a cracked rotor blade. During the operational planning, it was decided that the mission would be aborted if fewer than six helicopters remained operational upon arrival at the Desert One site, despite only four being absolutely necessary. The field commanders advised President Carter to abort the mission, which he did.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Eagle_Claw",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg/330px-Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iran_hostage_crisis_-_iraninan_students_comes_up_u.s._embassy_in_tehran.jpg",
+          "width": 2684,
+          "height": 2019,
+          "title": "Iran hostage crisis",
+          "description": "Occupation of Tehran's U.S. embassy (1979–1981)",
+          "extract": "The Iran hostage crisis began on November 4, 1979, when 66 Americans, including diplomats and other civilian personnel, were taken hostage at the Embassy of the United States in Tehran, with 52 of them being held until January 20, 1981. The incident occurred after the Muslim Student Followers of the Imam's Line stormed and occupied the building in the months following the Iranian Revolution. With support from Ruhollah Khomeini, who had led the Iranian Revolution and would eventually establish the present-day Islamic Republic of Iran, the hostage-takers demanded that the United States extradite Iranian king Mohammad Reza Pahlavi, who had been granted asylum by the Carter administration for cancer treatment. Notable among the assailants were Hossein Dehghan, Mohammad Ali Jafari, and Mohammad Bagheri. The hostage crisis contributed to a dramatic decline in Iran–United States relations. After 444 days, it came to an end with the signing of the Algiers Accords between the Iranian and American governments; Pahlavi had died in Cairo, Egypt, on July 27, 1980.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Iran_hostage_crisis",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "United States Armed Forces",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/United_States_Armed_Forces",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-24--1479-731c50c3",
+      "year": -1479,
+      "text": "Thutmose III ascends to the throne of Egypt, although power effectively shifts to Hatshepsut (according to the Low Chronology of the 18th dynasty).",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Thutmosis_III-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thutmosis_III-2_%28cropped%29.jpg/330px-Thutmosis_III-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "thutmosis_iii-2_(cropped).jpg",
+        "width": 1472,
+        "height": 1964,
+        "title": "Thutmose III",
+        "description": "Pharaoh of Egypt from 1479 to 1425 BC",
+        "extract": "Thutmose III, sometimes called Thutmose the Great, was a pharaoh of the 18th Dynasty of Egypt. He is regarded as one of the greatest warriors, military commanders, and military strategists of his time; as Egypt's preeminent warrior pharaoh and conqueror; and as a dominant figure in the New Kingdom period.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Thutmose_III",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Thutmosis_III-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thutmosis_III-2_%28cropped%29.jpg/330px-Thutmosis_III-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "thutmosis_iii-2_(cropped).jpg",
+          "width": 1472,
+          "height": 1964,
+          "title": "Thutmose III",
+          "description": "Pharaoh of Egypt from 1479 to 1425 BC",
+          "extract": "Thutmose III, sometimes called Thutmose the Great, was a pharaoh of the 18th Dynasty of Egypt. He is regarded as one of the greatest warriors, military commanders, and military strategists of his time; as Egypt's preeminent warrior pharaoh and conqueror; and as a dominant figure in the New Kingdom period.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Thutmose_III",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012.jpg/330px-Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "seated_statue_of_hatshepsut_met_hatshepsut2012.jpg",
+          "width": 2921,
+          "height": 3722,
+          "title": "Hatshepsut",
+          "description": "Pharaoh of Egypt from 1479 to 1458 BC",
+          "extract": "Hatshepsut was the sixth pharaoh of the Eighteenth Dynasty of Egypt, ruling first as regent, then as queen regnant from c. 1479 BC until c. 1458 BC and the Great Royal Wife of Pharaoh Thutmose II. She was Egypt's second confirmed woman who ruled in her own right, the first being Sobekneferu/Neferusobek in the Twelfth Dynasty.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hatshepsut",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/A_fragment_of_a_wall_block._The_hieroglyphs_Son_of_Ra_were_inscribed_over_the_cartouche_of_the_birth-name_of_Thutmos_III._18th_Dynasty._From_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/A_fragment_of_a_wall_block._The_hieroglyphs_Son_of_Ra_were_inscribed_over_the_cartouche_of_the_birth-name_of_Thutmos_III._18th_Dynasty._From_Egypt._The_Petrie_Museum_of_Egyptian_Archaeology%2C_London.jpg/1280px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "a_fragment_of_a_wall_block._the_hieroglyphs_son_of_ra_were_inscribed_over_the_cartouche_of_the_birth-name_of_thutmos_iii._18th_dynasty._from_egypt._the_petrie_museum_of_egyptian_archaeology,_london.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "A wall block fragment inscribed with the birth name of Thutmose III. Now in the Petrie Museum, London",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Thutmose_III",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Thutmose III",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Thutmose_III",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-24-1953-4687b325",
+      "year": 1953,
+      "text": "Winston Churchill is knighted by Queen Elizabeth II.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 80,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/3840px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/330px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sir_winston_churchill_-_19086236948_(restored).jpg",
+        "width": 6036,
+        "height": 7504,
+        "title": "Winston Churchill",
+        "description": "British statesman and writer (1874–1965)",
+        "extract": "Sir Winston Leonard Spencer Churchill was a British statesman, military officer, and writer who was Prime Minister of the United Kingdom from 1940 to 1945, during the Second World War, and again from 1951 to 1955. For some 62 of the years between 1900 and 1964, he was a member of Parliament (MP) and represented a total of five constituencies over that time. Ideologically an adherent to economic liberalism and imperialism, he was for most of his career a member of the Conservative Party, which he led from 1940 to 1955. He was a member of the Liberal Party from 1904 to 1924.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Winston_Churchill",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/3840px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg/330px-Sir_Winston_Churchill_-_19086236948_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sir_winston_churchill_-_19086236948_(restored).jpg",
+          "width": 6036,
+          "height": 7504,
+          "title": "Winston Churchill",
+          "description": "British statesman and writer (1874–1965)",
+          "extract": "Sir Winston Leonard Spencer Churchill was a British statesman, military officer, and writer who was Prime Minister of the United Kingdom from 1940 to 1945, during the Second World War, and again from 1951 to 1955. For some 62 of the years between 1900 and 1964, he was a member of Parliament (MP) and represented a total of five constituencies over that time. Ideologically an adherent to economic liberalism and imperialism, he was for most of his career a member of the Conservative Party, which he led from 1940 to 1955. He was a member of the Liberal Party from 1904 to 1924.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Winston_Churchill",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_elizabeth_ii_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+          "width": 739,
+          "height": 985,
+          "title": "Elizabeth II",
+          "description": "Queen of the United Kingdom from 1952 to 2022",
+          "extract": "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Jennie_Churchill_with_her_sons.jpg/1280px-Jennie_Churchill_with_her_sons.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Jennie_Churchill_with_her_sons.jpg/1280px-Jennie_Churchill_with_her_sons.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "jennie_churchill_with_her_sons.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Jennie Spencer Churchill with her two sons, Jack (left) and Winston (right) in 1889",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Winston_Churchill",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Winston Churchill",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Winston_Churchill",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "04-24-1970-a7c2b7bb",
+      "year": 1970,
+      "text": "China launches Dong Fang Hong I, becoming the fifth nation to put an object into orbit using its own booster.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Dongfanghong-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dongfanghong-1.jpg/330px-Dongfanghong-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "dongfanghong-1.jpg",
+        "width": 1000,
+        "height": 646,
+        "title": "Dong Fang Hong 1",
+        "description": "First satellite launched by China in 1970",
+        "extract": "Dong Fang Hong 1, in the western world also known as China 1 or PRC 1, was the first space satellite of the People's Republic of China (PRC), launched successfully on 24 April 1970 as part of the Dongfanghong program. It was a part of the \"Two Bombs, One Satellite\" program. At 173 kg (381 lb), it was heavier than the first satellites of other countries. The satellite carried a radio transmitter which broadcast the then de facto national anthem of the same name. The broadcast lasted for 20 days while in orbit.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dong_Fang_Hong_1",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Dongfanghong-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dongfanghong-1.jpg/330px-Dongfanghong-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dongfanghong-1.jpg",
+          "width": 1000,
+          "height": 646,
+          "title": "Dong Fang Hong 1",
+          "description": "First satellite launched by China in 1970",
+          "extract": "Dong Fang Hong 1, in the western world also known as China 1 or PRC 1, was the first space satellite of the People's Republic of China (PRC), launched successfully on 24 April 1970 as part of the Dongfanghong program. It was a part of the \"Two Bombs, One Satellite\" program. At 173 kg (381 lb), it was heavier than the first satellites of other countries. The satellite carried a radio transmitter which broadcast the then de facto national anthem of the same name. The broadcast lasted for 20 days while in orbit.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dong_Fang_Hong_1",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/DFH-1_Satellite.jpg/1280px-DFH-1_Satellite.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/DFH-1_Satellite.jpg/1280px-DFH-1_Satellite.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "dfh-1_satellite.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "DFH-1 model satellite",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dong_Fang_Hong_1",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Dong Fang Hong 1",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Dong_Fang_Hong_1",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "04-24-1965-ab304a1e",
+      "year": 1965,
+      "text": "Cold War: The Dominican Civil War broke out due to tensions following a military coup against the democratically elected government of President Juan Bosch two years earlier.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Humanitarian_G.I.%27s._Firefight_where_G.I._pushes_little_kid_under_jeep_for_protection%2C_Santo_Domingo%2C_May_5.%2C_1965_-_NARA_-_541806_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Humanitarian_G.I.%27s._Firefight_where_G.I._pushes_little_kid_under_jeep_for_protection%2C_Santo_Domingo%2C_May_5.%2C_1965_-_NARA_-_541806_%28cropped%29.jpg/330px-Humanitarian_G.I.%27s._Firefight_where_G.I._pushes_little_kid_under_jeep_for_protection%2C_Santo_Domingo%2C_May_5.%2C_1965_-_NARA_-_541806_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "humanitarian_g.i.'s._firefight_where_g.i._pushes_little_kid_under_jeep_for_protection,_santo_domingo,_may_5.,_1965_-_nara_-_541806_(cropped).jpg",
+        "width": 1999,
+        "height": 2132,
+        "title": "Dominican Civil War",
+        "description": "1965 civil war in the Dominican Republic",
+        "extract": "The Dominican Civil War, also known as the April Revolution, took place between April 24 and September 3, 1965, in Santo Domingo, Dominican Republic. It started when civilian and military supporters of the overthrown democratically elected president Juan Bosch ousted the militarily-installed president Donald Reid Cabral from office. The second coup prompted General Elías Wessin y Wessin to organize elements of the military loyal to the dictator Reid (\"loyalists\") and launch an armed campaign against the \"constitutionalist\" rebels.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dominican_Civil_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Humanitarian_G.I.%27s._Firefight_where_G.I._pushes_little_kid_under_jeep_for_protection%2C_Santo_Domingo%2C_May_5.%2C_1965_-_NARA_-_541806_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Humanitarian_G.I.%27s._Firefight_where_G.I._pushes_little_kid_under_jeep_for_protection%2C_Santo_Domingo%2C_May_5.%2C_1965_-_NARA_-_541806_%28cropped%29.jpg/330px-Humanitarian_G.I.%27s._Firefight_where_G.I._pushes_little_kid_under_jeep_for_protection%2C_Santo_Domingo%2C_May_5.%2C_1965_-_NARA_-_541806_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "humanitarian_g.i.'s._firefight_where_g.i._pushes_little_kid_under_jeep_for_protection,_santo_domingo,_may_5.,_1965_-_nara_-_541806_(cropped).jpg",
+          "width": 1999,
+          "height": 2132,
+          "title": "Dominican Civil War",
+          "description": "1965 civil war in the Dominican Republic",
+          "extract": "The Dominican Civil War, also known as the April Revolution, took place between April 24 and September 3, 1965, in Santo Domingo, Dominican Republic. It started when civilian and military supporters of the overthrown democratically elected president Juan Bosch ousted the militarily-installed president Donald Reid Cabral from office. The second coup prompted General Elías Wessin y Wessin to organize elements of the military loyal to the dictator Reid (\"loyalists\") and launch an armed campaign against the \"constitutionalist\" rebels.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dominican_Civil_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Juan_Bosch_%281963%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Juan_Bosch_%281963%29.jpg/330px-Juan_Bosch_%281963%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "juan_bosch_(1963).jpg",
+          "width": 791,
+          "height": 1055,
+          "title": "Juan Bosch (politician)",
+          "description": "20th-century Dominican politician and writer",
+          "extract": "Juan Emilio Bosch y Gaviño, also known as El Profesor, was a Dominican politician, historian, writer, essayist, educator, and the first democratically elected president of the Dominican Republic for seven months in 1963.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Juan_Bosch_(politician)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Cold War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cold_War",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-24-1963-3d231743",
+      "year": 1963,
+      "text": "Marriage of Princess Alexandra of Kent to Angus Ogilvy at Westminster Abbey in London.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HRH_The_Princess_Alexandra_04_25_10.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HRH_The_Princess_Alexandra_04_25_10.png/330px-HRH_The_Princess_Alexandra_04_25_10.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hrh_the_princess_alexandra_04_25_10.png",
+        "width": 439,
+        "height": 711,
+        "title": "Princess Alexandra of Kent",
+        "description": "British princess (born 1936)",
+        "extract": "Princess Alexandra, The Honourable Lady Ogilvy, is a member of the British royal family. She is the only daughter of Prince George, Duke of Kent, and Princess Marina of Greece and Denmark, the only living granddaughter of George V, a niece of Edward VIII and George VI, and a first cousin of Elizabeth II. Alexandra's mother was also a first cousin of Prince Philip, Duke of Edinburgh, consort of Elizabeth II, making her both a second cousin and first cousin once removed of Charles III.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Princess_Alexandra_of_Kent",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HRH_The_Princess_Alexandra_04_25_10.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HRH_The_Princess_Alexandra_04_25_10.png/330px-HRH_The_Princess_Alexandra_04_25_10.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hrh_the_princess_alexandra_04_25_10.png",
+          "width": 439,
+          "height": 711,
+          "title": "Princess Alexandra of Kent",
+          "description": "British princess (born 1936)",
+          "extract": "Princess Alexandra, The Honourable Lady Ogilvy, is a member of the British royal family. She is the only daughter of Prince George, Duke of Kent, and Princess Marina of Greece and Denmark, the only living granddaughter of George V, a niece of Edward VIII and George VI, and a first cousin of Elizabeth II. Alexandra's mother was also a first cousin of Prince Philip, Duke of Edinburgh, consort of Elizabeth II, making her both a second cousin and first cousin once removed of Charles III.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Princess_Alexandra_of_Kent",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Angus_Ogilvy_in_1978.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Angus_Ogilvy_in_1978.jpg/330px-Angus_Ogilvy_in_1978.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "angus_ogilvy_in_1978.jpg",
+          "width": 1200,
+          "height": 1600,
+          "title": "Angus Ogilvy",
+          "description": "British businessman (1928–2004)",
+          "extract": "Sir Angus James Bruce Ogilvy was a British businessman, courtier, and philanthropist. He is best known as the husband of Princess Alexandra of Kent. Ogilvy is also remembered for his role in a business scandal, known as the Lonrho affair, involving the breaking of sanctions against Rhodesia during the 1970s. In later years, he was involved in charity work.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Angus_Ogilvy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Westminster_Abbey%2C_Westminster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Westminster_Abbey%2C_Westminster.jpg/330px-Westminster_Abbey%2C_Westminster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "westminster_abbey,_westminster.jpg",
+          "width": 2292,
+          "height": 4608,
+          "title": "Westminster Abbey",
+          "description": "Church in London, England",
+          "extract": "Westminster Abbey, formally titled the Collegiate Church of Saint Peter at Westminster, is an Anglican church in the City of Westminster, London, England. Since 1066, it has been the location of the coronations of 40 English and British monarchs and a burial site for 18 English, Scottish, and British monarchs. At least 16 royal weddings have taken place at the abbey since 1100.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Princess Alexandra of Kent",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Princess_Alexandra_of_Kent",
+      "relatedPagesCount": 3
+    }
+  ]
+}

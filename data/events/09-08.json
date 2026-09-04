@@ -1,0 +1,643 @@
+{
+  "date": {
+    "month": 9,
+    "day": 8,
+    "formatted": "09-08"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "09-08-2016-9e5f9255",
+      "year": 2016,
+      "text": "NASA launches OSIRIS-REx, its first asteroid sample return mission. The probe visited 101955 Bennu and returned with samples in September 2023.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/OSIRIS-REx_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/OSIRIS-REx_spacecraft_model.png/330px-OSIRIS-REx_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "osiris-rex_spacecraft_model.png",
+        "width": 2068,
+        "height": 2096,
+        "title": "OSIRIS-REx",
+        "description": "NASA asteroid sample return mission (2016-2023)",
+        "extract": "OSIRIS-REx was a NASA asteroid-study and sample-return mission that visited and collected samples from 101955 Bennu, a carbonaceous near-Earth asteroid. The material, returned in September 2023, is expected to enable scientists to learn more about the formation and evolution of the Solar System, its initial stages of planet formation, and the source of organic compounds that led to the formation of life on Earth. Following the completion of the primary OSIRIS-REx mission, the spacecraft, renamed as OSIRIS-APEX, began a follow-up mission to asteroid 99942 Apophis.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/OSIRIS-REx",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/OSIRIS-REx_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/OSIRIS-REx_spacecraft_model.png/330px-OSIRIS-REx_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "osiris-rex_spacecraft_model.png",
+          "width": 2068,
+          "height": 2096,
+          "title": "OSIRIS-REx",
+          "description": "NASA asteroid sample return mission (2016-2023)",
+          "extract": "OSIRIS-REx was a NASA asteroid-study and sample-return mission that visited and collected samples from 101955 Bennu, a carbonaceous near-Earth asteroid. The material, returned in September 2023, is expected to enable scientists to learn more about the formation and evolution of the Solar System, its initial stages of planet formation, and the source of organic compounds that led to the formation of life on Earth. Following the completion of the primary OSIRIS-REx mission, the spacecraft, renamed as OSIRIS-APEX, began a follow-up mission to asteroid 99942 Apophis.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/OSIRIS-REx",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bennu_mosaic_OSIRIS-REx_%28square%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bennu_mosaic_OSIRIS-REx_%28square%29.png/330px-Bennu_mosaic_OSIRIS-REx_%28square%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bennu_mosaic_osiris-rex_(square).png",
+          "width": 2500,
+          "height": 2500,
+          "title": "101955 Bennu",
+          "description": "Carbonaceous Apollo asteroid",
+          "extract": "101955 Bennu (provisional designation 1999 RQ36) is a carbonaceous asteroid in the Apollo group, discovered by the LINEAR Project on 11 September 1999. It is a potentially hazardous object that is listed on the Sentry Risk Table and has the second highest cumulative rating on the Palermo scale. It has a cumulative chance of around 1 in 1,750 of impacting Earth between 2178 and 2290 with the greatest risk being on 24 September 2182. It is named after Bennu, the ancient Egyptian mythological bird associated with the Sun, creation, and rebirth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/101955_Bennu",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/KSC-20160819-PH_GEB01_0024_%2828869645070%29.jpg/1280px-KSC-20160819-PH_GEB01_0024_%2828869645070%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/KSC-20160819-PH_GEB01_0024_%2828869645070%29.jpg/1280px-KSC-20160819-PH_GEB01_0024_%2828869645070%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "ksc-20160819-ph_geb01_0024_(28869645070).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "OSIRIS-REx in Launch Configuration",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/OSIRIS-REx",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "OSIRIS-REx",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/OSIRIS-REx",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-08-2004-880fde10",
+      "year": 2004,
+      "text": "NASA's uncrewed spacecraft Genesis crash-lands when its parachute fails to open.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/GenSC_collection2_150dpi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/GenSC_collection2_150dpi.jpg/330px-GenSC_collection2_150dpi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "gensc_collection2_150dpi.jpg",
+        "width": 1200,
+        "height": 850,
+        "title": "Genesis (spacecraft)",
+        "description": "NASA sample return probe",
+        "extract": "Genesis was a NASA sample-return probe that collected a sample of solar wind particles and returned them to Earth for analysis. It was the first NASA sample-return mission to return material since the Apollo program, and the first to return material from beyond the orbit of the Moon. Genesis was launched on August 8, 2001, and the sample return capsule crash-landed in Utah on September 8, 2004, after a design flaw prevented the deployment of its drogue parachute. The crash contaminated many of the sample collectors. Although most were damaged, some of the collectors were successfully recovered.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Genesis_(spacecraft)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/GenSC_collection2_150dpi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/GenSC_collection2_150dpi.jpg/330px-GenSC_collection2_150dpi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gensc_collection2_150dpi.jpg",
+          "width": 1200,
+          "height": 850,
+          "title": "Genesis (spacecraft)",
+          "description": "NASA sample return probe",
+          "extract": "Genesis was a NASA sample-return probe that collected a sample of solar wind particles and returned them to Earth for analysis. It was the first NASA sample-return mission to return material since the Apollo program, and the first to return material from beyond the orbit of the Moon. Genesis was launched on August 8, 2001, and the sample return capsule crash-landed in Utah on September 8, 2004, after a design flaw prevented the deployment of its drogue parachute. The crash contaminated many of the sample collectors. Although most were damaged, some of the collectors were successfully recovered.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Genesis_(spacecraft)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Genesis_insignia.png/500px-Genesis_insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Genesis_insignia.png/500px-Genesis_insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "genesis_insignia.png",
+          "width": 800,
+          "height": 600,
+          "title": "Genesis_insignia",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Genesis_(spacecraft)",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Genesis_spacecraft.jpg/960px-Genesis_spacecraft.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Genesis_spacecraft.jpg/960px-Genesis_spacecraft.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "genesis_spacecraft.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Genesis_spacecraft",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Genesis_(spacecraft)",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Genesis (spacecraft)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Genesis_(spacecraft)",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "09-08-2000-c4e2fc1c",
+      "year": 2000,
+      "text": "NASA launches Space Shuttle Atlantis on STS-106 to resupply the International Space Station.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+        "width": 3697,
+        "height": 2217,
+        "title": "Space Shuttle Atlantis",
+        "description": "Space Shuttle orbiter (1985–2011)",
+        "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
+          "width": 3697,
+          "height": 2217,
+          "title": "Space Shuttle Atlantis",
+          "description": "Space Shuttle orbiter (1985–2011)",
+          "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/STS106_Malenchenko_EVA1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/STS106_Malenchenko_EVA1.jpg/330px-STS106_Malenchenko_EVA1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts106_malenchenko_eva1.jpg",
+          "width": 3072,
+          "height": 2048,
+          "title": "STS-106",
+          "description": "2000 American crewed spaceflight to the ISS",
+          "extract": "STS-106 was a 2000 Space Shuttle mission to the International Space Station (ISS) flown by Space Shuttle Atlantis.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-106",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/3840px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/330px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iss-56_international_space_station_fly-around_(07).jpg",
+          "width": 6048,
+          "height": 4032,
+          "title": "International Space Station",
+          "description": "Modular space station in low Earth orbit",
+          "extract": "The International Space Station (ISS) is a space station in low Earth orbit (LEO). It is the product of the International Space Station program and is operated by five partner space agencies: NASA, Roscosmos (Russia), ESA (Europe), JAXA (Japan), and CSA (Canada). It is the first space station built, maintained and crewed through international cooperation and the largest human spacecraft ever constructed. It is an orbital research station, where scientific experiments in microgravity are conducted and the space environment is studied. Since 2 November 2000, it has hosted the longest continuous human presence in space. Alongside China's Tiangong, it is one of two operational space stations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/International_Space_Station",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Atlantis",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-08-1970-f29ea75b",
+      "year": 1970,
+      "text": "Trans International Airlines Flight 863 crashes during takeoff from John F. Kennedy International Airport in New York City, killing all 11 aboard.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/N4866T_DC-8-63CF_Trans_International_MAN_AUG74_%285586867944%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/N4866T_DC-8-63CF_Trans_International_MAN_AUG74_%285586867944%29.jpg/330px-N4866T_DC-8-63CF_Trans_International_MAN_AUG74_%285586867944%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "n4866t_dc-8-63cf_trans_international_man_aug74_(5586867944).jpg",
+        "width": 1800,
+        "height": 1200,
+        "title": "Trans International Airlines Flight 863",
+        "description": "1970 aviation accident",
+        "extract": "Trans International Airlines Flight 863 was a ferry flight from John F. Kennedy International Airport in New York City to Washington Dulles International Airport. On September 8, 1970, the Douglas DC-8 crashed during take-off from JFK's runway 13R. None of the 11 occupants, who were all crew members, survived.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Trans_International_Airlines_Flight_863",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/N4866T_DC-8-63CF_Trans_International_MAN_AUG74_%285586867944%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/N4866T_DC-8-63CF_Trans_International_MAN_AUG74_%285586867944%29.jpg/330px-N4866T_DC-8-63CF_Trans_International_MAN_AUG74_%285586867944%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "n4866t_dc-8-63cf_trans_international_man_aug74_(5586867944).jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": "Trans International Airlines Flight 863",
+          "description": "1970 aviation accident",
+          "extract": "Trans International Airlines Flight 863 was a ferry flight from John F. Kennedy International Airport in New York City to Washington Dulles International Airport. On September 8, 1970, the Douglas DC-8 crashed during take-off from JFK's runway 13R. None of the 11 occupants, who were all crew members, survived.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Trans_International_Airlines_Flight_863",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/3840px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/JFK_Aerial_Nov_14_2018.jpg/330px-JFK_Aerial_Nov_14_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jfk_aerial_nov_14_2018.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": "John F. Kennedy International Airport",
+          "description": "International airport serving New York City",
+          "extract": "John F. Kennedy International Airport is a major international airport serving the New York metropolitan area. It is located on the southwestern shore of Long Island, in Queens, New York City, bordering Jamaica Bay. It is the busiest of the seven airports in the New York airport system, the sixth-busiest airport in the United States and the busiest international commercial airport in North America. The airport, which covers 5,200 acres (2,104 ha), is the largest in the New York metropolitan area. Nearly 100 airlines operate from JFK Airport, with nonstop or direct flights to destinations on all six permanently inhabited continents.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "view_of_empire_state_building_from_rockefeller_center_new_york_city_dllu_(cropped).jpg",
+          "width": 8207,
+          "height": 4616,
+          "title": "New York City",
+          "description": "Most populous city in the United States",
+          "extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance and commerce, culture, entertainment and media, academics and scientific output, the arts and fashion, and, as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/New_York_City",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Trans International Airlines Flight 863",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Trans_International_Airlines_Flight_863",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-08-1966-39db547a",
+      "year": 1966,
+      "text": "The science fiction show Star Trek made its American premiere with \"The Man Trap\", launching a media franchise that has since created a cult phenomenon and has influenced the design of many current technologies.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/8/8f/%22The_Man_Trap%22_%28Star_Trek%29_screenshot.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/%22The_Man_Trap%22_%28Star_Trek%29_screenshot.jpeg/330px-%22The_Man_Trap%22_%28Star_Trek%29_screenshot.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "\"the_man_trap\"_(star_trek)_screenshot.jpeg",
+        "width": 350,
+        "height": 262,
+        "title": "The Man Trap",
+        "description": "1st episode of the 1st season of Star Trek: The Original Series",
+        "extract": "\"The Man Trap\" is the first episode of the American science fiction television series Star Trek to be broadcast. It aired on NBC on September 8, 1966. Set in the 23rd century, the series follows the adventures of Captain James T. Kirk and his crew aboard the Starfleet starship USS Enterprise. In this episode, the crew visit an outpost to conduct medical exams on the residents, only to be attacked by a shapeshifting alien creature seeking to extract salt from their bodies. \"The Man Trap\" was written by George Clayton Johnson and directed by Marc Daniels.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/The_Man_Trap",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/8f/%22The_Man_Trap%22_%28Star_Trek%29_screenshot.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/%22The_Man_Trap%22_%28Star_Trek%29_screenshot.jpeg/330px-%22The_Man_Trap%22_%28Star_Trek%29_screenshot.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "\"the_man_trap\"_(star_trek)_screenshot.jpeg",
+          "width": 350,
+          "height": 262,
+          "title": "The Man Trap",
+          "description": "1st episode of the 1st season of Star Trek: The Original Series",
+          "extract": "\"The Man Trap\" is the first episode of the American science fiction television series Star Trek to be broadcast. It aired on NBC on September 8, 1966. Set in the 23rd century, the series follows the adventures of Captain James T. Kirk and his crew aboard the Starfleet starship USS Enterprise. In this episode, the crew visit an outpost to conduct medical exams on the residents, only to be attacked by a shapeshifting alien creature seeking to extract salt from their bodies. \"The Man Trap\" was written by George Clayton Johnson and directed by Marc Daniels.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Man_Trap",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2014_G20_Brisbane_on_Parade_-_AndrewMercer_-_IMG17128_-_Trekkies.jpg/3840px-2014_G20_Brisbane_on_Parade_-_AndrewMercer_-_IMG17128_-_Trekkies.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/2014_G20_Brisbane_on_Parade_-_AndrewMercer_-_IMG17128_-_Trekkies.jpg/330px-2014_G20_Brisbane_on_Parade_-_AndrewMercer_-_IMG17128_-_Trekkies.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2014_g20_brisbane_on_parade_-_andrewmercer_-_img17128_-_trekkies.jpg",
+          "width": 5184,
+          "height": 3456,
+          "title": "Cult following",
+          "description": "Group of fans who are highly dedicated to a specific area of culture",
+          "extract": "A cult following is a group of fans who are highly dedicated to a person, idea, object, movement, or work, often an artist, in particular a performing artist, or an artwork in some medium. The latter is often called a cult classic. A film, book, musical artist, internet personality, television series, or video game, among other things, is said to have a cult following when it has a very passionate fanbase.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cult_following",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Star Trek: The Original Series",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Star_Trek%3A_The_Original_Series",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "09-08-1974-96836491",
+      "year": 1974,
+      "text": "Watergate scandal: U.S. president Gerald Ford gave his recently resigned predecessor Richard Nixon a controversial full and unconditional pardon for any crimes he committed while in office.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/330px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "watergate_complex.jpg",
+        "width": 2071,
+        "height": 1584,
+        "title": "Watergate scandal",
+        "description": "1970s political scandal in the U.S.",
+        "extract": "The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex. Nixon's efforts to conceal his administration's involvement led to an impeachment process and his resignation in August 1974.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Watergate_scandal",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Watergate_complex.jpg/330px-Watergate_complex.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "watergate_complex.jpg",
+          "width": 2071,
+          "height": 1584,
+          "title": "Watergate scandal",
+          "description": "1970s political scandal in the U.S.",
+          "extract": "The Watergate scandal, or simply Watergate, was a political scandal in the United States involving the administration of President Richard Nixon. On June 17, 1972, operatives associated with Nixon's 1972 re-election campaign were caught burglarizing and planting listening devices in the Democratic National Committee headquarters at Washington, D.C.'s Watergate complex. Nixon's efforts to conceal his administration's involvement led to an impeachment process and his resignation in August 1974.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Watergate_scandal",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Gerald_Ford_presidential_portrait_%28cropped%29.jpg/330px-Gerald_Ford_presidential_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gerald_ford_presidential_portrait_(cropped).jpg",
+          "width": 2200,
+          "height": 2741,
+          "title": "Gerald Ford",
+          "description": "President of the United States from 1974 to 1977",
+          "extract": "Gerald Rudolph Ford Jr. was the 38th president of the United States, serving from 1974 to 1977. He assumed the presidency after the resignation of Richard Nixon, under whom he served as the 40th vice president from 1973 to 1974, after the resignation of Spiro Agnew. A member of the Republican Party, Ford previously served in the United States House of Representatives from 1949 to 1973.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gerald_Ford",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
+          "width": 2136,
+          "height": 2830,
+          "title": "Richard Nixon",
+          "description": "President of the United States from 1969 to 1974",
+          "extract": "Richard Milhous Nixon was the 37th president of the United States, serving from 1969 until his resignation in 1974. A member of the Republican Party, he represented California in both houses of the United States Congress before serving as the 36th vice president under President Dwight D. Eisenhower from 1953 to 1961. His presidency saw the reduction of U.S. involvement in the Vietnam War, détente with the Soviet Union and China, the Apollo 11 Moon landing, and the establishment of the Environmental Protection Agency and Occupational Safety and Health Administration. Nixon's second term ended early when he became the only U.S. president to resign from office, as a result of the Watergate scandal.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Watergate scandal",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Watergate_scandal",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-08-2023-f22ebf50",
+      "year": 2023,
+      "text": "The 2023 Rugby World Cup, the tenth men's Rugby World Cup is held in France. The opening ceremony, directed and written by Jean Dujardin, Olivier Ferracci and Nora Matthey, took place at the Stade de France in Saint-Denis, before the opening match between France and New Zealand, which saw the host nation winning 27 to 13.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Christophe_Lambert_et_Jean_Dujardin_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Christophe_Lambert_et_Jean_Dujardin_%28Cropped%29.jpg/330px-Christophe_Lambert_et_Jean_Dujardin_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "christophe_lambert_et_jean_dujardin_(cropped).jpg",
+        "width": 439,
+        "height": 675,
+        "title": "Jean Dujardin",
+        "description": "French actor (born 1972)",
+        "extract": "Jean Edmond Dujardin is a French actor and comedian. He began his career as a stand-up comedian in Paris before guest starring in comedic television programmes and films. He first came to prominence with the popular TV series Un gars, une fille (1999–2003), in which he starred alongside his partner Alexandra Lamy, before becoming a popular film actor with comedies such as Brice de Nice (2005), Michel Hazanavicius's OSS 117: Cairo, Nest of Spies (2006), its sequel OSS 117: Lost in Rio (2009) and OSS 117: From Africa with Love (2021), and 99 Francs (2007).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jean_Dujardin",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Christophe_Lambert_et_Jean_Dujardin_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Christophe_Lambert_et_Jean_Dujardin_%28Cropped%29.jpg/330px-Christophe_Lambert_et_Jean_Dujardin_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "christophe_lambert_et_jean_dujardin_(cropped).jpg",
+          "width": 439,
+          "height": 675,
+          "title": "Jean Dujardin",
+          "description": "French actor (born 1972)",
+          "extract": "Jean Edmond Dujardin is a French actor and comedian. He began his career as a stand-up comedian in Paris before guest starring in comedic television programmes and films. He first came to prominence with the popular TV series Un gars, une fille (1999–2003), in which he starred alongside his partner Alexandra Lamy, before becoming a popular film actor with comedies such as Brice de Nice (2005), Michel Hazanavicius's OSS 117: Cairo, Nest of Spies (2006), its sequel OSS 117: Lost in Rio (2009) and OSS 117: From Africa with Love (2021), and 99 Francs (2007).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jean_Dujardin",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/France-Islande_Stade_de_France_03.jpg/3840px-France-Islande_Stade_de_France_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/France-Islande_Stade_de_France_03.jpg/330px-France-Islande_Stade_de_France_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "france-islande_stade_de_france_03.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": "Stade de France",
+          "description": "Stadium in Saint-Denis, Paris, France",
+          "extract": "Stade de France is the national stadium of France, located just north of Paris in the commune of Saint-Denis. Its seating capacity of 81,338 makes it the largest stadium in France. The stadium is used by the French national football team and rugby union teams for international competitions. It is the largest in Europe for athletics events, seating 77,083 in that configuration. During other events, the stadium's running track is mostly hidden under the grandstands.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Stade_de_France",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Saint-Denis_Basilique_Saint-Denis_Fassade_1.jpg/3840px-Saint-Denis_Basilique_Saint-Denis_Fassade_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Saint-Denis_Basilique_Saint-Denis_Fassade_1.jpg/330px-Saint-Denis_Basilique_Saint-Denis_Fassade_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "saint-denis_basilique_saint-denis_fassade_1.jpg",
+          "width": 4323,
+          "height": 3018,
+          "title": "Saint-Denis, Seine-Saint-Denis",
+          "description": "Subprefecture and commune in Île-de-France, France",
+          "extract": "Saint-Denis is a commune in the northern suburbs of Paris, France. It is located 9.4 kilometres from the centre of Paris. Saint-Denis is the most populated suburb of Paris, with a population of 149,077 as of 2023. It is a subprefecture of the department of Seine-Saint-Denis, being the seat of the arrondissement of Saint-Denis. It is also part of the Métropole du Grand Paris.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Saint-Denis%2C_Seine-Saint-Denis",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "2023 Rugby World Cup",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2023_Rugby_World_Cup",
+      "relatedPagesCount": 8
+    },
+    {
+      "id": "09-08-2022-3ddf5fdf",
+      "year": 2022,
+      "text": "Queen Elizabeth II (pictured) died at Balmoral Castle in Scotland; her eldest son Charles III acceded to the throne as King of the United Kingdom and other Commonwealth realms.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "queen_elizabeth_ii_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+        "width": 739,
+        "height": 985,
+        "title": "Elizabeth II",
+        "description": "Queen of the United Kingdom from 1952 to 2022",
+        "extract": "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_elizabeth_ii_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+          "width": 739,
+          "height": 985,
+          "title": "Elizabeth II",
+          "description": "Queen of the United Kingdom from 1952 to 2022",
+          "extract": "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg/3840px-Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg/330px-Queen_Elizabeth_II_Funeral_Procession_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_elizabeth_ii_funeral_procession_(1).jpg",
+          "width": 4763,
+          "height": 3167,
+          "title": "Death and state funeral of Elizabeth II",
+          "description": "",
+          "extract": "Elizabeth II, Queen of the United Kingdom and other Commonwealth realms, died on 8 September 2022 at Balmoral Castle in Scotland, at the age of 96. Elizabeth's reign of 70 years and 214 days is the longest of any British monarch. She was immediately succeeded by her eldest child, Charles III.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Elizabeth_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Balmoral_Castle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Balmoral_Castle.jpg/330px-Balmoral_Castle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "balmoral_castle.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": "Balmoral Castle",
+          "description": "Royal residence in Aberdeenshire, Scotland",
+          "extract": "Balmoral Castle is a large estate house in Aberdeenshire, Scotland, and a residence of the British royal family. It is near the village of Crathie, 9 miles (14 km) west of Ballater and 50 miles (80 km) west of Aberdeen.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Balmoral_Castle",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Elizabeth II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "09-08-1905-5d7dc3bc",
+      "year": 1905,
+      "text": "The 7.2 Mw Calabria earthquake shakes southern Italy with a maximum Mercalli intensity of XI (Extreme), killing between 557 and 2,500 people.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/1755_Lisbon_earthquake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/1755_Lisbon_earthquake.jpg/330px-1755_Lisbon_earthquake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "1755_lisbon_earthquake.jpg",
+        "width": 998,
+        "height": 593,
+        "title": "Modified Mercalli intensity scale",
+        "description": "Seismic intensity scale used to quantify the degree of shaking during earthquakes",
+        "extract": "The Modified Mercalli intensity scale measures the effects of an earthquake at a given location. This is in contrast with the seismic magnitude usually reported for an earthquake.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Modified_Mercalli_intensity_scale",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/1755_Lisbon_earthquake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/1755_Lisbon_earthquake.jpg/330px-1755_Lisbon_earthquake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1755_lisbon_earthquake.jpg",
+          "width": 998,
+          "height": 593,
+          "title": "Modified Mercalli intensity scale",
+          "description": "Seismic intensity scale used to quantify the degree of shaking during earthquakes",
+          "extract": "The Modified Mercalli intensity scale measures the effects of an earthquake at a given location. This is in contrast with the seismic magnitude usually reported for an earthquake.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Modified_Mercalli_intensity_scale",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Siculo-Calabrian_Rift.png/1280px-Siculo-Calabrian_Rift.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Siculo-Calabrian_Rift.png/1280px-Siculo-Calabrian_Rift.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "siculo-calabrian_rift.png",
+          "width": 800,
+          "height": 600,
+          "title": "Major faults associated with the Siculo-Calabrian rift",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1905_Calabria_earthquake",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "1905 Calabria earthquake",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/1905_Calabria_earthquake",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-08-1975-ddcd15ca",
+      "year": 1975,
+      "text": "Gays in the military: US Air Force Tech Sergeant Leonard Matlovich, a decorated veteran of the Vietnam War, appears in his Air Force uniform on the cover of Time magazine with the headline \"I Am A Homosexual\". He is given a general discharge, later upgraded to honorable.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Matlovich_time_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/f/f5/Matlovich_time_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "matlovich_time_cover.jpg",
+        "width": 275,
+        "height": 362,
+        "title": "Leonard Matlovich",
+        "description": "US Airman and LGBTQ rights activist (1943–1988)",
+        "extract": "Technical Sergeant Leonard Phillip Matlovich was an American Vietnam War veteran, race relations instructor, and recipient of the Purple Heart and the Bronze Star. He was the first gay service member to purposely out himself to the military to fight their ban on gay people, and perhaps the best-known openly gay man in the United States of America in the 1970s next to Harvey Milk. His fight to stay in the United States Air Force after coming out of the closet became a cause célèbre around which the gay community rallied. His case resulted in articles in newspapers and magazines throughout the country, numerous television interviews, and a television movie on NBC.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Leonard_Matlovich",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Matlovich_time_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/f/f5/Matlovich_time_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "matlovich_time_cover.jpg",
+          "width": 275,
+          "height": 362,
+          "title": "Leonard Matlovich",
+          "description": "US Airman and LGBTQ rights activist (1943–1988)",
+          "extract": "Technical Sergeant Leonard Phillip Matlovich was an American Vietnam War veteran, race relations instructor, and recipient of the Purple Heart and the Bronze Star. He was the first gay service member to purposely out himself to the military to fight their ban on gay people, and perhaps the best-known openly gay man in the United States of America in the 1970s next to Harvey Milk. His fight to stay in the United States Air Force after coming out of the closet became a cause célèbre around which the gay community rallied. His case resulted in articles in newspapers and magazines throughout the country, numerous television interviews, and a television movie on NBC.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Leonard_Matlovich",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "LGBTQ people and military service",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/LGBTQ_people_and_military_service",
+      "relatedPagesCount": 2
+    }
+  ]
+}

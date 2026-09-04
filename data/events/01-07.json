@@ -1,0 +1,631 @@
+{
+  "date": {
+    "month": 1,
+    "day": 7,
+    "formatted": "01-07"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "01-07-1968-2e36d92e",
+      "year": 1968,
+      "text": "Surveyor program: Surveyor 7, the last spacecraft in the Surveyor series, lifts off from Cape Canaveral Launch Complex 36A.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/M175355093L_thumb_4x.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/M175355093L_thumb_4x.png/330px-M175355093L_thumb_4x.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "m175355093l_thumb_4x.png",
+        "width": 989,
+        "height": 989,
+        "title": "Surveyor 7",
+        "description": "American lunar lander",
+        "extract": "Surveyor 7 was sent to the Moon in 1968 on a scientific and photographic mission as the seventh and last lunar lander of the American uncrewed Surveyor program. With two previous unsuccessful missions in the Surveyor series, and with Surveyor 7's landing success, Surveyor 7 became the fifth and final spacecraft in the series to achieve a lunar soft landing. A total of 21,091 pictures were transmitted from Surveyor 7 back to Earth.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Surveyor_7",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/M175355093L_thumb_4x.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/M175355093L_thumb_4x.png/330px-M175355093L_thumb_4x.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "m175355093l_thumb_4x.png",
+          "width": 989,
+          "height": 989,
+          "title": "Surveyor 7",
+          "description": "American lunar lander",
+          "extract": "Surveyor 7 was sent to the Moon in 1968 on a scientific and photographic mission as the seventh and last lunar lander of the American uncrewed Surveyor program. With two previous unsuccessful missions in the Surveyor series, and with Surveyor 7's landing success, Surveyor 7 became the fifth and final spacecraft in the series to achieve a lunar soft landing. A total of 21,091 pictures were transmitted from Surveyor 7 back to Earth.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Surveyor_7",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/New_Glenn_-_BlueBird_7_Launch_%289628275%29.jpg/3840px-New_Glenn_-_BlueBird_7_Launch_%289628275%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/New_Glenn_-_BlueBird_7_Launch_%289628275%29.jpg/330px-New_Glenn_-_BlueBird_7_Launch_%289628275%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "new_glenn_-_bluebird_7_launch_(9628275).jpg",
+          "width": 6048,
+          "height": 4024,
+          "title": "Cape Canaveral Launch Complex 36",
+          "description": "Launch complex at Cape Canaveral Space Force Station in Brevard County, Florida 36",
+          "extract": "Launch Complex 36 (LC-36) is a launch complex located at the Cape Canaveral Space Force Station in Florida. Located south of the Missile Row launch range, the complex originally consisted of two pads—designated LC-36A and LC-36B—to support the flights of Atlas launch vehicles equipped with a Centaur upper stage. From the 1960s to the 1980s, LC-36 was used by NASA and the United States Air Force to launch many payloads from the Atlas-Centaur and its derivatives, including the Pioneer, Surveyor, and Mariner probes. During the late 1980s, LC-36B was also used to launch the Atlas G, and General Dynamics modified the two pads to support the larger Atlas I, Atlas II, and Atlas III throughout the 1990s and early 2000s.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cape_Canaveral_Launch_Complex_36",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/1965_Typical_Atlas_Centaur_Stages.jpg/500px-1965_Typical_Atlas_Centaur_Stages.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/1965_Typical_Atlas_Centaur_Stages.jpg/500px-1965_Typical_Atlas_Centaur_Stages.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "1965_typical_atlas_centaur_stages.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Atlas-Centaur injecting a Surveyor lander directly into trans-lunar flightpath",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Surveyor_program",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Surveyor program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Surveyor_program",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-07-1948-d0c3c15f",
+      "year": 1948,
+      "text": "Air National Guard pilot Thomas Mantell, flying in pursuit of an alleged UFO, was killed when his P-51 Mustang crashed near Fort Knox, Kentucky.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm/500px--Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm.jpg",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm/330px--Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm.jpg",
+        "canonicalKey": "-gimbal_the_first_official_uap_footage_from_the_usg_for_public_release.webm.jpg",
+        "width": 640,
+        "height": 480,
+        "title": "Unidentified flying object",
+        "description": "Apparent unusual observation in the sky",
+        "extract": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are also known as unidentified aerial phenomena or unidentified anomalous phenomena (UAPs). Upon investigation, most UFOs are identified as known objects, natural phenomena, hoaxes, or mirages, while a small number remain unexplained.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Unidentified_flying_object",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm/500px--Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm/330px--Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm.jpg",
+          "canonicalKey": "-gimbal_the_first_official_uap_footage_from_the_usg_for_public_release.webm.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "Unidentified flying object",
+          "description": "Apparent unusual observation in the sky",
+          "extract": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are also known as unidentified aerial phenomena or unidentified anomalous phenomena (UAPs). Upon investigation, most UFOs are identified as known objects, natural phenomena, hoaxes, or mirages, while a small number remain unexplained.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Unidentified_flying_object",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/P-51-361.jpg/3840px-P-51-361.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/P-51-361.jpg/330px-P-51-361.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "p-51-361.jpg",
+          "width": 5054,
+          "height": 3446,
+          "title": "North American P-51 Mustang",
+          "description": "American WWII-era fighter aircraft",
+          "extract": "The North American Aviation P-51 Mustang is an American long-range, single-seat fighter and fighter-bomber used during World War II and the Korean War, among other conflicts. The Mustang was designed in 1940 by a team headed by James H. Kindelberger of North American Aviation (NAA) in response to a request from the British Purchasing Commission. The commission approached NAA to build Curtiss P-40 fighters under license for the Royal Air Force (RAF). Rather than build an old design from another company, NAA proposed the design and production of a more modern fighter. The prototype NA-73X airframe was completed on 9 September 1940, 102 days after contract signing, achieving its first flight on 26 October.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/North_American_P-51_Mustang",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/9/9d/Fort_Knox_tank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Fort_Knox_tank.jpg/330px-Fort_Knox_tank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fort_knox_tank.jpg",
+          "width": 1114,
+          "height": 800,
+          "title": "Fort Knox",
+          "description": "United States Army post in Kentucky, United States",
+          "extract": "Fort Knox is a United States Army installation in Kentucky, south of Louisville and north of Elizabethtown. It is adjacent to the United States Bullion Depository, which is used to house a large portion of the United States' official gold reserves, and with which it is often conflated.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fort_Knox",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Kentucky Air National Guard",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Kentucky_Air_National_Guard",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "01-07-1991-e30cb43d",
+      "year": 1991,
+      "text": "Roger Lafontant, former leader of the Tonton Macoute in Haiti under François Duvalier, attempts a coup d'état, which ends in his arrest.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Minister_Roger_Lafontant.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Minister_Roger_Lafontant.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "minister_roger_lafontant.png",
+        "width": 190,
+        "height": 236,
+        "title": "Roger Lafontant",
+        "description": "Haitian minister and leader of the Tonton Macoutes",
+        "extract": "Roger Lafontant was the former leader of the Tonton Macoutes and a former minister in the government of Haitian dictator Jean-Claude Duvalier. He was the leader of an attempted coup d'état in January 1991, an effort which ultimately led to his death.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Lafontant",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Minister_Roger_Lafontant.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Minister_Roger_Lafontant.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "minister_roger_lafontant.png",
+          "width": 190,
+          "height": 236,
+          "title": "Roger Lafontant",
+          "description": "Haitian minister and leader of the Tonton Macoutes",
+          "extract": "Roger Lafontant was the former leader of the Tonton Macoutes and a former minister in the government of Haitian dictator Jean-Claude Duvalier. He was the leader of an attempted coup d'état in January 1991, an effort which ultimately led to his death.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Roger_Lafontant",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fran%C3%A7ois_Duvalier_Presidential_Portrait_%281957%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Fran%C3%A7ois_Duvalier_Presidential_Portrait_%281957%29.png/330px-Fran%C3%A7ois_Duvalier_Presidential_Portrait_%281957%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "françois_duvalier_presidential_portrait_(1957).png",
+          "width": 576,
+          "height": 677,
+          "title": "François Duvalier",
+          "description": "President of Haiti from 1957 to 1971",
+          "extract": "François Duvalier, also known as Papa Doc, was a Haitian politician, dictator and physician who served as president of Haiti from 1957 until his death in 1971.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Duvalier",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg/330px-Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bouchot_-_le_general_bonaparte_au_conseil_des_cinq-cents.jpg",
+          "width": 1833,
+          "height": 1953,
+          "title": "Coup d'état",
+          "description": "Illegal attempt to unseat an incumbent",
+          "extract": "A coup d'état, or simply a coup, is typically an illegal and overt attempt by a military organization or other government elites to unseat an incumbent person or leadership. A self-coup is said to take place when a leader, having come to power through legal means, tries to stay in power through illegal means.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Coup_d'%C3%A9tat",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Roger Lafontant",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Roger_Lafontant",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "01-07-1989-bb2d2beb",
+      "year": 1989,
+      "text": "In one of the most famous upsets in FA Cup history, Sutton United, a team in the fifth tier of English league football, defeated top-tier Coventry City.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/English_football_pyramid_08_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/English_football_pyramid_08_2024.png/330px-English_football_pyramid_08_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "english_football_pyramid_08_2024.png",
+        "width": 1080,
+        "height": 1320,
+        "title": "English football league system",
+        "description": "Series of interconnected leagues",
+        "extract": "The English football league system, also known as the football pyramid, is a series of interconnected leagues for men's association football clubs in England, with five teams from Wales, one from Guernsey, one from Jersey and one from the Isle of Man also competing. The system has a hierarchical format with promotion and relegation between leagues at different levels, allowing even the smallest club the theoretical possibility of ultimately rising to the very top of the system, the Premier League. Below that are levels 2–4 organised by the English Football League, then the National League System from levels 5–10 administered by the FA, and thereafter Regional feeder leagues run by relevant county FAs on an ad hoc basis.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/English_football_league_system",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/English_football_pyramid_08_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/English_football_pyramid_08_2024.png/330px-English_football_pyramid_08_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "english_football_pyramid_08_2024.png",
+          "width": 1080,
+          "height": 1320,
+          "title": "English football league system",
+          "description": "Series of interconnected leagues",
+          "extract": "The English football league system, also known as the football pyramid, is a series of interconnected leagues for men's association football clubs in England, with five teams from Wales, one from Guernsey, one from Jersey and one from the Isle of Man also competing. The system has a hierarchical format with promotion and relegation between leagues at different levels, allowing even the smallest club the theoretical possibility of ultimately rising to the very top of the system, the Premier League. Below that are levels 2–4 organised by the English Football League, then the National League System from levels 5–10 administered by the FA, and thereafter Regional feeder leagues run by relevant county FAs on an ad hoc basis.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/English_football_league_system",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gander_green_lane.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gander_green_lane.JPG/330px-Gander_green_lane.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gander_green_lane.jpg",
+          "width": 1501,
+          "height": 961,
+          "title": "Sutton United 2–1 Coventry City (1989)",
+          "description": "Association football match",
+          "extract": "The 1988–89 FA Cup third-round match between Sutton United and Coventry City was an association football game played at Gander Green Lane in Sutton, on 7 January 1989. Coventry City entered the FA Cup in the third round, as they participated in the Football League First Division, the top tier of English league football. Sutton United of the Conference, the fifth tier of English football, had started their cup run in the 4th Qualifying round, winning three ties to reach this stage of the competition. Coventry, the away team, went into the match as strong favourites, a reflection of the gulf in divisions that separated the two teams.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sutton_United_2%E2%80%931_Coventry_City_(1989)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/FACupFinal1905NewcastleVilla.jpg/500px-FACupFinal1905NewcastleVilla.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/FACupFinal1905NewcastleVilla.jpg/500px-FACupFinal1905NewcastleVilla.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "facupfinal1905newcastlevilla.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Harry Hampton scores one of his two goals in the 1905 FA Cup final, when Aston Villa defeated Newcastle United",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/FA_Cup",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "FA Cup",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/FA_Cup",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "01-07-1985-c2d4c770",
+      "year": 1985,
+      "text": "Japan Aerospace Exploration Agency launches Sakigake, Japan's first interplanetary spacecraft and the first deep space probe to be launched by any country other than the United States or the Soviet Union.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Progress_M-06M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Progress_M-06M.jpg/330px-Progress_M-06M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "progress_m-06m.jpg",
+        "width": 2100,
+        "height": 1400,
+        "title": "Uncrewed spacecraft",
+        "description": "Spacecraft without people on board",
+        "extract": "Uncrewed spacecraft or robotic spacecraft are spacecraft without people on board. Uncrewed spacecraft may have varying levels of autonomy from human input, such as remote control, or remote guidance. They may also be autonomous, in which they have a pre-programmed list of operations that will be executed unless otherwise instructed. A robotic spacecraft for scientific measurements is often called a space probe or space observatory.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Uncrewed_spacecraft",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Progress_M-06M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Progress_M-06M.jpg/330px-Progress_M-06M.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "progress_m-06m.jpg",
+          "width": 2100,
+          "height": 1400,
+          "title": "Uncrewed spacecraft",
+          "description": "Spacecraft without people on board",
+          "extract": "Uncrewed spacecraft or robotic spacecraft are spacecraft without people on board. Uncrewed spacecraft may have varying levels of autonomy from human input, such as remote control, or remote guidance. They may also be autonomous, in which they have a pre-programmed list of operations that will be executed unless otherwise instructed. A robotic spacecraft for scientific measurements is often called a space probe or space observatory.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Uncrewed_spacecraft",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/3840px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/330px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cassini_saturn_orbit_insertion.jpg",
+          "width": 14400,
+          "height": 9600,
+          "title": "Space probe",
+          "description": "Unmanned robotic spacecraft",
+          "extract": "A space probe is an uncrewed robotic spacecraft designed to explore outer space and transmit scientific data back to Earth. Space probes are used to investigate the Moon, planets, moons, asteroids, comets, the Sun, and interstellar space. Unlike artificial satellites, which usually remain in orbit around Earth, probes are sent beyond Earth orbit toward other celestial bodies or into deep space.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_probe",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Japanese_Experiment_Module_Kibo.jpg/500px-Japanese_Experiment_Module_Kibo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Japanese_Experiment_Module_Kibo.jpg/500px-Japanese_Experiment_Module_Kibo.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "japanese_experiment_module_kibo.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "JAXA Kibo, the largest module of the ISS",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/JAXA",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "JAXA",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/JAXA",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-07-1327-4e7078e8",
+      "year": 1327,
+      "text": "The Parliament of 1327, which was instrumental in the transfer of the English Crown from King Edward II to his son, Edward III, began at the Palace of Westminster.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Eduard2_arest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eduard2_arest.jpg/330px-Eduard2_arest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "eduard2_arest.jpg",
+        "width": 430,
+        "height": 479,
+        "title": "Parliament of 1327",
+        "description": "English parliament",
+        "extract": "The Parliament of 1327, which sat at the Palace of Westminster between 7 January and 9 March 1327, was instrumental in the transfer of the English Crown from King Edward II to his son, Edward III. Edward II had become increasingly unpopular with the English nobility due to the excessive influence of unpopular court favourites, the patronage he accorded them, and his perceived ill-treatment of the nobility. By 1325, even his wife, Queen Isabella, despised him. Towards the end of the year, she took the young Edward to her native France, where she entered into an alliance with the powerful and wealthy nobleman Roger Mortimer, who her husband previously had exiled. The following year, they invaded England to depose Edward II. Almost immediately, the King's resistance was beset by betrayal, and he eventually abandoned London and fled west, probably to raise an army in Wales or Ireland. He was soon captured and imprisoned.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Parliament_of_1327",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Eduard2_arest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eduard2_arest.jpg/330px-Eduard2_arest.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "eduard2_arest.jpg",
+          "width": 430,
+          "height": 479,
+          "title": "Parliament of 1327",
+          "description": "English parliament",
+          "extract": "The Parliament of 1327, which sat at the Palace of Westminster between 7 January and 9 March 1327, was instrumental in the transfer of the English Crown from King Edward II to his son, Edward III. Edward II had become increasingly unpopular with the English nobility due to the excessive influence of unpopular court favourites, the patronage he accorded them, and his perceived ill-treatment of the nobility. By 1325, even his wife, Queen Isabella, despised him. Towards the end of the year, she took the young Edward to her native France, where she entered into an alliance with the powerful and wealthy nobleman Roger Mortimer, who her husband previously had exiled. The following year, they invaded England to depose Edward II. Almost immediately, the King's resistance was beset by betrayal, and he eventually abandoned London and fled west, probably to raise an army in Wales or Ireland. He was soon captured and imprisoned.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Parliament_of_1327",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cathedral_Church_of_St_Peter_and_the_Holy_and_Indivisible_Trinity%2C_Monument_to_Edward_II_of_England_Gloucester_1245952_20230819_0030.jpg/3840px-Cathedral_Church_of_St_Peter_and_the_Holy_and_Indivisible_Trinity%2C_Monument_to_Edward_II_of_England_Gloucester_1245952_20230819_0030.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Cathedral_Church_of_St_Peter_and_the_Holy_and_Indivisible_Trinity%2C_Monument_to_Edward_II_of_England_Gloucester_1245952_20230819_0030.jpg/330px-Cathedral_Church_of_St_Peter_and_the_Holy_and_Indivisible_Trinity%2C_Monument_to_Edward_II_of_England_Gloucester_1245952_20230819_0030.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cathedral_church_of_st_peter_and_the_holy_and_indivisible_trinity,_monument_to_edward_ii_of_england_gloucester_1245952_20230819_0030.jpg",
+          "width": 8256,
+          "height": 5504,
+          "title": "Edward II",
+          "description": "King of England from 1307 to 1327",
+          "extract": "Edward II, also known as Edward of Caernarfon or Caernarvon, was King of England from 1307 until he was deposed in January 1327. The fourth son of Edward I, Edward became the heir to the throne following the death of his older brother Alphonso. Beginning in 1300, Edward accompanied his father on campaigns in Scotland, and in 1306 he was knighted in a grand ceremony at Westminster Abbey. Edward succeeded to the throne the next year, following his father's death. In 1308, he married Isabella, daughter of the powerful King Philip IV of France, as part of a long-running effort to resolve the tensions between the English and French crowns.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Edward_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Edward_III_of_England_%28Order_of_the_Garter%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Edward_III_of_England_%28Order_of_the_Garter%29.jpg/330px-Edward_III_of_England_%28Order_of_the_Garter%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "edward_iii_of_england_(order_of_the_garter).jpg",
+          "width": 648,
+          "height": 880,
+          "title": "Edward III",
+          "description": "King of England from 1327 to 1377",
+          "extract": "Edward III, also known as Edward of Windsor before accession, was King of England from January 1327 until his death in 1377. He is noted for his military success and for restoring royal authority after the disastrous and unorthodox reign of his father, Edward II. Edward III transformed the Kingdom of England into one of the most formidable military powers in Europe. His fifty-year reign is one of the longest in English history and saw vital developments in legislation and government, in particular the evolution of the English Parliament, as well as the ravages of the Black Death. He outlived his eldest son, Edward the Black Prince, and was succeeded by his grandson, Richard II.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Edward_III",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Parliament of 1327",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Parliament_of_1327",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "01-07-2025-70c60237",
+      "year": 2025,
+      "text": "A series of wildfires ravage the Greater Los Angeles area, resulting in at least 16 deaths and 13,401 structures destroyed.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Southern_california_wildfires2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Southern_california_wildfires2025.png/330px-Southern_california_wildfires2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "southern_california_wildfires2025.png",
+        "width": 613,
+        "height": 730,
+        "title": "January 2025 Southern California wildfires",
+        "description": "Series of wildfires in California, United States",
+        "extract": "From January 7 to 31, 2025, 14 destructive wildfires affected the Los Angeles metropolitan area and San Diego County in California, United States. The fires were exacerbated by drought conditions, low humidity, a buildup of vegetation from the previous winter, and hurricane-force Santa Ana winds, which in some places reached 100 miles per hour. The wildfires killed at least 31 people, forced more than 200,000 to evacuate, destroyed more than 18,000 homes and structures, and burned more than 57,529 acres of land.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/January_2025_Southern_California_wildfires",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Southern_california_wildfires2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Southern_california_wildfires2025.png/330px-Southern_california_wildfires2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "southern_california_wildfires2025.png",
+          "width": 613,
+          "height": 730,
+          "title": "January 2025 Southern California wildfires",
+          "description": "Series of wildfires in California, United States",
+          "extract": "From January 7 to 31, 2025, 14 destructive wildfires affected the Los Angeles metropolitan area and San Diego County in California, United States. The fires were exacerbated by drought conditions, low humidity, a buildup of vegetation from the previous winter, and hurricane-force Santa Ana winds, which in some places reached 100 miles per hour. The wildfires killed at least 31 people, forced more than 200,000 to evacuate, destroyed more than 18,000 homes and structures, and burned more than 57,529 acres of land.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/January_2025_Southern_California_wildfires",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Good_morning_LA_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Good_morning_LA_%28cropped%29.jpg/330px-Good_morning_LA_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "good_morning_la_(cropped).jpg",
+          "width": 1918,
+          "height": 1025,
+          "title": "Greater Los Angeles",
+          "description": "Metropolitan area in California, United States",
+          "extract": "Greater Los Angeles is the most populous metropolitan area in the U.S. state of California, encompassing five counties in Southern California extending from Ventura County in the west to San Bernardino County and Riverside County in the east, with the city of Los Angeles and Los Angeles County at its center, and Orange County to the southeast. The Los Angeles–Long Beach combined statistical area (CSA) covers 33,954 square miles (87,940 km2), making it the largest metropolitan region in the United States by land area. The contiguous urban area is 2,281 square miles (5,910 km2), whereas the remainder mostly consists of mountain and desert areas. With an estimated population of over 18.3 million, it is the second-largest metropolitan area in the country, behind New York, as well as one of the largest megacities in the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Greater_Los_Angeles",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "January 2025 Southern California wildfires",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/January_2025_Southern_California_wildfires",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-07-2020-8ef6a66a",
+      "year": 2020,
+      "text": "After 253 days without an operational government, a second round of investiture votes produced Spain's first coalition government since the Second Republic.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/%28S%C3%A1nchez_e_Iglesias%29_Declaraci%C3%B3n_conjunta_de_Pablo_Iglesias_y_Pedro_S%C3%A1nchez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%28S%C3%A1nchez_e_Iglesias%29_Declaraci%C3%B3n_conjunta_de_Pablo_Iglesias_y_Pedro_S%C3%A1nchez.jpg/330px-%28S%C3%A1nchez_e_Iglesias%29_Declaraci%C3%B3n_conjunta_de_Pablo_Iglesias_y_Pedro_S%C3%A1nchez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "(sánchez_e_iglesias)_declaración_conjunta_de_pablo_iglesias_y_pedro_sánchez.jpg",
+        "width": 1032,
+        "height": 734,
+        "title": "2019–2020 Spanish government formation",
+        "description": "",
+        "extract": "After the Spanish general election of 28 April 2019 failed to deliver an overall majority for any political party, extensive negotiations ensued to form a government in the country. As a result, the previous cabinet headed by Pedro Sánchez was forced to remain in a caretaker capacity for 254 days until the next government could be sworn in.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2019%E2%80%932020_Spanish_government_formation",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/%28S%C3%A1nchez_e_Iglesias%29_Declaraci%C3%B3n_conjunta_de_Pablo_Iglesias_y_Pedro_S%C3%A1nchez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/%28S%C3%A1nchez_e_Iglesias%29_Declaraci%C3%B3n_conjunta_de_Pablo_Iglesias_y_Pedro_S%C3%A1nchez.jpg/330px-%28S%C3%A1nchez_e_Iglesias%29_Declaraci%C3%B3n_conjunta_de_Pablo_Iglesias_y_Pedro_S%C3%A1nchez.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "(sánchez_e_iglesias)_declaración_conjunta_de_pablo_iglesias_y_pedro_sánchez.jpg",
+          "width": 1032,
+          "height": 734,
+          "title": "2019–2020 Spanish government formation",
+          "description": "",
+          "extract": "After the Spanish general election of 28 April 2019 failed to deliver an overall majority for any political party, extensive negotiations ensued to form a government in the country. As a result, the previous cabinet headed by Pedro Sánchez was forced to remain in a caretaker capacity for 254 days until the next government could be sworn in.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2019%E2%80%932020_Spanish_government_formation",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "2019–2020 Spanish government formation",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2019%E2%80%932020_Spanish_government_formation",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-07-2015-077f97ea",
+      "year": 2015,
+      "text": "Two gunmen commit mass murder at the offices of Charlie Hebdo in Paris, executing twelve people and wounding eleven others.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlie-Hebdo-2015-11.JPG/3840px-Charlie-Hebdo-2015-11.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlie-Hebdo-2015-11.JPG/330px-Charlie-Hebdo-2015-11.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "charlie-hebdo-2015-11.jpg",
+        "width": 5000,
+        "height": 3333,
+        "title": "Charlie Hebdo shooting",
+        "description": "2015 terrorist attack in Paris, France",
+        "extract": "On 7 January 2015, at about 11:30 a.m. in Paris, France, the employees of the French satirical weekly magazine Charlie Hebdo were targeted in a terrorist shooting attack by two French-born Algerian Muslim brothers, Saïd Kouachi and Chérif Kouachi. Armed with rifles and other weapons, the duo murdered 12 people and injured 11 others; they identified themselves as members of al-Qaeda in the Arabian Peninsula, which claimed responsibility for the attack. They fled after the shooting, triggering a manhunt, and were killed by the GIGN on 9 January. The Kouachi brothers' attack was followed by several related Islamist terrorist attacks across the Île-de-France between 7 and 9 January 2015, including the Hypercacher kosher supermarket siege, in which a French-born Malian Muslim took hostages and murdered four people before being killed by French commandos.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlie-Hebdo-2015-11.JPG/3840px-Charlie-Hebdo-2015-11.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Charlie-Hebdo-2015-11.JPG/330px-Charlie-Hebdo-2015-11.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "charlie-hebdo-2015-11.jpg",
+          "width": 5000,
+          "height": 3333,
+          "title": "Charlie Hebdo shooting",
+          "description": "2015 terrorist attack in Paris, France",
+          "extract": "On 7 January 2015, at about 11:30 a.m. in Paris, France, the employees of the French satirical weekly magazine Charlie Hebdo were targeted in a terrorist shooting attack by two French-born Algerian Muslim brothers, Saïd Kouachi and Chérif Kouachi. Armed with rifles and other weapons, the duo murdered 12 people and injured 11 others; they identified themselves as members of al-Qaeda in the Arabian Peninsula, which claimed responsibility for the attack. They fled after the shooting, triggering a manhunt, and were killed by the GIGN on 9 January. The Kouachi brothers' attack was followed by several related Islamist terrorist attacks across the Île-de-France between 7 and 9 January 2015, including the Hypercacher kosher supermarket siege, in which a French-born Malian Muslim took hostages and murdered four people before being killed by French commandos.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Charlie Hebdo shooting",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Charlie_Hebdo_shooting",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-07-2010-03316ba2",
+      "year": 2010,
+      "text": "In Nag Hammadi, Egypt, Muslim gunmen opened fire on a crowd of Coptic Christians leaving church after attending Christmas Liturgy, killing eight of them, as well as one Muslim bystander.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Aluminium_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Aluminium_Stadium.jpg/330px-Aluminium_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "aluminium_stadium.jpg",
+        "width": 720,
+        "height": 540,
+        "title": "Nag Hammadi",
+        "description": "City in Qena, Egypt",
+        "extract": "Nag Hammadi is a city and markaz in Upper Egypt. It is located on the west bank of the Nile in the Qena Governorate, about 80 kilometres (50 mi) north-west of Luxor. The city had a population of close to 61,737 as of 2023. It was made famous in 1945 for the \"Nag Hammadi library,\" an important collection of ancient texts found nearby.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Nag_Hammadi",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Aluminium_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Aluminium_Stadium.jpg/330px-Aluminium_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aluminium_stadium.jpg",
+          "width": 720,
+          "height": 540,
+          "title": "Nag Hammadi",
+          "description": "City in Qena, Egypt",
+          "extract": "Nag Hammadi is a city and markaz in Upper Egypt. It is located on the west bank of the Nile in the Qena Governorate, about 80 kilometres (50 mi) north-west of Luxor. The city had a population of close to 61,737 as of 2023. It was made famous in 1945 for the \"Nag Hammadi library,\" an important collection of ancient texts found nearby.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nag_Hammadi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Meister_der_Palastkapelle_in_Palermo_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Meister_der_Palastkapelle_in_Palermo_003.jpg/330px-Meister_der_Palastkapelle_in_Palermo_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "meister_der_palastkapelle_in_palermo_003.jpg",
+          "width": 1576,
+          "height": 2158,
+          "title": "Divine Liturgy",
+          "description": "Rite practiced in Eastern Christian traditions",
+          "extract": "Divine Liturgy or Holy Liturgy is the usual name used in most Eastern Christian rites for the Eucharistic service.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Divine_Liturgy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Raffinerie_Say.JPG/500px-Raffinerie_Say.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Raffinerie_Say.JPG/500px-Raffinerie_Say.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "raffinerie_say.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Plaque of a local sugar refinery that mentions French town Ardres, 1901",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nag_Hammadi",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Nag Hammadi",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Nag_Hammadi",
+      "relatedPagesCount": 4
+    }
+  ]
+}

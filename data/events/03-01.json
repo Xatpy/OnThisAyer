@@ -1,0 +1,607 @@
+{
+  "date": {
+    "month": 3,
+    "day": 1,
+    "formatted": "03-01"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "03-01-2002-78a4c21a",
+      "year": 2002,
+      "text": "Space Shuttle Columbia is launched on STS-109 to service the Hubble Space Telescope.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+        "width": 868,
+        "height": 521,
+        "title": "Space Shuttle Columbia",
+        "description": "Space Shuttle orbiter (1981–2003)",
+        "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
+          "width": 868,
+          "height": 521,
+          "title": "Space Shuttle Columbia",
+          "description": "Space Shuttle orbiter (1981–2003)",
+          "extract": "Space Shuttle Columbia (OV-102) was a Space Shuttle orbiter manufactured by Rockwell International and operated by NASA. Named after the first American ship to circumnavigate the globe, and the female personification of the United States, Columbia was the first of five Space Shuttle orbiters to fly in space, debuting the Space Shuttle launch vehicle on its maiden flight on April 12, 1981 and becoming the first spacecraft to be re-used after its first flight when it launched on STS-2 on November 12, 1981. As only the second full-scale orbiter to be manufactured after the Approach and Landing Test vehicle Enterprise, Columbia retained unique external and internal features compared with later orbiters, such as test instrumentation and distinctive black chines. In addition to a heavier aft fuselage and the retention of an internal airlock throughout its lifetime, these made Columbia the heaviest of the five spacefaring orbiters: around 1,000 kilograms heavier than Challenger and 3,600 kilograms heavier than Endeavour when originally constructed. Columbia also carried ejection seats based on those from the SR-71 during its first six flights until 1983, and from 1986 onwards carried an imaging pod on its vertical stabilizer.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/STS-109_Repaired_and_Reconfigured_Hubble.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/STS-109_Repaired_and_Reconfigured_Hubble.jpg/330px-STS-109_Repaired_and_Reconfigured_Hubble.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-109_repaired_and_reconfigured_hubble.jpg",
+          "width": 1979,
+          "height": 3000,
+          "title": "STS-109",
+          "description": "2002 American crewed spaceflight to the Hubble Space Telescope",
+          "extract": "STS-109 was a Space Shuttle mission that launched from the Kennedy Space Center on 1 March 2002. It was the 108th mission of the Space Shuttle program, the 27th flight of the orbiter Columbia and the fourth servicing of the Hubble Space Telescope. It was also the penultimate mission of the orbiter Columbia before the STS-107 mission, which was destroyed during re-entry in the Columbia disaster.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-109",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/3840px-Hubble_2009_close-up_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/330px-Hubble_2009_close-up_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hubble_2009_close-up_2.jpg",
+          "width": 4288,
+          "height": 2847,
+          "title": "Hubble Space Telescope",
+          "description": "NASA/ESA space telescope launched in 1990",
+          "extract": "The Hubble Space Telescope is a space telescope that was launched into low Earth orbit in 1990 and remains in operation. It was not the first space telescope, but it is one of the largest and most versatile, renowned as a vital research tool and as a public relations boon for astronomy. The Hubble Space Telescope is named after astronomer Edwin Hubble and is one of NASA's Great Observatories. The Space Telescope Science Institute (STScI) selects Hubble's targets and processes the resulting data, while the Goddard Space Flight Center (GSFC) controls the spacecraft.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle Columbia",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-01-1998-6374b699",
+      "year": 1998,
+      "text": "Titanic becomes the first film to gross over $1 billion worldwide.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "titanic_(1997_film)_poster.png",
+        "width": 259,
+        "height": 386,
+        "title": "Titanic (1997 film)",
+        "description": "1997 film by James Cameron",
+        "extract": "Titanic is a 1997 American epic historical romance film written and directed by James Cameron. Incorporating both historical and fictional aspects, it is based on accounts of the sinking of RMS Titanic in 1912. Leonardo DiCaprio and Kate Winslet star as members of different social classes who fall in love during the ship's ill-fated maiden voyage. The ensemble cast includes Billy Zane, Kathy Bates, Frances Fisher, Bernard Hill, Jonathan Hyde, Danny Nucci, David Warner and Bill Paxton.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/1/18/Titanic_%281997_film%29_poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "titanic_(1997_film)_poster.png",
+          "width": 259,
+          "height": 386,
+          "title": "Titanic (1997 film)",
+          "description": "1997 film by James Cameron",
+          "extract": "Titanic is a 1997 American epic historical romance film written and directed by James Cameron. Incorporating both historical and fictional aspects, it is based on accounts of the sinking of RMS Titanic in 1912. Leonardo DiCaprio and Kate Winslet star as members of different social classes who fall in love during the ship's ill-fated maiden voyage. The ensemble cast includes Billy Zane, Kathy Bates, Frances Fisher, Bernard Hill, Jonathan Hyde, Danny Nucci, David Warner and Bill Paxton.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Poster_-_Gone_With_the_Wind_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Poster_-_Gone_With_the_Wind_01.jpg/330px-Poster_-_Gone_With_the_Wind_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "poster_-_gone_with_the_wind_01.jpg",
+          "width": 1299,
+          "height": 2000,
+          "title": "List of highest-grossing films",
+          "description": "",
+          "extract": "Films generate income from several revenue streams, including theatrical exhibition, home video, television broadcast rights, and merchandising. However, theatrical box-office earnings are the primary metric for trade publications in assessing the success of a film, mostly because of the availability of the data compared to sales figures for home video and broadcast rights, but also because of historical practice. Included on the list are charts of the top box-office earners, a chart of high-grossing films by calendar year, a timeline showing the transition of the highest-grossing film record, and a chart of the highest-grossing film franchises and series. All charts are ranked by international theatrical box-office performance where possible, excluding income derived from home video, broadcasting rights, and merchandise.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/List_of_highest-grossing_films",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Titanic (1997 film)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-01-1973-90b271a5",
+      "year": 1973,
+      "text": "Pink Floyd's critically acclaimed album The Dark Side of the Moon was released.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pink_Floyd_-_all_members.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pink_Floyd_-_all_members.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "pink_floyd_-_all_members.jpg",
+        "width": 306,
+        "height": 327,
+        "title": "Pink Floyd",
+        "description": "English rock band",
+        "extract": "Pink Floyd are an English rock band formed in London in 1965 by Syd Barrett, Nick Mason (drums), Roger Waters and Richard Wright. David Gilmour joined in 1967. Gaining an early underground following as one of the first British psychedelic groups, Pink Floyd were distinguished by their extended compositions, sonic experiments, philosophical lyrics, and elaborate live performances, becoming a leading progressive rock band.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Pink_Floyd",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pink_Floyd_-_all_members.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/d/d6/Pink_Floyd_-_all_members.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "pink_floyd_-_all_members.jpg",
+          "width": 306,
+          "height": 327,
+          "title": "Pink Floyd",
+          "description": "English rock band",
+          "extract": "Pink Floyd are an English rock band formed in London in 1965 by Syd Barrett, Nick Mason (drums), Roger Waters and Richard Wright. David Gilmour joined in 1967. Gaining an early underground following as one of the first British psychedelic groups, Pink Floyd were distinguished by their extended compositions, sonic experiments, philosophical lyrics, and elaborate live performances, becoming a leading progressive rock band.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pink_Floyd",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dark_Side_of_the_Moon.png/3840px-Dark_Side_of_the_Moon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dark_Side_of_the_Moon.png/330px-Dark_Side_of_the_Moon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dark_side_of_the_moon.png",
+          "width": 4167,
+          "height": 4167,
+          "title": "The Dark Side of the Moon",
+          "description": "1973 studio album by Pink Floyd",
+          "extract": "The Dark Side of the Moon is the eighth studio album by the English progressive rock band Pink Floyd, released on 1 March 1973 by Capitol Records in the United States, and on 16 March 1973 by Harvest Records in the United Kingdom. Developed during live performances, it was conceived as a concept album that would focus on the pressures faced by the band during their arduous lifestyle, and also deal with the mental health problems of former band member Syd Barrett. New material was recorded in two sessions in 1972 and 1973 at EMI Studios in London.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Pink Floyd",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Pink_Floyd",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-01-1962-e8e6a001",
+      "year": 1962,
+      "text": "American Airlines Flight 1 crashes into Jamaica Bay in New York, killing 95.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/N7506A-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/N7506A-2.jpg/330px-N7506A-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "n7506a-2.jpg",
+        "width": 600,
+        "height": 359,
+        "title": "American Airlines Flight 1 (1962)",
+        "description": "Crash in New York City with no survivors",
+        "extract": "American Airlines Flight 1 was a regularly scheduled passenger flight from New York International (Idlewild) Airport in New York City to Los Angeles International Airport in Los Angeles. During takeoff on March 1, 1962, the Boeing 707 rolled over and crashed into Jamaica Bay in New York City two minutes after taking off, killing all 87 passengers and eight crew members aboard. A Civil Aeronautics Board investigation determined that a manufacturing defect in the autopilot system led to an uncommanded rudder control system input, causing the accident. A number of notable people died in the crash. It was the fifth fatal Boeing 707 accident, and at the time, the deadliest. It was the third of three fatal crashes during an operation of American Airlines Flight 1, and the third fatal crash involving one of American's 707s in the New York area within a three-year period after Flight 514 and Flight 1502, all of which yielded no survivors.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/American_Airlines_Flight_1_(1962)",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/N7506A-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/N7506A-2.jpg/330px-N7506A-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "n7506a-2.jpg",
+          "width": 600,
+          "height": 359,
+          "title": "American Airlines Flight 1 (1962)",
+          "description": "Crash in New York City with no survivors",
+          "extract": "American Airlines Flight 1 was a regularly scheduled passenger flight from New York International (Idlewild) Airport in New York City to Los Angeles International Airport in Los Angeles. During takeoff on March 1, 1962, the Boeing 707 rolled over and crashed into Jamaica Bay in New York City two minutes after taking off, killing all 87 passengers and eight crew members aboard. A Civil Aeronautics Board investigation determined that a manufacturing defect in the autopilot system led to an uncommanded rudder control system input, causing the accident. A number of notable people died in the crash. It was the fifth fatal Boeing 707 accident, and at the time, the deadliest. It was the third of three fatal crashes during an operation of American Airlines Flight 1, and the third fatal crash involving one of American's 707s in the New York area within a three-year period after Flight 514 and Flight 1502, all of which yielded no survivors.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/American_Airlines_Flight_1_(1962)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/JamaicaBay.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/JamaicaBay.jpeg/330px-JamaicaBay.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jamaicabay.jpeg",
+          "width": 3113,
+          "height": 1654,
+          "title": "Jamaica Bay",
+          "description": "Bay on the southern side of Long Island, New York",
+          "extract": "Jamaica Bay is an estuary on the southern portion of the western tip of Long Island, in the U.S. state of New York. The estuary is partially man-made, and partially natural. The bay connects with Lower New York Bay to the west, through Rockaway Inlet, and is the westernmost of the coastal lagoons on the south shore of Long Island. Politically, it is primarily divided between the boroughs of Brooklyn and Queens in New York City, with a small part touching Nassau County.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jamaica_Bay",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Boeing_707-123B%2C_American_Airlines_JP6855539.jpg/500px-Boeing_707-123B%2C_American_Airlines_JP6855539.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Boeing_707-123B%2C_American_Airlines_JP6855539.jpg/500px-Boeing_707-123B%2C_American_Airlines_JP6855539.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "boeing_707-123b,_american_airlines_jp6855539.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Boeing_707-123B,_American_Airlines_JP6855539",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/American_Airlines_Flight_1_(1962)",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "American Airlines Flight 1 (1962)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/American_Airlines_Flight_1_(1962)",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-01-1921-170f866a",
+      "year": 1921,
+      "text": "The Australian cricket team, led by Warwick Armstrong, became the first team to complete a whitewash in the Ashes, an achievement that would not be repeated for 86 years.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Warwick_Armstrong_1902.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Warwick_Armstrong_1902.jpg/330px-Warwick_Armstrong_1902.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "warwick_armstrong_1902.jpg",
+        "width": 769,
+        "height": 944,
+        "title": "Warwick Armstrong",
+        "description": "Australian cricketer (1879–1947)",
+        "extract": "Warwick Windridge Armstrong was an Australian cricketer who played 50 Test matches between 1902 and 1921. An all-rounder, he captained Australia in ten Test matches between 1920 and 1921, and was undefeated, winning eight Tests and drawing two. Armstrong was captain of the 1920–21 Australian team which defeated the touring English 5–0: one of only three teams to win an Ashes series in a whitewash. In a Test career interrupted by the First World War, he scored 2,863 runs at an average of 38.68, including six centuries, and took 87 wickets. He was inducted into the Australian Cricket Hall of Fame in 2000.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Warwick_Armstrong",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Warwick_Armstrong_1902.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Warwick_Armstrong_1902.jpg/330px-Warwick_Armstrong_1902.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "warwick_armstrong_1902.jpg",
+          "width": 769,
+          "height": 944,
+          "title": "Warwick Armstrong",
+          "description": "Australian cricketer (1879–1947)",
+          "extract": "Warwick Windridge Armstrong was an Australian cricketer who played 50 Test matches between 1902 and 1921. An all-rounder, he captained Australia in ten Test matches between 1920 and 1921, and was undefeated, winning eight Tests and drawing two. Armstrong was captain of the 1920–21 Australian team which defeated the touring English 5–0: one of only three teams to win an Ashes series in a whitewash. In a Test career interrupted by the First World War, he scored 2,863 runs at an average of 38.68, including six centuries, and took 87 wickets. He was inducted into the Australian Cricket Hall of Fame in 2000.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Warwick_Armstrong",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ashes_Urn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ashes_Urn.jpg/330px-Ashes_Urn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ashes_urn.jpg",
+          "width": 1536,
+          "height": 2048,
+          "title": "The Ashes",
+          "description": "International cricket series",
+          "extract": "The Ashes is a Test cricket series played biennially between England and Australia. The term originated in a satirical obituary published in a British newspaper, The Sporting Times, immediately after Australia's 1882 victory at The Oval, its first Test win on English soil. The obituary stated that English cricket had died, and that \"the body will be cremated and the ashes taken to Australia\". The mythical ashes immediately became associated with the 1882–83 series played in Australia, before which the English captain Ivo Bligh had vowed to \"regain those ashes\". The English media therefore dubbed the tour the Quest to regain the Ashes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/The_Ashes",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Kit_trousers_long.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Kit_trousers_long.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "kit_trousers_long.png",
+          "width": 800,
+          "height": 600,
+          "title": "Kit_trousers_long",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Australia_national_cricket_team",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "cinema_tv",
+        "name": "Cine y TV",
+        "icon": "🎬"
+      },
+      "mainPageTitle": "Australia national cricket team",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Australia_national_cricket_team",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-01-1990-b8e1886b",
+      "year": 1990,
+      "text": "Steve Jackson Games is raided by the United States Secret Service, prompting the later formation of the Electronic Frontier Foundation.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Steve_Jackson_Games_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/4d/Steve_Jackson_Games_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "steve_jackson_games_logo.png",
+        "width": 288,
+        "height": 346,
+        "title": "Steve Jackson Games",
+        "description": "American game publishing company",
+        "extract": "Steve Jackson Games (SJGames) is a game company, founded in 1980 by Steve Jackson, that creates and publishes role-playing, board, and card games, and the gaming magazine Pyramid.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Steve_Jackson_Games",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/4/4d/Steve_Jackson_Games_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/4/4d/Steve_Jackson_Games_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "steve_jackson_games_logo.png",
+          "width": 288,
+          "height": 346,
+          "title": "Steve Jackson Games",
+          "description": "American game publishing company",
+          "extract": "Steve Jackson Games (SJGames) is a game company, founded in 1980 by Steve Jackson, that creates and publishes role-playing, board, and card games, and the gaming magazine Pyramid.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Steve_Jackson_Games",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Steve Jackson Games",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Steve_Jackson_Games",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "03-01-1476-39fd99ea",
+      "year": 1476,
+      "text": "Forces of the Catholic Monarchs engage the combined Portuguese-Castilian armies of Afonso V and Prince John at the Battle of Toro.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ferdinand_of_Aragon%2C_Isabella_of_Castile_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ferdinand_of_Aragon%2C_Isabella_of_Castile_%28cropped%29.jpg/330px-Ferdinand_of_Aragon%2C_Isabella_of_Castile_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ferdinand_of_aragon,_isabella_of_castile_(cropped).jpg",
+        "width": 1532,
+        "height": 847,
+        "title": "Catholic Monarchs of Spain",
+        "description": "Title for Isabella I and Ferdinand II",
+        "extract": "The Catholic Monarchs were Queen Isabella I of Castile and King Ferdinand II of Aragon, whose marriage and joint rule marked the de facto unification of Spain. They were both from the House of Trastámara and were second cousins, as they were both descended from John I of Castile. To remove the obstacle that this consanguinity would otherwise have posed to their marriage under canon law, they were given a papal dispensation by Sixtus IV. They married on October 19, 1469, in the city of Valladolid; Isabella was 18 years old and Ferdinand a year younger. Their reign was called by W. H. Prescott \"the most glorious epoch in the annals of Spain.\"",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Catholic_Monarchs_of_Spain",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Ferdinand_of_Aragon%2C_Isabella_of_Castile_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ferdinand_of_Aragon%2C_Isabella_of_Castile_%28cropped%29.jpg/330px-Ferdinand_of_Aragon%2C_Isabella_of_Castile_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ferdinand_of_aragon,_isabella_of_castile_(cropped).jpg",
+          "width": 1532,
+          "height": 847,
+          "title": "Catholic Monarchs of Spain",
+          "description": "Title for Isabella I and Ferdinand II",
+          "extract": "The Catholic Monarchs were Queen Isabella I of Castile and King Ferdinand II of Aragon, whose marriage and joint rule marked the de facto unification of Spain. They were both from the House of Trastámara and were second cousins, as they were both descended from John I of Castile. To remove the obstacle that this consanguinity would otherwise have posed to their marriage under canon law, they were given a papal dispensation by Sixtus IV. They married on October 19, 1469, in the city of Valladolid; Isabella was 18 years old and Ferdinand a year younger. Their reign was called by W. H. Prescott \"the most glorious epoch in the annals of Spain.\"",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Catholic_Monarchs_of_Spain",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Domafonsov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Domafonsov.jpg/330px-Domafonsov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "domafonsov.jpg",
+          "width": 1855,
+          "height": 2723,
+          "title": "Afonso V of Portugal",
+          "description": "King of Portugal from 1438 to 1481",
+          "extract": "Afonso V, also known as the African, was King of Portugal from 1438 until he died in 1481, with a brief interruption in 1477. The son of Edward, King of Portugal, and Eleanor of Aragon, Afonso acceded to the throne when he was only six years old. His early reign was marked by a struggle over the regency between his mother, Eleanor, and his uncle, Pedro, Duke of Coimbra. Pedro was appointed sole regent in 1439, but the Braganza faction at court continued to challenge his authority. Influenced by his other uncle, Afonso I, Duke of Braganza, the King dismissed Pedro in 1448 and defeated him in the Battle of Alfarrobeira in 1449.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Afonso_V_of_Portugal",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/IOANNES_QVARTVS_PORTVGALIAE_REX_%28Kunsthistorisches_Museum%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/IOANNES_QVARTVS_PORTVGALIAE_REX_%28Kunsthistorisches_Museum%29.png/330px-IOANNES_QVARTVS_PORTVGALIAE_REX_%28Kunsthistorisches_Museum%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ioannes_qvartvs_portvgaliae_rex_(kunsthistorisches_museum).png",
+          "width": 515,
+          "height": 699,
+          "title": "John II of Portugal",
+          "description": "King of Portugal from 1481 to 1495",
+          "extract": "John II, called the Perfect Prince, was King of Portugal from 1481 until his death in 1495, and also for a brief time in 1477. He is known for reestablishing the power of the Portuguese monarchy, reinvigorating the economy of Portugal, and renewing the Portuguese exploration of Africa and Asia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_II_of_Portugal",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Catholic Monarchs of Spain",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Catholic_Monarchs_of_Spain",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "03-01-1966-d15eb15d",
+      "year": 1966,
+      "text": "Venera 3 Soviet space probe crashes on Venus becoming the first spacecraft to land on another planet's surface.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/1966_CPA_3379.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/1966_CPA_3379.jpg/330px-1966_CPA_3379.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "1966_cpa_3379.jpg",
+        "width": 877,
+        "height": 1243,
+        "title": "Venera 3",
+        "description": "Soviet Venus space probe",
+        "extract": "Venera 3 was a Venera program space probe that was built and launched by the Soviet Union to explore the surface of Venus. It was launched on 16 November 1965 at 04:19 UTC from Baikonur, Kazakhstan, USSR. The probe comprised an entry probe, designed to enter the Venus atmosphere and parachute to the surface, and a carrier/flyby spacecraft, which carried the entry probe to Venus and also served as a communications relay for the entry probe.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Venera_3",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/1966_CPA_3379.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/1966_CPA_3379.jpg/330px-1966_CPA_3379.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1966_cpa_3379.jpg",
+          "width": 877,
+          "height": 1243,
+          "title": "Venera 3",
+          "description": "Soviet Venus space probe",
+          "extract": "Venera 3 was a Venera program space probe that was built and launched by the Soviet Union to explore the surface of Venus. It was launched on 16 November 1965 at 04:19 UTC from Baikonur, Kazakhstan, USSR. The probe comprised an entry probe, designed to enter the Venus atmosphere and parachute to the surface, and a carrier/flyby spacecraft, which carried the entry probe to Venus and also served as a communications relay for the entry probe.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Venera_3",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/3840px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cassini_Saturn_Orbit_Insertion.jpg/330px-Cassini_Saturn_Orbit_Insertion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cassini_saturn_orbit_insertion.jpg",
+          "width": 14400,
+          "height": 9600,
+          "title": "Space probe",
+          "description": "Unmanned robotic spacecraft",
+          "extract": "A space probe is an uncrewed robotic spacecraft designed to explore outer space and transmit scientific data back to Earth. Space probes are used to investigate the Moon, planets, moons, asteroids, comets, the Sun, and interstellar space. Unlike artificial satellites, which usually remain in orbit around Earth, probes are sent beyond Earth orbit toward other celestial bodies or into deep space.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_probe",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Venus_from_Mariner_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Venus_from_Mariner_10.jpg/330px-Venus_from_Mariner_10.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "venus_from_mariner_10.jpg",
+          "width": 1000,
+          "height": 1000,
+          "title": "Venus",
+          "description": "Second planet from the Sun",
+          "extract": "Venus is the second planet from the Sun. Similar in size and mass to Earth, Venus has no liquid water, and its atmosphere is far thicker and denser than that of any other rocky body in the Solar System. The atmosphere is composed mostly of carbon dioxide and has a thick cloud layer of sulfuric acid that spans the whole planet. At the mean surface level, the atmosphere reaches a temperature of 737 K, making it the hottest planet in the solar system and also a pressure 92 times greater than Earth's at sea level, turning the lowest layer of the atmosphere into a supercritical fluid. From Earth, Venus is visible as a star-like point of light, appearing brighter than any other natural point of light in the sky, as either the brightest \"morning star\" or \"evening star\". It was also given the poetic name Ēarendel in Old English, meaning \"ray of light\" along with the two previous epithets.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Venus",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Venera 3",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Venera_3",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "03-01-2014-c8e794cb",
+      "year": 2014,
+      "text": "Thirty-five people are killed and 143 injured in a mass stabbing at Kunming Railway Station in China.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kunming_Railway_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kunming_Railway_Station.jpg/330px-Kunming_Railway_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "kunming_railway_station.jpg",
+        "width": 672,
+        "height": 447,
+        "title": "2014 Kunming attack",
+        "description": "Knife attack at Kunming Railway Station in Kunming, Yunnan, China",
+        "extract": "On 1 March 2014, a group of five knife-wielding terrorists attacked passengers in the Kunming Railway Station in Kunming, Yunnan, China, killing 31 people, and wounding 143 others. The attackers pulled out long-bladed knives and stabbed and slashed passengers at random. Four assailants were shot to death by police on the spot and one injured perpetrator was arrested. Police announced on 3 March that the six-man, two-woman group had been neutralized, after the arrest of three remaining suspects.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2014_Kunming_attack",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kunming_Railway_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kunming_Railway_Station.jpg/330px-Kunming_Railway_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kunming_railway_station.jpg",
+          "width": 672,
+          "height": 447,
+          "title": "2014 Kunming attack",
+          "description": "Knife attack at Kunming Railway Station in Kunming, Yunnan, China",
+          "extract": "On 1 March 2014, a group of five knife-wielding terrorists attacked passengers in the Kunming Railway Station in Kunming, Yunnan, China, killing 31 people, and wounding 143 others. The attackers pulled out long-bladed knives and stabbed and slashed passengers at random. Four assailants were shot to death by police on the spot and one injured perpetrator was arrested. Police announced on 3 March that the six-man, two-woman group had been neutralized, after the arrest of three remaining suspects.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2014_Kunming_attack",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/%E9%AB%98%E5%A4%84%E4%BF%AF%E7%9E%B0%E6%98%86%E6%98%8E%E7%AB%99%E5%8C%97%E9%9D%A2.jpg/3840px-%E9%AB%98%E5%A4%84%E4%BF%AF%E7%9E%B0%E6%98%86%E6%98%8E%E7%AB%99%E5%8C%97%E9%9D%A2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/%E9%AB%98%E5%A4%84%E4%BF%AF%E7%9E%B0%E6%98%86%E6%98%8E%E7%AB%99%E5%8C%97%E9%9D%A2.jpg/330px-%E9%AB%98%E5%A4%84%E4%BF%AF%E7%9E%B0%E6%98%86%E6%98%8E%E7%AB%99%E5%8C%97%E9%9D%A2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "高处俯瞰昆明站北面.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": "Kunming railway station",
+          "description": "Railway station serving the city of Kunming, Yunnan, China",
+          "extract": "Kunming railway station is the main railway station serving the city of Kunming, Yunnan, China. It is located about four kilometres from the city centre. It handles most high-speed rail services for destinations within Yunnan along with virtually all non-high-speed services.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kunming_railway_station",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "2014 Kunming attack",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2014_Kunming_attack",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "03-01-2008-4f7dbf9b",
+      "year": 2008,
+      "text": "The Armenian police clash with peaceful opposition rally protesting against allegedly fraudulent presidential elections; as a result ten people are killed.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/National_Police_2018_stamp_of_Armenia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Police_2018_stamp_of_Armenia.jpg/330px-National_Police_2018_stamp_of_Armenia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "national_police_2018_stamp_of_armenia.jpg",
+        "width": 500,
+        "height": 375,
+        "title": "Police of Armenia",
+        "description": "National police of Armenia",
+        "extract": "The Police of the Republic of Armenia is the national police of Armenia.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Police_of_Armenia",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/National_Police_2018_stamp_of_Armenia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/National_Police_2018_stamp_of_Armenia.jpg/330px-National_Police_2018_stamp_of_Armenia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "national_police_2018_stamp_of_armenia.jpg",
+          "width": 500,
+          "height": 375,
+          "title": "Police of Armenia",
+          "description": "National police of Armenia",
+          "extract": "The Police of the Republic of Armenia is the national police of Armenia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Police_of_Armenia",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Police of Armenia",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Police_of_Armenia",
+      "relatedPagesCount": 2
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "date": {
+    "month": 1,
+    "day": 13,
+    "formatted": "01-13"
+  },
+  "totalEvents": 10,
+  "eventsWithImages": 10,
+  "events": [
+    {
+      "id": "01-13-2000-e4d500a0",
+      "year": 2000,
+      "text": "Steve Ballmer replaced Bill Gates as the chief executive officer of Microsoft.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Steve_ballmer_2007_outdoors2-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Steve_ballmer_2007_outdoors2-2.jpg/330px-Steve_ballmer_2007_outdoors2-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "steve_ballmer_2007_outdoors2-2.jpg",
+        "width": 681,
+        "height": 969,
+        "title": "Steve Ballmer",
+        "description": "American businessman and investor (born 1956)",
+        "extract": "Steven Anthony Ballmer is an American businessman and investor who was the chief executive officer of Microsoft from 2000 to 2014. He is the owner of the Los Angeles Clippers of the National Basketball Association (NBA), and a co-founder of the Ballmer Group, a philanthropic investment company.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Steve_Ballmer",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Steve_ballmer_2007_outdoors2-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Steve_ballmer_2007_outdoors2-2.jpg/330px-Steve_ballmer_2007_outdoors2-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "steve_ballmer_2007_outdoors2-2.jpg",
+          "width": 681,
+          "height": 969,
+          "title": "Steve Ballmer",
+          "description": "American businessman and investor (born 1956)",
+          "extract": "Steven Anthony Ballmer is an American businessman and investor who was the chief executive officer of Microsoft from 2000 to 2014. He is the owner of the Los Angeles Clippers of the National Basketball Association (NBA), and a co-founder of the Ballmer Group, a philanthropic investment company.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Steve_Ballmer",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg/330px-Bill_Gates_at_the_European_Commission_-_P067383-987995_%28cropped%29_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bill_gates_at_the_european_commission_-_p067383-987995_(cropped)_5.jpg",
+          "width": 1000,
+          "height": 1335,
+          "title": "Bill Gates",
+          "description": "American businessman and philanthropist (born 1955)",
+          "extract": "William Henry Gates III is an American businessman and philanthropist. A pioneer of the microcomputer revolution of the 1970s and 1980s, he co-founded the software company Microsoft in 1975 with his childhood friend Paul Allen. Following Microsoft's initial public offering in 1986 and the subsequent increase in its stock price, Gates became the world's then-youngest billionaire in 1987, at age 31. Forbes magazine ranked him as the world's wealthiest person in their The World's Billionaires list for 18 out of 24 years between 1995 and 2017, including 13 years consecutively from 1995 to 2007. Gates became the first centibillionaire in 1999, when his net worth briefly surpassed US$100 billion. According to Forbes, as of July 2026, his net worth stood at US$106.5 billion, making him the 19th-wealthiest individual in the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bill_Gates",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/3840px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aerial_Microsoft_West_Campus_August_2009.jpg/330px-Aerial_Microsoft_West_Campus_August_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aerial_microsoft_west_campus_august_2009.jpg",
+          "width": 4752,
+          "height": 3168,
+          "title": "Microsoft",
+          "description": "American multinational technology company",
+          "extract": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington. The company became influential in the rise of personal computers through software like Windows and has since expanded into areas such as Internet services, cloud computing, artificial intelligence, video gaming, and more. A Big Tech company, Microsoft is the largest software company by revenue, one of the most valuable public companies, and one of the most valuable brands globally.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Microsoft",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Steve Ballmer",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Steve_Ballmer",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-13-1993-e5cfdd55",
+      "year": 1993,
+      "text": "Space Shuttle program: Endeavour heads for space for the third time as STS-54 launches from the Kennedy Space Center.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+        "width": 3680,
+        "height": 2448,
+        "title": "Space Shuttle Endeavour",
+        "description": "Space Shuttle orbiter (1992–2011)",
+        "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg/330px-STS-123_Dextre%26Kibo_ELM-PS_in_orbit_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts-123_dextre&kibo_elm-ps_in_orbit_(cropped).jpg",
+          "width": 3680,
+          "height": 2448,
+          "title": "Space Shuttle Endeavour",
+          "description": "Space Shuttle orbiter (1992–2011)",
+          "extract": "Space Shuttle Endeavour is a retired orbiter from NASA's Space Shuttle program and the fifth and final operational Shuttle built. It embarked on its first mission, STS-49, in May 1992 and its 25th and final mission, STS-134, in May 2011. STS-134 was expected to be the final mission of the Space Shuttle program, but with the authorization of STS-135 by the United States Congress, Atlantis became the last shuttle to fly.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Endeavour",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/1993_s54_TDRS-F.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1993_s54_TDRS-F.jpg/330px-1993_s54_TDRS-F.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1993_s54_tdrs-f.jpg",
+          "width": 1190,
+          "height": 1163,
+          "title": "STS-54",
+          "description": "1993 American crewed spaceflight to deploy TRDS-6",
+          "extract": "STS-54 was a NASA Space Transportation System mission using Space Shuttle Endeavour. This was the third flight for Endeavour, and was launched on January 13, 1993, with Endeavour returning to the Kennedy Space Center on January 19, 1993.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/STS-54",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Space_Shuttle_concepts.jpg/330px-Space_Shuttle_concepts.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Space_Shuttle_concepts.jpg/330px-Space_Shuttle_concepts.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "space_shuttle_concepts.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Early U.S. space shuttle concepts",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Space Shuttle program",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-13-1969-dbb65098",
+      "year": 1969,
+      "text": "British rock band Led Zeppelin released their first album, Led Zeppelin, in the United States.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Led_Zeppelin_-_promotional_image_%281971%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Led_Zeppelin_-_promotional_image_%281971%29.jpg/330px-Led_Zeppelin_-_promotional_image_%281971%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "led_zeppelin_-_promotional_image_(1971).jpg",
+        "width": 3000,
+        "height": 2076,
+        "title": "Led Zeppelin",
+        "description": "English rock band (1968–1980)",
+        "extract": "Led Zeppelin were an English rock band formed in London in 1968. The band comprised vocalist Robert Plant, guitarist Jimmy Page, bass-guitarist and keyboardist John Paul Jones and drummer John Bonham. Their combination of a heavy electric-guitar sound with elements of blues and folk music popularised album-oriented rock and stadium rock and established them as the progenitor of hard rock and heavy metal. They are amongst the best-selling music artists of all time, with an estimated 200 to 300 million records sold worldwide.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Led_Zeppelin",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Led_Zeppelin_-_promotional_image_%281971%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Led_Zeppelin_-_promotional_image_%281971%29.jpg/330px-Led_Zeppelin_-_promotional_image_%281971%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "led_zeppelin_-_promotional_image_(1971).jpg",
+          "width": 3000,
+          "height": 2076,
+          "title": "Led Zeppelin",
+          "description": "English rock band (1968–1980)",
+          "extract": "Led Zeppelin were an English rock band formed in London in 1968. The band comprised vocalist Robert Plant, guitarist Jimmy Page, bass-guitarist and keyboardist John Paul Jones and drummer John Bonham. Their combination of a heavy electric-guitar sound with elements of blues and folk music popularised album-oriented rock and stadium rock and established them as the progenitor of hard rock and heavy metal. They are amongst the best-selling music artists of all time, with an estimated 200 to 300 million records sold worldwide.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Led_Zeppelin",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Led_Zeppelin_-_Led_Zeppelin_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Led_Zeppelin_-_Led_Zeppelin_cover.jpg/330px-Led_Zeppelin_-_Led_Zeppelin_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "led_zeppelin_-_led_zeppelin_cover.jpg",
+          "width": 1500,
+          "height": 1500,
+          "title": "Led Zeppelin (album)",
+          "description": "1969 studio album by Led Zeppelin",
+          "extract": "Led Zeppelin is the debut studio album by the English rock band Led Zeppelin. It was released in January 1969 in the United States, and on 31 March 1969 in the United Kingdom, through Atlantic Records.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Led_Zeppelin_(album)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rhcp-live-pinkpop05.jpg/500px-Rhcp-live-pinkpop05.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rhcp-live-pinkpop05.jpg/500px-Rhcp-live-pinkpop05.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "rhcp-live-pinkpop05.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The rock band Red Hot Chili Peppers at the Pinkpop Festival in 2006",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Rock_music",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Rock music",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Rock_music",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-13-1982-4ca9fb66",
+      "year": 1982,
+      "text": "Shortly after takeoff, Air Florida Flight 90, a Boeing 737 jet, crashes into Washington, D.C.'s 14th Street Bridge and falls into the Potomac River, killing 78 including four motorists.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 90,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Air_Florida_Flight_90_tail_section_recovery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Air_Florida_Flight_90_tail_section_recovery.jpg/330px-Air_Florida_Flight_90_tail_section_recovery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "air_florida_flight_90_tail_section_recovery.jpg",
+        "width": 1080,
+        "height": 1080,
+        "title": "Air Florida Flight 90",
+        "description": "1982 aircraft accident in Washington, D.C.",
+        "extract": "Air Florida Flight 90 was a scheduled domestic passenger flight operated from Washington National Airport to Fort Lauderdale–Hollywood International Airport, with an intermediate stopover at Tampa International Airport, that crashed into the 14th Street Bridge over the Potomac River just after takeoff from Washington National Airport on January 13, 1982. The Boeing 737-200 that executed the flight, registered as N62AF, struck the bridge, which carries Interstate 395 between Washington, D.C., and Arlington County, Virginia, hitting seven occupied vehicles and destroying 97 feet (30 m) of guard rail before plunging through the ice into the Potomac River.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Air_Florida_Flight_90",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Air_Florida_Flight_90_tail_section_recovery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Air_Florida_Flight_90_tail_section_recovery.jpg/330px-Air_Florida_Flight_90_tail_section_recovery.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "air_florida_flight_90_tail_section_recovery.jpg",
+          "width": 1080,
+          "height": 1080,
+          "title": "Air Florida Flight 90",
+          "description": "1982 aircraft accident in Washington, D.C.",
+          "extract": "Air Florida Flight 90 was a scheduled domestic passenger flight operated from Washington National Airport to Fort Lauderdale–Hollywood International Airport, with an intermediate stopover at Tampa International Airport, that crashed into the 14th Street Bridge over the Potomac River just after takeoff from Washington National Airport on January 13, 1982. The Boeing 737-200 that executed the flight, registered as N62AF, struck the bridge, which carries Interstate 395 between Washington, D.C., and Arlington County, Virginia, hitting seven occupied vehicles and destroying 97 feet (30 m) of guard rail before plunging through the ice into the Potomac River.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Air_Florida_Flight_90",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg/330px-South_African_Airlink_Boeing_737-200_Advanced_Smith.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "south_african_airlink_boeing_737-200_advanced_smith.jpg",
+          "width": 1075,
+          "height": 717,
+          "title": "Boeing 737",
+          "description": "Single-aisle airliner family",
+          "extract": "The Boeing 737 is an American narrow-body aircraft produced by Boeing at its factories in Washington state.\n\nDeveloped to supplement the Boeing 727 on short and thin routes, the twinjet retained the 707 fuselage width and six abreast seating but with two underwing Pratt & Whitney JT8D low-bypass turbofan engines. Envisioned in 1964, the initial 737-100 made its first flight in April 1967 and entered service in February 1968 with Lufthansa.\nThe lengthened 737-200 entered service in April 1968, and evolved through four generations, offering several variants for 85 to 215 passengers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Boeing_737",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/14th_Street_Bridge_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/14th_Street_Bridge_%28cropped%29.jpg/330px-14th_Street_Bridge_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "14th_street_bridge_(cropped).jpg",
+          "width": 2534,
+          "height": 2027,
+          "title": "14th Street bridges",
+          "description": "Bridges in Virginia and Washington, D.C.",
+          "extract": "The 14th Street bridges are a set of adjacent five road and rail bridges that cross the Potomac River, connecting Arlington, Virginia and Washington, D.C. A major gateway for automotive, bicycle and rail traffic, the bridge complex is named for 14th Street, which feeds automotive traffic into it on the D.C. end.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/14th_Street_bridges",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Air Florida Flight 90",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Air_Florida_Flight_90",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "01-13-2012-f48c9bfe",
+      "year": 2012,
+      "text": "The passenger cruise ship Costa Concordia sinks off the coast of Italy due to the captain Francesco Schettino's negligence and irresponsibility. There are 32 confirmed deaths.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 85,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg/3840px-Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg/330px-Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "icon_of_the_seas_puerto_rico_2025_(cropped).jpg",
+        "width": 4947,
+        "height": 2785,
+        "title": "Cruise ship",
+        "description": "Passenger ship used for pleasure voyages",
+        "extract": "Cruise ships are large passenger ships used mainly for vacationing. Unlike ocean liners, which are used for transport, cruise ships typically embark on round-trip voyages to various ports of call, where passengers may go on shore excursions.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cruise_ship",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg/3840px-Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg/330px-Icon_of_the_Seas_Puerto_Rico_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "icon_of_the_seas_puerto_rico_2025_(cropped).jpg",
+          "width": 4947,
+          "height": 2785,
+          "title": "Cruise ship",
+          "description": "Passenger ship used for pleasure voyages",
+          "extract": "Cruise ships are large passenger ships used mainly for vacationing. Unlike ocean liners, which are used for transport, cruise ships typically embark on round-trip voyages to various ports of call, where passengers may go on shore excursions.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cruise_ship",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Costa_Concordia_%282213536356%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Costa_Concordia_%282213536356%29_%28cropped%29.jpg/330px-Costa_Concordia_%282213536356%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "costa_concordia_(2213536356)_(cropped).jpg",
+          "width": 1844,
+          "height": 1037,
+          "title": "Costa Concordia",
+          "description": "Cruise ship that ran aground in a 2012 maritime accident",
+          "extract": "Costa Concordia was a cruise ship operated by the Italian cruise line Costa Crociere. She was the first of her class, followed by her sister ships Costa Serena, Costa Pacifica, Costa Favolosa and Costa Fascinosa, and Carnival Splendor built for Carnival Cruise Line. When the 114,137-ton Costa Concordia and her sister ships entered service, they were among the largest ships built in Italy until the construction of the 130,000 GT Dream-class cruise ships.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Costa_Concordia",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Collision_of_Costa_Concordia_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Collision_of_Costa_Concordia_11.jpg/330px-Collision_of_Costa_Concordia_11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "collision_of_costa_concordia_11.jpg",
+          "width": 1472,
+          "height": 935,
+          "title": "Costa Concordia disaster",
+          "description": "2012 cruise ship sinking off the Italian coast",
+          "extract": "On 13 January 2012, the seven-year-old Costa Cruises vessel Costa Concordia was on the first leg of a cruise around the Mediterranean Sea when the cruise ship deviated from her planned route at Isola del Giglio, Italy in order to perform a sail-by salute, and as a consequence struck a rock formation on the sea floor. This caused the ship to list and then to partially sink, landing unevenly on an underwater ledge. Although a six-hour rescue effort brought most of the passengers ashore, 32 people died: 27 passengers and five crew members. A member of the salvage team also died following injuries received during the recovery operation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Costa_Concordia_disaster",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Cruise ship",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cruise_ship",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-13-1972-3ccd8160",
+      "year": 1972,
+      "text": "Bernice Gera won a sex-discrimination lawsuit against the National Association of Professional Baseball Leagues, allowing her to become the first female professional baseball umpire.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/2/20/Bernice_Shiner_Gera_died_1992.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/Bernice_Shiner_Gera_died_1992.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "bernice_shiner_gera_died_1992.png",
+        "width": 298,
+        "height": 289,
+        "title": "Bernice Gera",
+        "description": "American baseball umpire (1931–1992)",
+        "extract": "Bernice Shiner Gera was an American baseball umpire. She became the first woman to umpire a professional baseball game in 1972, retiring after one game citing the resentment of other umpires.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Bernice_Gera",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/2/20/Bernice_Shiner_Gera_died_1992.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/2/20/Bernice_Shiner_Gera_died_1992.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "bernice_shiner_gera_died_1992.png",
+          "width": 298,
+          "height": 289,
+          "title": "Bernice Gera",
+          "description": "American baseball umpire (1931–1992)",
+          "extract": "Bernice Shiner Gera was an American baseball umpire. She became the first woman to umpire a professional baseball game in 1972, retiring after one game citing the resentment of other umpires.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bernice_Gera",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Umpire_Bill_Miller_%2826%29%2C_Cleveland_coach%2C_umpire_Adam_Hamari_%2878%29_%2C_umpire_Kerwin_Danley%2C_umpire_Ryan_Blakney.jpg/3840px-Umpire_Bill_Miller_%2826%29%2C_Cleveland_coach%2C_umpire_Adam_Hamari_%2878%29_%2C_umpire_Kerwin_Danley%2C_umpire_Ryan_Blakney.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Umpire_Bill_Miller_%2826%29%2C_Cleveland_coach%2C_umpire_Adam_Hamari_%2878%29_%2C_umpire_Kerwin_Danley%2C_umpire_Ryan_Blakney.jpg/330px-Umpire_Bill_Miller_%2826%29%2C_Cleveland_coach%2C_umpire_Adam_Hamari_%2878%29_%2C_umpire_Kerwin_Danley%2C_umpire_Ryan_Blakney.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "umpire_bill_miller_(26),_cleveland_coach,_umpire_adam_hamari_(78)_,_umpire_kerwin_danley,_umpire_ryan_blakney.jpg",
+          "width": 3860,
+          "height": 2847,
+          "title": "Umpire (baseball)",
+          "description": "Person charged with officiating a baseball game",
+          "extract": "In baseball, the umpire is the person charged with officiating the game, including beginning and ending the game, enforcing the rules of the game and the grounds, making judgment calls on plays, and handling disciplinary actions. The term is often shortened to the colloquial form ump. They are also sometimes nicknamed blue due to the traditional color of the uniform worn by umpires. Although games were often officiated by a sole umpire in the formative years of the sport, since the turn of the 20th century, officiating has been commonly divided among several umpires, who form the umpiring crew. The position is analogous to that of a referee in many other sports.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Umpire_(baseball)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernice_Gera_Marker.jpg/500px-Bernice_Gera_Marker.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bernice_Gera_Marker.jpg/500px-Bernice_Gera_Marker.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bernice_gera_marker.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Bernice Gera historical marker near Ernest, Pennsylvania",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bernice_Gera",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Bernice Gera",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Bernice_Gera",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "01-13-1968-4eb238af",
+      "year": 1968,
+      "text": "American singer Johnny Cash recorded his landmark album At Folsom Prison live at Folsom State Prison in California.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 75,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Johnny_Cash_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Johnny_Cash_1977.jpg/330px-Johnny_Cash_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "johnny_cash_1977.jpg",
+        "width": 680,
+        "height": 904,
+        "title": "Johnny Cash",
+        "description": "American country singer (1932–2003)",
+        "extract": "John R. Cash was an American singer-songwriter. Most of his music contains themes of sorrow, moral tribulation, and redemption, especially songs from the later stages of his career. He was known for his deep, calm, bass-baritone voice, the distinctive sound of his backing band, the Tennessee Three, that was characterized by its train-like chugging guitar rhythms, a rebelliousness coupled with an increasingly somber and humble demeanor, and his free prison concerts. Cash wore a trademark all-black stage wardrobe, which earned him the nickname \"Man in Black\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Johnny_Cash",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Johnny_Cash_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Johnny_Cash_1977.jpg/330px-Johnny_Cash_1977.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "johnny_cash_1977.jpg",
+          "width": 680,
+          "height": 904,
+          "title": "Johnny Cash",
+          "description": "American country singer (1932–2003)",
+          "extract": "John R. Cash was an American singer-songwriter. Most of his music contains themes of sorrow, moral tribulation, and redemption, especially songs from the later stages of his career. He was known for his deep, calm, bass-baritone voice, the distinctive sound of his backing band, the Tennessee Three, that was characterized by its train-like chugging guitar rhythms, a rebelliousness coupled with an increasingly somber and humble demeanor, and his free prison concerts. Cash wore a trademark all-black stage wardrobe, which earned him the nickname \"Man in Black\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Johnny_Cash",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/b/bf/Johnny_Cash_At_Folsom_Prison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/Johnny_Cash_At_Folsom_Prison.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "johnny_cash_at_folsom_prison.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "At Folsom Prison",
+          "description": "1968 live album by Johnny Cash",
+          "extract": "At Folsom Prison is the first live album by American singer-songwriter Johnny Cash, released by Columbia Records on May 6, 1968. It was recorded at Folsom State Prison, California, on January 13, 1968.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/At_Folsom_Prison",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/FolsomStatePrison_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/FolsomStatePrison_%28cropped%29.jpg/330px-FolsomStatePrison_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "folsomstateprison_(cropped).jpg",
+          "width": 1692,
+          "height": 1129,
+          "title": "Folsom State Prison",
+          "description": "Prison in Folsom, California, United States",
+          "extract": "Folsom California State Prison is a California State Prison in Folsom, California, United States, approximately 20 miles (32 km) northeast of the state capital of Sacramento. It is one of 34 adult institutions operated by the California Department of Corrections and Rehabilitation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Folsom_State_Prison",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Johnny Cash",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Johnny_Cash",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "01-13-1949-4d467816",
+      "year": 1949,
+      "text": "In the first recorded instance of strike action by Catholic laity against the clergy, gravediggers at Calvary Cemetery in Queens, New York City, went on strike.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 70,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Munk%C3%A1csy_Sztr%C3%A1jk_1895.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Munk%C3%A1csy_Sztr%C3%A1jk_1895.JPG/330px-Munk%C3%A1csy_Sztr%C3%A1jk_1895.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "munkácsy_sztrájk_1895.jpg",
+        "width": 2193,
+        "height": 1391,
+        "title": "Strike action",
+        "description": "Work stoppage by employees",
+        "extract": "Strike action, also called labor strike, labour strike in British English, or simply strike, is a form of direct action in which employees collectively refuse to work. It is usually a response to employee grievances. Generally, strikes are intended to bring an employer to accede to employees' demands for improved working conditions or unionisation, particularly when other avenues of change, such as negotiations or legal redress, have been exhausted. Strike actions can be called by trade unions or be instigated by rank-and-file activists.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Strike_action",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Munk%C3%A1csy_Sztr%C3%A1jk_1895.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Munk%C3%A1csy_Sztr%C3%A1jk_1895.JPG/330px-Munk%C3%A1csy_Sztr%C3%A1jk_1895.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "munkácsy_sztrájk_1895.jpg",
+          "width": 2193,
+          "height": 1391,
+          "title": "Strike action",
+          "description": "Work stoppage by employees",
+          "extract": "Strike action, also called labor strike, labour strike in British English, or simply strike, is a form of direct action in which employees collectively refuse to work. It is usually a response to employee grievances. Generally, strikes are intended to bring an employer to accede to employees' demands for improved working conditions or unionisation, particularly when other avenues of change, such as negotiations or legal redress, have been exhausted. Strike actions can be called by trade unions or be instigated by rank-and-file activists.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Strike_action",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Waiting_for_the_Pope_on_St_Peter%27s_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Waiting_for_the_Pope_on_St_Peter%27s_Square.jpg/330px-Waiting_for_the_Pope_on_St_Peter%27s_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "waiting_for_the_pope_on_st_peter's_square.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": "Catholic laity",
+          "description": "Ordinary members of the Catholic Church who are not clergy",
+          "extract": "Catholic laity are the ordinary members of the Catholic Church who are neither clergy nor recipients of Holy Orders or vowed to life in a religious order or congregation. Their mission, according to the Second Vatican Council, is to \"sanctify the world\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Catholic_laity",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Vasnetsov_Grave_digger.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Vasnetsov_Grave_digger.JPG/330px-Vasnetsov_Grave_digger.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "vasnetsov_grave_digger.jpg",
+          "width": 880,
+          "height": 1265,
+          "title": "Gravedigger",
+          "description": "Cemetery worker responsible for digging a grave",
+          "extract": "A gravedigger is a cemetery worker who is responsible for digging a grave prior to a funeral service. Gravediggers have historically often been members of the church, though in modern secular cemeteries, they may be temporary or full-time staff. In many cultures, gravediggers are stigmatized for their association with the dead, which many religions consider unclean. Gravediggers have often been depicted in media, particularly in gothic and crime novels.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gravedigger",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "music_art",
+        "name": "Música y Arte",
+        "icon": "🎵"
+      },
+      "mainPageTitle": "Strike action",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Strike_action",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "01-13-2020-52e1c639",
+      "year": 2020,
+      "text": "The Thai Ministry of Public Health confirms the first case of COVID-19 outside China.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 1,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Fphar-11-00937-g001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fphar-11-00937-g001.jpg/330px-Fphar-11-00937-g001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "fphar-11-00937-g001.jpg",
+        "width": 1476,
+        "height": 825,
+        "title": "COVID-19",
+        "description": "Contagious disease caused by SARS-CoV-2",
+        "extract": "Coronavirus disease 2019 (COVID-19) is a contagious disease caused by the coronavirus SARS-CoV-2. Starting in January 2020, the disease spread worldwide, resulting in the COVID-19 pandemic. In March 2020, the World Health Organization declared COVID-19 a global health emergency; they declared the end of the emergency in May 2023.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/COVID-19",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Fphar-11-00937-g001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fphar-11-00937-g001.jpg/330px-Fphar-11-00937-g001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "fphar-11-00937-g001.jpg",
+          "width": 1476,
+          "height": 825,
+          "title": "COVID-19",
+          "description": "Contagious disease caused by SARS-CoV-2",
+          "extract": "Coronavirus disease 2019 (COVID-19) is a contagious disease caused by the coronavirus SARS-CoV-2. Starting in January 2020, the disease spread worldwide, resulting in the COVID-19 pandemic. In March 2020, the World Health Organization declared COVID-19 a global health emergency; they declared the end of the emergency in May 2023.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/COVID-19",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Ministry of Public Health (Thailand)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ministry_of_Public_Health_(Thailand)",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "01-13-2004-54d23e1d",
+      "year": 2004,
+      "text": "Uzbekistan Airways Flight 1154 crashes while landing at Tashkent International Airport, killing 37.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 65,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Uzbekistan_Airways_Yakovlev_Yak-40_Newton-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Uzbekistan_Airways_Yakovlev_Yak-40_Newton-1.jpg/330px-Uzbekistan_Airways_Yakovlev_Yak-40_Newton-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "uzbekistan_airways_yakovlev_yak-40_newton-1.jpg",
+        "width": 1024,
+        "height": 693,
+        "title": "Uzbekistan Airways Flight 1154",
+        "description": "2004 aviation accident",
+        "extract": "Uzbekistan Airways Flight 1154 (HY1154/UZB1154) was a scheduled domestic passenger flight which was operated by Uzbekistan flag carrier Uzbekistan Airways from Termez Airport in the city of Termez, near the Afghanistan border, to Uzbekistan's capital of Tashkent. On 13 January 2004 the aircraft operating the flight, a Yakovlev Yak-40 registered in Uzbekistan as UK-87985, collided with a radar station while landing at Tashkent, flipped over, caught fire and exploded, killing all 37 people on board. Weather was reportedly sub par for flying.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Uzbekistan_Airways_Flight_1154",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Uzbekistan_Airways_Yakovlev_Yak-40_Newton-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Uzbekistan_Airways_Yakovlev_Yak-40_Newton-1.jpg/330px-Uzbekistan_Airways_Yakovlev_Yak-40_Newton-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "uzbekistan_airways_yakovlev_yak-40_newton-1.jpg",
+          "width": 1024,
+          "height": 693,
+          "title": "Uzbekistan Airways Flight 1154",
+          "description": "2004 aviation accident",
+          "extract": "Uzbekistan Airways Flight 1154 (HY1154/UZB1154) was a scheduled domestic passenger flight which was operated by Uzbekistan flag carrier Uzbekistan Airways from Termez Airport in the city of Termez, near the Afghanistan border, to Uzbekistan's capital of Tashkent. On 13 January 2004 the aircraft operating the flight, a Yakovlev Yak-40 registered in Uzbekistan as UK-87985, collided with a radar station while landing at Tashkent, flipped over, caught fire and exploded, killing all 37 people on board. Weather was reportedly sub par for flying.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Uzbekistan_Airways_Flight_1154",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Toshkent_xalqaro_aeroporti_binosi_30.jpg/3840px-Toshkent_xalqaro_aeroporti_binosi_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Toshkent_xalqaro_aeroporti_binosi_30.jpg/330px-Toshkent_xalqaro_aeroporti_binosi_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "toshkent_xalqaro_aeroporti_binosi_30.jpg",
+          "width": 4032,
+          "height": 3024,
+          "title": "Tashkent International Airport",
+          "description": "Main airport in Uzbekistan",
+          "extract": "Islam Karimov Tashkent International Airport is the main international airport in Uzbekistan, the second busiest airport in Central Asia, and the 7th busiest airport in the former Soviet Union. It is located 12 kilometres from the center of Tashkent. It was named after Islam Karimov, the first president of independent Uzbekistan from 1991 to 2016.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tashkent_International_Airport",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "science_tech",
+        "name": "Ciencia y Tecnología",
+        "icon": "🚀"
+      },
+      "mainPageTitle": "Uzbekistan Airways Flight 1154",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Uzbekistan_Airways_Flight_1154",
+      "relatedPagesCount": 2
+    }
+  ]
+}

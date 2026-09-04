@@ -1,0 +1,286 @@
+:root {
+  --font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Plus Jakarta Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --color-bg: #ffffff;
+  --color-text-primary: #111827;
+  --color-text-secondary: #6b7280;
+  --color-accent-orange: #f59e0b;
+  --color-pill-inactive-bg: #f3f4f6;
+  --color-pill-inactive-border: #e5e7eb;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #0f1117;
+  font-family: var(--font-family);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* iPhone Screen Container */
+.iphone-screen {
+  width: 440px;
+  height: 956px;
+  background-color: var(--color-bg);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.45);
+}
+
+/* 1. iOS Status Bar */
+.status-bar {
+  height: 54px;
+  padding: 12px 28px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  z-index: 50;
+}
+
+.status-time {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--color-text-primary);
+  letter-spacing: -0.2px;
+  width: 54px;
+}
+
+.dynamic-island {
+  width: 125px;
+  height: 34px;
+  background-color: #000000;
+  border-radius: 20px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 10px;
+}
+
+.status-icons {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  color: var(--color-text-primary);
+  width: 60px;
+  justify-content: flex-end;
+}
+
+.icon-signal {
+  width: 16px;
+  height: 11px;
+}
+
+.icon-wifi {
+  width: 15px;
+  height: 11px;
+}
+
+.battery-container {
+  display: flex;
+  align-items: center;
+  gap: 1px;
+}
+
+.battery-body {
+  width: 22px;
+  height: 11px;
+  border: 1px solid var(--color-text-primary);
+  border-radius: 3.5px;
+  padding: 1.5px;
+  display: flex;
+}
+
+.battery-fill {
+  width: 100%;
+  height: 100%;
+  background-color: var(--color-text-primary);
+  border-radius: 1.5px;
+}
+
+.battery-cap {
+  width: 1.5px;
+  height: 4px;
+  background-color: var(--color-text-primary);
+  border-radius: 0 1px 1px 0;
+}
+
+/* 2. App Navigation Bar */
+.app-navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 20px 10px;
+}
+
+.nav-icon-btn {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #374151;
+  padding: 6px;
+}
+
+.calendar-btn svg {
+  stroke: var(--color-accent-orange);
+}
+
+.date-capsule {
+  background: var(--color-pill-inactive-bg);
+  padding: 6px 16px;
+  border-radius: 24px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--color-text-primary);
+}
+
+.chevron {
+  color: var(--color-accent-orange);
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.dropdown-arrow {
+  font-size: 11px;
+  color: var(--color-text-secondary);
+  margin-left: 2px;
+}
+
+/* 3. Year Filter Pills Row */
+.year-pills-row {
+  display: flex;
+  gap: 10px;
+  padding: 6px 20px 14px;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+.year-pill {
+  font-size: 15px;
+  font-weight: 600;
+  padding: 6px 20px;
+  border-radius: 20px;
+  background: var(--color-pill-inactive-bg);
+  color: var(--color-text-primary);
+  border: 1px solid var(--color-pill-inactive-border);
+}
+
+.year-pill.active {
+  background: var(--color-accent-orange);
+  color: #ffffff;
+  border-color: var(--color-accent-orange);
+  font-weight: 700;
+}
+
+/* 4. Memories Container (3 Years Stacked) */
+.memories-container {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px 20px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}
+
+.memory-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.section-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.year-heading {
+  font-size: 32px;
+  font-weight: 800;
+  color: var(--color-text-primary);
+  line-height: 1.1;
+  letter-spacing: -0.8px;
+}
+
+.date-subheading {
+  font-size: 15px;
+  color: var(--color-text-secondary);
+  font-weight: 400;
+  margin-top: 3px;
+}
+
+.memories-count {
+  font-size: 15px;
+  color: var(--color-text-secondary);
+  font-weight: 400;
+}
+
+/* Photo Grid Row */
+.photos-grid {
+  display: grid;
+  gap: 6px;
+  width: 100%;
+}
+
+.photos-grid.count-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.photos-grid.count-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.photos-grid.count-1 {
+  grid-template-columns: 1fr;
+}
+
+.photo-card {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 14px;
+  overflow: hidden;
+  background-color: #f3f4f6;
+}
+
+.photos-grid.count-1 .photo-card {
+  aspect-ratio: 16 / 9;
+}
+
+.photo-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* 5. iOS Home Indicator */
+.home-indicator-bar {
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-bg);
+}
+
+.home-indicator {
+  width: 134px;
+  height: 5px;
+  background-color: #111827;
+  border-radius: 100px;
+}
