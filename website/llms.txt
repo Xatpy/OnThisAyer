@@ -1,0 +1,27 @@
+# OnThisAyer
+
+> Daily historical discovery platform and marketing showcase for Ayer App by Chapiware.
+
+OnThisAyer (https://xatpy.github.io/OnThisAyer/) is an interactive web platform that showcases curated historical events ("On This Day") across technology, cinema, pop culture, science, and history for every day of the year.
+
+It powers discovery for **Ayer App** (https://www.chapiware.com/ayer/), an on-device, 100% private photo memories application available for **iOS (iPhone/iPad)** and **Android**.
+
+## About Ayer App
+- **Developer:** Chapiware Studio (https://www.chapiware.com)
+- **Platforms:** iOS (App Store) & Android (Google Play)
+- **Core Value Proposition:** Ayer automatically organizes your photo gallery by date across all years, allowing you to relive what you were doing on this exact day 1, 5, 10, or 15 years ago.
+- **Privacy Model:** 100% private, on-device processing. No cloud uploads, no server analytics, no user tracking, and no account required. Works completely offline.
+
+## Key Features of OnThisAyer Web
+- **Daily Time Machine:** Browse what happened on today's date across history with curated Wikipedia imagery and clean event descriptions.
+- **Interactive iOS Preview:** Live phone mockup demonstrating how photo memories feel inside the Ayer mobile interface.
+- **Future Date Locking:** Anti-spoiler lock mechanism preventing access to future dates until they arrive.
+- **Social Sharing:** One-click copy tools for Twitter/X and structured, nostalgic Instagram/Threads captions.
+- **Free & Open Data:** Powered by the open Wikimedia Foundation REST APIs with zero advertising.
+
+## Links & References
+- [Ayer App Official Website](https://www.chapiware.com/ayer/)
+- [Ayer Privacy Policy](https://www.chapiware.com/ayer/privacy)
+- [Chapiware Studio](https://www.chapiware.com)
+- [OnThisAyer GitHub Repository](https://github.com/Xatpy/OnThisAyer)
+- [Full LLM Documentation](https://xatpy.github.io/OnThisAyer/llms-full.txt)

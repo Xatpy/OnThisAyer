@@ -10,10 +10,13 @@
   <meta name="description" content="What happened OnThisAyer? Discover iconic historical moments and relive your own personal photo memories with Ayer App for iOS and Android. 100% private and offline.">
   <meta name="keywords" content="OnThisAyer, on this day, on this ayer, ayer app, chapiware, photo memories, history, throwback, nostalgia, private photos iphone, private photos android">
   <meta name="author" content="Chapiware">
-  
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  <link rel="canonical" href="https://xatpy.github.io/OnThisAyer/">
+  <link rel="alternate" type="text/plain" href="llms.txt" title="LLM Context">
+
   <!-- Open Graph / Facebook / WhatsApp -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.chapiware.com/ayer/">
+  <meta property="og:url" content="https://xatpy.github.io/OnThisAyer/">
   <meta property="og:site_name" content="OnThisAyer">
   <meta property="og:title" content="OnThisAyer — What Happened on This Day?">
   <meta property="og:description" content="Discover iconic historical moments and relive your own personal photo memories with Ayer App for iOS & Android. 100% private, on-device, no cloud.">
@@ -38,6 +41,46 @@
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
   
   <link rel="stylesheet" href="styles.css">
+
+  <!-- Schema.org Structured Data (JSON-LD) for Google & LLM Search -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://xatpy.github.io/OnThisAyer/#website",
+        "url": "https://xatpy.github.io/OnThisAyer/",
+        "name": "OnThisAyer",
+        "description": "Daily historical discovery platform and marketing showcase for Ayer App.",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Chapiware",
+          "url": "https://www.chapiware.com"
+        }
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://www.chapiware.com/ayer/#app",
+        "name": "Ayer",
+        "operatingSystem": "iOS, Android",
+        "applicationCategory": "PhotographyApplication",
+        "description": "On-device, 100% private photo memories app. Relive your past moments without cloud uploads.",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "author": {
+          "@type": "Organization",
+          "name": "Chapiware",
+          "url": "https://www.chapiware.com"
+        },
+        "url": "https://www.chapiware.com/ayer/"
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
 
@@ -114,10 +157,13 @@
 
         <!-- Share & Action Bar -->
         <div class="device-actions">
-          <button id="shareTwitterBtn" class="share-btn twitter-btn">
+          <button id="shareTwitterBtn" class="share-btn twitter-btn" title="Share on 𝕏 / Twitter">
             <span>𝕏</span> Share on Twitter
           </button>
-          <button id="copyLinkBtn" class="share-btn copy-btn">
+          <button id="shareInstagramBtn" class="share-btn instagram-btn" title="Copy ready-to-post Instagram & Threads Caption">
+            <span>📸</span> Copy Instagram Post
+          </button>
+          <button id="copyLinkBtn" class="share-btn copy-btn" title="Copy website link">
             <span>🔗</span> Copy Link
           </button>
         </div>
@@ -185,6 +231,30 @@
       </div>
       <div class="months-grid" id="monthsGrid">
         <!-- Injected via JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Instagram Post Caption Modal -->
+  <div class="calendar-modal-overlay hidden" id="instagramModal">
+    <div class="calendar-modal-card insta-modal-card">
+      <div class="cal-modal-head">
+        <div>
+          <h3>📸 Instagram Post Caption</h3>
+          <p class="modal-hint">Full copy with historical breakdown, engagement question, and download CTA.</p>
+        </div>
+        <button id="closeInstaModalBtn" class="close-btn">&times;</button>
+      </div>
+      <div class="insta-caption-box">
+        <textarea id="instaCaptionText" class="insta-textarea" readonly></textarea>
+      </div>
+      <div class="insta-modal-actions">
+        <button id="copyInstaCaptionModalBtn" class="download-btn" style="flex: 1; justify-content: center; background: linear-gradient(135deg, #f43f5e, #f59e0b); color: #fff; border: none; cursor: pointer;">
+          📋 Copy to Clipboard
+        </button>
+        <a href="https://instagram.com" target="_blank" rel="noopener" class="share-btn" style="width: auto; padding: 10px 18px;">
+          Open Instagram ↗
+        </a>
       </div>
     </div>
   </div>

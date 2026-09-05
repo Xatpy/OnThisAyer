@@ -1,0 +1,31 @@
+# OnThisAyer — Complete Context & Documentation
+
+## Overview
+OnThisAyer is the public marketing and memory discovery platform for **Ayer App**, built by **Chapiware Studio**.
+The project brings historical context to personal nostalgia: while OnThisAyer showcases what the world experienced on any given day, Ayer App empowers users to discover what *they* were doing in their own personal lives on that exact same day.
+
+## Ayer App (by Chapiware)
+- **Official URL:** https://www.chapiware.com/ayer/
+- **Platform Availability:**
+  - iOS (iPhone / iPad): Available on Apple App Store
+  - Android: Available on Google Play Store
+- **Tagline:** Your private photo memories, rediscovered every day.
+- **Key Advantages:**
+  1. **Zero Cloud / 100% Private:** Photos never leave the user's physical device. No account creation, no external servers, no AI data harvesting.
+  2. **Offline First:** Operates seamlessly in airplane mode or without internet connectivity.
+  3. **Seamless Calendar Sync:** Automatically groups photos and videos by calendar month and day across all past years.
+  4. **Lightweight & Fast:** Minimal battery consumption, instant photo indexing, smooth modern iOS & Android UI.
+
+## OnThisAyer Web Architecture
+- **Web App URL:** https://xatpy.github.io/OnThisAyer/
+- **Hosting:** GitHub Pages (Static hosting, 0 servers, 100% uptime, zero cost).
+- **Data Pipeline:**
+  - Consumes the public Wikimedia REST API (`https://en.wikipedia.org/api/rest_v1/feed/onthisday/events/{month}/{day}`).
+  - Validates historical records and selects high-impact moments with images.
+  - Generates social media copy (Twitter/X and Instagram) formatted with years elapsed and Ayer download call-to-actions.
+- **Privacy Guarantee:** The web interface collects no personal data, uses no tracking cookies, and runs purely client-side in modern web browsers.
+
+## Contact & Credits
+- **Developer:** Chapiware Studio (https://www.chapiware.com)
+- **Source Code:** https://github.com/Xatpy/OnThisAyer
+- **Data Source:** Wikimedia Foundation (Wikipedia REST API)

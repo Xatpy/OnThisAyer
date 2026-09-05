@@ -32,12 +32,18 @@ const storiesCountBadge = document.getElementById('storiesCountBadge');
 const ayerMockupFrame = document.getElementById('ayerMockupFrame');
 
 const shareTwitterBtn = document.getElementById('shareTwitterBtn');
+const shareInstagramBtn = document.getElementById('shareInstagramBtn');
 const copyLinkBtn = document.getElementById('copyLinkBtn');
 
 const calendarModal = document.getElementById('calendarModal');
 const closeCalModalBtn = document.getElementById('closeCalModalBtn');
 const monthsGrid = document.getElementById('monthsGrid');
 const currentYearSpan = document.getElementById('currentYear');
+
+const instagramModal = document.getElementById('instagramModal');
+const closeInstaModalBtn = document.getElementById('closeInstaModalBtn');
+const instaCaptionText = document.getElementById('instaCaptionText');
+const copyInstaCaptionModalBtn = document.getElementById('copyInstaCaptionModalBtn');
 
 function isFutureDate(month, day) {
   if (month > TODAY_MONTH) return true;
@@ -122,6 +128,34 @@ function setupEventListeners() {
     window.open(shareUrl, '_blank', 'width=550,height=420');
   });
 
+  // Instagram Caption Copy & Modal
+  shareInstagramBtn.addEventListener('click', () => {
+    const caption = buildInstagramCaption(state.currentMonth, state.currentDay, state.events);
+    instaCaptionText.value = caption;
+    navigator.clipboard.writeText(caption);
+
+    const originalText = shareInstagramBtn.innerHTML;
+    shareInstagramBtn.innerHTML = '<span>✅</span> Copied Caption!';
+    setTimeout(() => { shareInstagramBtn.innerHTML = originalText; }, 2200);
+
+    instagramModal.classList.remove('hidden');
+  });
+
+  closeInstaModalBtn.addEventListener('click', () => {
+    instagramModal.classList.add('hidden');
+  });
+
+  copyInstaCaptionModalBtn.addEventListener('click', () => {
+    navigator.clipboard.writeText(instaCaptionText.value);
+    const originalText = copyInstaCaptionModalBtn.innerHTML;
+    copyInstaCaptionModalBtn.innerHTML = '✅ Copied to Clipboard!';
+    setTimeout(() => { copyInstaCaptionModalBtn.innerHTML = originalText; }, 1800);
+  });
+
+  instagramModal.addEventListener('click', (e) => {
+    if (e.target === instagramModal) instagramModal.classList.add('hidden');
+  });
+
   // Copy Link
   copyLinkBtn.addEventListener('click', () => {
     navigator.clipboard.writeText(window.location.href);
@@ -132,7 +166,10 @@ function setupEventListeners() {
 
   // Keyboard navigation (respects future date limit)
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') calendarModal.classList.add('hidden');
+    if (e.key === 'Escape') {
+      calendarModal.classList.add('hidden');
+      instagramModal.classList.add('hidden');
+    }
     if (e.key === 'ArrowLeft') changeDay(-1);
     if (e.key === 'ArrowRight') {
       if (!isToday(state.currentMonth, state.currentDay)) {
@@ -140,6 +177,20 @@ function setupEventListeners() {
       }
     }
   });
+}
+
+function buildInstagramCaption(month, day, events = []) {
+  const currentYear = new Date().getFullYear();
+  const monthName = MONTH_NAMES_EN[month - 1] || 'Date';
+
+  const items = events.map(e => {
+    const yearsAgo = currentYear - e.year;
+    const clean = (e.text || '').replace(/\s*\([^)]*\)/g, '').trim();
+    const icon = e.category?.icon || '✨';
+    return `🔹 ${e.year} (${yearsAgo} years ago)\n${icon} ${clean}`;
+  }).join('\n\n');
+
+  return `Feels like yesterday... ✨📸\n\nHere is what happened OnThisAyer (${monthName} ${day}) across history:\n\n${items}\n\n---\n💬 What were YOU doing on this exact day 5 or 10 years ago?\n\nRediscover your past photo memories with Ayer App. 100% private, on-device, no cloud 🔒\n\n👉 Free download on iOS & Android: https://www.chapiware.com/ayer/\n\n#OnThisDay #OnThisAyer #Throwback #PhotoMemories #Nostalgia #AyerApp #History #FeelsLikeYesterday #ThenAndNow`;
 }
 
 function changeDay(delta) {
@@ -218,6 +269,8 @@ async function loadDate(month, day) {
   
   const mName = MONTH_NAMES_EN[month - 1];
   const todayFlag = isToday(month, day);
+
+  document.title = `OnThisAyer — What Happened on ${mName} ${day}? | Photo Memories by Ayer App`;
 
   activeDateDisplay.textContent = todayFlag ? `Today (${mName} ${day})` : `${mName} ${day}`;
   heroDateBadge.textContent = `${mName} ${day} in History`;

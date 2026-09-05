@@ -1,0 +1,31 @@
+# robots.txt for OnThisAyer (https://xatpy.github.io/OnThisAyer/)
+# Allows standard search engine indexers and LLM crawlers for maximum discoverability
+
+User-agent: *
+Allow: /
+
+# Explicit AI & LLM Search Crawlers (ChatGPT Search, Perplexity, Claude, Applebot)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Sitemaps & LLM Context Files
+Sitemap: https://xatpy.github.io/OnThisAyer/sitemap.xml
+# LLM Context: https://xatpy.github.io/OnThisAyer/llms.txt
