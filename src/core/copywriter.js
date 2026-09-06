@@ -193,10 +193,22 @@ ${hashtags}`;
 
   const threads = `On this day (${monthName} ${day}) throughout the years:\n\n${events.map(ev => `${ev.icon} ${ev.year}: ${cleanEventSentence(ev.rawText, 100)}`).join('\n\n')}\n\nWhat photos do you have from this day? Check Ayer App 📲`;
 
+  const twitterThread = [
+    `🧵 1/${events.length + 2} | What happened OnThisAyer (${monthName} ${day})?\n\nFrom iconic milestones to unforgettable moments in history, here are the historical memories from this exact day 👇`,
+    ...events.map((ev, idx) => {
+      const fullTextClean = ev.rawText.replace(/\s*\([^)]*\)/g, '').trim();
+      return `${idx + 2}/${events.length + 2} | 🔹 ${ev.year} (${ev.yearsAgo} years ago)\n\n${ev.icon} ${fullTextClean}`;
+    }),
+    `${events.length + 2}/${events.length + 2} | 💬 What were YOU doing on this exact day 5 or 10 years ago?\n\nRediscover your personal photo memories with Ayer.\n🔒 100% private, on-device, no cloud.\n\n👉 Free download for iOS & Android: https://www.chapiware.com/ayer/\n\n#OnThisDay #Throwback #AyerApp #History #Nostalgia`
+  ];
+
   return {
     twitter,
+    twitterThread,
+    twitterThreadFormatted: twitterThread.join('\n\n---\n\n'),
     instagram,
     threads,
+    tiktok: `Wait till you see what happened on this day in ${events[0]?.year || 'history'}… 🤯👇\n\n${events.slice(0, 3).map(ev => `⚡ ${ev.year} (${ev.yearsAgo} yrs ago): ${cleanEventSentence(ev.rawText, 75)}`).join('\n')}\n\n💬 Honest question: Where were YOU on this exact day 5 or 10 years ago? Check your camera roll 👀\n\n📲 Relive your own throwback photos every day with Ayer: www.chapiware.com/ayer (100% private, on iOS & Android)\n\n#OnThisDay #HistoryTok #DidYouKnow #Throwback #FeelsLikeYesterday #AyerApp #HistoryBuff #VintageVibes #TodayInHistory #Viral #FYP`,
     twitterLength: twitter.length
   };
 }
@@ -256,10 +268,22 @@ ${hashtags}`;
 
   const threads = `Tal día como hoy (${day} de ${monthName}) a lo largo de los años:\n\n${events.map(ev => `${ev.icon} ${ev.year}: ${cleanEventSentence(ev.rawText, 100)}`).join('\n\n')}\n\n¿Qué fotos tienes tú de este mismo día? Míralo en Ayer App 📲`;
 
+  const twitterThread = [
+    `🧵 1/${events.length + 2} | ¿Qué pasó un día como hoy (${day} de ${monthName})?\n\nDesde hitos históricos hasta momentos inolvidables de la cultura pop, esto es lo que ocurría tal día como hoy en la historia 👇`,
+    ...events.map((ev, idx) => {
+      const fullTextClean = ev.rawText.replace(/\s*\([^)]*\)/g, '').trim();
+      return `${idx + 2}/${events.length + 2} | 🔹 ${ev.year} (hace ${ev.yearsAgo} años)\n\n${ev.icon} ${fullTextClean}`;
+    }),
+    `${events.length + 2}/${events.length + 2} | 💬 ¿Y tú qué estabas haciendo exactamente este mismo día hace 5 o 10 años?\n\nRevive tus propias fotos del pasado con Ayer App.\n🔒 100% privada, en tu dispositivo, sin nube.\n\n👉 Descarga gratis en iOS y Android: https://www.chapiware.com/ayer/\n\n#TalDiaComoHoy #OnThisDay #Recuerdos #AyerApp #Historia #Nostalgia`
+  ];
+
   return {
     twitter,
+    twitterThread,
+    twitterThreadFormatted: twitterThread.join('\n\n---\n\n'),
     instagram,
     threads,
+    tiktok: `Espera a ver lo que pasó un día como hoy… 🤯👇\n\n${events.slice(0, 3).map(ev => `⚡ ${ev.year} (hace ${ev.yearsAgo} años): ${cleanEventSentence(ev.rawText, 75)}`).join('\n')}\n\n💬 Pregunta seria: ¿Dónde estabas tú exactamente este mismo día hace 5 o 10 años? Abre tu carrete 👀\n\n📲 Revive tus propias fotos del pasado cada día con Ayer App: www.chapiware.com/ayer (100% privada, en iOS y Android)\n\n#TalDiaComoHoy #OnThisDay #Historia #Nostalgia #AyerApp #Curiosidades #Recuerdos #Throwback #ParaTi #FYP`,
     twitterLength: twitter.length
   };
 }

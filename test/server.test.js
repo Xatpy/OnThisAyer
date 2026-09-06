@@ -113,4 +113,32 @@ describe('Server & API Integration Tests', () => {
     });
     assert.equal(res.status, 413);
   });
+
+  it('GET /api/video/:month/:day detects existing video and caption', async () => {
+    const res = await fetch(`${baseUrl}/api/video/9/6`);
+    assert.equal(res.status, 200);
+    const data = await res.json();
+    assert.equal(data.exists, true);
+    assert.equal(data.videoUrl, '/output/videos/09-06.mp4');
+    assert.ok(data.downloadFilename.includes('09-06'));
+    assert.ok(typeof data.caption === 'string');
+  });
+
+  it('GET /api/video/:month/:day returns exists: false for date without video', async () => {
+    const res = await fetch(`${baseUrl}/api/video/1/1`);
+    assert.equal(res.status, 200);
+    const data = await res.json();
+    assert.equal(data.exists, false);
+    assert.equal(data.videoUrl, null);
+  });
+
+  it('GET /output/videos/09-06.mp4 supports Range requests for streaming', async () => {
+    const res = await fetch(`${baseUrl}/output/videos/09-06.mp4`, {
+      headers: { Range: 'bytes=0-1023' }
+    });
+    assert.equal(res.status, 206);
+    assert.equal(res.headers.get('content-type'), 'video/mp4');
+    assert.equal(res.headers.get('accept-ranges'), 'bytes');
+    assert.match(res.headers.get('content-range'), /^bytes 0-1023\/\d+$/);
+  });
 });

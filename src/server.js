@@ -1,5 +1,6 @@
 import http from 'node:http';
 import fs from 'node:fs/promises';
+import fsSync from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getDayEvents, saveCuratedDay, getCuratedStore, padZero, isValidDate, migrateCachedData } from './core/extractor.js';
@@ -29,7 +30,10 @@ const MIME_TYPES = {
   '.jpg': 'image/jpeg',
   '.jpeg': 'image/jpeg',
   '.svg': 'image/svg+xml',
-  '.ico': 'image/x-icon'
+  '.ico': 'image/x-icon',
+  '.mp4': 'video/mp4',
+  '.webm': 'video/webm',
+  '.txt': 'text/plain; charset=utf-8'
 };
 
 class PayloadTooLargeError extends Error {
@@ -176,6 +180,56 @@ async function handleApiRequest(req, res, url) {
     return;
   }
 
+  // GET /api/video/:month/:day
+  const matchVideo = pathname.match(/^\/api\/video\/(\d+)\/(\d+)$/);
+  if (matchVideo && req.method === 'GET') {
+    const month = parseInt(matchVideo[1], 10);
+    const day = parseInt(matchVideo[2], 10);
+
+    if (!isValidDate(month, day)) {
+      res.writeHead(400, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({ error: `Invalid calendar date: month ${month}, day ${day}` }));
+      return;
+    }
+
+    const mm = padZero(month);
+    const dd = padZero(day);
+    const videoFile = `${mm}-${dd}.mp4`;
+    const txtFile = `${mm}-${dd}.txt`;
+    const videoAbsPath = path.join(OUTPUT_DIR, 'videos', videoFile);
+    const txtAbsPath = path.join(OUTPUT_DIR, 'videos', txtFile);
+
+    try {
+      const stat = await fs.stat(videoAbsPath);
+      let caption = '';
+      try {
+        caption = await fs.readFile(txtAbsPath, 'utf8');
+      } catch {}
+
+      res.writeHead(200, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({
+        exists: true,
+        month,
+        day,
+        videoUrl: `/output/videos/${videoFile}`,
+        downloadUrl: `/output/videos/${videoFile}`,
+        downloadFilename: `OnThisAyer-${mm}-${dd}.mp4`,
+        captionUrl: `/output/videos/${txtFile}`,
+        caption,
+        sizeBytes: stat.size,
+      }));
+    } catch {
+      res.writeHead(200, { 'Content-Type': 'application/json' });
+      res.end(JSON.stringify({
+        exists: false,
+        month,
+        day,
+        videoUrl: null,
+      }));
+    }
+    return;
+  }
+
   // POST /api/curated/:month/:day
   const matchCurated = pathname.match(/^\/api\/curated\/(\d+)\/(\d+)$/);
   if (matchCurated && req.method === 'POST') {
@@ -261,8 +315,50 @@ async function serveStaticFile(req, res, rawPathname) {
 
     const ext = path.extname(finalPath).toLowerCase();
     const contentType = MIME_TYPES[ext] || 'application/octet-stream';
-    const content = await fs.readFile(finalPath);
 
+    // Support HTTP Range requests for video streaming / seeking
+    if (ext === '.mp4' || ext === '.webm') {
+      const totalSize = stat.size;
+      const range = req.headers.range;
+
+      if (range) {
+        const parts = range.replace(/bytes=/, '').split('-');
+        const start = parseInt(parts[0], 10);
+        const end = parts[1] ? parseInt(parts[1], 10) : totalSize - 1;
+
+        if (start >= totalSize || end >= totalSize || start > end) {
+          res.writeHead(416, {
+            'Content-Range': `bytes */${totalSize}`,
+            'Content-Type': contentType,
+          });
+          res.end();
+          return;
+        }
+
+        const chunksize = end - start + 1;
+        const fileStream = fsSync.createReadStream(finalPath, { start, end });
+
+        res.writeHead(206, {
+          'Content-Range': `bytes ${start}-${end}/${totalSize}`,
+          'Accept-Ranges': 'bytes',
+          'Content-Length': chunksize,
+          'Content-Type': contentType,
+        });
+        fileStream.pipe(res);
+        return;
+      }
+
+      res.writeHead(200, {
+        'Content-Length': totalSize,
+        'Accept-Ranges': 'bytes',
+        'Content-Type': contentType,
+      });
+      const fileStream = fsSync.createReadStream(finalPath);
+      fileStream.pipe(res);
+      return;
+    }
+
+    const content = await fs.readFile(finalPath);
     res.writeHead(200, { 'Content-Type': contentType });
     res.end(content);
   } catch {

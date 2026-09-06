@@ -50,6 +50,8 @@ const instagramCopyArea = document.getElementById('instagramCopyArea');
 const twitterCharCount = document.getElementById('twitterCharCount');
 const copyTwitterBtn = document.getElementById('copyTwitterBtn');
 const copyInstagramBtn = document.getElementById('copyInstagramBtn');
+const tiktokCopyArea = document.getElementById('tiktokCopyArea');
+const copyTikTokBtn = document.getElementById('copyTikTokBtn');
 
 const searchInput = document.getElementById('searchInput');
 const categoryFilters = document.getElementById('categoryFilters');
@@ -191,6 +193,15 @@ function setupEventListeners() {
     copyInstagramBtn.textContent = '✅ ¡Copiado!';
     setTimeout(() => { copyInstagramBtn.textContent = originalText; }, 1500);
   });
+
+  if (copyTikTokBtn) {
+    copyTikTokBtn.addEventListener('click', () => {
+      navigator.clipboard.writeText(tiktokCopyArea.value);
+      const originalText = copyTikTokBtn.textContent;
+      copyTikTokBtn.textContent = '✅ ¡Copiado!';
+      setTimeout(() => { copyTikTokBtn.textContent = originalText; }, 1500);
+    });
+  }
 
   // Modal
   modalCloseBtn.addEventListener('click', () => imageModal.classList.add('hidden'));
@@ -378,6 +389,7 @@ async function updateSocialCopies() {
   if (selectedEvents.length === 0) {
     twitterCopyArea.value = 'Select at least 1 year from the list to generate Twitter copy.';
     instagramCopyArea.value = 'Select at least 1 year from the list to generate Instagram copy.';
+    if (tiktokCopyArea) tiktokCopyArea.value = 'Select at least 1 year from the list to generate TikTok copy.';
     updateTwitterCounter();
     return;
   }
@@ -393,6 +405,7 @@ async function updateSocialCopies() {
       const copies = await res.json();
       twitterCopyArea.value = copies.twitter;
       instagramCopyArea.value = copies.instagram;
+      if (tiktokCopyArea) tiktokCopyArea.value = copies.tiktok || '';
       updateTwitterCounter();
     }
   } catch (err) {

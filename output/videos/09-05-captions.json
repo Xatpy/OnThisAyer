@@ -1,0 +1,400 @@
+{
+  "text": "On this day, September 5th: In 1984: The Space Shuttle Discovery lands after its maiden voyage. In 1977: NASA launched the space probe Voyager 1, currently the farthest spacecraft from Earth, from Launch Complex 41 at Cape Canaveral Air Force Station. And in 1960: Muhammad Ali wins the gold medal in the light heavyweight boxing competition at the Olympic Games in Rome.",
+  "voice": "en-US-ChristopherNeural",
+  "durationMs": 25524,
+  "durationSeconds": 25.524,
+  "sentences": [
+    {
+      "text": "On this day, September 5th: In 1984: The Space Shuttle Discovery lands after its maiden voyage.",
+      "startMs": 100,
+      "endMs": 7383,
+      "durationMs": 7283
+    },
+    {
+      "text": "In 1977: NASA launched the space probe Voyager 1, currently the farthest spacecraft from Earth, from Launch Complex 41 at Cape Canaveral Air Force Station.",
+      "startMs": 7333,
+      "endMs": 17952,
+      "durationMs": 10619
+    },
+    {
+      "text": "And in 1960: Muhammad Ali wins the gold medal in the light heavyweight boxing competition at the Olympic Games in Rome.",
+      "startMs": 17952,
+      "endMs": 25524,
+      "durationMs": 7571
+    }
+  ],
+  "words": [
+    {
+      "text": "On",
+      "startMs": 100,
+      "endMs": 282,
+      "timestampMs": 100
+    },
+    {
+      "text": "this",
+      "startMs": 282,
+      "endMs": 646,
+      "timestampMs": 282
+    },
+    {
+      "text": "day,",
+      "startMs": 646,
+      "endMs": 1010,
+      "timestampMs": 646
+    },
+    {
+      "text": "September",
+      "startMs": 1010,
+      "endMs": 1830,
+      "timestampMs": 1010
+    },
+    {
+      "text": "5th:",
+      "startMs": 1830,
+      "endMs": 2194,
+      "timestampMs": 1830
+    },
+    {
+      "text": "In",
+      "startMs": 2194,
+      "endMs": 2376,
+      "timestampMs": 2194
+    },
+    {
+      "text": "1984:",
+      "startMs": 2376,
+      "endMs": 2831,
+      "timestampMs": 2376
+    },
+    {
+      "text": "The",
+      "startMs": 2831,
+      "endMs": 3104,
+      "timestampMs": 2831
+    },
+    {
+      "text": "Space",
+      "startMs": 3104,
+      "endMs": 3560,
+      "timestampMs": 3104
+    },
+    {
+      "text": "Shuttle",
+      "startMs": 3560,
+      "endMs": 4197,
+      "timestampMs": 3560
+    },
+    {
+      "text": "Discovery",
+      "startMs": 4197,
+      "endMs": 5016,
+      "timestampMs": 4197
+    },
+    {
+      "text": "lands",
+      "startMs": 5016,
+      "endMs": 5471,
+      "timestampMs": 5016
+    },
+    {
+      "text": "after",
+      "startMs": 5471,
+      "endMs": 5927,
+      "timestampMs": 5471
+    },
+    {
+      "text": "its",
+      "startMs": 5927,
+      "endMs": 6200,
+      "timestampMs": 5927
+    },
+    {
+      "text": "maiden",
+      "startMs": 6200,
+      "endMs": 6746,
+      "timestampMs": 6200
+    },
+    {
+      "text": "voyage.",
+      "startMs": 6746,
+      "endMs": 7383,
+      "timestampMs": 6746
+    },
+    {
+      "text": "In",
+      "startMs": 7333,
+      "endMs": 7495,
+      "timestampMs": 7333
+    },
+    {
+      "text": "1977:",
+      "startMs": 7495,
+      "endMs": 7901,
+      "timestampMs": 7495
+    },
+    {
+      "text": "NASA",
+      "startMs": 7901,
+      "endMs": 8225,
+      "timestampMs": 7901
+    },
+    {
+      "text": "launched",
+      "startMs": 8225,
+      "endMs": 8874,
+      "timestampMs": 8225
+    },
+    {
+      "text": "the",
+      "startMs": 8874,
+      "endMs": 9117,
+      "timestampMs": 8874
+    },
+    {
+      "text": "space",
+      "startMs": 9117,
+      "endMs": 9522,
+      "timestampMs": 9117
+    },
+    {
+      "text": "probe",
+      "startMs": 9522,
+      "endMs": 9927,
+      "timestampMs": 9522
+    },
+    {
+      "text": "Voyager",
+      "startMs": 9927,
+      "endMs": 10495,
+      "timestampMs": 9927
+    },
+    {
+      "text": "1,",
+      "startMs": 10495,
+      "endMs": 10657,
+      "timestampMs": 10495
+    },
+    {
+      "text": "currently",
+      "startMs": 10657,
+      "endMs": 11386,
+      "timestampMs": 10657
+    },
+    {
+      "text": "the",
+      "startMs": 11386,
+      "endMs": 11630,
+      "timestampMs": 11386
+    },
+    {
+      "text": "farthest",
+      "startMs": 11630,
+      "endMs": 12278,
+      "timestampMs": 11630
+    },
+    {
+      "text": "spacecraft",
+      "startMs": 12278,
+      "endMs": 13089,
+      "timestampMs": 12278
+    },
+    {
+      "text": "from",
+      "startMs": 13089,
+      "endMs": 13413,
+      "timestampMs": 13089
+    },
+    {
+      "text": "Earth,",
+      "startMs": 13413,
+      "endMs": 13899,
+      "timestampMs": 13413
+    },
+    {
+      "text": "from",
+      "startMs": 13899,
+      "endMs": 14224,
+      "timestampMs": 13899
+    },
+    {
+      "text": "Launch",
+      "startMs": 14224,
+      "endMs": 14710,
+      "timestampMs": 14224
+    },
+    {
+      "text": "Complex",
+      "startMs": 14710,
+      "endMs": 15277,
+      "timestampMs": 14710
+    },
+    {
+      "text": "41",
+      "startMs": 15277,
+      "endMs": 15439,
+      "timestampMs": 15277
+    },
+    {
+      "text": "at",
+      "startMs": 15439,
+      "endMs": 15602,
+      "timestampMs": 15439
+    },
+    {
+      "text": "Cape",
+      "startMs": 15602,
+      "endMs": 15926,
+      "timestampMs": 15602
+    },
+    {
+      "text": "Canaveral",
+      "startMs": 15926,
+      "endMs": 16655,
+      "timestampMs": 15926
+    },
+    {
+      "text": "Air",
+      "startMs": 16655,
+      "endMs": 16899,
+      "timestampMs": 16655
+    },
+    {
+      "text": "Force",
+      "startMs": 16899,
+      "endMs": 17304,
+      "timestampMs": 16899
+    },
+    {
+      "text": "Station.",
+      "startMs": 17304,
+      "endMs": 17952,
+      "timestampMs": 17304
+    },
+    {
+      "text": "And",
+      "startMs": 17952,
+      "endMs": 18182,
+      "timestampMs": 17952
+    },
+    {
+      "text": "in",
+      "startMs": 18182,
+      "endMs": 18335,
+      "timestampMs": 18182
+    },
+    {
+      "text": "1960:",
+      "startMs": 18335,
+      "endMs": 18717,
+      "timestampMs": 18335
+    },
+    {
+      "text": "Muhammad",
+      "startMs": 18717,
+      "endMs": 19329,
+      "timestampMs": 18717
+    },
+    {
+      "text": "Ali",
+      "startMs": 19329,
+      "endMs": 19558,
+      "timestampMs": 19329
+    },
+    {
+      "text": "wins",
+      "startMs": 19558,
+      "endMs": 19864,
+      "timestampMs": 19558
+    },
+    {
+      "text": "the",
+      "startMs": 19864,
+      "endMs": 20094,
+      "timestampMs": 19864
+    },
+    {
+      "text": "gold",
+      "startMs": 20094,
+      "endMs": 20400,
+      "timestampMs": 20094
+    },
+    {
+      "text": "medal",
+      "startMs": 20400,
+      "endMs": 20782,
+      "timestampMs": 20400
+    },
+    {
+      "text": "in",
+      "startMs": 20782,
+      "endMs": 20935,
+      "timestampMs": 20782
+    },
+    {
+      "text": "the",
+      "startMs": 20935,
+      "endMs": 21165,
+      "timestampMs": 20935
+    },
+    {
+      "text": "light",
+      "startMs": 21165,
+      "endMs": 21547,
+      "timestampMs": 21165
+    },
+    {
+      "text": "heavyweight",
+      "startMs": 21547,
+      "endMs": 22388,
+      "timestampMs": 21547
+    },
+    {
+      "text": "boxing",
+      "startMs": 22388,
+      "endMs": 22847,
+      "timestampMs": 22388
+    },
+    {
+      "text": "competition",
+      "startMs": 22847,
+      "endMs": 23688,
+      "timestampMs": 22847
+    },
+    {
+      "text": "at",
+      "startMs": 23688,
+      "endMs": 23841,
+      "timestampMs": 23688
+    },
+    {
+      "text": "the",
+      "startMs": 23841,
+      "endMs": 24071,
+      "timestampMs": 23841
+    },
+    {
+      "text": "Olympic",
+      "startMs": 24071,
+      "endMs": 24606,
+      "timestampMs": 24071
+    },
+    {
+      "text": "Games",
+      "startMs": 24606,
+      "endMs": 24988,
+      "timestampMs": 24606
+    },
+    {
+      "text": "in",
+      "startMs": 24988,
+      "endMs": 25141,
+      "timestampMs": 24988
+    },
+    {
+      "text": "Rome.",
+      "startMs": 25141,
+      "endMs": 25524,
+      "timestampMs": 25141
+    }
+  ]
+}

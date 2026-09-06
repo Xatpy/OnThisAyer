@@ -1,0 +1,514 @@
+{
+  "text": "On this day, September 13th: In 2007: The McLaren F1 team are found guilty of possessing confidential information from the Ferrari team, fined $100 million, and excluded from the constructors' championship standings. In 1993: Nirvana released their third and final studio album, In Utero, which went on to sell more than 15 million copies. And in 1985: Super Mario Bros., one of the most influential and best-selling video games in history, was first released in Japan for the Nintendo Entertainment System.",
+  "voice": "en-US-ChristopherNeural",
+  "durationMs": 33548,
+  "durationSeconds": 33.548,
+  "sentences": [
+    {
+      "text": "On this day, September 13th: In 2007: The McLaren F1 team are found guilty of possessing confidential information from the Ferrari team, fined $100 million, and excluded from the constructors' championship standings.",
+      "startMs": 100,
+      "endMs": 14276,
+      "durationMs": 14176
+    },
+    {
+      "text": "In 1993: Nirvana released their third and final studio album, In Utero, which went on to sell more than 15 million copies.",
+      "startMs": 14226,
+      "endMs": 23024,
+      "durationMs": 8798
+    },
+    {
+      "text": "And in 1985: Super Mario Bros., one of the most influential and best-selling video games in history, was first released in Japan for the Nintendo Entertainment System.",
+      "startMs": 23024,
+      "endMs": 33548,
+      "durationMs": 10524
+    }
+  ],
+  "words": [
+    {
+      "text": "On",
+      "startMs": 100,
+      "endMs": 253,
+      "timestampMs": 100
+    },
+    {
+      "text": "this",
+      "startMs": 253,
+      "endMs": 560,
+      "timestampMs": 253
+    },
+    {
+      "text": "day,",
+      "startMs": 560,
+      "endMs": 866,
+      "timestampMs": 560
+    },
+    {
+      "text": "September",
+      "startMs": 866,
+      "endMs": 1556,
+      "timestampMs": 866
+    },
+    {
+      "text": "13th:",
+      "startMs": 1556,
+      "endMs": 1939,
+      "timestampMs": 1556
+    },
+    {
+      "text": "In",
+      "startMs": 1939,
+      "endMs": 2092,
+      "timestampMs": 1939
+    },
+    {
+      "text": "2007:",
+      "startMs": 2092,
+      "endMs": 2475,
+      "timestampMs": 2092
+    },
+    {
+      "text": "The",
+      "startMs": 2475,
+      "endMs": 2705,
+      "timestampMs": 2475
+    },
+    {
+      "text": "McLaren",
+      "startMs": 2705,
+      "endMs": 3242,
+      "timestampMs": 2705
+    },
+    {
+      "text": "F1",
+      "startMs": 3242,
+      "endMs": 3395,
+      "timestampMs": 3242
+    },
+    {
+      "text": "team",
+      "startMs": 3395,
+      "endMs": 3702,
+      "timestampMs": 3395
+    },
+    {
+      "text": "are",
+      "startMs": 3702,
+      "endMs": 3931,
+      "timestampMs": 3702
+    },
+    {
+      "text": "found",
+      "startMs": 3931,
+      "endMs": 4315,
+      "timestampMs": 3931
+    },
+    {
+      "text": "guilty",
+      "startMs": 4315,
+      "endMs": 4774,
+      "timestampMs": 4315
+    },
+    {
+      "text": "of",
+      "startMs": 4774,
+      "endMs": 4928,
+      "timestampMs": 4774
+    },
+    {
+      "text": "possessing",
+      "startMs": 4928,
+      "endMs": 5694,
+      "timestampMs": 4928
+    },
+    {
+      "text": "confidential",
+      "startMs": 5694,
+      "endMs": 6613,
+      "timestampMs": 5694
+    },
+    {
+      "text": "information",
+      "startMs": 6613,
+      "endMs": 7456,
+      "timestampMs": 6613
+    },
+    {
+      "text": "from",
+      "startMs": 7456,
+      "endMs": 7763,
+      "timestampMs": 7456
+    },
+    {
+      "text": "the",
+      "startMs": 7763,
+      "endMs": 7993,
+      "timestampMs": 7763
+    },
+    {
+      "text": "Ferrari",
+      "startMs": 7993,
+      "endMs": 8529,
+      "timestampMs": 7993
+    },
+    {
+      "text": "team,",
+      "startMs": 8529,
+      "endMs": 8912,
+      "timestampMs": 8529
+    },
+    {
+      "text": "fined",
+      "startMs": 8912,
+      "endMs": 9295,
+      "timestampMs": 8912
+    },
+    {
+      "text": "$100",
+      "startMs": 9295,
+      "endMs": 9602,
+      "timestampMs": 9295
+    },
+    {
+      "text": "million,",
+      "startMs": 9602,
+      "endMs": 10215,
+      "timestampMs": 9602
+    },
+    {
+      "text": "and",
+      "startMs": 10215,
+      "endMs": 10445,
+      "timestampMs": 10215
+    },
+    {
+      "text": "excluded",
+      "startMs": 10445,
+      "endMs": 11058,
+      "timestampMs": 10445
+    },
+    {
+      "text": "from",
+      "startMs": 11058,
+      "endMs": 11364,
+      "timestampMs": 11058
+    },
+    {
+      "text": "the",
+      "startMs": 11364,
+      "endMs": 11594,
+      "timestampMs": 11364
+    },
+    {
+      "text": "constructors'",
+      "startMs": 11594,
+      "endMs": 12590,
+      "timestampMs": 11594
+    },
+    {
+      "text": "championship",
+      "startMs": 12590,
+      "endMs": 13510,
+      "timestampMs": 12590
+    },
+    {
+      "text": "standings.",
+      "startMs": 13510,
+      "endMs": 14276,
+      "timestampMs": 13510
+    },
+    {
+      "text": "In",
+      "startMs": 14226,
+      "endMs": 14400,
+      "timestampMs": 14226
+    },
+    {
+      "text": "1993:",
+      "startMs": 14400,
+      "endMs": 14836,
+      "timestampMs": 14400
+    },
+    {
+      "text": "Nirvana",
+      "startMs": 14836,
+      "endMs": 15446,
+      "timestampMs": 14836
+    },
+    {
+      "text": "released",
+      "startMs": 15446,
+      "endMs": 16143,
+      "timestampMs": 15446
+    },
+    {
+      "text": "their",
+      "startMs": 16143,
+      "endMs": 16578,
+      "timestampMs": 16143
+    },
+    {
+      "text": "third",
+      "startMs": 16578,
+      "endMs": 17014,
+      "timestampMs": 16578
+    },
+    {
+      "text": "and",
+      "startMs": 17014,
+      "endMs": 17275,
+      "timestampMs": 17014
+    },
+    {
+      "text": "final",
+      "startMs": 17275,
+      "endMs": 17710,
+      "timestampMs": 17275
+    },
+    {
+      "text": "studio",
+      "startMs": 17710,
+      "endMs": 18233,
+      "timestampMs": 17710
+    },
+    {
+      "text": "album,",
+      "startMs": 18233,
+      "endMs": 18756,
+      "timestampMs": 18233
+    },
+    {
+      "text": "In",
+      "startMs": 18756,
+      "endMs": 18930,
+      "timestampMs": 18756
+    },
+    {
+      "text": "Utero,",
+      "startMs": 18930,
+      "endMs": 19452,
+      "timestampMs": 18930
+    },
+    {
+      "text": "which",
+      "startMs": 19452,
+      "endMs": 19888,
+      "timestampMs": 19452
+    },
+    {
+      "text": "went",
+      "startMs": 19888,
+      "endMs": 20236,
+      "timestampMs": 19888
+    },
+    {
+      "text": "on",
+      "startMs": 20236,
+      "endMs": 20411,
+      "timestampMs": 20236
+    },
+    {
+      "text": "to",
+      "startMs": 20411,
+      "endMs": 20585,
+      "timestampMs": 20411
+    },
+    {
+      "text": "sell",
+      "startMs": 20585,
+      "endMs": 20933,
+      "timestampMs": 20585
+    },
+    {
+      "text": "more",
+      "startMs": 20933,
+      "endMs": 21282,
+      "timestampMs": 20933
+    },
+    {
+      "text": "than",
+      "startMs": 21282,
+      "endMs": 21630,
+      "timestampMs": 21282
+    },
+    {
+      "text": "15",
+      "startMs": 21630,
+      "endMs": 21804,
+      "timestampMs": 21630
+    },
+    {
+      "text": "million",
+      "startMs": 21804,
+      "endMs": 22414,
+      "timestampMs": 21804
+    },
+    {
+      "text": "copies.",
+      "startMs": 22414,
+      "endMs": 23024,
+      "timestampMs": 22414
+    },
+    {
+      "text": "And",
+      "startMs": 23024,
+      "endMs": 23248,
+      "timestampMs": 23024
+    },
+    {
+      "text": "in",
+      "startMs": 23248,
+      "endMs": 23397,
+      "timestampMs": 23248
+    },
+    {
+      "text": "1985:",
+      "startMs": 23397,
+      "endMs": 23770,
+      "timestampMs": 23397
+    },
+    {
+      "text": "Super",
+      "startMs": 23770,
+      "endMs": 24143,
+      "timestampMs": 23770
+    },
+    {
+      "text": "Mario",
+      "startMs": 24143,
+      "endMs": 24517,
+      "timestampMs": 24143
+    },
+    {
+      "text": "Bros.,",
+      "startMs": 24517,
+      "endMs": 24964,
+      "timestampMs": 24517
+    },
+    {
+      "text": "one",
+      "startMs": 24964,
+      "endMs": 25188,
+      "timestampMs": 24964
+    },
+    {
+      "text": "of",
+      "startMs": 25188,
+      "endMs": 25338,
+      "timestampMs": 25188
+    },
+    {
+      "text": "the",
+      "startMs": 25338,
+      "endMs": 25561,
+      "timestampMs": 25338
+    },
+    {
+      "text": "most",
+      "startMs": 25561,
+      "endMs": 25860,
+      "timestampMs": 25561
+    },
+    {
+      "text": "influential",
+      "startMs": 25860,
+      "endMs": 26681,
+      "timestampMs": 25860
+    },
+    {
+      "text": "and",
+      "startMs": 26681,
+      "endMs": 26905,
+      "timestampMs": 26681
+    },
+    {
+      "text": "best-selling",
+      "startMs": 26905,
+      "endMs": 27801,
+      "timestampMs": 26905
+    },
+    {
+      "text": "video",
+      "startMs": 27801,
+      "endMs": 28174,
+      "timestampMs": 27801
+    },
+    {
+      "text": "games",
+      "startMs": 28174,
+      "endMs": 28547,
+      "timestampMs": 28174
+    },
+    {
+      "text": "in",
+      "startMs": 28547,
+      "endMs": 28696,
+      "timestampMs": 28547
+    },
+    {
+      "text": "history,",
+      "startMs": 28696,
+      "endMs": 29293,
+      "timestampMs": 28696
+    },
+    {
+      "text": "was",
+      "startMs": 29293,
+      "endMs": 29517,
+      "timestampMs": 29293
+    },
+    {
+      "text": "first",
+      "startMs": 29517,
+      "endMs": 29890,
+      "timestampMs": 29517
+    },
+    {
+      "text": "released",
+      "startMs": 29890,
+      "endMs": 30488,
+      "timestampMs": 29890
+    },
+    {
+      "text": "in",
+      "startMs": 30488,
+      "endMs": 30637,
+      "timestampMs": 30488
+    },
+    {
+      "text": "Japan",
+      "startMs": 30637,
+      "endMs": 31010,
+      "timestampMs": 30637
+    },
+    {
+      "text": "for",
+      "startMs": 31010,
+      "endMs": 31234,
+      "timestampMs": 31010
+    },
+    {
+      "text": "the",
+      "startMs": 31234,
+      "endMs": 31458,
+      "timestampMs": 31234
+    },
+    {
+      "text": "Nintendo",
+      "startMs": 31458,
+      "endMs": 32055,
+      "timestampMs": 31458
+    },
+    {
+      "text": "Entertainment",
+      "startMs": 32055,
+      "endMs": 33025,
+      "timestampMs": 32055
+    },
+    {
+      "text": "System.",
+      "startMs": 33025,
+      "endMs": 33548,
+      "timestampMs": 33025
+    }
+  ]
+}

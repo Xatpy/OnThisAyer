@@ -1,0 +1,394 @@
+{
+  "text": "On this day, September 2nd: In 2008: Google launches its Google Chrome web browser. In 1984: Seven people are shot and killed and 12 wounded in the Milperra massacre, a shootout between the rival motorcycle gangs Bandidos and Comancheros in Sydney, Australia. And in 1970: NASA announces the cancellation of two Apollo missions to the Moon, Apollo 15, and Apollo 19.",
+  "voice": "en-US-ChristopherNeural",
+  "durationMs": 26107,
+  "durationSeconds": 26.107,
+  "sentences": [
+    {
+      "text": "On this day, September 2nd: In 2008: Google launches its Google Chrome web browser.",
+      "startMs": 100,
+      "endMs": 6788,
+      "durationMs": 6688
+    },
+    {
+      "text": "In 1984: Seven people are shot and killed and 12 wounded in the Milperra massacre, a shootout between the rival motorcycle gangs Bandidos and Comancheros in Sydney, Australia.",
+      "startMs": 6738,
+      "endMs": 17881,
+      "durationMs": 11143
+    },
+    {
+      "text": "And in 1970: NASA announces the cancellation of two Apollo missions to the Moon, Apollo 15, and Apollo 19.",
+      "startMs": 17881,
+      "endMs": 26107,
+      "durationMs": 8226
+    }
+  ],
+  "words": [
+    {
+      "text": "On",
+      "startMs": 100,
+      "endMs": 291,
+      "timestampMs": 100
+    },
+    {
+      "text": "this",
+      "startMs": 291,
+      "endMs": 673,
+      "timestampMs": 291
+    },
+    {
+      "text": "day,",
+      "startMs": 673,
+      "endMs": 1055,
+      "timestampMs": 673
+    },
+    {
+      "text": "September",
+      "startMs": 1055,
+      "endMs": 1915,
+      "timestampMs": 1055
+    },
+    {
+      "text": "2nd:",
+      "startMs": 1915,
+      "endMs": 2298,
+      "timestampMs": 1915
+    },
+    {
+      "text": "In",
+      "startMs": 2298,
+      "endMs": 2489,
+      "timestampMs": 2298
+    },
+    {
+      "text": "2008:",
+      "startMs": 2489,
+      "endMs": 2966,
+      "timestampMs": 2489
+    },
+    {
+      "text": "Google",
+      "startMs": 2966,
+      "endMs": 3540,
+      "timestampMs": 2966
+    },
+    {
+      "text": "launches",
+      "startMs": 3540,
+      "endMs": 4304,
+      "timestampMs": 3540
+    },
+    {
+      "text": "its",
+      "startMs": 4304,
+      "endMs": 4591,
+      "timestampMs": 4304
+    },
+    {
+      "text": "Google",
+      "startMs": 4591,
+      "endMs": 5164,
+      "timestampMs": 4591
+    },
+    {
+      "text": "Chrome",
+      "startMs": 5164,
+      "endMs": 5737,
+      "timestampMs": 5164
+    },
+    {
+      "text": "web",
+      "startMs": 5737,
+      "endMs": 6024,
+      "timestampMs": 5737
+    },
+    {
+      "text": "browser.",
+      "startMs": 6024,
+      "endMs": 6788,
+      "timestampMs": 6024
+    },
+    {
+      "text": "In",
+      "startMs": 6738,
+      "endMs": 6889,
+      "timestampMs": 6738
+    },
+    {
+      "text": "1984:",
+      "startMs": 6889,
+      "endMs": 7265,
+      "timestampMs": 6889
+    },
+    {
+      "text": "Seven",
+      "startMs": 7265,
+      "endMs": 7642,
+      "timestampMs": 7265
+    },
+    {
+      "text": "people",
+      "startMs": 7642,
+      "endMs": 8093,
+      "timestampMs": 7642
+    },
+    {
+      "text": "are",
+      "startMs": 8093,
+      "endMs": 8319,
+      "timestampMs": 8093
+    },
+    {
+      "text": "shot",
+      "startMs": 8319,
+      "endMs": 8620,
+      "timestampMs": 8319
+    },
+    {
+      "text": "and",
+      "startMs": 8620,
+      "endMs": 8846,
+      "timestampMs": 8620
+    },
+    {
+      "text": "killed",
+      "startMs": 8846,
+      "endMs": 9298,
+      "timestampMs": 8846
+    },
+    {
+      "text": "and",
+      "startMs": 9298,
+      "endMs": 9524,
+      "timestampMs": 9298
+    },
+    {
+      "text": "12",
+      "startMs": 9524,
+      "endMs": 9674,
+      "timestampMs": 9524
+    },
+    {
+      "text": "wounded",
+      "startMs": 9674,
+      "endMs": 10201,
+      "timestampMs": 9674
+    },
+    {
+      "text": "in",
+      "startMs": 10201,
+      "endMs": 10352,
+      "timestampMs": 10201
+    },
+    {
+      "text": "the",
+      "startMs": 10352,
+      "endMs": 10578,
+      "timestampMs": 10352
+    },
+    {
+      "text": "Milperra",
+      "startMs": 10578,
+      "endMs": 11180,
+      "timestampMs": 10578
+    },
+    {
+      "text": "massacre,",
+      "startMs": 11180,
+      "endMs": 11858,
+      "timestampMs": 11180
+    },
+    {
+      "text": "a",
+      "startMs": 11858,
+      "endMs": 11933,
+      "timestampMs": 11858
+    },
+    {
+      "text": "shootout",
+      "startMs": 11933,
+      "endMs": 12535,
+      "timestampMs": 11933
+    },
+    {
+      "text": "between",
+      "startMs": 12535,
+      "endMs": 13062,
+      "timestampMs": 12535
+    },
+    {
+      "text": "the",
+      "startMs": 13062,
+      "endMs": 13288,
+      "timestampMs": 13062
+    },
+    {
+      "text": "rival",
+      "startMs": 13288,
+      "endMs": 13665,
+      "timestampMs": 13288
+    },
+    {
+      "text": "motorcycle",
+      "startMs": 13665,
+      "endMs": 14418,
+      "timestampMs": 13665
+    },
+    {
+      "text": "gangs",
+      "startMs": 14418,
+      "endMs": 14794,
+      "timestampMs": 14418
+    },
+    {
+      "text": "Bandidos",
+      "startMs": 14794,
+      "endMs": 15396,
+      "timestampMs": 14794
+    },
+    {
+      "text": "and",
+      "startMs": 15396,
+      "endMs": 15622,
+      "timestampMs": 15396
+    },
+    {
+      "text": "Comancheros",
+      "startMs": 15622,
+      "endMs": 16450,
+      "timestampMs": 15622
+    },
+    {
+      "text": "in",
+      "startMs": 16450,
+      "endMs": 16601,
+      "timestampMs": 16450
+    },
+    {
+      "text": "Sydney,",
+      "startMs": 16601,
+      "endMs": 17128,
+      "timestampMs": 16601
+    },
+    {
+      "text": "Australia.",
+      "startMs": 17128,
+      "endMs": 17881,
+      "timestampMs": 17128
+    },
+    {
+      "text": "And",
+      "startMs": 17881,
+      "endMs": 18161,
+      "timestampMs": 17881
+    },
+    {
+      "text": "in",
+      "startMs": 18161,
+      "endMs": 18348,
+      "timestampMs": 18161
+    },
+    {
+      "text": "1970:",
+      "startMs": 18348,
+      "endMs": 18816,
+      "timestampMs": 18348
+    },
+    {
+      "text": "NASA",
+      "startMs": 18816,
+      "endMs": 19190,
+      "timestampMs": 18816
+    },
+    {
+      "text": "announces",
+      "startMs": 19190,
+      "endMs": 20031,
+      "timestampMs": 19190
+    },
+    {
+      "text": "the",
+      "startMs": 20031,
+      "endMs": 20311,
+      "timestampMs": 20031
+    },
+    {
+      "text": "cancellation",
+      "startMs": 20311,
+      "endMs": 21433,
+      "timestampMs": 20311
+    },
+    {
+      "text": "of",
+      "startMs": 21433,
+      "endMs": 21620,
+      "timestampMs": 21433
+    },
+    {
+      "text": "two",
+      "startMs": 21620,
+      "endMs": 21901,
+      "timestampMs": 21620
+    },
+    {
+      "text": "Apollo",
+      "startMs": 21901,
+      "endMs": 22461,
+      "timestampMs": 21901
+    },
+    {
+      "text": "missions",
+      "startMs": 22461,
+      "endMs": 23209,
+      "timestampMs": 22461
+    },
+    {
+      "text": "to",
+      "startMs": 23209,
+      "endMs": 23396,
+      "timestampMs": 23209
+    },
+    {
+      "text": "the",
+      "startMs": 23396,
+      "endMs": 23677,
+      "timestampMs": 23396
+    },
+    {
+      "text": "Moon,",
+      "startMs": 23677,
+      "endMs": 24144,
+      "timestampMs": 23677
+    },
+    {
+      "text": "Apollo",
+      "startMs": 24144,
+      "endMs": 24705,
+      "timestampMs": 24144
+    },
+    {
+      "text": "15,",
+      "startMs": 24705,
+      "endMs": 24985,
+      "timestampMs": 24705
+    },
+    {
+      "text": "and",
+      "startMs": 24985,
+      "endMs": 25266,
+      "timestampMs": 24985
+    },
+    {
+      "text": "Apollo",
+      "startMs": 25266,
+      "endMs": 25827,
+      "timestampMs": 25266
+    },
+    {
+      "text": "19.",
+      "startMs": 25827,
+      "endMs": 26107,
+      "timestampMs": 25827
+    }
+  ]
+}

@@ -17,7 +17,8 @@ const TODAY_YEAR = now.getFullYear();
 const state = {
   currentMonth: TODAY_MONTH,
   currentDay: TODAY_DAY,
-  events: []
+  events: [],
+  currentVideo: null
 };
 
 // DOM Elements
@@ -31,7 +32,27 @@ const storiesList = document.getElementById('storiesList');
 const storiesCountBadge = document.getElementById('storiesCountBadge');
 const ayerMockupFrame = document.getElementById('ayerMockupFrame');
 
+const heroVideoBtn = document.getElementById('heroVideoBtn');
+const viewVideoBtn = document.getElementById('viewVideoBtn');
+const videoModal = document.getElementById('videoModal');
+const closeVideoModalBtn = document.getElementById('closeVideoModalBtn');
+const onlineVideoPlayer = document.getElementById('onlineVideoPlayer');
+const onlineVideoSource = document.getElementById('onlineVideoSource');
+const downloadVideoBtn = document.getElementById('downloadVideoBtn');
+const copyVideoCaptionBtn = document.getElementById('copyVideoCaptionBtn');
+const videoModalTitle = document.getElementById('videoModalTitle');
+
 const shareTwitterBtn = document.getElementById('shareTwitterBtn');
+const twitterModal = document.getElementById('twitterModal');
+const closeTwitterModalBtn = document.getElementById('closeTwitterModalBtn');
+const twitterThreadText = document.getElementById('twitterThreadText');
+const copyTwitterModalBtn = document.getElementById('copyTwitterModalBtn');
+const postFirstTweetBtn = document.getElementById('postFirstTweetBtn');
+const threadFullTabBtn = document.getElementById('threadFullTabBtn');
+const threadCardsTabBtn = document.getElementById('threadCardsTabBtn');
+const threadFullView = document.getElementById('threadFullView');
+const threadCardsView = document.getElementById('threadCardsView');
+
 const shareInstagramBtn = document.getElementById('shareInstagramBtn');
 const copyLinkBtn = document.getElementById('copyLinkBtn');
 
@@ -44,6 +65,12 @@ const instagramModal = document.getElementById('instagramModal');
 const closeInstaModalBtn = document.getElementById('closeInstaModalBtn');
 const instaCaptionText = document.getElementById('instaCaptionText');
 const copyInstaCaptionModalBtn = document.getElementById('copyInstaCaptionModalBtn');
+
+const shareTikTokBtn = document.getElementById('shareTikTokBtn');
+const tiktokModal = document.getElementById('tiktokModal');
+const closeTikTokModalBtn = document.getElementById('closeTikTokModalBtn');
+const tiktokCaptionText = document.getElementById('tiktokCaptionText');
+const copyTikTokCaptionModalBtn = document.getElementById('copyTikTokCaptionModalBtn');
 
 function isFutureDate(month, day) {
   if (month > TODAY_MONTH) return true;
@@ -119,14 +146,68 @@ function setupEventListeners() {
     if (e.target === calendarModal) calendarModal.classList.add('hidden');
   });
 
-  // Twitter Share
+  // Twitter / X Thread Share & Modal
   shareTwitterBtn.addEventListener('click', () => {
-    const mName = MONTH_NAMES_EN[state.currentMonth - 1];
-    const tweetText = `What happened OnThisAyer (${mName} ${state.currentDay}) in history? Check out these memories with @AyerApp 👇`;
-    const tweetUrl = window.location.href;
-    const shareUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tweetText)}&url=${encodeURIComponent(tweetUrl)}`;
-    window.open(shareUrl, '_blank', 'width=550,height=420');
+    const threadData = buildTwitterThread(state.currentMonth, state.currentDay, state.events);
+    state.currentTwitterThread = threadData;
+
+    if (twitterThreadText) twitterThreadText.value = threadData.fullText;
+    renderTweetCards(threadData.tweets);
+
+    navigator.clipboard.writeText(threadData.fullText);
+
+    const originalText = shareTwitterBtn.innerHTML;
+    shareTwitterBtn.innerHTML = '<span>✅</span> Copied Thread!';
+    setTimeout(() => { shareTwitterBtn.innerHTML = originalText; }, 2200);
+
+    if (twitterModal) twitterModal.classList.remove('hidden');
   });
+
+  if (closeTwitterModalBtn) {
+    closeTwitterModalBtn.addEventListener('click', () => {
+      twitterModal.classList.add('hidden');
+    });
+  }
+
+  if (copyTwitterModalBtn) {
+    copyTwitterModalBtn.addEventListener('click', () => {
+      const fullText = state.currentTwitterThread?.fullText || (twitterThreadText ? twitterThreadText.value : '');
+      navigator.clipboard.writeText(fullText);
+      const originalText = copyTwitterModalBtn.innerHTML;
+      copyTwitterModalBtn.innerHTML = '✅ Copied Full Thread!';
+      setTimeout(() => { copyTwitterModalBtn.innerHTML = originalText; }, 1800);
+    });
+  }
+
+  if (postFirstTweetBtn) {
+    postFirstTweetBtn.addEventListener('click', () => {
+      const firstTweet = state.currentTwitterThread?.tweets[0] || '';
+      const shareUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(firstTweet)}`;
+      window.open(shareUrl, '_blank', 'width=550,height=420');
+    });
+  }
+
+  if (threadFullTabBtn && threadCardsTabBtn) {
+    threadFullTabBtn.addEventListener('click', () => {
+      threadFullTabBtn.classList.add('active');
+      threadCardsTabBtn.classList.remove('active');
+      threadFullView.classList.remove('hidden');
+      threadCardsView.classList.add('hidden');
+    });
+
+    threadCardsTabBtn.addEventListener('click', () => {
+      threadCardsTabBtn.classList.add('active');
+      threadFullTabBtn.classList.remove('active');
+      threadCardsView.classList.remove('hidden');
+      threadFullView.classList.add('hidden');
+    });
+  }
+
+  if (twitterModal) {
+    twitterModal.addEventListener('click', (e) => {
+      if (e.target === twitterModal) twitterModal.classList.add('hidden');
+    });
+  }
 
   // Instagram Caption Copy & Modal
   shareInstagramBtn.addEventListener('click', () => {
@@ -156,6 +237,42 @@ function setupEventListeners() {
     if (e.target === instagramModal) instagramModal.classList.add('hidden');
   });
 
+  // TikTok Caption Copy & Modal
+  if (shareTikTokBtn) {
+    shareTikTokBtn.addEventListener('click', () => {
+      const caption = buildTikTokCaption(state.currentMonth, state.currentDay, state.events);
+      if (tiktokCaptionText) tiktokCaptionText.value = caption;
+      navigator.clipboard.writeText(caption);
+
+      const originalText = shareTikTokBtn.innerHTML;
+      shareTikTokBtn.innerHTML = '<span>✅</span> Copied TikTok!';
+      setTimeout(() => { shareTikTokBtn.innerHTML = originalText; }, 2200);
+
+      if (tiktokModal) tiktokModal.classList.remove('hidden');
+    });
+  }
+
+  if (closeTikTokModalBtn) {
+    closeTikTokModalBtn.addEventListener('click', () => {
+      tiktokModal.classList.add('hidden');
+    });
+  }
+
+  if (copyTikTokCaptionModalBtn) {
+    copyTikTokCaptionModalBtn.addEventListener('click', () => {
+      navigator.clipboard.writeText(tiktokCaptionText.value);
+      const originalText = copyTikTokCaptionModalBtn.innerHTML;
+      copyTikTokCaptionModalBtn.innerHTML = '✅ Copied to Clipboard!';
+      setTimeout(() => { copyTikTokCaptionModalBtn.innerHTML = originalText; }, 1800);
+    });
+  }
+
+  if (tiktokModal) {
+    tiktokModal.addEventListener('click', (e) => {
+      if (e.target === tiktokModal) tiktokModal.classList.add('hidden');
+    });
+  }
+
   // Copy Link
   copyLinkBtn.addEventListener('click', () => {
     navigator.clipboard.writeText(window.location.href);
@@ -164,11 +281,39 @@ function setupEventListeners() {
     setTimeout(() => { copyLinkBtn.innerHTML = originalText; }, 1800);
   });
 
+  // Video Modal Listeners
+  if (heroVideoBtn) {
+    heroVideoBtn.addEventListener('click', openVideoModal);
+  }
+  if (viewVideoBtn) {
+    viewVideoBtn.addEventListener('click', openVideoModal);
+  }
+  if (closeVideoModalBtn) {
+    closeVideoModalBtn.addEventListener('click', closeVideoModal);
+  }
+  if (videoModal) {
+    videoModal.addEventListener('click', (e) => {
+      if (e.target === videoModal) closeVideoModal();
+    });
+  }
+  if (copyVideoCaptionBtn) {
+    copyVideoCaptionBtn.addEventListener('click', () => {
+      const captionText = state.currentVideo?.caption || buildTikTokCaption(state.currentMonth, state.currentDay, state.events);
+      navigator.clipboard.writeText(captionText);
+      const originalText = copyVideoCaptionBtn.innerHTML;
+      copyVideoCaptionBtn.innerHTML = '<span>✅</span> Copied TikTok Text!';
+      setTimeout(() => { copyVideoCaptionBtn.innerHTML = originalText; }, 1800);
+    });
+  }
+
   // Keyboard navigation (respects future date limit)
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
       calendarModal.classList.add('hidden');
       instagramModal.classList.add('hidden');
+      if (twitterModal) twitterModal.classList.add('hidden');
+      if (tiktokModal) tiktokModal.classList.add('hidden');
+      if (videoModal) closeVideoModal();
     }
     if (e.key === 'ArrowLeft') changeDay(-1);
     if (e.key === 'ArrowRight') {
@@ -176,6 +321,65 @@ function setupEventListeners() {
         changeDay(1);
       }
     }
+  });
+}
+
+function buildTwitterThread(month, day, events = []) {
+  const currentYear = new Date().getFullYear();
+  const monthName = MONTH_NAMES_EN[month - 1] || 'Today';
+  const totalTweets = events.length + 2;
+  const tweets = [];
+
+  // Tweet 1: Hook
+  tweets.push(`🧵 1/${totalTweets} | What happened OnThisAyer (${monthName} ${day})?\n\nFrom iconic milestones to unforgettable pop culture moments, here is what happened on this exact day across history 👇`);
+
+  // Tweets 2..N: Curated events with story details
+  events.forEach((e, idx) => {
+    const tweetNum = idx + 2;
+    const yearsAgo = currentYear - e.year;
+    const clean = (e.text || '').replace(/<[^>]*>?/gm, '').replace(/\s*\([^)]*\)/g, '').trim();
+    const icon = e.category?.icon || '✨';
+    tweets.push(`${tweetNum}/${totalTweets} | 🔹 ${e.year} (${yearsAgo} years ago)\n\n${icon} ${clean}`);
+  });
+
+  // Final Tweet: Engagement Question + Ayer CTA
+  tweets.push(`${totalTweets}/${totalTweets} | 💬 What were YOU doing on this exact day 5 or 10 years ago?\n\nRediscover your personal photo memories with Ayer App.\n🔒 100% private, on-device, no cloud.\n\n👉 Free download on iOS & Android: https://www.chapiware.com/ayer/\n\n#OnThisDay #OnThisAyer #Throwback #AyerApp #History #Nostalgia`);
+
+  return {
+    tweets,
+    fullText: tweets.join('\n\n---\n\n')
+  };
+}
+
+function renderTweetCards(tweets = []) {
+  if (!threadCardsView) return;
+  threadCardsView.innerHTML = tweets.map((tweet, idx) => {
+    const isFirst = idx === 0;
+    const isLast = idx === tweets.length - 1;
+    let label = `Tweet ${idx + 1}/${tweets.length}`;
+    if (isFirst) label += ' (Hook)';
+    if (isLast) label += ' (Ayer CTA)';
+
+    return `
+      <div class="tweet-card">
+        <div class="tweet-card-header">
+          <span class="tweet-badge">${label}</span>
+          <button class="tweet-copy-btn" data-tweet-index="${idx}">📋 Copy Tweet</button>
+        </div>
+        <div class="tweet-body">${tweet.replace(/</g, '&lt;').replace(/>/g, '&gt;')}</div>
+      </div>
+    `;
+  }).join('');
+
+  threadCardsView.querySelectorAll('.tweet-copy-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const idx = parseInt(btn.dataset.tweetIndex, 10);
+      const textToCopy = tweets[idx] || '';
+      navigator.clipboard.writeText(textToCopy);
+      const orig = btn.textContent;
+      btn.textContent = '✅ Copied!';
+      setTimeout(() => { btn.textContent = orig; }, 1600);
+    });
   });
 }
 
@@ -191,6 +395,25 @@ function buildInstagramCaption(month, day, events = []) {
   }).join('\n\n');
 
   return `Feels like yesterday... ✨📸\n\nHere is what happened OnThisAyer (${monthName} ${day}) across history:\n\n${items}\n\n---\n💬 What were YOU doing on this exact day 5 or 10 years ago?\n\nRediscover your past photo memories with Ayer App. 100% private, on-device, no cloud 🔒\n\n👉 Free download on iOS & Android: https://www.chapiware.com/ayer/\n\n#OnThisDay #OnThisAyer #Throwback #PhotoMemories #Nostalgia #AyerApp #History #FeelsLikeYesterday #ThenAndNow`;
+}
+
+function buildTikTokCaption(month, day, events = []) {
+  const currentYear = new Date().getFullYear();
+  const monthName = MONTH_NAMES_EN[month - 1] || 'Today';
+
+  const sorted = [...events].sort((a, b) => (b.marketingScore || 0) - (a.marketingScore || 0));
+  const topYear = sorted[0]?.year || 'history';
+
+  const hook = `Wait till you see what happened on this day in ${topYear}… 🤯👇`;
+
+  const items = events.slice(0, 3).map(e => {
+    const yearsAgo = currentYear - e.year;
+    const clean = (e.text || '').replace(/<[^>]*>?/gm, '').replace(/\s*\([^)]*\)/g, '').replace(/[,;:\.\s]+$/, '').trim();
+    const firstSentence = clean.split(/\.\s+/)[0];
+    return `⚡ ${e.year} (${yearsAgo} yrs ago): ${firstSentence}`;
+  }).join('\n');
+
+  return `${hook}\n\n${items}\n\n💬 Honest question: Where were YOU on this exact day 5 or 10 years ago? Check your camera roll 👀\n\n📲 Relive your own throwback photos every single day with Ayer: www.chapiware.com/ayer (100% private, on iOS & Android)\n\n#OnThisDay #HistoryTok #DidYouKnow #Throwback #FeelsLikeYesterday #AyerApp #HistoryBuff #VintageVibes #TodayInHistory #Viral #FYP`;
 }
 
 function changeDay(delta) {
@@ -279,6 +502,9 @@ async function loadDate(month, day) {
   // Update Mockup iframe
   ayerMockupFrame.src = `mockup.html?month=${month}&day=${day}`;
 
+  // Check if video is available for this date
+  checkDayVideo(month, day);
+
   storiesList.innerHTML = `
     <div class="loading-spinner-box">
       <div class="spinner"></div>
@@ -300,6 +526,10 @@ async function loadDate(month, day) {
 }
 
 function renderLockedScreen(month, day) {
+  state.currentVideo = null;
+  if (heroVideoBtn) heroVideoBtn.classList.add('hidden');
+  if (viewVideoBtn) viewVideoBtn.classList.add('hidden');
+
   const mName = MONTH_NAMES_EN[month - 1];
   activeDateDisplay.textContent = `${mName} ${day} 🔒`;
   heroDateBadge.textContent = `Future Date Locked`;
@@ -317,6 +547,108 @@ function renderLockedScreen(month, day) {
       </button>
     </div>
   `;
+}
+
+async function checkDayVideo(month, day) {
+  state.currentVideo = null;
+  if (heroVideoBtn) heroVideoBtn.classList.add('hidden');
+  if (viewVideoBtn) viewVideoBtn.classList.add('hidden');
+
+  const mm = padZero(month);
+  const dd = padZero(day);
+
+  // 1. Try local server API
+  try {
+    const res = await fetch(`/api/video/${month}/${day}`);
+    if (res.ok) {
+      const data = await res.json();
+      if (data.exists && data.videoUrl) {
+        state.currentVideo = data;
+        if (heroVideoBtn) heroVideoBtn.classList.remove('hidden');
+        if (viewVideoBtn) viewVideoBtn.classList.remove('hidden');
+        return;
+      }
+    }
+  } catch {}
+
+  // 2. Fallback check for static hosting on GitHub Pages (relative videos/MM-DD.mp4)
+  try {
+    const staticRelUrl = `videos/${mm}-${dd}.mp4`;
+    const res = await fetch(staticRelUrl, { method: 'HEAD' });
+    if (res.ok) {
+      let caption = '';
+      try {
+        const capRes = await fetch(`videos/${mm}-${dd}.txt`);
+        if (capRes.ok) caption = await capRes.text();
+      } catch {}
+
+      state.currentVideo = {
+        exists: true,
+        month,
+        day,
+        videoUrl: staticRelUrl,
+        downloadUrl: staticRelUrl,
+        downloadFilename: `OnThisAyer-${mm}-${dd}.mp4`,
+        caption,
+      };
+      if (heroVideoBtn) heroVideoBtn.classList.remove('hidden');
+      if (viewVideoBtn) viewVideoBtn.classList.remove('hidden');
+      return;
+    }
+  } catch {}
+
+  // 3. Fallback check for local /output/videos/
+  try {
+    const staticUrl = `/output/videos/${mm}-${dd}.mp4`;
+    const res = await fetch(staticUrl, { method: 'HEAD' });
+    if (res.ok) {
+      state.currentVideo = {
+        exists: true,
+        month,
+        day,
+        videoUrl: staticUrl,
+        downloadUrl: staticUrl,
+        downloadFilename: `OnThisAyer-${mm}-${dd}.mp4`,
+      };
+      if (heroVideoBtn) heroVideoBtn.classList.remove('hidden');
+      if (viewVideoBtn) viewVideoBtn.classList.remove('hidden');
+      return;
+    }
+  } catch {}
+}
+
+function openVideoModal() {
+  if (!state.currentVideo || !videoModal) return;
+  const mName = MONTH_NAMES_EN[state.currentMonth - 1];
+  const day = state.currentDay;
+  const mm = padZero(state.currentMonth);
+  const dd = padZero(day);
+
+  if (videoModalTitle) {
+    videoModalTitle.textContent = `🎬 OnThisAyer Video • ${mName} ${day}`;
+  }
+
+  if (onlineVideoSource && onlineVideoPlayer) {
+    onlineVideoSource.src = state.currentVideo.videoUrl;
+    onlineVideoPlayer.load();
+    onlineVideoPlayer.play().catch(() => {});
+  }
+
+  if (downloadVideoBtn) {
+    downloadVideoBtn.href = state.currentVideo.downloadUrl || state.currentVideo.videoUrl;
+    downloadVideoBtn.download = state.currentVideo.downloadFilename || `OnThisAyer-${mm}-${dd}.mp4`;
+  }
+
+  videoModal.classList.remove('hidden');
+}
+
+function closeVideoModal() {
+  if (onlineVideoPlayer) {
+    onlineVideoPlayer.pause();
+  }
+  if (videoModal) {
+    videoModal.classList.add('hidden');
+  }
 }
 
 async function fetchDayEvents(month, day) {

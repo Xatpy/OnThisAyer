@@ -1,0 +1,394 @@
+{
+  "text": "On this day, September 29th: In 2004: Burt Rutan's Ansari SpaceShipOne performs a successful spaceflight, the first of two required to win the Ansari X Prize. In 1991: The award-winning Disney animated film Beauty and the Beast premiered while unfinished at the New York Film Festival. And in 1988: NASA launches STS-26, the first Space Shuttle mission since the Challenger disaster.",
+  "voice": "en-US-ChristopherNeural",
+  "durationMs": 26690,
+  "durationSeconds": 26.69,
+  "sentences": [
+    {
+      "text": "On this day, September 29th: In 2004: Burt Rutan's Ansari SpaceShipOne performs a successful spaceflight, the first of two required to win the Ansari X Prize.",
+      "startMs": 100,
+      "endMs": 11360,
+      "durationMs": 11260
+    },
+    {
+      "text": "In 1991: The award-winning Disney animated film Beauty and the Beast premiered while unfinished at the New York Film Festival.",
+      "startMs": 11310,
+      "endMs": 19000,
+      "durationMs": 7690
+    },
+    {
+      "text": "And in 1988: NASA launches STS-26, the first Space Shuttle mission since the Challenger disaster.",
+      "startMs": 19000,
+      "endMs": 26690,
+      "durationMs": 7690
+    }
+  ],
+  "words": [
+    {
+      "text": "On",
+      "startMs": 100,
+      "endMs": 269,
+      "timestampMs": 100
+    },
+    {
+      "text": "this",
+      "startMs": 269,
+      "endMs": 608,
+      "timestampMs": 269
+    },
+    {
+      "text": "day,",
+      "startMs": 608,
+      "endMs": 947,
+      "timestampMs": 608
+    },
+    {
+      "text": "September",
+      "startMs": 947,
+      "endMs": 1709,
+      "timestampMs": 947
+    },
+    {
+      "text": "29th:",
+      "startMs": 1709,
+      "endMs": 2132,
+      "timestampMs": 1709
+    },
+    {
+      "text": "In",
+      "startMs": 2132,
+      "endMs": 2301,
+      "timestampMs": 2132
+    },
+    {
+      "text": "2004:",
+      "startMs": 2301,
+      "endMs": 2724,
+      "timestampMs": 2301
+    },
+    {
+      "text": "Burt",
+      "startMs": 2724,
+      "endMs": 3063,
+      "timestampMs": 2724
+    },
+    {
+      "text": "Rutan's",
+      "startMs": 3063,
+      "endMs": 3656,
+      "timestampMs": 3063
+    },
+    {
+      "text": "Ansari",
+      "startMs": 3656,
+      "endMs": 4164,
+      "timestampMs": 3656
+    },
+    {
+      "text": "SpaceShipOne",
+      "startMs": 4164,
+      "endMs": 5179,
+      "timestampMs": 4164
+    },
+    {
+      "text": "performs",
+      "startMs": 5179,
+      "endMs": 5857,
+      "timestampMs": 5179
+    },
+    {
+      "text": "a",
+      "startMs": 5857,
+      "endMs": 5941,
+      "timestampMs": 5857
+    },
+    {
+      "text": "successful",
+      "startMs": 5941,
+      "endMs": 6788,
+      "timestampMs": 5941
+    },
+    {
+      "text": "spaceflight,",
+      "startMs": 6788,
+      "endMs": 7804,
+      "timestampMs": 6788
+    },
+    {
+      "text": "the",
+      "startMs": 7804,
+      "endMs": 8058,
+      "timestampMs": 7804
+    },
+    {
+      "text": "first",
+      "startMs": 8058,
+      "endMs": 8481,
+      "timestampMs": 8058
+    },
+    {
+      "text": "of",
+      "startMs": 8481,
+      "endMs": 8650,
+      "timestampMs": 8481
+    },
+    {
+      "text": "two",
+      "startMs": 8650,
+      "endMs": 8904,
+      "timestampMs": 8650
+    },
+    {
+      "text": "required",
+      "startMs": 8904,
+      "endMs": 9582,
+      "timestampMs": 8904
+    },
+    {
+      "text": "to",
+      "startMs": 9582,
+      "endMs": 9751,
+      "timestampMs": 9582
+    },
+    {
+      "text": "win",
+      "startMs": 9751,
+      "endMs": 10005,
+      "timestampMs": 9751
+    },
+    {
+      "text": "the",
+      "startMs": 10005,
+      "endMs": 10259,
+      "timestampMs": 10005
+    },
+    {
+      "text": "Ansari",
+      "startMs": 10259,
+      "endMs": 10767,
+      "timestampMs": 10259
+    },
+    {
+      "text": "X",
+      "startMs": 10767,
+      "endMs": 10852,
+      "timestampMs": 10767
+    },
+    {
+      "text": "Prize.",
+      "startMs": 10852,
+      "endMs": 11360,
+      "timestampMs": 10852
+    },
+    {
+      "text": "In",
+      "startMs": 11310,
+      "endMs": 11453,
+      "timestampMs": 11310
+    },
+    {
+      "text": "1991:",
+      "startMs": 11453,
+      "endMs": 11813,
+      "timestampMs": 11453
+    },
+    {
+      "text": "The",
+      "startMs": 11813,
+      "endMs": 12028,
+      "timestampMs": 11813
+    },
+    {
+      "text": "award-winning",
+      "startMs": 12028,
+      "endMs": 12963,
+      "timestampMs": 12028
+    },
+    {
+      "text": "Disney",
+      "startMs": 12963,
+      "endMs": 13394,
+      "timestampMs": 12963
+    },
+    {
+      "text": "animated",
+      "startMs": 13394,
+      "endMs": 13969,
+      "timestampMs": 13394
+    },
+    {
+      "text": "film",
+      "startMs": 13969,
+      "endMs": 14256,
+      "timestampMs": 13969
+    },
+    {
+      "text": "Beauty",
+      "startMs": 14256,
+      "endMs": 14688,
+      "timestampMs": 14256
+    },
+    {
+      "text": "and",
+      "startMs": 14688,
+      "endMs": 14903,
+      "timestampMs": 14688
+    },
+    {
+      "text": "the",
+      "startMs": 14903,
+      "endMs": 15119,
+      "timestampMs": 14903
+    },
+    {
+      "text": "Beast",
+      "startMs": 15119,
+      "endMs": 15478,
+      "timestampMs": 15119
+    },
+    {
+      "text": "premiered",
+      "startMs": 15478,
+      "endMs": 16125,
+      "timestampMs": 15478
+    },
+    {
+      "text": "while",
+      "startMs": 16125,
+      "endMs": 16484,
+      "timestampMs": 16125
+    },
+    {
+      "text": "unfinished",
+      "startMs": 16484,
+      "endMs": 17203,
+      "timestampMs": 16484
+    },
+    {
+      "text": "at",
+      "startMs": 17203,
+      "endMs": 17347,
+      "timestampMs": 17203
+    },
+    {
+      "text": "the",
+      "startMs": 17347,
+      "endMs": 17563,
+      "timestampMs": 17347
+    },
+    {
+      "text": "New",
+      "startMs": 17563,
+      "endMs": 17778,
+      "timestampMs": 17563
+    },
+    {
+      "text": "York",
+      "startMs": 17778,
+      "endMs": 18066,
+      "timestampMs": 17778
+    },
+    {
+      "text": "Film",
+      "startMs": 18066,
+      "endMs": 18353,
+      "timestampMs": 18066
+    },
+    {
+      "text": "Festival.",
+      "startMs": 18353,
+      "endMs": 19000,
+      "timestampMs": 18353
+    },
+    {
+      "text": "And",
+      "startMs": 19000,
+      "endMs": 19278,
+      "timestampMs": 19000
+    },
+    {
+      "text": "in",
+      "startMs": 19278,
+      "endMs": 19463,
+      "timestampMs": 19278
+    },
+    {
+      "text": "1988:",
+      "startMs": 19463,
+      "endMs": 19927,
+      "timestampMs": 19463
+    },
+    {
+      "text": "NASA",
+      "startMs": 19927,
+      "endMs": 20297,
+      "timestampMs": 19927
+    },
+    {
+      "text": "launches",
+      "startMs": 20297,
+      "endMs": 21038,
+      "timestampMs": 20297
+    },
+    {
+      "text": "STS-26,",
+      "startMs": 21038,
+      "endMs": 21687,
+      "timestampMs": 21038
+    },
+    {
+      "text": "the",
+      "startMs": 21687,
+      "endMs": 21965,
+      "timestampMs": 21687
+    },
+    {
+      "text": "first",
+      "startMs": 21965,
+      "endMs": 22428,
+      "timestampMs": 21965
+    },
+    {
+      "text": "Space",
+      "startMs": 22428,
+      "endMs": 22892,
+      "timestampMs": 22428
+    },
+    {
+      "text": "Shuttle",
+      "startMs": 22892,
+      "endMs": 23540,
+      "timestampMs": 22892
+    },
+    {
+      "text": "mission",
+      "startMs": 23540,
+      "endMs": 24189,
+      "timestampMs": 23540
+    },
+    {
+      "text": "since",
+      "startMs": 24189,
+      "endMs": 24652,
+      "timestampMs": 24189
+    },
+    {
+      "text": "the",
+      "startMs": 24652,
+      "endMs": 24930,
+      "timestampMs": 24652
+    },
+    {
+      "text": "Challenger",
+      "startMs": 24930,
+      "endMs": 25857,
+      "timestampMs": 24930
+    },
+    {
+      "text": "disaster.",
+      "startMs": 25857,
+      "endMs": 26690,
+      "timestampMs": 25857
+    }
+  ]
+}

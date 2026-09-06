@@ -645,6 +645,19 @@ body {
   color: #fff;
 }
 
+.copy-btn.tiktok {
+  background: rgba(0, 242, 254, 0.12);
+  color: #38bdf8;
+  border: 1px solid rgba(0, 242, 254, 0.35);
+}
+
+.copy-btn.tiktok:hover {
+  background: linear-gradient(135deg, #00f2fe 0%, #fe0979 100%);
+  color: #fff;
+  border-color: transparent;
+  box-shadow: 0 4px 14px rgba(254, 9, 121, 0.4);
+}
+
 /* Toolbar Section */
 .toolbar-section {
   display: flex;

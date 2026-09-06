@@ -60,5 +60,46 @@ describe('Copywriter Core Tests', () => {
       assert.match(copy.instagram, /years ago/);
       assert.match(copy.instagram, /#OnThisDay/);
     });
+
+    it('generates viral TikTok copy with hooks, emojis, hashtags and CTA', () => {
+      const sampleEvents = [
+        {
+          year: 1998,
+          text: 'Google is founded by Larry Page and Sergey Brin.',
+          category: { icon: '🚀' }
+        }
+      ];
+
+      const copy = generateSocialCopy(9, 4, sampleEvents, 'en');
+      assert.ok(copy.tiktok);
+      assert.match(copy.tiktok, /Wait till you see|Honest question/);
+      assert.match(copy.tiktok, /#HistoryTok/);
+      assert.match(copy.tiktok, /#FYP/);
+      assert.match(copy.tiktok, /chapiware\.com\/ayer/);
+    });
+
+    it('generates structured Twitter thread with hook, event stories and Ayer CTA', () => {
+      const sampleEvents = [
+        {
+          year: 1998,
+          text: 'Google is founded by Larry Page and Sergey Brin.',
+          category: { icon: '🚀' }
+        },
+        {
+          year: 1989,
+          text: 'The first weekly demonstration takes place in Leipzig.',
+          category: { icon: '🏛️' }
+        }
+      ];
+
+      const copy = generateSocialCopy(9, 4, sampleEvents, 'en');
+      assert.ok(Array.isArray(copy.twitterThread));
+      assert.equal(copy.twitterThread.length, 4); // 1 hook + 2 events + 1 CTA
+      assert.match(copy.twitterThread[0], /🧵 1\/4/);
+      assert.match(copy.twitterThread[1], /2\/4 \| 🔹 1998/);
+      assert.match(copy.twitterThread[2], /3\/4 \| 🔹 1989/);
+      assert.match(copy.twitterThread[3], /4\/4 \| 💬 What were YOU doing/);
+      assert.match(copy.twitterThreadFormatted, /---/);
+    });
   });
 });

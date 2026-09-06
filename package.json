@@ -11,7 +11,13 @@
     "fetch": "node src/cli/fetch.js",
     "fetch:all": "node src/cli/fetch.js --all",
     "render": "node src/cli/render.js",
-    "curate:batch": "node src/cli/batch.js"
+    "curate:batch": "node src/cli/batch.js",
+    "clean": "node src/cli/clean.js",
+    "video": "node src/cli/video.js",
+    "video:render": "node src/cli/video.js",
+    "video:batch": "node src/cli/video-batch.js",
+    "video:sync": "node src/cli/sync-videos.js",
+    "video:preview": "remotion studio src/video/remotion/index.ts"
   },
   "keywords": [
     "on-this-day",
@@ -25,6 +31,16 @@
   "author": "Chapiware",
   "license": "MIT",
   "dependencies": {
-    "playwright": "^1.58.2"
+    "@remotion/bundler": "^4.0.264",
+    "@remotion/cli": "^4.0.264",
+    "@remotion/renderer": "^4.0.264",
+    "playwright": "^1.58.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.264"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "typescript": "^5.7.3"
   }
 }
