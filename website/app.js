@@ -170,9 +170,9 @@ function setupEventListeners() {
   }
 
   if (copyTwitterModalBtn) {
-    copyTwitterModalBtn.addEventListener('click', () => {
+    copyTwitterModalBtn.addEventListener('click', async () => {
       const fullText = state.currentTwitterThread?.fullText || (twitterThreadText ? twitterThreadText.value : '');
-      navigator.clipboard.writeText(fullText);
+      await copyToClipboard(fullText, twitterThreadText);
       const originalText = copyTwitterModalBtn.innerHTML;
       copyTwitterModalBtn.innerHTML = '✅ Copied Full Thread!';
       setTimeout(() => { copyTwitterModalBtn.innerHTML = originalText; }, 1800);
@@ -210,24 +210,29 @@ function setupEventListeners() {
   }
 
   // Instagram Caption Copy & Modal
-  shareInstagramBtn.addEventListener('click', () => {
+  shareInstagramBtn.addEventListener('click', async () => {
     const caption = buildInstagramCaption(state.currentMonth, state.currentDay, state.events);
     instaCaptionText.value = caption;
-    navigator.clipboard.writeText(caption);
+    await copyToClipboard(caption, instaCaptionText);
 
     const originalText = shareInstagramBtn.innerHTML;
     shareInstagramBtn.innerHTML = '<span>✅</span> Copied Caption!';
     setTimeout(() => { shareInstagramBtn.innerHTML = originalText; }, 2200);
 
     instagramModal.classList.remove('hidden');
+    setTimeout(() => {
+      instaCaptionText.focus();
+      instaCaptionText.select();
+      instaCaptionText.setSelectionRange(0, 999999);
+    }, 100);
   });
 
   closeInstaModalBtn.addEventListener('click', () => {
     instagramModal.classList.add('hidden');
   });
 
-  copyInstaCaptionModalBtn.addEventListener('click', () => {
-    navigator.clipboard.writeText(instaCaptionText.value);
+  copyInstaCaptionModalBtn.addEventListener('click', async () => {
+    await copyToClipboard(instaCaptionText.value, instaCaptionText);
     const originalText = copyInstaCaptionModalBtn.innerHTML;
     copyInstaCaptionModalBtn.innerHTML = '✅ Copied to Clipboard!';
     setTimeout(() => { copyInstaCaptionModalBtn.innerHTML = originalText; }, 1800);
@@ -239,16 +244,26 @@ function setupEventListeners() {
 
   // TikTok Caption Copy & Modal
   if (shareTikTokBtn) {
-    shareTikTokBtn.addEventListener('click', () => {
-      const caption = buildTikTokCaption(state.currentMonth, state.currentDay, state.events);
+    shareTikTokBtn.addEventListener('click', async () => {
+      const rawCaption = state.currentVideo?.caption || buildTikTokCaption(state.currentMonth, state.currentDay, state.events);
+      const caption = sanitizeCleanCaption(rawCaption);
       if (tiktokCaptionText) tiktokCaptionText.value = caption;
-      navigator.clipboard.writeText(caption);
+      await copyToClipboard(caption, tiktokCaptionText);
 
       const originalText = shareTikTokBtn.innerHTML;
       shareTikTokBtn.innerHTML = '<span>✅</span> Copied TikTok!';
       setTimeout(() => { shareTikTokBtn.innerHTML = originalText; }, 2200);
 
-      if (tiktokModal) tiktokModal.classList.remove('hidden');
+      if (tiktokModal) {
+        tiktokModal.classList.remove('hidden');
+        setTimeout(() => {
+          if (tiktokCaptionText) {
+            tiktokCaptionText.focus();
+            tiktokCaptionText.select();
+            tiktokCaptionText.setSelectionRange(0, 999999);
+          }
+        }, 100);
+      }
     });
   }
 
@@ -259,8 +274,9 @@ function setupEventListeners() {
   }
 
   if (copyTikTokCaptionModalBtn) {
-    copyTikTokCaptionModalBtn.addEventListener('click', () => {
-      navigator.clipboard.writeText(tiktokCaptionText.value);
+    copyTikTokCaptionModalBtn.addEventListener('click', async () => {
+      const clean = sanitizeCleanCaption(tiktokCaptionText.value);
+      await copyToClipboard(clean, tiktokCaptionText);
       const originalText = copyTikTokCaptionModalBtn.innerHTML;
       copyTikTokCaptionModalBtn.innerHTML = '✅ Copied to Clipboard!';
       setTimeout(() => { copyTikTokCaptionModalBtn.innerHTML = originalText; }, 1800);
@@ -274,8 +290,8 @@ function setupEventListeners() {
   }
 
   // Copy Link
-  copyLinkBtn.addEventListener('click', () => {
-    navigator.clipboard.writeText(window.location.href);
+  copyLinkBtn.addEventListener('click', async () => {
+    await copyToClipboard(window.location.href);
     const originalText = copyLinkBtn.innerHTML;
     copyLinkBtn.innerHTML = '<span>✅</span> Copied!';
     setTimeout(() => { copyLinkBtn.innerHTML = originalText; }, 1800);
@@ -297,9 +313,10 @@ function setupEventListeners() {
     });
   }
   if (copyVideoCaptionBtn) {
-    copyVideoCaptionBtn.addEventListener('click', () => {
-      const captionText = state.currentVideo?.caption || buildTikTokCaption(state.currentMonth, state.currentDay, state.events);
-      navigator.clipboard.writeText(captionText);
+    copyVideoCaptionBtn.addEventListener('click', async () => {
+      const rawCaption = state.currentVideo?.caption || buildTikTokCaption(state.currentMonth, state.currentDay, state.events);
+      const clean = sanitizeCleanCaption(rawCaption);
+      await copyToClipboard(clean);
       const originalText = copyVideoCaptionBtn.innerHTML;
       copyVideoCaptionBtn.innerHTML = '<span>✅</span> Copied TikTok Text!';
       setTimeout(() => { copyVideoCaptionBtn.innerHTML = originalText; }, 1800);
@@ -372,10 +389,10 @@ function renderTweetCards(tweets = []) {
   }).join('');
 
   threadCardsView.querySelectorAll('.tweet-copy-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
+    btn.addEventListener('click', async () => {
       const idx = parseInt(btn.dataset.tweetIndex, 10);
       const textToCopy = tweets[idx] || '';
-      navigator.clipboard.writeText(textToCopy);
+      await copyToClipboard(textToCopy);
       const orig = btn.textContent;
       btn.textContent = '✅ Copied!';
       setTimeout(() => { btn.textContent = orig; }, 1600);
@@ -383,26 +400,102 @@ function renderTweetCards(tweets = []) {
   });
 }
 
+/**
+ * Universal clipboard copy helper with rock-solid mobile (iOS Safari & Android) fallback
+ */
+async function copyToClipboard(text, targetTextarea = null) {
+  if (!text) return false;
+
+  let copied = false;
+
+  // 1. Modern navigator.clipboard API (works in desktop and secure mobile contexts)
+  if (navigator.clipboard && window.isSecureContext) {
+    try {
+      await navigator.clipboard.writeText(text);
+      copied = true;
+    } catch (err) {
+      // Fall through to fallback
+    }
+  }
+
+  if (copied) return true;
+
+  // 2. Fallback using textarea element + document.execCommand('copy')
+  let textarea = targetTextarea;
+  let isTemp = false;
+
+  if (!textarea) {
+    textarea = document.createElement('textarea');
+    textarea.value = text;
+    textarea.style.fontSize = '16px'; // Prevent iOS Safari from zooming in
+    textarea.style.position = 'fixed';
+    textarea.style.top = '0';
+    textarea.style.left = '-9999px';
+    textarea.style.width = '2em';
+    textarea.style.height = '2em';
+    textarea.style.padding = '0';
+    textarea.style.border = 'none';
+    textarea.style.outline = 'none';
+    textarea.style.boxShadow = 'none';
+    textarea.style.background = 'transparent';
+    textarea.setAttribute('readonly', '');
+    document.body.appendChild(textarea);
+    isTemp = true;
+  } else if (textarea.value !== text) {
+    textarea.value = text;
+  }
+
+  try {
+    textarea.focus();
+    textarea.select();
+    textarea.setSelectionRange(0, 999999); // Critical for iOS Safari
+    copied = document.execCommand('copy');
+  } catch (err) {
+    console.warn('execCommand copy failed:', err);
+  } finally {
+    if (isTemp && textarea.parentNode) {
+      document.body.removeChild(textarea);
+    }
+  }
+
+  return copied;
+}
+
+/**
+ * Strips any internal metadata or tips if reading legacy text files
+ */
+function sanitizeCleanCaption(text) {
+  if (!text) return '';
+  let clean = text;
+  if (clean.includes('CAPTION (READY TO COPY & PASTE):')) {
+    const parts = clean.split(/CAPTION \(READY TO COPY & PASTE\):/i);
+    if (parts[1]) {
+      clean = parts[1].split(/------------------------------------------------------------/)[1] || parts[1];
+      if (clean.includes('TIKTOK PUBLISHING TIPS:')) {
+        clean = clean.split(/TIKTOK PUBLISHING TIPS:/i)[0];
+      }
+    }
+  }
+  return clean.replace(/^[=\-\s]+/, '').replace(/[=\-\s]+$/, '').trim();
+}
+
 function buildInstagramCaption(month, day, events = []) {
   const currentYear = new Date().getFullYear();
   const monthName = MONTH_NAMES_EN[month - 1] || 'Date';
 
-  const items = events.map(e => {
+  const items = events.slice(0, 3).map(e => {
     const yearsAgo = currentYear - e.year;
-    const clean = (e.text || '').replace(/\s*\([^)]*\)/g, '').trim();
-    const icon = e.category?.icon || '✨';
-    return `🔹 ${e.year} (${yearsAgo} years ago)\n${icon} ${clean}`;
+    const clean = (e.text || '').replace(/<[^>]*>?/gm, '').replace(/\s*\([^)]*\)/g, '').trim();
+    return `⚡ ${e.year} (${yearsAgo} years ago):\n${clean}`;
   }).join('\n\n');
 
-  return `Feels like yesterday... ✨📸\n\nHere is what happened OnThisAyer (${monthName} ${day}) across history:\n\n${items}\n\n---\n💬 What were YOU doing on this exact day 5 or 10 years ago?\n\nRediscover your past photo memories with Ayer App. 100% private, on-device, no cloud 🔒\n\n👉 Free download on iOS & Android: https://www.chapiware.com/ayer/\n\n#OnThisDay #OnThisAyer #Throwback #PhotoMemories #Nostalgia #AyerApp #History #FeelsLikeYesterday #ThenAndNow`;
+  return `Feels like yesterday... ✨📸\n\nWhat happened on ${monthName} ${day} in history:\n\n${items}\n\n💬 Where were YOU on this exact day 5 or 10 years ago? Check your camera roll 👀\n\n📲 Relive your own throwback photos every day with Ayer (Link in bio  🤖)\n\n#OnThisDay #OnThisAyer #Throwback #PhotoMemories #Nostalgia #AyerApp #History #FeelsLikeYesterday #ThenAndNow`;
 }
 
 function buildTikTokCaption(month, day, events = []) {
   const currentYear = new Date().getFullYear();
-  const monthName = MONTH_NAMES_EN[month - 1] || 'Today';
-
   const sorted = [...events].sort((a, b) => (b.marketingScore || 0) - (a.marketingScore || 0));
-  const topYear = sorted[0]?.year || 'history';
+  const topYear = sorted[0]?.year || events[0]?.year || 'history';
 
   const hook = `Wait till you see what happened on this day in ${topYear}… 🤯👇`;
 
@@ -413,7 +506,7 @@ function buildTikTokCaption(month, day, events = []) {
     return `⚡ ${e.year} (${yearsAgo} yrs ago): ${firstSentence}`;
   }).join('\n');
 
-  return `${hook}\n\n${items}\n\n💬 Honest question: Where were YOU on this exact day 5 or 10 years ago? Check your camera roll 👀\n\n📲 Relive your own throwback photos every single day with Ayer: www.chapiware.com/ayer (100% private, on iOS & Android)\n\n#OnThisDay #HistoryTok #DidYouKnow #Throwback #FeelsLikeYesterday #AyerApp #HistoryBuff #VintageVibes #TodayInHistory #Viral #FYP`;
+  return `${hook}\n\n${items}\n\n💬 Honest question: Where were YOU on this exact day 5 or 10 years ago? Check your camera roll 👀\n\n📲 Relive your throwback photos with Ayer: www.chapiware.com/ayer (100% private, on iOS & Android)\n\n#OnThisDay #HistoryTok #DidYouKnow #Throwback #FeelsLikeYesterday #AyerApp #HistoryBuff #VintageVibes #TodayInHistory #Viral #FYP`;
 }
 
 function changeDay(delta) {

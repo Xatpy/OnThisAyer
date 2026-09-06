@@ -171,25 +171,12 @@ function generateEnglishCopy(day, monthName, events) {
     '#ThenAndNow'
   ].join(' ');
 
-  const instaLines = events.map(ev => {
+  const instaLines = events.slice(0, 3).map(ev => {
     const fullTextClean = ev.rawText.replace(/\s*\([^)]*\)/g, '').trim();
-    return `🔹 ${ev.year} (${ev.yearsAgo} years ago)\n${ev.icon} ${fullTextClean}`;
+    return `⚡ ${ev.year} (${ev.yearsAgo} years ago):\n${fullTextClean}`;
   }).join('\n\n');
 
-  const instagram = `Feels like yesterday... ✨📸
-
-Here is what happened on ${monthName} ${day} across the years:
-
-${instaLines}
-
----
-💬 What were YOU doing on this exact day 5 or 10 years ago?
-
-Rediscover your past right on your device with Ayer. 100% private, no cloud, no signups 🔒
-
-👉 Free download link in bio.
-
-${hashtags}`;
+  const instagram = `Feels like yesterday... ✨📸\n\nWhat happened on ${monthName} ${day} in history:\n\n${instaLines}\n\n💬 Where were YOU on this exact day 5 or 10 years ago? Check your camera roll 👀\n\n📲 Relive your own throwback photos every day with Ayer (Link in bio  🤖)\n\n${hashtags}`;
 
   const threads = `On this day (${monthName} ${day}) throughout the years:\n\n${events.map(ev => `${ev.icon} ${ev.year}: ${cleanEventSentence(ev.rawText, 100)}`).join('\n\n')}\n\nWhat photos do you have from this day? Check Ayer App 📲`;
 
@@ -208,7 +195,7 @@ ${hashtags}`;
     twitterThreadFormatted: twitterThread.join('\n\n---\n\n'),
     instagram,
     threads,
-    tiktok: `Wait till you see what happened on this day in ${events[0]?.year || 'history'}… 🤯👇\n\n${events.slice(0, 3).map(ev => `⚡ ${ev.year} (${ev.yearsAgo} yrs ago): ${cleanEventSentence(ev.rawText, 75)}`).join('\n')}\n\n💬 Honest question: Where were YOU on this exact day 5 or 10 years ago? Check your camera roll 👀\n\n📲 Relive your own throwback photos every day with Ayer: www.chapiware.com/ayer (100% private, on iOS & Android)\n\n#OnThisDay #HistoryTok #DidYouKnow #Throwback #FeelsLikeYesterday #AyerApp #HistoryBuff #VintageVibes #TodayInHistory #Viral #FYP`,
+    tiktok: `Wait till you see what happened on this day in ${events[0]?.year || 'history'}… 🤯👇\n\n${events.slice(0, 3).map(ev => `⚡ ${ev.year} (${ev.yearsAgo} yrs ago): ${cleanEventSentence(ev.rawText, 80)}`).join('\n')}\n\n💬 Honest question: Where were YOU on this exact day 5 or 10 years ago? Check your camera roll 👀\n\n📲 Relive your throwback photos with Ayer: www.chapiware.com/ayer (100% private, on iOS & Android)\n\n#OnThisDay #HistoryTok #DidYouKnow #Throwback #FeelsLikeYesterday #AyerApp #HistoryBuff #VintageVibes #TodayInHistory #Viral #FYP`,
     twitterLength: twitter.length
   };
 }
@@ -246,25 +233,12 @@ function generateSpanishCopy(day, monthName, events) {
     '#Throwback'
   ].join(' ');
 
-  const instaLines = events.map(ev => {
+  const instaLines = events.slice(0, 3).map(ev => {
     const fullTextClean = ev.rawText.replace(/\s*\([^)]*\)/g, '').trim();
-    return `🔹 ${ev.year} (hace ${ev.yearsAgo} años)\n${ev.icon} ${fullTextClean}`;
+    return `⚡ ${ev.year} (hace ${ev.yearsAgo} años):\n${fullTextClean}`;
   }).join('\n\n');
 
-  const instagram = `Un día como hoy pero en años pasados... ✨📸
-
-Desliza para ver lo que estaba pasando un ${day} de ${monthName} en la historia:
-
-${instaLines}
-
----
-💬 ¿Y tú qué estabas haciendo exactamente este mismo día hace 5, 10 o 15 años?
-
-Abre tu galería en Ayer App y revive tus propias fotos de hoy a lo largo de los años. 100% privado y sin nube 🔒
-
-👉 Enlace de descarga gratis en la bio.
-
-${hashtags}`;
+  const instagram = `Parece que fue ayer... ✨📸\n\nQué ocurrió un ${day} de ${monthName} en la historia:\n\n${instaLines}\n\n💬 ¿Dónde estabas TÚ en este mismo día hace 5 o 10 años? Revisa tu carrete 👀\n\n📲 Revive tus fotos del pasado cada día con Ayer (Enlace en la bio  🤖)\n\n${hashtags}`;
 
   const threads = `Tal día como hoy (${day} de ${monthName}) a lo largo de los años:\n\n${events.map(ev => `${ev.icon} ${ev.year}: ${cleanEventSentence(ev.rawText, 100)}`).join('\n\n')}\n\n¿Qué fotos tienes tú de este mismo día? Míralo en Ayer App 📲`;
 

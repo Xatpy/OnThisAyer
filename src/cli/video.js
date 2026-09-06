@@ -248,7 +248,7 @@ export async function renderVideoJob({
     onProgress,
   });
 
-  // 8. Generate companion viral TikTok text file
+  // 8. Generate companion viral TikTok text file (pure copy-paste, zero metadata bloat)
   const txtPath = outputVideoPath.replace(/\.mp4$/i, '.txt');
   const currentYear = new Date().getFullYear();
   const topYear = events[0]?.year || 'history';
@@ -257,26 +257,9 @@ export async function renderVideoJob({
     const yearsAgo = currentYear - ev.year;
     return `⚡ ${ev.year} (${yearsAgo} yrs ago): ${cleanEnglishSentence(ev.text)}`;
   }).join('\n');
-  const tiktokCaption = `${tiktokHook}\n\n${tiktokItems}\n\n💬 Honest question: Where were YOU on this exact day 5 or 10 years ago? Check your camera roll 👀\n\n📲 Relive your own throwback photos every day with Ayer: www.chapiware.com/ayer (100% private, on iOS & Android)\n\n#OnThisDay #HistoryTok #DidYouKnow #Throwback #FeelsLikeYesterday #AyerApp #HistoryBuff #VintageVibes #TodayInHistory #Viral #FYP`;
+  const tiktokCaption = `${tiktokHook}\n\n${tiktokItems}\n\n💬 Honest question: Where were YOU on this exact day 5 or 10 years ago? Check your camera roll 👀\n\n📲 Relive your throwback photos with Ayer: www.chapiware.com/ayer (100% private, on iOS & Android)\n\n#OnThisDay #HistoryTok #DidYouKnow #Throwback #FeelsLikeYesterday #AyerApp #HistoryBuff #VintageVibes #TodayInHistory #Viral #FYP`;
 
-  const companionContent = `🎬 OnThisAyer TikTok & Shorts Viral Metadata
-📅 Date: ${dateLabel} (${dateFormatted})
-📍 Video: ${path.basename(outputVideoPath)}
-============================================================
-
-📌 TIKTOK & SHORTS CAPTION (READY TO COPY & PASTE):
-------------------------------------------------------------
-${tiktokCaption}
-------------------------------------------------------------
-
-💡 TIKTOK PUBLISHING TIPS:
-- Background Sound: Add a trending ambient or lo-fi sound from TikTok's library at 8-12% volume.
-- Cover / Thumbnail: Pick the frame showing the most dramatic photo with the year banner.
-- Pinned Comment: Post "Which of these events surprised you the most? 👇" and pin it to boost comments.
-- Bio Link: Ensure profile has www.chapiware.com/ayer
-============================================================\n`;
-
-  await fs.writeFile(txtPath, companionContent, 'utf8');
+  await fs.writeFile(txtPath, tiktokCaption, 'utf8');
 
   return {
     outputVideoPath,
