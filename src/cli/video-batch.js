@@ -50,6 +50,7 @@ function parseArgs() {
   const args = process.argv.slice(2);
   const params = {
     days: 7,
+    month: null,
     start: null,
     until: null,
     day: null,
@@ -65,6 +66,8 @@ function parseArgs() {
     if (arg.startsWith('--days=')) {
       const val = parseInt(arg.split('=')[1], 10);
       if (!isNaN(val) && val > 0) params.days = val;
+    } else if (arg.startsWith('--month=')) {
+      params.month = arg.split('=')[1];
     } else if (arg.startsWith('--start=')) {
       params.start = arg.split('=')[1];
     } else if (arg.startsWith('--until=') || arg.startsWith('--end=')) {
@@ -120,6 +123,18 @@ async function main() {
       targetDates = [{ month: parseInt(parts[0], 10), day: parseInt(parts[1], 10) }];
     } else {
       throw new Error(`Invalid --day format "${options.day}". Use MM-DD (e.g. 09-07).`);
+    }
+  } else if (options.month) {
+    const m = parseInt(options.month, 10);
+    if (!isNaN(m) && m >= 1 && m <= 12) {
+      const year = new Date().getFullYear();
+      const daysInMonth = new Date(year, m, 0).getDate();
+      targetDates = [];
+      for (let d = 1; d <= daysInMonth; d++) {
+        targetDates.push({ month: m, day: d });
+      }
+    } else {
+      throw new Error(`Invalid --month format "${options.month}". Use 1-12 or 01-12.`);
     }
   } else {
     let startDateObj = null;

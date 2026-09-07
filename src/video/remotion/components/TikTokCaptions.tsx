@@ -12,11 +12,15 @@ type SubtitleChunk = {
 
 type TikTokCaptionsProps = {
   captions: Caption[];
+  minStartMs?: number;
 };
 
-function groupCaptionsIntoPages(words: Caption[], maxWords = 4, maxDurationMs = 2400): SubtitleChunk[] {
+function groupCaptionsIntoPages(words: Caption[], minStartMs = 0, maxWords = 4, maxDurationMs = 2400): SubtitleChunk[] {
   if (!words || words.length === 0) return [];
   
+  const candidateWords = minStartMs > 0 ? words.filter((w) => w.startMs >= minStartMs) : words;
+  if (candidateWords.length === 0) return [];
+
   const pages: SubtitleChunk[] = [];
   let currentTokens: Caption[] = [];
 
@@ -117,12 +121,12 @@ const CaptionPageRenderer: React.FC<{ page: SubtitleChunk }> = ({ page }) => {
   );
 };
 
-export const TikTokCaptions: React.FC<TikTokCaptionsProps> = ({ captions }) => {
+export const TikTokCaptions: React.FC<TikTokCaptionsProps> = ({ captions, minStartMs = 0 }) => {
   const { fps } = useVideoConfig();
 
   const pages = useMemo(() => {
-    return groupCaptionsIntoPages(captions, 4, 2200);
-  }, [captions]);
+    return groupCaptionsIntoPages(captions, minStartMs, 4, 2200);
+  }, [captions, minStartMs]);
 
   if (pages.length === 0) {
     return null;

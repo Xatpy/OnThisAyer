@@ -722,6 +722,9 @@ function openVideoModal() {
   }
 
   if (onlineVideoSource && onlineVideoPlayer) {
+    if (state.currentVideo.thumbnailUrl) {
+      onlineVideoPlayer.poster = state.currentVideo.thumbnailUrl;
+    }
     onlineVideoSource.src = state.currentVideo.videoUrl;
     onlineVideoPlayer.load();
     onlineVideoPlayer.play().catch(() => {});

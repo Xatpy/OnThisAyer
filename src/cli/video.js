@@ -3,8 +3,8 @@ import fsSync from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { bundle } from '@remotion/bundler';
-import { renderMedia, selectComposition } from '@remotion/renderer';
-import { padZero } from '../core/extractor.js';
+import { renderMedia, renderStill, selectComposition } from '@remotion/renderer';
+import { padZero, isSensitiveContent } from '../core/extractor.js';
 import { generateSpeech } from '../video/tts/generator.js';
 import { preloadAndResolveSceneImages } from '../video/utils/image-cache.js';
 
@@ -73,7 +73,7 @@ export async function pickTopEvents(mm, dd, maxEvents = 3) {
       if (dayCurated?.selectedEventIds?.length > 0) {
         for (const id of dayCurated.selectedEventIds) {
           const found = events.find(e => e.id === id);
-          if (found && !selectedYears.has(found.year)) {
+          if (found && !selectedYears.has(found.year) && !isSensitiveContent(found.text, found.images || [])) {
             selectedEvents.push(found);
             selectedYears.add(found.year);
           }
@@ -89,7 +89,7 @@ export async function pickTopEvents(mm, dd, maxEvents = 3) {
   if (selectedEvents.length < maxEvents) {
     const withImages = events.filter(e => {
       const hasImg = (e.images && e.images.length > 0) || e.image;
-      return hasImg && !selectedYears.has(e.year);
+      return hasImg && !selectedYears.has(e.year) && !isSensitiveContent(e.text, e.images || []);
     });
     withImages.sort((a, b) => (b.marketingScore || 0) - (a.marketingScore || 0));
 
@@ -161,21 +161,18 @@ export async function renderVideoJob({
     const yearStr = String(ev.year);
     const wordIdx = words.findIndex((w) => w.text.includes(yearStr));
     
-    const rawImages = ev.images && ev.images.length > 0
-      ? ev.images.map(img => ({
-          url: img.url,
-          thumbnailUrl: img.thumbnailUrl || img.url,
-          title: img.title || '',
-          description: img.description || ''
-        }))
+    const candidateImages = (ev.images && ev.images.length > 0
+      ? ev.images
       : ev.image
-      ? [{
-          url: ev.image.url,
-          thumbnailUrl: ev.image.thumbnailUrl || ev.image.url,
-          title: ev.image.title || '',
-          description: ev.image.description || ''
-        }]
-      : [];
+      ? [ev.image]
+      : []).filter(img => !isSensitiveContent('', [img]));
+
+    const rawImages = candidateImages.map(img => ({
+      url: img.url,
+      thumbnailUrl: img.thumbnailUrl || img.url,
+      title: img.title || '',
+      description: img.description || ''
+    }));
 
     const resolvedImages = await preloadAndResolveSceneImages(rawImages);
 
@@ -190,9 +187,19 @@ export async function renderVideoJob({
     });
   }
 
+  // Calculate intro hook / thumbnail duration
+  let introEndMs = 1600;
+  if (scenes.length > 0 && scenes[0].spokenWordIdx !== -1) {
+    const firstYearWord = words[scenes[0].spokenWordIdx];
+    if (firstYearWord && firstYearWord.startMs > 900) {
+      introEndMs = Math.max(1200, firstYearWord.startMs - 250);
+    }
+  }
+  const introDurationInSeconds = introEndMs / 1000;
+
   for (let i = 0; i < scenes.length; i++) {
     if (i === 0) {
-      scenes[i].startMs = 0;
+      scenes[i].startMs = introEndMs;
     } else {
       const wIdx = scenes[i].spokenWordIdx;
       scenes[i].startMs = wIdx !== -1 && words[wIdx] ? Math.max(0, words[wIdx].startMs - 350) : (ttsResult.durationMs / scenes.length) * i;
@@ -217,6 +224,7 @@ export async function renderVideoJob({
     dateLabel,
     headline: 'On This Day',
     durationInSeconds: ttsResult.durationSeconds,
+    introDurationInSeconds,
     audioSrc: audioBase64,
     scenes,
     captions: words,
@@ -248,7 +256,22 @@ export async function renderVideoJob({
     onProgress,
   });
 
-  // 8. Generate companion viral TikTok text file (pure copy-paste, zero metadata bloat)
+  // 8. Render high-res standalone thumbnail JPG (Frame 0)
+  const thumbnailPath = outputVideoPath.replace(/\.mp4$/i, '.jpg');
+  try {
+    await renderStill({
+      composition,
+      serveUrl: activeBundle,
+      output: thumbnailPath,
+      inputProps,
+      frame: 0,
+      imageFormat: 'jpeg',
+    });
+  } catch (err) {
+    console.warn(`⚠️ Could not render still thumbnail for ${dateFormatted}:`, err.message);
+  }
+
+  // 9. Generate companion viral TikTok text file (pure copy-paste, zero metadata bloat)
   const txtPath = outputVideoPath.replace(/\.mp4$/i, '.txt');
   const currentYear = new Date().getFullYear();
   const topYear = events[0]?.year || 'history';

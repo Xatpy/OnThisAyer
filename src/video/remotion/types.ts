@@ -23,4 +23,5 @@ export type TikTokVideoProps = {
   audioSrc: string;      // Relative path or data URL to MP3
   captions: Caption[];   // Word-level timestamps
   durationInSeconds: number;
+  introDurationInSeconds?: number; // Duration in seconds for intro thumbnail cover
 };

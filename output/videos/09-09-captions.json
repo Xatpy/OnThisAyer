@@ -1,460 +1,340 @@
 {
-  "text": "On this day, September 9th: In 2014: The album Songs of Innocence by U2 is digitally released at no charge to all customers of the iTunes Music Store, appearing automatically in the \"purchased\" section of over 500 million users worldwide. In 2006: Space Shuttle Program: Space Shuttle Atlantis is launched on STS-115 to resume assembling the International Space Station. And in 1994: Space Shuttle program: Space Shuttle Discovery is launched on STS-64.",
+  "text": "On this day, September 9th: In 2015: Elizabeth II became the longest-reigning monarch of the United Kingdom, surpassing Queen Victoria. In 2006: Space Shuttle Program: Space Shuttle Atlantis is launched on STS-115 to resume assembling the International Space Station. And in 1971: Imagine, the second solo album by John Lennon, was released.",
   "voice": "en-US-ChristopherNeural",
-  "durationMs": 32083,
-  "durationSeconds": 32.083,
+  "durationMs": 25643,
+  "durationSeconds": 25.643,
   "sentences": [
     {
-      "text": "On this day, September 9th: In 2014: The album Songs of Innocence by U2 is digitally released at no charge to all customers of the iTunes Music Store, appearing automatically in the \"purchased\" section of over 500 million users worldwide.",
+      "text": "On this day, September 9th: In 2015: Elizabeth II became the longest-reigning monarch of the United Kingdom, surpassing Queen Victoria.",
       "startMs": 100,
-      "endMs": 15443,
-      "durationMs": 15343
+      "endMs": 9824,
+      "durationMs": 9724
     },
     {
       "text": "In 2006: Space Shuttle Program: Space Shuttle Atlantis is launched on STS-115 to resume assembling the International Space Station.",
-      "startMs": 15393,
-      "endMs": 24845,
+      "startMs": 9774,
+      "endMs": 19226,
       "durationMs": 9452
     },
     {
-      "text": "And in 1994: Space Shuttle program: Space Shuttle Discovery is launched on STS-64.",
-      "startMs": 24845,
-      "endMs": 32083,
-      "durationMs": 7238
+      "text": "And in 1971: Imagine, the second solo album by John Lennon, was released.",
+      "startMs": 19226,
+      "endMs": 25643,
+      "durationMs": 6417
     }
   ],
   "words": [
     {
       "text": "On",
       "startMs": 100,
-      "endMs": 254,
+      "endMs": 268,
       "timestampMs": 100
     },
     {
       "text": "this",
-      "startMs": 254,
-      "endMs": 563,
-      "timestampMs": 254
+      "startMs": 268,
+      "endMs": 603,
+      "timestampMs": 268
     },
     {
       "text": "day,",
-      "startMs": 563,
-      "endMs": 871,
-      "timestampMs": 563
+      "startMs": 603,
+      "endMs": 938,
+      "timestampMs": 603
     },
     {
       "text": "September",
-      "startMs": 871,
-      "endMs": 1565,
-      "timestampMs": 871
+      "startMs": 938,
+      "endMs": 1693,
+      "timestampMs": 938
     },
     {
       "text": "9th:",
-      "startMs": 1565,
-      "endMs": 1873,
-      "timestampMs": 1565
+      "startMs": 1693,
+      "endMs": 2028,
+      "timestampMs": 1693
     },
     {
       "text": "In",
-      "startMs": 1873,
-      "endMs": 2027,
-      "timestampMs": 1873
+      "startMs": 2028,
+      "endMs": 2196,
+      "timestampMs": 2028
     },
     {
-      "text": "2014:",
-      "startMs": 2027,
-      "endMs": 2413,
-      "timestampMs": 2027
+      "text": "2015:",
+      "startMs": 2196,
+      "endMs": 2615,
+      "timestampMs": 2196
     },
     {
-      "text": "The",
-      "startMs": 2413,
-      "endMs": 2644,
-      "timestampMs": 2413
+      "text": "Elizabeth",
+      "startMs": 2615,
+      "endMs": 3369,
+      "timestampMs": 2615
     },
     {
-      "text": "album",
-      "startMs": 2644,
-      "endMs": 3030,
-      "timestampMs": 2644
+      "text": "II",
+      "startMs": 3369,
+      "endMs": 3537,
+      "timestampMs": 3369
     },
     {
-      "text": "Songs",
-      "startMs": 3030,
-      "endMs": 3415,
-      "timestampMs": 3030
-    },
-    {
-      "text": "of",
-      "startMs": 3415,
-      "endMs": 3569,
-      "timestampMs": 3415
-    },
-    {
-      "text": "Innocence",
-      "startMs": 3569,
-      "endMs": 4263,
-      "timestampMs": 3569
-    },
-    {
-      "text": "by",
-      "startMs": 4263,
-      "endMs": 4418,
-      "timestampMs": 4263
-    },
-    {
-      "text": "U2",
-      "startMs": 4418,
-      "endMs": 4572,
-      "timestampMs": 4418
-    },
-    {
-      "text": "is",
-      "startMs": 4572,
-      "endMs": 4726,
-      "timestampMs": 4572
-    },
-    {
-      "text": "digitally",
-      "startMs": 4726,
-      "endMs": 5420,
-      "timestampMs": 4726
-    },
-    {
-      "text": "released",
-      "startMs": 5420,
-      "endMs": 6037,
-      "timestampMs": 5420
-    },
-    {
-      "text": "at",
-      "startMs": 6037,
-      "endMs": 6191,
-      "timestampMs": 6037
-    },
-    {
-      "text": "no",
-      "startMs": 6191,
-      "endMs": 6345,
-      "timestampMs": 6191
-    },
-    {
-      "text": "charge",
-      "startMs": 6345,
-      "endMs": 6808,
-      "timestampMs": 6345
-    },
-    {
-      "text": "to",
-      "startMs": 6808,
-      "endMs": 6962,
-      "timestampMs": 6808
-    },
-    {
-      "text": "all",
-      "startMs": 6962,
-      "endMs": 7193,
-      "timestampMs": 6962
-    },
-    {
-      "text": "customers",
-      "startMs": 7193,
-      "endMs": 7887,
-      "timestampMs": 7193
-    },
-    {
-      "text": "of",
-      "startMs": 7887,
-      "endMs": 8041,
-      "timestampMs": 7887
+      "text": "became",
+      "startMs": 3537,
+      "endMs": 4040,
+      "timestampMs": 3537
     },
     {
       "text": "the",
-      "startMs": 8041,
-      "endMs": 8273,
-      "timestampMs": 8041
+      "startMs": 4040,
+      "endMs": 4291,
+      "timestampMs": 4040
     },
     {
-      "text": "iTunes",
-      "startMs": 8273,
-      "endMs": 8735,
-      "timestampMs": 8273
+      "text": "longest-reigning",
+      "startMs": 4291,
+      "endMs": 5633,
+      "timestampMs": 4291
     },
     {
-      "text": "Music",
-      "startMs": 8735,
-      "endMs": 9121,
-      "timestampMs": 8735
-    },
-    {
-      "text": "Store,",
-      "startMs": 9121,
-      "endMs": 9583,
-      "timestampMs": 9121
-    },
-    {
-      "text": "appearing",
-      "startMs": 9583,
-      "endMs": 10277,
-      "timestampMs": 9583
-    },
-    {
-      "text": "automatically",
-      "startMs": 10277,
-      "endMs": 11279,
-      "timestampMs": 10277
-    },
-    {
-      "text": "in",
-      "startMs": 11279,
-      "endMs": 11434,
-      "timestampMs": 11279
-    },
-    {
-      "text": "the",
-      "startMs": 11434,
-      "endMs": 11665,
-      "timestampMs": 11434
-    },
-    {
-      "text": "\"purchased\"",
-      "startMs": 11665,
-      "endMs": 12513,
-      "timestampMs": 11665
-    },
-    {
-      "text": "section",
-      "startMs": 12513,
-      "endMs": 13053,
-      "timestampMs": 12513
+      "text": "monarch",
+      "startMs": 5633,
+      "endMs": 6219,
+      "timestampMs": 5633
     },
     {
       "text": "of",
-      "startMs": 13053,
-      "endMs": 13207,
-      "timestampMs": 13053
+      "startMs": 6219,
+      "endMs": 6387,
+      "timestampMs": 6219
     },
     {
-      "text": "over",
-      "startMs": 13207,
-      "endMs": 13515,
-      "timestampMs": 13207
+      "text": "the",
+      "startMs": 6387,
+      "endMs": 6638,
+      "timestampMs": 6387
     },
     {
-      "text": "500",
-      "startMs": 13515,
-      "endMs": 13747,
-      "timestampMs": 13515
+      "text": "United",
+      "startMs": 6638,
+      "endMs": 7141,
+      "timestampMs": 6638
     },
     {
-      "text": "million",
-      "startMs": 13747,
-      "endMs": 14286,
-      "timestampMs": 13747
+      "text": "Kingdom,",
+      "startMs": 7141,
+      "endMs": 7812,
+      "timestampMs": 7141
     },
     {
-      "text": "users",
-      "startMs": 14286,
-      "endMs": 14672,
-      "timestampMs": 14286
+      "text": "surpassing",
+      "startMs": 7812,
+      "endMs": 8650,
+      "timestampMs": 7812
     },
     {
-      "text": "worldwide.",
-      "startMs": 14672,
-      "endMs": 15443,
-      "timestampMs": 14672
+      "text": "Queen",
+      "startMs": 8650,
+      "endMs": 9069,
+      "timestampMs": 8650
+    },
+    {
+      "text": "Victoria.",
+      "startMs": 9069,
+      "endMs": 9824,
+      "timestampMs": 9069
     },
     {
       "text": "In",
-      "startMs": 15393,
-      "endMs": 15560,
-      "timestampMs": 15393
+      "startMs": 9774,
+      "endMs": 9941,
+      "timestampMs": 9774
     },
     {
       "text": "2006:",
-      "startMs": 15560,
-      "endMs": 15978,
-      "timestampMs": 15560
+      "startMs": 9941,
+      "endMs": 10359,
+      "timestampMs": 9941
     },
     {
       "text": "Space",
-      "startMs": 15978,
-      "endMs": 16397,
-      "timestampMs": 15978
+      "startMs": 10359,
+      "endMs": 10778,
+      "timestampMs": 10359
     },
     {
       "text": "Shuttle",
-      "startMs": 16397,
-      "endMs": 16982,
-      "timestampMs": 16397
+      "startMs": 10778,
+      "endMs": 11363,
+      "timestampMs": 10778
     },
     {
       "text": "Program:",
-      "startMs": 16982,
-      "endMs": 17651,
-      "timestampMs": 16982
+      "startMs": 11363,
+      "endMs": 12032,
+      "timestampMs": 11363
     },
     {
       "text": "Space",
-      "startMs": 17651,
-      "endMs": 18070,
-      "timestampMs": 17651
+      "startMs": 12032,
+      "endMs": 12451,
+      "timestampMs": 12032
     },
     {
       "text": "Shuttle",
-      "startMs": 18070,
-      "endMs": 18655,
-      "timestampMs": 18070
+      "startMs": 12451,
+      "endMs": 13036,
+      "timestampMs": 12451
     },
     {
       "text": "Atlantis",
-      "startMs": 18655,
-      "endMs": 19324,
-      "timestampMs": 18655
+      "startMs": 13036,
+      "endMs": 13705,
+      "timestampMs": 13036
     },
     {
       "text": "is",
-      "startMs": 19324,
-      "endMs": 19492,
-      "timestampMs": 19324
+      "startMs": 13705,
+      "endMs": 13873,
+      "timestampMs": 13705
     },
     {
       "text": "launched",
-      "startMs": 19492,
-      "endMs": 20161,
-      "timestampMs": 19492
+      "startMs": 13873,
+      "endMs": 14542,
+      "timestampMs": 13873
     },
     {
       "text": "on",
-      "startMs": 20161,
-      "endMs": 20328,
-      "timestampMs": 20161
+      "startMs": 14542,
+      "endMs": 14709,
+      "timestampMs": 14542
     },
     {
       "text": "STS-115",
-      "startMs": 20328,
-      "endMs": 20914,
-      "timestampMs": 20328
+      "startMs": 14709,
+      "endMs": 15295,
+      "timestampMs": 14709
     },
     {
       "text": "to",
-      "startMs": 20914,
-      "endMs": 21081,
-      "timestampMs": 20914
+      "startMs": 15295,
+      "endMs": 15462,
+      "timestampMs": 15295
     },
     {
       "text": "resume",
-      "startMs": 21081,
-      "endMs": 21583,
-      "timestampMs": 21081
+      "startMs": 15462,
+      "endMs": 15964,
+      "timestampMs": 15462
     },
     {
       "text": "assembling",
-      "startMs": 21583,
-      "endMs": 22419,
-      "timestampMs": 21583
+      "startMs": 15964,
+      "endMs": 16800,
+      "timestampMs": 15964
     },
     {
       "text": "the",
-      "startMs": 22419,
-      "endMs": 22670,
-      "timestampMs": 22419
+      "startMs": 16800,
+      "endMs": 17051,
+      "timestampMs": 16800
     },
     {
       "text": "International",
-      "startMs": 22670,
-      "endMs": 23758,
-      "timestampMs": 22670
+      "startMs": 17051,
+      "endMs": 18139,
+      "timestampMs": 17051
     },
     {
       "text": "Space",
-      "startMs": 23758,
-      "endMs": 24176,
-      "timestampMs": 23758
+      "startMs": 18139,
+      "endMs": 18557,
+      "timestampMs": 18139
     },
     {
       "text": "Station.",
-      "startMs": 24176,
-      "endMs": 24845,
-      "timestampMs": 24176
+      "startMs": 18557,
+      "endMs": 19226,
+      "timestampMs": 18557
     },
     {
       "text": "And",
-      "startMs": 24845,
-      "endMs": 25155,
-      "timestampMs": 24845
+      "startMs": 19226,
+      "endMs": 19542,
+      "timestampMs": 19226
     },
     {
       "text": "in",
-      "startMs": 25155,
-      "endMs": 25362,
-      "timestampMs": 25155
+      "startMs": 19542,
+      "endMs": 19752,
+      "timestampMs": 19542
     },
     {
-      "text": "1994:",
-      "startMs": 25362,
-      "endMs": 25879,
-      "timestampMs": 25362
+      "text": "1971:",
+      "startMs": 19752,
+      "endMs": 20278,
+      "timestampMs": 19752
     },
     {
-      "text": "Space",
-      "startMs": 25879,
-      "endMs": 26396,
-      "timestampMs": 25879
+      "text": "Imagine,",
+      "startMs": 20278,
+      "endMs": 21120,
+      "timestampMs": 20278
     },
     {
-      "text": "Shuttle",
-      "startMs": 26396,
-      "endMs": 27120,
-      "timestampMs": 26396
+      "text": "the",
+      "startMs": 21120,
+      "endMs": 21435,
+      "timestampMs": 21120
     },
     {
-      "text": "program:",
-      "startMs": 27120,
-      "endMs": 27947,
-      "timestampMs": 27120
+      "text": "second",
+      "startMs": 21435,
+      "endMs": 22066,
+      "timestampMs": 21435
     },
     {
-      "text": "Space",
-      "startMs": 27947,
-      "endMs": 28464,
-      "timestampMs": 27947
+      "text": "solo",
+      "startMs": 22066,
+      "endMs": 22487,
+      "timestampMs": 22066
     },
     {
-      "text": "Shuttle",
-      "startMs": 28464,
-      "endMs": 29188,
-      "timestampMs": 28464
+      "text": "album",
+      "startMs": 22487,
+      "endMs": 23013,
+      "timestampMs": 22487
     },
     {
-      "text": "Discovery",
-      "startMs": 29188,
-      "endMs": 30119,
-      "timestampMs": 29188
+      "text": "by",
+      "startMs": 23013,
+      "endMs": 23223,
+      "timestampMs": 23013
     },
     {
-      "text": "is",
-      "startMs": 30119,
-      "endMs": 30326,
-      "timestampMs": 30119
+      "text": "John",
+      "startMs": 23223,
+      "endMs": 23644,
+      "timestampMs": 23223
     },
     {
-      "text": "launched",
-      "startMs": 30326,
-      "endMs": 31153,
-      "timestampMs": 30326
+      "text": "Lennon,",
+      "startMs": 23644,
+      "endMs": 24381,
+      "timestampMs": 23644
     },
     {
-      "text": "on",
-      "startMs": 31153,
-      "endMs": 31360,
-      "timestampMs": 31153
+      "text": "was",
+      "startMs": 24381,
+      "endMs": 24696,
+      "timestampMs": 24381
     },
     {
-      "text": "STS-64.",
-      "startMs": 31360,
-      "endMs": 32083,
-      "timestampMs": 31360
+      "text": "released.",
+      "startMs": 24696,
+      "endMs": 25643,
+      "timestampMs": 24696
     }
   ]
 }

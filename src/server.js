@@ -196,14 +196,22 @@ async function handleApiRequest(req, res, url) {
     const dd = padZero(day);
     const videoFile = `${mm}-${dd}.mp4`;
     const txtFile = `${mm}-${dd}.txt`;
+    const jpgFile = `${mm}-${dd}.jpg`;
     const videoAbsPath = path.join(OUTPUT_DIR, 'videos', videoFile);
     const txtAbsPath = path.join(OUTPUT_DIR, 'videos', txtFile);
+    const jpgAbsPath = path.join(OUTPUT_DIR, 'videos', jpgFile);
 
     try {
       const stat = await fs.stat(videoAbsPath);
       let caption = '';
       try {
         caption = await fs.readFile(txtAbsPath, 'utf8');
+      } catch {}
+
+      let thumbnailUrl = null;
+      try {
+        await fs.stat(jpgAbsPath);
+        thumbnailUrl = `/output/videos/${jpgFile}`;
       } catch {}
 
       res.writeHead(200, { 'Content-Type': 'application/json' });
@@ -214,6 +222,7 @@ async function handleApiRequest(req, res, url) {
         videoUrl: `/output/videos/${videoFile}`,
         downloadUrl: `/output/videos/${videoFile}`,
         downloadFilename: `OnThisAyer-${mm}-${dd}.mp4`,
+        thumbnailUrl,
         captionUrl: `/output/videos/${txtFile}`,
         caption,
         sizeBytes: stat.size,

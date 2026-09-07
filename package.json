@@ -16,6 +16,7 @@
     "video": "node src/cli/video.js",
     "video:render": "node src/cli/video.js",
     "video:batch": "node src/cli/video-batch.js",
+    "video:month": "node src/cli/video-batch.js",
     "video:sync": "node src/cli/sync-videos.js",
     "video:preview": "remotion studio src/video/remotion/index.ts"
   },

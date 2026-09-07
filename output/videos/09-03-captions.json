@@ -1,8 +1,8 @@
 {
-  "text": "On this day, September 3rd: In 2010: After taking off from Dubai International Airport, UPS Airlines Flight 6 develops an in-flight fire in the cargo hold and crashes near Nad Al Sheba, killing both crew members on board. In 1976: Viking program: The American Viking 2 spacecraft lands at Utopia Planitia on Mars. And in 1943: World War II: British and Canadian troops land on the Italian mainland.",
+  "text": "On this day, September 3rd: In 2010: After taking off from Dubai International Airport, UPS Airlines Flight 6 develops an in-flight fire in the cargo hold and crashes near Nad Al Sheba, killing both crew members on board. In 1976: Viking program: The American Viking 2 spacecraft lands at Utopia Planitia on Mars. And in 1650: Under Oliver Cromwell, the English New Model Army ambushed a poorly prepared Scottish force at the Battle of Dunbar, the first battle of the Third English Civil War.",
   "voice": "en-US-ChristopherNeural",
-  "durationMs": 29083,
-  "durationSeconds": 29.083,
+  "durationMs": 33429,
+  "durationSeconds": 33.429,
   "sentences": [
     {
       "text": "On this day, September 3rd: In 2010: After taking off from Dubai International Airport, UPS Airlines Flight 6 develops an in-flight fire in the cargo hold and crashes near Nad Al Sheba, killing both crew members on board.",
@@ -17,10 +17,10 @@
       "durationMs": 7893
     },
     {
-      "text": "And in 1943: World War II: British and Canadian troops land on the Italian mainland.",
+      "text": "And in 1650: Under Oliver Cromwell, the English New Model Army ambushed a poorly prepared Scottish force at the Battle of Dunbar, the first battle of the Third English Civil War.",
       "startMs": 22488,
-      "endMs": 29083,
-      "durationMs": 6595
+      "endMs": 33429,
+      "durationMs": 10940
     }
   ],
   "words": [
@@ -345,92 +345,188 @@
     {
       "text": "And",
       "startMs": 22488,
-      "endMs": 22771,
+      "endMs": 22710,
       "timestampMs": 22488
     },
     {
       "text": "in",
-      "startMs": 22771,
-      "endMs": 22959,
-      "timestampMs": 22771
+      "startMs": 22710,
+      "endMs": 22858,
+      "timestampMs": 22710
     },
     {
-      "text": "1943:",
-      "startMs": 22959,
-      "endMs": 23430,
-      "timestampMs": 22959
+      "text": "1650:",
+      "startMs": 22858,
+      "endMs": 23227,
+      "timestampMs": 22858
     },
     {
-      "text": "World",
-      "startMs": 23430,
-      "endMs": 23901,
-      "timestampMs": 23430
+      "text": "Under",
+      "startMs": 23227,
+      "endMs": 23597,
+      "timestampMs": 23227
     },
     {
-      "text": "War",
-      "startMs": 23901,
-      "endMs": 24184,
-      "timestampMs": 23901
+      "text": "Oliver",
+      "startMs": 23597,
+      "endMs": 24040,
+      "timestampMs": 23597
     },
     {
-      "text": "II:",
-      "startMs": 24184,
-      "endMs": 24467,
-      "timestampMs": 24184
-    },
-    {
-      "text": "British",
-      "startMs": 24467,
-      "endMs": 25126,
-      "timestampMs": 24467
-    },
-    {
-      "text": "and",
-      "startMs": 25126,
-      "endMs": 25409,
-      "timestampMs": 25126
-    },
-    {
-      "text": "Canadian",
-      "startMs": 25409,
-      "endMs": 26163,
-      "timestampMs": 25409
-    },
-    {
-      "text": "troops",
-      "startMs": 26163,
-      "endMs": 26728,
-      "timestampMs": 26163
-    },
-    {
-      "text": "land",
-      "startMs": 26728,
-      "endMs": 27105,
-      "timestampMs": 26728
-    },
-    {
-      "text": "on",
-      "startMs": 27105,
-      "endMs": 27293,
-      "timestampMs": 27105
+      "text": "Cromwell,",
+      "startMs": 24040,
+      "endMs": 24706,
+      "timestampMs": 24040
     },
     {
       "text": "the",
-      "startMs": 27293,
-      "endMs": 27576,
-      "timestampMs": 27293
+      "startMs": 24706,
+      "endMs": 24928,
+      "timestampMs": 24706
     },
     {
-      "text": "Italian",
-      "startMs": 27576,
-      "endMs": 28235,
-      "timestampMs": 27576
+      "text": "English",
+      "startMs": 24928,
+      "endMs": 25445,
+      "timestampMs": 24928
     },
     {
-      "text": "mainland.",
-      "startMs": 28235,
-      "endMs": 29083,
-      "timestampMs": 28235
+      "text": "New",
+      "startMs": 25445,
+      "endMs": 25667,
+      "timestampMs": 25445
+    },
+    {
+      "text": "Model",
+      "startMs": 25667,
+      "endMs": 26036,
+      "timestampMs": 25667
+    },
+    {
+      "text": "Army",
+      "startMs": 26036,
+      "endMs": 26332,
+      "timestampMs": 26036
+    },
+    {
+      "text": "ambushed",
+      "startMs": 26332,
+      "endMs": 26923,
+      "timestampMs": 26332
+    },
+    {
+      "text": "a",
+      "startMs": 26923,
+      "endMs": 26997,
+      "timestampMs": 26923
+    },
+    {
+      "text": "poorly",
+      "startMs": 26997,
+      "endMs": 27441,
+      "timestampMs": 26997
+    },
+    {
+      "text": "prepared",
+      "startMs": 27441,
+      "endMs": 28032,
+      "timestampMs": 27441
+    },
+    {
+      "text": "Scottish",
+      "startMs": 28032,
+      "endMs": 28624,
+      "timestampMs": 28032
+    },
+    {
+      "text": "force",
+      "startMs": 28624,
+      "endMs": 28993,
+      "timestampMs": 28624
+    },
+    {
+      "text": "at",
+      "startMs": 28993,
+      "endMs": 29141,
+      "timestampMs": 28993
+    },
+    {
+      "text": "the",
+      "startMs": 29141,
+      "endMs": 29363,
+      "timestampMs": 29141
+    },
+    {
+      "text": "Battle",
+      "startMs": 29363,
+      "endMs": 29806,
+      "timestampMs": 29363
+    },
+    {
+      "text": "of",
+      "startMs": 29806,
+      "endMs": 29954,
+      "timestampMs": 29806
+    },
+    {
+      "text": "Dunbar,",
+      "startMs": 29954,
+      "endMs": 30472,
+      "timestampMs": 29954
+    },
+    {
+      "text": "the",
+      "startMs": 30472,
+      "endMs": 30693,
+      "timestampMs": 30472
+    },
+    {
+      "text": "first",
+      "startMs": 30693,
+      "endMs": 31063,
+      "timestampMs": 30693
+    },
+    {
+      "text": "battle",
+      "startMs": 31063,
+      "endMs": 31507,
+      "timestampMs": 31063
+    },
+    {
+      "text": "of",
+      "startMs": 31507,
+      "endMs": 31654,
+      "timestampMs": 31507
+    },
+    {
+      "text": "the",
+      "startMs": 31654,
+      "endMs": 31876,
+      "timestampMs": 31654
+    },
+    {
+      "text": "Third",
+      "startMs": 31876,
+      "endMs": 32246,
+      "timestampMs": 31876
+    },
+    {
+      "text": "English",
+      "startMs": 32246,
+      "endMs": 32763,
+      "timestampMs": 32246
+    },
+    {
+      "text": "Civil",
+      "startMs": 32763,
+      "endMs": 33133,
+      "timestampMs": 32763
+    },
+    {
+      "text": "War.",
+      "startMs": 33133,
+      "endMs": 33429,
+      "timestampMs": 33133
     }
   ]
 }

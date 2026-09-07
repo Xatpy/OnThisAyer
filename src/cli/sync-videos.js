@@ -18,10 +18,10 @@ export async function syncVideos() {
   await fs.mkdir(DEST_DIR, { recursive: true });
 
   const files = await fs.readdir(SOURCE_DIR);
-  const mediaFiles = files.filter(f => f.endsWith('.mp4') || f.endsWith('.txt'));
+  const mediaFiles = files.filter(f => f.endsWith('.mp4') || f.endsWith('.txt') || f.endsWith('.jpg'));
 
   if (mediaFiles.length === 0) {
-    console.log(`ℹ️ No .mp4 or .txt videos found in ${SOURCE_DIR} to sync.`);
+    console.log(`ℹ️ No .mp4, .txt, or .jpg videos found in ${SOURCE_DIR} to sync.`);
     return 0;
   }
 

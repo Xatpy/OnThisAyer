@@ -111,9 +111,25 @@ export function categorizeEvent(text, pages = []) {
   return { id: 'general', name: 'Hito Histórico', icon: '✨' };
 }
 
+export const SENSITIVE_CONTENT_REGEX = /\b(nude|nudity|naked|shirtless|topless|sensual|erotic|erotica|sexual|sexy|lingerie|underwear|bikini|swimsuit|playboy|penthouse|hustler|porn|pornograph|coitus|intercourse|kissing|genital|breasts|penis|vagina|fetish|bdsm|incest|adultery|rape|assault|child abuse|pedophil|prostitut)\b|u2_songs_of_innocence/i;
+
+export function isSensitiveContent(text, images = []) {
+  if (SENSITIVE_CONTENT_REGEX.test(text || '')) return true;
+  for (const img of images) {
+    const str = [img.url, img.title, img.description, img.canonicalKey].filter(Boolean).join(' ');
+    if (SENSITIVE_CONTENT_REGEX.test(str)) return true;
+  }
+  return false;
+}
+
 function scoreImage(url, pageTitle = '', pageDesc = '') {
   if (!url) return 0;
   const lower = (url + ' ' + pageTitle + ' ' + pageDesc).toLowerCase();
+
+  // Strict NSFW / Sensual / Sexual filter to protect social media accounts
+  if (SENSITIVE_CONTENT_REGEX.test(lower)) {
+    return 0;
+  }
   
   if (lower.includes('flag_of_') || lower.includes('coat_of_arms') || lower.includes('insignia') || 
       lower.includes('symbol') || lower.includes('logo_') || lower.includes('seal_of') ||
@@ -220,6 +236,7 @@ export async function fetchWikipediaDay(month, day) {
 
   for (const item of allRawEvents) {
     if (!item.year || !item.text) continue;
+    if (SENSITIVE_CONTENT_REGEX.test(item.text)) continue;
     
     const pages = item.pages || [];
     const collectedImages = [];
