@@ -8,6 +8,594 @@
   "eventsWithImages": 10,
   "events": [
     {
+      "id": "04-26-1986-da45d892",
+      "year": 1986,
+      "text": "The Chernobyl Nuclear Power Plant (pictured) near Chernobyl, Ukrainian SSR, suffered a steam explosion, resulting in a fire, a nuclear meltdown, and the evacuation and resettlement of over 336,000 people around Europe.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 180,
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/3840px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/330px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "chernobyl_npp_site_panorama_with_nsc_construction_-_june_2013.jpg",
+        "width": 6300,
+        "height": 2408,
+        "title": "Chernobyl Nuclear Power Plant",
+        "description": "Decommissioned nuclear power plant in Ukraine",
+        "extract": "The Chernobyl Nuclear Power Plant (ChNPP) is a nuclear power plant undergoing decommissioning. ChNPP is located near the abandoned city of Pripyat in northern Ukraine, 16.5 kilometres (10 mi) northwest of the city of Chernobyl, 16 kilometres (10 mi) from the Belarus–Ukraine border, and about 100 kilometres (62 mi) north of Kyiv. The plant was cooled by an engineered pond, fed by the Pripyat River about 5 kilometres (3 mi) northwest from its juncture with the Dnieper River. The RBMK type graphite-moderated reactor used in this plant is considered an unusual design. It prioritizes cost efficiency over safety compared to other reactor designs, such as the VVER pressurized water reactor.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/3840px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/330px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chernobyl_npp_site_panorama_with_nsc_construction_-_june_2013.jpg",
+          "width": 6300,
+          "height": 2408,
+          "title": "Chernobyl Nuclear Power Plant",
+          "description": "Decommissioned nuclear power plant in Ukraine",
+          "extract": "The Chernobyl Nuclear Power Plant (ChNPP) is a nuclear power plant undergoing decommissioning. ChNPP is located near the abandoned city of Pripyat in northern Ukraine, 16.5 kilometres (10 mi) northwest of the city of Chernobyl, 16 kilometres (10 mi) from the Belarus–Ukraine border, and about 100 kilometres (62 mi) north of Kyiv. The plant was cooled by an engineered pond, fed by the Pripyat River about 5 kilometres (3 mi) northwest from its juncture with the Dnieper River. The RBMK type graphite-moderated reactor used in this plant is considered an unusual design. It prioritizes cost efficiency over safety compared to other reactor designs, such as the VVER pressurized water reactor.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Administrative_center%2C_Radiation_Control_%2811383715816%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Administrative_center%2C_Radiation_Control_%2811383715816%29.jpg/330px-Administrative_center%2C_Radiation_Control_%2811383715816%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "administrative_center,_radiation_control_(11383715816).jpg",
+          "width": 1024,
+          "height": 768,
+          "title": "Chernobyl",
+          "description": "Partially abandoned city in Kyiv Oblast, Ukraine",
+          "extract": "Chernobyl, also known as Chornobyl, is a partially abandoned city in Vyshhorod Raion, Kyiv Oblast, Ukraine. It is located within the Chernobyl Exclusion Zone, 90 kilometres (60 mi) to the north of Kyiv and 160 kilometres (100 mi) to the southwest of Gomel in neighbouring Belarus. Prior to being evacuated in the aftermath of the Chernobyl disaster in 1986, it was home to approximately 14,000 residents—considerably less than adjacent Pripyat, which was completely abandoned following the incident. Since then, living anywhere within the Chernobyl Exclusion Zone is technically illegal, Ukrainian authorities have tolerated those who have taken up living in some of the city's less irradiated areas; Chernobyl's 2020 population estimate was 150 people.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/IAEA_02790015_%285613115146%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/330px-IAEA_02790015_%285613115146%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "iaea_02790015_(5613115146).jpg",
+          "width": 1328,
+          "height": 2040,
+          "title": "Chernobyl disaster",
+          "description": "1986 nuclear accident in the Soviet Union",
+          "extract": "On 26 April 1986, reactor 4 of the Chernobyl Nuclear Power Plant, located near Pripyat, Ukraine, exploded. With dozens of direct casualties and thousands of health complications stemming from the disaster, it is one of only two nuclear accidents rated at the maximum severity on the International Nuclear Event Scale, the other being the 2011 Fukushima nuclear accident, which happened in Japan. The response involved more than 500,000 personnel and cost an estimated 18 billion rubles. It remains the most destructive nuclear disaster and the most expensive disaster in history, with an estimated cost of US$700 billion. The disaster occurred during a test to simulate the cooling of the reactor during a serious accident in blackout conditions. The operators carried out the test following an accidental drop in reactor power. Upon shutting down the reactor in such conditions, pervasive design flaws led to a power surge. The reactor components ruptured and lost coolant, and the resulting steam explosions and meltdown destroyed the reactor building. This was followed by a reactor core fire that spread radioactive contaminants across the Soviet Union and Europe. The Soviet government established a 10 kilometres (6.2 mi) exclusion zone 36 hours after the accident, initially evacuating around 49,000 people. This was later expanded to 30 kilometres (19 mi), resulting in the evacuation of approximately 68,000 more people. The government did not publicly acknowledge the disaster until two days after the explosion, when elevated radiation levels were detected in Sweden.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Chernobyl Nuclear Power Plant",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "04-26-1944-58ed25bd",
+      "year": 1944,
+      "text": "World War II: U.S. Navy submarines began attacks on Japan's Take Ichi convoy as it sailed in waters between Taiwan and the Philippines, eventually sinking four vessels and killing more than 4,000 troops.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 180,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+        "width": 798,
+        "height": 544,
+        "title": "World War II",
+        "description": "Global conflict from 1939 to 1945",
+        "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+          "width": 798,
+          "height": 544,
+          "title": "World War II",
+          "description": "Global conflict from 1939 to 1945",
+          "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Take_Ichi_convoy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Take_Ichi_convoy.jpg/330px-Take_Ichi_convoy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "take_ichi_convoy.jpg",
+          "width": 740,
+          "height": 906,
+          "title": "Take Ichi convoy",
+          "description": "1944 Japanese military naval convoy",
+          "extract": "The Take-Ichi sendan  was a Japanese naval convoy of World War II. The convoy left occupied Shanghai on 17 April 1944, carrying two infantry divisions to reinforce Japan's defensive positions in the Philippines and western New Guinea. United States Navy (USN) submarines attacked the convoy on 26 April and 6 May, sinking four transports and killing more than 4,000 soldiers. These losses caused the convoy to be diverted to Halmahera, where the surviving soldiers and their equipment were unloaded.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Take_Ichi_convoy",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "matilda_tanks_on_the_move_outside_the_perimeter_of_tobruk,_libya,_18_november_1941._e6600.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk,_Libya,_18_November_1941._E6600",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "World War II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_II",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-26-1989-130cac4c",
+      "year": 1989,
+      "text": "An editorial was published in the People's Daily denouncing the growing unrest in Tiananmen Square in Beijing which would remain contentious through the remainder of the protests.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 160,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/People%27s_daily_1_Oct_1949.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/People%27s_daily_1_Oct_1949.jpg/330px-People%27s_daily_1_Oct_1949.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "people's_daily_1_oct_1949.jpg",
+        "width": 1280,
+        "height": 1708,
+        "title": "People's Daily",
+        "description": "Chinese Communist Party newspaper",
+        "extract": "The People's Daily is the official newspaper of the Central Committee of the Chinese Communist Party (CCP). It was established in 1948 during the Chinese Civil War as the organ of the CCP's North China Bureau and first published in Pingshan County, Hebei. Its offices moved to Beijing in February 1949, before it became the organ of the CCP Central Committee in August of that year. During the Cultural Revolution, it fell under the control of the Gang of Four and was counted among the \"Two Newspapers and One Journal.\" During the 1989 Tiananmen Square protests and massacre, the paper became a contested ground between hardline party leaders and sympathetic editors. In 1997, the paper launched an online edition, which was reorganized as People's Daily Online in 2000.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/People's_Daily",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/People%27s_daily_1_Oct_1949.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/People%27s_daily_1_Oct_1949.jpg/330px-People%27s_daily_1_Oct_1949.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "people's_daily_1_oct_1949.jpg",
+          "width": 1280,
+          "height": 1708,
+          "title": "People's Daily",
+          "description": "Chinese Communist Party newspaper",
+          "extract": "The People's Daily is the official newspaper of the Central Committee of the Chinese Communist Party (CCP). It was established in 1948 during the Chinese Civil War as the organ of the CCP's North China Bureau and first published in Pingshan County, Hebei. Its offices moved to Beijing in February 1949, before it became the organ of the CCP Central Committee in August of that year. During the Cultural Revolution, it fell under the control of the Gang of Four and was counted among the \"Two Newspapers and One Journal.\" During the 1989 Tiananmen Square protests and massacre, the paper became a contested ground between hardline party leaders and sympathetic editors. In 1997, the paper launched an online edition, which was reorganized as People's Daily Online in 2000.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/People's_Daily",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ud%C3%A1losti_na_n%C3%A1m%C4%9Bst%C3%AD_Tian_an_men%2C_%C4%8C%C3%ADna_1989%2C_foto_Ji%C5%99%C3%AD_Tondl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Ud%C3%A1losti_na_n%C3%A1m%C4%9Bst%C3%AD_Tian_an_men%2C_%C4%8C%C3%ADna_1989%2C_foto_Ji%C5%99%C3%AD_Tondl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "události_na_náměstí_tian_an_men,_čína_1989,_foto_jiří_tondl.jpg",
+          "width": 299,
+          "height": 199,
+          "title": "1989 Tiananmen Square protests and massacre",
+          "description": "Student-led demonstrations in China",
+          "extract": "Protests led by students and workers, known in China as the June Fourth Incident, were held in Tiananmen Square in Beijing, China, from 15 April to 4 June 1989. After weeks of unsuccessful attempts between the demonstrators and the Chinese government to find a peaceful resolution, the Chinese government initiated martial law in late May and deployed troops to occupy the square on the night of 3 June in what is referred to as the Tiananmen Square massacre. The events are sometimes called the '89 Democracy Movement, the Tiananmen Square Incident, or the Tiananmen uprising. The Chinese government terms the events the political turmoil between the spring and summer of 1989.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tiananmen_Square_%2854137047250%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Tiananmen_Square_%2854137047250%29.jpg/330px-Tiananmen_Square_%2854137047250%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "tiananmen_square_(54137047250).jpg",
+          "width": 2560,
+          "height": 1607,
+          "title": "Tiananmen Square",
+          "description": "Public square in Beijing, China",
+          "extract": "Tiananmen Square or Tian'anmen Square is a city square in the city centre of Beijing, China, named after the Tiananmen located to its north, which separates it from the Forbidden City imperial palace complex. The square holds the Monument to the People's Heroes, the Great Hall of the People, the National Museum of China, and the Chairman Mao Memorial Hall. They were inscribed in the UNESCO World Heritage Sites in 2024 as a part of the Beijing Central Axis.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tiananmen_Square",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "April 26 Editorial",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/April_26_Editorial",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "04-26-1958-8572459b",
+      "year": 1958,
+      "text": "Service ended on the Baltimore and Ohio Railroad's Royal Blue Line, one of the first major electrified train lines in the U.S. (steam train pictured).",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 150,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Columbian_%28B%26O%29_train.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Columbian_%28B%26O%29_train.jpg/330px-Columbian_%28B%26O%29_train.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "columbian_(b&o)_train.jpg",
+        "width": 1042,
+        "height": 792,
+        "title": "Baltimore and Ohio Railroad",
+        "description": "Rail system in the United States",
+        "extract": "The Baltimore and Ohio Railroad was one of the oldest railroads in the United States and the first steam-operated common carrier. Construction of the line began in 1828, and it operated as B&O from 1830 until 1987, when it was merged into the Chessie System. Its lines are today controlled by CSX Transportation (CSX).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Baltimore_and_Ohio_Railroad",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Columbian_%28B%26O%29_train.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Columbian_%28B%26O%29_train.jpg/330px-Columbian_%28B%26O%29_train.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "columbian_(b&o)_train.jpg",
+          "width": 1042,
+          "height": 792,
+          "title": "Baltimore and Ohio Railroad",
+          "description": "Rail system in the United States",
+          "extract": "The Baltimore and Ohio Railroad was one of the oldest railroads in the United States and the first steam-operated common carrier. Construction of the line began in 1828, and it operated as B&O from 1830 until 1987, when it was merged into the Chessie System. Its lines are today controlled by CSX Transportation (CSX).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Baltimore_and_Ohio_Railroad",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/B%26O_Royal_Blue_in_1937.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/B%26O_Royal_Blue_in_1937.jpg/330px-B%26O_Royal_Blue_in_1937.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "b&o_royal_blue_in_1937.jpg",
+          "width": 630,
+          "height": 400,
+          "title": "Royal Blue (train)",
+          "description": "Baltimore and Ohio Railroad's flagship passenger train",
+          "extract": "The Royal Blue was the Baltimore and Ohio Railroad (B&O)'s flagship passenger train between New York City and Washington, D.C., in the United States, beginning in 1890. The Baltimore-based B&O also used the name between 1890 and 1917 for its improved passenger service between New York and Washington, collectively dubbed the Royal Blue Line. Using variants such as the Royal Limited and Royal Special for individual Royal Blue trains, the B&O operated the service in partnership with the Reading Railroad and the Central Railroad of New Jersey. Principal intermediate cities served were Philadelphia, Wilmington, and Baltimore. Later, as Europe reeled from the carnage of World War I and connotations of European royalty fell into disfavor, the B&O discreetly omitted the sobriquet Royal Blue Line from its New York passenger service and the Royal Blue disappeared from B&O timetables. Beginning in 1917, former Royal Blue Line trains were renamed: the Royal Limited, for example, became the National Limited, continuing west from Washington to St. Louis via Cincinnati. During the Depression, the B&O hearkened back to the halcyon pre-World War I era when it launched a re-christened Royal Blue train between New York and Washington in 1935. The B&O finally discontinued all passenger service north of Baltimore on April 26, 1958, including the Royal Blue.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Royal_Blue_(train)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Catenaire_25_kv_Caen_Paris.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Catenaire_25_kv_Caen_Paris.JPG/330px-Catenaire_25_kv_Caen_Paris.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "catenaire_25_kv_caen_paris.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": "Railway electrification",
+          "description": "Conversion of railways to use electricity for propulsion",
+          "extract": "Railway electrification is the use of electric power for the propulsion of rail transport. Electric railways use either electric locomotives, electric multiple units or both. Electricity is typically generated in large and relatively efficient generating stations, transmitted to the railway network and distributed to the trains. Some electric railways have their own dedicated generating stations and transmission lines, but most purchase power from an electric utility. The railway usually provides its own distribution lines, switches, and transformers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Railway_electrification",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Baltimore and Ohio Railroad",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Baltimore_and_Ohio_Railroad",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-26-2005-30bdd79d",
+      "year": 2005,
+      "text": "Cedar Revolution: Under international pressure, Syria withdraws the last of its 14,000 troop military garrison in Lebanon, ending its 29-year military domination of that country (Syrian occupation of Lebanon).",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cedar_Revolution_Demonstrators.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Cedar_Revolution_Demonstrators.jpg/330px-Cedar_Revolution_Demonstrators.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "cedar_revolution_demonstrators.jpg",
+        "width": 2048,
+        "height": 1536,
+        "title": "Cedar Revolution",
+        "description": "2005 anti-Syrian protest movement in Lebanon",
+        "extract": "The Cedar Revolution, known in Lebanon as the Independence intifada, was a chain of demonstrations in Lebanon triggered by the assassination of former Lebanese Prime Minister Rafic Hariri. The popular movement was remarkable for its avoidance of violence, peaceful approach, and its total reliance on methods of civil resistance.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cedar_Revolution",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cedar_Revolution_Demonstrators.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Cedar_Revolution_Demonstrators.jpg/330px-Cedar_Revolution_Demonstrators.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cedar_revolution_demonstrators.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": "Cedar Revolution",
+          "description": "2005 anti-Syrian protest movement in Lebanon",
+          "extract": "The Cedar Revolution, known in Lebanon as the Independence intifada, was a chain of demonstrations in Lebanon triggered by the assassination of former Lebanese Prime Minister Rafic Hariri. The popular movement was remarkable for its avoidance of violence, peaceful approach, and its total reliance on methods of civil resistance.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cedar_Revolution",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Syrian_BMP-1_column_in_Lebanon_during_Lebanese_civil_war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Syrian_BMP-1_column_in_Lebanon_during_Lebanese_civil_war.jpg/330px-Syrian_BMP-1_column_in_Lebanon_during_Lebanese_civil_war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "syrian_bmp-1_column_in_lebanon_during_lebanese_civil_war.jpg",
+          "width": 450,
+          "height": 264,
+          "title": "Syrian occupation of Lebanon",
+          "description": "1976–2005 military occupation",
+          "extract": "The Syrian occupation of Lebanon lasted from 31 May 1976, beginning with the Syrian intervention in the Lebanese Civil War, until 30 April 2005. This period saw significant Syrian military and political influence over Lebanon, impacting its governance, economy, and society. The Syrian occupation of Lebanon led to an estimated 60,000 deaths, and more than 30,000 forced disappearances of Lebanese civilians at the hands of the Syrian Arab Army and its \"Moukhabarat\", a local term for Syria's intelligence agency.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_occupation_of_Lebanon",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Cedar Revolution",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cedar_Revolution",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "04-26-1994-2a8f54cb",
+      "year": 1994,
+      "text": "South Africa begins its first multiracial election, which is won by Nelson Mandela's African National Congress.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Constand_Viljoen_c._1985.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Constand_Viljoen_c._1985.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "constand_viljoen_c._1985.png",
+        "width": 300,
+        "height": 388,
+        "title": "1994 South African general election",
+        "description": "First South African election held under nonracial, universal suffrage",
+        "extract": "General elections were held in South Africa between 26 and 29 April 1994. The elections were the first in South Africa in which citizens of all races could vote, bringing an end to the herrenvolk democracy that had existed since 1948 and marking the country's first election under universal suffrage. The election was conducted under the direction of the Independent Electoral Commission (IEC), and marked the culmination of the four-year process that ended apartheid.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/1994_South_African_general_election",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Constand_Viljoen_c._1985.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Constand_Viljoen_c._1985.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "constand_viljoen_c._1985.png",
+          "width": 300,
+          "height": 388,
+          "title": "1994 South African general election",
+          "description": "First South African election held under nonracial, universal suffrage",
+          "extract": "General elections were held in South Africa between 26 and 29 April 1994. The elections were the first in South Africa in which citizens of all races could vote, bringing an end to the herrenvolk democracy that had existed since 1948 and marking the country's first election under universal suffrage. The election was conducted under the direction of the Independent Electoral Commission (IEC), and marked the culmination of the four-year process that ended apartheid.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1994_South_African_general_election",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Nelson_Mandela_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/330px-Nelson_Mandela_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "nelson_mandela_1994.jpg",
+          "width": 1500,
+          "height": 1940,
+          "title": "Nelson Mandela",
+          "description": "President of South Africa from 1994 to 1999",
+          "extract": "Nelson Rolihlahla Mandela was a South African anti-apartheid revolutionary, politician, and philanthropist, who served as President of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid by tackling institutionalised racism and fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as President of the African National Congress (ANC) party from 1991 to 1997.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "South Africa",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/South_Africa",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "04-26-1941-cf152076",
+      "year": 1941,
+      "text": "Boris Kidrič and Edvard Kardelj founded the Liberation Front of the Slovene Nation, the main anti-fascist Slovene civil-resistance and political organization during World War II.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Boris_Kidri%C4%8D_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Boris_Kidri%C4%8D_%281%29.jpg/330px-Boris_Kidri%C4%8D_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "boris_kidrič_(1).jpg",
+        "width": 345,
+        "height": 500,
+        "title": "Boris Kidrič",
+        "description": "Slovenian communist politician and revolutionary",
+        "extract": "Boris Kidrič was a Slovene and Yugoslav politician and revolutionary who was one of the chief organizers of the Slovene Partisans, the Slovene resistance against occupation by Nazi Germany and Fascist Italy after Operation Barbarossa in June 1941. He became the de facto leader of the Liberation Front of the Slovenian People. As such, he had a crucial role in the anti-Fascist liberation struggle in Slovenia between 1941 and 1945. After World War II he was, together with Edvard Kardelj, a leading Slovenian politician in communist Yugoslavia.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boris_Kidri%C4%8D",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Boris_Kidri%C4%8D_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Boris_Kidri%C4%8D_%281%29.jpg/330px-Boris_Kidri%C4%8D_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "boris_kidrič_(1).jpg",
+          "width": 345,
+          "height": 500,
+          "title": "Boris Kidrič",
+          "description": "Slovenian communist politician and revolutionary",
+          "extract": "Boris Kidrič was a Slovene and Yugoslav politician and revolutionary who was one of the chief organizers of the Slovene Partisans, the Slovene resistance against occupation by Nazi Germany and Fascist Italy after Operation Barbarossa in June 1941. He became the de facto leader of the Liberation Front of the Slovenian People. As such, he had a crucial role in the anti-Fascist liberation struggle in Slovenia between 1941 and 1945. After World War II he was, together with Edvard Kardelj, a leading Slovenian politician in communist Yugoslavia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Boris_Kidri%C4%8D",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Edvard_Kardelj_in_1959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Edvard_Kardelj_in_1959.jpg/330px-Edvard_Kardelj_in_1959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "edvard_kardelj_in_1959.jpg",
+          "width": 1489,
+          "height": 2000,
+          "title": "Edvard Kardelj",
+          "description": "Yugoslav politician and economist",
+          "extract": "Edvard Kardelj, also known by the pseudonyms Bevc, Sperans, and Krištof, was a Yugoslav politician and economist. He was one of the leading members of the Communist Party of Slovenia before World War II. During the war, Kardelj was one of the leaders of the Liberation Front of the Slovenian People and a Slovene Partisan. After the war, he was a federal political leader in the Socialist Federal Republic of Yugoslavia. He led the Yugoslav delegation in peace talks with Italy over the border dispute in the Julian March.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Edvard_Kardelj",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/01_partigiani_a_milano1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/01_partigiani_a_milano1.jpg/330px-01_partigiani_a_milano1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "01_partigiani_a_milano1.jpg",
+          "width": 501,
+          "height": 347,
+          "title": "Anti-fascism",
+          "description": "Opposition to fascism",
+          "extract": "Anti-fascism is a political movement in opposition to fascist ideologies, groups, and individuals. Beginning in European countries in the 1920s, it was at its most significant shortly before and during World War II, where the Axis powers were opposed by many countries forming the Allies of World War II and dozens of resistance movements worldwide. Anti-fascism has been an element of movements across the political spectrum and holding many different political positions such as anarchism, communism, pacifism, republicanism, social democracy, socialism, and syndicalism as well as centrist, conservative, liberal, and nationalist viewpoints.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Anti-fascism",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Boris Kidrič",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Boris_Kidri%C4%8D",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "04-26-1933-96eceb0c",
+      "year": 1933,
+      "text": "The Gestapo, the official secret police force of Nazi Germany, was established.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bundesarchiv_Bild_183-R97512%2C_Berlin%2C_Geheimes_Staatspolizeiamt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bundesarchiv_Bild_183-R97512%2C_Berlin%2C_Geheimes_Staatspolizeiamt.jpg/330px-Bundesarchiv_Bild_183-R97512%2C_Berlin%2C_Geheimes_Staatspolizeiamt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_183-r97512,_berlin,_geheimes_staatspolizeiamt.jpg",
+        "width": 800,
+        "height": 546,
+        "title": "Gestapo",
+        "description": "Secret police of Nazi Germany",
+        "extract": "The Geheime Staatspolizei, was the official secret police of Nazi Germany and in German-occupied Europe.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Gestapo",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bundesarchiv_Bild_183-R97512%2C_Berlin%2C_Geheimes_Staatspolizeiamt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bundesarchiv_Bild_183-R97512%2C_Berlin%2C_Geheimes_Staatspolizeiamt.jpg/330px-Bundesarchiv_Bild_183-R97512%2C_Berlin%2C_Geheimes_Staatspolizeiamt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_183-r97512,_berlin,_geheimes_staatspolizeiamt.jpg",
+          "width": 800,
+          "height": 546,
+          "title": "Gestapo",
+          "description": "Secret police of Nazi Germany",
+          "extract": "The Geheime Staatspolizei, was the official secret police of Nazi Germany and in German-occupied Europe.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gestapo",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Putin-Stasi-Ausweis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Putin-Stasi-Ausweis.png/330px-Putin-Stasi-Ausweis.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "putin-stasi-ausweis.png",
+          "width": 1552,
+          "height": 1074,
+          "title": "Secret police",
+          "description": "Intelligence agency which operates in secrecy",
+          "extract": "Secret police are police, intelligence or security agencies that engage in covert operations against a government's political, ideological or social opponents and dissidents. Secret police organizations are characteristic of police states governed by authoritarian and totalitarian regimes. They protect the political power of a dictator or regime and often operate outside the law to repress dissidents and weaken political opposition, frequently using violence. They may enjoy legal sanction to hold and charge suspects without ever identifying their organization.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Secret_police",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bundesarchiv_Bild_183-R97512%2C_Berlin%2C_Geheimes_Staatspolizeiamt.jpg/500px-Bundesarchiv_Bild_183-R97512%2C_Berlin%2C_Geheimes_Staatspolizeiamt.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bundesarchiv_Bild_183-R97512%2C_Berlin%2C_Geheimes_Staatspolizeiamt.jpg/500px-Bundesarchiv_Bild_183-R97512%2C_Berlin%2C_Geheimes_Staatspolizeiamt.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_183-r97512,_berlin,_geheimes_staatspolizeihauptamt.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Bundesarchiv_Bild_183-R97512,_Berlin,_Geheimes_Staatspolizeihauptamt",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gestapo",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Gestapo",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Gestapo",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "04-26-1865-00d9b05a",
+      "year": 1865,
+      "text": "U.S. Army soldiers cornered and fatally shot John Wilkes Booth, the assassin of U.S. president Abraham Lincoln, ending a twelve-day manhunt.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 135,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/John_Wilkes_Booth-portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/John_Wilkes_Booth-portrait.jpg/330px-John_Wilkes_Booth-portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "john_wilkes_booth-portrait.jpg",
+        "width": 3122,
+        "height": 4294,
+        "title": "John Wilkes Booth",
+        "description": "American stage actor and assassin (1838–1865)",
+        "extract": "John Wilkes Booth was an American stage actor who assassinated United States president Abraham Lincoln at Ford's Theatre in Washington, D.C., on April 14, 1865. During the American Civil War he served as a Confederate spy; he opposed the then-recent abolition of slavery in the United States.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_Wilkes_Booth",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/John_Wilkes_Booth-portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/John_Wilkes_Booth-portrait.jpg/330px-John_Wilkes_Booth-portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "john_wilkes_booth-portrait.jpg",
+          "width": 3122,
+          "height": 4294,
+          "title": "John Wilkes Booth",
+          "description": "American stage actor and assassin (1838–1865)",
+          "extract": "John Wilkes Booth was an American stage actor who assassinated United States president Abraham Lincoln at Ford's Theatre in Washington, D.C., on April 14, 1865. During the American Civil War he served as a Confederate spy; he opposed the then-recent abolition of slavery in the United States.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_Wilkes_Booth",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Lincoln_assassination_slide_c1900_-_Restoration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Lincoln_assassination_slide_c1900_-_Restoration.jpg/330px-Lincoln_assassination_slide_c1900_-_Restoration.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lincoln_assassination_slide_c1900_-_restoration.jpg",
+          "width": 1903,
+          "height": 1780,
+          "title": "Assassination of Abraham Lincoln",
+          "description": "1865 murder in Washington, D.C., U.S.",
+          "extract": "On April 14, 1865, Abraham Lincoln, the 16th president of the United States, was shot and killed at Ford's Theatre in Washington, D.C., one month into his second term and towards the conclusion of the American Civil War. Lincoln was watching the play Our American Cousin with his wife Mary Todd, Major Henry Rathbone, and Rathbone's fiancé Clara Harris when John Wilkes Booth, an actor and Confederate sympathizer, shot him in the head. Lincoln was taken to the Petersen House across the street, where he was pronounced dead the following morning.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/330px-Abraham_Lincoln_O-77_matte_collodion_print.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "abraham_lincoln_o-77_matte_collodion_print.jpg",
+          "width": 2200,
+          "height": 2835,
+          "title": "Abraham Lincoln",
+          "description": "President of the United States from 1861 to 1865",
+          "extract": "Abraham Lincoln was the 16th president of the United States, serving from 1861 until his assassination in 1865. He led the United States through the American Civil War, defeating the Confederacy and playing a major role in the abolition of slavery.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "United States Army",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/United_States_Army",
+      "relatedPagesCount": 4
+    },
+    {
       "id": "04-26-1993-403cc39c",
       "year": 1993,
       "text": "The Space Shuttle Columbia is launched on mission STS-55 to conduct experiments aboard the Spacelab module.",
@@ -18,7 +606,7 @@
       "marketingScore": 130,
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
         "width": 868,
         "height": 521,
@@ -31,7 +619,7 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "space_shuttle_columbia_lands_following_sts-62_on_18_march_1994._(cropped).jpg",
           "width": 868,
           "height": 521,
@@ -42,8 +630,8 @@
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/STS-55_Spacelab.jpg/3840px-STS-55_Spacelab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/STS-55_Spacelab.jpg/330px-STS-55_Spacelab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/STS-55_Spacelab.jpg/3840px-STS-55_Spacelab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/STS-55_Spacelab.jpg/330px-STS-55_Spacelab.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "sts-55_spacelab.jpg",
           "width": 4684,
           "height": 3701,
@@ -55,7 +643,7 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Spacelab_-_Artist%27s_Concept.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Spacelab_-_Artist%27s_Concept.jpg/330px-Spacelab_-_Artist%27s_Concept.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Spacelab_-_Artist%27s_Concept.jpg/330px-Spacelab_-_Artist%27s_Concept.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "spacelab_-_artist's_concept.jpg",
           "width": 3417,
           "height": 2692,
@@ -73,534 +661,6 @@
       },
       "mainPageTitle": "Space Shuttle Columbia",
       "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "04-26-1962-6171f34e",
-      "year": 1962,
-      "text": "The British space programme launches its first satellite, the Ariel 1.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 1,
-      "imageScore": 10,
-      "marketingScore": 120,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ariel_1_satellite%2C_London_Science_Museum.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ariel_1_satellite%2C_London_Science_Museum.JPG/330px-Ariel_1_satellite%2C_London_Science_Museum.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "ariel_1_satellite,_london_science_museum.jpg",
-        "width": 3088,
-        "height": 2056,
-        "title": "Ariel 1",
-        "description": "First British satellite",
-        "extract": "Ariel 1, was the first British-American satellite, and the first satellite in the Ariel programme. Its launch in 1962 made the United Kingdom the third country to operate a satellite, after the Soviet Union and the United States. It was constructed in the UK and the United States by NASA Goddard Space Flight Center and SERC, under an agreement reached as the result of political discussions in 1959 and 1960. The US Starfish Prime exoatmospheric nuclear test affected Ariel 1's operational capability.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Ariel_1",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ariel_1_satellite%2C_London_Science_Museum.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ariel_1_satellite%2C_London_Science_Museum.JPG/330px-Ariel_1_satellite%2C_London_Science_Museum.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "ariel_1_satellite,_london_science_museum.jpg",
-          "width": 3088,
-          "height": 2056,
-          "title": "Ariel 1",
-          "description": "First British satellite",
-          "extract": "Ariel 1, was the first British-American satellite, and the first satellite in the Ariel programme. Its launch in 1962 made the United Kingdom the third country to operate a satellite, after the Soviet Union and the United States. It was constructed in the UK and the United States by NASA Goddard Space Flight Center and SERC, under an agreement reached as the result of political discussions in 1959 and 1960. The US Starfish Prime exoatmospheric nuclear test affected Ariel 1's operational capability.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Ariel_1",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "British space programme",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/British_space_programme",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "04-26-1923-fdf2a65b",
-      "year": 1923,
-      "text": "The Duke of York (the future King George VI) weds Lady Elizabeth Bowes-Lyon at Westminster Abbey.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 110,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/330px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "king_george_vi_loc_matpc.14736_a_(cropped).jpg",
-        "width": 1834,
-        "height": 2385,
-        "title": "George VI",
-        "description": "King of the United Kingdom from 1936 to 1952",
-        "extract": "George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death in 1952. He was also the last Emperor of India from 1936 until the British Raj was dissolved in August 1947, though the title was only formally relinquished in June 1948. Following the London Declaration of 1949, he was the first Head of the Commonwealth.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/George_VI",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg/330px-King_George_VI_LOC_matpc.14736_A_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "king_george_vi_loc_matpc.14736_a_(cropped).jpg",
-          "width": 1834,
-          "height": 2385,
-          "title": "George VI",
-          "description": "King of the United Kingdom from 1936 to 1952",
-          "extract": "George VI was King of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 until his death in 1952. He was also the last Emperor of India from 1936 until the British Raj was dissolved in August 1947, though the title was only formally relinquished in June 1948. Following the London Declaration of 1949, he was the first Head of the Commonwealth.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/George_VI",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wedding_of_George_VI_and_Elizabeth_Bowes-Lyon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wedding_of_George_VI_and_Elizabeth_Bowes-Lyon.png/330px-Wedding_of_George_VI_and_Elizabeth_Bowes-Lyon.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "wedding_of_george_vi_and_elizabeth_bowes-lyon.png",
-          "width": 1087,
-          "height": 1500,
-          "title": "Wedding of Prince Albert and Lady Elizabeth Bowes-Lyon",
-          "description": "1923 British royal wedding",
-          "extract": "The wedding of Prince Albert, Duke of York, and Lady Elizabeth Bowes-Lyon took place on 26 April 1923 at Westminster Abbey. The bride was a member of the Bowes-Lyon family, while the groom was the second son of King George V.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Wedding_of_Prince_Albert_and_Lady_Elizabeth_Bowes-Lyon",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Queen_Elizabeth_the_Queen_Mother_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Queen_Elizabeth_the_Queen_Mother_portrait.jpg/330px-Queen_Elizabeth_the_Queen_Mother_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "queen_elizabeth_the_queen_mother_portrait.jpg",
-          "width": 2238,
-          "height": 2825,
-          "title": "Queen Elizabeth the Queen Mother",
-          "description": "Queen of the United Kingdom from 1936 to 1952",
-          "extract": "Elizabeth Angela Marguerite Bowes-Lyon was Queen of the United Kingdom and the Dominions of the British Commonwealth from 11 December 1936 to 6 February 1952 as the wife of King George VI. She was also the last empress of India from 1936 until the British Raj was dissolved on 15 August 1947. After her husband died, she was officially known as Queen Elizabeth the Queen Mother to avoid confusion with her daughter Queen Elizabeth II.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Queen_Elizabeth_the_Queen_Mother",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
-      },
-      "mainPageTitle": "George VI",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/George_VI",
-      "relatedPagesCount": 4
-    },
-    {
-      "id": "04-26-1920-fae4b629",
-      "year": 1920,
-      "text": "Ice hockey makes its Olympic debut at the Antwerp Games with center Frank Fredrickson scoring seven goals in Canada's 12–1 drubbing of Sweden in the gold medal match.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 110,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg/3840px-Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg/330px-Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "pittsburgh_penguins,_washington_capitals,_bryan_rust_(33744033514).jpg",
-        "width": 4203,
-        "height": 3042,
-        "title": "Ice hockey",
-        "description": "Team winter sport",
-        "extract": "Ice hockey, known simply as hockey in North America and parts of Europe, is a team sport played on ice skates, usually on an ice skating rink with lines and markings specific to the sport. It belongs to a family of sports called hockey. The two opposing teams score by using their sticks to control and advance a vulcanized rubber hockey puck, and then shooting it into the net of the other team. Each goal is worth one point. The team with the highest score after an hour of gameplay, broken down into three 20-minute periods, is declared the winner; ties are broken in overtime or a shootout. In a formal game, each team has six skaters on the ice at a time, barring any penalties, including a goaltender. It is a full contact game and one of the more physically demanding team sports.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Ice_hockey",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg/3840px-Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg/330px-Pittsburgh_Penguins%2C_Washington_Capitals%2C_Bryan_Rust_%2833744033514%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "pittsburgh_penguins,_washington_capitals,_bryan_rust_(33744033514).jpg",
-          "width": 4203,
-          "height": 3042,
-          "title": "Ice hockey",
-          "description": "Team winter sport",
-          "extract": "Ice hockey, known simply as hockey in North America and parts of Europe, is a team sport played on ice skates, usually on an ice skating rink with lines and markings specific to the sport. It belongs to a family of sports called hockey. The two opposing teams score by using their sticks to control and advance a vulcanized rubber hockey puck, and then shooting it into the net of the other team. Each goal is worth one point. The team with the highest score after an hour of gameplay, broken down into three 20-minute periods, is declared the winner; ties are broken in overtime or a shootout. In a formal game, each team has six skaters on the ice at a time, barring any penalties, including a goaltender. It is a full contact game and one of the more physically demanding team sports.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Ice_hockey",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/1920_olympics_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/1920_olympics_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "canonicalKey": "1920_olympics_poster.jpg",
-          "width": 278,
-          "height": 384,
-          "title": "1920 Summer Olympics",
-          "description": "Multi-sport event in Antwerp, Belgium",
-          "extract": "The 1920 Summer Olympics, officially known as the Games of the VII Olympiad and commonly known as Antwerp 1920, were an international multi-sport event held in 1920 in Antwerp, Belgium.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/1920_Summer_Olympics",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Frank_Fredrickson%2C_1920_Olympics.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Frank_Fredrickson%2C_1920_Olympics.jpg/330px-Frank_Fredrickson%2C_1920_Olympics.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "frank_fredrickson,_1920_olympics.jpg",
-          "width": 800,
-          "height": 1224,
-          "title": "Frank Fredrickson",
-          "description": "Icelandic-Canadian ice hockey player (1895–1979)",
-          "extract": "Sigurdur Franklin Fredrickson was an Icelandic-Canadian ice hockey player and aviator. As a player and coach, he was slightly important to both the amateur and professional ice hockey as it evolved in North America in the early 20th century. Fredrickson's career was interrupted by military service during the First World War and prematurely ended by a knee injury in 1931.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Frank_Fredrickson",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Ice hockey",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Ice_hockey",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "04-26-2015-4923333d",
-      "year": 2015,
-      "text": "Peaceful protesters install the first anti-monument in Mexico, Antimonumento +43, as a call for justice and remembrance to commemorate the 2014 Iguala mass kidnapping, later inspiring similar memorials elsewhere in the country and Latin America.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 85,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg/3840px-Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg/330px-Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "antimonumento_de_la_guardería_abc_22.jpg",
-        "width": 4000,
-        "height": 3000,
-        "title": "Anti-monuments in Mexico",
-        "description": "Politically motivated art movement",
-        "extract": "In Mexico, an antimonumento is a structure that is traditionally installed during popular protests. They are installed to recall a tragic event or to maintain the claim for justice to which governments have failed to provide a satisfactory response in the eyes of the complainant. Many of these are erected for issues related to forced disappearances, massacres, femicides and other forms of violence against women, or any other act of violence.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Anti-monuments_in_Mexico",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg/3840px-Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg/330px-Antimonumento_de_la_Guarder%C3%ADa_ABC_22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "antimonumento_de_la_guardería_abc_22.jpg",
-          "width": 4000,
-          "height": 3000,
-          "title": "Anti-monuments in Mexico",
-          "description": "Politically motivated art movement",
-          "extract": "In Mexico, an antimonumento is a structure that is traditionally installed during popular protests. They are installed to recall a tragic event or to maintain the claim for justice to which governments have failed to provide a satisfactory response in the eyes of the complainant. Many of these are erected for issues related to forced disappearances, massacres, femicides and other forms of violence against women, or any other act of violence.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Anti-monuments_in_Mexico",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Antimonumento_a_los_43_de_Ayotzinapa_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Antimonumento_a_los_43_de_Ayotzinapa_04.jpg/330px-Antimonumento_a_los_43_de_Ayotzinapa_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "antimonumento_a_los_43_de_ayotzinapa_04.jpg",
-          "width": 2816,
-          "height": 2112,
-          "title": "Antimonumento +43",
-          "description": "Anti-monument in Mexico City, Mexico",
-          "extract": "An antimonumento was installed in front of the Superior Court of Justice of Mexico City, on the median strip of Paseo de la Reforma Avenue, in the Cuauhtémoc borough of Mexico City. The work included the installation of a red number 43 made of metal along with a plus symbol, in reference to the forty-three students kidnapped—and possibly killed—in Iguala, Guerrero, in 2014 after being arrested for allegedly committing criminal offenses, plus the six students and witnesses killed during that event, and to honor the more than 150,000 people killed since the start of the Mexican drug war and the 30,000 disappeared persons reported by 2015. The anti-monument was installed by peaceful protesters during a demonstration on 26 April 2015 as a plea for justice and to prevent the case from being forgotten by the authorities and society. The sculpture became the first of its kind in Mexico and would inspire the installation of other guerrilla-like memorials throughout the city and in other states of the country.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Antimonumento_%2B43",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/en/8/8f/Missing-students-Ayotzinapa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Missing-students-Ayotzinapa.jpg/330px-Missing-students-Ayotzinapa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "missing-students-ayotzinapa.jpg",
-          "width": 421,
-          "height": 236,
-          "title": "Iguala mass kidnapping",
-          "description": "2014 abduction of rural Mexican college students",
-          "extract": "On September 26, 2014, forty-three male students from the Ayotzinapa Rural Teachers' College disappeared after being forcibly abducted in Iguala, Guerrero, Mexico, in what has been called one of Mexico's most infamous human rights cases. They were allegedly taken into custody by local policemen from Iguala and Cocula in collusion with organized crime, with later evidence implicating the Mexican Army. Officials have concluded there is no indication the students are alive, but as of 2025, only three students' remains have been identified and their deaths confirmed.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Iguala_mass_kidnapping",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "cinema_tv",
-        "name": "Cine y TV",
-        "icon": "🎬"
-      },
-      "mainPageTitle": "Anti-monuments in Mexico",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Anti-monuments_in_Mexico",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "04-26-1986-da45d892",
-      "year": 1986,
-      "text": "The Chernobyl Nuclear Power Plant (pictured) near Chernobyl, Ukrainian SSR, suffered a steam explosion, resulting in a fire, a nuclear meltdown, and the evacuation and resettlement of over 336,000 people around Europe.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 85,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/3840px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/330px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "chernobyl_npp_site_panorama_with_nsc_construction_-_june_2013.jpg",
-        "width": 6300,
-        "height": 2408,
-        "title": "Chernobyl Nuclear Power Plant",
-        "description": "Decommissioned nuclear power plant in Ukraine",
-        "extract": "The Chernobyl Nuclear Power Plant (ChNPP) is a nuclear power plant undergoing decommissioning. ChNPP is located near the abandoned city of Pripyat in northern Ukraine, 16.5 kilometres (10 mi) northwest of the city of Chernobyl, 16 kilometres (10 mi) from the Belarus–Ukraine border, and about 100 kilometres (62 mi) north of Kyiv. The plant was cooled by an engineered pond, fed by the Pripyat River about 5 kilometres (3 mi) northwest from its juncture with the Dnieper River. The RBMK type graphite-moderated reactor used in this plant is considered an unusual design. It prioritizes cost efficiency over safety compared to other reactor designs, such as the VVER pressurized water reactor.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/3840px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg/330px-Chernobyl_NPP_Site_Panorama_with_NSC_Construction_-_June_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "chernobyl_npp_site_panorama_with_nsc_construction_-_june_2013.jpg",
-          "width": 6300,
-          "height": 2408,
-          "title": "Chernobyl Nuclear Power Plant",
-          "description": "Decommissioned nuclear power plant in Ukraine",
-          "extract": "The Chernobyl Nuclear Power Plant (ChNPP) is a nuclear power plant undergoing decommissioning. ChNPP is located near the abandoned city of Pripyat in northern Ukraine, 16.5 kilometres (10 mi) northwest of the city of Chernobyl, 16 kilometres (10 mi) from the Belarus–Ukraine border, and about 100 kilometres (62 mi) north of Kyiv. The plant was cooled by an engineered pond, fed by the Pripyat River about 5 kilometres (3 mi) northwest from its juncture with the Dnieper River. The RBMK type graphite-moderated reactor used in this plant is considered an unusual design. It prioritizes cost efficiency over safety compared to other reactor designs, such as the VVER pressurized water reactor.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Administrative_center%2C_Radiation_Control_%2811383715816%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Administrative_center%2C_Radiation_Control_%2811383715816%29.jpg/330px-Administrative_center%2C_Radiation_Control_%2811383715816%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "administrative_center,_radiation_control_(11383715816).jpg",
-          "width": 1024,
-          "height": 768,
-          "title": "Chernobyl",
-          "description": "Partially abandoned city in Kyiv Oblast, Ukraine",
-          "extract": "Chernobyl, also known as Chornobyl, is a partially abandoned city in Vyshhorod Raion, Kyiv Oblast, Ukraine. It is located within the Chernobyl Exclusion Zone, 90 kilometres (60 mi) to the north of Kyiv and 160 kilometres (100 mi) to the southwest of Gomel in neighbouring Belarus. Prior to being evacuated in the aftermath of the Chernobyl disaster in 1986, it was home to approximately 14,000 residents—considerably less than adjacent Pripyat, which was completely abandoned following the incident. Since then, although living anywhere within the Chernobyl Exclusion Zone is technically illegal, Ukrainian authorities have tolerated those who have taken up living in some of the city's less irradiated areas; Chernobyl's 2020 population estimate was 150 people.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/IAEA_02790015_%285613115146%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/IAEA_02790015_%285613115146%29.jpg/330px-IAEA_02790015_%285613115146%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "iaea_02790015_(5613115146).jpg",
-          "width": 1328,
-          "height": 2040,
-          "title": "Chernobyl disaster",
-          "description": "1986 nuclear accident in the Soviet Union",
-          "extract": "On 26 April 1986, reactor 4 of the Chernobyl Nuclear Power Plant, located near Pripyat, Ukraine, exploded. With dozens of direct casualties and thousands of health complications stemming from the disaster, it is one of only two nuclear accidents rated at the maximum severity on the International Nuclear Event Scale, the other being the 2011 Fukushima nuclear accident, which happened in Japan. The response involved more than 500,000 personnel and cost an estimated 18 billion rubles. It remains the most destructive nuclear disaster and the most expensive disaster in history, with an estimated cost of US$700 billion. The disaster occurred during a test to simulate the cooling of the reactor during a serious accident in blackout conditions. The operators carried out the test following an accidental drop in reactor power. Upon shutting down the reactor in such conditions, pervasive design flaws led to a power surge. The reactor components ruptured and lost coolant, and the resulting steam explosions and meltdown destroyed the reactor building. This was followed by a reactor core fire that spread radioactive contaminants across the Soviet Union and Europe. The Soviet government established a 10 kilometres (6.2 mi) exclusion zone 36 hours after the accident, initially evacuating around 49,000 people. This was later expanded to 30 kilometres (19 mi), resulting in the evacuation of approximately 68,000 more people. The government did not publicly acknowledge the disaster until two days after the explosion, when elevated radiation levels were detected in Sweden.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Chernobyl_disaster",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "cinema_tv",
-        "name": "Cine y TV",
-        "icon": "🎬"
-      },
-      "mainPageTitle": "Chernobyl Nuclear Power Plant",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Chernobyl_Nuclear_Power_Plant",
-      "relatedPagesCount": 5
-    },
-    {
-      "id": "04-26-1964-4b771cc1",
-      "year": 1964,
-      "text": "Tanganyika and Zanzibar merged to form Tanzania with Julius Nyerere as its first president.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 1,
-      "imageScore": 10,
-      "marketingScore": 80,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg/330px-President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "president_nyerere_van_tanzania,_koppen,_bestanddeelnr_928-2879_(cropped).jpg",
-        "width": 2323,
-        "height": 3412,
-        "title": "Julius Nyerere",
-        "description": "President of Tanzania from 1964 to 1985",
-        "extract": "Julius Kambarage Nyerere was a Tanzanian politician, anti-colonial activist, revolutionary and political theorist. He governed Tanganyika as prime minister from 1961 to 1962 and then as president from 1962 to 1964, after which he led its successor state, Tanzania, as president from 1964 to 1985. He was a founding member and chair of the Tanganyika African National Union (TANU) party and of its successor, Chama Cha Mapinduzi, from 1954 to 1990. Ideologically an African nationalist and African socialist, he promoted a political philosophy known as Ujamaa.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Julius_Nyerere",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg/330px-President_Nyerere_van_Tanzania%2C_koppen%2C_Bestanddeelnr_928-2879_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "president_nyerere_van_tanzania,_koppen,_bestanddeelnr_928-2879_(cropped).jpg",
-          "width": 2323,
-          "height": 3412,
-          "title": "Julius Nyerere",
-          "description": "President of Tanzania from 1964 to 1985",
-          "extract": "Julius Kambarage Nyerere was a Tanzanian politician, anti-colonial activist, revolutionary and political theorist. He governed Tanganyika as prime minister from 1961 to 1962 and then as president from 1962 to 1964, after which he led its successor state, Tanzania, as president from 1964 to 1985. He was a founding member and chair of the Tanganyika African National Union (TANU) party and of its successor, Chama Cha Mapinduzi, from 1954 to 1990. Ideologically an African nationalist and African socialist, he promoted a political philosophy known as Ujamaa.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Julius_Nyerere",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
-      },
-      "mainPageTitle": "Tanganyika (1961–1964)",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Tanganyika_(1961%E2%80%931964)",
-      "relatedPagesCount": 4
-    },
-    {
-      "id": "04-26-2017-9f8dc1e5",
-      "year": 2017,
-      "text": "The Shandong was launched for the People's Liberation Army Navy, China's first domestically built aircraft carrier.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chinese_aircraft_carrier_Shandong_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Chinese_aircraft_carrier_Shandong_in_2019.jpg/330px-Chinese_aircraft_carrier_Shandong_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "chinese_aircraft_carrier_shandong_in_2019.jpg",
-        "width": 2700,
-        "height": 1800,
-        "title": "Chinese aircraft carrier Shandong",
-        "description": "Chinese aircraft carrier",
-        "extract": "Shandong is a Chinese aircraft carrier that was launched on 26 April 2017 for the People's Liberation Army Navy (PLAN) of the People's Republic of China. She is the country's first domestically built aircraft carrier and second in PLAN service after the completion and commissioning of Liaoning, from which she is derived. Shandong's class was initially suspected to be designated Type 001A but was revealed to be Type 002 at her commissioning ceremony. The class received the NATO reporting name Kuznetsov Mod. (\"modified\"), since the design of the ship is a modified version of and similar to the Kuznetsov-class aircraft carrier originally made for the Soviet Navy.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Shandong",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Chinese_aircraft_carrier_Shandong_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Chinese_aircraft_carrier_Shandong_in_2019.jpg/330px-Chinese_aircraft_carrier_Shandong_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "chinese_aircraft_carrier_shandong_in_2019.jpg",
-          "width": 2700,
-          "height": 1800,
-          "title": "Chinese aircraft carrier Shandong",
-          "description": "Chinese aircraft carrier",
-          "extract": "Shandong is a Chinese aircraft carrier that was launched on 26 April 2017 for the People's Liberation Army Navy (PLAN) of the People's Republic of China. She is the country's first domestically built aircraft carrier and second in PLAN service after the completion and commissioning of Liaoning, from which she is derived. Shandong's class was initially suspected to be designated Type 001A but was revealed to be Type 002 at her commissioning ceremony. The class received the NATO reporting name Kuznetsov Mod. (\"modified\"), since the design of the ship is a modified version of and similar to the Kuznetsov-class aircraft carrier originally made for the Soviet Navy.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Shandong",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fleet_5_nations.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Fleet_5_nations.jpg/330px-Fleet_5_nations.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "fleet_5_nations.jpg",
-          "width": 3000,
-          "height": 1829,
-          "title": "Aircraft carrier",
-          "description": "Warship that serves as a seagoing airbase",
-          "extract": "An aircraft carrier is a warship designed to carry, launch, recover and support aircraft at sea, equipped with a full-length flight deck and hangar facilities that allow it to serve as a mobile, seagoing airbase. Typically it is the capital ship of a fleet, as it allows a naval force to project seaborne air power far from national territory without depending on local airfields for the staging of aircraft operations. Since their inception in the early 20th century, aircraft carriers have evolved from wooden vessels used to deploy individual tethered reconnaissance balloons, to nuclear-powered supercarriers that carry dozens of fighters, strike aircraft, military helicopters, AEW&Cs and other types of aircraft such as UCAVs. While heavier fixed-wing aircraft such as airlifters, gunships and bombers have been launched from aircraft carriers, these aircraft do not often land on a carrier due to flight deck limitations.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Aircraft_carrier",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Chinese aircraft carrier Shandong",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Chinese_aircraft_carrier_Shandong",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "04-26-2005-30bdd79d",
-      "year": 2005,
-      "text": "Cedar Revolution: Under international pressure, Syria withdraws the last of its 14,000 troop military garrison in Lebanon, ending its 29-year military domination of that country (Syrian occupation of Lebanon).",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cedar_Revolution_Demonstrators.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cedar_Revolution_Demonstrators.jpg/330px-Cedar_Revolution_Demonstrators.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "cedar_revolution_demonstrators.jpg",
-        "width": 2048,
-        "height": 1536,
-        "title": "Cedar Revolution",
-        "description": "2005 anti-Syrian protest movement in Lebanon",
-        "extract": "The Cedar Revolution, known in Lebanon as the Independence intifada, was a chain of demonstrations in Lebanon triggered by the assassination of former Lebanese Prime Minister Rafic Hariri. The popular movement was remarkable for its avoidance of violence, peaceful approach, and its total reliance on methods of civil resistance.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Cedar_Revolution",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cedar_Revolution_Demonstrators.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cedar_Revolution_Demonstrators.jpg/330px-Cedar_Revolution_Demonstrators.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "cedar_revolution_demonstrators.jpg",
-          "width": 2048,
-          "height": 1536,
-          "title": "Cedar Revolution",
-          "description": "2005 anti-Syrian protest movement in Lebanon",
-          "extract": "The Cedar Revolution, known in Lebanon as the Independence intifada, was a chain of demonstrations in Lebanon triggered by the assassination of former Lebanese Prime Minister Rafic Hariri. The popular movement was remarkable for its avoidance of violence, peaceful approach, and its total reliance on methods of civil resistance.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Cedar_Revolution",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Syrian_BMP-1_column_in_Lebanon_during_Lebanese_civil_war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Syrian_BMP-1_column_in_Lebanon_during_Lebanese_civil_war.jpg/330px-Syrian_BMP-1_column_in_Lebanon_during_Lebanese_civil_war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "syrian_bmp-1_column_in_lebanon_during_lebanese_civil_war.jpg",
-          "width": 450,
-          "height": 264,
-          "title": "Syrian occupation of Lebanon",
-          "description": "1976–2005 military occupation",
-          "extract": "The Syrian occupation of Lebanon lasted from 31 May 1976, beginning with the Syrian intervention in the Lebanese Civil War, until 30 April 2005. This period saw significant Syrian military and political influence over Lebanon, impacting its governance, economy, and society. The Syrian occupation of Lebanon led to an estimated 60,000 deaths, and more than 30,000 forced disappearances of Lebanese civilians at the hands of the Syrian Arab Army and its \"Moukhabarat\", a local term for Syria's intelligence agency.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_occupation_of_Lebanon",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "sports",
-        "name": "Deportes",
-        "icon": "🏆"
-      },
-      "mainPageTitle": "Cedar Revolution",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Cedar_Revolution",
-      "relatedPagesCount": 4
-    },
-    {
-      "id": "04-26-2002-c6104f2a",
-      "year": 2002,
-      "text": "An expelled student murdered sixteen people and wounded seven others before committing suicide at the Gutenberg-Gymnasium Erfurt in Erfurt, Germany.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/GutenbergGymErfurt.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/GutenbergGymErfurt.JPG/330px-GutenbergGymErfurt.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "gutenberggymerfurt.jpg",
-        "width": 2529,
-        "height": 1455,
-        "title": "Erfurt school massacre",
-        "description": "2002 mass shooting in Germany",
-        "extract": "The Erfurt school massacre was a mass shooting that occurred on 26 April 2002 at the Gutenberg-Gymnasium, a secondary school in Erfurt, Thuringia, Germany. 19-year-old expelled student Robert Steinhäuser shot and killed 16 people, including a police officer, before killing himself. One person was also wounded by a bullet fragment. According to students, he ignored them and aimed only for the teachers and administrators, although two students were unintentionally killed by shots fired through a locked door.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Erfurt_school_massacre",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/GutenbergGymErfurt.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/GutenbergGymErfurt.JPG/330px-GutenbergGymErfurt.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "gutenberggymerfurt.jpg",
-          "width": 2529,
-          "height": 1455,
-          "title": "Erfurt school massacre",
-          "description": "2002 mass shooting in Germany",
-          "extract": "The Erfurt school massacre was a mass shooting that occurred on 26 April 2002 at the Gutenberg-Gymnasium, a secondary school in Erfurt, Thuringia, Germany. 19-year-old expelled student Robert Steinhäuser shot and killed 16 people, including a police officer, before killing himself. One person was also wounded by a bullet fragment. According to students, he ignored them and aimed only for the teachers and administrators, although two students were unintentionally killed by shots fired through a locked door.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Erfurt_school_massacre",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kr%C3%A4merbr%C3%BCcke%2C_Erfurt_6.jpg/3840px-Kr%C3%A4merbr%C3%BCcke%2C_Erfurt_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kr%C3%A4merbr%C3%BCcke%2C_Erfurt_6.jpg/330px-Kr%C3%A4merbr%C3%BCcke%2C_Erfurt_6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "krämerbrücke,_erfurt_6.jpg",
-          "width": 5472,
-          "height": 3648,
-          "title": "Erfurt",
-          "description": "Capital of Thuringia, Germany",
-          "extract": "Erfurt (German pronunciation: [ˈɛʁfʊʁt] ) is the capital and largest city of the Central German state of Thuringia, with a population of around 216,000. It lies in the wide valley of the River Gera, in the southern part of the Thuringian Basin, north of the Thuringian Forest, and in the middle of a line of the six largest Thuringian cities, stretching from Eisenach in the west, via Gotha, Erfurt, Weimar and Jena, to Gera in the east. Together with Kassel and Göttingen, it is one of the cities with more than 100,000 inhabitants lying closest to the geographic centre of Germany. Erfurt is 100 km (62 mi) south-west of Leipzig, 250 km (155 mi) north-east of Frankfurt, 300 km (186 mi) south-west of Berlin and 400 km (249 mi) north of Munich.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Erfurt",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "general",
-        "name": "Hito Histórico",
-        "icon": "✨"
-      },
-      "mainPageTitle": "Erfurt school massacre",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Erfurt_school_massacre",
       "relatedPagesCount": 3
     }
   ]

@@ -8,48 +8,468 @@
   "eventsWithImages": 10,
   "events": [
     {
-      "id": "09-11-2025-8fbb5605",
-      "year": 2025,
-      "text": "Progress MS-32 is launched to resupply the International Space Station. It is the 300th spacecraft launched to the ISS.",
-      "isFeatured": false,
+      "id": "09-11-2001-ad76eef3",
+      "year": 2001,
+      "text": "al-Qaeda hijacked four passenger airliners to carry out a series of terrorist attacks (one pictured) against targets in New York City and the area of Washington, D.C., killing 2,977 people.",
+      "isFeatured": true,
       "hasImage": true,
-      "imagesCount": 1,
+      "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 130,
+      "marketingScore": 180,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Progress_MS-32_approaches_ISS.jpg/3840px-Progress_MS-32_approaches_ISS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Progress_MS-32_approaches_ISS.jpg/330px-Progress_MS-32_approaches_ISS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "progress_ms-32_approaches_iss.jpg",
-        "width": 4096,
-        "height": 2731,
-        "title": "Progress MS-32",
-        "description": "2025 Russian resupply spaceflight to the ISS",
-        "extract": "Progress MS-32, Russian production No. 462, identified by NASA as Progress 93, was a Progress cargo spacecraft launched by Roscosmos to resupply the International Space Station (ISS). It is the 185th flight of a Progress spacecraft and the 300th launch of an assembly, crew, or cargo mission to the ISS.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Progress_MS-32",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/330px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "wtc_smoking_on_9-11.jpeg",
+        "width": 1600,
+        "height": 1200,
+        "title": "September 11 attacks",
+        "description": "2001 terror attacks in the U.S.",
+        "extract": "The September 11 attacks, colloquially known as 9/11, were a coordinated series of suicide attacks perpetrated by the Islamic terrorist organization al-Qaeda against the United States in 2001. A total of 19 terrorists hijacked four airliners, flying one into each of the Twin Towers at the World Trade Center in New York City. The third plane crashed into the Pentagon, the headquarters of the United States Department of Defense, in Arlington County, Virginia. The fourth plane crashed in a rural field in Pennsylvania during a passenger revolt. In response to the attacks, the United States launched the Global War on Terror, seeking to eliminate hostile groups deemed terrorist organizations and the governments purported to support them. This foreign policy agenda was conducted over the next two decades.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/September_11_attacks",
         "score": 10
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Progress_MS-32_approaches_ISS.jpg/3840px-Progress_MS-32_approaches_ISS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Progress_MS-32_approaches_ISS.jpg/330px-Progress_MS-32_approaches_ISS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "progress_ms-32_approaches_iss.jpg",
-          "width": 4096,
-          "height": 2731,
-          "title": "Progress MS-32",
-          "description": "2025 Russian resupply spaceflight to the ISS",
-          "extract": "Progress MS-32, Russian production No. 462, identified by NASA as Progress 93, was a Progress cargo spacecraft launched by Roscosmos to resupply the International Space Station (ISS). It is the 185th flight of a Progress spacecraft and the 300th launch of an assembly, crew, or cargo mission to the ISS.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Progress_MS-32",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/330px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wtc_smoking_on_9-11.jpeg",
+          "width": 1600,
+          "height": 1200,
+          "title": "September 11 attacks",
+          "description": "2001 terror attacks in the U.S.",
+          "extract": "The September 11 attacks, colloquially known as 9/11, were a coordinated series of suicide attacks perpetrated by the Islamic terrorist organization al-Qaeda against the United States in 2001. A total of 19 terrorists hijacked four airliners, flying one into each of the Twin Towers at the World Trade Center in New York City. The third plane crashed into the Pentagon, the headquarters of the United States Department of Defense, in Arlington County, Virginia. The fourth plane crashed in a rural field in Pennsylvania during a passenger revolt. In response to the attacks, the United States launched the Global War on Terror, seeking to eliminate hostile groups deemed terrorist organizations and the governments purported to support them. This foreign policy agenda was conducted over the next two decades.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/September_11_attacks",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Al-Qaida_au_Maghreb_Islamique_combattants_%284x3%29.png/500px-Al-Qaida_au_Maghreb_Islamique_combattants_%284x3%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Al-Qaida_au_Maghreb_Islamique_combattants_%284x3%29.png/500px-Al-Qaida_au_Maghreb_Islamique_combattants_%284x3%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "al-qaida_au_maghreb_islamique_combattants_(4x3).png",
+          "width": 800,
+          "height": 600,
+          "title": "Members of al-Qaeda in the Islamic Maghreb posing with grenades and weapons in Algeria, 2010",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Al-Qaeda",
+          "score": 8
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Al-Qaida_cr%C3%A9e_une_brigade_dirig%C3%A9e_par_des_Touaregs_%288246938011%29.jpg/1280px-Al-Qaida_cr%C3%A9e_une_brigade_dirig%C3%A9e_par_des_Touaregs_%288246938011%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Al-Qaida_cr%C3%A9e_une_brigade_dirig%C3%A9e_par_des_Touaregs_%288246938011%29.jpg/1280px-Al-Qaida_cr%C3%A9e_une_brigade_dirig%C3%A9e_par_des_Touaregs_%288246938011%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "al-qaida_crée_une_brigade_dirigée_par_des_touaregs_(8246938011).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Al-Qaeda militant in Sahel armed with a Type 56 assault rifle, 2012",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Al-Qaeda",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Al-Qaeda",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Al-Qaeda",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-11-2011-78a1d18a",
+      "year": 2011,
+      "text": "A dedication ceremony is held at the United States National September 11 Memorial on the 10th anniversary of the September 11 attacks in New York City, and the memorial opens to family members.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 160,
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/9-11_Memorial_and_Museum_%2828815276064%29.jpg/3840px-9-11_Memorial_and_Museum_%2828815276064%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/9-11_Memorial_and_Museum_%2828815276064%29.jpg/330px-9-11_Memorial_and_Museum_%2828815276064%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "9-11_memorial_and_museum_(28815276064).jpg",
+        "width": 4896,
+        "height": 3264,
+        "title": "National September 11 Memorial & Museum",
+        "description": "Memorial and museum in New York City",
+        "extract": "The National September 11 Memorial & Museum is a memorial and museum that are part of the World Trade Center complex, in New York City, created for remembering the September 11, 2001, terrorist attacks which killed 2,977 people, as well as the February 26, 1993, World Trade Center bombing which killed six. The memorial is located at the World Trade Center site, the former location of the Twin Towers that were destroyed during the September 11 attacks. It is operated by a non-profit institution whose mission is to raise funds to program and operate the memorial and museum at the World Trade Center site.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/9-11_Memorial_and_Museum_%2828815276064%29.jpg/3840px-9-11_Memorial_and_Museum_%2828815276064%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/9-11_Memorial_and_Museum_%2828815276064%29.jpg/330px-9-11_Memorial_and_Museum_%2828815276064%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "9-11_memorial_and_museum_(28815276064).jpg",
+          "width": 4896,
+          "height": 3264,
+          "title": "National September 11 Memorial & Museum",
+          "description": "Memorial and museum in New York City",
+          "extract": "The National September 11 Memorial & Museum is a memorial and museum that are part of the World Trade Center complex, in New York City, created for remembering the September 11, 2001, terrorist attacks which killed 2,977 people, as well as the February 26, 1993, World Trade Center bombing which killed six. The memorial is located at the World Trade Center site, the former location of the Twin Towers that were destroyed during the September 11 attacks. It is operated by a non-profit institution whose mission is to raise funds to program and operate the memorial and museum at the World Trade Center site.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/330px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wtc_smoking_on_9-11.jpeg",
+          "width": 1600,
+          "height": 1200,
+          "title": "September 11 attacks",
+          "description": "2001 terror attacks in the U.S.",
+          "extract": "The September 11 attacks, colloquially known as 9/11, were a coordinated series of suicide attacks perpetrated by the Islamic terrorist organization al-Qaeda against the United States in 2001. A total of 19 terrorists hijacked four airliners, flying one into each of the Twin Towers at the World Trade Center in New York City. The third plane crashed into the Pentagon, the headquarters of the United States Department of Defense, in Arlington County, Virginia. The fourth plane crashed in a rural field in Pennsylvania during a passenger revolt. In response to the attacks, the United States launched the Global War on Terror, seeking to eliminate hostile groups deemed terrorist organizations and the governments purported to support them. This foreign policy agenda was conducted over the next two decades.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/September_11_attacks",
           "score": 10
         }
       ],
       "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
-      "mainPageTitle": "Progress MS-32",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Progress_MS-32",
-      "relatedPagesCount": 1
+      "mainPageTitle": "National September 11 Memorial & Museum",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/National_September_11_Memorial_%26_Museum",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-11-2025-51ce1111",
+      "year": 2025,
+      "text": "Former Brazilian president Jair Bolsonaro was sentenced to 27 years in prison for his involvement in a coup plot.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 150,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%28cropped%29.jpg/330px-Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jair_bolsonaro_em_24_de_abril_de_2019_(1)_(cropped).jpg",
+        "width": 1825,
+        "height": 2690,
+        "title": "Jair Bolsonaro",
+        "description": "President of Brazil from 2019 to 2023",
+        "extract": "Jair Messias Bolsonaro is a Brazilian politician and former military officer who served as the 38th president of Brazil from 2019 to 2023. He previously served as a member of the Chamber of Deputies from 1991 to 2019.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jair_Bolsonaro",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%28cropped%29.jpg/330px-Jair_Bolsonaro_em_24_de_abril_de_2019_%281%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jair_bolsonaro_em_24_de_abril_de_2019_(1)_(cropped).jpg",
+          "width": 1825,
+          "height": 2690,
+          "title": "Jair Bolsonaro",
+          "description": "President of Brazil from 2019 to 2023",
+          "extract": "Jair Messias Bolsonaro is a Brazilian politician and former military officer who served as the 38th president of Brazil from 2019 to 2023. He previously served as a member of the Chamber of Deputies from 1991 to 2019.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jair_Bolsonaro",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Supreme_Federal_Court_of_Brazil.jpg/3840px-Supreme_Federal_Court_of_Brazil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Supreme_Federal_Court_of_Brazil.jpg/330px-Supreme_Federal_Court_of_Brazil.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "supreme_federal_court_of_brazil.jpg",
+          "width": 3846,
+          "height": 2563,
+          "title": "Trial for the 2022–2023 Brazilian coup plot",
+          "description": "2025 Supreme Court of Brazil case on 2022 coup attempt",
+          "extract": "In 2025, the Supreme Federal Court of Brazil ruled on a criminal case concerning the 2022–2023 Brazilian coup plot, which followed the election win of Luiz Inácio Lula da Silva against Jair Bolsonaro. The defendants—including the former president Bolsonaro—were convicted in a 4–1 vote for participation in an armed criminal organization, attempted violent abolition of the democratic rule of law, attempted coup d'état, qualified damage, and deterioration of protected heritage property.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Trial_for_the_2022%E2%80%932023_Brazilian_coup_plot",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/05_12_2020_Cerim%C3%B4nia_de_entrega_de_Espada_e_Declara%C3%A7%C3%A3o_de_Aspirantes_da_Turma_%E2%80%9C150_anos_da_Campanha_da_Tr%C3%ADplice_Alian%C3%A7a%E2%80%9D_%2850682670773%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/05_12_2020_Cerim%C3%B4nia_de_entrega_de_Espada_e_Declara%C3%A7%C3%A3o_de_Aspirantes_da_Turma_%E2%80%9C150_anos_da_Campanha_da_Tr%C3%ADplice_Alian%C3%A7a%E2%80%9D_%2850682670773%29.jpg/330px-05_12_2020_Cerim%C3%B4nia_de_entrega_de_Espada_e_Declara%C3%A7%C3%A3o_de_Aspirantes_da_Turma_%E2%80%9C150_anos_da_Campanha_da_Tr%C3%ADplice_Alian%C3%A7a%E2%80%9D_%2850682670773%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "05_12_2020_cerimônia_de_entrega_de_espada_e_declaração_de_aspirantes_da_turma_“150_anos_da_campanha_da_tríplice_aliança”_(50682670773).jpg",
+          "width": 3506,
+          "height": 2337,
+          "title": "2022–2023 Brazilian coup plot",
+          "description": "",
+          "extract": "During and after the 2022 Brazilian general election, a network of members of former president Jair Bolsonaro's government and of the Brazilian Armed Forces planned to subvert the transition of power to newly elected president Luiz Inácio Lula da Silva, arrest Supreme Federal Court (STF) justice Alexandre de Moraes and Federal Senate president Rodrigo Pacheco, and shut down several government institutions, such as the National Congress, the Superior Electoral Court and the STF, in an attempt to keep Bolsonaro in power and consolidate his control over the federal government. The plans, evidence, and individuals involved in planning a coup d'état were gradually revealed in investigations conducted by public agencies and the press in 2023 and 2024.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2022%E2%80%932023_Brazilian_coup_plot",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Jair Bolsonaro",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Jair_Bolsonaro",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-11-1995-f539ad18",
+      "year": 1995,
+      "text": "Mir EO-19, the first expedition to the Russian space station Mir launched on an American Space Shuttle, returned to Earth after approximately 75 days in space.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 150,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Earth_%26_Mir_%28STS-71%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Earth_%26_Mir_%28STS-71%29.jpg/330px-Earth_%26_Mir_%28STS-71%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "earth_&_mir_(sts-71).jpg",
+        "width": 2391,
+        "height": 1867,
+        "title": "Mir EO-19",
+        "description": "Nineteenth expedition to Mir space station",
+        "extract": "Mir EO-19 was the nineteenth crewed expedition to the space station Mir, lasting from June to September 1995. The crew, consisting of Russian cosmonauts Anatoly Solovyev and Nikolai Budarin, launched on June 27, 1995, aboard the Space Shuttle Atlantis on the STS-71 mission. After remaining aboard Mir for approximately 75 days, Solovyev and Budarin returned aboard the Soyuz TM-21 spacecraft on September 11, 1995.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mir_EO-19",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Earth_%26_Mir_%28STS-71%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Earth_%26_Mir_%28STS-71%29.jpg/330px-Earth_%26_Mir_%28STS-71%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "earth_&_mir_(sts-71).jpg",
+          "width": 2391,
+          "height": 1867,
+          "title": "Mir EO-19",
+          "description": "Nineteenth expedition to Mir space station",
+          "extract": "Mir EO-19 was the nineteenth crewed expedition to the space station Mir, lasting from June to September 1995. The crew, consisting of Russian cosmonauts Anatoly Solovyev and Nikolai Budarin, launched on June 27, 1995, aboard the Space Shuttle Atlantis on the STS-71 mission. After remaining aboard Mir for approximately 75 days, Solovyev and Budarin returned aboard the Soyuz TM-21 spacecraft on September 11, 1995.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mir_EO-19",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg/330px-Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mir_space_station_viewed_from_endeavour_during_sts-89.jpg",
+          "width": 3124,
+          "height": 3044,
+          "title": "Mir",
+          "description": "Soviet/Russian space station (1986–2001)",
+          "extract": "Mir was a space station operated in low Earth orbit from 1986 to 2001, first by the Soviet Union and later by the Russian Federation. Mir was the first modular space station and was assembled in orbit from 1986 to 1996. At the time it was the largest artificial satellite in orbit, only being succeeded by the International Space Station (ISS) after Mir's deorbiting in 2001. The station served as a microgravity research laboratory in which crews conducted experiments in biology, human biology, physics, astronomy, meteorology, and spacecraft systems with a goal of developing technologies required for permanent occupation of space.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mir",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/STS120LaunchHiRes-edit1.jpg/330px-STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sts120launchhires-edit1.jpg",
+          "width": 1888,
+          "height": 2956,
+          "title": "Space Shuttle",
+          "description": "Partially reusable launch system and space plane",
+          "extract": "The Space Shuttle is a retired, partially reusable low Earth orbital spacecraft system operated from 1981 to 2011 by the U.S. National Aeronautics and Space Administration (NASA) as part of the Space Shuttle program. Its official program name was the Space Transportation System (STS), taken from the 1969 plan led by U.S. vice president Spiro Agnew for a system of reusable spacecraft where it was the only item funded for development.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Mir EO-19",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mir_EO-19",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-11-1945-16531434",
+      "year": 1945,
+      "text": "The Japanese-run camp at Batu Lintang in Borneo was liberated by the Australian 9th Division, averting the planned massacre of its 2,000-plus Allied POWs and civilian internees by four days.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Batu_Lintang_POW_camp%2C_Sarawak%2C_Borneo_taken_on_or_after_29_August_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Batu_Lintang_POW_camp%2C_Sarawak%2C_Borneo_taken_on_or_after_29_August_1945.jpg/330px-Batu_Lintang_POW_camp%2C_Sarawak%2C_Borneo_taken_on_or_after_29_August_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "batu_lintang_pow_camp,_sarawak,_borneo_taken_on_or_after_29_august_1945.jpg",
+        "width": 450,
+        "height": 334,
+        "title": "Batu Lintang camp",
+        "description": "Japanese-run WWII internment camp in Kuching, Sarawak",
+        "extract": "Batu Lintang camp at Kuching, Sarawak on the island of Borneo was a Japanese-run internment camp during the Second World War. It was unusual in that it housed both Allied prisoners of war (POWs) and civilian internees. The camp, which operated from March 1942 until the liberation of the camp in September 1945, was housed in buildings that were originally British Indian Army barracks. The original area was extended by the Japanese, until it covered about 50 acres. The camp population fluctuated, due to movement of prisoners between camps in Borneo, and as a result of the deaths of the prisoners. It had a maximum population of some 3,000 prisoners.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Batu_Lintang_camp",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Batu_Lintang_POW_camp%2C_Sarawak%2C_Borneo_taken_on_or_after_29_August_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Batu_Lintang_POW_camp%2C_Sarawak%2C_Borneo_taken_on_or_after_29_August_1945.jpg/330px-Batu_Lintang_POW_camp%2C_Sarawak%2C_Borneo_taken_on_or_after_29_August_1945.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "batu_lintang_pow_camp,_sarawak,_borneo_taken_on_or_after_29_august_1945.jpg",
+          "width": 450,
+          "height": 334,
+          "title": "Batu Lintang camp",
+          "description": "Japanese-run WWII internment camp in Kuching, Sarawak",
+          "extract": "Batu Lintang camp at Kuching, Sarawak on the island of Borneo was a Japanese-run internment camp during the Second World War. It was unusual in that it housed both Allied prisoners of war (POWs) and civilian internees. The camp, which operated from March 1942 until the liberation of the camp in September 1945, was housed in buildings that were originally British Indian Army barracks. The original area was extended by the Japanese, until it covered about 50 acres. The camp population fluctuated, due to movement of prisoners between camps in Borneo, and as a result of the deaths of the prisoners. It had a maximum population of some 3,000 prisoners.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Batu_Lintang_camp",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Australian_9th_Div_at_Gaza_in_1942_%28AWM_050124%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Australian_9th_Div_at_Gaza_in_1942_%28AWM_050124%29.jpg/330px-Australian_9th_Div_at_Gaza_in_1942_%28AWM_050124%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "australian_9th_div_at_gaza_in_1942_(awm_050124).jpg",
+          "width": 639,
+          "height": 477,
+          "title": "9th Division (Australia)",
+          "description": "WW2 Australian Army formation",
+          "extract": "The 9th Division was a division of the Australian Army that served during World War II. It was the fourth division raised for the Second Australian Imperial Force. The distinctions of the division include it being:in front line combat longer, cumulatively, than any other Australian division;\none of the Australian military's most decorated formations;\nthe only 2nd AIF division formed in the United Kingdom, from infantry brigades and support units formed in Australia;\npraised by both Allied and Axis generals, including Bernard Montgomery and Erwin Rommel, as well as non-Australian military historians, and;\nlike the 6th and 7th Divisions, being one of only a few Allied army units to serve in both the Mediterranean and Pacific theatres.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/9th_Division_(Australia)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Abu-Simbel_temple3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Abu-Simbel_temple3.jpg/330px-Abu-Simbel_temple3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "abu-simbel_temple3.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Prisoner of war",
+          "description": "Military term for a captive of the enemy",
+          "extract": "A prisoner of war (POW) is a person held captive by a belligerent power during or immediately after an armed conflict. The earliest recorded usage of the phrase \"prisoner of war\" dates back to 1610.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Prisoner_of_war",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Imperial Japanese Army",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Imperial_Japanese_Army",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "09-11-1941-65397f05",
+      "year": 1941,
+      "text": "In Des Moines, Iowa, American aviator Charles Lindbergh delivered an antisemitic speech (reporting pictured) accusing Jews of controlling the media and manipulating the United States into joining World War II.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg/3840px-Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg/330px-Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "morning_skyline_-_des_moines,_iowa_-_winter_on_the_des_moines_river_(24805016620)_(cropped).jpg",
+        "width": 4395,
+        "height": 2664,
+        "title": "Des Moines, Iowa",
+        "description": "Capital and most populous city of Iowa, US",
+        "extract": "Des Moines is the capital and most populous city in the U.S. state of Iowa. It is named after the Des Moines River, likely derived from the French Rivière des Moines meaning 'River of the Monks'. The city was incorporated in 1851 as Fort Des Moines and shortened to Des Moines in 1857. Its population was 214,133 at the 2020 census. The six-county Des Moines metropolitan area has an estimated 750,000 residents, the largest metropolitan area located entirely in Iowa. It is the county seat of Polk County, with parts south of County Line Road extending into Warren County.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Des_Moines%2C_Iowa",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg/3840px-Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg/330px-Morning_Skyline_-_Des_Moines%2C_Iowa_-_Winter_on_the_Des_Moines_River_%2824805016620%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "morning_skyline_-_des_moines,_iowa_-_winter_on_the_des_moines_river_(24805016620)_(cropped).jpg",
+          "width": 4395,
+          "height": 2664,
+          "title": "Des Moines, Iowa",
+          "description": "Capital and most populous city of Iowa, US",
+          "extract": "Des Moines is the capital and most populous city in the U.S. state of Iowa. It is named after the Des Moines River, likely derived from the French Rivière des Moines meaning 'River of the Monks'. The city was incorporated in 1851 as Fort Des Moines and shortened to Des Moines in 1857. Its population was 214,133 at the 2020 census. The six-county Des Moines metropolitan area has an estimated 750,000 residents, the largest metropolitan area located entirely in Iowa. It is the county seat of Polk County, with parts south of County Line Road extending into Warren County.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Des_Moines%2C_Iowa",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Charles_Lindbergh_%28Harris_%26_Ewing_photo%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Charles_Lindbergh_%28Harris_%26_Ewing_photo%2C_cropped%29.jpg/330px-Charles_Lindbergh_%28Harris_%26_Ewing_photo%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "charles_lindbergh_(harris_&_ewing_photo,_cropped).jpg",
+          "width": 2564,
+          "height": 3473,
+          "title": "Charles Lindbergh",
+          "description": "American aviator (1902–1974)",
+          "extract": "Charles Augustus Lindbergh was an American aviator, military officer, and author. On May 20–21, 1927, he made the first nonstop flight from New York to Paris, a distance of 3,600 miles (5,800 km), flying alone for over 33 hours. His aircraft, the Spirit of St. Louis, was built to compete for the $25,000 Orteig Prize for the first flight between the two cities. Although not the first transatlantic flight, it was the first solo crossing of the Atlantic and the longest at the time by nearly 2,000 miles (3,200 km), setting a new flight distance world record. The achievement garnered Lindbergh worldwide fame and stands as one of the most consequential flights in history, signalling a new era of air transportation between parts of the globe.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Charles_Lindbergh",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/%22Lindbergh_Text%22%2C_Burlington_Daily_Hawk_Eye_Gazette%2C_September_12%2C_1941%2C_page_3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%22Lindbergh_Text%22%2C_Burlington_Daily_Hawk_Eye_Gazette%2C_September_12%2C_1941%2C_page_3.png/330px-%22Lindbergh_Text%22%2C_Burlington_Daily_Hawk_Eye_Gazette%2C_September_12%2C_1941%2C_page_3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "\"lindbergh_text\",_burlington_daily_hawk_eye_gazette,_september_12,_1941,_page_3.png",
+          "width": 1490,
+          "height": 678,
+          "title": "Des Moines speech",
+          "description": "1941 speech by Charles Lindbergh",
+          "extract": "The Des Moines speech, formally titled \"Who Are the War Agitators?\", was an isolationist and antisemitic speech that American aviator Charles Lindbergh delivered at a 1941 America First Committee rally held in Des Moines, Iowa. In the speech, Lindbergh argued that participation in World War II was not in the United States' interest, and he accused three groups of trying to push the country toward war: the British, who, he said, were propagandizing the United States; Jews, whom Lindbergh accused of exercising outsized influence and of controlling the American news media; and the Roosevelt administration, who, he said, wanted to use a war to consolidate power. Called Lindbergh's \"most controversial public speech\", his use of antisemitic tropes and monolithic characterization of American Jews as war-agitating outsiders prompted a nationwide backlash against him and America First that the organization \"never recovered from\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Des_Moines_speech",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Des Moines, Iowa",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Des_Moines%2C_Iowa",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "09-11-1914-e8361b96",
+      "year": 1914,
+      "text": "First World War: The Australian Naval and Military Expeditionary Force invaded German New Guinea, winning the Battle of Bita Paka.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bataille_de_verdun_1916.jpg",
+        "width": 1875,
+        "height": 1402,
+        "title": "World War I",
+        "description": "Global conflict from 1914 to 1918",
+        "extract": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bataille_de_verdun_1916.jpg",
+          "width": 1875,
+          "height": 1402,
+          "title": "World War I",
+          "description": "Global conflict from 1914 to 1918",
+          "extract": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Troops_landing_at_Herbertsh%C3%B6he_State_Library_of_New_South_Wales_PXA_216.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Troops_landing_at_Herbertsh%C3%B6he_State_Library_of_New_South_Wales_PXA_216.jpg/330px-Troops_landing_at_Herbertsh%C3%B6he_State_Library_of_New_South_Wales_PXA_216.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "troops_landing_at_herbertshöhe_state_library_of_new_south_wales_pxa_216.jpg",
+          "width": 3352,
+          "height": 1944,
+          "title": "Australian Naval and Military Expeditionary Force",
+          "description": "Australian Army and naval expeditionary force during World War I",
+          "extract": "The Australian Naval and Military Expeditionary Force (AN&MEF) was a small volunteer force of approximately 2,000 men, raised in Australia shortly after the outbreak of World War I to seize and destroy German wireless stations in German New Guinea in the south-west Pacific. The German wireless installations were ordered to be destroyed because they were used by Vizeadmiral Maximilian von Spee's East Asia Squadron of the Imperial German Navy, which threatened merchant shipping in the region. Following the capture of German possessions in the region, the AN&MEF provided occupation forces for the duration of the war. New Zealand provided a similar force for the occupation of German Samoa.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Australian_Naval_and_Military_Expeditionary_Force",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/AN%26MEF_in_Sydney_before_departure_1914_%28AWM_H11567%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/AN%26MEF_in_Sydney_before_departure_1914_%28AWM_H11567%29.jpg/330px-AN%26MEF_in_Sydney_before_departure_1914_%28AWM_H11567%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "an&mef_in_sydney_before_departure_1914_(awm_h11567).jpg",
+          "width": 505,
+          "height": 640,
+          "title": "Battle of Bita Paka",
+          "description": "Australian invasion of German New Guinea",
+          "extract": "The Battle of Bita Paka was fought south of Kabakaul, on the island of New Britain, and was a part of the invasion and subsequent occupation of German New Guinea by the Australian Naval and Military Expeditionary Force (AN&MEF) shortly after the outbreak of the First World War. Similar to New Zealand's operation against German Samoa in August, the main target of the operation was a strategically important wireless station—one of several used by the German East Asia Squadron—which the Australians believed to be located in the area. The powerful German naval fleet threatened British interests and its elimination was an early priority of the British and Australian governments during the war.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Bita_Paka",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "World War I",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_I",
+      "relatedPagesCount": 4
     },
     {
       "id": "09-11-2024-56727005",
@@ -86,11 +506,11 @@
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/3840px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/ISS-56_International_Space_Station_fly-around_%2807%29.jpg/330px-ISS-56_International_Space_Station_fly-around_%2807%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "iss-56_international_space_station_fly-around_(07).jpg",
-          "width": 6048,
-          "height": 4032,
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg/3840px-The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg/330px-The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_station_pictured_from_the_spacex_crew_dragon_5.jpg",
+          "width": 7556,
+          "height": 5020,
           "title": "International Space Station",
           "description": "Modular space station in low Earth orbit",
           "extract": "The International Space Station (ISS) is a space station in low Earth orbit (LEO). It is the product of the International Space Station program and is operated by five partner space agencies: NASA, Roscosmos (Russia), ESA (Europe), JAXA (Japan), and CSA (Canada). It is the first space station built, maintained and crewed through international cooperation and the largest human spacecraft ever constructed. It is an orbital research station, where scientific experiments in microgravity are conducted and the space environment is studied. Since 2 November 2000, it has hosted the longest continuous human presence in space. Alongside China's Tiangong, it is one of two currently operational space stations.",
@@ -129,8 +549,8 @@
       "imageScore": 10,
       "marketingScore": 130,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mars_global_surveyor.jpg/3840px-Mars_global_surveyor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mars_global_surveyor.jpg/330px-Mars_global_surveyor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mars_global_surveyor.jpg/3840px-Mars_global_surveyor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mars_global_surveyor.jpg/330px-Mars_global_surveyor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "canonicalKey": "mars_global_surveyor.jpg",
         "width": 6000,
         "height": 6958,
@@ -142,8 +562,8 @@
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mars_global_surveyor.jpg/3840px-Mars_global_surveyor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mars_global_surveyor.jpg/330px-Mars_global_surveyor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mars_global_surveyor.jpg/3840px-Mars_global_surveyor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Mars_global_surveyor.jpg/330px-Mars_global_surveyor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "mars_global_surveyor.jpg",
           "width": 6000,
           "height": 6958,
@@ -155,7 +575,7 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/330px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "mars_-_august_30_2021_-_flickr_-_kevin_m._gill.png",
           "width": 1558,
           "height": 1558,
@@ -166,8 +586,8 @@
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
           "canonicalKey": "nasa_hq_building.jpg",
           "width": 800,
           "height": 600,
@@ -179,80 +599,12 @@
         }
       ],
       "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
       "mainPageTitle": "NASA",
       "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "09-11-1995-f539ad18",
-      "year": 1995,
-      "text": "Mir EO-19, the first expedition to the Russian space station Mir launched on an American Space Shuttle, returned to Earth after approximately 75 days in space.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 130,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Earth_%26_Mir_%28STS-71%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Earth_%26_Mir_%28STS-71%29.jpg/330px-Earth_%26_Mir_%28STS-71%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "earth_&_mir_(sts-71).jpg",
-        "width": 2391,
-        "height": 1867,
-        "title": "Mir EO-19",
-        "description": "Nineteenth expedition to Mir space station",
-        "extract": "Mir EO-19 was the nineteenth crewed expedition to the space station Mir, lasting from June to September 1995. The crew, consisting of Russian cosmonauts Anatoly Solovyev and Nikolai Budarin, launched on June 27, 1995, aboard the Space Shuttle Atlantis on the STS-71 mission. After remaining aboard Mir for approximately 75 days, Solovyev and Budarin returned aboard the Soyuz TM-21 spacecraft on September 11, 1995.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Mir_EO-19",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Earth_%26_Mir_%28STS-71%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Earth_%26_Mir_%28STS-71%29.jpg/330px-Earth_%26_Mir_%28STS-71%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "earth_&_mir_(sts-71).jpg",
-          "width": 2391,
-          "height": 1867,
-          "title": "Mir EO-19",
-          "description": "Nineteenth expedition to Mir space station",
-          "extract": "Mir EO-19 was the nineteenth crewed expedition to the space station Mir, lasting from June to September 1995. The crew, consisting of Russian cosmonauts Anatoly Solovyev and Nikolai Budarin, launched on June 27, 1995, aboard the Space Shuttle Atlantis on the STS-71 mission. After remaining aboard Mir for approximately 75 days, Solovyev and Budarin returned aboard the Soyuz TM-21 spacecraft on September 11, 1995.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Mir_EO-19",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg/330px-Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "mir_space_station_viewed_from_endeavour_during_sts-89.jpg",
-          "width": 3124,
-          "height": 3044,
-          "title": "Mir",
-          "description": "Soviet/Russian space station (1986–2001)",
-          "extract": "Mir was a space station operated in low Earth orbit from 1986 to 2001, first by the Soviet Union and later by the Russian Federation. Mir was the first modular space station and was assembled in orbit from 1986 to 1996. At the time it was the largest artificial satellite in orbit, only being succeeded by the International Space Station (ISS) after Mir's deorbiting in 2001. The station served as a microgravity research laboratory in which crews conducted experiments in biology, human biology, physics, astronomy, meteorology, and spacecraft systems with a goal of developing technologies required for permanent occupation of space.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Mir",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/STS120LaunchHiRes-edit1.jpg/330px-STS120LaunchHiRes-edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "sts120launchhires-edit1.jpg",
-          "width": 1888,
-          "height": 2956,
-          "title": "Space Shuttle",
-          "description": "Partially reusable launch system and space plane",
-          "extract": "The Space Shuttle is a retired, partially reusable low Earth orbital spacecraft system operated from 1981 to 2011 by the U.S. National Aeronautics and Space Administration (NASA) as part of the Space Shuttle program. Its official program name was the Space Transportation System (STS), taken from the 1969 plan led by U.S. vice president Spiro Agnew for a system of reusable spacecraft where it was the only item funded for development.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Mir EO-19",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Mir_EO-19",
       "relatedPagesCount": 3
     },
     {
@@ -263,35 +615,35 @@
       "hasImage": true,
       "imagesCount": 2,
       "imageScore": 10,
-      "marketingScore": 100,
+      "marketingScore": 130,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vista_del_Nevado_de_Toluca.jpg/3840px-Vista_del_Nevado_de_Toluca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vista_del_Nevado_de_Toluca.jpg/330px-Vista_del_Nevado_de_Toluca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Vista_del_Nevado_de_Toluca.jpg/3840px-Vista_del_Nevado_de_Toluca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Vista_del_Nevado_de_Toluca.jpg/330px-Vista_del_Nevado_de_Toluca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "canonicalKey": "vista_del_nevado_de_toluca.jpg",
         "width": 3963,
         "height": 2320,
         "title": "State of Mexico",
         "description": "State of central Mexico",
-        "extract": "The State of Mexico, officially simply Mexico, is one of the 32 federal entities of the United Mexican States. Sharing its name with both the country and the national capital, Mexico City, the state is colloquially distinguished as Edomex. It is the most populous and second most densely populated state in Mexico.",
+        "extract": "The State of Mexico, officially Mexico, is one of the 32 federal entities of the United Mexican States. Sharing its name with both the country and the national capital, Mexico City, the state is colloquially distinguished as Edomex. It is the most populous and second most densely populated state in Mexico.",
         "wikiUrl": "https://en.wikipedia.org/wiki/State_of_Mexico",
         "score": 10
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vista_del_Nevado_de_Toluca.jpg/3840px-Vista_del_Nevado_de_Toluca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Vista_del_Nevado_de_Toluca.jpg/330px-Vista_del_Nevado_de_Toluca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Vista_del_Nevado_de_Toluca.jpg/3840px-Vista_del_Nevado_de_Toluca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Vista_del_Nevado_de_Toluca.jpg/330px-Vista_del_Nevado_de_Toluca.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "vista_del_nevado_de_toluca.jpg",
           "width": 3963,
           "height": 2320,
           "title": "State of Mexico",
           "description": "State of central Mexico",
-          "extract": "The State of Mexico, officially simply Mexico, is one of the 32 federal entities of the United Mexican States. Sharing its name with both the country and the national capital, Mexico City, the state is colloquially distinguished as Edomex. It is the most populous and second most densely populated state in Mexico.",
+          "extract": "The State of Mexico, officially Mexico, is one of the 32 federal entities of the United Mexican States. Sharing its name with both the country and the national capital, Mexico City, the state is colloquially distinguished as Edomex. It is the most populous and second most densely populated state in Mexico.",
           "wikiUrl": "https://en.wikipedia.org/wiki/State_of_Mexico",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/L%27ex%C3%A8rcit_al_carrer_30_de_juliol.jpg/3840px-L%27ex%C3%A8rcit_al_carrer_30_de_juliol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/L%27ex%C3%A8rcit_al_carrer_30_de_juliol.jpg/330px-L%27ex%C3%A8rcit_al_carrer_30_de_juliol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/L%27ex%C3%A8rcit_al_carrer_30_de_juliol.jpg/3840px-L%27ex%C3%A8rcit_al_carrer_30_de_juliol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/L%27ex%C3%A8rcit_al_carrer_30_de_juliol.jpg/330px-L%27ex%C3%A8rcit_al_carrer_30_de_juliol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "l'exèrcit_al_carrer_30_de_juliol.jpg",
           "width": 4736,
           "height": 3165,
@@ -303,316 +655,12 @@
         }
       ],
       "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
       "mainPageTitle": "Festival Rock y Ruedas de Avándaro",
       "mainPageUrl": "https://en.wikipedia.org/wiki/Festival_Rock_y_Ruedas_de_Av%C3%A1ndaro",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "09-11-1941-61f8858b",
-      "year": 1941,
-      "text": "Charles Lindbergh makes his Des Moines speech accusing the British, Jews and FDR's administration of conspiring for war with Germany.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 90,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Charles_Lindbergh_%28Harris_%26_Ewing_photo%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Charles_Lindbergh_%28Harris_%26_Ewing_photo%2C_cropped%29.jpg/330px-Charles_Lindbergh_%28Harris_%26_Ewing_photo%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "charles_lindbergh_(harris_&_ewing_photo,_cropped).jpg",
-        "width": 2564,
-        "height": 3473,
-        "title": "Charles Lindbergh",
-        "description": "American aviator (1902–1974)",
-        "extract": "Charles Augustus Lindbergh was an American aviator, military officer, and author. On May 20–21, 1927, he made the first nonstop flight from New York to Paris, a distance of 3,600 miles (5,800 km), flying alone for over 33 hours. His aircraft, the Spirit of St. Louis, was built to compete for the $25,000 Orteig Prize for the first flight between the two cities. Although not the first transatlantic flight, it was the first solo crossing of the Atlantic and the longest at the time by nearly 2,000 miles (3,200 km), setting a new flight distance world record. The achievement garnered Lindbergh worldwide fame and stands as one of the most consequential flights in history, signalling a new era of air transportation between parts of the globe.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Charles_Lindbergh",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Charles_Lindbergh_%28Harris_%26_Ewing_photo%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Charles_Lindbergh_%28Harris_%26_Ewing_photo%2C_cropped%29.jpg/330px-Charles_Lindbergh_%28Harris_%26_Ewing_photo%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "charles_lindbergh_(harris_&_ewing_photo,_cropped).jpg",
-          "width": 2564,
-          "height": 3473,
-          "title": "Charles Lindbergh",
-          "description": "American aviator (1902–1974)",
-          "extract": "Charles Augustus Lindbergh was an American aviator, military officer, and author. On May 20–21, 1927, he made the first nonstop flight from New York to Paris, a distance of 3,600 miles (5,800 km), flying alone for over 33 hours. His aircraft, the Spirit of St. Louis, was built to compete for the $25,000 Orteig Prize for the first flight between the two cities. Although not the first transatlantic flight, it was the first solo crossing of the Atlantic and the longest at the time by nearly 2,000 miles (3,200 km), setting a new flight distance world record. The achievement garnered Lindbergh worldwide fame and stands as one of the most consequential flights in history, signalling a new era of air transportation between parts of the globe.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Charles_Lindbergh",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/%22Lindbergh_Text%22%2C_Burlington_Daily_Hawk_Eye_Gazette%2C_September_12%2C_1941%2C_page_3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/%22Lindbergh_Text%22%2C_Burlington_Daily_Hawk_Eye_Gazette%2C_September_12%2C_1941%2C_page_3.png/330px-%22Lindbergh_Text%22%2C_Burlington_Daily_Hawk_Eye_Gazette%2C_September_12%2C_1941%2C_page_3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "\"lindbergh_text\",_burlington_daily_hawk_eye_gazette,_september_12,_1941,_page_3.png",
-          "width": 1490,
-          "height": 678,
-          "title": "Des Moines speech",
-          "description": "1941 speech by Charles Lindbergh",
-          "extract": "The Des Moines speech, formally titled \"Who Are the War Agitators?\", was an isolationist and antisemitic speech that American aviator Charles Lindbergh delivered at a 1941 America First Committee rally held in Des Moines, Iowa. In the speech, Lindbergh argued that participation in World War II was not in the United States' interest, and he accused three groups of trying to push the country toward war: the British, who, he said, were propagandizing the United States; Jews, whom Lindbergh accused of exercising outsized influence and of controlling the American news media; and the Roosevelt administration, who, he said, wanted to use a war to consolidate power. Called Lindbergh's \"most controversial public speech\", his use of antisemitic tropes and monolithic characterization of American Jews as war-agitating outsiders prompted a nationwide backlash against him and America First that the organization \"never recovered from\".",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Des_Moines_speech",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/330px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "fdr-1944-campaign-portrait_(3x4_retouched,_cropped).jpg",
-          "width": 2747,
-          "height": 3660,
-          "title": "Franklin D. Roosevelt",
-          "description": "President of the United States from 1933 to 1945",
-          "extract": "Franklin Delano Roosevelt, also known as FDR, was the 32nd president of the United States, serving from 1933 until his death in 1945. He is the longest-serving US president and the only one to have served more than two terms. His first two terms centered on combating the Great Depression, while his third and fourth focused on US involvement in World War II. A member of the Democratic Party, Roosevelt served in the New York State Senate from 1911 to 1913 and as the 44th governor of New York from 1929 to 1932.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Charles Lindbergh",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Charles_Lindbergh",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "09-11-2012-bc7c92b5",
-      "year": 2012,
-      "text": "The American consulate and CIA annex in Libya were attacked by a heavily armed group, resulting in the deaths of U.S. ambassador J. Christopher Stevens and three others.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 85,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/2012_Benghazi_attack_photo_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2012_Benghazi_attack_photo_montage.jpg/330px-2012_Benghazi_attack_photo_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "2012_benghazi_attack_photo_montage.jpg",
-        "width": 392,
-        "height": 377,
-        "title": "2012 Benghazi attack",
-        "description": "Attack against two United States government facilities in Benghazi, Libya",
-        "extract": "Members of the Islamic militant group Ansar al-Sharia carried out a coordinated attack against two United States government facilities in Benghazi, Libya, on September 11, 2012. At 9:40 p.m. local time, members of Ansar al-Sharia attacked the American diplomatic compound in Benghazi resulting in the deaths of both United States ambassador to Libya J. Christopher Stevens and U.S. Foreign Service Information Management Officer Sean Smith. At around 4:00 a.m. on September 12, the group launched a mortar attack against a CIA annex approximately one mile (1.6 km) away, killing CIA contractors Tyrone S. Woods and Glen Doherty and wounding ten others. Initial analysis by the CIA, repeated by top government officials, indicated that the attack spontaneously arose from a protest. Subsequent investigations showed that the attack was premeditated—although rioters and looters not originally part of the group may have joined in after the attacks began.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/2012_Benghazi_attack",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/2012_Benghazi_attack_photo_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2012_Benghazi_attack_photo_montage.jpg/330px-2012_Benghazi_attack_photo_montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "2012_benghazi_attack_photo_montage.jpg",
-          "width": 392,
-          "height": 377,
-          "title": "2012 Benghazi attack",
-          "description": "Attack against two United States government facilities in Benghazi, Libya",
-          "extract": "Members of the Islamic militant group Ansar al-Sharia carried out a coordinated attack against two United States government facilities in Benghazi, Libya, on September 11, 2012. At 9:40 p.m. local time, members of Ansar al-Sharia attacked the American diplomatic compound in Benghazi resulting in the deaths of both United States ambassador to Libya J. Christopher Stevens and U.S. Foreign Service Information Management Officer Sean Smith. At around 4:00 a.m. on September 12, the group launched a mortar attack against a CIA annex approximately one mile (1.6 km) away, killing CIA contractors Tyrone S. Woods and Glen Doherty and wounding ten others. Initial analysis by the CIA, repeated by top government officials, indicated that the attack spontaneously arose from a protest. Subsequent investigations showed that the attack was premeditated—although rioters and looters not originally part of the group may have joined in after the attacks began.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/2012_Benghazi_attack",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Ambassador_christopher_stevens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ambassador_christopher_stevens.jpg/330px-Ambassador_christopher_stevens.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "ambassador_christopher_stevens.jpg",
-          "width": 400,
-          "height": 500,
-          "title": "J. Christopher Stevens",
-          "description": "American diplomat and lawyer (1960-2012)",
-          "extract": "John Christopher Stevens was an American career diplomat and lawyer who served as the U.S. Ambassador to Libya from May 22, 2012, to September 11, 2012. Stevens was killed when the U.S. Special Mission in Benghazi, Libya, was attacked by members of Ansar al-Sharia on September 11–12, 2012., making Stevens the eighth and most recent U.S. Ambassador to be killed while in office.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/J._Christopher_Stevens",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Aerial_view_of_the_Central_Intelligence_Agency_headquarters%2C_Langley%2C_Virginia_-_Corrected_and_Cropped.jpg/1280px-Aerial_view_of_the_Central_Intelligence_Agency_headquarters%2C_Langley%2C_Virginia_-_Corrected_and_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Aerial_view_of_the_Central_Intelligence_Agency_headquarters%2C_Langley%2C_Virginia_-_Corrected_and_Cropped.jpg/1280px-Aerial_view_of_the_Central_Intelligence_Agency_headquarters%2C_Langley%2C_Virginia_-_Corrected_and_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "aerial_view_of_the_central_intelligence_agency_headquarters,_langley,_virginia_-_corrected_and_cropped.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Aerial_view_of_the_Central_Intelligence_Agency_headquarters,_Langley,_Virginia_-_Corrected_and_Cropped",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "cinema_tv",
-        "name": "Cine y TV",
-        "icon": "🎬"
-      },
-      "mainPageTitle": "Central Intelligence Agency",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Central_Intelligence_Agency",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "09-11-1968-96645cfd",
-      "year": 1968,
-      "text": "Air France Flight 1611 crashes off Nice, France, killing 89 passengers and six crew.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 80,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Sud_SE-210_Caravelle_III%2C_Air_France_AN0916091.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sud_SE-210_Caravelle_III%2C_Air_France_AN0916091.jpg/330px-Sud_SE-210_Caravelle_III%2C_Air_France_AN0916091.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "sud_se-210_caravelle_iii,_air_france_an0916091.jpg",
-        "width": 1600,
-        "height": 1136,
-        "title": "Air France Flight 1611",
-        "description": "1968 airliner crash in the Mediterranean off Nice",
-        "extract": "Air France Flight 1611 (AF1611) was a Sud Aviation SE-210 Caravelle III en route from Ajaccio, on the island of Corsica, to Nice, mainland France, on 11 September 1968 when it crashed into the Mediterranean Sea off Nice, killing all 95 on board. According to the official report, the crash was non-survivable. The Ajaccio–Nice Caravelle crash is the deadliest aviation incident in the Mediterranean Sea to date. The accident circumstances are still not clear.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Air_France_Flight_1611",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Sud_SE-210_Caravelle_III%2C_Air_France_AN0916091.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sud_SE-210_Caravelle_III%2C_Air_France_AN0916091.jpg/330px-Sud_SE-210_Caravelle_III%2C_Air_France_AN0916091.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "sud_se-210_caravelle_iii,_air_france_an0916091.jpg",
-          "width": 1600,
-          "height": 1136,
-          "title": "Air France Flight 1611",
-          "description": "1968 airliner crash in the Mediterranean off Nice",
-          "extract": "Air France Flight 1611 (AF1611) was a Sud Aviation SE-210 Caravelle III en route from Ajaccio, on the island of Corsica, to Nice, mainland France, on 11 September 1968 when it crashed into the Mediterranean Sea off Nice, killing all 95 on board. According to the official report, the crash was non-survivable. The Ajaccio–Nice Caravelle crash is the deadliest aviation incident in the Mediterranean Sea to date. The accident circumstances are still not clear.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Air_France_Flight_1611",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Promenade_des_Anglais_Nice_IMG_1255.jpg/3840px-Promenade_des_Anglais_Nice_IMG_1255.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Promenade_des_Anglais_Nice_IMG_1255.jpg/330px-Promenade_des_Anglais_Nice_IMG_1255.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "promenade_des_anglais_nice_img_1255.jpg",
-          "width": 5311,
-          "height": 3541,
-          "title": "Nice",
-          "description": "Prefecture of Alpes-Maritimes, Southern France",
-          "extract": "Nice is a city and commune, and the prefecture of the department of Alpes-Maritimes, and the administrative region of Provence-Alpes-Côte d'Azur, France. The Nice agglomeration extends beyond the administrative city limits, with a population of nearly one million over an area of approximately 744 km2 (287 sq mi) or about the size of Singapore. Located on the French Riviera, the southeastern coast of France on the Mediterranean Sea, at the foot of the French Alps, Nice is the second-largest French city on the Mediterranean coast and second-largest city in the Provence-Alpes-Côte d'Azur region after Marseille. It is approximately 13 kilometres (8 mi) from the principality of Monaco and 30 kilometres (19 mi) from the French–Italian border. Nice's airport serves as a gateway to the region.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Nice",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Air France Flight 1611",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Air_France_Flight_1611",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "09-11-1967-6643be9a",
-      "year": 1967,
-      "text": "China's People's Liberation Army (PLA) launched an attack on Indian posts at Nathu La, Sikkim, India, which resulted in military clashes.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 75,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg/3840px-Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg/330px-Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "gurudongmar_lake_sikkim,_india_(edit).jpg",
-        "width": 6000,
-        "height": 4000,
-        "title": "Sikkim",
-        "description": "State in northeastern India",
-        "extract": "Sikkim is a state in northeast India. It borders Bhutan in the east, the Tibet Autonomous Region of China in the north and northeast, Koshi Province of Nepal in the west, and West Bengal in the south. Sikkim is one of the two Indian states that share their border with just one other Indian state — West Bengal. Sikkim is also close to the Siliguri Corridor, which borders Bangladesh, Nepal and Bhutan. Sikkim is the least populous and second-smallest among the Indian states. Situated in the Eastern Himalaya, Sikkim is notable for its biodiversity, including alpine and subtropical climates, as well as being a host to Kangchenjunga, the highest peak in India and third-highest on Earth. Sikkim's capital and largest city is Gangtok. Almost 35% of the state is covered by Khangchendzonga National Park – a UNESCO World Heritage Site.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Sikkim",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg/3840px-Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg/330px-Gurudongmar_Lake_Sikkim%2C_India_%28edit%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "gurudongmar_lake_sikkim,_india_(edit).jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": "Sikkim",
-          "description": "State in northeastern India",
-          "extract": "Sikkim is a state in northeast India. It borders Bhutan in the east, the Tibet Autonomous Region of China in the north and northeast, Koshi Province of Nepal in the west, and West Bengal in the south. Sikkim is one of the two Indian states that share their border with just one other Indian state — West Bengal. Sikkim is also close to the Siliguri Corridor, which borders Bangladesh, Nepal and Bhutan. Sikkim is the least populous and second-smallest among the Indian states. Situated in the Eastern Himalaya, Sikkim is notable for its biodiversity, including alpine and subtropical climates, as well as being a host to Kangchenjunga, the highest peak in India and third-highest on Earth. Sikkim's capital and largest city is Gangtok. Almost 35% of the state is covered by Khangchendzonga National Park – a UNESCO World Heritage Site.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Sikkim",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Stele_of_Vultures_detail_01a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stele_of_Vultures_detail_01a.jpg/330px-Stele_of_Vultures_detail_01a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "stele_of_vultures_detail_01a.jpg",
-          "width": 2430,
-          "height": 1500,
-          "title": "War",
-          "description": "Intense armed conflict",
-          "extract": "War is an armed conflict between the armed forces of states, or between governmental forces and armed groups that are organized under a certain command structure and have the capacity to sustain military operations, or between such organized groups.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/War",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "People's Liberation Army",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/People's_Liberation_Army",
-      "relatedPagesCount": 4
-    },
-    {
-      "id": "09-11-2015-b1df9d46",
-      "year": 2015,
-      "text": "A crane collapses onto the Masjid al-Haram mosque in Saudi Arabia, killing 111 people and injuring 394 others.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/A_Million_Souls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/A_Million_Souls.jpg/330px-A_Million_Souls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "a_million_souls.jpg",
-        "width": 3264,
-        "height": 2448,
-        "title": "Mecca crane collapse",
-        "description": "2015 structural failure in Mecca, Saudi Arabia",
-        "extract": "A crawler crane collapsed over the Masjid al-Haram in Mecca, Saudi Arabia, around 5:10 p.m. on 11 September 2015, killing 111 people and injuring 394 others. The city was preparing for the Hajj pilgrimage. The collapse has been cited as the deadliest crane collapse in history, with the previous most deadly incident being the collapse of a construction crane in New York City in 2008, killing seven people.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Mecca_crane_collapse",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/A_Million_Souls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/A_Million_Souls.jpg/330px-A_Million_Souls.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "a_million_souls.jpg",
-          "width": 3264,
-          "height": 2448,
-          "title": "Mecca crane collapse",
-          "description": "2015 structural failure in Mecca, Saudi Arabia",
-          "extract": "A crawler crane collapsed over the Masjid al-Haram in Mecca, Saudi Arabia, around 5:10 p.m. on 11 September 2015, killing 111 people and injuring 394 others. The city was preparing for the Hajj pilgrimage. The collapse has been cited as the deadliest crane collapse in history, with the previous most deadly incident being the collapse of a construction crane in New York City in 2008, killing seven people.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Mecca_crane_collapse",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Edited_Great_Mosque_of_Mecca1_5-2019-ccsa4.0_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Edited_Great_Mosque_of_Mecca1_5-2019-ccsa4.0_%28cropped%29.jpg/330px-Edited_Great_Mosque_of_Mecca1_5-2019-ccsa4.0_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "edited_great_mosque_of_mecca1_5-2019-ccsa4.0_(cropped).jpg",
-          "width": 3081,
-          "height": 2521,
-          "title": "Masjid al-Haram",
-          "description": "Holiest mosque in Mecca, Saudi Arabia",
-          "extract": "Masjid al-Haram, also known as the Great Mosque of Mecca, is a mosque in Mecca, Saudi Arabia, serving as the holiest and most important mosque in Islam. As of 2026, the Great Mosque is the largest mosque and most expensive building in the world.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Masjid_al-Haram",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "sports",
-        "name": "Deportes",
-        "icon": "🏆"
-      },
-      "mainPageTitle": "Mecca crane collapse",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Mecca_crane_collapse",
       "relatedPagesCount": 3
     }
   ]

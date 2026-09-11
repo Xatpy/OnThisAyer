@@ -1,292 +1,568 @@
 {
-  "text": "On this day, September 11th: In 2025: Progress MS-32 is launched to resupply the International Space Station. In 1997: NASA's Mars Global Surveyor reaches Mars. And in 1971: The Festival Rock y Ruedas de Avándaro rock festival is held in the State of Mexico.",
+  "text": "On this day, September 11th: In 2011: A dedication ceremony is held at the United States National September 11 Memorial on the 10th anniversary of the September 11 attacks in New York City, and the memorial opens to family members. In 2025: Former Brazilian president Jair Bolsonaro was sentenced to 27 years in prison for his involvement in a coup plot. And in 1995: Mir EO-19, the first expedition to the Russian space station Mir launched on an American Space Shuttle, returned to Earth after approximately 75 days in space.",
   "voice": "en-US-ChristopherNeural",
-  "durationMs": 20786,
-  "durationSeconds": 20.786,
+  "durationMs": 34988,
+  "durationSeconds": 34.988,
   "sentences": [
     {
-      "text": "On this day, September 11th: In 2025: Progress MS-32 is launched to resupply the International Space Station.",
+      "text": "On this day, September 11th: In 2011: A dedication ceremony is held at the United States National September 11 Memorial on the 10th anniversary of the September 11 attacks in New York City, and the memorial opens to family members.",
       "startMs": 100,
-      "endMs": 8871,
-      "durationMs": 8771
+      "endMs": 14514,
+      "durationMs": 14414
     },
     {
-      "text": "In 1997: NASA's Mars Global Surveyor reaches Mars.",
-      "startMs": 8821,
-      "endMs": 13714,
-      "durationMs": 4893
+      "text": "In 2025: Former Brazilian president Jair Bolsonaro was sentenced to 27 years in prison for his involvement in a coup plot.",
+      "startMs": 14464,
+      "endMs": 22917,
+      "durationMs": 8452
     },
     {
-      "text": "And in 1971: The Festival Rock y Ruedas de Avándaro rock festival is held in the State of Mexico.",
-      "startMs": 13714,
-      "endMs": 20786,
-      "durationMs": 7071
+      "text": "And in 1995: Mir EO-19, the first expedition to the Russian space station Mir launched on an American Space Shuttle, returned to Earth after approximately 75 days in space.",
+      "startMs": 22917,
+      "endMs": 34988,
+      "durationMs": 12071
     }
   ],
   "words": [
     {
       "text": "On",
       "startMs": 100,
-      "endMs": 289,
+      "endMs": 250,
       "timestampMs": 100
     },
     {
       "text": "this",
-      "startMs": 289,
-      "endMs": 666,
-      "timestampMs": 289
+      "startMs": 250,
+      "endMs": 550,
+      "timestampMs": 250
     },
     {
       "text": "day,",
-      "startMs": 666,
-      "endMs": 1043,
-      "timestampMs": 666
+      "startMs": 550,
+      "endMs": 851,
+      "timestampMs": 550
     },
     {
       "text": "September",
-      "startMs": 1043,
-      "endMs": 1892,
-      "timestampMs": 1043
+      "startMs": 851,
+      "endMs": 1526,
+      "timestampMs": 851
     },
     {
       "text": "11th:",
-      "startMs": 1892,
-      "endMs": 2364,
-      "timestampMs": 1892
+      "startMs": 1526,
+      "endMs": 1902,
+      "timestampMs": 1526
     },
     {
       "text": "In",
-      "startMs": 2364,
-      "endMs": 2552,
-      "timestampMs": 2364
+      "startMs": 1902,
+      "endMs": 2052,
+      "timestampMs": 1902
     },
     {
-      "text": "2025:",
-      "startMs": 2552,
-      "endMs": 3024,
-      "timestampMs": 2552
+      "text": "2011:",
+      "startMs": 2052,
+      "endMs": 2427,
+      "timestampMs": 2052
     },
     {
-      "text": "Progress",
-      "startMs": 3024,
-      "endMs": 3778,
-      "timestampMs": 3024
+      "text": "A",
+      "startMs": 2427,
+      "endMs": 2502,
+      "timestampMs": 2427
     },
     {
-      "text": "MS-32",
-      "startMs": 3778,
-      "endMs": 4250,
-      "timestampMs": 3778
+      "text": "dedication",
+      "startMs": 2502,
+      "endMs": 3253,
+      "timestampMs": 2502
     },
     {
-      "text": "is",
-      "startMs": 4250,
-      "endMs": 4439,
-      "timestampMs": 4250
-    },
-    {
-      "text": "launched",
-      "startMs": 4439,
-      "endMs": 5193,
-      "timestampMs": 4439
-    },
-    {
-      "text": "to",
-      "startMs": 5193,
-      "endMs": 5382,
-      "timestampMs": 5193
-    },
-    {
-      "text": "resupply",
-      "startMs": 5382,
-      "endMs": 6136,
-      "timestampMs": 5382
-    },
-    {
-      "text": "the",
-      "startMs": 6136,
-      "endMs": 6419,
-      "timestampMs": 6136
-    },
-    {
-      "text": "International",
-      "startMs": 6419,
-      "endMs": 7645,
-      "timestampMs": 6419
-    },
-    {
-      "text": "Space",
-      "startMs": 7645,
-      "endMs": 8117,
-      "timestampMs": 7645
-    },
-    {
-      "text": "Station.",
-      "startMs": 8117,
-      "endMs": 8871,
-      "timestampMs": 8117
-    },
-    {
-      "text": "In",
-      "startMs": 8821,
-      "endMs": 9049,
-      "timestampMs": 8821
-    },
-    {
-      "text": "1997:",
-      "startMs": 9049,
-      "endMs": 9618,
-      "timestampMs": 9049
-    },
-    {
-      "text": "NASA's",
-      "startMs": 9618,
-      "endMs": 10301,
-      "timestampMs": 9618
-    },
-    {
-      "text": "Mars",
-      "startMs": 10301,
-      "endMs": 10756,
-      "timestampMs": 10301
-    },
-    {
-      "text": "Global",
-      "startMs": 10756,
-      "endMs": 11439,
-      "timestampMs": 10756
-    },
-    {
-      "text": "Surveyor",
-      "startMs": 11439,
-      "endMs": 12349,
-      "timestampMs": 11439
-    },
-    {
-      "text": "reaches",
-      "startMs": 12349,
-      "endMs": 13145,
-      "timestampMs": 12349
-    },
-    {
-      "text": "Mars.",
-      "startMs": 13145,
-      "endMs": 13714,
-      "timestampMs": 13145
-    },
-    {
-      "text": "And",
-      "startMs": 13714,
-      "endMs": 13983,
-      "timestampMs": 13714
-    },
-    {
-      "text": "in",
-      "startMs": 13983,
-      "endMs": 14162,
-      "timestampMs": 13983
-    },
-    {
-      "text": "1971:",
-      "startMs": 14162,
-      "endMs": 14609,
-      "timestampMs": 14162
-    },
-    {
-      "text": "The",
-      "startMs": 14609,
-      "endMs": 14878,
-      "timestampMs": 14609
-    },
-    {
-      "text": "Festival",
-      "startMs": 14878,
-      "endMs": 15594,
-      "timestampMs": 14878
-    },
-    {
-      "text": "Rock",
-      "startMs": 15594,
-      "endMs": 15952,
-      "timestampMs": 15594
-    },
-    {
-      "text": "y",
-      "startMs": 15952,
-      "endMs": 16042,
-      "timestampMs": 15952
-    },
-    {
-      "text": "Ruedas",
-      "startMs": 16042,
-      "endMs": 16579,
-      "timestampMs": 16042
-    },
-    {
-      "text": "de",
-      "startMs": 16579,
-      "endMs": 16758,
-      "timestampMs": 16579
-    },
-    {
-      "text": "Avándaro",
-      "startMs": 16758,
-      "endMs": 17474,
-      "timestampMs": 16758
-    },
-    {
-      "text": "rock",
-      "startMs": 17474,
-      "endMs": 17832,
-      "timestampMs": 17474
-    },
-    {
-      "text": "festival",
-      "startMs": 17832,
-      "endMs": 18548,
-      "timestampMs": 17832
+      "text": "ceremony",
+      "startMs": 3253,
+      "endMs": 3854,
+      "timestampMs": 3253
     },
     {
       "text": "is",
-      "startMs": 18548,
-      "endMs": 18727,
-      "timestampMs": 18548
+      "startMs": 3854,
+      "endMs": 4004,
+      "timestampMs": 3854
     },
     {
       "text": "held",
-      "startMs": 18727,
-      "endMs": 19085,
-      "timestampMs": 18727
+      "startMs": 4004,
+      "endMs": 4304,
+      "timestampMs": 4004
     },
     {
-      "text": "in",
-      "startMs": 19085,
-      "endMs": 19264,
-      "timestampMs": 19085
+      "text": "at",
+      "startMs": 4304,
+      "endMs": 4454,
+      "timestampMs": 4304
     },
     {
       "text": "the",
-      "startMs": 19264,
-      "endMs": 19533,
-      "timestampMs": 19264
+      "startMs": 4454,
+      "endMs": 4680,
+      "timestampMs": 4454
     },
     {
-      "text": "State",
-      "startMs": 19533,
-      "endMs": 19980,
-      "timestampMs": 19533
+      "text": "United",
+      "startMs": 4680,
+      "endMs": 5130,
+      "timestampMs": 4680
+    },
+    {
+      "text": "States",
+      "startMs": 5130,
+      "endMs": 5580,
+      "timestampMs": 5130
+    },
+    {
+      "text": "National",
+      "startMs": 5580,
+      "endMs": 6181,
+      "timestampMs": 5580
+    },
+    {
+      "text": "September",
+      "startMs": 6181,
+      "endMs": 6857,
+      "timestampMs": 6181
+    },
+    {
+      "text": "11",
+      "startMs": 6857,
+      "endMs": 7007,
+      "timestampMs": 6857
+    },
+    {
+      "text": "Memorial",
+      "startMs": 7007,
+      "endMs": 7607,
+      "timestampMs": 7007
+    },
+    {
+      "text": "on",
+      "startMs": 7607,
+      "endMs": 7758,
+      "timestampMs": 7607
+    },
+    {
+      "text": "the",
+      "startMs": 7758,
+      "endMs": 7983,
+      "timestampMs": 7758
+    },
+    {
+      "text": "10th",
+      "startMs": 7983,
+      "endMs": 8283,
+      "timestampMs": 7983
+    },
+    {
+      "text": "anniversary",
+      "startMs": 8283,
+      "endMs": 9109,
+      "timestampMs": 8283
     },
     {
       "text": "of",
-      "startMs": 19980,
-      "endMs": 20159,
-      "timestampMs": 19980
+      "startMs": 9109,
+      "endMs": 9259,
+      "timestampMs": 9109
     },
     {
-      "text": "Mexico.",
-      "startMs": 20159,
-      "endMs": 20786,
-      "timestampMs": 20159
+      "text": "the",
+      "startMs": 9259,
+      "endMs": 9484,
+      "timestampMs": 9259
+    },
+    {
+      "text": "September",
+      "startMs": 9484,
+      "endMs": 10160,
+      "timestampMs": 9484
+    },
+    {
+      "text": "11",
+      "startMs": 10160,
+      "endMs": 10310,
+      "timestampMs": 10160
+    },
+    {
+      "text": "attacks",
+      "startMs": 10310,
+      "endMs": 10836,
+      "timestampMs": 10310
+    },
+    {
+      "text": "in",
+      "startMs": 10836,
+      "endMs": 10986,
+      "timestampMs": 10836
+    },
+    {
+      "text": "New",
+      "startMs": 10986,
+      "endMs": 11211,
+      "timestampMs": 10986
+    },
+    {
+      "text": "York",
+      "startMs": 11211,
+      "endMs": 11511,
+      "timestampMs": 11211
+    },
+    {
+      "text": "City,",
+      "startMs": 11511,
+      "endMs": 11887,
+      "timestampMs": 11511
+    },
+    {
+      "text": "and",
+      "startMs": 11887,
+      "endMs": 12112,
+      "timestampMs": 11887
+    },
+    {
+      "text": "the",
+      "startMs": 12112,
+      "endMs": 12337,
+      "timestampMs": 12112
+    },
+    {
+      "text": "memorial",
+      "startMs": 12337,
+      "endMs": 12938,
+      "timestampMs": 12337
+    },
+    {
+      "text": "opens",
+      "startMs": 12938,
+      "endMs": 13313,
+      "timestampMs": 12938
+    },
+    {
+      "text": "to",
+      "startMs": 13313,
+      "endMs": 13463,
+      "timestampMs": 13313
+    },
+    {
+      "text": "family",
+      "startMs": 13463,
+      "endMs": 13914,
+      "timestampMs": 13463
+    },
+    {
+      "text": "members.",
+      "startMs": 13914,
+      "endMs": 14514,
+      "timestampMs": 13914
+    },
+    {
+      "text": "In",
+      "startMs": 14464,
+      "endMs": 14630,
+      "timestampMs": 14464
+    },
+    {
+      "text": "2025:",
+      "startMs": 14630,
+      "endMs": 15044,
+      "timestampMs": 14630
+    },
+    {
+      "text": "Former",
+      "startMs": 15044,
+      "endMs": 15542,
+      "timestampMs": 15044
+    },
+    {
+      "text": "Brazilian",
+      "startMs": 15542,
+      "endMs": 16287,
+      "timestampMs": 15542
+    },
+    {
+      "text": "president",
+      "startMs": 16287,
+      "endMs": 17033,
+      "timestampMs": 16287
+    },
+    {
+      "text": "Jair",
+      "startMs": 17033,
+      "endMs": 17365,
+      "timestampMs": 17033
+    },
+    {
+      "text": "Bolsonaro",
+      "startMs": 17365,
+      "endMs": 18110,
+      "timestampMs": 17365
+    },
+    {
+      "text": "was",
+      "startMs": 18110,
+      "endMs": 18359,
+      "timestampMs": 18110
+    },
+    {
+      "text": "sentenced",
+      "startMs": 18359,
+      "endMs": 19105,
+      "timestampMs": 18359
+    },
+    {
+      "text": "to",
+      "startMs": 19105,
+      "endMs": 19271,
+      "timestampMs": 19105
+    },
+    {
+      "text": "27",
+      "startMs": 19271,
+      "endMs": 19436,
+      "timestampMs": 19271
+    },
+    {
+      "text": "years",
+      "startMs": 19436,
+      "endMs": 19851,
+      "timestampMs": 19436
+    },
+    {
+      "text": "in",
+      "startMs": 19851,
+      "endMs": 20016,
+      "timestampMs": 19851
+    },
+    {
+      "text": "prison",
+      "startMs": 20016,
+      "endMs": 20514,
+      "timestampMs": 20016
+    },
+    {
+      "text": "for",
+      "startMs": 20514,
+      "endMs": 20762,
+      "timestampMs": 20514
+    },
+    {
+      "text": "his",
+      "startMs": 20762,
+      "endMs": 21011,
+      "timestampMs": 20762
+    },
+    {
+      "text": "involvement",
+      "startMs": 21011,
+      "endMs": 21922,
+      "timestampMs": 21011
+    },
+    {
+      "text": "in",
+      "startMs": 21922,
+      "endMs": 22088,
+      "timestampMs": 21922
+    },
+    {
+      "text": "a",
+      "startMs": 22088,
+      "endMs": 22171,
+      "timestampMs": 22088
+    },
+    {
+      "text": "coup",
+      "startMs": 22171,
+      "endMs": 22502,
+      "timestampMs": 22171
+    },
+    {
+      "text": "plot.",
+      "startMs": 22502,
+      "endMs": 22917,
+      "timestampMs": 22502
+    },
+    {
+      "text": "And",
+      "startMs": 22917,
+      "endMs": 23168,
+      "timestampMs": 22917
+    },
+    {
+      "text": "in",
+      "startMs": 23168,
+      "endMs": 23336,
+      "timestampMs": 23168
+    },
+    {
+      "text": "1995:",
+      "startMs": 23336,
+      "endMs": 23755,
+      "timestampMs": 23336
+    },
+    {
+      "text": "Mir",
+      "startMs": 23755,
+      "endMs": 24006,
+      "timestampMs": 23755
+    },
+    {
+      "text": "EO-19,",
+      "startMs": 24006,
+      "endMs": 24509,
+      "timestampMs": 24006
+    },
+    {
+      "text": "the",
+      "startMs": 24509,
+      "endMs": 24761,
+      "timestampMs": 24509
+    },
+    {
+      "text": "first",
+      "startMs": 24761,
+      "endMs": 25180,
+      "timestampMs": 24761
+    },
+    {
+      "text": "expedition",
+      "startMs": 25180,
+      "endMs": 26018,
+      "timestampMs": 25180
+    },
+    {
+      "text": "to",
+      "startMs": 26018,
+      "endMs": 26186,
+      "timestampMs": 26018
+    },
+    {
+      "text": "the",
+      "startMs": 26186,
+      "endMs": 26438,
+      "timestampMs": 26186
+    },
+    {
+      "text": "Russian",
+      "startMs": 26438,
+      "endMs": 27024,
+      "timestampMs": 26438
+    },
+    {
+      "text": "space",
+      "startMs": 27024,
+      "endMs": 27443,
+      "timestampMs": 27024
+    },
+    {
+      "text": "station",
+      "startMs": 27443,
+      "endMs": 28030,
+      "timestampMs": 27443
+    },
+    {
+      "text": "Mir",
+      "startMs": 28030,
+      "endMs": 28282,
+      "timestampMs": 28030
+    },
+    {
+      "text": "launched",
+      "startMs": 28282,
+      "endMs": 28952,
+      "timestampMs": 28282
+    },
+    {
+      "text": "on",
+      "startMs": 28952,
+      "endMs": 29120,
+      "timestampMs": 28952
+    },
+    {
+      "text": "an",
+      "startMs": 29120,
+      "endMs": 29288,
+      "timestampMs": 29120
+    },
+    {
+      "text": "American",
+      "startMs": 29288,
+      "endMs": 29958,
+      "timestampMs": 29288
+    },
+    {
+      "text": "Space",
+      "startMs": 29958,
+      "endMs": 30377,
+      "timestampMs": 29958
+    },
+    {
+      "text": "Shuttle,",
+      "startMs": 30377,
+      "endMs": 31048,
+      "timestampMs": 30377
+    },
+    {
+      "text": "returned",
+      "startMs": 31048,
+      "endMs": 31719,
+      "timestampMs": 31048
+    },
+    {
+      "text": "to",
+      "startMs": 31719,
+      "endMs": 31886,
+      "timestampMs": 31719
+    },
+    {
+      "text": "Earth",
+      "startMs": 31886,
+      "endMs": 32306,
+      "timestampMs": 31886
+    },
+    {
+      "text": "after",
+      "startMs": 32306,
+      "endMs": 32725,
+      "timestampMs": 32306
+    },
+    {
+      "text": "approximately",
+      "startMs": 32725,
+      "endMs": 33814,
+      "timestampMs": 32725
+    },
+    {
+      "text": "75",
+      "startMs": 33814,
+      "endMs": 33982,
+      "timestampMs": 33814
+    },
+    {
+      "text": "days",
+      "startMs": 33982,
+      "endMs": 34317,
+      "timestampMs": 33982
+    },
+    {
+      "text": "in",
+      "startMs": 34317,
+      "endMs": 34485,
+      "timestampMs": 34317
+    },
+    {
+      "text": "space.",
+      "startMs": 34485,
+      "endMs": 34988,
+      "timestampMs": 34485
     }
   ]
 }

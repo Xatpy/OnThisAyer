@@ -78,6 +78,44 @@ const HIGH_IMPACT_KEYWORDS = [
   'berlin wall', 'fall of the berlin wall', 'eiffel tower', 'statue of liberty'
 ];
 
+const MEGA_HISTORICAL_KEYWORDS = [
+  'september 11 attacks', 'world trade center', 'twin towers',
+  'pearl harbor', 'd-day', 'normandy landings', 'operation overlord', 'hiroshima', 'nagasaki', 'atomic bomb',
+  'holocaust', 'auschwitz', 'fall of the berlin wall',
+  'assassination of john f. kennedy', 'john f. kennedy', 'jfk',
+  'assassination of martin luther king', 'assassination of abraham lincoln', 'assassination of archduke',
+  'chernobyl disaster', 'chernobyl', 'sinking of the titanic', 'challenger disaster',
+  'apollo 11', 'moon landing', 'first man on the moon', 'first man in space', 'yuri gagarin'
+];
+
+const HIGH_IMPACT_HISTORICAL_KEYWORDS = [
+  // Terrorism & conflicts
+  '9/11 attacks', 'al-qaeda', 'al qaeda', 'terrorist attack', 'terrorism', 'pentagon attack',
+  // World Wars & major conflicts
+  'world war', 'nuclear bomb', 'genocide', 'vietnam war', 'cold war',
+  'cuban missile crisis', 'korean war', 'falklands war', 'gulf war',
+  'invasion of iraq', 'invasion of poland',
+  // Historic assassinations & leaders
+  'assassination of', 'assassinated', 'martin luther king',
+  'abraham lincoln', 'mahatma gandhi', 'nelson mandela', 'apartheid',
+  // Major disasters
+  'fukushima', 'hindenburg', 'columbia disaster',
+  'titanic sank', 'bhopal disaster', 'deepwater horizon', 'hurricane katrina',
+  // Pandemics
+  'covid-19', 'coronavirus pandemic', 'spanish flu',
+  // Civil rights & political transformation
+  'civil rights act', 'suffrage', 'emancipation', 'abolition of slavery', 'rosa parks',
+  // Political upheavals
+  'fall of the soviet union', 'dissolution of the soviet',
+  'cuban revolution', 'french revolution', 'russian revolution',
+  'tiananmen square', 'arab spring',
+  // Foundations
+  'declaration of independence', 'un charter', 'universal declaration of human rights',
+  // Scientific breakthroughs
+  'penicillin', 'theory of relativity', 'albert einstein',
+  'double helix', 'human genome', 'first heart transplant'
+];
+
 const LOW_IMPACT_NOISE = [
   'treaty of', 'decree', 'synod', 'bishop', 'diocese', 'parliament passes', 'act of parliament',
   'referendum on', 'tax on', 'tariffs', 'clashes between', 'district', 'municipality', 'commune',
@@ -88,8 +126,11 @@ const LOW_IMPACT_NOISE = [
 ];
 
 export function categorizeEvent(text, pages = []) {
-  const fullText = (text + ' ' + pages.map(p => (p.title || '') + ' ' + (p.description || '') + ' ' + (p.extract || '')).join(' ')).toLowerCase();
+  const fullText = (text + ' ' + pages.map(p => ((p.titles?.normalized || p.title || '') + ' ' + (p.description || '') + ' ' + (p.extract || '')).replace(/_/g, ' ')).join(' ')).toLowerCase();
   
+  if (/(september 11|world trade center|twin towers|terroris|al-qaeda|al qaeda|president|king|queen|treaty|independence|revolution|war |battle|peace|constitution|parliament|election|empire|monarch|berlin wall|holocaust|auschwitz|pearl harbor|d-day|assassin|soviet|kennedy|jfk)/i.test(fullText)) {
+    return { id: 'history', name: 'Historia y Mundo', icon: '🏛️' };
+  }
   if (/(space|nasa|astronom|moon|mars|planet|satellite|rocket|telescope|physic|chemist|biolog|medic|invent|patent|comput|software|apple|microsoft|google|internet|web|ai |robot|aviation|flight|plane|ipod|iphone|nintendo|playstation)/i.test(fullText)) {
     return { id: 'science_tech', name: 'Ciencia y Tecnología', icon: '🚀' };
   }
@@ -104,9 +145,6 @@ export function categorizeEvent(text, pages = []) {
   }
   if (/(archaeolog|monument|painting|sculpture|novel|book|author|writer|literature|nobel|poetry|museum)/i.test(fullText)) {
     return { id: 'culture', name: 'Cultura y Letras', icon: '📚' };
-  }
-  if (/(president|king|queen|treaty|independence|revolution|war |battle|peace|constitution|parliament|election|empire|monarch|berlin wall)/i.test(fullText)) {
-    return { id: 'history', name: 'Historia y Mundo', icon: '🏛️' };
   }
   return { id: 'general', name: 'Hito Histórico', icon: '✨' };
 }
@@ -146,25 +184,58 @@ function scoreImage(url, pageTitle = '', pageDesc = '') {
   return 3;
 }
 
-export function calculateMarketingScore(eventText, pages = [], year = 2000, maxImageScore = 0) {
+export function calculateMarketingScore(eventText, pages = [], year = 2000, maxImageScore = 0, isFeatured = false) {
   if (maxImageScore < 4) return 0;
 
   let score = 20;
-  const fullText = (eventText + ' ' + pages.map(p => (p.title || '') + ' ' + (p.description || '') + ' ' + (p.extract || '')).join(' ')).toLowerCase();
+  const fullText = (eventText + ' ' + pages.map(p => ((p.titles?.normalized || p.title || '') + ' ' + (p.description || '') + ' ' + (p.extract || '')).replace(/_/g, ' ')).join(' ')).toLowerCase();
 
   if (year >= 1975) score += 30;
   else if (year >= 1950) score += 20;
   else if (year >= 1900) score += 10;
   else score -= 15;
 
-  for (const kw of HIGH_IMPACT_KEYWORDS) {
+  if (isFeatured) {
+    score += 20;
+  }
+
+  let matchedMega = false;
+  for (const kw of MEGA_HISTORICAL_KEYWORDS) {
     if (fullText.includes(kw)) {
-      score += 45;
+      score += 75;
+      matchedMega = true;
       break;
     }
   }
 
-  if (/(cinema|movie|film|album|song|singer|band|actor|apple|space|nasa|game|nintendo|playstation|olympic|world cup|nba|f1|beatles|queen|quarrymen)/i.test(fullText)) {
+  // Mega historical events of the 20th century (1900-1974) shouldn't be penalized against modern routine events
+  if (matchedMega && year >= 1900 && year < 1975) {
+    score += (30 - (year >= 1950 ? 20 : 10));
+  }
+
+  let matchedHistorical = false;
+  if (!matchedMega) {
+    for (const kw of HIGH_IMPACT_HISTORICAL_KEYWORDS) {
+      if (fullText.includes(kw)) {
+        score += 55;
+        matchedHistorical = true;
+        break;
+      }
+    }
+  }
+
+  let matchedPop = false;
+  if (!matchedMega && !matchedHistorical) {
+    for (const kw of HIGH_IMPACT_KEYWORDS) {
+      if (fullText.includes(kw)) {
+        score += 45;
+        matchedPop = true;
+        break;
+      }
+    }
+  }
+
+  if (matchedMega || matchedHistorical || matchedPop || /(cinema|movie|film|album|song|singer|band|actor|apple|space|nasa|game|nintendo|playstation|olympic|world cup|nba|f1|beatles|queen|quarrymen|world war|terroris|tragedy|disaster|revolution|assassin)/i.test(fullText)) {
     score += 20;
   }
 
@@ -278,7 +349,7 @@ export async function fetchWikipediaDay(month, day) {
     if (collectedImages.length === 0 || maxImgScore < 4) continue;
 
     const category = categorizeEvent(item.text, pages);
-    const marketingScore = calculateMarketingScore(item.text, pages, item.year, maxImgScore);
+    const marketingScore = calculateMarketingScore(item.text, pages, item.year, maxImgScore, !!item.isFeatured);
 
     if (marketingScore < 20) continue;
 

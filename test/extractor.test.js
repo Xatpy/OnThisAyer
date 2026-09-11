@@ -74,6 +74,23 @@ describe('Extractor Core Tests', () => {
       const scoreLow = calculateMarketingScore('A local municipal meeting takes place', [], 1850, 4);
       assert.ok(scoreHigh > scoreLow);
     });
+
+    it('scores major historical events like 9/11 with top priority', () => {
+      const score911 = calculateMarketingScore(
+        'Nineteen members of al-Qaeda execute the September 11 attacks, a series of coordinated terrorist attacks in New York City and Washington, D.C.',
+        [{ title: 'September 11 attacks', description: '2001 terror attacks in the U.S.' }],
+        2001,
+        10
+      );
+      const scoreRoutineSpace = calculateMarketingScore(
+        'Progress MS-32 is launched to resupply the International Space Station.',
+        [{ title: 'Progress MS-32', description: 'Russian resupply flight' }],
+        2025,
+        10
+      );
+      assert.ok(score911 >= 140, `Expected score911 >= 140, got ${score911}`);
+      assert.ok(score911 > scoreRoutineSpace, `Expected 9/11 (${score911}) to outscore routine space mission (${scoreRoutineSpace})`);
+    });
   });
 
   describe('Serialized Curation Writes', () => {

@@ -8,6 +8,482 @@
   "eventsWithImages": 10,
   "events": [
     {
+      "id": "06-06-1944-53ccaa8b",
+      "year": 1944,
+      "text": "World War II: Operation Overlord, the largest amphibious military operation in history, began with Allied troops landing on the beaches of Normandy in France.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 180,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+        "width": 798,
+        "height": 544,
+        "title": "World War II",
+        "description": "Global conflict from 1939 to 1945",
+        "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+          "width": 798,
+          "height": 544,
+          "title": "World War II",
+          "description": "Global conflict from 1939 to 1945",
+          "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/NormandySupply_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/NormandySupply_edit.jpg/330px-NormandySupply_edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "normandysupply_edit.jpg",
+          "width": 2804,
+          "height": 2150,
+          "title": "Operation Overlord",
+          "description": "World War II operation in France",
+          "extract": "Operation Overlord was the codename for the Battle of Normandy, the Allied operation that launched the successful liberation of German-occupied Western Europe during World War II. The operation was launched on 6 June 1944 (D-Day) with the Normandy landings. A 1,200-plane airborne assault preceded an amphibious assault involving more than 5,000 vessels. Nearly 160,000 troops crossed the English Channel on 6 June, and more than two million Allied troops were in France by the end of August.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Overlord",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/UN_Fight_for_Freedom_Leslie_Ragan_1943_poster_-_restoration1.jpg/3840px-UN_Fight_for_Freedom_Leslie_Ragan_1943_poster_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/UN_Fight_for_Freedom_Leslie_Ragan_1943_poster_-_restoration1.jpg/330px-UN_Fight_for_Freedom_Leslie_Ragan_1943_poster_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "un_fight_for_freedom_leslie_ragan_1943_poster_-_restoration1.jpg",
+          "width": 4745,
+          "height": 6708,
+          "title": "Allies of World War II",
+          "description": "Military coalition in World War II",
+          "extract": "The Allies, or Allied powers, formally referred to as the United Nations from 1942, were an international military coalition formed during World War II (1939–1945) to oppose the Axis powers. Its principal members were the \"Big Four\"—the United Kingdom, the Soviet Union, the United States, and China.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Allies_of_World_War_II",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "World War II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_II",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "06-06-2017-768cd6c4",
+      "year": 2017,
+      "text": "Syrian civil war: The Syrian Democratic Forces opened the Second Battle of Raqqa, the final phase of the Raqqa campaign, capturing the de facto capital of the Islamic State four months later.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 160,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bombed_out_vehicles_aleppo.jpg",
+        "width": 1210,
+        "height": 658,
+        "title": "Syrian civil war",
+        "description": "2011–2024 armed conflict in Syria",
+        "extract": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war even though clashes have continued into 2026.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bombed_out_vehicles_aleppo.jpg",
+          "width": 1210,
+          "height": 658,
+          "title": "Syrian civil war",
+          "description": "2011–2024 armed conflict in Syria",
+          "extract": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war even though clashes have continued into 2026.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg/500px-People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg/500px-People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "people's_defense_units_defending_ras_al-ayn_against_al-nusra_front_terrorists_(8).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "People's_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_(8)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rebel_rocket_artillery_%28Hama_March_2017%29.png/500px-Rebel_rocket_artillery_%28Hama_March_2017%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rebel_rocket_artillery_%28Hama_March_2017%29.png/500px-Rebel_rocket_artillery_%28Hama_March_2017%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "rebel_rocket_artillery_(hama_march_2017).png",
+          "width": 800,
+          "height": 600,
+          "title": "Rebel_rocket_artillery_(Hama_March_2017)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Syrian civil war",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "06-06-2002-0c082205",
+      "year": 2002,
+      "text": "Eastern Mediterranean event. A near-Earth asteroid estimated at ten meters in diameter explodes over the Mediterranean Sea between Greece and Libya. The explosion is estimated to have a force of 26 kilotons, slightly more powerful than the Nagasaki atomic bomb.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 160,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Levantine_Sea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Levantine_Sea.jpg/330px-Levantine_Sea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "levantine_sea.jpg",
+        "width": 627,
+        "height": 512,
+        "title": "2002 Eastern Mediterranean event",
+        "description": "Atmospheric explosion above the Mediterranean Sea, caused by small asteroid",
+        "extract": "The 2002 Eastern Mediterranean Event was a high-energy upper atmosphere explosion over the Mediterranean Sea, around 34°N 21°E on June 6, 2002. This explosion, similar in power to a small atomic bomb, has been related to a small asteroid undetected while approaching Earth. The object disintegrated as a meteor air burst over the sea, and no meteorite fragments were recovered.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2002_Eastern_Mediterranean_event",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Levantine_Sea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Levantine_Sea.jpg/330px-Levantine_Sea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "levantine_sea.jpg",
+          "width": 627,
+          "height": 512,
+          "title": "2002 Eastern Mediterranean event",
+          "description": "Atmospheric explosion above the Mediterranean Sea, caused by small asteroid",
+          "extract": "The 2002 Eastern Mediterranean Event was a high-energy upper atmosphere explosion over the Mediterranean Sea, around 34°N 21°E on June 6, 2002. This explosion, similar in power to a small atomic bomb, has been related to a small asteroid undetected while approaching Earth. The object disintegrated as a meteor air burst over the sea, and no meteorite fragments were recovered.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2002_Eastern_Mediterranean_event",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_VLT_images_the_very_faint_Near-Earth_Object_2009_FD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/The_VLT_images_the_very_faint_Near-Earth_Object_2009_FD.jpg/330px-The_VLT_images_the_very_faint_Near-Earth_Object_2009_FD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_vlt_images_the_very_faint_near-earth_object_2009_fd.jpg",
+          "width": 1000,
+          "height": 754,
+          "title": "Near-Earth object",
+          "description": "Small Solar System body with an orbit that can bring it close to Earth",
+          "extract": "A near-Earth object (NEO) is by definition any small Solar System body orbiting the Sun whose closest approach to the Sun (perihelion) is less than 1.3 times the Earth–Sun distance. This definition applies to the object's orbit around the Sun, rather than its current position, thus an object with such an orbit is considered an NEO even at times when it is far from making a close approach of Earth. If an NEO's orbit crosses the Earth's orbit, and the object is larger than 140 meters (460 ft) across, it is by definition considered a potentially hazardous object (PHO). Most known PHOs and NEOs are asteroids, but about a third of a percent are comets.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Near-Earth_object",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Atomic_blast_Nevada_Yucca_1951.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Atomic_blast_Nevada_Yucca_1951.jpg/330px-Atomic_blast_Nevada_Yucca_1951.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "atomic_blast_nevada_yucca_1951.jpg",
+          "width": 559,
+          "height": 700,
+          "title": "TNT equivalent",
+          "description": "Class of units of measurement for explosive energy",
+          "extract": "TNT equivalent is a convention for expressing energy, typically used to describe the energy released in an explosion. A ton of TNT equivalent is a unit of energy defined by convention to be 4.184 gigajoules. It is the approximate energy released in the detonation of a metric ton (megagram) of trinitrotoluene (TNT). In other words, for each gram of TNT exploded, 4.184 kilojoules of energy are released.\nThis convention intends to compare the destructiveness of an event with that of conventional explosive materials, of which TNT is a typical example, although other conventional explosives such as dynamite contain more energy.\nA related concept is the physical quantity TNT-equivalent mass, expressed in the ordinary units of mass and its multiples: kilogram (kg), megagram (Mg) or tonne (t), etc.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/TNT_equivalent",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "2002 Eastern Mediterranean event",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2002_Eastern_Mediterranean_event",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "06-06-1982-53fca34e",
+      "year": 1982,
+      "text": "Falklands War: The Royal Navy destroyer HMS Cardiff engaged and destroyed a British Army helicopter in a friendly-fire incident.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 160,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg/330px-HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "hms_broadsword_and_hermes,_1982_(iwm).jpg",
+        "width": 800,
+        "height": 628,
+        "title": "Falklands War",
+        "description": "1982 undeclared Argentina–United Kingdom war",
+        "extract": "The Falklands War was a ten-week war in the South Atlantic in 1982 between Argentina and the United Kingdom over possession of the Falkland Islands and its dependencies of South Georgia and the South Sandwich Islands. The conflict began on 2 April 1982 when Argentina invaded the Falkland Islands, followed by the invasion of South Georgia the next day. On 5 April, the British government dispatched a naval task force to regain possession of the islands. The conflict lasted 74 days and ended with an Argentine surrender on 14 June, which formally returned possession to Britain. In total, 649 Argentine military personnel, 255 British military personnel, and 3 Falkland Islanders were killed during the hostilities.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Falklands_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg/330px-HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hms_broadsword_and_hermes,_1982_(iwm).jpg",
+          "width": 800,
+          "height": 628,
+          "title": "Falklands War",
+          "description": "1982 undeclared Argentina–United Kingdom war",
+          "extract": "The Falklands War was a ten-week war in the South Atlantic in 1982 between Argentina and the United Kingdom over possession of the Falkland Islands and its dependencies of South Georgia and the South Sandwich Islands. The conflict began on 2 April 1982 when Argentina invaded the Falkland Islands, followed by the invasion of South Georgia the next day. On 5 April, the British government dispatched a naval task force to regain possession of the islands. The conflict lasted 74 days and ended with an Argentine surrender on 14 June, which formally returned possession to Britain. In total, 649 Argentine military personnel, 255 British military personnel, and 3 Falkland Islanders were killed during the hostilities.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Falklands_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HMS_Cardiff_%28D108%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/HMS_Cardiff_%28D108%29_1.jpg/330px-HMS_Cardiff_%28D108%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "hms_cardiff_(d108)_1.jpg",
+          "width": 1110,
+          "height": 832,
+          "title": "HMS Cardiff (D108)",
+          "description": "Type 42 destroyer",
+          "extract": "HMS Cardiff was a British Type 42 destroyer and the third ship of the Royal Navy to be named in honour of the Welsh capital city of Cardiff.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/HMS_Cardiff_(D108)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/GazelleAH1_Ahlhorn_May1983.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/GazelleAH1_Ahlhorn_May1983.jpeg/330px-GazelleAH1_Ahlhorn_May1983.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gazelleah1_ahlhorn_may1983.jpeg",
+          "width": 2850,
+          "height": 1890,
+          "title": "1982 British Army Gazelle friendly fire incident",
+          "description": "Helicopter downing in the Falklands War",
+          "extract": "On 6 June 1982, during the Falklands War, the British Royal Navy Type 42 destroyer HMS Cardiff engaged and destroyed a British Army Westland Gazelle helicopter, serial number XX377, in a friendly fire incident, killing all four occupants. Cardiff, on the lookout for aircraft flying supplies to the Argentine forces occupying the Falkland Islands, misidentified the helicopter as an enemy Lockheed C-130 Hercules. The loss of the helicopter was initially blamed on enemy action, but a subsequent inquiry found a missile from the Cardiff to be the cause.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1982_British_Army_Gazelle_friendly_fire_incident",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Falklands War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Falklands_War",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "06-06-2023-2378142b",
+      "year": 2023,
+      "text": "Russo-Ukrainian war: The Kakhovka Dam is destroyed.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "anti-terrorist_operation_in_eastern_ukraine_(war_ukraine)_(27843153986).jpg",
+        "width": 2496,
+        "height": 1664,
+        "title": "Russo-Ukrainian war",
+        "description": "Ongoing conflict since 2014",
+        "extract": "The Russo-Ukrainian war began in February 2014 and is ongoing. Following Ukraine's Revolution of Dignity, Russia occupied Crimea and annexed it from Ukraine. It then supported Russian separatist armed groups who started a war in the eastern Donbas region against Ukraine's military. In 2018, Ukraine declared the region to be occupied by Russia. The first eight years of conflict also involved naval incidents and cyberwarfare. In February 2022, Russia launched a full-scale invasion of Ukraine and began occupying more of the country, starting the current phase of the war, the largest conflict in Europe since World War II. The war has resulted in a refugee crisis and hundreds of thousands of deaths.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "anti-terrorist_operation_in_eastern_ukraine_(war_ukraine)_(27843153986).jpg",
+          "width": 2496,
+          "height": 1664,
+          "title": "Russo-Ukrainian war",
+          "description": "Ongoing conflict since 2014",
+          "extract": "The Russo-Ukrainian war began in February 2014 and is ongoing. Following Ukraine's Revolution of Dignity, Russia occupied Crimea and annexed it from Ukraine. It then supported Russian separatist armed groups who started a war in the eastern Donbas region against Ukraine's military. In 2018, Ukraine declared the region to be occupied by Russia. The first eight years of conflict also involved naval incidents and cyberwarfare. In February 2022, Russia launched a full-scale invasion of Ukraine and began occupying more of the country, starting the current phase of the war, the largest conflict in Europe since World War II. The war has resulted in a refugee crisis and hundreds of thousands of deaths.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%D0%93%D1%80%D0%B5%D0%B1%D0%BB%D1%8F_%D1%96_%D0%9A%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1_03.jpg/3840px-%D0%93%D1%80%D0%B5%D0%B1%D0%BB%D1%8F_%D1%96_%D0%9A%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%D0%93%D1%80%D0%B5%D0%B1%D0%BB%D1%8F_%D1%96_%D0%9A%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1_03.jpg/330px-%D0%93%D1%80%D0%B5%D0%B1%D0%BB%D1%8F_%D1%96_%D0%9A%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "гребля_і_каховська_гес_03.jpg",
+          "width": 4288,
+          "height": 2848,
+          "title": "Kakhovka Dam",
+          "description": "Dam and power plant in Kherson, Ukraine",
+          "extract": "The Kakhovka Dam was a dam on the Dnieper River in Kherson Oblast, Ukraine, completed in 1956 and destroyed in 2023, which provided water for the Kakhovka Hydroelectric Station. The primary purposes of the dam were hydroelectric power generation, irrigation, and navigation. It was the sixth and last dam in the Dnieper reservoir cascade.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kakhovka_Dam",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Flooding_in_Kherson_after_the_destruction_of_the_Kakhovka_Dam_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Flooding_in_Kherson_after_the_destruction_of_the_Kakhovka_Dam_2023.jpg/330px-Flooding_in_Kherson_after_the_destruction_of_the_Kakhovka_Dam_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "flooding_in_kherson_after_the_destruction_of_the_kakhovka_dam_2023.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Destruction of the Kakhovka Dam",
+          "description": "2023 dam breach in Ukraine",
+          "extract": "The Kakhovka Dam was breached in the early hours of 6 June 2023, causing extensive flooding along the lower Dnieper river, also called the Dnipro, in Kherson Oblast. The dam was under the control of the Russian military, which had seized it in the early days of the Russian invasion of Ukraine. Many experts concluded that Russian forces likely blew up a segment of the dam to hinder the planned Ukrainian counter-offensive, and Ukraine specifically blamed Russia's 205th Separate Guards Motor Rifle Brigade. Russian authorities have denied the accusations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Destruction_of_the_Kakhovka_Dam",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Russo-Ukrainian war",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-06-1985-b9cb0c29",
+      "year": 1985,
+      "text": "The remains of Josef Mengele, a Nazi physician notorious for performing human experiments on Auschwitz inmates, were exhumed in Embu das Artes, Brazil.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Josef_Mengele%2C_Auschwitz._Album_H%C3%B6cker_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Josef_Mengele%2C_Auschwitz._Album_H%C3%B6cker_%28cropped%29.jpg/330px-Josef_Mengele%2C_Auschwitz._Album_H%C3%B6cker_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "josef_mengele,_auschwitz._album_höcker_(cropped).jpg",
+        "width": 605,
+        "height": 838,
+        "title": "Josef Mengele",
+        "description": "Nazi SS doctor at Auschwitz (1911–1979)",
+        "extract": "Josef Mengele, often dubbed the \"Angel of Death\", was a German military officer and physician during World War II at the Soviet front and then at Auschwitz during the Holocaust. He conducted research and experiments on prisoners at the Auschwitz II-Birkenau concentration camp, where he was a member of the team of doctors who selected victims to be murdered in the gas chambers.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Josef_Mengele",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Josef_Mengele%2C_Auschwitz._Album_H%C3%B6cker_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Josef_Mengele%2C_Auschwitz._Album_H%C3%B6cker_%28cropped%29.jpg/330px-Josef_Mengele%2C_Auschwitz._Album_H%C3%B6cker_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "josef_mengele,_auschwitz._album_höcker_(cropped).jpg",
+          "width": 605,
+          "height": 838,
+          "title": "Josef Mengele",
+          "description": "Nazi SS doctor at Auschwitz (1911–1979)",
+          "extract": "Josef Mengele, often dubbed the \"Angel of Death\", was a German military officer and physician during World War II at the Soviet front and then at Auschwitz during the Holocaust. He conducted research and experiments on prisoners at the Auschwitz II-Birkenau concentration camp, where he was a member of the team of doctors who selected victims to be murdered in the gas chambers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Josef_Mengele",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Pressurization_experiments_%28Nazi_human_experimentation%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Pressurization_experiments_%28Nazi_human_experimentation%29.jpg/330px-Pressurization_experiments_%28Nazi_human_experimentation%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pressurization_experiments_(nazi_human_experimentation).jpg",
+          "width": 680,
+          "height": 1117,
+          "title": "Nazi human experimentation",
+          "description": "Series of human experiments in Nazi Germany",
+          "extract": "Nazi Germany conducted medical experiments on prisoners in its concentration camps mainly between 1942 and 1945. There were 15,754 documented victims, of various nationalities and ages, although the true number is believed to be more. About a quarter of documented victims were killed and survivors generally experienced severe permanent injuries.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Nazi_human_experimentation",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Auschwitz_I_%2822_May_2010%29_b.jpg/3840px-Auschwitz_I_%2822_May_2010%29_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Auschwitz_I_%2822_May_2010%29_b.jpg/330px-Auschwitz_I_%2822_May_2010%29_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "auschwitz_i_(22_may_2010)_b.jpg",
+          "width": 3872,
+          "height": 2592,
+          "title": "Auschwitz concentration camp",
+          "description": "Nazi concentration camp in Poland (1940–1945)",
+          "extract": "Auschwitz, also known as Oświęcim, was a complex of over 40 concentration and extermination camps operated by Nazi Germany in occupied Poland during World War II and the Holocaust. It consisted of Auschwitz I, the main camp (Stammlager) in Oświęcim; Auschwitz II-Birkenau, a concentration and extermination camp with gas chambers, Auschwitz III-Monowitz, a labour camp for the chemical conglomerate IG Farben, and dozens of subcamps.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Josef Mengele",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Josef_Mengele",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "06-06-1971-fc7cd6e1",
+      "year": 1971,
+      "text": "Vietnam War: Australian forces attacked a heavily fortified North Vietnamese base camp at the Battle of Long Khánh.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "u.s._army_uh-1h_hueys_insert_arvn_troops_at_khâm_đức,_vietnam,_12_july_1970_(79431435).jpg",
+        "width": 1085,
+        "height": 664,
+        "title": "Vietnam War",
+        "description": "1955–1975 war in Southeast Asia",
+        "extract": "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the Indochina wars and a proxy war of the Cold War. The Vietnam War was one of the postcolonial wars of national liberation, a theater in the Cold War, and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965 until US forces were withdrawn in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Vietnam_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "u.s._army_uh-1h_hueys_insert_arvn_troops_at_khâm_đức,_vietnam,_12_july_1970_(79431435).jpg",
+          "width": 1085,
+          "height": 664,
+          "title": "Vietnam War",
+          "description": "1955–1975 war in Southeast Asia",
+          "extract": "The Vietnam War was an armed conflict in Vietnam, Laos, and Cambodia fought between North Vietnam and South Vietnam and their allies. North Vietnam was supported by the Soviet Union and China, while South Vietnam was supported by the United States and other anti-communist nations. The conflict was the second of the Indochina wars and a proxy war of the Cold War. The Vietnam War was one of the postcolonial wars of national liberation, a theater in the Cold War, and a civil war, with civil warfare a defining feature from the outset. Direct US military involvement escalated from 1965 until US forces were withdrawn in 1973. The fighting spilled into the Laotian and Cambodian civil wars, which ended with all three countries becoming communist in 1975.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vietnam_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/8/81/Australian_Centurion_Operation_Overlord_1971_%28AWM_FOD710305VN%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/81/Australian_Centurion_Operation_Overlord_1971_%28AWM_FOD710305VN%29.jpg/330px-Australian_Centurion_Operation_Overlord_1971_%28AWM_FOD710305VN%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "australian_centurion_operation_overlord_1971_(awm_fod710305vn).jpg",
+          "width": 387,
+          "height": 257,
+          "title": "Battle of Long Khánh",
+          "description": "1971 Vietnam War military engagement",
+          "extract": "The Battle of Long Khanh was fought during the Vietnam War between elements of 1st Australian Task Force and the Viet Cong (VC) and People's Army of Vietnam (PAVN) during Operation Overlord. The fighting saw Australian infantry from 3rd Battalion, Royal Australian Regiment attack a heavily fortified communist base camp in Long Khanh Province, while Centurion tanks providing close support crushed many bunkers and their occupants. Regardless, the VC fought hard to delay the Australian advance and although the bunker system was subsequently captured, along with a second system further south, the Australians suffered a number of casualties and the loss of a UH-1 Iroquois helicopter. With the Australians unable to concentrate sufficient combat power to achieve a decisive result, the bulk of the VC/PAVN force successfully withdrew intact, although they probably sustained heavy casualties in the process.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Long_Kh%C3%A1nh",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Pavnbattle.jpg/500px-Pavnbattle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Pavnbattle.jpg/500px-Pavnbattle.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "pavnbattle.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Pavnbattle",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vietnam_War",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Vietnam War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Vietnam_War",
+      "relatedPagesCount": 3
+    },
+    {
       "id": "06-06-2024-fcc6e3e4",
       "year": 2024,
       "text": "The launch of SpaceX Starship integrated flight test 4 (IFT-4)",
@@ -52,545 +528,49 @@
       "relatedPagesCount": 1
     },
     {
-      "id": "06-06-2023-2378142b",
-      "year": 2023,
-      "text": "Russo-Ukrainian war: The Kakhovka Dam is destroyed.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 130,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "anti-terrorist_operation_in_eastern_ukraine_(war_ukraine)_(27843153986).jpg",
-        "width": 2496,
-        "height": 1664,
-        "title": "Russo-Ukrainian war",
-        "description": "Ongoing conflict since 2014",
-        "extract": "The Russo-Ukrainian war began in February 2014 and is ongoing. Following Ukraine's Revolution of Dignity, Russia occupied Crimea and annexed it from Ukraine. It then supported Russian separatist armed groups who started a war in the eastern Donbas region against Ukraine's military. In 2018, Ukraine declared the region to be occupied by Russia. The first eight years of conflict also involved naval incidents and cyberwarfare. In February 2022, Russia launched a full-scale invasion of Ukraine and began occupying more of the country, starting the current phase of the war, the largest conflict in Europe since World War II. The war has resulted in a refugee crisis and hundreds of thousands of deaths.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg/330px-Anti-terrorist_operation_in_eastern_Ukraine_%28War_Ukraine%29_%2827843153986%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "anti-terrorist_operation_in_eastern_ukraine_(war_ukraine)_(27843153986).jpg",
-          "width": 2496,
-          "height": 1664,
-          "title": "Russo-Ukrainian war",
-          "description": "Ongoing conflict since 2014",
-          "extract": "The Russo-Ukrainian war began in February 2014 and is ongoing. Following Ukraine's Revolution of Dignity, Russia occupied Crimea and annexed it from Ukraine. It then supported Russian separatist armed groups who started a war in the eastern Donbas region against Ukraine's military. In 2018, Ukraine declared the region to be occupied by Russia. The first eight years of conflict also involved naval incidents and cyberwarfare. In February 2022, Russia launched a full-scale invasion of Ukraine and began occupying more of the country, starting the current phase of the war, the largest conflict in Europe since World War II. The war has resulted in a refugee crisis and hundreds of thousands of deaths.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%D0%93%D1%80%D0%B5%D0%B1%D0%BB%D1%8F_%D1%96_%D0%9A%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1_03.jpg/3840px-%D0%93%D1%80%D0%B5%D0%B1%D0%BB%D1%8F_%D1%96_%D0%9A%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%D0%93%D1%80%D0%B5%D0%B1%D0%BB%D1%8F_%D1%96_%D0%9A%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1_03.jpg/330px-%D0%93%D1%80%D0%B5%D0%B1%D0%BB%D1%8F_%D1%96_%D0%9A%D0%B0%D1%85%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0_%D0%93%D0%95%D0%A1_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "гребля_і_каховська_гес_03.jpg",
-          "width": 4288,
-          "height": 2848,
-          "title": "Kakhovka Dam",
-          "description": "Dam and power plant in Kherson, Ukraine",
-          "extract": "The Kakhovka Dam was a dam on the Dnieper River in Kherson Oblast, Ukraine, completed in 1956 and destroyed in 2023, which provided water for the Kakhovka Hydroelectric Station. The primary purposes of the dam were hydroelectric power generation, irrigation, and navigation. It was the sixth and last dam in the Dnieper reservoir cascade.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Kakhovka_Dam",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Flooding_in_Kherson_after_the_destruction_of_the_Kakhovka_Dam_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flooding_in_Kherson_after_the_destruction_of_the_Kakhovka_Dam_2023.jpg/330px-Flooding_in_Kherson_after_the_destruction_of_the_Kakhovka_Dam_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "flooding_in_kherson_after_the_destruction_of_the_kakhovka_dam_2023.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Destruction of the Kakhovka Dam",
-          "description": "2023 dam breach in Ukraine",
-          "extract": "The Kakhovka Dam was breached in the early hours of 6 June 2023, causing extensive flooding along the lower Dnieper river, also called the Dnipro, in Kherson Oblast. The dam was under the control of the Russian military, which had seized it in the early days of the Russian invasion of Ukraine. Many experts concluded that Russian forces likely blew up a segment of the dam to hinder the planned Ukrainian counter-offensive, and Ukraine specifically blamed Russia's 205th Separate Guards Motor Rifle Brigade. Russian authorities have denied the accusations.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Destruction_of_the_Kakhovka_Dam",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "sports",
-        "name": "Deportes",
-        "icon": "🏆"
-      },
-      "mainPageTitle": "Russo-Ukrainian war",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Russo-Ukrainian_war",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "06-06-1992-33bf3181",
-      "year": 1992,
-      "text": "Copa Airlines Flight 201 breaks apart in mid-air and crashes into the Darién Gap in Panama, killing all 47 aboard.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 1,
-      "imageScore": 10,
-      "marketingScore": 85,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Copa_Airlines_Boeing_737-204Adv_HP-1205-CMP_at_Miami_International_Airport_on_26_April_1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Copa_Airlines_Boeing_737-204Adv_HP-1205-CMP_at_Miami_International_Airport_on_26_April_1992.jpg/330px-Copa_Airlines_Boeing_737-204Adv_HP-1205-CMP_at_Miami_International_Airport_on_26_April_1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "copa_airlines_boeing_737-204adv_hp-1205-cmp_at_miami_international_airport_on_26_april_1992.jpg",
-        "width": 2604,
-        "height": 1346,
-        "title": "Copa Airlines Flight 201",
-        "description": "1992 aviation accident in Panama",
-        "extract": "Copa Airlines Flight 201 was a regularly scheduled passenger flight from Tocumen International Airport in Panama City, Panama, to Alfonso Bonilla Aragón International Airport in Cali, Colombia. On 6 June 1992, the Boeing 737-200 operating the route rolled, entered a steep dive, disintegrated in mid-air, and crashed into the jungle of the Darién Gap 29 minutes after takeoff, killing all 47 people on board. The in-flight breakup was caused by faulty instrument readings and several other contributing factors, including incomplete training.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Copa_Airlines_Flight_201",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Copa_Airlines_Boeing_737-204Adv_HP-1205-CMP_at_Miami_International_Airport_on_26_April_1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Copa_Airlines_Boeing_737-204Adv_HP-1205-CMP_at_Miami_International_Airport_on_26_April_1992.jpg/330px-Copa_Airlines_Boeing_737-204Adv_HP-1205-CMP_at_Miami_International_Airport_on_26_April_1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "copa_airlines_boeing_737-204adv_hp-1205-cmp_at_miami_international_airport_on_26_april_1992.jpg",
-          "width": 2604,
-          "height": 1346,
-          "title": "Copa Airlines Flight 201",
-          "description": "1992 aviation accident in Panama",
-          "extract": "Copa Airlines Flight 201 was a regularly scheduled passenger flight from Tocumen International Airport in Panama City, Panama, to Alfonso Bonilla Aragón International Airport in Cali, Colombia. On 6 June 1992, the Boeing 737-200 operating the route rolled, entered a steep dive, disintegrated in mid-air, and crashed into the jungle of the Darién Gap 29 minutes after takeoff, killing all 47 people on board. The in-flight breakup was caused by faulty instrument readings and several other contributing factors, including incomplete training.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Copa_Airlines_Flight_201",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Copa Airlines Flight 201",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Copa_Airlines_Flight_201",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "06-06-1523-4c42ebe4",
-      "year": 1523,
-      "text": "Swedish regent Gustav Vasa is elected King of Sweden and, marking a symbolic end to the Kalmar Union, 6 June is designated the country's national day.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 85,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gustav_Vasa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gustav_Vasa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "canonicalKey": "gustav_vasa.jpg",
-        "width": 312,
-        "height": 408,
-        "title": "Gustav Vasa",
-        "description": "King of Sweden from 1523 to 1560",
-        "extract": "Gustav Eriksson Vasa, also known as Gustav I, was King of Sweden from 1523 until his death in 1560. He was previously self-recognised Protector of the Realm (Riksföreståndare) from 1521, during the Swedish War of Liberation against King Christian II of Denmark, Norway and Sweden. Gustav rose to lead this war following the Stockholm Bloodbath, where his father was executed. Gustav's election as king on 6 June 1523 and his triumphant entry into Stockholm eleven days later marked Sweden's final secession from the Kalmar Union.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Gustav_Vasa",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gustav_Vasa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gustav_Vasa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "canonicalKey": "gustav_vasa.jpg",
-          "width": 312,
-          "height": 408,
-          "title": "Gustav Vasa",
-          "description": "King of Sweden from 1523 to 1560",
-          "extract": "Gustav Eriksson Vasa, also known as Gustav I, was King of Sweden from 1523 until his death in 1560. He was previously self-recognised Protector of the Realm (Riksföreståndare) from 1521, during the Swedish War of Liberation against King Christian II of Denmark, Norway and Sweden. Gustav rose to lead this war following the Stockholm Bloodbath, where his father was executed. Gustav's election as king on 6 June 1523 and his triumphant entry into Stockholm eleven days later marked Sweden's final secession from the Kalmar Union.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Gustav_Vasa",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kungstradg_rden_%282560839047%29.jpg/3840px-Kungstradg_rden_%282560839047%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kungstradg_rden_%282560839047%29.jpg/330px-Kungstradg_rden_%282560839047%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "kungstradg_rden_(2560839047).jpg",
-          "width": 4368,
-          "height": 2912,
-          "title": "National Day of Sweden",
-          "description": "National holiday in Sweden",
-          "extract": "The National Day of Sweden is observed annually as a public holiday on 6 June. Prior to 1983, the day was celebrated only as the Swedish Flag Day. It was officially named the Swedish National Day by the Swedish parliament in 1983, and became a public holiday in 2005. The day is celebrated in honor of the election of Gustav Vasa as King of Sweden in 1523 and of the adoption of the constitutions of 1809 and 1974.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/National_Day_of_Sweden",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
-      },
-      "mainPageTitle": "Gustav Vasa",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Gustav_Vasa",
-      "relatedPagesCount": 4
-    },
-    {
-      "id": "06-06-1971-16db94ab",
-      "year": 1971,
-      "text": "Soyuz 11 is launched. The mission ends in disaster when all three cosmonauts, Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev are suffocated by uncontrolled decompression of the capsule during re-entry on 29 June.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 75,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Soviet_Union_1971_CPA_4060_stamp_%28Cosmonauts_Georgy_Dobrovolsky%2C_Vladislav_Volkov_and_Viktor_Patsayev%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Soviet_Union_1971_CPA_4060_stamp_%28Cosmonauts_Georgy_Dobrovolsky%2C_Vladislav_Volkov_and_Viktor_Patsayev%29.png/330px-The_Soviet_Union_1971_CPA_4060_stamp_%28Cosmonauts_Georgy_Dobrovolsky%2C_Vladislav_Volkov_and_Viktor_Patsayev%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "the_soviet_union_1971_cpa_4060_stamp_(cosmonauts_georgy_dobrovolsky,_vladislav_volkov_and_viktor_patsayev).png",
-        "width": 1258,
-        "height": 895,
-        "title": "Soyuz 11",
-        "description": "1971 Soviet spaceflight, first spaceflight to visit a space station, and fatal disaster",
-        "extract": "Soyuz 11 was the only crewed mission to board the world's first space station, Salyut 1. The crew – Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev – arrived at the space station on 7 June 1971, and departed on 29 June 1971. The mission ended in disaster when the crew capsule depressurised during preparations for re-entry, killing the three-person crew. The crew members of Soyuz 11 are the only humans to have died in space.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Soyuz_11",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/The_Soviet_Union_1971_CPA_4060_stamp_%28Cosmonauts_Georgy_Dobrovolsky%2C_Vladislav_Volkov_and_Viktor_Patsayev%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/The_Soviet_Union_1971_CPA_4060_stamp_%28Cosmonauts_Georgy_Dobrovolsky%2C_Vladislav_Volkov_and_Viktor_Patsayev%29.png/330px-The_Soviet_Union_1971_CPA_4060_stamp_%28Cosmonauts_Georgy_Dobrovolsky%2C_Vladislav_Volkov_and_Viktor_Patsayev%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "the_soviet_union_1971_cpa_4060_stamp_(cosmonauts_georgy_dobrovolsky,_vladislav_volkov_and_viktor_patsayev).png",
-          "width": 1258,
-          "height": 895,
-          "title": "Soyuz 11",
-          "description": "1971 Soviet spaceflight, first spaceflight to visit a space station, and fatal disaster",
-          "extract": "Soyuz 11 was the only crewed mission to board the world's first space station, Salyut 1. The crew – Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev – arrived at the space station on 7 June 1971, and departed on 29 June 1971. The mission ended in disaster when the crew capsule depressurised during preparations for re-entry, killing the three-person crew. The crew members of Soyuz 11 are the only humans to have died in space.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Soyuz_11",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9.jpg/330px-%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "георгий_добровольский.jpg",
-          "width": 700,
-          "height": 1057,
-          "title": "Georgy Dobrovolsky",
-          "description": "Soviet cosmonaut (1928–1971)",
-          "extract": "Georgy Timofeyevich Dobrovolsky was a Soviet cosmonaut who commanded the three-man crew of the Soyuz 11 spacecraft. They became the world's first space station crew aboard Salyut 1, but died of asphyxiation because of an accidentally opened valve. They were the first and only humans to have died in space.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Georgy_Dobrovolsky",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/en/d/d8/Kosmonaut_Vladislav_Volkov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/d/d8/Kosmonaut_Vladislav_Volkov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "canonicalKey": "kosmonaut_vladislav_volkov.jpg",
-          "width": 250,
-          "height": 330,
-          "title": "Vladislav Volkov",
-          "description": "Soviet cosmonaut (1935–1971)",
-          "extract": "Vladislav Nikolayevich Volkov was a Soviet cosmonaut who flew on the Soyuz 7 and Soyuz 11 missions. The second mission terminated fatally. Volkov and the two other crew members were asphyxiated on reentry, the only three people to have died in outer space.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Vladislav_Volkov",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Soyuz 11",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Soyuz_11",
-      "relatedPagesCount": 6
-    },
-    {
-      "id": "06-06-2017-768cd6c4",
-      "year": 2017,
-      "text": "Syrian civil war: The Syrian Democratic Forces opened the Second Battle of Raqqa, the final phase of the Raqqa campaign, capturing the de facto capital of the Islamic State four months later.",
+      "id": "06-06-2021-2008342e",
+      "year": 2021,
+      "text": "A man rammed a pickup truck into Muslim Pakistani Canadian pedestrians in Ontario, Canada, killing four members of the same family.",
       "isFeatured": true,
       "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "bombed_out_vehicles_aleppo.jpg",
-        "width": 1210,
-        "height": 658,
-        "title": "Syrian civil war",
-        "description": "2011–2024 armed conflict in Syria",
-        "extract": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war even though clashes have continued into 2026.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bombed_out_vehicles_Aleppo.jpg/330px-Bombed_out_vehicles_Aleppo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "bombed_out_vehicles_aleppo.jpg",
-          "width": 1210,
-          "height": 658,
-          "title": "Syrian civil war",
-          "description": "2011–2024 armed conflict in Syria",
-          "extract": "The Syrian civil war was an armed conflict that began with the Syrian revolution in March 2011, when popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria, as part of the wider Arab Spring. The Assad regime responded to the protests with lethal force, which led to a series of defections, the emergence of armed opposition groups, and the civilian uprising descending into a civil war. The war lasted almost 14 years and culminated in the fall of the Assad regime in December 2024. Many sources regard this as the end of the civil war even though clashes have continued into 2026.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg/500px-People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg/500px-People%27s_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_%288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "people's_defense_units_defending_ras_al-ayn_against_al-nusra_front_terrorists_(8).jpg",
-          "width": 800,
-          "height": 600,
-          "title": "People's_Defense_Units_defending_Ras_al-Ayn_against_al-Nusra_Front_terrorists_(8)",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
-          "score": 8
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rebel_rocket_artillery_%28Hama_March_2017%29.png/500px-Rebel_rocket_artillery_%28Hama_March_2017%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rebel_rocket_artillery_%28Hama_March_2017%29.png/500px-Rebel_rocket_artillery_%28Hama_March_2017%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "rebel_rocket_artillery_(hama_march_2017).png",
-          "width": 800,
-          "height": 600,
-          "title": "Rebel_rocket_artillery_(Hama_March_2017)",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "cinema_tv",
-        "name": "Cine y TV",
-        "icon": "🎬"
-      },
-      "mainPageTitle": "Syrian civil war",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
-      "relatedPagesCount": 5
-    },
-    {
-      "id": "06-06-2002-0c082205",
-      "year": 2002,
-      "text": "Eastern Mediterranean event. A near-Earth asteroid estimated at ten meters in diameter explodes over the Mediterranean Sea between Greece and Libya. The explosion is estimated to have a force of 26 kilotons, slightly more powerful than the Nagasaki atomic bomb.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Levantine_Sea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Levantine_Sea.jpg/330px-Levantine_Sea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "levantine_sea.jpg",
-        "width": 627,
-        "height": 512,
-        "title": "2002 Eastern Mediterranean event",
-        "description": "Atmospheric explosion above the Mediterranean Sea, caused by small asteroid",
-        "extract": "The 2002 Eastern Mediterranean Event was a high-energy upper atmosphere explosion over the Mediterranean Sea, around 34°N 21°E on June 6, 2002. This explosion, similar in power to a small atomic bomb, has been related to a small asteroid undetected while approaching Earth. The object disintegrated as a meteor air burst over the sea, and no meteorite fragments were recovered.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/2002_Eastern_Mediterranean_event",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Levantine_Sea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Levantine_Sea.jpg/330px-Levantine_Sea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "levantine_sea.jpg",
-          "width": 627,
-          "height": 512,
-          "title": "2002 Eastern Mediterranean event",
-          "description": "Atmospheric explosion above the Mediterranean Sea, caused by small asteroid",
-          "extract": "The 2002 Eastern Mediterranean Event was a high-energy upper atmosphere explosion over the Mediterranean Sea, around 34°N 21°E on June 6, 2002. This explosion, similar in power to a small atomic bomb, has been related to a small asteroid undetected while approaching Earth. The object disintegrated as a meteor air burst over the sea, and no meteorite fragments were recovered.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/2002_Eastern_Mediterranean_event",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/The_VLT_images_the_very_faint_Near-Earth_Object_2009_FD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_VLT_images_the_very_faint_Near-Earth_Object_2009_FD.jpg/330px-The_VLT_images_the_very_faint_Near-Earth_Object_2009_FD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "the_vlt_images_the_very_faint_near-earth_object_2009_fd.jpg",
-          "width": 1000,
-          "height": 754,
-          "title": "Near-Earth object",
-          "description": "Small Solar System body with an orbit that can bring it close to Earth",
-          "extract": "A near-Earth object (NEO) is by definition any small Solar System body orbiting the Sun whose closest approach to the Sun (perihelion) is less than 1.3 times the Earth–Sun distance. This definition applies to the object's orbit around the Sun, rather than its current position, thus an object with such an orbit is considered an NEO even at times when it is far from making a close approach of Earth. If an NEO's orbit crosses the Earth's orbit, and the object is larger than 140 meters (460 ft) across, it is by definition considered a potentially hazardous object (PHO). Most known PHOs and NEOs are asteroids, but about a third of a percent are comets.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Near-Earth_object",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Atomic_blast_Nevada_Yucca_1951.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Atomic_blast_Nevada_Yucca_1951.jpg/330px-Atomic_blast_Nevada_Yucca_1951.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "atomic_blast_nevada_yucca_1951.jpg",
-          "width": 559,
-          "height": 700,
-          "title": "TNT equivalent",
-          "description": "Class of units of measurement for explosive energy",
-          "extract": "TNT equivalent is a convention for expressing energy, typically used to describe the energy released in an explosion. A ton of TNT equivalent is a unit of energy defined by convention to be 4.184 gigajoules. It is the approximate energy released in the detonation of a metric ton (megagram) of trinitrotoluene (TNT). In other words, for each gram of TNT exploded, 4.184 kilojoules of energy are released.\nThis convention intends to compare the destructiveness of an event with that of conventional explosive materials, of which TNT is a typical example, although other conventional explosives such as dynamite contain more energy.\nA related concept is the physical quantity TNT-equivalent mass, expressed in the ordinary units of mass and its multiples: kilogram (kg), megagram (Mg) or tonne (t), etc.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/TNT_equivalent",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "2002 Eastern Mediterranean event",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/2002_Eastern_Mediterranean_event",
-      "relatedPagesCount": 5
-    },
-    {
-      "id": "06-06-1994-89caa70d",
-      "year": 1994,
-      "text": "China Northwest Airlines Flight 2303 crashes near Xi'an Xianyang International Airport, killing all 160 people on board.",
-      "isFeatured": false,
-      "hasImage": true,
       "imagesCount": 2,
       "imageScore": 10,
-      "marketingScore": 65,
+      "marketingScore": 120,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/CAAC_Tupolev_Tu-154_Goetting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CAAC_Tupolev_Tu-154_Goetting.jpg/330px-CAAC_Tupolev_Tu-154_Goetting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "caac_tupolev_tu-154_goetting.jpg",
-        "width": 1000,
-        "height": 678,
-        "title": "China Northwest Airlines Flight 2303",
-        "description": "1994 aviation accident",
-        "extract": "China Northwest Airlines Flight 2303 was a domestic flight from Xi'an to Guangzhou, People's Republic of China. On June 6, 1994, the aircraft operating the flight, a Tupolev Tu-154M, broke up in-flight and crashed as a result of an autopilot malfunction which caused violent shaking and overstressed the airframe. All 160 people on board were killed. As of 2026, it remains the deadliest airplane crash ever in mainland China.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/China_Northwest_Airlines_Flight_2303",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/London%2C_ON_attack_memorial.jpg/1920px-London%2C_ON_attack_memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/London%2C_ON_attack_memorial.jpg/330px-London%2C_ON_attack_memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "london,_on_attack_memorial.jpg",
+        "width": 3024,
+        "height": 4032,
+        "title": "2021 London, Ontario truck attack",
+        "description": "Terrorist attack in Ontario, Canada",
+        "extract": "On June 6, 2021, 20-year-old Nathaniel Veltman rammed a pickup truck into a family of Muslim Pakistani Canadian pedestrians at an intersection in London, Ontario, Canada. Four people were killed and a fifth was wounded. The attack was the deadliest mass killing in London's history. It was condemned by Canadian leaders, and described as terrorism by Prime Minister of Canada Justin Trudeau, Prime Minister of Pakistan Imran Khan and Premier of Ontario Doug Ford.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/2021_London%2C_Ontario_truck_attack",
         "score": 10
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/CAAC_Tupolev_Tu-154_Goetting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CAAC_Tupolev_Tu-154_Goetting.jpg/330px-CAAC_Tupolev_Tu-154_Goetting.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "caac_tupolev_tu-154_goetting.jpg",
-          "width": 1000,
-          "height": 678,
-          "title": "China Northwest Airlines Flight 2303",
-          "description": "1994 aviation accident",
-          "extract": "China Northwest Airlines Flight 2303 was a domestic flight from Xi'an to Guangzhou, People's Republic of China. On June 6, 1994, the aircraft operating the flight, a Tupolev Tu-154M, broke up in-flight and crashed as a result of an autopilot malfunction which caused violent shaking and overstressed the airframe. All 160 people on board were killed. As of 2026, it remains the deadliest airplane crash ever in mainland China.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/China_Northwest_Airlines_Flight_2303",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/London%2C_ON_attack_memorial.jpg/1920px-London%2C_ON_attack_memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/London%2C_ON_attack_memorial.jpg/330px-London%2C_ON_attack_memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "london,_on_attack_memorial.jpg",
+          "width": 3024,
+          "height": 4032,
+          "title": "2021 London, Ontario truck attack",
+          "description": "Terrorist attack in Ontario, Canada",
+          "extract": "On June 6, 2021, 20-year-old Nathaniel Veltman rammed a pickup truck into a family of Muslim Pakistani Canadian pedestrians at an intersection in London, Ontario, Canada. Four people were killed and a fifth was wounded. The attack was the deadliest mass killing in London's history. It was condemned by Canadian leaders, and described as terrorism by Prime Minister of Canada Justin Trudeau, Prime Minister of Pakistan Imran Khan and Premier of Ontario Doug Ford.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2021_London%2C_Ontario_truck_attack",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Xi%27an_Xianyang_Airport_T5_Aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Xi%27an_Xianyang_Airport_T5_Aerial.jpg/330px-Xi%27an_Xianyang_Airport_T5_Aerial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "xi'an_xianyang_airport_t5_aerial.jpg",
-          "width": 600,
-          "height": 383,
-          "title": "Xi'an Xianyang International Airport",
-          "description": "Airport serving Xi'an, Shaanxi, China",
-          "extract": "Xi'an Xianyang International Airport is an international airport serving the city of Xi'an, the capital of Northwest China's Shaanxi province, as well as the whole Guanzhong area. Covering an area of 12 square kilometres (4.6 sq mi), Xi'an Airport has four terminals: T1, T2, T3, and T5. The total terminal building area exceeds 1.1 million square meters, making it one of the largest passenger airports in China, it is also the largest airport in Northwest China, and the second largest airport in Northern China. The airport was the hub for China Northwest Airlines until the company was merged into China Eastern Airlines in 2002 and since then, China Eastern continues to operate as a hub at Xianyang. Xi'an Airport is also the hub for Sichuan Airlines and Hainan Airlines. Xi'an Xianyang International Airport is a Skytrax 4-star airport.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Xi'an_Xianyang_International_Airport",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "China Northwest Airlines Flight 2303",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/China_Northwest_Airlines_Flight_2303",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "06-06-1993-9ff788f5",
-      "year": 1993,
-      "text": "Punsalmaagiin Ochirbat wins the first presidential election in Mongolia.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Punsalmaagiyn_Ochirbat_1995.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Punsalmaagiyn_Ochirbat_1995.png/330px-Punsalmaagiyn_Ochirbat_1995.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "punsalmaagiyn_ochirbat_1995.png",
-        "width": 634,
-        "height": 724,
-        "title": "Punsalmaagiin Ochirbat",
-        "description": "1st President of Mongolia from 1990 to 1997",
-        "extract": "Punsalmaagiin Ochirbat was a Mongolian politician and geologist who served as the first president of Mongolia from 1990 to 1997. A member of the Mongolian People's Revolutionary Party since 1965, he served multiple ministerial positions between 1972 and 1990. In the aftermath of the 1990 Democratic Revolution, he briefly served as Chairman of the Presidium of the People's Great Khural from March to September 1990.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Punsalmaagiin_Ochirbat",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Punsalmaagiyn_Ochirbat_1995.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Punsalmaagiyn_Ochirbat_1995.png/330px-Punsalmaagiyn_Ochirbat_1995.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "punsalmaagiyn_ochirbat_1995.png",
-          "width": 634,
-          "height": 724,
-          "title": "Punsalmaagiin Ochirbat",
-          "description": "1st President of Mongolia from 1990 to 1997",
-          "extract": "Punsalmaagiin Ochirbat was a Mongolian politician and geologist who served as the first president of Mongolia from 1990 to 1997. A member of the Mongolian People's Revolutionary Party since 1965, he served multiple ministerial positions between 1972 and 1990. In the aftermath of the 1990 Democratic Revolution, he briefly served as Chairman of the Presidium of the People's Great Khural from March to September 1990.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Punsalmaagiin_Ochirbat",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mongolia%27s_first_president_Ochirbat_ratifying_the_1992_constitution.jpg/500px-Mongolia%27s_first_president_Ochirbat_ratifying_the_1992_constitution.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mongolia%27s_first_president_Ochirbat_ratifying_the_1992_constitution.jpg/500px-Mongolia%27s_first_president_Ochirbat_ratifying_the_1992_constitution.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "mongolia's_first_president_ochirbat_ratifying_the_1992_constitution.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "President Ochirbat ratifying the Constitution of Mongolia in January 1992.",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Punsalmaagiin_Ochirbat",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "culture",
-        "name": "Cultura y Letras",
-        "icon": "📚"
-      },
-      "mainPageTitle": "Punsalmaagiin Ochirbat",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Punsalmaagiin_Ochirbat",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "06-06-1982-53fca34e",
-      "year": 1982,
-      "text": "Falklands War: The Royal Navy destroyer HMS Cardiff engaged and destroyed a British Army helicopter in a friendly-fire incident.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg/330px-HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "hms_broadsword_and_hermes,_1982_(iwm).jpg",
-        "width": 800,
-        "height": 628,
-        "title": "Falklands War",
-        "description": "1982 undeclared Argentina–United Kingdom war",
-        "extract": "The Falklands War was a ten-week war in the South Atlantic in 1982 between Argentina and the United Kingdom over possession of the Falkland Islands and its dependencies of South Georgia and the South Sandwich Islands. The conflict began on 2 April 1982 when Argentina invaded the Falkland Islands, followed by the invasion of South Georgia the next day. On 5 April, the British government dispatched a naval task force to regain possession of the islands. The conflict lasted 74 days and ended with an Argentine surrender on 14 June, which formally returned possession to Britain. In total, 649 Argentine military personnel, 255 British military personnel, and 3 Falkland Islanders were killed during the hostilities.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Falklands_War",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg/330px-HMS_Broadsword_and_Hermes%2C_1982_%28IWM%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "hms_broadsword_and_hermes,_1982_(iwm).jpg",
-          "width": 800,
-          "height": 628,
-          "title": "Falklands War",
-          "description": "1982 undeclared Argentina–United Kingdom war",
-          "extract": "The Falklands War was a ten-week war in the South Atlantic in 1982 between Argentina and the United Kingdom over possession of the Falkland Islands and its dependencies of South Georgia and the South Sandwich Islands. The conflict began on 2 April 1982 when Argentina invaded the Falkland Islands, followed by the invasion of South Georgia the next day. On 5 April, the British government dispatched a naval task force to regain possession of the islands. The conflict lasted 74 days and ended with an Argentine surrender on 14 June, which formally returned possession to Britain. In total, 649 Argentine military personnel, 255 British military personnel, and 3 Falkland Islanders were killed during the hostilities.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Falklands_War",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/HMS_Cardiff_%28D108%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/HMS_Cardiff_%28D108%29_1.jpg/330px-HMS_Cardiff_%28D108%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "hms_cardiff_(d108)_1.jpg",
-          "width": 1110,
-          "height": 832,
-          "title": "HMS Cardiff (D108)",
-          "description": "Type 42 destroyer",
-          "extract": "HMS Cardiff was a British Type 42 destroyer and the third ship of the Royal Navy to be named in honour of the Welsh capital city of Cardiff.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/HMS_Cardiff_(D108)",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/GazelleAH1_Ahlhorn_May1983.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GazelleAH1_Ahlhorn_May1983.jpeg/330px-GazelleAH1_Ahlhorn_May1983.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "gazelleah1_ahlhorn_may1983.jpeg",
-          "width": 2850,
-          "height": 1890,
-          "title": "1982 British Army Gazelle friendly fire incident",
-          "description": "Helicopter downing in the Falklands War",
-          "extract": "On 6 June 1982, during the Falklands War, the British Royal Navy Type 42 destroyer HMS Cardiff engaged and destroyed a British Army Westland Gazelle helicopter, serial number XX377, in a friendly fire incident, killing all four occupants. Cardiff, on the lookout for aircraft flying supplies to the Argentine forces occupying the Falkland Islands, misidentified the helicopter as an enemy Lockheed C-130 Hercules. The loss of the helicopter was initially blamed on enemy action, but a subsequent inquiry found a missile from the Cardiff to be the cause.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/1982_British_Army_Gazelle_friendly_fire_incident",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Pakistani_Distribution_in_Canada%2C_2021_Census.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Pakistani_Distribution_in_Canada%2C_2021_Census.jpg/330px-Pakistani_Distribution_in_Canada%2C_2021_Census.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "pakistani_distribution_in_canada,_2021_census.jpg",
+          "width": 1306,
+          "height": 1409,
+          "title": "Pakistani Canadians",
+          "description": "Community of Canadians of Pakistani descent or with Pakistani citizenship",
+          "extract": "Pakistani Canadian refers to the community in Canada of Pakistani heritage or descent. It can also refer to people who hold dual Pakistani and Canadian citizenship. Categorically, Pakistani Canadians comprise a subgroup of South Asian Canadians which is a further subgroup of Asian Canadians.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pakistani_Canadians",
           "score": 10
         }
       ],
@@ -599,9 +579,77 @@
         "name": "Historia y Mundo",
         "icon": "🏛️"
       },
-      "mainPageTitle": "Falklands War",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Falklands_War",
-      "relatedPagesCount": 4
+      "mainPageTitle": "2021 London, Ontario truck attack",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/2021_London%2C_Ontario_truck_attack",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "06-06-1966-df91a4fd",
+      "year": 1966,
+      "text": "March Against Fear: African-American civil rights activist James Meredith is wounded in an ambush by white sniper James Aubrey Norvell. Meredith and Norvell are photographed by Jack R. Thornell, whose photo will receive the 1967 Pulitzer Prize in Photography, the last one to be awarded in the category.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/James_Meredith_wounded.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/James_Meredith_wounded.jpg/330px-James_Meredith_wounded.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "james_meredith_wounded.jpg",
+        "width": 1337,
+        "height": 810,
+        "title": "March Against Fear",
+        "description": "1966 demonstration in the US Civil Rights Movement",
+        "extract": "The March Against Fear was a major 1966 demonstration in the Civil Rights Movement in the South. Activist James Meredith launched the event on June 5, 1966, intending to make a solitary walk from Memphis, Tennessee, to Jackson, Mississippi via the Mississippi Delta, starting at Memphis's Peabody Hotel and proceeding to the Mississippi state line, then continuing through, respectively, the Mississippi cities of Hernando, Grenada, Greenwood, Indianola, Belzoni, Yazoo City, and Canton before arriving at Jackson's City Hall. The total distance marched was approximately 270 miles over a period of 21 days. The goal was to counter the continuing racism in the Mississippi Delta after passage of federal civil rights legislation in the previous two years and to encourage African Americans in the state to register to vote. He invited only individual black men to join him and did not want it to be a large media event dominated by major civil rights organizations.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/March_Against_Fear",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/James_Meredith_wounded.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/James_Meredith_wounded.jpg/330px-James_Meredith_wounded.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "james_meredith_wounded.jpg",
+          "width": 1337,
+          "height": 810,
+          "title": "March Against Fear",
+          "description": "1966 demonstration in the US Civil Rights Movement",
+          "extract": "The March Against Fear was a major 1966 demonstration in the Civil Rights Movement in the South. Activist James Meredith launched the event on June 5, 1966, intending to make a solitary walk from Memphis, Tennessee, to Jackson, Mississippi via the Mississippi Delta, starting at Memphis's Peabody Hotel and proceeding to the Mississippi state line, then continuing through, respectively, the Mississippi cities of Hernando, Grenada, Greenwood, Indianola, Belzoni, Yazoo City, and Canton before arriving at Jackson's City Hall. The total distance marched was approximately 270 miles over a period of 21 days. The goal was to counter the continuing racism in the Mississippi Delta after passage of federal civil rights legislation in the previous two years and to encourage African Americans in the state to register to vote. He invited only individual black men to join him and did not want it to be a large media event dominated by major civil rights organizations.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/March_Against_Fear",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Black_Americans_2020_County.png/3840px-Black_Americans_2020_County.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Black_Americans_2020_County.png/330px-Black_Americans_2020_County.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "black_americans_2020_county.png",
+          "width": 15610,
+          "height": 8900,
+          "title": "African Americans",
+          "description": "Ethnic and cultural group in the United States",
+          "extract": "African Americans or Black Americans, also formerly called Afro-Americans, are an American racial and ethnic group. As defined by the United States census, they are Americans who have ancestry from \"any of the Black racial groups of Africa\". African Americans constitute the third-largest racial and ethnic group in the U.S., following White Americans and Hispanic and Latino Americans. The term \"African American\" generally denotes descendants of Africans enslaved in the United States. According to annual estimates from the U.S. Census Bureau, as of July 1, 2024, the overall Black population was estimated at 42,951,595, representing approximately 12.63% of the total U.S. population.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/African_Americans",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/James_Meredith_in_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/James_Meredith_in_2010_%28cropped%29.jpg/330px-James_Meredith_in_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "james_meredith_in_2010_(cropped).jpg",
+          "width": 964,
+          "height": 1295,
+          "title": "James Meredith",
+          "description": "American civil rights activist (born 1933)",
+          "extract": "James Howard Meredith is an American civil rights activist, writer, political adviser, and United States Air Force veteran who became, in 1962, the first African-American student admitted to the racially segregated University of Mississippi after the intervention of the federal government. Inspired by President John F. Kennedy's inaugural address, Meredith decided to exercise his constitutional rights and apply to the University of Mississippi. His goal was to put pressure on the Kennedy administration to enforce civil rights for African Americans. The admission of Meredith ignited the Ole Miss riot of 1962 where Meredith's life was threatened and 31,000 American servicemen were required to quell the violence – the largest ever invocation of the Insurrection Act of 1807.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/James_Meredith",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "March Against Fear",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/March_Against_Fear",
+      "relatedPagesCount": 7
     }
   ]
 }
