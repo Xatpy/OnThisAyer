@@ -8,6 +8,74 @@
   "eventsWithImages": 10,
   "events": [
     {
+      "id": "09-16-1940-ff89c950",
+      "year": 1940,
+      "text": "Second World War: Italian forces captured the town of Sidi Barrani, but their invasion of Egypt progressed no further.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 180,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+        "width": 798,
+        "height": 544,
+        "title": "World War II",
+        "description": "Global conflict from 1939 to 1945",
+        "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+          "width": 798,
+          "height": 544,
+          "title": "World War II",
+          "description": "Global conflict from 1939 to 1945",
+          "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Sidi_Barrani03.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Sidi_Barrani03.JPG/330px-Sidi_Barrani03.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "sidi_barrani03.jpg",
+          "width": 3648,
+          "height": 2736,
+          "title": "Sidi Barrani",
+          "description": "Town in Matruh, Egypt",
+          "extract": "Sidi Barrani is a town in Egypt, near the Mediterranean Sea, about 95 km (59 mi) east of the Egypt–Libya border, and around 240 km (150 mi) from Tobruk, Libya.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sidi_Barrani",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "matilda_tanks_on_the_move_outside_the_perimeter_of_tobruk,_libya,_18_november_1941._e6600.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk,_Libya,_18_November_1941._E6600",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "World War II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_II",
+      "relatedPagesCount": 3
+    },
+    {
       "id": "09-16-2021-3eaa8057",
       "year": 2021,
       "text": "Inspiration4, the first private orbital crewed spaceflight, is launched from the Kennedy Space Center.",
@@ -15,7 +83,7 @@
       "hasImage": true,
       "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 130,
+      "marketingScore": 160,
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Inspiration4_Launch_%28210915-F-CG053-1004%29.jpg/3840px-Inspiration4_Launch_%28210915-F-CG053-1004%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Inspiration4_Launch_%28210915-F-CG053-1004%29.jpg/330px-Inspiration4_Launch_%28210915-F-CG053-1004%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
@@ -67,183 +135,71 @@
         }
       ],
       "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
       "mainPageTitle": "Inspiration4",
       "mainPageUrl": "https://en.wikipedia.org/wiki/Inspiration4",
       "relatedPagesCount": 2
     },
     {
-      "id": "09-16-1996-a2da1162",
-      "year": 1996,
-      "text": "Space Shuttle Atlantis is launched on STS-79 to dock with the Russian space station Mir.",
-      "isFeatured": false,
+      "id": "09-16-1982-d3abad3f",
+      "year": 1982,
+      "text": "A Lebanese militia under the direct command of Elie Hobeika carried out a massacre in the Palestinian refugee camp of Sabra and Shatila, killing at least 460 civilians.",
+      "isFeatured": true,
       "hasImage": true,
       "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 130,
+      "marketingScore": 160,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
-        "width": 3697,
-        "height": 2217,
-        "title": "Space Shuttle Atlantis",
-        "description": "Space Shuttle orbiter (1985–2011)",
-        "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Elie_Hobeika.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Elie_Hobeika.jpg/330px-Elie_Hobeika.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "elie_hobeika.jpg",
+        "width": 870,
+        "height": 1104,
+        "title": "Elie Hobeika",
+        "description": "Lebanese politician and militia commander",
+        "extract": "Elie Hobeika was a Lebanese militia commander in the Lebanese Forces militia during the Lebanese Civil War and one of Bachir Gemayel's close confidants. He became infamous for his overseeing of the 1982 Sabra and Shatilla massacre. Hobeika initially supported the IDF during their invasion, but later switched sides and supported the Syrians. He became head of the Lebanese Forces until he was ousted in 1986. He then founded the Promise Party and was elected to serve two terms in the Parliament of Lebanon. In January 2002, he was assassinated in a car bombing at his house in Beirut, shortly before he was to testify about the Sabra and Shatila massacre in a Belgian court.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Elie_Hobeika",
         "score": 10
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
-          "width": 3697,
-          "height": 2217,
-          "title": "Space Shuttle Atlantis",
-          "description": "Space Shuttle orbiter (1985–2011)",
-          "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Elie_Hobeika.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Elie_Hobeika.jpg/330px-Elie_Hobeika.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "elie_hobeika.jpg",
+          "width": 870,
+          "height": 1104,
+          "title": "Elie Hobeika",
+          "description": "Lebanese politician and militia commander",
+          "extract": "Elie Hobeika was a Lebanese militia commander in the Lebanese Forces militia during the Lebanese Civil War and one of Bachir Gemayel's close confidants. He became infamous for his overseeing of the 1982 Sabra and Shatilla massacre. Hobeika initially supported the IDF during their invasion, but later switched sides and supported the Syrians. He became head of the Lebanese Forces until he was ousted in 1986. He then founded the Promise Party and was elected to serve two terms in the Parliament of Lebanon. In January 2002, he was assassinated in a car bombing at his house in Beirut, shortly before he was to testify about the Sabra and Shatila massacre in a Belgian court.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elie_Hobeika",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/STS079-350-003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/STS079-350-003.jpg/330px-STS079-350-003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "sts079-350-003.jpg",
-          "width": 2988,
-          "height": 1960,
-          "title": "STS-79",
-          "description": "1996 American crewed spaceflight to Mir",
-          "extract": "STS-79 was the 17th flight of Space Shuttle Atlantis, and the 79th mission of the Space Shuttle program. The flight saw Atlantis dock with the Russian space station Mir to deliver equipment, supplies and to exchange personnel participating in long-duration stays aboard the station as part of the Shuttle–Mir program. A variety of scientific experiments were also conducted aboard Atlantis by her crew. It was the first shuttle mission to rendezvous with a fully assembled Mir, and the fourth rendezvous of a shuttle to the space station.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/STS-79",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg/330px-Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "mir_space_station_viewed_from_endeavour_during_sts-89.jpg",
-          "width": 3124,
-          "height": 3044,
-          "title": "Mir",
-          "description": "Soviet/Russian space station (1986–2001)",
-          "extract": "Mir was a space station operated in low Earth orbit from 1986 to 2001, first by the Soviet Union and later by the Russian Federation. Mir was the first modular space station and was assembled in orbit from 1986 to 1996. At the time it was the largest artificial satellite in orbit, only being succeeded by the International Space Station (ISS) after Mir's deorbiting in 2001. The station served as a microgravity research laboratory in which crews conducted experiments in biology, human biology, physics, astronomy, meteorology, and spacecraft systems with a goal of developing technologies required for permanent occupation of space.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Mir",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Space Shuttle Atlantis",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "09-16-1961-f2b95fed",
-      "year": 1961,
-      "text": "Pakistan establishes its Space and Upper Atmosphere Research Commission with Abdus Salam as its head.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 75,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/d/da/SUPARCO_Pakistan_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/d/da/SUPARCO_Pakistan_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "canonicalKey": "suparco_pakistan_logo.png",
-        "width": 308,
-        "height": 326,
-        "title": "SUPARCO",
-        "description": "National Space Agency of Pakistan",
-        "extract": "The Space & Upper Atmosphere Research Commission, commonly referred to as SUPARCO, is the national space agency of Pakistan.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/SUPARCO",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/en/d/da/SUPARCO_Pakistan_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/d/da/SUPARCO_Pakistan_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "canonicalKey": "suparco_pakistan_logo.png",
-          "width": 308,
-          "height": 326,
-          "title": "SUPARCO",
-          "description": "National Space Agency of Pakistan",
-          "extract": "The Space & Upper Atmosphere Research Commission, commonly referred to as SUPARCO, is the national space agency of Pakistan.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/SUPARCO",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Abdus_Salam_1987.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Abdus_Salam_1987.jpg/330px-Abdus_Salam_1987.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "abdus_salam_1987.jpg",
-          "width": 1520,
-          "height": 1872,
-          "title": "Abdus Salam",
-          "description": "Pakistani theoretical physicist (1926–1996)",
-          "extract": "Mohammad Abdus Salam was a Pakistani theoretical physicist and Nobel laureate. He shared the 1979 Nobel Prize in Physics with Steven Weinberg and Sheldon Glashow \"for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current\". He was the first Pakistani, and second person from any Muslim country to win a Nobel Prize.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Abdus_Salam",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/SUPARCO%2C_Karachi._-_panoramio.jpg/500px-SUPARCO%2C_Karachi._-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/SUPARCO%2C_Karachi._-_panoramio.jpg/500px-SUPARCO%2C_Karachi._-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "suparco,_karachi._-_panoramio.jpg",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Emile_Edde_MaroPoli.png/330px-Emile_Edde_MaroPoli.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Emile_Edde_MaroPoli.png/330px-Emile_Edde_MaroPoli.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "emile_edde_maropoli.png",
           "width": 800,
           "height": 600,
-          "title": "SUPARCO,_Karachi._-_panoramio",
+          "title": "Emile_Edde_MaroPoli",
           "description": "",
           "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/SUPARCO",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elie_Hobeika",
           "score": 8
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "SUPARCO",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/SUPARCO",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "09-16-2022-b1bdc00a",
-      "year": 2022,
-      "text": "During the Let Yet Kone massacre, the Burmese military kills 13 villagers, including eight children, after attacking a school in Sagaing Region, Myanmar.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 1,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sagaing_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sagaing_003.jpg/330px-Sagaing_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "sagaing_003.jpg",
-        "width": 2560,
-        "height": 1920,
-        "title": "Sagaing Region",
-        "description": "Region of Myanmar",
-        "extract": "Sagaing Region is a first-level administrative division of Myanmar, located in the north-western part of the country between latitude 21° 30' north and longitude 94° 97' east. It is bordered by Chin State and India's Nagaland, Manipur, and Arunachal Pradesh states to the west and north, Kachin State, Shan State, and Mandalay Region to the east and Mandalay Region and Magway Region to the south. The Ayeyarwady River forms a greater part of its eastern and also southern boundary. Sagaing Region has an area of 93,527 square kilometres (36,111 sq mi), making it the second-largest subdivision of Myanmar. In 1996, it had a population of over 5,300,000, while its population in 2012 was 6,600,000. The urban population 2012 was 1,230,000, and the rural population was 5,360,000. The namesake of Sagaing Region is Sagaing but the administrative capital and largest city is Monywa.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Sagaing_Region",
-        "score": 10
-      },
-      "images": [
+        },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sagaing_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sagaing_003.jpg/330px-Sagaing_003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "sagaing_003.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": "Sagaing Region",
-          "description": "Region of Myanmar",
-          "extract": "Sagaing Region is a first-level administrative division of Myanmar, located in the north-western part of the country between latitude 21° 30' north and longitude 94° 97' east. It is bordered by Chin State and India's Nagaland, Manipur, and Arunachal Pradesh states to the west and north, Kachin State, Shan State, and Mandalay Region to the east and Mandalay Region and Magway Region to the south. The Ayeyarwady River forms a greater part of its eastern and also southern boundary. Sagaing Region has an area of 93,527 square kilometres (36,111 sq mi), making it the second-largest subdivision of Myanmar. In 1996, it had a population of over 5,300,000, while its population in 2012 was 6,600,000. The urban population 2012 was 1,230,000, and the rural population was 5,360,000. The namesake of Sagaing Region is Sagaing but the administrative capital and largest city is Monywa.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Sagaing_Region",
-          "score": 10
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bechara_El_Khoury_MaroPoli.jpg/250px-Bechara_El_Khoury_MaroPoli.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Bechara_El_Khoury_MaroPoli.jpg/250px-Bechara_El_Khoury_MaroPoli.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bechara_el_khoury_maropoli.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Bechara_El_Khoury_MaroPoli",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elie_Hobeika",
+          "score": 8
         }
       ],
       "category": {
@@ -251,54 +207,190 @@
         "name": "Historia y Mundo",
         "icon": "🏛️"
       },
-      "mainPageTitle": "Let Yet Kone massacre",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Let_Yet_Kone_massacre",
+      "mainPageTitle": "Elie Hobeika",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Elie_Hobeika",
       "relatedPagesCount": 3
     },
     {
-      "id": "09-16-2014-aa450c66",
-      "year": 2014,
-      "text": "The Islamic State of Iraq and the Levant launches its Kobani offensive against Syrian–Kurdish forces.",
+      "id": "09-16-1979-f0aa7adb",
+      "year": 1979,
+      "text": "Eight people escaped from East Germany to West Germany in a home-made hot air balloon.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 160,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Guenter_Wetzel%2C_Doris_Strelzyk_and_Peter_Strelzyk.jpg/3840px-Guenter_Wetzel%2C_Doris_Strelzyk_and_Peter_Strelzyk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Guenter_Wetzel%2C_Doris_Strelzyk_and_Peter_Strelzyk.jpg/330px-Guenter_Wetzel%2C_Doris_Strelzyk_and_Peter_Strelzyk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "guenter_wetzel,_doris_strelzyk_and_peter_strelzyk.jpg",
+        "width": 3877,
+        "height": 2590,
+        "title": "East Germany balloon escape",
+        "description": "1979 crossing into West Germany",
+        "extract": "On 16 September 1979, eight people from two families escaped from East Germany by crossing the border into West Germany at night in a homemade hot air balloon. The unique feat was the result of over a year and a half of preparations involving three different balloons, various modifications, and a first, unsuccessful attempt. The failed attempt alerted the East German authorities to the plot, but the police were unable to identify the escapees before their second, successful flight two months later.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Guenter_Wetzel%2C_Doris_Strelzyk_and_Peter_Strelzyk.jpg/3840px-Guenter_Wetzel%2C_Doris_Strelzyk_and_Peter_Strelzyk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Guenter_Wetzel%2C_Doris_Strelzyk_and_Peter_Strelzyk.jpg/330px-Guenter_Wetzel%2C_Doris_Strelzyk_and_Peter_Strelzyk.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "guenter_wetzel,_doris_strelzyk_and_peter_strelzyk.jpg",
+          "width": 3877,
+          "height": 2590,
+          "title": "East Germany balloon escape",
+          "description": "1979 crossing into West Germany",
+          "extract": "On 16 September 1979, eight people from two families escaped from East Germany by crossing the border into West Germany at night in a homemade hot air balloon. The unique feat was the result of over a year and a half of preparations involving three different balloons, various modifications, and a first, unsuccessful attempt. The failed attempt alerted the East German authorities to the plot, but the police were unable to identify the escapees before their second, successful flight two months later.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/2006_Ojiya_balloon_festival_011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/2006_Ojiya_balloon_festival_011.jpg/330px-2006_Ojiya_balloon_festival_011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "2006_ojiya_balloon_festival_011.jpg",
+          "width": 1896,
+          "height": 2852,
+          "title": "Hot air balloon",
+          "description": "Lighter-than-air aircraft",
+          "extract": "A hot air balloon is a lighter-than-air aircraft consisting of a bag, called an envelope, which contains heated air. Suspended beneath is a gondola or wicker basket, which carries passengers and a source of heat, in most cases an open flame caused by burning liquid propane. The heated air inside the envelope makes it buoyant, since it has a lower density than the colder air outside the envelope. As with all aircraft, hot air balloons cannot fly beyond the atmosphere. The envelope does not have to be sealed at the bottom, since the air inside the envelope is at about the same pressure as the surrounding air. In modern sport balloons the envelope is generally made from nylon fabric, and the inlet of the balloon is made from a fire-resistant material such as Nomex. Modern balloons have been made in many shapes, such as rocket ships and the shapes of various commercial products, though the traditional shape is used for most non-commercial and many commercial applications.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hot_air_balloon",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/System_of_gdr_border_fortification.jpg/1280px-System_of_gdr_border_fortification.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/System_of_gdr_border_fortification.jpg/1280px-System_of_gdr_border_fortification.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "system_of_gdr_border_fortification.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Diagram of East German border fortifications",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "East Germany balloon escape",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/East_Germany_balloon_escape",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "09-16-1955-1bf29b14",
+      "year": 1955,
+      "text": "A Soviet Zulu-class submarine becomes the first to launch a ballistic missile.",
       "isFeatured": false,
       "hasImage": true,
       "imagesCount": 2,
       "imageScore": 10,
-      "marketingScore": 65,
+      "marketingScore": 130,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Siege_of_Kobani_frontline_progression%2C_from_October_2014_to_January_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Siege_of_Kobani_frontline_progression%2C_from_October_2014_to_January_2015.jpg/330px-Siege_of_Kobani_frontline_progression%2C_from_October_2014_to_January_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "siege_of_kobani_frontline_progression,_from_october_2014_to_january_2015.jpg",
-        "width": 1333,
-        "height": 705,
-        "title": "Siege of Kobanî",
-        "description": "2014 IS offensive in northern Syria during the Syrian Civil War",
-        "extract": "The siege of Kobanî was launched by the Islamic State (IS) on 13 September 2014, in order to capture the Kobanî Canton and its main city of Kobanî in northern Syria, in the de facto autonomous region of Rojava.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Koban%C3%AE",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Soviet_submarine_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Soviet_submarine_Amsterdam.jpg/330px-Soviet_submarine_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "soviet_submarine_amsterdam.jpg",
+        "width": 2272,
+        "height": 1704,
+        "title": "Zulu-class submarine",
+        "description": "Soviet diesel-electric submarine class",
+        "extract": "The Soviet Navy's Project 611 were one of the first Soviet post-Second-World-War attack submarines. They were similarly capable to the American GUPPY fleet-boat conversions. They were a contemporary of the Whiskey-class submarines and shared a similar sonar arrangement. Like most conventional submarines designed 1946–1960, their design was influenced by the German World War II Type XXI submarine.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Zulu-class_submarine",
         "score": 10
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Siege_of_Kobani_frontline_progression%2C_from_October_2014_to_January_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Siege_of_Kobani_frontline_progression%2C_from_October_2014_to_January_2015.jpg/330px-Siege_of_Kobani_frontline_progression%2C_from_October_2014_to_January_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "siege_of_kobani_frontline_progression,_from_october_2014_to_january_2015.jpg",
-          "width": 1333,
-          "height": 705,
-          "title": "Siege of Kobanî",
-          "description": "2014 IS offensive in northern Syria during the Syrian Civil War",
-          "extract": "The siege of Kobanî was launched by the Islamic State (IS) on 13 September 2014, in order to capture the Kobanî Canton and its main city of Kobanî in northern Syria, in the de facto autonomous region of Rojava.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Koban%C3%AE",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Soviet_submarine_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Soviet_submarine_Amsterdam.jpg/330px-Soviet_submarine_Amsterdam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "soviet_submarine_amsterdam.jpg",
+          "width": 2272,
+          "height": 1704,
+          "title": "Zulu-class submarine",
+          "description": "Soviet diesel-electric submarine class",
+          "extract": "The Soviet Navy's Project 611 were one of the first Soviet post-Second-World-War attack submarines. They were similarly capable to the American GUPPY fleet-boat conversions. They were a contemporary of the Whiskey-class submarines and shared a similar sonar arrangement. Like most conventional submarines designed 1946–1960, their design was influenced by the German World War II Type XXI submarine.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Zulu-class_submarine",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ain_al-Arab_am_13_September_2014.png/330px-Ain_al-Arab_am_13_September_2014.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ain_al-Arab_am_13_September_2014.png/330px-Ain_al-Arab_am_13_September_2014.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "ain_al-arab_am_13_september_2014.png",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Paine_Field-Lake_Stickney%2C_WA%2C_USA_-_panoramio_%28135%29.jpg/3840px-Paine_Field-Lake_Stickney%2C_WA%2C_USA_-_panoramio_%28135%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Paine_Field-Lake_Stickney%2C_WA%2C_USA_-_panoramio_%28135%29.jpg/330px-Paine_Field-Lake_Stickney%2C_WA%2C_USA_-_panoramio_%28135%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "paine_field-lake_stickney,_wa,_usa_-_panoramio_(135).jpg",
+          "width": 4128,
+          "height": 2322,
+          "title": "R-11 Zemlya",
+          "description": "Soviet tactical ballistic missile",
+          "extract": "The R-11 Zemlya, GRAU index 8A61 was a Soviet tactical ballistic missile. It is also known by its NATO reporting name SS-1b Scud-A. It was the first of several similar Soviet missiles to be given the reporting name Scud. Variant R-11M was accepted into service, with GRAU index 9K51 (9К51).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/R-11_Zemlya",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Zulu-class submarine",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Zulu-class_submarine",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-16-1943-75f6becd",
+      "year": 1943,
+      "text": "World War II: The German Tenth Army reports that it can no longer contain the Allied bridgehead around Salerno.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/THE_ALLIED_LANDINGS_IN_ITALY_SEPTEMBER_1943_REGGIO_TARANTO_AND_SALERNO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/THE_ALLIED_LANDINGS_IN_ITALY_SEPTEMBER_1943_REGGIO_TARANTO_AND_SALERNO.jpg/330px-THE_ALLIED_LANDINGS_IN_ITALY_SEPTEMBER_1943_REGGIO_TARANTO_AND_SALERNO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "the_allied_landings_in_italy_september_1943_reggio_taranto_and_salerno.jpg",
+        "width": 1790,
+        "height": 1772,
+        "title": "Operation Avalanche",
+        "description": "1943 Allied landings in Italy",
+        "extract": "Operation Avalanche was the codename for the Allied landings near the port of Salerno, executed on 9 September 1943, part of the Allied invasion of Italy during World War II. The Italians withdrew from the war the day before the invasion, but the Allies landed in an area defended by German troops. Planned under the name Top Hat, it was supported by the deception plan Operation Boardman.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Avalanche",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/THE_ALLIED_LANDINGS_IN_ITALY_SEPTEMBER_1943_REGGIO_TARANTO_AND_SALERNO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/THE_ALLIED_LANDINGS_IN_ITALY_SEPTEMBER_1943_REGGIO_TARANTO_AND_SALERNO.jpg/330px-THE_ALLIED_LANDINGS_IN_ITALY_SEPTEMBER_1943_REGGIO_TARANTO_AND_SALERNO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_allied_landings_in_italy_september_1943_reggio_taranto_and_salerno.jpg",
+          "width": 1790,
+          "height": 1772,
+          "title": "Operation Avalanche",
+          "description": "1943 Allied landings in Italy",
+          "extract": "Operation Avalanche was the codename for the Allied landings near the port of Salerno, executed on 9 September 1943, part of the Allied invasion of Italy during World War II. The Italians withdrew from the war the day before the invasion, but the Allies landed in an area defended by German troops. Planned under the name Top Hat, it was supported by the deception plan Operation Boardman.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Avalanche",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Bundesarchiv_Bild_183-B05284%2C_Walter_v._Reichenau.jpg/500px-Bundesarchiv_Bild_183-B05284%2C_Walter_v._Reichenau.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Bundesarchiv_Bild_183-B05284%2C_Walter_v._Reichenau.jpg/500px-Bundesarchiv_Bild_183-B05284%2C_Walter_v._Reichenau.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_183-b05284,_walter_v._reichenau.jpg",
           "width": 800,
           "height": 600,
-          "title": "The situation at the beginning of IS's offensive against Kobanî, on 15 September 2014\n.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}  Controlled by Kurdish forces\n  Controlled by the Syrian opposition\n  Controlled by Islamic State",
+          "title": "Bundesarchiv_Bild_183-B05284,_Walter_v._Reichenau",
           "description": "",
           "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Koban%C3%AE",
+          "wikiUrl": "https://en.wikipedia.org/wiki/10th_Army_(Wehrmacht)",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Heinrich_von_Vietinghoff.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Heinrich_von_Vietinghoff.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "heinrich_von_vietinghoff.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Heinrich_von_Vietinghoff",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/10th_Army_(Wehrmacht)",
           "score": 8
         }
       ],
@@ -307,9 +399,213 @@
         "name": "Historia y Mundo",
         "icon": "🏛️"
       },
-      "mainPageTitle": "Siege of Kobanî",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Siege_of_Koban%C3%AE",
+      "mainPageTitle": "10th Army (Wehrmacht)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/10th_Army_(Wehrmacht)",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-16-1920-fb6c6fb2",
+      "year": 1920,
+      "text": "The Wall Street bombing: A bomb in a horse wagon explodes in front of the J. P. Morgan building in New York City killing 38 and injuring 400.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Wallstreetbmb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Wallstreetbmb.jpg/330px-Wallstreetbmb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "wallstreetbmb.jpg",
+        "width": 3000,
+        "height": 2100,
+        "title": "Wall Street bombing",
+        "description": "1920 bombing in New York City",
+        "extract": "The Wall Street bombing was an act of terrorism on Wall Street at 12:01 pm on Thursday, September 16, 1920. The blast killed 30 people immediately, and another eight later died of wounds that they sustained in the blast. There were 143 seriously injured, and the total number of injured was in the hundreds.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wall_Street_bombing",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Wallstreetbmb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Wallstreetbmb.jpg/330px-Wallstreetbmb.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wallstreetbmb.jpg",
+          "width": 3000,
+          "height": 2100,
+          "title": "Wall Street bombing",
+          "description": "1920 bombing in New York City",
+          "extract": "The Wall Street bombing was an act of terrorism on Wall Street at 12:01 pm on Thursday, September 16, 1920. The blast killed 30 people immediately, and another eight later died of wounds that they sustained in the blast. There were 143 seriously injured, and the total number of injured was in the hundreds.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wall_Street_bombing",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Wallstreetbombing1920-page-001.jpg/1280px-Wallstreetbombing1920-page-001.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Wallstreetbombing1920-page-001.jpg/1280px-Wallstreetbombing1920-page-001.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "wallstreetbombing1920-page-001.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Cover of The New York Times reporting on the Wall Street bombing.",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wall_Street_bombing",
+          "score": 8
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Wall-street-vic-200916.jpg/1280px-Wall-street-vic-200916.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Wall-street-vic-200916.jpg/1280px-Wall-street-vic-200916.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "wall-street-vic-200916.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Captioned \"Dead in front of [J.P.] Morgan's [bank]\", taken on the day of the bombing",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Wall_Street_bombing",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Wall Street bombing",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Wall_Street_bombing",
       "relatedPagesCount": 1
+    },
+    {
+      "id": "09-16-1914-22f2efda",
+      "year": 1914,
+      "text": "World War I: The Siege of Przemyśl (present-day Poland) begins.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bataille_de_verdun_1916.jpg",
+        "width": 1875,
+        "height": 1402,
+        "title": "World War I",
+        "description": "Global conflict from 1914 to 1918",
+        "extract": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bataille_de_verdun_1916.jpg",
+          "width": 1875,
+          "height": 1402,
+          "title": "World War I",
+          "description": "Global conflict from 1914 to 1918",
+          "extract": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0_%D0%B8_%D0%BB%D1%8E%D0%B4%D0%B8_1915_%D0%92%D0%B7%D1%8F%D1%82%D1%8B%D0%B9_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%80%D0%BC%D0%B8%D0%B5%D0%B9_%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D1%8B%D1%88%D0%BB%D1%8C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0_%D0%B8_%D0%BB%D1%8E%D0%B4%D0%B8_1915_%D0%92%D0%B7%D1%8F%D1%82%D1%8B%D0%B9_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%80%D0%BC%D0%B8%D0%B5%D0%B9_%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D1%8B%D1%88%D0%BB%D1%8C.jpg/330px-%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0_%D0%B8_%D0%BB%D1%8E%D0%B4%D0%B8_1915_%D0%92%D0%B7%D1%8F%D1%82%D1%8B%D0%B9_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%80%D0%BC%D0%B8%D0%B5%D0%B9_%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D1%8B%D1%88%D0%BB%D1%8C.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "природа_и_люди_1915_взятый_русской_армией_перемышль.jpg",
+          "width": 2197,
+          "height": 1996,
+          "title": "Siege of Przemyśl",
+          "description": "1914–15 battle on the Eastern Front of World War I",
+          "extract": "The Siege of Przemyśl was the longest siege in Europe during the First World War, and the second-longest in the entire conflict, after the Siege of Medina. The siege was a crushing defeat of the Austro-Hungarian Army by the Russian Army. Przemyśl was a fortress-town and stronghold on the River San in southeastern Poland. The investment of Przemyśl began on 16 September 1914 and was briefly suspended on 11 October, due to an Austro-Hungarian offensive. The siege resumed on 9 November and the Austro-Hungarian garrison surrendered on 22 March 1915, after holding out for a total of 133 days. The siege has been referred to as \"Austria-Hungary's Stalingrad\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Siege_of_Przemy%C5%9Bl",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/British_39th_Siege_Battery_RGA_Somme_1916.jpg/1280px-British_39th_Siege_Battery_RGA_Somme_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/British_39th_Siege_Battery_RGA_Somme_1916.jpg/1280px-British_39th_Siege_Battery_RGA_Somme_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "british_39th_siege_battery_rga_somme_1916.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "British_39th_Siege_Battery_RGA_Somme_1916",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "World War I",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_I",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-16-1810-6db88e45",
+      "year": 1810,
+      "text": "With the Grito de Dolores, Father Miguel Hidalgo begins Mexico's fight for independence from Spain.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 95,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Dolores_hidalgo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Dolores_hidalgo.jpg/330px-Dolores_hidalgo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "dolores_hidalgo.jpg",
+        "width": 1536,
+        "height": 2048,
+        "title": "Grito de Dolores",
+        "description": "Call to arms triggering the Mexican War of Independence",
+        "extract": "The Cry of Dolores occurred in Dolores, Mexico, on 16 September 1810, when Roman Catholic priest Miguel Hidalgo y Costilla rang his church bell and gave the call to arms that triggered the Mexican War of Independence. The Cry of Dolores is most commonly known by the locals as El Grito de Independencia.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Grito_de_Dolores",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Dolores_hidalgo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Dolores_hidalgo.jpg/330px-Dolores_hidalgo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dolores_hidalgo.jpg",
+          "width": 1536,
+          "height": 2048,
+          "title": "Grito de Dolores",
+          "description": "Call to arms triggering the Mexican War of Independence",
+          "extract": "The Cry of Dolores occurred in Dolores, Mexico, on 16 September 1810, when Roman Catholic priest Miguel Hidalgo y Costilla rang his church bell and gave the call to arms that triggered the Mexican War of Independence. The Cry of Dolores is most commonly known by the locals as El Grito de Independencia.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Grito_de_Dolores",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/General%C3%ADsimo_Miguel_Hidalgo_y_Costilla.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/General%C3%ADsimo_Miguel_Hidalgo_y_Costilla.png/330px-General%C3%ADsimo_Miguel_Hidalgo_y_Costilla.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "generalísimo_miguel_hidalgo_y_costilla.png",
+          "width": 1788,
+          "height": 2220,
+          "title": "Miguel Hidalgo y Costilla",
+          "description": "Mexican Catholic preacher (1753–1811)",
+          "extract": "Don Miguel Gregorio Antonio Ignacio Hidalgo y Costilla Gallaga Mandarte y Villaseñor, commonly known as Miguel Hidalgo y Costilla or simply Miguel Hidalgo, was a Mexican Catholic priest and prominent leader of the Mexican War of Independence, who is recognized as the Father of the Nation.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Miguel_Hidalgo_y_Costilla",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Collage_Independencia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Collage_Independencia.jpg/330px-Collage_Independencia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "collage_independencia.jpg",
+          "width": 1132,
+          "height": 1608,
+          "title": "Mexican War of Independence",
+          "description": "Armed conflict which ended Spanish rule of New Spain",
+          "extract": "The Mexican War of Independence was an armed conflict and political process resulting in Mexico's independence from the Spanish Empire. It was not a single, coherent event, but local and regional struggles that occurred within the same period, and can be considered a revolutionary civil war. It culminated with the drafting of the Declaration of Independence of the Mexican Empire in Mexico City on September 28, 1821, following the collapse of royal government and the military triumph of forces for independence.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mexican_War_of_Independence",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Grito de Dolores",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Grito_de_Dolores",
+      "relatedPagesCount": 3
     },
     {
       "id": "09-16-2013-206aff72",
@@ -319,10 +615,10 @@
       "hasImage": true,
       "imagesCount": 2,
       "imageScore": 10,
-      "marketingScore": 65,
+      "marketingScore": 85,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv/500px--Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv.jpg",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv/330px--Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv.jpg",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv/500px--Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv.jpg",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv/330px--Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv.jpg",
         "canonicalKey": "-video_footage_of_shooter_at_washington_navy_yard_-_youtube.theora.ogv.jpg",
         "width": 528,
         "height": 360,
@@ -334,8 +630,8 @@
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv/500px--Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv.jpg",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv/330px--Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv.jpg",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv/500px--Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv.jpg",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv/330px--Video_Footage_of_Shooter_at_Washington_Navy_Yard_-_YouTube.theora.ogv.jpg",
           "canonicalKey": "-video_footage_of_shooter_at_washington_navy_yard_-_youtube.theora.ogv.jpg",
           "width": 528,
           "height": 360,
@@ -347,7 +643,7 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/NAVSEA_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/NAVSEA_logo.jpg/330px-NAVSEA_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/NAVSEA_logo.jpg/330px-NAVSEA_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "navsea_logo.jpg",
           "width": 1024,
           "height": 466,
@@ -365,230 +661,6 @@
       },
       "mainPageTitle": "Washington Navy Yard shooting",
       "mainPageUrl": "https://en.wikipedia.org/wiki/Washington_Navy_Yard_shooting",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "09-16-2007-59db404a",
-      "year": 2007,
-      "text": "Seventeen Iraqi civilians were shot and killed by Academi guards in Baghdad.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 1,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/5628442718_b10fc2c47f_o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/330px-5628442718_b10fc2c47f_o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "5628442718_b10fc2c47f_o.jpg",
-        "width": 2000,
-        "height": 1312,
-        "title": "Baghdad",
-        "description": "Capital of Iraq",
-        "extract": "Baghdad is the capital and largest city in Iraq. It is located on the banks of the Tigris in central Iraq. The city has an estimated population of 8 million. It ranks among the most populous and largest cities in the Middle East and the Arab world and constitutes 22% of Iraq's population. Baghdad is a primary financial and commercial center in the region.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Baghdad",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/5628442718_b10fc2c47f_o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/5628442718_b10fc2c47f_o.jpg/330px-5628442718_b10fc2c47f_o.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "5628442718_b10fc2c47f_o.jpg",
-          "width": 2000,
-          "height": 1312,
-          "title": "Baghdad",
-          "description": "Capital of Iraq",
-          "extract": "Baghdad is the capital and largest city in Iraq. It is located on the banks of the Tigris in central Iraq. The city has an estimated population of 8 million. It ranks among the most populous and largest cities in the Middle East and the Arab world and constitutes 22% of Iraq's population. Baghdad is a primary financial and commercial center in the region.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Baghdad",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "history",
-        "name": "Historia y Mundo",
-        "icon": "🏛️"
-      },
-      "mainPageTitle": "Nisour Square massacre",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Nisour_Square_massacre",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "09-16-2005-a5953673",
-      "year": 2005,
-      "text": "The Camorra organized crime boss Paolo Di Lauro is arrested in Naples, Italy.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/d/d9/PauloDiLauro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/PauloDiLauro.jpg/330px-PauloDiLauro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "paulodilauro.jpg",
-        "width": 456,
-        "height": 219,
-        "title": "Paolo Di Lauro",
-        "description": "Italian crime boss (born 1953)",
-        "extract": "Paolo Di Lauro is an Italian crime boss, leader of the Di Lauro Clan, a Camorra crime organization. He is also known as Ciruzzo 'o milionario among other aliases. In 2002, he was included in the list of most wanted fugitives in Italy and was captured in September 2005.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Paolo_Di_Lauro",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/en/d/d9/PauloDiLauro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/PauloDiLauro.jpg/330px-PauloDiLauro.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "paulodilauro.jpg",
-          "width": 456,
-          "height": 219,
-          "title": "Paolo Di Lauro",
-          "description": "Italian crime boss (born 1953)",
-          "extract": "Paolo Di Lauro is an Italian crime boss, leader of the Di Lauro Clan, a Camorra crime organization. He is also known as Ciruzzo 'o milionario among other aliases. In 2002, he was included in the list of most wanted fugitives in Italy and was captured in September 2005.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Paolo_Di_Lauro",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Camorristi-1906.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Camorristi-1906.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-          "canonicalKey": "camorristi-1906.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Camorristi in Naples, 1906",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Camorra",
-          "score": 8
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Cuocolo_Trial_in_Viterbo_1911-12.jpg/500px-Cuocolo_Trial_in_Viterbo_1911-12.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Cuocolo_Trial_in_Viterbo_1911-12.jpg/500px-Cuocolo_Trial_in_Viterbo_1911-12.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "cuocolo_trial_in_viterbo_1911-12.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "The Cuocolo Trial. Most of the defendants are in the large cage. The three in front are (from left to right) the priest Ciro Vitozzi, Maria Stendardo, the only female defendant; and Enrico Alfano. In the small cage to the right is the Crown witness Gennaro Abbatemaggio.",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Camorra",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "history",
-        "name": "Historia y Mundo",
-        "icon": "🏛️"
-      },
-      "mainPageTitle": "Camorra",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Camorra",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "09-16-2004-94aca610",
-      "year": 2004,
-      "text": "Hurricane Ivan makes landfall in Gulf Shores, Alabama as a Category 3 hurricane.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ivan_2004-09-13_1900Z_%28alternate%29.jpg/3840px-Ivan_2004-09-13_1900Z_%28alternate%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ivan_2004-09-13_1900Z_%28alternate%29.jpg/330px-Ivan_2004-09-13_1900Z_%28alternate%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "ivan_2004-09-13_1900z_(alternate).jpg",
-        "width": 6000,
-        "height": 7800,
-        "title": "Hurricane Ivan",
-        "description": "Category 5 Atlantic hurricane in 2004",
-        "extract": "Hurricane Ivan was a large, long-lived, and devastating tropical cyclone that caused widespread damage in the Caribbean and United States. The ninth named storm, the sixth hurricane, and the fourth major hurricane of the active 2004 Atlantic hurricane season, Ivan formed in early September and reached Category 5 strength on the Saffir–Simpson Hurricane Scale (SSHS). Ivan caused catastrophic damage in Grenada as a strong Category 3 storm, heavy damage in Jamaica as a strong Category 4 storm, and then severe damage in Grand Cayman, Cayman Islands, and the western tip of Cuba as a Category 5 hurricane. After peaking in strength, the hurricane moved north-northwest across the Gulf of Mexico to strike Pensacola/Milton, Florida and Alabama as a strong Category 3 storm, causing significant damage. Ivan dropped heavy rain on the Southeastern United States as it progressed northeastward and eastward through the Eastern United States, becoming an extratropical cyclone on September 18. The remnant low of the storm moved into the western subtropical Atlantic and regenerated into a tropical cyclone on September 22, which then moved across Florida and the Gulf of Mexico, and then into Louisiana and Texas, causing minimal damage. Ivan degenerated into a remnant low on September 24, before dissipating on the next day.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Hurricane_Ivan",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ivan_2004-09-13_1900Z_%28alternate%29.jpg/3840px-Ivan_2004-09-13_1900Z_%28alternate%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ivan_2004-09-13_1900Z_%28alternate%29.jpg/330px-Ivan_2004-09-13_1900Z_%28alternate%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "ivan_2004-09-13_1900z_(alternate).jpg",
-          "width": 6000,
-          "height": 7800,
-          "title": "Hurricane Ivan",
-          "description": "Category 5 Atlantic hurricane in 2004",
-          "extract": "Hurricane Ivan was a large, long-lived, and devastating tropical cyclone that caused widespread damage in the Caribbean and United States. The ninth named storm, the sixth hurricane, and the fourth major hurricane of the active 2004 Atlantic hurricane season, Ivan formed in early September and reached Category 5 strength on the Saffir–Simpson Hurricane Scale (SSHS). Ivan caused catastrophic damage in Grenada as a strong Category 3 storm, heavy damage in Jamaica as a strong Category 4 storm, and then severe damage in Grand Cayman, Cayman Islands, and the western tip of Cuba as a Category 5 hurricane. After peaking in strength, the hurricane moved north-northwest across the Gulf of Mexico to strike Pensacola/Milton, Florida and Alabama as a strong Category 3 storm, causing significant damage. Ivan dropped heavy rain on the Southeastern United States as it progressed northeastward and eastward through the Eastern United States, becoming an extratropical cyclone on September 18. The remnant low of the storm moved into the western subtropical Atlantic and regenerated into a tropical cyclone on September 22, which then moved across Florida and the Gulf of Mexico, and then into Louisiana and Texas, causing minimal damage. Ivan degenerated into a remnant low on September 24, before dissipating on the next day.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Hurricane_Ivan",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ivan_2004_path.png/1280px-Ivan_2004_path.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ivan_2004_path.png/1280px-Ivan_2004_path.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "ivan_2004_path.png",
-          "width": 800,
-          "height": 600,
-          "title": "Map plotting the storm's track and intensity, according to the Saffir–Simpson scale.mw-parser-output .hidden-begin{box-sizing:border-box;width:100%;padding:5px;border:none;font-size:95%}.mw-parser-output .hidden-title{font-weight:bold;line-height:1.6;text-align:left}.mw-parser-output .hidden-content{text-align:left}@media all and (max-width:500px){.mw-parser-output .hidden-begin{width:auto!important;clear:none!important;float:none!important}}Map keySaffir–Simpson scale.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}\n.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}  Tropical depression (≤38 mph, ≤62 km/h)\n  Tropical storm (39–73 mph, 63–118 km/h)\n  Category 1 (74–95 mph, 119–153 km/h)\n  Category 2 (96–110 mph, 154–177 km/h)\n  Category 3 (111–129 mph, 178–208 km/h)\n  Category 4 (130–156 mph, 209–251 km/h)\n  Category 5 (≥157 mph, ≥252 km/h)\n  Unknown\n\n\n\nStorm type\n Tropical cyclone\n Subtropical cyclone\n Extratropical cyclone, remnant low, tropical disturbance, or monsoon depression\n",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Hurricane_Ivan",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "history",
-        "name": "Historia y Mundo",
-        "icon": "🏛️"
-      },
-      "mainPageTitle": "Hurricane Ivan",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Hurricane_Ivan",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "09-16-1994-813b3afc",
-      "year": 1994,
-      "text": "The British government lifts the broadcasting ban imposed against members of Sinn Féin and Irish paramilitary groups in 1988.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gerry_Adams_reading_into_mic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gerry_Adams_reading_into_mic.jpg/330px-Gerry_Adams_reading_into_mic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "gerry_adams_reading_into_mic.jpg",
-        "width": 2272,
-        "height": 1704,
-        "title": "1988–1994 British broadcasting voice restrictions",
-        "description": "Partial ban on voices of specific speakers",
-        "extract": "From October 1988 to September 1994 the British government banned broadcasts of the voices of representatives from Sinn Féin and ten other Irish republican and loyalist groups on television and radio in the United Kingdom. The restrictions, announced by the Home Secretary, Douglas Hurd, on 19 October 1988, followed a heightened period of violence in the course of the Troubles, and reflected the UK government's belief in a need to prevent these groups from using the media for political advantage.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/1988%E2%80%931994_British_broadcasting_voice_restrictions",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Gerry_Adams_reading_into_mic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gerry_Adams_reading_into_mic.jpg/330px-Gerry_Adams_reading_into_mic.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "gerry_adams_reading_into_mic.jpg",
-          "width": 2272,
-          "height": 1704,
-          "title": "1988–1994 British broadcasting voice restrictions",
-          "description": "Partial ban on voices of specific speakers",
-          "extract": "From October 1988 to September 1994 the British government banned broadcasts of the voices of representatives from Sinn Féin and ten other Irish republican and loyalist groups on television and radio in the United Kingdom. The restrictions, announced by the Home Secretary, Douglas Hurd, on 19 October 1988, followed a heightened period of violence in the course of the Troubles, and reflected the UK government's belief in a need to prevent these groups from using the media for political advantage.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/1988%E2%80%931994_British_broadcasting_voice_restrictions",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Douglas_Hurd%2C_November_2007_cropped.jpg/500px-Douglas_Hurd%2C_November_2007_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Douglas_Hurd%2C_November_2007_cropped.jpg/500px-Douglas_Hurd%2C_November_2007_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "douglas_hurd,_november_2007_cropped.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Douglas Hurd, seen here in 2007, introduced the measures in October 1988.",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/1988%E2%80%931994_British_broadcasting_voice_restrictions",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "cinema_tv",
-        "name": "Cine y TV",
-        "icon": "🎬"
-      },
-      "mainPageTitle": "1988–1994 British broadcasting voice restrictions",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/1988%E2%80%931994_British_broadcasting_voice_restrictions",
       "relatedPagesCount": 2
     }
   ]

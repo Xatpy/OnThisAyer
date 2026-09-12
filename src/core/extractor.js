@@ -64,7 +64,7 @@ const HIGH_IMPACT_KEYWORDS = [
   'iphone', 'apple', 'steve jobs', 'steve wozniak', 'macintosh', 'ipod', 'ipad',
   'microsoft', 'windows 95', 'windows', 'bill gates', 'google', 'youtube', 'facebook', 'instagram', 'twitter',
   'playstation', 'nintendo', 'game boy', 'super mario', 'pokemon', 'sega', 'atari', 'xbox', 'gta', 'grand theft auto',
-  'apollo 11', 'moon landing', 'nasa', 'spacex', 'mars rover', 'curiosity', 'hubble', 'voyager', 'concorde', 'first flight',
+  'apollo 11', 'moon landing', 'mars rover', 'curiosity', 'hubble', 'voyager', 'concorde', 'first flight',
   'star wars', 'jurassic park', 'harry potter', 'lord of the rings', 'titanic', 'avatar', 'matrix',
   'marvel', 'avengers', 'batman', 'superman', 'disney', 'pixar', 'lion king', 'toy story',
   'game of thrones', 'breaking bad', 'friends', 'the simpsons', 'stranger things', 'academy award', 'oscar', 'cannes',
@@ -82,10 +82,10 @@ const MEGA_HISTORICAL_KEYWORDS = [
   'september 11 attacks', 'world trade center', 'twin towers',
   'pearl harbor', 'd-day', 'normandy landings', 'operation overlord', 'hiroshima', 'nagasaki', 'atomic bomb',
   'holocaust', 'auschwitz', 'fall of the berlin wall',
-  'assassination of john f. kennedy', 'john f. kennedy', 'jfk',
+  'assassination of john f. kennedy', 'john f. kennedy', 'jfk', 'we choose to go to the moon',
   'assassination of martin luther king', 'assassination of abraham lincoln', 'assassination of archduke',
   'chernobyl disaster', 'chernobyl', 'sinking of the titanic', 'challenger disaster',
-  'apollo 11', 'moon landing', 'first man on the moon', 'first man in space', 'yuri gagarin'
+  'apollo 11', 'moon landing', 'first man on the moon', 'first man in space', 'yuri gagarin', 'sputnik'
 ];
 
 const HIGH_IMPACT_HISTORICAL_KEYWORDS = [
@@ -96,7 +96,7 @@ const HIGH_IMPACT_HISTORICAL_KEYWORDS = [
   'cuban missile crisis', 'korean war', 'falklands war', 'gulf war',
   'invasion of iraq', 'invasion of poland',
   // Historic assassinations & leaders
-  'assassination of', 'assassinated', 'martin luther king',
+  'assassination of', 'assassinated', 'martin luther king', 'steve biko',
   'abraham lincoln', 'mahatma gandhi', 'nelson mandela', 'apartheid',
   // Major disasters
   'fukushima', 'hindenburg', 'columbia disaster',
@@ -113,7 +113,9 @@ const HIGH_IMPACT_HISTORICAL_KEYWORDS = [
   'declaration of independence', 'un charter', 'universal declaration of human rights',
   // Scientific breakthroughs
   'penicillin', 'theory of relativity', 'albert einstein',
-  'double helix', 'human genome', 'first heart transplant'
+  'double helix', 'human genome', 'first heart transplant',
+  // Culture & Tech Game Changers
+  'steam', 'release of steam', 'valve'
 ];
 
 const LOW_IMPACT_NOISE = [
@@ -122,7 +124,12 @@ const LOW_IMPACT_NOISE = [
   'railway line opens', 'canal opens between', 'archbishop', 'cardinal', 'coronation of king',
   'sovereign', 'consecrated', 'annexed by', 'charter of', 'treaty signed', 'prefecture',
   'riots erupt in', 'ethnic violence in', 'local council', 'provincial assembly', 'papal bull',
-  'census', 'electoral college', 'appointed governor'
+  'census', 'electoral college', 'appointed governor',
+  // Routine space & satellite noise
+  'resupply the international space station', 'is launched to resupply', 'cargo spacecraft',
+  'communications satellite', 'weather satellite', 'reconnaissance satellite', 'spy satellite',
+  'navigation satellite', 'satellite is launched', 'satellites are launched',
+  'uncrewed spaceflight', 'suborbital', 'penultimate mission'
 ];
 
 export function categorizeEvent(text, pages = []) {
@@ -235,8 +242,13 @@ export function calculateMarketingScore(eventText, pages = [], year = 2000, maxI
     }
   }
 
-  if (matchedMega || matchedHistorical || matchedPop || /(cinema|movie|film|album|song|singer|band|actor|apple|space|nasa|game|nintendo|playstation|olympic|world cup|nba|f1|beatles|queen|quarrymen|world war|terroris|tragedy|disaster|revolution|assassin)/i.test(fullText)) {
+  if (matchedMega || matchedHistorical || matchedPop || /(cinema|movie|film|album|song|singer|band|actor|apple|game|nintendo|playstation|olympic|world cup|nba|f1|beatles|queen|quarrymen|world war|terroris|tragedy|disaster|revolution|assassin)/i.test(fullText)) {
     score += 20;
+  }
+
+  // Routine space shuttle flight noise (STS missions without disaster)
+  if (/\bspace shuttle\b.*\bsts-\d+\b/i.test(fullText) && !/\b(disaster|fatal|exploded|destroyed|challenger|columbia)\b/i.test(fullText)) {
+    score -= 40;
   }
 
   for (const noise of LOW_IMPACT_NOISE) {

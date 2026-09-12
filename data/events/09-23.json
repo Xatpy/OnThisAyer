@@ -8,142 +8,6 @@
   "eventsWithImages": 10,
   "events": [
     {
-      "id": "09-23-1999-bee60ce2",
-      "year": 1999,
-      "text": "Qantas Flight 1 overruns a runway in Bangkok during a storm, causing minor injuries to some passengers.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 130,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Qantas_Flight_1_wreckage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Qantas_Flight_1_wreckage.png/330px-Qantas_Flight_1_wreckage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "qantas_flight_1_wreckage.png",
-        "width": 818,
-        "height": 508,
-        "title": "Qantas Flight 1",
-        "description": "1999 runway excursion accident in Bangkok, Thailand",
-        "extract": "Qantas Flight 1 (QF1/QFA1) was a Qantas passenger flight between Sydney and London with a stop in Bangkok-Don Mueang. On 23 September 1999, the Boeing 747-400 operating as Flight 1 had departed from Sydney that day, and was involved in a runway overrun accident at Don Mueang International Airport in Bangkok as it was landing for a stopover.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Qantas_Flight_1",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Qantas_Flight_1_wreckage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Qantas_Flight_1_wreckage.png/330px-Qantas_Flight_1_wreckage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "qantas_flight_1_wreckage.png",
-          "width": 818,
-          "height": 508,
-          "title": "Qantas Flight 1",
-          "description": "1999 runway excursion accident in Bangkok, Thailand",
-          "extract": "Qantas Flight 1 (QF1/QFA1) was a Qantas passenger flight between Sydney and London with a stop in Bangkok-Don Mueang. On 23 September 1999, the Boeing 747-400 operating as Flight 1 had departed from Sydney that day, and was involved in a runway overrun accident at Don Mueang International Airport in Bangkok as it was landing for a stopover.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Qantas_Flight_1",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/4Y1A1159_Bangkok_%2833536795515%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/4Y1A1159_Bangkok_%2833536795515%29.jpg/330px-4Y1A1159_Bangkok_%2833536795515%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "4y1a1159_bangkok_(33536795515).jpg",
-          "width": 2999,
-          "height": 1999,
-          "title": "Bangkok",
-          "description": "Capital and largest city of Thailand",
-          "extract": "Bangkok, known in Thai as Krung Thep Maha Nakhon and colloquially as Krung Thep, is the capital and largest city of the Kingdom of Thailand. The city occupies 1,568.7 square kilometres (605.7 sq mi) in the Chao Phraya River delta in central Thailand and has an estimated population of 9.1 million people as of 2024, 15.9% of the country's population. Over 17.4 million people live within the surrounding Bangkok Metropolitan Region as of the 2021 estimate, making Bangkok a megacity and an extreme primate city, dwarfing Thailand's other urban centres in both size and importance to the national economy.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Bangkok",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Qantas_Boeing_747-400%2C_VH-OJH%2C_SIN_for_web.jpg/500px-Qantas_Boeing_747-400%2C_VH-OJH%2C_SIN_for_web.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Qantas_Boeing_747-400%2C_VH-OJH%2C_SIN_for_web.jpg/500px-Qantas_Boeing_747-400%2C_VH-OJH%2C_SIN_for_web.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "qantas_boeing_747-400,_vh-ojh,_sin_for_web.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Qantas_Boeing_747-400,_VH-OJH,_SIN_for_web",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Qantas_Flight_1",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Qantas Flight 1",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Qantas_Flight_1",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "09-23-1956-c3ee7e9f",
-      "year": 1956,
-      "text": "A tropical storm originating in the eastern Pacific Ocean passes into the Gulf of Mexico and is upgraded and named Hurricane Flossy just hours before striking the Gulf Coast and causing 15 deaths and an estimated US$24.8 million in damages.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 120,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/3840px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/330px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "dramatic_views_of_hurricane_florence_from_the_international_space_station_from_9_12_(42828603210)_(cropped).jpg",
-        "width": 4750,
-        "height": 3250,
-        "title": "Tropical cyclone",
-        "description": "Rapidly rotating storm system",
-        "extract": "A tropical cyclone is a rapidly rotating storm system with a low-pressure area, a closed low-level atmospheric circulation, strong winds, and a spiral arrangement of thunderstorms that produce heavy rain and squalls. Depending on its location and strength, a tropical cyclone is called a hurricane, typhoon, tropical storm, cyclonic storm, tropical depression, or simply cyclone. A hurricane is a strong tropical cyclone that occurs in the Atlantic Ocean or northeastern Pacific Ocean. A typhoon is the same thing which occurs in the northwestern Pacific Ocean. In the Indian Ocean and South Pacific, comparable storms are referred to as \"tropical cyclones\". In modern times, on average around 80 to 90 named tropical cyclones form each year around the world, over half of which develop hurricane-force winds of 65 kn or more.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Tropical_cyclone",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/3840px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/330px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "dramatic_views_of_hurricane_florence_from_the_international_space_station_from_9_12_(42828603210)_(cropped).jpg",
-          "width": 4750,
-          "height": 3250,
-          "title": "Tropical cyclone",
-          "description": "Rapidly rotating storm system",
-          "extract": "A tropical cyclone is a rapidly rotating storm system with a low-pressure area, a closed low-level atmospheric circulation, strong winds, and a spiral arrangement of thunderstorms that produce heavy rain and squalls. Depending on its location and strength, a tropical cyclone is called a hurricane, typhoon, tropical storm, cyclonic storm, tropical depression, or simply cyclone. A hurricane is a strong tropical cyclone that occurs in the Atlantic Ocean or northeastern Pacific Ocean. A typhoon is the same thing which occurs in the northwestern Pacific Ocean. In the Indian Ocean and South Pacific, comparable storms are referred to as \"tropical cyclones\". In modern times, on average around 80 to 90 named tropical cyclones form each year around the world, over half of which develop hurricane-force winds of 65 kn or more.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Tropical_cyclone",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pacific_Ocean_-_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pacific_Ocean_-_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "canonicalKey": "pacific_ocean_-_en.png",
-          "width": 330,
-          "height": 330,
-          "title": "Pacific Ocean",
-          "description": "Largest ocean on Earth",
-          "extract": "The Pacific Ocean is the largest and deepest of Earth's five oceanic divisions. It stretches from the Arctic Ocean in the north to the Southern Ocean, or, depending on the definition, to Antarctica in the south, and is bounded by the continents of Asia and Australia in the west and the Americas in the east.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Pacific_Ocean",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gulf_of_Mexico_ETOPO_2022_%28labeled%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gulf_of_Mexico_ETOPO_2022_%28labeled%29.png/330px-Gulf_of_Mexico_ETOPO_2022_%28labeled%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "gulf_of_mexico_etopo_2022_(labeled).png",
-          "width": 2922,
-          "height": 2160,
-          "title": "Gulf of Mexico",
-          "description": "Marginal sea of the Atlantic Ocean",
-          "extract": "The Gulf of Mexico is an oceanic basin and a marginal sea of the Atlantic Ocean, mostly surrounded by the North American continent. It is bounded on the northeast, north, and northwest by the Gulf Coast of the United States; on the southwest and south by the Mexican states of Tamaulipas, Veracruz, Tabasco, Campeche, Yucatán, and Quintana Roo; and on the southeast by Cuba.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Gulf_of_Mexico",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "sports",
-        "name": "Deportes",
-        "icon": "🏆"
-      },
-      "mainPageTitle": "Tropical cyclone",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Tropical_cyclone",
-      "relatedPagesCount": 6
-    },
-    {
       "id": "09-23-1952-ec8e4186",
       "year": 1952,
       "text": "U.S. vice-presidential candidate Richard Nixon delivered the Checkers speech, one of the first political uses of television to appeal directly to the populace.",
@@ -151,10 +15,10 @@
       "hasImage": true,
       "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 100,
+      "marketingScore": 180,
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
         "width": 2136,
         "height": 2830,
@@ -167,7 +31,7 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "richard_nixon_presidential_portrait_(2).jpg",
           "width": 2136,
           "height": 2830,
@@ -179,7 +43,7 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Checkers_speech_shot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Checkers_speech_shot.png/330px-Checkers_speech_shot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Checkers_speech_shot.png/330px-Checkers_speech_shot.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "checkers_speech_shot.png",
           "width": 1156,
           "height": 893,
@@ -190,8 +54,8 @@
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Richard_Nixon_presidential_portrait_crop.jpg/1280px-Richard_Nixon_presidential_portrait_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Richard_Nixon_presidential_portrait_crop.jpg/1280px-Richard_Nixon_presidential_portrait_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Richard_Nixon_presidential_portrait_crop.jpg/1280px-Richard_Nixon_presidential_portrait_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Richard_Nixon_presidential_portrait_crop.jpg/1280px-Richard_Nixon_presidential_portrait_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
           "canonicalKey": "richard_nixon_presidential_portrait_crop.jpg",
           "width": 800,
           "height": 600,
@@ -203,236 +67,80 @@
         }
       ],
       "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
       "mainPageTitle": "Richard Nixon",
       "mainPageUrl": "https://en.wikipedia.org/wiki/Richard_Nixon",
       "relatedPagesCount": 2
     },
     {
-      "id": "09-23-1905-3e597536",
-      "year": 1905,
-      "text": "Norway and Sweden sign the Karlstad Treaty, peacefully dissolving the Union between the two countries.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 1,
-      "imageScore": 10,
-      "marketingScore": 90,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Postcard-Norway-flag-1905.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Postcard-Norway-flag-1905.jpg/330px-Postcard-Norway-flag-1905.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "postcard-norway-flag-1905.jpg",
-        "width": 600,
-        "height": 400,
-        "title": "Dissolution of the union between Norway and Sweden",
-        "description": "1905 dissolution of union",
-        "extract": "The dissolution of the union between the kingdoms of Norway and Sweden under the House of Bernadotte, was set in motion by a resolution of the Storting on 7 June 1905. Following some months of tension and fear of an outbreak of war between the neighbouring kingdoms – and a Norwegian plebiscite held on 13 August which overwhelmingly backed dissolution – negotiations between the two governments led to Sweden's recognition of Norway as an independent constitutional monarchy on 26 October 1905. On that date, King Oscar II renounced his claim to the Norwegian throne, effectively dissolving the United Kingdoms of Sweden and Norway, and this event was swiftly followed, on 18 November, by the accession to the Norwegian throne of Prince Carl of Denmark, taking the name of Haakon VII.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Dissolution_of_the_union_between_Norway_and_Sweden",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Postcard-Norway-flag-1905.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Postcard-Norway-flag-1905.jpg/330px-Postcard-Norway-flag-1905.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "postcard-norway-flag-1905.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Dissolution of the union between Norway and Sweden",
-          "description": "1905 dissolution of union",
-          "extract": "The dissolution of the union between the kingdoms of Norway and Sweden under the House of Bernadotte, was set in motion by a resolution of the Storting on 7 June 1905. Following some months of tension and fear of an outbreak of war between the neighbouring kingdoms – and a Norwegian plebiscite held on 13 August which overwhelmingly backed dissolution – negotiations between the two governments led to Sweden's recognition of Norway as an independent constitutional monarchy on 26 October 1905. On that date, King Oscar II renounced his claim to the Norwegian throne, effectively dissolving the United Kingdoms of Sweden and Norway, and this event was swiftly followed, on 18 November, by the accession to the Norwegian throne of Prince Carl of Denmark, taking the name of Haakon VII.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Dissolution_of_the_union_between_Norway_and_Sweden",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "cinema_tv",
-        "name": "Cine y TV",
-        "icon": "🎬"
-      },
-      "mainPageTitle": "Dissolution of the union between Norway and Sweden",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Dissolution_of_the_union_between_Norway_and_Sweden",
-      "relatedPagesCount": 1
-    },
-    {
-      "id": "09-23-2010-8afb5b66",
-      "year": 2010,
-      "text": "Teresa Lewis became the first woman to be executed by the U.S. state of Virginia since 1912, and the first woman in the state to be executed via lethal injection.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 85,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Teresa_Lewis_DOC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Teresa_Lewis_DOC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "canonicalKey": "teresa_lewis_doc.jpg",
-        "width": 240,
-        "height": 292,
-        "title": "Teresa Lewis",
-        "description": "American murderer (1969–2010)",
-        "extract": "Teresa Wilson Bean Lewis was an American murderer who was the only woman on death row in Virginia prior to her execution. She was sentenced to death by lethal injection for the murders of her husband and stepson in October 2002. Lewis sought to profit from a $250,000 life insurance policy her stepson had taken out as a U.S. Army reservist in anticipation of his deployment to Iraq.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Teresa_Lewis",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Teresa_Lewis_DOC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Teresa_Lewis_DOC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "canonicalKey": "teresa_lewis_doc.jpg",
-          "width": 240,
-          "height": 292,
-          "title": "Teresa Lewis",
-          "description": "American murderer (1969–2010)",
-          "extract": "Teresa Wilson Bean Lewis was an American murderer who was the only woman on death row in Virginia prior to her execution. She was sentenced to death by lethal injection for the murders of her husband and stepson in October 2002. Lewis sought to profit from a $250,000 life insurance policy her stepson had taken out as a U.S. Army reservist in anticipation of his deployment to Iraq.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Teresa_Lewis",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dan_River_Fabrics.jpg/500px-Dan_River_Fabrics.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Dan_River_Fabrics.jpg/500px-Dan_River_Fabrics.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "dan_river_fabrics.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Teresa Wilson Bean met future husband Julian Clifton Lewis Jr. at the now-defunct Dan River textile mill.[9]",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Teresa_Lewis",
-          "score": 8
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/en/8/80/Matthew_Jessee_Shallenberger.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/8/80/Matthew_Jessee_Shallenberger.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-          "canonicalKey": "matthew_jessee_shallenberger.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Mug shot of Matthew Jessee Shallenberger",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Teresa_Lewis",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
-      },
-      "mainPageTitle": "Teresa Lewis",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Teresa_Lewis",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "09-23-1561-40d5babe",
-      "year": 1561,
-      "text": "King Philip II of Spain issues cedula, ordering a halt to colonizing efforts in Florida.",
+      "id": "09-23-1942-722edefc",
+      "year": 1942,
+      "text": "World War II: The Matanikau action on Guadalcanal begins: U.S. Marines attack Japanese units along the Matanikau River.",
       "isFeatured": false,
       "hasImage": true,
       "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 85,
+      "marketingScore": 160,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg/330px-Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "portrait_of_philip_ii_of_spain_by_sofonisba_anguissola_-_002b.jpg",
-        "width": 2480,
-        "height": 3051,
-        "title": "Philip II of Spain",
-        "description": "King of Spain from 1556 to 1598",
-        "extract": "Philip II, sometimes known in Spain as Philip the Prudent, was King of Spain from 1556, King of Portugal from 1580, and King of Naples and Sicily from 1554 until his death in 1598. He was also jure uxoris King of England and Ireland from his marriage to Queen Mary I in 1554 until her death in 1558. Further, he was Duke of Milan from 1540. From 1555, he was Lord of the Seventeen Provinces of the Netherlands.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+        "width": 798,
+        "height": 544,
+        "title": "World War II",
+        "description": "Global conflict from 1939 to 1945",
+        "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
         "score": 10
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg/330px-Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "portrait_of_philip_ii_of_spain_by_sofonisba_anguissola_-_002b.jpg",
-          "width": 2480,
-          "height": 3051,
-          "title": "Philip II of Spain",
-          "description": "King of Spain from 1556 to 1598",
-          "extract": "Philip II, sometimes known in Spain as Philip the Prudent, was King of Spain from 1556, King of Portugal from 1580, and King of Naples and Sicily from 1554 until his death in 1598. He was also jure uxoris King of England and Ireland from his marriage to Queen Mary I in 1554 until her death in 1558. Further, he was Duke of Milan from 1540. From 1555, he was Lord of the Seventeen Provinces of the Netherlands.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+          "width": 798,
+          "height": 544,
+          "title": "World War II",
+          "description": "Global conflict from 1939 to 1945",
+          "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cedula_de_Identidad_-_Argentinien_-_Buenos_Aires_-_1934_-_Bild_001.jpg/3840px-Cedula_de_Identidad_-_Argentinien_-_Buenos_Aires_-_1934_-_Bild_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cedula_de_Identidad_-_Argentinien_-_Buenos_Aires_-_1934_-_Bild_001.jpg/330px-Cedula_de_Identidad_-_Argentinien_-_Buenos_Aires_-_1934_-_Bild_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "cedula_de_identidad_-_argentinien_-_buenos_aires_-_1934_-_bild_001.jpg",
-          "width": 7087,
-          "height": 5467,
-          "title": "Cédula de identidad",
-          "description": "Identity document in Latin American countries",
-          "extract": "A cédula de identidad (Spanish), also known as cédula de ciudadanía or Documento de identidad (DNI), is a national identity document in many countries in Central and South America. In certain countries, such as Costa Rica, a cédula de identidad is the only valid identity document that can be used for certain circumstances, for example, opening a bank account as a driving license or passport is not valid. The term \"cédula\" may also colloquially refer to the number on the identity document.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/C%C3%A9dula_de_identidad",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/GuadPatrol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/GuadPatrol.jpg/330px-GuadPatrol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "guadpatrol.jpg",
+          "width": 1517,
+          "height": 1203,
+          "title": "Actions along the Matanikau",
+          "description": "Battles during the Guadalcanal campaign in WWII",
+          "extract": "The Actions along the Matanikau—sometimes referred to as the Second and Third Battles of the Matanikau—were two separate but related engagements between the United States and Imperial Japanese naval and ground forces in the Pacific theater of World War II. The actions occurred around the Matanikau River on Guadalcanal Island in the southwestern Pacific during the Guadalcanal campaign. These particular engagements—the first taking place between 23 and 27 September, and the second between 6 and 9 October—were two of the largest and most significant of the Matanikau actions.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Actions_along_the_Matanikau",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bautizo_Felipe_II_grande.jpg/1280px-Bautizo_Felipe_II_grande.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Bautizo_Felipe_II_grande.jpg/1280px-Bautizo_Felipe_II_grande.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "bautizo_felipe_ii_grande.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "The Baptism of Philip II in Valladolid, Castile. Historical ceiling preserved in Palacio de Pimentel (Valladolid).",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
-      },
-      "mainPageTitle": "Philip II of Spain",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "09-23-2024-da15bc37",
-      "year": 2024,
-      "text": "Israel launches airstrikes against Hezbollah targets in Lebanon, killing more than 490 people.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 1,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hezbollah_Headquarter_Airstrike_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hezbollah_Headquarter_Airstrike_2024.jpg/330px-Hezbollah_Headquarter_Airstrike_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "hezbollah_headquarter_airstrike_2024.jpg",
-        "width": 3191,
-        "height": 2094,
-        "title": "September 2024 Israeli attacks against Lebanon",
-        "description": "",
-        "extract": "On 23 September 2024, Israel began a series of airstrikes in Lebanon as part of the ongoing Israel–Hezbollah conflict with an operation it code-named Northern Arrows. Since then, Israel's attacks have killed over 800 people, injured more than 5,000, and displaced hundreds of thousands of Lebanese civilians. The attacks are the deadliest in Lebanon since the end of the Lebanese Civil War, and began five days after Israel performed a deadly pager and walkie-talkie attack on devices intended for Hezbollah members, and three days after Israel performed an airstrike on an apartment complex in Beirut which killed Redwan Force commander Ibrahim Aqil as well as 54 others.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/September_2024_Israeli_attacks_against_Lebanon",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hezbollah_Headquarter_Airstrike_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hezbollah_Headquarter_Airstrike_2024.jpg/330px-Hezbollah_Headquarter_Airstrike_2024.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "hezbollah_headquarter_airstrike_2024.jpg",
-          "width": 3191,
-          "height": 2094,
-          "title": "September 2024 Israeli attacks against Lebanon",
-          "description": "",
-          "extract": "On 23 September 2024, Israel began a series of airstrikes in Lebanon as part of the ongoing Israel–Hezbollah conflict with an operation it code-named Northern Arrows. Since then, Israel's attacks have killed over 800 people, injured more than 5,000, and displaced hundreds of thousands of Lebanese civilians. The attacks are the deadliest in Lebanon since the end of the Lebanese Civil War, and began five days after Israel performed a deadly pager and walkie-talkie attack on devices intended for Hezbollah members, and three days after Israel performed an airstrike on an apartment complex in Beirut which killed Redwan Force commander Ibrahim Aqil as well as 54 others.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/September_2024_Israeli_attacks_against_Lebanon",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Visale%2C_Solomon_Islands.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Visale%2C_Solomon_Islands.JPG/330px-Visale%2C_Solomon_Islands.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "visale,_solomon_islands.jpg",
+          "width": 1800,
+          "height": 1202,
+          "title": "Guadalcanal",
+          "description": "Principal island of Solomon Islands",
+          "extract": "Guadalcanal is the principal island in the Guadalcanal Province of Solomon Islands, located in the southwestern Pacific Ocean, northeast of Australia. It is the largest island in the nation of Solomon Islands by both area and population, followed by Malaita. It is the second largest island in the Solomon Islands archipelago by area after Bougainville. The island is mainly covered in dense tropical rainforest and has a mountainous hinterland.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Guadalcanal",
           "score": 10
         }
       ],
       "category": {
-        "id": "cinema_tv",
-        "name": "Cine y TV",
-        "icon": "🎬"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
-      "mainPageTitle": "Israel",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Israel",
+      "mainPageTitle": "World War II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_II",
       "relatedPagesCount": 4
     },
     {
@@ -443,10 +151,10 @@
       "hasImage": true,
       "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 65,
+      "marketingScore": 140,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/3840px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/330px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/3840px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/330px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "canonicalKey": "election_mg_3455.jpg",
         "width": 4368,
         "height": 2912,
@@ -458,8 +166,8 @@
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/3840px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/330px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/3840px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Election_MG_3455.JPG/330px-Election_MG_3455.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "election_mg_3455.jpg",
           "width": 4368,
           "height": 2912,
@@ -471,7 +179,7 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Moscow_Annexation_Ceremony_%28free_image%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Moscow_Annexation_Ceremony_%28free_image%29.png/330px-Moscow_Annexation_Ceremony_%28free_image%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Moscow_Annexation_Ceremony_%28free_image%29.png/330px-Moscow_Annexation_Ceremony_%28free_image%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "moscow_annexation_ceremony_(free_image).png",
           "width": 1280,
           "height": 720,
@@ -504,116 +212,480 @@
       "relatedPagesCount": 3
     },
     {
-      "id": "09-23-2020-cef2616c",
-      "year": 2020,
-      "text": "A grand jury in Kentucky declines to indict three police officers for the shooting death of Breonna Taylor in a drug raid gone wrong, leading to nationwide protests in the U.S.",
+      "id": "09-23-1999-bee60ce2",
+      "year": 1999,
+      "text": "Qantas Flight 1 overruns a runway in Bangkok during a storm, causing minor injuries to some passengers.",
       "isFeatured": false,
       "hasImage": true,
-      "imagesCount": 2,
+      "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 65,
+      "marketingScore": 130,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Breonna_Taylor_%28graduation_photo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/Breonna_Taylor_%28graduation_photo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "canonicalKey": "breonna_taylor_(graduation_photo).jpg",
-        "width": 273,
-        "height": 365,
-        "title": "Breonna Taylor",
-        "description": "American police brutality victim (1993–2020)",
-        "extract": "Breonna Taylor was an African-American woman who was shot and killed while unarmed in her Louisville, Kentucky, home by three police officers who entered under the auspices of a \"no-knock\" search warrant. After Louisville Metro Police Department (LMPD) ex-detective Brett Hankison was acquitted of felony wanton endangerment of Taylor's neighbors at the state-level, Attorney General Merrick Garland announced the Department of Justice was charging Hankison with the unconstitutional use of excessive force that violated Taylor's civil rights. He was found guilty in November 2024. In July 2025, Hankison was sentenced to 33 months in prison, despite the Department of Justice's request for no prison time, and three years of supervised release. Three other officers, who were not present at the shooting, were also federally charged with conspiracy in falsifying evidence to procure the search warrant, and then covering it up.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Breonna_Taylor",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Qantas_Flight_1_wreckage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Qantas_Flight_1_wreckage.png/330px-Qantas_Flight_1_wreckage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "qantas_flight_1_wreckage.png",
+        "width": 818,
+        "height": 508,
+        "title": "Qantas Flight 1",
+        "description": "1999 runway excursion accident in Bangkok, Thailand",
+        "extract": "Qantas Flight 1 (QF1/QFA1) was a Qantas passenger flight between Sydney and London with a stop in Bangkok-Don Mueang. On 23 September 1999, the Boeing 747-400 operating as Flight 1 had departed from Sydney that day, and was involved in a runway overrun accident at Don Mueang International Airport in Bangkok as it was landing for a stopover.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Qantas_Flight_1",
         "score": 10
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/en/f/fa/Breonna_Taylor_%28graduation_photo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/f/fa/Breonna_Taylor_%28graduation_photo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "canonicalKey": "breonna_taylor_(graduation_photo).jpg",
-          "width": 273,
-          "height": 365,
-          "title": "Breonna Taylor",
-          "description": "American police brutality victim (1993–2020)",
-          "extract": "Breonna Taylor was an African-American woman who was shot and killed while unarmed in her Louisville, Kentucky, home by three police officers who entered under the auspices of a \"no-knock\" search warrant. After Louisville Metro Police Department (LMPD) ex-detective Brett Hankison was acquitted of felony wanton endangerment of Taylor's neighbors at the state-level, Attorney General Merrick Garland announced the Department of Justice was charging Hankison with the unconstitutional use of excessive force that violated Taylor's civil rights. He was found guilty in November 2024. In July 2025, Hankison was sentenced to 33 months in prison, despite the Department of Justice's request for no prison time, and three years of supervised release. Three other officers, who were not present at the shooting, were also federally charged with conspiracy in falsifying evidence to procure the search warrant, and then covering it up.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Breonna_Taylor",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Qantas_Flight_1_wreckage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Qantas_Flight_1_wreckage.png/330px-Qantas_Flight_1_wreckage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "qantas_flight_1_wreckage.png",
+          "width": 818,
+          "height": 508,
+          "title": "Qantas Flight 1",
+          "description": "1999 runway excursion accident in Bangkok, Thailand",
+          "extract": "Qantas Flight 1 (QF1/QFA1) was a Qantas passenger flight between Sydney and London with a stop in Bangkok-Don Mueang. On 23 September 1999, the Boeing 747-400 operating as Flight 1 had departed from Sydney that day, and was involved in a runway overrun accident at Don Mueang International Airport in Bangkok as it was landing for a stopover.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Qantas_Flight_1",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Breonna_Taylor_Memorial_Louisville_Kentucky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Breonna_Taylor_Memorial_Louisville_Kentucky.jpg/330px-Breonna_Taylor_Memorial_Louisville_Kentucky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "breonna_taylor_memorial_louisville_kentucky.jpg",
-          "width": 3155,
-          "height": 1899,
-          "title": "Breonna Taylor protests",
-          "description": "2020–22 protests after the police shooting of Breonna Taylor",
-          "extract": "The Breonna Taylor protests were a series of police brutality protests surrounding the killing of Breonna Taylor. Taylor was a 26-year-old African-American woman who was fatally shot by plainclothes officers of the Louisville Metro Police Department on March 13, 2020. Police were initially given \"no-knock\" search warrant, but orders were changed to \"knock and announce\" before the raid. Taylor's boyfriend, Kenneth Walker, who was inside the apartment with her during the raid, said he thought the officers were intruders. He fired one shot, hitting officer Mattingly in the leg, and the officers fired 32 shots in return, killing Taylor.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Breonna_Taylor_protests",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Grand jury",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Grand_jury",
-      "relatedPagesCount": 4
-    },
-    {
-      "id": "09-23-2019-71db05df",
-      "year": 2019,
-      "text": "The British travel company Thomas Cook Group ceased operations with immediate effect, leaving around 600,000 tourists stranded around the world.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/b/b9/Thomas_Cook_heart_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Thomas_Cook_heart_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "canonicalKey": "thomas_cook_heart_logo.png",
-        "width": 291,
-        "height": 341,
-        "title": "Thomas Cook Group",
-        "description": "Former global travel group",
-        "extract": "Thomas Cook Group plc was a global travel group, headquartered in the United Kingdom and listed on the London Stock Exchange from its formation on 19 June 2007 by the merger of Thomas Cook AG — successor to Thomas Cook & Son — and MyTravel Group until 23 September 2019, when it went into compulsory liquidation. The group operated as a tour operator and airline, and also operated travel agencies in Europe. At the time of the group's collapse, approximately 21,000 worldwide employees were left without jobs and 600,000 customers were left abroad, triggering the UK's largest peacetime repatriation.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_Cook_Group",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/en/b/b9/Thomas_Cook_heart_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Thomas_Cook_heart_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "canonicalKey": "thomas_cook_heart_logo.png",
-          "width": 291,
-          "height": 341,
-          "title": "Thomas Cook Group",
-          "description": "Former global travel group",
-          "extract": "Thomas Cook Group plc was a global travel group, headquartered in the United Kingdom and listed on the London Stock Exchange from its formation on 19 June 2007 by the merger of Thomas Cook AG — successor to Thomas Cook & Son — and MyTravel Group until 23 September 2019, when it went into compulsory liquidation. The group operated as a tour operator and airline, and also operated travel agencies in Europe. At the time of the group's collapse, approximately 21,000 worldwide employees were left without jobs and 600,000 customers were left abroad, triggering the UK's largest peacetime repatriation.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_Cook_Group",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/4Y1A1159_Bangkok_%2833536795515%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/4Y1A1159_Bangkok_%2833536795515%29.jpg/330px-4Y1A1159_Bangkok_%2833536795515%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "4y1a1159_bangkok_(33536795515).jpg",
+          "width": 2999,
+          "height": 1999,
+          "title": "Bangkok",
+          "description": "Capital and largest city of Thailand",
+          "extract": "Bangkok, known in Thai as Krung Thep Maha Nakhon and colloquially as Krung Thep, is the capital and largest city of Thailand. The city occupies 1,568.7 square kilometres (605.7 sq mi) in the Chao Phraya River delta in central Thailand and has an estimated population of 9.1 million people as of 2024, 15.9% of the country's population. Over 17.4 million people live within the surrounding Bangkok Metropolitan Region as of the 2021 estimate, making Bangkok a megacity and an extreme primate city, dwarfing Thailand's other urban centres in both size and importance to the national economy.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Bangkok",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Thomas_Cook_R.I.P._flowers_Enfield%2C_London.jpg/1280px-Thomas_Cook_R.I.P._flowers_Enfield%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Thomas_Cook_R.I.P._flowers_Enfield%2C_London.jpg/1280px-Thomas_Cook_R.I.P._flowers_Enfield%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "thomas_cook_r.i.p._flowers_enfield,_london.jpg",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Qantas_Boeing_747-400%2C_VH-OJH%2C_SIN_for_web.jpg/500px-Qantas_Boeing_747-400%2C_VH-OJH%2C_SIN_for_web.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Qantas_Boeing_747-400%2C_VH-OJH%2C_SIN_for_web.jpg/500px-Qantas_Boeing_747-400%2C_VH-OJH%2C_SIN_for_web.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "qantas_boeing_747-400,_vh-ojh,_sin_for_web.jpg",
           "width": 800,
           "height": 600,
-          "title": "Thomas_Cook_R.I.P._flowers_Enfield,_London",
+          "title": "Qantas_Boeing_747-400,_VH-OJH,_SIN_for_web",
           "description": "",
           "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Thomas_Cook_Group",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Qantas_Flight_1",
           "score": 8
         }
       ],
       "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
-      "mainPageTitle": "Thomas Cook Group",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Thomas_Cook_Group",
-      "relatedPagesCount": 1
+      "mainPageTitle": "Qantas Flight 1",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Qantas_Flight_1",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-23-1950-db530ce4",
+      "year": 1950,
+      "text": "Korean War: The Battle of Hill 282 is the first US friendly-fire incident on British military personnel since World War II.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "chosin.jpg",
+        "width": 2858,
+        "height": 2294,
+        "title": "Korean War",
+        "description": "1950–1953 conflict on the Korean Peninsula",
+        "extract": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC).",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Korean_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "chosin.jpg",
+          "width": 2858,
+          "height": 2294,
+          "title": "Korean War",
+          "description": "1950–1953 conflict on the Korean Peninsula",
+          "extract": "The Korean War was an armed conflict fought on the Korean Peninsula between North Korea and South Korea and their allies. North Korea was supported by China and the Soviet Union, while South Korea was supported by the United Nations led by the United States under the auspices of the United Nations Command (UNC).",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Korean_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Korean_War_bombing_Wonsan_%28cropped%29.jpg/1280px-Korean_War_bombing_Wonsan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Korean_War_bombing_Wonsan_%28cropped%29.jpg/1280px-Korean_War_bombing_Wonsan_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "korean_war_bombing_wonsan_(cropped).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Korean_War_bombing_Wonsan_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Korean_War",
+          "score": 8
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg/330px-Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg/330px-Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "battle_of_triangle_hill_chinese_infantrymen.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Battle_of_Triangle_Hill_Chinese_Infantrymen",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Korean_War",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Korean War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Korean_War",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-23-1961-4733cdf0",
+      "year": 1961,
+      "text": "U.S. President John F. Kennedy nominates African American civil rights lawyer Thurgood Marshall to the Court of Appeals for the Second Circuit, although pro-segregation Southern senators manage to delay his confirmation until September 11, 1962.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "john_f._kennedy,_white_house_color_photo_portrait.jpg",
+        "width": 1419,
+        "height": 1840,
+        "title": "John F. Kennedy",
+        "description": "President of the United States from 1961 to 1963",
+        "extract": "John Fitzgerald Kennedy, also known as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. He was the youngest person elected president, at 43 years, and the first Catholic president. Kennedy served at the height of the Cold War, and the majority of his foreign policy concerned relations with the Soviet Union and Cuba. A member of the Democratic Party, Kennedy represented Massachusetts in both houses of the United States Congress before his presidency.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/330px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "john_f._kennedy,_white_house_color_photo_portrait.jpg",
+          "width": 1419,
+          "height": 1840,
+          "title": "John F. Kennedy",
+          "description": "President of the United States from 1961 to 1963",
+          "extract": "John Fitzgerald Kennedy, also known as JFK, was the 35th president of the United States, serving from 1961 until his assassination in 1963. He was the youngest person elected president, at 43 years, and the first Catholic president. Kennedy served at the height of the Cold War, and the majority of his foreign policy concerned relations with the Soviet Union and Cuba. A member of the Democratic Party, Kennedy represented Massachusetts in both houses of the United States Congress before his presidency.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Thurgood-marshall-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Thurgood-marshall-2.jpg/330px-Thurgood-marshall-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "thurgood-marshall-2.jpg",
+          "width": 1184,
+          "height": 1488,
+          "title": "Thurgood Marshall",
+          "description": "US Supreme Court justice from 1967 to 1991",
+          "extract": "Thoroughgood \"Thurgood\" Marshall was an American lawyer who served as an associate justice of the Supreme Court of the United States from 1967 until 1991. He was the Supreme Court's first African-American justice. Before his judicial service, he was an attorney who fought for civil rights, leading the NAACP Legal Defense and Educational Fund. Marshall was a prominent figure in the movement to end racial segregation in American public schools. He won 29 of the 32 civil rights cases he argued before the Supreme Court, culminating in the Court's landmark 1954 decision in Brown v. Board of Education, which rejected the separate but equal doctrine and held segregation in public education to be unconstitutional. President Lyndon B. Johnson appointed Marshall to the Supreme Court in 1967. A staunch liberal, he frequently dissented as the Court became increasingly conservative.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Thurgood_Marshall",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/1943_Colored_Waiting_Room_Sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/1943_Colored_Waiting_Room_Sign.jpg/330px-1943_Colored_Waiting_Room_Sign.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "1943_colored_waiting_room_sign.jpg",
+          "width": 1433,
+          "height": 1503,
+          "title": "Racial segregation in the United States",
+          "description": "",
+          "extract": "Racial segregation in the United States was the legally and/or socially enforced separation of black people from white people, as well as the de facto separation of other ethnic minorities from majority communities. Facilities and services such as housing, healthcare, education, employment, and transportation were, and in some ways are still, systematically separated in the United States on the basis of racial categorizations. While mainly referring to the physical separation and provision of separate facilities, racial segregation had other manifestations such as prohibitions against interracial marriage and the separation of roles within institutions. For example, the U.S. Armed Forces were formally segregated until 1948, as black units were separated from white units but were still typically led by white officers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Racial_segregation_in_the_United_States",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "John F. Kennedy",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "09-23-1957-bfa5a8da",
+      "year": 1957,
+      "text": "Little Rock schools integration crisis: President Dwight D. Eisenhower sends the 101st Airborne Division to Little Rock, Arkansas, and federalizes the Arkansas National Guard, ordering both to support the integration of Little Rock Central High School.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Elizabeth_Eckford.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Elizabeth_Eckford.jpg/330px-Elizabeth_Eckford.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "elizabeth_eckford.jpg",
+        "width": 3000,
+        "height": 2526,
+        "title": "Little Rock Nine",
+        "description": "African-American students enrolled at a previously segregated high school",
+        "extract": "The Little Rock Nine were a group of nine African American students enrolled in Little Rock Central High School in 1957. Their enrollment was followed by the Little Rock Crisis, in which the students were initially prevented from entering the racially segregated school by Orval Faubus, the Governor of Arkansas. They then attended after the intervention of President Dwight D. Eisenhower.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Little_Rock_Nine",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Elizabeth_Eckford.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Elizabeth_Eckford.jpg/330px-Elizabeth_Eckford.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "elizabeth_eckford.jpg",
+          "width": 3000,
+          "height": 2526,
+          "title": "Little Rock Nine",
+          "description": "African-American students enrolled at a previously segregated high school",
+          "extract": "The Little Rock Nine were a group of nine African American students enrolled in Little Rock Central High School in 1957. Their enrollment was followed by the Little Rock Crisis, in which the students were initially prevented from entering the racially segregated school by Orval Faubus, the Governor of Arkansas. They then attended after the intervention of President Dwight D. Eisenhower.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Little_Rock_Nine",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/330px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dwight_d._eisenhower,_official_photo_portrait,_may_29,_1959_(cropped)(3).jpg",
+          "width": 2660,
+          "height": 3474,
+          "title": "Dwight D. Eisenhower",
+          "description": "World War II general, U.S. president from 1953 to 1961",
+          "extract": "Dwight David \"Ike\" Eisenhower was the 34th president of the United States, serving from 1953 to 1961. In his previous military career, he commanded the Allied Expeditionary Force during World War II, including in Operation Torch in North Africa and Operation Overlord on D-Day in Normandy. For his distinguished service in the U.S. Army, Eisenhower was honored with the five-star rank of General of the Army.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/William_J._Clinton_Presidential_Library%2C_Little_Rock%2C_Arkansas_LCCN2011633870.tif/lossy-page1-3840px-William_J._Clinton_Presidential_Library%2C_Little_Rock%2C_Arkansas_LCCN2011633870.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/William_J._Clinton_Presidential_Library%2C_Little_Rock%2C_Arkansas_LCCN2011633870.tif/lossy-page1-330px-William_J._Clinton_Presidential_Library%2C_Little_Rock%2C_Arkansas_LCCN2011633870.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lossy-page1-3840px-william_j._clinton_presidential_library,_little_rock,_arkansas_lccn2011633870.tif.jpg",
+          "width": 6567,
+          "height": 5107,
+          "title": "Little Rock, Arkansas",
+          "description": "Capital and largest city of Arkansas, US",
+          "extract": "Little Rock is the capital and most populous city of the U.S. state of Arkansas. The population was 202,591 at the 2020 census, while the Little Rock metropolitan area with an estimated 770,000 residents is the 81st-most populous metropolitan area in the United States. The city lies on the south bank of the Arkansas River close to the state's geographic center in central Arkansas. It is the county seat of Pulaski County.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Little_Rock%2C_Arkansas",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Little Rock Nine",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Little_Rock_Nine",
+      "relatedPagesCount": 8
+    },
+    {
+      "id": "09-23-1956-c3ee7e9f",
+      "year": 1956,
+      "text": "A tropical storm originating in the eastern Pacific Ocean passes into the Gulf of Mexico and is upgraded and named Hurricane Flossy just hours before striking the Gulf Coast and causing 15 deaths and an estimated US$24.8 million in damages.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/3840px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/330px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "dramatic_views_of_hurricane_florence_from_the_international_space_station_from_9_12_(42828603210)_(cropped).jpg",
+        "width": 4750,
+        "height": 3250,
+        "title": "Tropical cyclone",
+        "description": "Rapidly rotating storm system",
+        "extract": "A tropical cyclone is a rapidly rotating storm system with a low-pressure area, a closed low-level atmospheric circulation, strong winds, and a spiral arrangement of thunderstorms that produce heavy rain and squalls. Depending on its location and strength, a tropical cyclone is called a hurricane, typhoon, tropical storm, cyclonic storm, tropical depression, or simply cyclone. A hurricane is a strong tropical cyclone that occurs in the Atlantic Ocean or northeastern Pacific Ocean. A typhoon is the same thing which occurs in the northwestern Pacific Ocean. In the Indian Ocean and South Pacific, comparable storms are referred to as \"tropical cyclones\". In modern times, on average around 80 to 90 named tropical cyclones form each year around the world, over half of which develop hurricane-force winds of 65 kn or more.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/3840px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/330px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dramatic_views_of_hurricane_florence_from_the_international_space_station_from_9_12_(42828603210)_(cropped).jpg",
+          "width": 4750,
+          "height": 3250,
+          "title": "Tropical cyclone",
+          "description": "Rapidly rotating storm system",
+          "extract": "A tropical cyclone is a rapidly rotating storm system with a low-pressure area, a closed low-level atmospheric circulation, strong winds, and a spiral arrangement of thunderstorms that produce heavy rain and squalls. Depending on its location and strength, a tropical cyclone is called a hurricane, typhoon, tropical storm, cyclonic storm, tropical depression, or simply cyclone. A hurricane is a strong tropical cyclone that occurs in the Atlantic Ocean or northeastern Pacific Ocean. A typhoon is the same thing which occurs in the northwestern Pacific Ocean. In the Indian Ocean and South Pacific, comparable storms are referred to as \"tropical cyclones\". In modern times, on average around 80 to 90 named tropical cyclones form each year around the world, over half of which develop hurricane-force winds of 65 kn or more.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pacific_Ocean_-_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pacific_Ocean_-_en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "pacific_ocean_-_en.png",
+          "width": 330,
+          "height": 330,
+          "title": "Pacific Ocean",
+          "description": "Largest ocean on Earth",
+          "extract": "The Pacific Ocean is the largest and deepest of Earth's five oceanic divisions. It stretches from the Arctic Ocean in the north to the Southern Ocean, or, depending on the definition, to Antarctica in the south, and is bounded by the continents of Asia and Australia in the west and the Americas in the east.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Pacific_Ocean",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Gulf_of_Mexico_ETOPO_2022_%28labeled%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Gulf_of_Mexico_ETOPO_2022_%28labeled%29.png/330px-Gulf_of_Mexico_ETOPO_2022_%28labeled%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "gulf_of_mexico_etopo_2022_(labeled).png",
+          "width": 2922,
+          "height": 2160,
+          "title": "Gulf of Mexico",
+          "description": "Marginal sea of the Atlantic Ocean",
+          "extract": "The Gulf of Mexico is an oceanic basin and a marginal sea of the Atlantic Ocean, mostly surrounded by the North American continent. It is bounded on the northeast, north, and northwest by the Gulf Coast of the United States; on the southwest and south by the Mexican states of Tamaulipas, Veracruz, Tabasco, Campeche, Yucatán, and Quintana Roo; and on the southeast by Cuba.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Gulf_of_Mexico",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Tropical cyclone",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "09-23-1918-9d2ac92f",
+      "year": 1918,
+      "text": "World War I: The Battle of Haifa takes place in present-day Israel, part of the Ottoman Empire at that time.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bataille_de_verdun_1916.jpg",
+        "width": 1875,
+        "height": 1402,
+        "title": "World War I",
+        "description": "Global conflict from 1914 to 1918",
+        "extract": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bataille_de_verdun_1916.jpg",
+          "width": 1875,
+          "height": 1402,
+          "title": "World War I",
+          "description": "Global conflict from 1914 to 1918",
+          "extract": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Indian_lancers_in_Haifa_1918.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Indian_lancers_in_Haifa_1918.jpg/330px-Indian_lancers_in_Haifa_1918.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "indian_lancers_in_haifa_1918.jpg",
+          "width": 1300,
+          "height": 993,
+          "title": "Battle of Haifa (1918)",
+          "description": "Battle of World War I",
+          "extract": "The Battle of Haifa was fought on 23 September 1918 towards the end of the Battle of Sharon which together with the Battle of Nablus formed the set piece Battle of Megiddo fought between 19 and 25 September during the last months of the Sinai and Palestine Campaign of the First World War. During the Battle of Haifa, the Indian 15th Cavalry Brigade, 5th Cavalry Division and part of the Desert Mounted Corps attacked rearguard forces of the Ottoman Empire, resulting in the capture of the towns of Haifa and Acre. This attack took place at the north western edge of the Esdraelon Plain, 40–50 miles (64–80 km) from Sharon.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Haifa_(1918)",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/The_Hanging_Gardens_of_Haifa%2C_Israel_%2850099173503%29_%28cropped%29.jpg/3840px-The_Hanging_Gardens_of_Haifa%2C_Israel_%2850099173503%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/The_Hanging_Gardens_of_Haifa%2C_Israel_%2850099173503%29_%28cropped%29.jpg/330px-The_Hanging_Gardens_of_Haifa%2C_Israel_%2850099173503%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "the_hanging_gardens_of_haifa,_israel_(50099173503)_(cropped).jpg",
+          "width": 5268,
+          "height": 3136,
+          "title": "Haifa",
+          "description": "City in Northern Israel",
+          "extract": "Haifa is the third-largest city in Israel—after Jerusalem and Tel Aviv—with a population of 297,082 in 2024. The city of Haifa forms part of the Haifa metropolitan area, the third-most populous metropolitan area in Israel. It is home to the Baháʼí Faith's Baháʼí World Centre, a UNESCO World Heritage Site and destination for Baháʼí pilgrimage.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Haifa",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "World War I",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_I",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "09-23-1884-f2307625",
+      "year": 1884,
+      "text": "The French steamship Arctique ran aground on the northern coast of Cape Virgenes in Argentina; gold was discovered during the rescue effort, triggering the Tierra del Fuego gold rush.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 115,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Capes_in_the_Americas.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Capes_in_the_Americas.png/330px-Capes_in_the_Americas.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "capes_in_the_americas.png",
+        "width": 433,
+        "height": 550,
+        "title": "Cape Virgenes",
+        "description": "Southeastern tip of continental Argentina",
+        "extract": "Cape Virgenes is the southeastern promontory of continental Argentina in South America. A little to the south-west, the southernmost point of land is Punta Dúngeness. Ferdinand Magellan reached it on 21 October 1520 during the Spanish expedition to East Asia and discovered a strait, now called the Strait of Magellan in his honor. As 21 October was the feast day of Saint Ursula and the Eleven Thousand Virgins, he named the cape in their honor.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cape_Virgenes",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Capes_in_the_Americas.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Capes_in_the_Americas.png/330px-Capes_in_the_Americas.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "capes_in_the_americas.png",
+          "width": 433,
+          "height": 550,
+          "title": "Cape Virgenes",
+          "description": "Southeastern tip of continental Argentina",
+          "extract": "Cape Virgenes is the southeastern promontory of continental Argentina in South America. A little to the south-west, the southernmost point of land is Punta Dúngeness. Ferdinand Magellan reached it on 21 October 1520 during the Spanish expedition to East Asia and discovered a strait, now called the Strait of Magellan in his honor. As 21 October was the feast day of Saint Ursula and the Eleven Thousand Virgins, he named the cape in their honor.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cape_Virgenes",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Moneda_Popper_5_Gramos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Moneda_Popper_5_Gramos.jpg/330px-Moneda_Popper_5_Gramos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "moneda_popper_5_gramos.jpg",
+          "width": 366,
+          "height": 182,
+          "title": "Tierra del Fuego Gold Rush",
+          "description": "1883–1906 gold rush in Argentina",
+          "extract": "Between 1883 and 1906 Tierra del Fuego experienced a gold rush attracting many Chileans, Argentines and Europeans to the archipelago, including many Dalmatians. The gold rush led to the formation of the first towns in the archipelago and fueled economic growth in Punta Arenas. After the gold rush was over, most gold miners left the archipelago, while the remaining settlers engaged in sheep farming and fishing. The rush made a major contribution to the genocide of the indigenous Selkʼnam people.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tierra_del_Fuego_Gold_Rush",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/133_-_Cap_Virgenes_-_Manchot_de_Magellan_-_Janvier_2010.JPG/250px-133_-_Cap_Virgenes_-_Manchot_de_Magellan_-_Janvier_2010.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/133_-_Cap_Virgenes_-_Manchot_de_Magellan_-_Janvier_2010.JPG/250px-133_-_Cap_Virgenes_-_Manchot_de_Magellan_-_Janvier_2010.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "133_-_cap_virgenes_-_manchot_de_magellan_-_janvier_2010.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "133_-_Cap_Virgenes_-_Manchot_de_Magellan_-_Janvier_2010",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Cape_Virgenes",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Cape Virgenes",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Cape_Virgenes",
+      "relatedPagesCount": 2
     }
   ]
 }

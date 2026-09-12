@@ -8,6 +8,74 @@
   "eventsWithImages": 10,
   "events": [
     {
+      "id": "09-25-1944-165a94a1",
+      "year": 1944,
+      "text": "Second World War: British troops began their withdrawal from the Battle of Arnhem in the Netherlands, ending the Allies' Operation Market Garden in defeat.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 180,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+        "width": 798,
+        "height": 544,
+        "title": "World War II",
+        "description": "Global conflict from 1939 to 1945",
+        "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+          "width": 798,
+          "height": 544,
+          "title": "World War II",
+          "description": "Global conflict from 1939 to 1945",
+          "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Aerial_view_of_the_bridge_over_the_Neder_Rijn%2C_Arnhem.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Aerial_view_of_the_bridge_over_the_Neder_Rijn%2C_Arnhem.jpg/330px-Aerial_view_of_the_bridge_over_the_Neder_Rijn%2C_Arnhem.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aerial_view_of_the_bridge_over_the_neder_rijn,_arnhem.jpg",
+          "width": 2160,
+          "height": 1483,
+          "title": "Battle of Arnhem",
+          "description": "1944 British airborne operation in the Netherlands",
+          "extract": "The Battle of Arnhem was fought during the Second World War, as part of the Allied Operation Market Garden. It took place around the Dutch city of Arnhem from 17 to 26 September 1944. The Allies had swept through France and Belgium in August 1944, after the Battle of Normandy. Market Garden was based upon the smaller Operation Comet that had been overtaken by events. Field Marshal Sir Bernard Montgomery, who favoured a single push northwards over the branches of the Lower Rhine River, allowing the British Second Army to bypass the Siegfried Line and attack the important Ruhr industrial area.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Arnhem",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/UN_Fight_for_Freedom_Leslie_Ragan_1943_poster_-_restoration1.jpg/3840px-UN_Fight_for_Freedom_Leslie_Ragan_1943_poster_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/UN_Fight_for_Freedom_Leslie_Ragan_1943_poster_-_restoration1.jpg/330px-UN_Fight_for_Freedom_Leslie_Ragan_1943_poster_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "un_fight_for_freedom_leslie_ragan_1943_poster_-_restoration1.jpg",
+          "width": 4745,
+          "height": 6708,
+          "title": "Allies of World War II",
+          "description": "Military coalition in World War II",
+          "extract": "The Allies, or Allied powers, formally referred to as the United Nations from 1942, were an international military coalition formed during World War II (1939–1945) to oppose the Axis powers. Its principal members were the \"Big Four\"—the United Kingdom, the Soviet Union, the United States, and China.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Allies_of_World_War_II",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "World War II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_II",
+      "relatedPagesCount": 5
+    },
+    {
       "id": "09-25-1998-d9ab6f60",
       "year": 1998,
       "text": "PauknAir Flight 4101, a British Aerospace 146, crashes near Melilla Airport in Melilla, Spain, killing 38 people.",
@@ -18,7 +86,7 @@
       "marketingScore": 130,
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/BAe_146-100_Paukn_Air_F386-6A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BAe_146-100_Paukn_Air_F386-6A.jpg/330px-BAe_146-100_Paukn_Air_F386-6A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/BAe_146-100_Paukn_Air_F386-6A.jpg/330px-BAe_146-100_Paukn_Air_F386-6A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "canonicalKey": "bae_146-100_paukn_air_f386-6a.jpg",
         "width": 1822,
         "height": 934,
@@ -31,7 +99,7 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/BAe_146-100_Paukn_Air_F386-6A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BAe_146-100_Paukn_Air_F386-6A.jpg/330px-BAe_146-100_Paukn_Air_F386-6A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/BAe_146-100_Paukn_Air_F386-6A.jpg/330px-BAe_146-100_Paukn_Air_F386-6A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "bae_146-100_paukn_air_f386-6a.jpg",
           "width": 1822,
           "height": 934,
@@ -43,7 +111,7 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Melilla_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Melilla_Airport.jpg/330px-Melilla_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Melilla_Airport.jpg/330px-Melilla_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "melilla_airport.jpg",
           "width": 3072,
           "height": 2304,
@@ -55,7 +123,7 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/%28Melilla%29_Aterrizando_en_Melilla_%2816668390111%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/%28Melilla%29_Aterrizando_en_Melilla_%2816668390111%29.jpg/330px-%28Melilla%29_Aterrizando_en_Melilla_%2816668390111%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%28Melilla%29_Aterrizando_en_Melilla_%2816668390111%29.jpg/330px-%28Melilla%29_Aterrizando_en_Melilla_%2816668390111%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "(melilla)_aterrizando_en_melilla_(16668390111).jpg",
           "width": 1926,
           "height": 1199,
@@ -67,149 +135,13 @@
         }
       ],
       "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
       "mainPageTitle": "PauknAir Flight 4101",
       "mainPageUrl": "https://en.wikipedia.org/wiki/PauknAir_Flight_4101",
       "relatedPagesCount": 4
-    },
-    {
-      "id": "09-25-1997-54a156c9",
-      "year": 1997,
-      "text": "NASA launches Space Shuttle Atlantis on STS-86 to the Mir space station.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 130,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
-        "width": 3697,
-        "height": 2217,
-        "title": "Space Shuttle Atlantis",
-        "description": "Space Shuttle orbiter (1985–2011)",
-        "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/STS132_Atlantis_undocking2_%28cropped%29.jpg/330px-STS132_Atlantis_undocking2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "sts132_atlantis_undocking2_(cropped).jpg",
-          "width": 3697,
-          "height": 2217,
-          "title": "Space Shuttle Atlantis",
-          "description": "Space Shuttle orbiter (1985–2011)",
-          "extract": "Space Shuttle Atlantis is a retired Space Shuttle orbiter vehicle which belongs to NASA, the spaceflight and space exploration agency of the United States. Atlantis was manufactured by the Rockwell International company in Southern California and was delivered to the Kennedy Space Center in Eastern Florida in April 1985. Atlantis is the fourth operational and the second-to-last Space Shuttle built. Its maiden flight was STS-51-J made from October 3 to 7, 1985. It was, along with Challenger, one of only two orbiters equipped to carry the Shuttle-Centaur booster.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/STS86_Mir_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/STS86_Mir_Station.jpg/330px-STS86_Mir_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "sts86_mir_station.jpg",
-          "width": 1536,
-          "height": 1559,
-          "title": "STS-86",
-          "description": "1997 American crewed spaceflight to ''Mir''",
-          "extract": "STS-86 was a Space Shuttle Atlantis mission to the Mir space station. This was the last Atlantis mission before it was taken out of service temporarily for maintenance and upgrades, including the glass cockpit.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/STS-86",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg/330px-Mir_Space_Station_viewed_from_Endeavour_during_STS-89.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "mir_space_station_viewed_from_endeavour_during_sts-89.jpg",
-          "width": 3124,
-          "height": 3044,
-          "title": "Mir",
-          "description": "Soviet/Russian space station (1986–2001)",
-          "extract": "Mir was a space station operated in low Earth orbit from 1986 to 2001, first by the Soviet Union and later by the Russian Federation. Mir was the first modular space station and was assembled in orbit from 1986 to 1996. At the time it was the largest artificial satellite in orbit, only being succeeded by the International Space Station (ISS) after Mir's deorbiting in 2001. The station served as a microgravity research laboratory in which crews conducted experiments in biology, human biology, physics, astronomy, meteorology, and spacecraft systems with a goal of developing technologies required for permanent occupation of space.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Mir",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Space Shuttle Atlantis",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Space_Shuttle_Atlantis",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "09-25-1992-ac5d14a5",
-      "year": 1992,
-      "text": "NASA launches the Mars Observer. Eleven months later, the probe would fail while preparing for orbital insertion.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 130,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mars_Observer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mars_Observer.jpg/330px-Mars_Observer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "mars_observer.jpg",
-        "width": 1000,
-        "height": 761,
-        "title": "Mars Observer",
-        "description": "Failed NASA orbiter mission to Mars (1992–1993)",
-        "extract": "Mars Observer was an American robotic space probe launched by NASA on September 25, 1992, to study the surface, atmosphere, climate and magnetic field of Mars. The spacecraft was developed and managed by the Jet Propulsion Laboratory.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Observer",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mars_Observer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mars_Observer.jpg/330px-Mars_Observer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "mars_observer.jpg",
-          "width": 1000,
-          "height": 761,
-          "title": "Mars Observer",
-          "description": "Failed NASA orbiter mission to Mars (1992–1993)",
-          "extract": "Mars Observer was an American robotic space probe launched by NASA on September 25, 1992, to study the surface, atmosphere, climate and magnetic field of Mars. The spacecraft was developed and managed by the Jet Propulsion Laboratory.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Observer",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "nasa_hq_building.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "NASA_HQ_Building",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
-          "score": 8
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bell_X-1A_in_flight.jpg/1280px-Bell_X-1A_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bell_X-1A_in_flight.jpg/1280px-Bell_X-1A_in_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "bell_x-1a_in_flight.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "A US Air Force Bell X-1 test flight",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "NASA",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
-      "relatedPagesCount": 2
     },
     {
       "id": "09-25-1987-4a5ead70",
@@ -247,7 +179,7 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/2025_Sitiveni_Rabuka_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/2025_Sitiveni_Rabuka_%28cropped%29.jpg/330px-2025_Sitiveni_Rabuka_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2025_Sitiveni_Rabuka_%28cropped%29.jpg/330px-2025_Sitiveni_Rabuka_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "2025_sitiveni_rabuka_(cropped).jpg",
           "width": 431,
           "height": 577,
@@ -259,192 +191,12 @@
         }
       ],
       "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
       "mainPageTitle": "Penaia Ganilau",
       "mainPageUrl": "https://en.wikipedia.org/wiki/Penaia_Ganilau",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "09-25-1906-91a8882f",
-      "year": 1906,
-      "text": "Leonardo Torres Quevedo demonstrates the Telekino in the Bilbao Abra (Spain), guiding an electric boat from the shore with people on board, which was controlled at a distance over 2 km (1.2 mi), in what is considered to be the origin of modern wireless remote-control operation principles.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 90,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/1921_Leonardo_Torres_Quevedo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1921_Leonardo_Torres_Quevedo.jpg/330px-1921_Leonardo_Torres_Quevedo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "1921_leonardo_torres_quevedo.jpg",
-        "width": 1098,
-        "height": 1537,
-        "title": "Leonardo Torres Quevedo",
-        "description": "Spanish civil engineer (1852–1936)",
-        "extract": "Leonardo Torres Quevedo was a Spanish civil engineer, mathematician, and inventor who developed numerous engineering innovations related to aerial trams, airships, catamarans, and remote control. He was also a pioneer in the fields of computing and robotics, while maintaining an active role in several scientific and cultural institutions. He held prominent positions, such as Seat N of the Real Academia Española (1920–1936) and the presidency of the Spanish Royal Academy of Sciences (1928–1934). In 1927, he became a foreign associate of the French Academy of Sciences.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Leonardo_Torres_Quevedo",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/1921_Leonardo_Torres_Quevedo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/1921_Leonardo_Torres_Quevedo.jpg/330px-1921_Leonardo_Torres_Quevedo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "1921_leonardo_torres_quevedo.jpg",
-          "width": 1098,
-          "height": 1537,
-          "title": "Leonardo Torres Quevedo",
-          "description": "Spanish civil engineer (1852–1936)",
-          "extract": "Leonardo Torres Quevedo was a Spanish civil engineer, mathematician, and inventor who developed numerous engineering innovations related to aerial trams, airships, catamarans, and remote control. He was also a pioneer in the fields of computing and robotics, while maintaining an active role in several scientific and cultural institutions. He held prominent positions, such as Seat N of the Real Academia Española (1920–1936) and the presidency of the Spanish Royal Academy of Sciences (1928–1934). In 1927, he became a foreign associate of the French Academy of Sciences.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Leonardo_Torres_Quevedo",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Juan_de_Barroeta_-_View_of_El_Abra%2C_Bilbao%2C_from_Algorta_-_Google_Art_Project.jpg/3840px-Juan_de_Barroeta_-_View_of_El_Abra%2C_Bilbao%2C_from_Algorta_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Juan_de_Barroeta_-_View_of_El_Abra%2C_Bilbao%2C_from_Algorta_-_Google_Art_Project.jpg/330px-Juan_de_Barroeta_-_View_of_El_Abra%2C_Bilbao%2C_from_Algorta_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "juan_de_barroeta_-_view_of_el_abra,_bilbao,_from_algorta_-_google_art_project.jpg",
-          "width": 4333,
-          "height": 2273,
-          "title": "Bilbao Abra",
-          "description": "Part of the Bay of Biscay in Spain",
-          "extract": "The Bilbao Abra is a bay of the Bay of Biscay, in the Atlantic Ocean, that is located at the mouth of the Estuary of Bilbao, in Biscay (Spain). The bay is delimited by the capes of Punta Galea to the north and Punta Lucero to the south. The inner part of the bay is enclosed by the docks of the Port of Bilbao and in the outer south shores new docks are being built.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Bilbao_Abra",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Autografo_leonardo_torres_quevedo.png/500px-Autografo_leonardo_torres_quevedo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Autografo_leonardo_torres_quevedo.png/500px-Autografo_leonardo_torres_quevedo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "autografo_leonardo_torres_quevedo.png",
-          "width": 800,
-          "height": 600,
-          "title": "Autografo_leonardo_torres_quevedo",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Leonardo_Torres_Quevedo",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Leonardo Torres Quevedo",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Leonardo_Torres_Quevedo",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "09-25-2018-a5d86632",
-      "year": 2018,
-      "text": "Bill Cosby is sentenced to three to ten years in prison for aggravated sexual assault.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 85,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg/330px-The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "the_world_affairs_council_and_girard_college_present_bill_cosby_(6343666943)_(cropped_to_cosby).jpg",
-        "width": 1358,
-        "height": 1914,
-        "title": "Bill Cosby",
-        "description": "American entertainer (born 1937)",
-        "extract": "William Henry Cosby Jr. is an American former comedian, actor, and media personality. Often deemed a trailblazer for African Americans in the entertainment industry, Cosby was well known in the United States for his stand-up comedy routines and television career before achieving global recognition for his portrayal of Cliff Huxtable in the sitcom The Cosby Show (1984–1992). He was also prolific in advertising for decades and was the recipient of numerous awards and honorary degrees throughout his career, many of which were revoked after dozens of allegations of sexual assault were made against him, starting in 2014 and culminating in a 2018 conviction for aggravated indecent assault.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Bill_Cosby",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg/330px-The_World_Affairs_Council_and_Girard_College_present_Bill_Cosby_%286343666943%29_%28cropped_to_Cosby%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "the_world_affairs_council_and_girard_college_present_bill_cosby_(6343666943)_(cropped_to_cosby).jpg",
-          "width": 1358,
-          "height": 1914,
-          "title": "Bill Cosby",
-          "description": "American entertainer (born 1937)",
-          "extract": "William Henry Cosby Jr. is an American former comedian, actor, and media personality. Often deemed a trailblazer for African Americans in the entertainment industry, Cosby was well known in the United States for his stand-up comedy routines and television career before achieving global recognition for his portrayal of Cliff Huxtable in the sitcom The Cosby Show (1984–1992). He was also prolific in advertising for decades and was the recipient of numerous awards and honorary degrees throughout his career, many of which were revoked after dozens of allegations of sexual assault were made against him, starting in 2014 and culminating in a 2018 conviction for aggravated indecent assault.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Bill_Cosby",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/1957_December_23_US_Navy_Medicine_photo_of_Bill_Cosby.jpg/1280px-1957_December_23_US_Navy_Medicine_photo_of_Bill_Cosby.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/1957_December_23_US_Navy_Medicine_photo_of_Bill_Cosby.jpg/1280px-1957_December_23_US_Navy_Medicine_photo_of_Bill_Cosby.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "1957_december_23_us_navy_medicine_photo_of_bill_cosby.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Cosby as a basketball player during his Navy service in 1957",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Bill_Cosby",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "cinema_tv",
-        "name": "Cine y TV",
-        "icon": "🎬"
-      },
-      "mainPageTitle": "Bill Cosby",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Bill_Cosby",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "09-25-1974-b884d8df",
-      "year": 1974,
-      "text": "Dr. Frank Jobe performs first ulnar collateral ligament replacement surgery (better known as Tommy John surgery) on baseball player Tommy John.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 75,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "canonicalKey": "frank_jobe.jpg",
-        "width": 274,
-        "height": 362,
-        "title": "Frank Jobe",
-        "description": "American orthopedic surgeon and co-founder of the Kerlan-Jobe Orthopaedic Clinic",
-        "extract": "Frank Wilson Jobe was an American orthopedic surgeon and co-founder of the Kerlan-Jobe Orthopaedic Clinic. Jobe pioneered both elbow ligament replacement and major reconstructive shoulder surgery for baseball players.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Frank_Jobe",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "canonicalKey": "frank_jobe.jpg",
-          "width": 274,
-          "height": 362,
-          "title": "Frank Jobe",
-          "description": "American orthopedic surgeon and co-founder of the Kerlan-Jobe Orthopaedic Clinic",
-          "extract": "Frank Wilson Jobe was an American orthopedic surgeon and co-founder of the Kerlan-Jobe Orthopaedic Clinic. Jobe pioneered both elbow ligament replacement and major reconstructive shoulder surgery for baseball players.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Frank_Jobe",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Tommy_John_-_New_York_Yankees_-_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Tommy_John_-_New_York_Yankees_-_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "canonicalKey": "tommy_john_-_new_york_yankees_-_1981.jpg",
-          "width": 291,
-          "height": 311,
-          "title": "Tommy John",
-          "description": "American baseball player (1943–2026)",
-          "extract": "Thomas Edward John Jr., nicknamed \"the Bionic Man\", was an American professional baseball pitcher who played in Major League Baseball (MLB) for 26 seasons between 1963 and 1989. He played for the Cleveland Indians, Chicago White Sox, Los Angeles Dodgers, New York Yankees, California Angels, and Oakland Athletics. He was a four-time MLB All-Star and has the second-most wins (288) of any pitcher since 1900 not in the Hall of Fame. Known for his longevity, John was an Opening Day starter six times – three for the White Sox and three times for the Yankees.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Tommy_John",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "sports",
-        "name": "Deportes",
-        "icon": "🏆"
-      },
-      "mainPageTitle": "Frank Jobe",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Frank_Jobe",
       "relatedPagesCount": 3
     },
     {
@@ -455,10 +207,10 @@
       "hasImage": true,
       "imagesCount": 1,
       "imageScore": 10,
-      "marketingScore": 75,
+      "marketingScore": 130,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg/3840px-Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg/330px-Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg/3840px-Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg/330px-Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "canonicalKey": "official_photographic_portrait_of_s.w.r.d.bandaranayaka_(1899-1959).jpg",
         "width": 4740,
         "height": 5947,
@@ -470,8 +222,8 @@
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg/3840px-Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg/330px-Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg/3840px-Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg/330px-Official_Photographic_Portrait_of_S.W.R.D.Bandaranayaka_%281899-1959%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "official_photographic_portrait_of_s.w.r.d.bandaranayaka_(1899-1959).jpg",
           "width": 4740,
           "height": 5947,
@@ -483,13 +235,329 @@
         }
       ],
       "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
       "mainPageTitle": "S. W. R. D. Bandaranaike",
       "mainPageUrl": "https://en.wikipedia.org/wiki/S._W._R._D._Bandaranaike",
       "relatedPagesCount": 3
+    },
+    {
+      "id": "09-25-1937-9d8b1876",
+      "year": 1937,
+      "text": "Second Sino-Japanese War: The Chinese Eighth Route Army gains a minor, but morale-boosting victory in the Battle of Pingxingguan.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Japanese_Special_Naval_Landing_Forces_in_Battle_of_Shanghai_1937.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Japanese_Special_Naval_Landing_Forces_in_Battle_of_Shanghai_1937.jpg/330px-Japanese_Special_Naval_Landing_Forces_in_Battle_of_Shanghai_1937.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "japanese_special_naval_landing_forces_in_battle_of_shanghai_1937.jpg",
+        "width": 1200,
+        "height": 955,
+        "title": "Second Sino-Japanese War",
+        "description": "1937–1945 conflict in East Asia",
+        "extract": "The Second Sino-Japanese War, known in China as the War of Resistance Against Japan, was fought between the Republic of China and the Empire of Japan and its puppet states between 1937 and 1945, following a period of conflict localized to Manchuria that started in 1931. It is often regarded as the beginning of World War II in Asia, as the wars became heavily intertwined after Japan attacked the United States. It was the largest Asian war in the 20th century.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Japanese_Special_Naval_Landing_Forces_in_Battle_of_Shanghai_1937.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Japanese_Special_Naval_Landing_Forces_in_Battle_of_Shanghai_1937.jpg/330px-Japanese_Special_Naval_Landing_Forces_in_Battle_of_Shanghai_1937.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "japanese_special_naval_landing_forces_in_battle_of_shanghai_1937.jpg",
+          "width": 1200,
+          "height": 955,
+          "title": "Second Sino-Japanese War",
+          "description": "1937–1945 conflict in East Asia",
+          "extract": "The Second Sino-Japanese War, known in China as the War of Resistance Against Japan, was fought between the Republic of China and the Empire of Japan and its puppet states between 1937 and 1945, following a period of conflict localized to Manchuria that started in 1931. It is often regarded as the beginning of World War II in Asia, as the wars became heavily intertwined after Japan attacked the United States. It was the largest Asian war in the 20th century.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/115D_in_the_Battle_of_Pingxing_Pass.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/115D_in_the_Battle_of_Pingxing_Pass.jpg/330px-115D_in_the_Battle_of_Pingxing_Pass.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "115d_in_the_battle_of_pingxing_pass.jpg",
+          "width": 608,
+          "height": 396,
+          "title": "Battle of Pingxingguan",
+          "description": "1937 battle of the Second Sino-Japanese War",
+          "extract": "The Battle of Pingxingguan was the initial significant confrontation in northwestern Shanxi after the commencement of the full-scale Second Sino-Japanese War at the Pingxing Pass. The conflict commenced in late September and endured for almost ten days. Initially, Chinese soldiers effectively ambushed and repelled Japanese troops in the Pingxingguan region. Subsequently, the Japanese force breached Ruyuekou and seized the county seat of Fanshi. This battle also saw cooperation between Nationalist and Communist troops. The Pingxingguan Ambush, commonly called the Great Victory of Pingxingguan, was a part of this battle fought on 25 September 1937, at the beginning of the Second Sino-Japanese War, between the Eighth Route Army of the Chinese Communist Party and the Imperial Japanese Army.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Pingxingguan",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Eighth_Route_Army_fighting_on_Futuyu_Great_Wall%2C_1938.jpg/500px-Eighth_Route_Army_fighting_on_Futuyu_Great_Wall%2C_1938.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Eighth_Route_Army_fighting_on_Futuyu_Great_Wall%2C_1938.jpg/500px-Eighth_Route_Army_fighting_on_Futuyu_Great_Wall%2C_1938.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "eighth_route_army_fighting_on_futuyu_great_wall,_1938.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Eighth_Route_Army_fighting_on_Futuyu_Great_Wall,_1938",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Second Sino-Japanese War",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Second_Sino-Japanese_War",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-25-1918-5fa0a9b6",
+      "year": 1918,
+      "text": "World War I: The end of the Battle of Megiddo, the climax of the British Army's Sinai and Palestine campaign under General Edmund Allenby.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Turkish_howitzer_10.5cm_leFH_98_09_LOC_00121.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Turkish_howitzer_10.5cm_leFH_98_09_LOC_00121.jpg/330px-Turkish_howitzer_10.5cm_leFH_98_09_LOC_00121.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "turkish_howitzer_10.5cm_lefh_98_09_loc_00121.jpg",
+        "width": 2360,
+        "height": 1466,
+        "title": "Sinai and Palestine campaign",
+        "description": "Campaign of the Middle Eastern theatre of World War I",
+        "extract": "The Sinai and Palestine campaign was part of the Middle Eastern theatre of World War I, taking place between January 1915 and October 1918. The British Empire, the French Third Republic, and the Kingdom of Italy fought alongside the Arab Revolt in opposition to the Ottoman Empire, the German Empire, and the Austro-Hungarian Empire. It started with an Ottoman attempt at raiding the Suez Canal in 1915 and ended with the Armistice of Mudros in 1918, leading to the cession of Ottoman Syria.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sinai_and_Palestine_campaign",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Turkish_howitzer_10.5cm_leFH_98_09_LOC_00121.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Turkish_howitzer_10.5cm_leFH_98_09_LOC_00121.jpg/330px-Turkish_howitzer_10.5cm_leFH_98_09_LOC_00121.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "turkish_howitzer_10.5cm_lefh_98_09_loc_00121.jpg",
+          "width": 2360,
+          "height": 1466,
+          "title": "Sinai and Palestine campaign",
+          "description": "Campaign of the Middle Eastern theatre of World War I",
+          "extract": "The Sinai and Palestine campaign was part of the Middle Eastern theatre of World War I, taking place between January 1915 and October 1918. The British Empire, the French Third Republic, and the Kingdom of Italy fought alongside the Arab Revolt in opposition to the Ottoman Empire, the German Empire, and the Austro-Hungarian Empire. It started with an Ottoman attempt at raiding the Suez Canal in 1915 and ended with the Armistice of Mudros in 1918, leading to the cession of Ottoman Syria.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Sinai_and_Palestine_campaign",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Edmund_Allenby.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Edmund_Allenby.jpg/330px-Edmund_Allenby.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "edmund_allenby.jpg",
+          "width": 929,
+          "height": 1300,
+          "title": "Edmund Allenby, 1st Viscount Allenby",
+          "description": "British Field Marshal (1861–1936)",
+          "extract": "Field Marshal Edmund Henry Hynman Allenby, 1st Viscount Allenby, was a senior British Army officer and imperial governor. He fought in the Second Boer War and in the First World War, in which he led the British Empire's Egyptian Expeditionary Force (EEF) during the Sinai and Palestine Campaign against the Ottoman Empire in the conquest of Palestine.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Edmund_Allenby%2C_1st_Viscount_Allenby",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Battle of Megiddo (1918)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Battle_of_Megiddo_(1918)",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-25-1915-ac5ad178",
+      "year": 1915,
+      "text": "World War I: The Second Battle of Champagne begins.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bataille_de_verdun_1916.jpg",
+        "width": 1875,
+        "height": 1402,
+        "title": "World War I",
+        "description": "Global conflict from 1914 to 1918",
+        "extract": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bataille_de_verdun_1916.jpg",
+          "width": 1875,
+          "height": 1402,
+          "title": "World War I",
+          "description": "Global conflict from 1914 to 1918",
+          "extract": "World War I, or the First World War, also known as the Great War, was a global conflict between two coalitions: the Allies and the Central Powers. One of the deadliest conflicts in history, World War I resulted in an estimated 15 to 22 million deaths, including those in war crimes and genocides. The war also helped spread the Spanish flu pandemic. The conflict saw important developments in weaponry, including the first large-scale use of machine guns, artillery, aircraft, chemical weapons, and tanks.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Western_front_1915-16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Western_front_1915-16.jpg/330px-Western_front_1915-16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "western_front_1915-16.jpg",
+          "width": 1233,
+          "height": 946,
+          "title": "Second Battle of Champagne",
+          "description": "1915 battle during the First World War",
+          "extract": "The Second Battle of Champagne in the First World War was a French offensive against the German army in Champagne that coincided with the Third Battle of Artois in the north and ended in a German victory.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Second_Battle_of_Champagne",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/British_39th_Siege_Battery_RGA_Somme_1916.jpg/1280px-British_39th_Siege_Battery_RGA_Somme_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/British_39th_Siege_Battery_RGA_Somme_1916.jpg/1280px-British_39th_Siege_Battery_RGA_Somme_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "british_39th_siege_battery_rga_somme_1916.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "British_39th_Siege_Battery_RGA_Somme_1916",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_I",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "World War I",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_I",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-25-1800-3ec5a81b",
+      "year": 1800,
+      "text": "French Revolutionary Wars: After U.S. ships became involved, French forces abandoned their invasion of the Batavian island of Curaçao.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 115,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/French_Revolutionary_Wars.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/French_Revolutionary_Wars.jpg/330px-French_Revolutionary_Wars.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "french_revolutionary_wars.jpg",
+        "width": 1280,
+        "height": 2880,
+        "title": "French Revolutionary Wars",
+        "description": "1792–1802 wars",
+        "extract": "The French Revolutionary Wars were a series of sweeping military conflicts resulting from the French Revolution that lasted from 1792 until 1802. They pitted France against Great Britain, Austria, Prussia, Russia, and several other countries. The wars are divided into two periods: the War of the First Coalition (1792–1797) and the War of the Second Coalition (1798–1802). Initially confined to Europe, the fighting gradually assumed a global dimension. After a decade of constant warfare and aggressive diplomacy, France had conquered territories in the Italian peninsula, the Low Countries, and the Rhineland with its very large and powerful military which had been totally mobilized for war against most of Europe with mass conscription of the vast French population. French success in these conflicts ensured military occupation and the spread of revolutionary principles over much of Europe.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/French_Revolutionary_Wars.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/French_Revolutionary_Wars.jpg/330px-French_Revolutionary_Wars.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "french_revolutionary_wars.jpg",
+          "width": 1280,
+          "height": 2880,
+          "title": "French Revolutionary Wars",
+          "description": "1792–1802 wars",
+          "extract": "The French Revolutionary Wars were a series of sweeping military conflicts resulting from the French Revolution that lasted from 1792 until 1802. They pitted France against Great Britain, Austria, Prussia, Russia, and several other countries. The wars are divided into two periods: the War of the First Coalition (1792–1797) and the War of the Second Coalition (1798–1802). Initially confined to Europe, the fighting gradually assumed a global dimension. After a decade of constant warfare and aggressive diplomacy, France had conquered territories in the Italian peninsula, the Low Countries, and the Rhineland with its very large and powerful military which had been totally mobilized for war against most of Europe with mass conscription of the vast French population. French success in these conflicts ensured military occupation and the spread of revolutionary principles over much of Europe.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%27t_E%C3%BFland_Curacao%2C_anno_1800_-_%28illegible%29._LOC_2001622484.jpg/3840px-%27t_E%C3%BFland_Curacao%2C_anno_1800_-_%28illegible%29._LOC_2001622484.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%27t_E%C3%BFland_Curacao%2C_anno_1800_-_%28illegible%29._LOC_2001622484.jpg/330px-%27t_E%C3%BFland_Curacao%2C_anno_1800_-_%28illegible%29._LOC_2001622484.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "'t_eÿland_curacao,_anno_1800_-_(illegible)._loc_2001622484.jpg",
+          "width": 6590,
+          "height": 4368,
+          "title": "Invasion of Curaçao (1800)",
+          "description": "Military incursion as part of the French Revolutionary Wars",
+          "extract": "An invasion of Curaçao was launched by French forces against the Dutch colony in 1800 during the War of the Second Coalition. French forces landed on the island on 22 July, and on 5 September attacked and captured a fort protecting the town of Willemstad. The American consul there sent for help, and on 10 September the Dutch governor of the island surrendered to the British frigate HMS Nereide under the command of Frederick Watkins. On 22 September the American sloops USS Patapsco and USS Merrimack arrived, and on 23 September the Patapsco sailed into the harbor and landed troops to reinforce the garrison protecting the town.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Invasion_of_Cura%C3%A7ao_(1800)",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "French Revolutionary Wars",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars",
+      "relatedPagesCount": 4
+    },
+    {
+      "id": "09-25-275-65eef91e",
+      "year": 275,
+      "text": "After the assassination of Aurelian, Tacitus (depicted) was chosen by the Senate to succeed him as Roman emperor.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 115,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Aureus_of_Aurelian_%28Milan%29_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Aureus_of_Aurelian_%28Milan%29_%28obverse%29.jpg/330px-Aureus_of_Aurelian_%28Milan%29_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "aureus_of_aurelian_(milan)_(obverse).jpg",
+        "width": 1292,
+        "height": 1168,
+        "title": "Aurelian",
+        "description": "Roman emperor from 270 to 275",
+        "extract": "Aurelian was a Roman emperor from 270 to 275 during the Crisis of the Third Century. During his reign, he won an unprecedented series of military victories which reunited the Roman Empire after it had nearly disintegrated under the pressure of barbarian invasions and internal revolts. For his success in restoring the Empire's territorial integrity, Aurelian was honored with the title Restitutor Orbis.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Aurelian",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Aureus_of_Aurelian_%28Milan%29_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Aureus_of_Aurelian_%28Milan%29_%28obverse%29.jpg/330px-Aureus_of_Aurelian_%28Milan%29_%28obverse%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "aureus_of_aurelian_(milan)_(obverse).jpg",
+          "width": 1292,
+          "height": 1168,
+          "title": "Aurelian",
+          "description": "Roman emperor from 270 to 275",
+          "extract": "Aurelian was a Roman emperor from 270 to 275 during the Crisis of the Third Century. During his reign, he won an unprecedented series of military victories which reunited the Roman Empire after it had nearly disintegrated under the pressure of barbarian invasions and internal revolts. For his success in restoring the Empire's territorial integrity, Aurelian was honored with the title Restitutor Orbis.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Aurelian",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/EmpereurTacite.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/EmpereurTacite.png/330px-EmpereurTacite.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "empereurtacite.png",
+          "width": 592,
+          "height": 700,
+          "title": "Tacitus (emperor)",
+          "description": "Roman emperor from 275 to 276",
+          "extract": "Marcus Claudius Tacitus was Roman emperor from 275 to 276. During his short reign he campaigned against the Goths and the Heruli, for which he received the title Gothicus Maximus.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tacitus_(emperor)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png/330px-Cicero_Denounces_Catiline_in_the_Roman_Senate_by_Cesare_Maccari.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "cicero_denounces_catiline_in_the_roman_senate_by_cesare_maccari.png",
+          "width": 2072,
+          "height": 1349,
+          "title": "Roman Senate",
+          "description": "Political institution in ancient Rome",
+          "extract": "The Roman Senate was the highest and constituting assembly of ancient Rome and its aristocracy. With different powers throughout its existence, it lasted from the first days of the city of Rome as the Senate of the Roman Kingdom, to the Senate of the Roman Republic and Senate of the Roman Empire and eventually the Byzantine Senate of the Eastern Roman Empire, existing well into the post-classical era and Middle Ages.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Roman_Senate",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Aurelian",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Aurelian",
+      "relatedPagesCount": 4
     },
     {
       "id": "09-25-1990-94249e26",
@@ -499,10 +567,10 @@
       "hasImage": true,
       "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 70,
+      "marketingScore": 110,
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rama_in_Adhyatma_Ramayana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rama_in_Adhyatma_Ramayana.jpg/330px-Rama_in_Adhyatma_Ramayana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Rama_in_Adhyatma_Ramayana.jpg/330px-Rama_in_Adhyatma_Ramayana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "canonicalKey": "rama_in_adhyatma_ramayana.jpg",
         "width": 2402,
         "height": 3915,
@@ -515,7 +583,7 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rama_in_Adhyatma_Ramayana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rama_in_Adhyatma_Ramayana.jpg/330px-Rama_in_Adhyatma_Ramayana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Rama_in_Adhyatma_Ramayana.jpg/330px-Rama_in_Adhyatma_Ramayana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "rama_in_adhyatma_ramayana.jpg",
           "width": 2402,
           "height": 3915,
@@ -527,7 +595,7 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Babri_Masjid_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Babri_Masjid_%28cropped%29.jpg/330px-Babri_Masjid_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Babri_Masjid_%28cropped%29.jpg/330px-Babri_Masjid_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "babri_masjid_(cropped).jpg",
           "width": 2965,
           "height": 2127,
@@ -539,7 +607,7 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Shri_Ram_Janambhoomi_Mandir%2C_Ayodhya_Dham.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Shri_Ram_Janambhoomi_Mandir%2C_Ayodhya_Dham.jpg/330px-Shri_Ram_Janambhoomi_Mandir%2C_Ayodhya_Dham.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Shri_Ram_Janambhoomi_Mandir%2C_Ayodhya_Dham.jpg/330px-Shri_Ram_Janambhoomi_Mandir%2C_Ayodhya_Dham.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "shri_ram_janambhoomi_mandir,_ayodhya_dham.jpg",
           "width": 2200,
           "height": 1662,
@@ -551,57 +619,13 @@
         }
       ],
       "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
-      },
-      "mainPageTitle": "Ram Rath Yatra",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Ram_Rath_Yatra",
-      "relatedPagesCount": 5
-    },
-    {
-      "id": "09-25-2003-601e4f09",
-      "year": 2003,
-      "text": "The 8.3 Mw Hokkaidō earthquake strikes just offshore Hokkaidō, Japan.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 1,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg/330px-2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "2003年十勝沖地震による苫小牧での石油タンクの火災.jpg",
-        "width": 1600,
-        "height": 1200,
-        "title": "2003 Tokachi earthquake",
-        "description": "Earthquake in Japan",
-        "extract": "The 2003 Tokachi earthquake, known in Japanese as the 2003 Tokachi-Oki earthquake , occurred off the coast of Hokkaido, Japan on 26 September at 04:50 local time. At a focal depth of 27 km (17 mi), this great undersea earthquake measured 8.3 on the moment magnitude scale, making it the most powerful earthquake of 2003, as well as one of the most intense earthquakes to hit Japan since modern record-keeping began in 1900.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/2003_Tokachi_earthquake",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg/330px-2003%E5%B9%B4%E5%8D%81%E5%8B%9D%E6%B2%96%E5%9C%B0%E9%9C%87%E3%81%AB%E3%82%88%E3%82%8B%E8%8B%AB%E5%B0%8F%E7%89%A7%E3%81%A7%E3%81%AE%E7%9F%B3%E6%B2%B9%E3%82%BF%E3%83%B3%E3%82%AF%E3%81%AE%E7%81%AB%E7%81%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "2003年十勝沖地震による苫小牧での石油タンクの火災.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": "2003 Tokachi earthquake",
-          "description": "Earthquake in Japan",
-          "extract": "The 2003 Tokachi earthquake, known in Japanese as the 2003 Tokachi-Oki earthquake , occurred off the coast of Hokkaido, Japan on 26 September at 04:50 local time. At a focal depth of 27 km (17 mi), this great undersea earthquake measured 8.3 on the moment magnitude scale, making it the most powerful earthquake of 2003, as well as one of the most intense earthquakes to hit Japan since modern record-keeping began in 1900.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/2003_Tokachi_earthquake",
-          "score": 10
-        }
-      ],
-      "category": {
         "id": "history",
         "name": "Historia y Mundo",
         "icon": "🏛️"
       },
-      "mainPageTitle": "2003 Tokachi earthquake",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/2003_Tokachi_earthquake",
-      "relatedPagesCount": 1
+      "mainPageTitle": "Ram Rath Yatra",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Ram_Rath_Yatra",
+      "relatedPagesCount": 5
     }
   ]
 }

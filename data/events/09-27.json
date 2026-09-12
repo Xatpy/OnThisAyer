@@ -8,72 +8,388 @@
   "eventsWithImages": 10,
   "events": [
     {
-      "id": "09-27-2007-0a0c7fd0",
-      "year": 2007,
-      "text": "NASA launches the Dawn probe to the asteroid belt.",
+      "id": "09-27-1940-36d00cd5",
+      "year": 1940,
+      "text": "World War II: The Tripartite Pact is signed in Berlin by Germany, Japan and Italy.",
       "isFeatured": false,
       "hasImage": true,
       "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 130,
+      "marketingScore": 160,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Dawn_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dawn_logo.png/330px-Dawn_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "dawn_logo.png",
-        "width": 1610,
-        "height": 1570,
-        "title": "Dawn (spacecraft)",
-        "description": "NASA orbiter mission to asteroid Vesta and dwarf planet Ceres (2007–2018)",
-        "extract": "Dawn is a retired space probe that was launched by NASA in September 2007 with the mission of studying two of the three known protoplanets of the asteroid belt: Vesta and Ceres. In the fulfillment of that mission—the ninth in NASA's Discovery Program—Dawn entered orbit around Vesta on July 16, 2011, and completed a 14-month survey mission before leaving for Ceres in late 2012. It entered orbit around Ceres on March 6, 2015. In 2017, NASA announced that the planned nine-year mission would be extended until the probe's hydrazine fuel supply was depleted. On November 1, 2018, NASA announced that Dawn had depleted its hydrazine, and the mission was ended. The derelict probe remains in a stable orbit around Ceres.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Dawn_(spacecraft)",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+        "width": 798,
+        "height": 544,
+        "title": "World War II",
+        "description": "Global conflict from 1939 to 1945",
+        "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
         "score": 10
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Dawn_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dawn_logo.png/330px-Dawn_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "dawn_logo.png",
-          "width": 1610,
-          "height": 1570,
-          "title": "Dawn (spacecraft)",
-          "description": "NASA orbiter mission to asteroid Vesta and dwarf planet Ceres (2007–2018)",
-          "extract": "Dawn is a retired space probe that was launched by NASA in September 2007 with the mission of studying two of the three known protoplanets of the asteroid belt: Vesta and Ceres. In the fulfillment of that mission—the ninth in NASA's Discovery Program—Dawn entered orbit around Vesta on July 16, 2011, and completed a 14-month survey mission before leaving for Ceres in late 2012. It entered orbit around Ceres on March 6, 2015. In 2017, NASA announced that the planned nine-year mission would be extended until the probe's hydrazine fuel supply was depleted. On November 1, 2018, NASA announced that Dawn had depleted its hydrazine, and the mission was ended. The derelict probe remains in a stable orbit around Ceres.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Dawn_(spacecraft)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+          "width": 798,
+          "height": 544,
+          "title": "World War II",
+          "description": "Global conflict from 1939 to 1945",
+          "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dawn_spacecraft_model.png/1280px-Dawn_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dawn_spacecraft_model.png/1280px-Dawn_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "dawn_spacecraft_model.png",
-          "width": 800,
-          "height": 600,
-          "title": "Dawn_spacecraft_model",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Dawn_(spacecraft)",
-          "score": 8
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Signing_ceremony_for_the_Axis_Powers_Tripartite_Pact.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Signing_ceremony_for_the_Axis_Powers_Tripartite_Pact.jpg/330px-Signing_ceremony_for_the_Axis_Powers_Tripartite_Pact.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "signing_ceremony_for_the_axis_powers_tripartite_pact.jpg",
+          "width": 1301,
+          "height": 900,
+          "title": "Tripartite Pact",
+          "description": "1940 World War II mutual defense treaty",
+          "extract": "The Tripartite Pact, also known as the Berlin Pact, was an agreement between Germany, Italy, and Japan signed in Berlin on 27 September 1940 by, respectively, Joachim von Ribbentrop, Galeazzo Ciano, and Saburō Kurusu and in the presence of Adolf Hitler. It was a defensive military alliance that was eventually joined by Hungary, Romania, Slovakia, Bulgaria, and Yugoslavia. Yugoslavia's accession provoked a coup d'état in Belgrade two days later. Germany, Italy, and Hungary responded by invading Yugoslavia. The resulting Italo-German client state, known as the Independent State of Croatia, joined the pact on 15 June 1941.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Tripartite_Pact",
+          "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/SERT-1_spacecraft.jpg/1280px-SERT-1_spacecraft.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/SERT-1_spacecraft.jpg/1280px-SERT-1_spacecraft.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "sert-1_spacecraft.jpg",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "matilda_tanks_on_the_move_outside_the_perimeter_of_tobruk,_libya,_18_november_1941._e6600.jpg",
           "width": 800,
           "height": 600,
-          "title": "SERT-1: first ion engine NASA spacecraft;[20] launched on July 20, 1964.[21]",
+          "title": "Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk,_Libya,_18_November_1941._E6600",
           "description": "",
           "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Dawn_(spacecraft)",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
           "score": 8
         }
       ],
       "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
-      "mainPageTitle": "Dawn (spacecraft)",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Dawn_(spacecraft)",
-      "relatedPagesCount": 1
+      "mainPageTitle": "World War II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_II",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-27-1964-3c9f1539",
+      "year": 1964,
+      "text": "The British Aircraft Corporation TSR-2, an advanced Cold War tactical strike and reconnaissance aircraft that was later cancelled, made its maiden flight.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 150,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg/330px-BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bac_tsr.2_xr219_warton_11.06.66_edited-2.jpg",
+        "width": 1024,
+        "height": 686,
+        "title": "BAC TSR-2",
+        "description": "British reconnaissance strike aircraft prototype",
+        "extract": "The British Aircraft Corporation TSR-2 was a cancelled supersonic strike and reconnaissance aircraft designed by the British Aircraft Corporation (BAC). It was under development throughout the late 1950s and early 1960s for the Royal Air Force (RAF); the TSR-2 designation came from \"Tactical Strike and Reconnaissance, Mach 2\".",
+        "wikiUrl": "https://en.wikipedia.org/wiki/BAC_TSR-2",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg/330px-BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bac_tsr.2_xr219_warton_11.06.66_edited-2.jpg",
+          "width": 1024,
+          "height": 686,
+          "title": "BAC TSR-2",
+          "description": "British reconnaissance strike aircraft prototype",
+          "extract": "The British Aircraft Corporation TSR-2 was a cancelled supersonic strike and reconnaissance aircraft designed by the British Aircraft Corporation (BAC). It was under development throughout the late 1950s and early 1960s for the Royal Air Force (RAF); the TSR-2 designation came from \"Tactical Strike and Reconnaissance, Mach 2\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/BAC_TSR-2",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/BAC_TSR-2_at_Duxford.jpg/1280px-BAC_TSR-2_at_Duxford.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/BAC_TSR-2_at_Duxford.jpg/1280px-BAC_TSR-2_at_Duxford.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "bac_tsr-2_at_duxford.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "XR222 in white anti-flash finish, worn by all the completed TSR-2s, at Duxford, 2006",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/BAC_TSR-2",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "BAC TSR-2",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/BAC_TSR-2",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-27-2024-4356aeb1",
+      "year": 2024,
+      "text": "Hurricane Helene devastates the Carolinas as a tropical storm, killing hundreds and injuring more.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Helene_2024-09-27_0146Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Helene_2024-09-27_0146Z.jpg/330px-Helene_2024-09-27_0146Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "helene_2024-09-27_0146z.jpg",
+        "width": 1750,
+        "height": 2200,
+        "title": "Hurricane Helene",
+        "description": "Category 4 Atlantic hurricane in 2024",
+        "extract": "Hurricane Helene was a powerful and devastating tropical cyclone that caused widespread catastrophic damage and numerous fatalities across the Southeastern United States in late September 2024. It was the strongest hurricane on record to strike the Big Bend region of Florida, the deadliest Atlantic hurricane since Hurricane Maria in 2017, and the deadliest to strike the mainland U.S. since Hurricane Katrina in 2005.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Hurricane_Helene",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Helene_2024-09-27_0146Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Helene_2024-09-27_0146Z.jpg/330px-Helene_2024-09-27_0146Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "helene_2024-09-27_0146z.jpg",
+          "width": 1750,
+          "height": 2200,
+          "title": "Hurricane Helene",
+          "description": "Category 4 Atlantic hurricane in 2024",
+          "extract": "Hurricane Helene was a powerful and devastating tropical cyclone that caused widespread catastrophic damage and numerous fatalities across the Southeastern United States in late September 2024. It was the strongest hurricane on record to strike the Big Bend region of Florida, the deadliest Atlantic hurricane since Hurricane Maria in 2017, and the deadliest to strike the mainland U.S. since Hurricane Katrina in 2005.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hurricane_Helene",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Helene_2024_path.png/1280px-Helene_2024_path.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Helene_2024_path.png/1280px-Helene_2024_path.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "helene_2024_path.png",
+          "width": 800,
+          "height": 600,
+          "title": "Map plotting the storm's track and intensity, according to the Saffir–Simpson scale.mw-parser-output .hidden-begin{box-sizing:border-box;width:100%;padding:5px;border:none;font-size:95%}.mw-parser-output .hidden-title{font-weight:bold;line-height:1.6;text-align:left}.mw-parser-output .hidden-content{text-align:left}@media all and (max-width:500px){.mw-parser-output .hidden-begin{width:auto!important;clear:none!important;float:none!important}}Map keySaffir–Simpson scale.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}\n.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}  Tropical depression (≤38 mph, ≤62 km/h)\n  Tropical storm (39–73 mph, 63–118 km/h)\n  Category 1 (74–95 mph, 119–153 km/h)\n  Category 2 (96–110 mph, 154–177 km/h)\n  Category 3 (111–129 mph, 178–208 km/h)\n  Category 4 (130–156 mph, 209–251 km/h)\n  Category 5 (≥157 mph, ≥252 km/h)\n  Unknown\n\n\n\nStorm type\n Tropical cyclone\n Subtropical cyclone\n Extratropical cyclone, remnant low, tropical disturbance, or monsoon depression\n",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Hurricane_Helene",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "general",
+        "name": "Hito Histórico",
+        "icon": "✨"
+      },
+      "mainPageTitle": "Hurricane Helene",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Hurricane_Helene",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-27-1996-da8c2aea",
+      "year": 1996,
+      "text": "The Taliban drove Afghan President Burhanuddin Rabbani out of Kabul, tortured and murdered former president Mohammad Najibullah, and established the Islamic Emirate of Afghanistan.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Burhanuddin_Rabbani_Cropped_DVIDS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Burhanuddin_Rabbani_Cropped_DVIDS.jpg/330px-Burhanuddin_Rabbani_Cropped_DVIDS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "burhanuddin_rabbani_cropped_dvids.jpg",
+        "width": 556,
+        "height": 789,
+        "title": "Burhanuddin Rabbani",
+        "description": "President of Afghanistan from 1992 to 2001",
+        "extract": "Burhanuddin Rabbani was an Afghan politician and teacher who served as the sixth president of Afghanistan from 1992 to 1996, and again from November to December 2001.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Burhanuddin_Rabbani",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Burhanuddin_Rabbani_Cropped_DVIDS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Burhanuddin_Rabbani_Cropped_DVIDS.jpg/330px-Burhanuddin_Rabbani_Cropped_DVIDS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "burhanuddin_rabbani_cropped_dvids.jpg",
+          "width": 556,
+          "height": 789,
+          "title": "Burhanuddin Rabbani",
+          "description": "President of Afghanistan from 1992 to 2001",
+          "extract": "Burhanuddin Rabbani was an Afghan politician and teacher who served as the sixth president of Afghanistan from 1992 to 1996, and again from November to December 2001.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Burhanuddin_Rabbani",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kabul%2C_Afghanistan_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Kabul%2C_Afghanistan_view.jpg/330px-Kabul%2C_Afghanistan_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kabul,_afghanistan_view.jpg",
+          "width": 959,
+          "height": 640,
+          "title": "Kabul",
+          "description": "Capital and the largest city of Afghanistan",
+          "extract": "Kabul is the capital and largest city of Afghanistan. It is within the jurisdiction of Kabul District and has an estimated population of 5,333,284 people. Located in the eastern half of the country, forming part of the Kabul Province, the city is administratively divided into five zones and 22 municipal districts. The native population of Kabul primarily speaks Persian, locally referred to as Persian Dari, using regional Dari dialects with a distinctive Kabuli accent. Kabul has long been Afghanistan's political, cultural and economic center. Rapid urbanization has made it the country's primate city. It is located high in a narrow valley in the Hindu Kush mountain range, and is bounded by the Kabul River. At an altitude of 1,791 m (5,876 ft) above sea level, it is one of the highest capital cities in the world. The center of the city contains its oldest neighborhoods, including the areas of Bala Hisar, Deh Afghanan and Murad Khani.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Kabul",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Dr_Najibullah.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Dr_Najibullah.png/330px-Dr_Najibullah.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dr_najibullah.png",
+          "width": 766,
+          "height": 1002,
+          "title": "Mohammad Najibullah",
+          "description": "Leader of Afghanistan from 1987 to 1992",
+          "extract": "Mohammad Najibullah Ahmadzai was an Afghan military officer and politician who served as the fifth president of Afghanistan from 1987 until his resignation in April 1992, shortly after the Afghan mujahideen's takeover of Kabul. He was also the General Secretary of the People's Democratic Party of Afghanistan (PDPA) from 1986 to 1992. After a failed attempt to flee to India, Najibullah remained in Kabul, and lived in the United Nations headquarters until his assassination during the Taliban's first capture of Kabul in 1996.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mohammad_Najibullah",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Taliban",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Taliban",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "09-27-1992-3e1dccf7",
+      "year": 1992,
+      "text": "Palestinian prisoners went on a 15-day hunger strike.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Palestinian_Prisoners_and_Detainees_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Palestinian_Prisoners_and_Detainees_04.jpg/330px-Palestinian_Prisoners_and_Detainees_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "palestinian_prisoners_and_detainees_04.jpg",
+        "width": 2261,
+        "height": 1587,
+        "title": "Palestinians in Israeli custody",
+        "description": "",
+        "extract": "The future of Palestinians detained by Israel in the context of the Israeli–Palestinian conflict is considered central to progress in the Israeli–Palestinian peace process. Cases of prison sentences include the charges of \"terrorism\" or being a member of an \"illegal terrorist organization\", such as Hamas or, prior to the Oslo Accords, the Palestine Liberation Organization; but, according to some accounts, also the charge of political activism, such as raising a Palestinian flag.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Palestinians_in_Israeli_custody",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Palestinian_Prisoners_and_Detainees_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Palestinian_Prisoners_and_Detainees_04.jpg/330px-Palestinian_Prisoners_and_Detainees_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "palestinian_prisoners_and_detainees_04.jpg",
+          "width": 2261,
+          "height": 1587,
+          "title": "Palestinians in Israeli custody",
+          "description": "",
+          "extract": "The future of Palestinians detained by Israel in the context of the Israeli–Palestinian conflict is considered central to progress in the Israeli–Palestinian peace process. Cases of prison sentences include the charges of \"terrorism\" or being a member of an \"illegal terrorist organization\", such as Hamas or, prior to the Oslo Accords, the Palestine Liberation Organization; but, according to some accounts, also the charge of political activism, such as raising a Palestinian flag.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Palestinians_in_Israeli_custody",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Damon_prison.JPG/1280px-Damon_prison.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Damon_prison.JPG/1280px-Damon_prison.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "damon_prison.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Damon prison, located at the depopulated Palestinian village of Khirbat Al-Dumun",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Palestinians_in_Israeli_custody",
+          "score": 8
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Dzjalame_077.jpg/1280px-Dzjalame_077.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Dzjalame_077.jpg/1280px-Dzjalame_077.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "dzjalame_077.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Jalame Prison (Kishon Detention Center), located at the depopulated Palestinian village of Al-Jalama, Haifa",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Palestinians_in_Israeli_custody",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Palestinians in Israeli custody",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Palestinians_in_Israeli_custody",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-27-1941-d4a2fba3",
+      "year": 1941,
+      "text": "SS Patrick Henry, the first of 2,710 Liberty ships built during World War II by the United States, was launched.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 140,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/SS_Patrick_Henry_Liberty_ship_1941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/SS_Patrick_Henry_Liberty_ship_1941.jpg/330px-SS_Patrick_Henry_Liberty_ship_1941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "ss_patrick_henry_liberty_ship_1941.jpg",
+        "width": 798,
+        "height": 556,
+        "title": "SS Patrick Henry",
+        "description": "Liberty ship of WWII",
+        "extract": "SS Patrick Henry was the first Liberty ship launched. It was built by the Bethlehem Shipbuilding Corporation at their Bethlehem-Fairfield Shipyard in Baltimore, Maryland. She was named after Patrick Henry, an American attorney, planter, and Founding Father as well as the first and sixth post-colonial Governor of Virginia, from 1776 to 1779 and 1784 to 1786.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/SS_Patrick_Henry",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/SS_Patrick_Henry_Liberty_ship_1941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/SS_Patrick_Henry_Liberty_ship_1941.jpg/330px-SS_Patrick_Henry_Liberty_ship_1941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "ss_patrick_henry_liberty_ship_1941.jpg",
+          "width": 798,
+          "height": 556,
+          "title": "SS Patrick Henry",
+          "description": "Liberty ship of WWII",
+          "extract": "SS Patrick Henry was the first Liberty ship launched. It was built by the Bethlehem Shipbuilding Corporation at their Bethlehem-Fairfield Shipyard in Baltimore, Maryland. She was named after Patrick Henry, an American attorney, planter, and Founding Father as well as the first and sixth post-colonial Governor of Virginia, from 1776 to 1779 and 1784 to 1786.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/SS_Patrick_Henry",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jeremiah_O.Brien_2022-c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Jeremiah_O.Brien_2022-c.jpg/330px-Jeremiah_O.Brien_2022-c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jeremiah_o.brien_2022-c.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Liberty ship",
+          "description": "US cargo ship class of WWII",
+          "extract": "Liberty ships are a class of cargo ship built in the United States during World War II under the Emergency Shipbuilding Program. Although British in concept, the design was adopted by the United States for its simple, low-cost construction. Mass-produced on an unprecedented scale, the Liberty ship came to symbolize U.S. wartime industrial output.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Liberty_ship",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/SS_Patrick_Henry_launching_on_Liberty_Fleet_Day%2C_27_September_1941_%2826580977380%29.jpg/1280px-SS_Patrick_Henry_launching_on_Liberty_Fleet_Day%2C_27_September_1941_%2826580977380%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/SS_Patrick_Henry_launching_on_Liberty_Fleet_Day%2C_27_September_1941_%2826580977380%29.jpg/1280px-SS_Patrick_Henry_launching_on_Liberty_Fleet_Day%2C_27_September_1941_%2826580977380%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "ss_patrick_henry_launching_on_liberty_fleet_day,_27_september_1941_(26580977380).jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Patrick Henry launching on Liberty Fleet Day",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/SS_Patrick_Henry",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "SS Patrick Henry",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/SS_Patrick_Henry",
+      "relatedPagesCount": 2
     },
     {
       "id": "09-27-1998-35a04590",
@@ -83,10 +399,10 @@
       "hasImage": true,
       "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 110,
+      "marketingScore": 130,
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Googleplex_HQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/330px-Googleplex_HQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/330px-Googleplex_HQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "canonicalKey": "googleplex_hq_(cropped).jpg",
         "width": 3024,
         "height": 2212,
@@ -99,7 +415,7 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Googleplex_HQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/330px-Googleplex_HQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Googleplex_HQ_%28cropped%29.jpg/330px-Googleplex_HQ_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "googleplex_hq_(cropped).jpg",
           "width": 3024,
           "height": 2212,
@@ -110,8 +426,8 @@
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Google_page_brin.jpg/1280px-Google_page_brin.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Google_page_brin.jpg/1280px-Google_page_brin.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Google_page_brin.jpg/1280px-Google_page_brin.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Google_page_brin.jpg/1280px-Google_page_brin.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
           "canonicalKey": "google_page_brin.jpg",
           "width": 800,
           "height": 600,
@@ -122,8 +438,8 @@
           "score": 8
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schmidt-Brin-Page-20080520.jpg/1280px-Schmidt-Brin-Page-20080520.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Schmidt-Brin-Page-20080520.jpg/1280px-Schmidt-Brin-Page-20080520.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Schmidt-Brin-Page-20080520.jpg/1280px-Schmidt-Brin-Page-20080520.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Schmidt-Brin-Page-20080520.jpg/1280px-Schmidt-Brin-Page-20080520.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
           "canonicalKey": "schmidt-brin-page-20080520.jpg",
           "width": 800,
           "height": 600,
@@ -144,71 +460,127 @@
       "relatedPagesCount": 1
     },
     {
-      "id": "09-27-1938-2810ce41",
-      "year": 1938,
-      "text": "The ocean liner Queen Elizabeth is launched in Glasgow.",
+      "id": "09-27-1962-e4dd2e55",
+      "year": 1962,
+      "text": "Rachel Carson's book Silent Spring is published, inspiring an environmental movement and the creation of the U.S. Environmental Protection Agency.",
       "isFeatured": false,
       "hasImage": true,
-      "imagesCount": 3,
+      "imagesCount": 2,
       "imageScore": 10,
-      "marketingScore": 110,
+      "marketingScore": 130,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/RMS_Queen_Elizabeth_at_Southampton_1967_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/RMS_Queen_Elizabeth_at_Southampton_1967_%283%29.jpg/330px-RMS_Queen_Elizabeth_at_Southampton_1967_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "rms_queen_elizabeth_at_southampton_1967_(3).jpg",
-        "width": 2800,
-        "height": 1897,
-        "title": "RMS Queen Elizabeth",
-        "description": "Ocean liner (1938–1968)",
-        "extract": "RMS Queen Elizabeth was a British ocean liner operated by the Cunard Line. Along with her sister Queen Mary, she provided a weekly transatlantic service between Southampton in the United Kingdom and New York City in the United States, via Cherbourg in France.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/RMS_Queen_Elizabeth",
+        "url": "https://upload.wikimedia.org/wikipedia/en/a/ac/SilentSpring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/SilentSpring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "silentspring.jpg",
+        "width": 266,
+        "height": 375,
+        "title": "Silent Spring",
+        "description": "Book by Rachel Carson about pesticides harming the environment",
+        "extract": "Silent Spring is an environmental science book by Rachel Carson. Published on September 27, 1962, the book documented the environmental harm caused by the indiscriminate use of DDT, a pesticide used by soldiers during World War II. Carson accused the chemical industry of spreading disinformation and public officials of accepting the industry's marketing claims unquestioningly.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Silent_Spring",
         "score": 10
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/RMS_Queen_Elizabeth_at_Southampton_1967_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/RMS_Queen_Elizabeth_at_Southampton_1967_%283%29.jpg/330px-RMS_Queen_Elizabeth_at_Southampton_1967_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "rms_queen_elizabeth_at_southampton_1967_(3).jpg",
-          "width": 2800,
-          "height": 1897,
-          "title": "RMS Queen Elizabeth",
-          "description": "Ocean liner (1938–1968)",
-          "extract": "RMS Queen Elizabeth was a British ocean liner operated by the Cunard Line. Along with her sister Queen Mary, she provided a weekly transatlantic service between Southampton in the United Kingdom and New York City in the United States, via Cherbourg in France.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/RMS_Queen_Elizabeth",
+          "url": "https://upload.wikimedia.org/wikipedia/en/a/ac/SilentSpring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/a/ac/SilentSpring.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "silentspring.jpg",
+          "width": 266,
+          "height": 375,
+          "title": "Silent Spring",
+          "description": "Book by Rachel Carson about pesticides harming the environment",
+          "extract": "Silent Spring is an environmental science book by Rachel Carson. Published on September 27, 1962, the book documented the environmental harm caused by the indiscriminate use of DDT, a pesticide used by soldiers during World War II. Carson accused the chemical industry of spreading disinformation and public officials of accepting the industry's marketing claims unquestioningly.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Silent_Spring",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Queen_Elizabeth_Construction.jpg/330px-Queen_Elizabeth_Construction.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Queen_Elizabeth_Construction.jpg/330px-Queen_Elizabeth_Construction.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "queen_elizabeth_construction.jpg",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Rachel-Carson.jpg/500px-Rachel-Carson.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Rachel-Carson.jpg/500px-Rachel-Carson.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "rachel-carson.jpg",
           "width": 800,
           "height": 600,
-          "title": "Queen Elizabeth under construction at Clydebank",
+          "title": "Rachel Carson, 1940 Fish and Wildlife Service employee photo",
           "description": "",
           "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/RMS_Queen_Elizabeth",
-          "score": 8
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RMS_Queen_Mary_%281936%29_%2851022313917%29.jpg/1280px-RMS_Queen_Mary_%281936%29_%2851022313917%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RMS_Queen_Mary_%281936%29_%2851022313917%29.jpg/1280px-RMS_Queen_Mary_%281936%29_%2851022313917%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "rms_queen_mary_(1936)_(51022313917).jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Scale models of Queen Mary (foreground) and Queen Elizabeth (background) created by John Brown & Company, on display at the Glasgow Museum of Transport",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/RMS_Queen_Elizabeth",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Silent_Spring",
           "score": 8
         }
       ],
       "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
-      "mainPageTitle": "RMS Queen Elizabeth",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/RMS_Queen_Elizabeth",
+      "mainPageTitle": "Silent Spring",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Silent_Spring",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "09-27-1959-174f2a9c",
+      "year": 1959,
+      "text": "Typhoon Vera kills nearly 5,000 people in Japan.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Typhoon_Vera_analysis_23_Sep_1959.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Typhoon_Vera_analysis_23_Sep_1959.png/330px-Typhoon_Vera_analysis_23_Sep_1959.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "typhoon_vera_analysis_23_sep_1959.png",
+        "width": 816,
+        "height": 825,
+        "title": "Typhoon Vera",
+        "description": "Pacific typhoon in 1959",
+        "extract": "Typhoon Vera, also known as the Isewan Typhoon , was an exceptionally intense tropical cyclone that struck Japan in September 1959, becoming the strongest and deadliest typhoon on record to make landfall on the country, as well as the only one to do so as a Category 5 equivalent storm. The storm's intensity resulted in catastrophic damage of unparalleled severity and extent, and was a major setback to the Japanese economy, which was still recovering from World War II. In the aftermath of Vera, Japan's disaster management and relief systems were significantly reformed, and the typhoon's effects would set a benchmark for future storms striking the country.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Typhoon_Vera",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Typhoon_Vera_analysis_23_Sep_1959.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Typhoon_Vera_analysis_23_Sep_1959.png/330px-Typhoon_Vera_analysis_23_Sep_1959.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "typhoon_vera_analysis_23_sep_1959.png",
+          "width": 816,
+          "height": 825,
+          "title": "Typhoon Vera",
+          "description": "Pacific typhoon in 1959",
+          "extract": "Typhoon Vera, also known as the Isewan Typhoon , was an exceptionally intense tropical cyclone that struck Japan in September 1959, becoming the strongest and deadliest typhoon on record to make landfall on the country, as well as the only one to do so as a Category 5 equivalent storm. The storm's intensity resulted in catastrophic damage of unparalleled severity and extent, and was a major setback to the Japanese economy, which was still recovering from World War II. In the aftermath of Vera, Japan's disaster management and relief systems were significantly reformed, and the typhoon's effects would set a benchmark for future storms striking the country.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Typhoon_Vera",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Vera_1959_path.png/1280px-Vera_1959_path.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Vera_1959_path.png/1280px-Vera_1959_path.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "vera_1959_path.png",
+          "width": 800,
+          "height": 600,
+          "title": "Map plotting the storm's track and intensity, according to the Saffir–Simpson scale.mw-parser-output .hidden-begin{box-sizing:border-box;width:100%;padding:5px;border:none;font-size:95%}.mw-parser-output .hidden-title{font-weight:bold;line-height:1.6;text-align:left}.mw-parser-output .hidden-content{text-align:left}@media all and (max-width:500px){.mw-parser-output .hidden-begin{width:auto!important;clear:none!important;float:none!important}}Map keySaffir–Simpson scale.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}\n.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}  Tropical depression (≤38 mph, ≤62 km/h)\n  Tropical storm (39–73 mph, 63–118 km/h)\n  Category 1 (74–95 mph, 119–153 km/h)\n  Category 2 (96–110 mph, 154–177 km/h)\n  Category 3 (111–129 mph, 178–208 km/h)\n  Category 4 (130–156 mph, 209–251 km/h)\n  Category 5 (≥157 mph, ≥252 km/h)\n  Unknown\n\n\n\nStorm type\n Tropical cyclone\n Subtropical cyclone\n Extratropical cyclone, remnant low, tropical disturbance, or monsoon depression\n",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Typhoon_Vera",
+          "score": 8
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Typhoon_Vera_1959_CBC_Location.jpg/1280px-Typhoon_Vera_1959_CBC_Location.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Typhoon_Vera_1959_CBC_Location.jpg/1280px-Typhoon_Vera_1959_CBC_Location.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "typhoon_vera_1959_cbc_location.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Typhoon_Vera_1959_CBC_Location",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Typhoon_Vera",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Typhoon Vera",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Typhoon_Vera",
       "relatedPagesCount": 1
     },
     {
@@ -219,7 +591,7 @@
       "hasImage": true,
       "imagesCount": 2,
       "imageScore": 10,
-      "marketingScore": 110,
+      "marketingScore": 130,
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lidj_Iyasu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Lidj_Iyasu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -247,7 +619,7 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Zewditu_Empress.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Zewditu_Empress.PNG/330px-Zewditu_Empress.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Zewditu_Empress.PNG/330px-Zewditu_Empress.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "zewditu_empress.png",
           "width": 400,
           "height": 496,
@@ -259,336 +631,12 @@
         }
       ],
       "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
       "mainPageTitle": "Lij Iyasu",
       "mainPageUrl": "https://en.wikipedia.org/wiki/Lij_Iyasu",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "09-27-2008-b8e943df",
-      "year": 2008,
-      "text": "CNSA astronaut Zhai Zhigang becomes the first Chinese person to perform a spacewalk.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 1,
-      "imageScore": 10,
-      "marketingScore": 85,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Zhai_Zhigang.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Zhai_Zhigang.JPG/330px-Zhai_Zhigang.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "zhai_zhigang.jpg",
-        "width": 1200,
-        "height": 1800,
-        "title": "Zhai Zhigang",
-        "description": "Chinese military officer and taikonaut (born 1966)",
-        "extract": "Zhai Zhigang is a Chinese major general of the People's Liberation Army Strategic Support Force (PLASSF) in active service as a People's Liberation Army Astronaut Corps (PLAAC) taikonaut. During the Shenzhou 7 mission in 2008, he became the first Chinese citizen to carry out a spacewalk. He was a People's Liberation Army Air Force (PLAAF) fighter pilot before becoming an astronaut.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Zhai_Zhigang",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Zhai_Zhigang.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Zhai_Zhigang.JPG/330px-Zhai_Zhigang.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "zhai_zhigang.jpg",
-          "width": 1200,
-          "height": 1800,
-          "title": "Zhai Zhigang",
-          "description": "Chinese military officer and taikonaut (born 1966)",
-          "extract": "Zhai Zhigang is a Chinese major general of the People's Liberation Army Strategic Support Force (PLASSF) in active service as a People's Liberation Army Astronaut Corps (PLAAC) taikonaut. During the Shenzhou 7 mission in 2008, he became the first Chinese citizen to carry out a spacewalk. He was a People's Liberation Army Air Force (PLAAF) fighter pilot before becoming an astronaut.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Zhai_Zhigang",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Zhai Zhigang",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Zhai_Zhigang",
-      "relatedPagesCount": 1
-    },
-    {
-      "id": "09-27-2003-a74e9947",
-      "year": 2003,
-      "text": "The SMART-1 satellite is launched.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 85,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Artist%27s_impression_of_the_SMART-1_mission_ESA199399.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Artist%27s_impression_of_the_SMART-1_mission_ESA199399.jpg/330px-Artist%27s_impression_of_the_SMART-1_mission_ESA199399.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "artist's_impression_of_the_smart-1_mission_esa199399.jpg",
-        "width": 3035,
-        "height": 2141,
-        "title": "SMART-1",
-        "description": "European Space Agency satellite that orbited the Moon",
-        "extract": "SMART-1 was a European Space Agency satellite that orbited the Moon. It was launched on 27 September 2003 at 23:14 UTC from the Guiana Space Centre in Kourou, French Guiana. \"SMART-1\" stands for Small Missions for Advanced Research in Technology-1, part of the Small Missions for Advanced Research in Technology programme. On 3 September 2006, SMART-1 was deliberately crashed into the Moon's surface, ending its mission.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/SMART-1",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Artist%27s_impression_of_the_SMART-1_mission_ESA199399.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Artist%27s_impression_of_the_SMART-1_mission_ESA199399.jpg/330px-Artist%27s_impression_of_the_SMART-1_mission_ESA199399.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "artist's_impression_of_the_smart-1_mission_esa199399.jpg",
-          "width": 3035,
-          "height": 2141,
-          "title": "SMART-1",
-          "description": "European Space Agency satellite that orbited the Moon",
-          "extract": "SMART-1 was a European Space Agency satellite that orbited the Moon. It was launched on 27 September 2003 at 23:14 UTC from the Guiana Space Centre in Kourou, French Guiana. \"SMART-1\" stands for Small Missions for Advanced Research in Technology-1, part of the Small Missions for Advanced Research in Technology programme. On 3 September 2006, SMART-1 was deliberately crashed into the Moon's surface, ending its mission.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/SMART-1",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/en/0/02/SMART-1_insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/02/SMART-1_insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
-          "canonicalKey": "smart-1_insignia.png",
-          "width": 800,
-          "height": 600,
-          "title": "SMART-1_insignia",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/SMART-1",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "SMART-1",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/SMART-1",
-      "relatedPagesCount": 1
-    },
-    {
-      "id": "09-27-1964-3c9f1539",
-      "year": 1964,
-      "text": "The British Aircraft Corporation TSR-2, an advanced Cold War tactical strike and reconnaissance aircraft that was later cancelled, made its maiden flight.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 75,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg/330px-BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "bac_tsr.2_xr219_warton_11.06.66_edited-2.jpg",
-        "width": 1024,
-        "height": 686,
-        "title": "BAC TSR-2",
-        "description": "British reconnaissance strike aircraft prototype",
-        "extract": "The British Aircraft Corporation TSR-2 was a cancelled supersonic strike and reconnaissance aircraft designed by the British Aircraft Corporation (BAC). It was under development throughout the late 1950s and early 1960s for the Royal Air Force (RAF); the TSR-2 designation came from \"Tactical Strike and Reconnaissance, Mach 2\".",
-        "wikiUrl": "https://en.wikipedia.org/wiki/BAC_TSR-2",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg/330px-BAC_TSR.2_XR219_Warton_11.06.66_edited-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "bac_tsr.2_xr219_warton_11.06.66_edited-2.jpg",
-          "width": 1024,
-          "height": 686,
-          "title": "BAC TSR-2",
-          "description": "British reconnaissance strike aircraft prototype",
-          "extract": "The British Aircraft Corporation TSR-2 was a cancelled supersonic strike and reconnaissance aircraft designed by the British Aircraft Corporation (BAC). It was under development throughout the late 1950s and early 1960s for the Royal Air Force (RAF); the TSR-2 designation came from \"Tactical Strike and Reconnaissance, Mach 2\".",
-          "wikiUrl": "https://en.wikipedia.org/wiki/BAC_TSR-2",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BAC_TSR-2_at_Duxford.jpg/1280px-BAC_TSR-2_at_Duxford.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/BAC_TSR-2_at_Duxford.jpg/1280px-BAC_TSR-2_at_Duxford.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "bac_tsr-2_at_duxford.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "XR222 in white anti-flash finish, worn by all the completed TSR-2s, at Duxford, 2006",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/BAC_TSR-2",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "BAC TSR-2",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/BAC_TSR-2",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "09-27-1917-1ba8798a",
-      "year": 1917,
-      "text": "The Broadhurst Theatre opened in New York City with a performance of Misalliance by George Bernard Shaw.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 70,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Broadhurst_Theater_-_Frankie_and_Johnny_in_the_Clair_de_Lune_%2848193410426%29.jpg/3840px-Broadhurst_Theater_-_Frankie_and_Johnny_in_the_Clair_de_Lune_%2848193410426%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Broadhurst_Theater_-_Frankie_and_Johnny_in_the_Clair_de_Lune_%2848193410426%29.jpg/330px-Broadhurst_Theater_-_Frankie_and_Johnny_in_the_Clair_de_Lune_%2848193410426%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "broadhurst_theater_-_frankie_and_johnny_in_the_clair_de_lune_(48193410426).jpg",
-        "width": 4608,
-        "height": 3456,
-        "title": "Broadhurst Theatre",
-        "description": "Broadway theater in Manhattan, New York",
-        "extract": "The Broadhurst Theatre is a Broadway theater at 235 West 44th Street in the Theater District of Midtown Manhattan in New York City, New York, U.S. Opened in 1917, the theater was designed by Herbert J. Krapp and was built for the Shubert brothers. The Broadhurst Theatre is named for British-American theatrical producer George Broadhurst, who leased the theater before its opening. It has 1,218 seats across two levels and is operated by The Shubert Organization. Both the facade and the auditorium interior are New York City landmarks.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Broadhurst_Theatre",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Broadhurst_Theater_-_Frankie_and_Johnny_in_the_Clair_de_Lune_%2848193410426%29.jpg/3840px-Broadhurst_Theater_-_Frankie_and_Johnny_in_the_Clair_de_Lune_%2848193410426%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Broadhurst_Theater_-_Frankie_and_Johnny_in_the_Clair_de_Lune_%2848193410426%29.jpg/330px-Broadhurst_Theater_-_Frankie_and_Johnny_in_the_Clair_de_Lune_%2848193410426%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "broadhurst_theater_-_frankie_and_johnny_in_the_clair_de_lune_(48193410426).jpg",
-          "width": 4608,
-          "height": 3456,
-          "title": "Broadhurst Theatre",
-          "description": "Broadway theater in Manhattan, New York",
-          "extract": "The Broadhurst Theatre is a Broadway theater at 235 West 44th Street in the Theater District of Midtown Manhattan in New York City, New York, U.S. Opened in 1917, the theater was designed by Herbert J. Krapp and was built for the Shubert brothers. The Broadhurst Theatre is named for British-American theatrical producer George Broadhurst, who leased the theater before its opening. It has 1,218 seats across two levels and is operated by The Shubert Organization. Both the facade and the auditorium interior are New York City landmarks.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Broadhurst_Theatre",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/en/3/30/Bernard-Shaw-ILN-1911-original.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Bernard-Shaw-ILN-1911-original.jpg/330px-Bernard-Shaw-ILN-1911-original.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "bernard-shaw-iln-1911-original.jpg",
-          "width": 2228,
-          "height": 3134,
-          "title": "George Bernard Shaw",
-          "description": "Irish playwright, critic, and polemicist (1856–1950)",
-          "extract": "George Bernard Shaw was an Irish playwright, critic, polemicist and political activist. His influence on Western theatre, culture and politics extended from the 1880s to his death and beyond. He wrote more than sixty plays, including major works such as Man and Superman (1902), Pygmalion (1913) and Saint Joan (1923). With a range incorporating both contemporary satire and historical allegory, Shaw became the leading dramatist of his generation, and in 1925 was awarded the Nobel Prize in Literature.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "cinema_tv",
-        "name": "Cine y TV",
-        "icon": "🎬"
-      },
-      "mainPageTitle": "Broadhurst Theatre",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Broadhurst_Theatre",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "09-27-2024-4356aeb1",
-      "year": 2024,
-      "text": "Hurricane Helene devastates the Carolinas as a tropical storm, killing hundreds and injuring more.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Helene_2024-09-27_0146Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Helene_2024-09-27_0146Z.jpg/330px-Helene_2024-09-27_0146Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "helene_2024-09-27_0146z.jpg",
-        "width": 1750,
-        "height": 2200,
-        "title": "Hurricane Helene",
-        "description": "Category 4 Atlantic hurricane in 2024",
-        "extract": "Hurricane Helene was a powerful and devastating tropical cyclone that caused widespread catastrophic damage and numerous fatalities across the Southeastern United States in late September 2024. It was the strongest hurricane on record to strike the Big Bend region of Florida, the deadliest Atlantic hurricane since Hurricane Maria in 2017, and the deadliest to strike the mainland U.S. since Hurricane Katrina in 2005.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Hurricane_Helene",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Helene_2024-09-27_0146Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Helene_2024-09-27_0146Z.jpg/330px-Helene_2024-09-27_0146Z.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "helene_2024-09-27_0146z.jpg",
-          "width": 1750,
-          "height": 2200,
-          "title": "Hurricane Helene",
-          "description": "Category 4 Atlantic hurricane in 2024",
-          "extract": "Hurricane Helene was a powerful and devastating tropical cyclone that caused widespread catastrophic damage and numerous fatalities across the Southeastern United States in late September 2024. It was the strongest hurricane on record to strike the Big Bend region of Florida, the deadliest Atlantic hurricane since Hurricane Maria in 2017, and the deadliest to strike the mainland U.S. since Hurricane Katrina in 2005.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Hurricane_Helene",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Helene_2024_path.png/1280px-Helene_2024_path.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Helene_2024_path.png/1280px-Helene_2024_path.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "helene_2024_path.png",
-          "width": 800,
-          "height": 600,
-          "title": "Map plotting the storm's track and intensity, according to the Saffir–Simpson scale.mw-parser-output .hidden-begin{box-sizing:border-box;width:100%;padding:5px;border:none;font-size:95%}.mw-parser-output .hidden-title{font-weight:bold;line-height:1.6;text-align:left}.mw-parser-output .hidden-content{text-align:left}@media all and (max-width:500px){.mw-parser-output .hidden-begin{width:auto!important;clear:none!important;float:none!important}}Map keySaffir–Simpson scale.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}\n.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}  Tropical depression (≤38 mph, ≤62 km/h)\n  Tropical storm (39–73 mph, 63–118 km/h)\n  Category 1 (74–95 mph, 119–153 km/h)\n  Category 2 (96–110 mph, 154–177 km/h)\n  Category 3 (111–129 mph, 178–208 km/h)\n  Category 4 (130–156 mph, 209–251 km/h)\n  Category 5 (≥157 mph, ≥252 km/h)\n  Unknown\n\n\n\nStorm type\n Tropical cyclone\n Subtropical cyclone\n Extratropical cyclone, remnant low, tropical disturbance, or monsoon depression\n",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Hurricane_Helene",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "general",
-        "name": "Hito Histórico",
-        "icon": "✨"
-      },
-      "mainPageTitle": "Hurricane Helene",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Hurricane_Helene",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "09-27-2014-321c74dd",
-      "year": 2014,
-      "text": "Mount Ontake in central Japan unexpectedly erupted, killing 63 people in the nation's deadliest eruption in more than 100 years.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Kiso_Ontake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kiso_Ontake.jpg/330px-Kiso_Ontake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "kiso_ontake.jpg",
-        "width": 2560,
-        "height": 1280,
-        "title": "Mount Ontake",
-        "description": "Volcanic mountain on the island of Honshu, Japan",
-        "extract": "Mount Ontake , also referred to as Mount Kiso Ontake , is the 14th-highest mountain and second-highest volcano in Japan at 3,067 m (10,062 ft). It is included in Kyūya Fukada's 1964 book 100 Famous Japanese Mountains.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Mount_Ontake",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Kiso_Ontake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kiso_Ontake.jpg/330px-Kiso_Ontake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "kiso_ontake.jpg",
-          "width": 2560,
-          "height": 1280,
-          "title": "Mount Ontake",
-          "description": "Volcanic mountain on the island of Honshu, Japan",
-          "extract": "Mount Ontake , also referred to as Mount Kiso Ontake , is the 14th-highest mountain and second-highest volcano in Japan at 3,067 m (10,062 ft). It is included in Kyūya Fukada's 1964 book 100 Famous Japanese Mountains.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Mount_Ontake",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mount_Ontake_from_Kurakake_Pass.JPG/3840px-Mount_Ontake_from_Kurakake_Pass.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mount_Ontake_from_Kurakake_Pass.JPG/330px-Mount_Ontake_from_Kurakake_Pass.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "mount_ontake_from_kurakake_pass.jpg",
-          "width": 5184,
-          "height": 3456,
-          "title": "2014 Mount Ontake eruption",
-          "description": "Fatal volcanic eruption in Honshu, Japan",
-          "extract": "A volcanic eruption of Mount Ontake  took place on September 27, 2014, killing 63 people. Mount Ontake is a volcano located on the Japanese island of Honshu around 100 kilometres (62 mi) northeast of Nagoya and around 200 km (120 mi) west of Tokyo. It was the first fatal volcanic eruption in Japan since the 1991 eruption of Mount Unzen, and the deadliest volcanic eruption in Japan since Torishima killed an estimated 150 people in 1902.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/2014_Mount_Ontake_eruption",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "culture",
-        "name": "Cultura y Letras",
-        "icon": "📚"
-      },
-      "mainPageTitle": "Mount Ontake",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Mount_Ontake",
       "relatedPagesCount": 2
     }
   ]

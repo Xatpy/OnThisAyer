@@ -8,72 +8,196 @@
   "eventsWithImages": 10,
   "events": [
     {
-      "id": "09-13-2007-1e83a212",
-      "year": 2007,
-      "text": "The McLaren F1 team are found guilty of possessing confidential information from the Ferrari team, fined $100 million, and excluded from the constructors' championship standings.",
+      "id": "09-13-2001-4d21e5a6",
+      "year": 2001,
+      "text": "Civilian aircraft traffic resumes in the United States after the September 11 attacks.",
       "isFeatured": false,
       "hasImage": true,
       "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 130,
+      "marketingScore": 160,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/0/03/McLarenF1Team.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/McLarenF1Team.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "canonicalKey": "mclarenf1team.png",
-        "width": 316,
-        "height": 316,
-        "title": "McLaren",
-        "description": "British auto racing team",
-        "extract": "McLaren Racing Limited, currently competing in Formula One as McLaren Mastercard F1 Team, is a British motor racing team based at the McLaren Technology Centre in Woking, Surrey, England. The team is a subsidiary of the McLaren Group, wholly owned by Mumtalakat Holding Company.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/McLaren",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/330px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "wtc_smoking_on_9-11.jpeg",
+        "width": 1600,
+        "height": 1200,
+        "title": "September 11 attacks",
+        "description": "2001 terror attacks in the U.S.",
+        "extract": "The September 11 attacks, colloquially known as 9/11, were a coordinated series of suicide attacks perpetrated by the Islamic terrorist organization al-Qaeda against the United States in 2001. A total of 19 hijackers commandeered four commercial passenger airliners. The first two planes were flown into each of the Twin Towers at the World Trade Center in New York City, while the third plane crashed into the Pentagon, the headquarters of the United States Department of Defense, in Arlington County, Virginia. The fourth plane crashed in a rural field in Pennsylvania during a passenger revolt.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/September_11_attacks",
         "score": 10
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/en/0/03/McLarenF1Team.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/McLarenF1Team.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "canonicalKey": "mclarenf1team.png",
-          "width": 316,
-          "height": 316,
-          "title": "McLaren",
-          "description": "British auto racing team",
-          "extract": "McLaren Racing Limited, currently competing in Formula One as McLaren Mastercard F1 Team, is a British motor racing team based at the McLaren Technology Centre in Woking, Surrey, England. The team is a subsidiary of the McLaren Group, wholly owned by Mumtalakat Holding Company.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/McLaren",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/WTC_smoking_on_9-11.jpeg/330px-WTC_smoking_on_9-11.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "wtc_smoking_on_9-11.jpeg",
+          "width": 1600,
+          "height": 1200,
+          "title": "September 11 attacks",
+          "description": "2001 terror attacks in the U.S.",
+          "extract": "The September 11 attacks, colloquially known as 9/11, were a coordinated series of suicide attacks perpetrated by the Islamic terrorist organization al-Qaeda against the United States in 2001. A total of 19 hijackers commandeered four commercial passenger airliners. The first two planes were flown into each of the Twin Towers at the World Trade Center in New York City, while the third plane crashed into the Pentagon, the headquarters of the United States Department of Defense, in Arlington County, Virginia. The fourth plane crashed in a rural field in Pennsylvania during a passenger revolt.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/September_11_attacks",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/F1_valencia-2010.JPG/3840px-F1_valencia-2010.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/F1_valencia-2010.JPG/330px-F1_valencia-2010.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "f1_valencia-2010.jpg",
-          "width": 4288,
-          "height": 2848,
-          "title": "2007 Formula One espionage controversy",
-          "description": "Scandal among the McLaren, Ferrari, and Renault F1 racing teams",
-          "extract": "The 2007 Formula One espionage controversy, also known as Spygate and Stepneygate, was a set of accusations among Formula One racing teams that confidential technical information had been passed between them. It involved the McLaren, Ferrari and Renault F1 teams.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/2007_Formula_One_espionage_controversy",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/McLarenBruce.jpg/500px-McLarenBruce.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/McLarenBruce.jpg/500px-McLarenBruce.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "mclarenbruce.jpg",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/FEMA_-_3969_-_Photograph_by_Andrea_Booher_taken_on_09-19-2001_in_New_York.jpg/1280px-FEMA_-_3969_-_Photograph_by_Andrea_Booher_taken_on_09-19-2001_in_New_York.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/FEMA_-_3969_-_Photograph_by_Andrea_Booher_taken_on_09-19-2001_in_New_York.jpg/1280px-FEMA_-_3969_-_Photograph_by_Andrea_Booher_taken_on_09-19-2001_in_New_York.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "fema_-_3969_-_photograph_by_andrea_booher_taken_on_09-19-2001_in_new_york.jpg",
           "width": 800,
           "height": 600,
-          "title": "The McLaren Racing team's founder Bruce McLaren",
+          "title": "FEMA_-_3969_-_Photograph_by_Andrea_Booher_taken_on_09-19-2001_in_New_York",
           "description": "",
           "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/McLaren",
+          "wikiUrl": "https://en.wikipedia.org/wiki/September_11_attacks",
+          "score": 8
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/DN-SD-03-11451_%28cropped%29.JPEG/1280px-DN-SD-03-11451_%28cropped%29.JPEG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/DN-SD-03-11451_%28cropped%29.JPEG/1280px-DN-SD-03-11451_%28cropped%29.JPEG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "dn-sd-03-11451_(cropped).jpeg",
+          "width": 800,
+          "height": 600,
+          "title": "DN-SD-03-11451_(cropped)",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/September_11_attacks",
           "score": 8
         }
       ],
       "category": {
-        "id": "sports",
-        "name": "Deportes",
-        "icon": "🏆"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
-      "mainPageTitle": "McLaren",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/McLaren",
-      "relatedPagesCount": 3
+      "mainPageTitle": "September 11 attacks",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/September_11_attacks",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "09-13-1962-ab91e59a",
+      "year": 1962,
+      "text": "An appeals court orders the University of Mississippi to admit James Meredith, the first African-American student admitted to the segregated university.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 160,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/James_Meredith_in_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/James_Meredith_in_2010_%28cropped%29.jpg/330px-James_Meredith_in_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "james_meredith_in_2010_(cropped).jpg",
+        "width": 964,
+        "height": 1295,
+        "title": "James Meredith",
+        "description": "American civil rights activist (born 1933)",
+        "extract": "James Howard Meredith is an American civil rights activist, writer, political adviser, and United States Air Force veteran who became, in 1962, the first African-American student admitted to the racially segregated University of Mississippi after the intervention of the federal government. Inspired by President John F. Kennedy's inaugural address, Meredith decided to exercise his constitutional rights and apply to the University of Mississippi. His goal was to put pressure on the Kennedy administration to enforce civil rights for African Americans. The admission of Meredith ignited the Ole Miss riot of 1962 where Meredith's life was threatened and 31,000 American servicemen were required to quell the violence – the largest ever invocation of the Insurrection Act of 1807.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/James_Meredith",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/James_Meredith_in_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/James_Meredith_in_2010_%28cropped%29.jpg/330px-James_Meredith_in_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "james_meredith_in_2010_(cropped).jpg",
+          "width": 964,
+          "height": 1295,
+          "title": "James Meredith",
+          "description": "American civil rights activist (born 1933)",
+          "extract": "James Howard Meredith is an American civil rights activist, writer, political adviser, and United States Air Force veteran who became, in 1962, the first African-American student admitted to the racially segregated University of Mississippi after the intervention of the federal government. Inspired by President John F. Kennedy's inaugural address, Meredith decided to exercise his constitutional rights and apply to the University of Mississippi. His goal was to put pressure on the Kennedy administration to enforce civil rights for African Americans. The admission of Meredith ignited the Ole Miss riot of 1962 where Meredith's life was threatened and 31,000 American servicemen were required to quell the violence – the largest ever invocation of the Insurrection Act of 1807.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/James_Meredith",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/James_Meredith.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/James_Meredith.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+          "canonicalKey": "james_meredith.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Meredith in 1962",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/James_Meredith",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "James Meredith",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/James_Meredith",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "09-13-1942-2ae406f0",
+      "year": 1942,
+      "text": "World War II: Second day of the Battle of Edson's Ridge in the Guadalcanal Campaign. U.S. Marines successfully defeat attacks by the Japanese with heavy losses for the Japanese forces.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 160,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+        "width": 798,
+        "height": 544,
+        "title": "World War II",
+        "description": "Global conflict from 1939 to 1945",
+        "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "bundesarchiv_bild_101i-646-5188-17,_flugzeuge_junkers_ju_87.jpg",
+          "width": 798,
+          "height": 544,
+          "title": "World War II",
+          "description": "Global conflict from 1939 to 1945",
+          "extract": "World War II, or the Second World War, was a global conflict between two coalitions: the Allies and the Axis powers. Nearly all of the world's countries participated, with many engaging in total war on an unprecedented scale. World War II was the deadliest conflict in history, causing the deaths of 60 to 75 million people, a majority of whom were civilians. Millions died as a result of massacres, starvation, disease, and genocides including the Holocaust. After the Allied victory, Germany, Austria, Japan, and Korea were occupied, and German and Japanese leaders were tried for war crimes.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/EdsonsRidge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/EdsonsRidge.jpg/330px-EdsonsRidge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "edsonsridge.jpg",
+          "width": 1072,
+          "height": 836,
+          "title": "Battle of Edson's Ridge",
+          "description": "WW2 battle in the Solomon Islands",
+          "extract": "The Battle of Edson's Ridge, also known as the Battle of the Bloody Ridge, Battle of Raiders Ridge, and Battle of the Ridge, was a land battle of the Pacific campaign of World War II between the Imperial Japanese Army and Allied ground forces. It took place from 12 to 14 September 1942, on Guadalcanal in the Solomon Islands, and was the second of three separate major Japanese ground offensives during the Guadalcanal campaign.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Edson's_Ridge",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg/1280px-Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk%2C_Libya%2C_18_November_1941._E6600.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "matilda_tanks_on_the_move_outside_the_perimeter_of_tobruk,_libya,_18_november_1941._e6600.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Matilda_tanks_on_the_move_outside_the_perimeter_of_Tobruk,_Libya,_18_November_1941._E6600",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/World_War_II",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "World War II",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/World_War_II",
+      "relatedPagesCount": 2
     },
     {
       "id": "09-13-2005-648a695a",
@@ -83,10 +207,10 @@
       "hasImage": true,
       "imagesCount": 2,
       "imageScore": 10,
-      "marketingScore": 130,
+      "marketingScore": 150,
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/WoW_Corrupted_Blood_Plague.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/WoW_Corrupted_Blood_Plague.jpg/330px-WoW_Corrupted_Blood_Plague.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/fe/WoW_Corrupted_Blood_Plague.jpg/330px-WoW_Corrupted_Blood_Plague.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "canonicalKey": "wow_corrupted_blood_plague.jpg",
         "width": 353,
         "height": 282,
@@ -99,7 +223,7 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/en/f/fe/WoW_Corrupted_Blood_Plague.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/WoW_Corrupted_Blood_Plague.jpg/330px-WoW_Corrupted_Blood_Plague.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/fe/WoW_Corrupted_Blood_Plague.jpg/330px-WoW_Corrupted_Blood_Plague.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "wow_corrupted_blood_plague.jpg",
           "width": 353,
           "height": 282,
@@ -123,9 +247,9 @@
         }
       ],
       "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
       "mainPageTitle": "Corrupted Blood incident",
       "mainPageUrl": "https://en.wikipedia.org/wiki/Corrupted_Blood_incident",
@@ -139,10 +263,10 @@
       "hasImage": true,
       "imagesCount": 2,
       "imageScore": 10,
-      "marketingScore": 130,
+      "marketingScore": 150,
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nirvana_around_1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nirvana_around_1992.jpg/330px-Nirvana_around_1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Nirvana_around_1992.jpg/330px-Nirvana_around_1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "canonicalKey": "nirvana_around_1992.jpg",
         "width": 367,
         "height": 346,
@@ -155,7 +279,7 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Nirvana_around_1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Nirvana_around_1992.jpg/330px-Nirvana_around_1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Nirvana_around_1992.jpg/330px-Nirvana_around_1992.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "nirvana_around_1992.jpg",
           "width": 367,
           "height": 346,
@@ -179,9 +303,9 @@
         }
       ],
       "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
       "mainPageTitle": "Nirvana (band)",
       "mainPageUrl": "https://en.wikipedia.org/wiki/Nirvana_(band)",
@@ -195,7 +319,7 @@
       "hasImage": true,
       "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 130,
+      "marketingScore": 150,
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
         "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
@@ -234,8 +358,8 @@
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/NES-Console-Set.png/3840px-NES-Console-Set.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/NES-Console-Set.png/330px-NES-Console-Set.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/NES-Console-Set.png/3840px-NES-Console-Set.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/NES-Console-Set.png/330px-NES-Console-Set.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "nes-console-set.png",
           "width": 5560,
           "height": 3020,
@@ -247,181 +371,13 @@
         }
       ],
       "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
       "mainPageTitle": "Super Mario Bros.",
       "mainPageUrl": "https://en.wikipedia.org/wiki/Super_Mario_Bros.",
       "relatedPagesCount": 3
-    },
-    {
-      "id": "09-13-1964-44005478",
-      "year": 1964,
-      "text": "Martin Luther King Jr. addresses a crowd of 20,000 West Berliners on Sunday, in Waldbühne.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 120,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_Rev._Dr._Martin_Luther_King_Jr._Extracted_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Rev._Dr._Martin_Luther_King_Jr._Extracted_Portrait.jpg/330px-The_Rev._Dr._Martin_Luther_King_Jr._Extracted_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "the_rev._dr._martin_luther_king_jr._extracted_portrait.jpg",
-        "width": 1286,
-        "height": 1716,
-        "title": "Martin Luther King Jr.",
-        "description": "American minister and civil rights activist (1929–1968)",
-        "extract": "Martin Luther King Jr. was an American civil rights activist and Baptist minister who was a prominent leader of the civil rights movement from 1955 until his assassination in 1968. He advanced civil rights for people of color in the United States through the use of nonviolent resistance and civil disobedience against Jim Crow laws and other forms of legalized discrimination, which most commonly affected African Americans.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_Rev._Dr._Martin_Luther_King_Jr._Extracted_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/The_Rev._Dr._Martin_Luther_King_Jr._Extracted_Portrait.jpg/330px-The_Rev._Dr._Martin_Luther_King_Jr._Extracted_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "the_rev._dr._martin_luther_king_jr._extracted_portrait.jpg",
-          "width": 1286,
-          "height": 1716,
-          "title": "Martin Luther King Jr.",
-          "description": "American minister and civil rights activist (1929–1968)",
-          "extract": "Martin Luther King Jr. was an American civil rights activist and Baptist minister who was a prominent leader of the civil rights movement from 1955 until his assassination in 1968. He advanced civil rights for people of color in the United States through the use of nonviolent resistance and civil disobedience against Jim Crow laws and other forms of legalized discrimination, which most commonly affected African Americans.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Berlin_waldbuehne_2019_aerial_view.jpg/3840px-Berlin_waldbuehne_2019_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Berlin_waldbuehne_2019_aerial_view.jpg/330px-Berlin_waldbuehne_2019_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "berlin_waldbuehne_2019_aerial_view.jpg",
-          "width": 5252,
-          "height": 2951,
-          "title": "Waldbühne",
-          "description": "Theatre at Olympiapark Berlin in Berlin, Germany",
-          "extract": "The Waldbühne is an amphitheatre at Olympiapark Berlin in Berlin, Germany. It was designed by German architect Werner March in emulation of a Greek theatre and built between 1934 and 1936 as the Dietrich-Eckart-Freilichtbühne, a Nazi Thingplatz, and opened in association with the 1936 Summer Olympics. Since World War II it has been used for a variety of events, including boxing matches, film showings and classical and rock concerts. It seats more than 22,000 people. The venue is located off Friedrich-Friesen-Allee just northeast of Glockenturmstraße.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Waldb%C3%BChne",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Martin_Luther_King_Jr_NYWTS_%283x4_close_cropped%29.jpg/500px-Martin_Luther_King_Jr_NYWTS_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Martin_Luther_King_Jr_NYWTS_%283x4_close_cropped%29.jpg/500px-Martin_Luther_King_Jr_NYWTS_%283x4_close_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "martin_luther_king_jr_nywts_(3x4_close_cropped).jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Martin_Luther_King_Jr_NYWTS_(3x4_close_cropped)",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "cinema_tv",
-        "name": "Cine y TV",
-        "icon": "🎬"
-      },
-      "mainPageTitle": "Martin Luther King Jr.",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
-      "relatedPagesCount": 2
-    },
-    {
-      "id": "09-13-1982-b1b12950",
-      "year": 1982,
-      "text": "Spantax Flight 995 crashes at Málaga Airport during a rejected takeoff, killing 50 of the 394 people on board.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 110,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Spantax_DC-10-30_Volpati-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Spantax_DC-10-30_Volpati-1.jpg/330px-Spantax_DC-10-30_Volpati-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "spantax_dc-10-30_volpati-1.jpg",
-        "width": 1024,
-        "height": 679,
-        "title": "Spantax Flight 995",
-        "description": "1982 aviation accident in Spain",
-        "extract": "Spantax Flight 995 was an international charter flight from Madrid–Barajas Airport to New York via Málaga Airport. On 13 September 1982, when the DC-10 aircraft was rolling for take-off from Malaga, the pilot felt a strong and worsening vibration and aborted the take-off. The aircraft was unable to stop in the runway available and overran the runway, hitting numerous structures, crossing the nearby highway, collided with several vehicles before bursting into flames. A total of 50 people were killed in the accident.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Spantax_Flight_995",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Spantax_DC-10-30_Volpati-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Spantax_DC-10-30_Volpati-1.jpg/330px-Spantax_DC-10-30_Volpati-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "spantax_dc-10-30_volpati-1.jpg",
-          "width": 1024,
-          "height": 679,
-          "title": "Spantax Flight 995",
-          "description": "1982 aviation accident in Spain",
-          "extract": "Spantax Flight 995 was an international charter flight from Madrid–Barajas Airport to New York via Málaga Airport. On 13 September 1982, when the DC-10 aircraft was rolling for take-off from Malaga, the pilot felt a strong and worsening vibration and aborted the take-off. The aircraft was unable to stop in the runway available and overran the runway, hitting numerous structures, crossing the nearby highway, collided with several vehicles before bursting into flames. A total of 50 people were killed in the accident.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Spantax_Flight_995",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Malaga_%28AGP_-_LEMG%29_AN1863602.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Malaga_%28AGP_-_LEMG%29_AN1863602.jpg/330px-Malaga_%28AGP_-_LEMG%29_AN1863602.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "malaga_(agp_-_lemg)_an1863602.jpg",
-          "width": 1050,
-          "height": 700,
-          "title": "Málaga Airport",
-          "description": "International airport serving Costa del Sol, Málaga, Spain",
-          "extract": "Málaga–Costa del Sol Airport is the fourth busiest airport in Spain after Madrid–Barajas, Barcelona–El Prat and Palma de Mallorca. It is significant for Spanish tourism as the main international airport serving the Costa del Sol. It is 8 km (5.0 mi) southwest of Málaga and 5 km (3.1 mi) north of Torremolinos. The airport has flight connections to over 40 countries worldwide, and over 14.4 million passengers passed through it in 2015. In 2023, 22.4 million passengers passed through Málaga Airport. The airport operates with three terminals and two runways.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/M%C3%A1laga_Airport",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Spantax Flight 995",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Spantax_Flight_995",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "09-13-1906-9c4c1553",
-      "year": 1906,
-      "text": "The Santos-Dumont 14-bis makes a short hop, the first flight of a fixed-wing aircraft in Europe.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 1,
-      "imageScore": 10,
-      "marketingScore": 110,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/14-bis_de_Alberto_Santos_Dumont.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/14-bis_de_Alberto_Santos_Dumont.jpg/330px-14-bis_de_Alberto_Santos_Dumont.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "14-bis_de_alberto_santos_dumont.jpg",
-        "width": 2632,
-        "height": 1814,
-        "title": "Santos-Dumont 14-bis",
-        "description": "Aircraft created by Brazilian aviation pioneer Alberto Santos-Dumont in 1906",
-        "extract": "The 14-bis (French: Quatorze-bis;, also known as Oiseau de proie, was a pioneer era, canard-style biplane designed and built by Brazilian aviation pioneer Alberto Santos-Dumont. In 1906, near Paris, the 14-bis made a manned powered flight that was the first to be publicly witnessed by a crowd and also filmed. It was the first powered flight by a non–Wright Brothers airplane aside from short powered \"hops\" by Clément Ader and Traian Vuia.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Santos-Dumont_14-bis",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/14-bis_de_Alberto_Santos_Dumont.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/14-bis_de_Alberto_Santos_Dumont.jpg/330px-14-bis_de_Alberto_Santos_Dumont.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "14-bis_de_alberto_santos_dumont.jpg",
-          "width": 2632,
-          "height": 1814,
-          "title": "Santos-Dumont 14-bis",
-          "description": "Aircraft created by Brazilian aviation pioneer Alberto Santos-Dumont in 1906",
-          "extract": "The 14-bis (French: Quatorze-bis;, also known as Oiseau de proie, was a pioneer era, canard-style biplane designed and built by Brazilian aviation pioneer Alberto Santos-Dumont. In 1906, near Paris, the 14-bis made a manned powered flight that was the first to be publicly witnessed by a crowd and also filmed. It was the first powered flight by a non–Wright Brothers airplane aside from short powered \"hops\" by Clément Ader and Traian Vuia.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Santos-Dumont_14-bis",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Santos-Dumont 14-bis",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Santos-Dumont_14-bis",
-      "relatedPagesCount": 1
     },
     {
       "id": "09-13-1997-e7ef5943",
@@ -431,10 +387,10 @@
       "hasImage": true,
       "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 85,
+      "marketingScore": 140,
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tupolev_Tu-154M%2C_Iran_Air_Tours_JP6511800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tupolev_Tu-154M%2C_Iran_Air_Tours_JP6511800.jpg/330px-Tupolev_Tu-154M%2C_Iran_Air_Tours_JP6511800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Tupolev_Tu-154M%2C_Iran_Air_Tours_JP6511800.jpg/330px-Tupolev_Tu-154M%2C_Iran_Air_Tours_JP6511800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "canonicalKey": "tupolev_tu-154m,_iran_air_tours_jp6511800.jpg",
         "width": 1024,
         "height": 683,
@@ -447,7 +403,7 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tupolev_Tu-154M%2C_Iran_Air_Tours_JP6511800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Tupolev_Tu-154M%2C_Iran_Air_Tours_JP6511800.jpg/330px-Tupolev_Tu-154M%2C_Iran_Air_Tours_JP6511800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Tupolev_Tu-154M%2C_Iran_Air_Tours_JP6511800.jpg/330px-Tupolev_Tu-154M%2C_Iran_Air_Tours_JP6511800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "tupolev_tu-154m,_iran_air_tours_jp6511800.jpg",
           "width": 1024,
           "height": 683,
@@ -459,7 +415,7 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/C-141_Starlifter_58-4561.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/C-141_Starlifter_58-4561.jpg/330px-C-141_Starlifter_58-4561.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/C-141_Starlifter_58-4561.jpg/330px-C-141_Starlifter_58-4561.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "c-141_starlifter_58-4561.jpg",
           "width": 1040,
           "height": 679,
@@ -483,70 +439,194 @@
         }
       ],
       "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
       },
       "mainPageTitle": "German Air Force",
       "mainPageUrl": "https://en.wikipedia.org/wiki/German_Air_Force",
       "relatedPagesCount": 6
     },
     {
-      "id": "09-13-1987-d2fb0224",
-      "year": 1987,
-      "text": "Goiânia accident: A radioactive object is stolen from an abandoned hospital in Goiânia, Brazil, contaminating many people in the following weeks and causing some to die from radiation poisoning.",
-      "isFeatured": false,
+      "id": "09-13-1919-e9be859a",
+      "year": 1919,
+      "text": "The Boston police strike ended after four days of rule by the state militia, the deaths of nine people, and accusations that striking officers were \"agents of Lenin\".",
+      "isFeatured": true,
       "hasImage": true,
       "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 85,
+      "marketingScore": 140,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg/330px-02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "02010019_radioactive_cesium_source_goiânia_accident.jpg",
-        "width": 1403,
-        "height": 1174,
-        "title": "Goiânia accident",
-        "description": "1987 radioactive contamination incident in Brazil",
-        "extract": "The Goiânia accident ), also known locally as the caesium-137 accident/caesium-137 Goiânia, was a radioactive contamination accident that occurred on September 13, 1987, in Goiânia, Goiás, Brazil, after an unsecured radiotherapy source, inside a lead-and-steel medical device, was found by scavenger thieves at an abandoned hospital site in the city. The thieves, and then workers at the scrapyard owned by Devair Ferreira, who bought the device from the thieves, used tools to open the device and expose the caesium-137 crystals. Ferreira brought the exposed caesium-137 crystals to his home, sharing them with his family and neighbours; the caesium-137 crystals were subsequently handled by many people, resulting in four deaths – two of Ferreira's family members and two of his scrapyard employees. About 112,000 people were examined for radioactive contamination and 249 of them were found to have been contaminated.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Goi%C3%A2nia_accident",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Coolidge_inspects_militia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Coolidge_inspects_militia.jpg/330px-Coolidge_inspects_militia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "coolidge_inspects_militia.jpg",
+        "width": 1340,
+        "height": 1984,
+        "title": "Boston police strike",
+        "description": "1919 labor unrest in Massachusetts, US",
+        "extract": "The Boston police strike occurred on September 9, 1919, when Boston police officers went on strike seeking recognition for their trade union and improvements in wages and working conditions. Police Commissioner Edwin Upton Curtis denied that police officers had any right to form a union, much less one affiliated with a larger organization like the American Federation of Labor (AFL), which some attribute to concerns that unionized police would not protect the interest of city officials and business leaders. Attempts at reconciliation between the Commissioner and the police officers, particularly on the part of Boston's mayor, Andrew James Peters, failed.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boston_police_strike",
         "score": 10
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg/330px-02010019_radioactive_cesium_source_Goi%C3%A2nia_accident.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "02010019_radioactive_cesium_source_goiânia_accident.jpg",
-          "width": 1403,
-          "height": 1174,
-          "title": "Goiânia accident",
-          "description": "1987 radioactive contamination incident in Brazil",
-          "extract": "The Goiânia accident ), also known locally as the caesium-137 accident/caesium-137 Goiânia, was a radioactive contamination accident that occurred on September 13, 1987, in Goiânia, Goiás, Brazil, after an unsecured radiotherapy source, inside a lead-and-steel medical device, was found by scavenger thieves at an abandoned hospital site in the city. The thieves, and then workers at the scrapyard owned by Devair Ferreira, who bought the device from the thieves, used tools to open the device and expose the caesium-137 crystals. Ferreira brought the exposed caesium-137 crystals to his home, sharing them with his family and neighbours; the caesium-137 crystals were subsequently handled by many people, resulting in four deaths – two of Ferreira's family members and two of his scrapyard employees. About 112,000 people were examined for radioactive contamination and 249 of them were found to have been contaminated.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Goi%C3%A2nia_accident",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Coolidge_inspects_militia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Coolidge_inspects_militia.jpg/330px-Coolidge_inspects_militia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "coolidge_inspects_militia.jpg",
+          "width": 1340,
+          "height": 1984,
+          "title": "Boston police strike",
+          "description": "1919 labor unrest in Massachusetts, US",
+          "extract": "The Boston police strike occurred on September 9, 1919, when Boston police officers went on strike seeking recognition for their trade union and improvements in wages and working conditions. Police Commissioner Edwin Upton Curtis denied that police officers had any right to form a union, much less one affiliated with a larger organization like the American Federation of Labor (AFL), which some attribute to concerns that unionized police would not protect the interest of city officials and business leaders. Attempts at reconciliation between the Commissioner and the police officers, particularly on the part of Boston's mayor, Andrew James Peters, failed.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Boston_police_strike",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Panomara_Goi%C3%A2nia_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Panomara_Goi%C3%A2nia_2022.jpg/330px-Panomara_Goi%C3%A2nia_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "panomara_goiânia_2022.jpg",
-          "width": 3000,
-          "height": 1108,
-          "title": "Goiânia",
-          "description": "Capital city of Goiás, Brazil",
-          "extract": "Goiânia is the capital and largest city of the Brazilian state of Goiás. With a population of 1,536,097, it is the second-largest city in the Central-West Region and the 10th-largest in the country. Its metropolitan area has a population of 2,890,418, making it the 12th-largest in Brazil. With an area of approximately 739 square kilometres, it has a continuous geography with few hills and lowlands, with flat lands in most of its territory, especially the Meia Ponte River, in addition to Botafogo and Capim Puba streams.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Goi%C3%A2nia",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lenin_in_1920_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lenin_in_1920_%28cropped%29.jpg/330px-Lenin_in_1920_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lenin_in_1920_(cropped).jpg",
+          "width": 1804,
+          "height": 2406,
+          "title": "Vladimir Lenin",
+          "description": "Leader of the Soviet Union from 1922 to 1924",
+          "extract": "Vladimir Ilyich Ulyanov, better known as Vladimir Lenin, was a Russian revolutionary, politician, and political theorist. He served as the first and founding head of government of Soviet Russia from 1917 to 1924 and of the Soviet Union from 1922 to 1924. Ideologically a Marxist, his developments to the ideology are called Leninism.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Autophagosomes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Autophagosomes.jpg/330px-Autophagosomes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "autophagosomes.jpg",
-          "width": 347,
-          "height": 259,
-          "title": "Acute radiation syndrome",
-          "description": "Result of nuclear radiation exposure",
-          "extract": "Acute radiation syndrome (ARS), also known as radiation sickness or radiation poisoning, is a collection of health effects that are caused by being exposed to high amounts of ionizing radiation in a short period of time. Symptoms can start within an hour of exposure, and can last for several months. Early symptoms are usually nausea, vomiting and loss of appetite. In the following hours or weeks, initial symptoms may appear to improve, before the development of additional symptoms, after which either recovery or death follows.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Acute_radiation_syndrome",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Edwin_U._Curtis_5210004_015_031.jpg/1280px-Edwin_U._Curtis_5210004_015_031.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Edwin_U._Curtis_5210004_015_031.jpg/1280px-Edwin_U._Curtis_5210004_015_031.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "edwin_u._curtis_5210004_015_031.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Edwin U. CurtisBoston Police Commissioner",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Boston_police_strike",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Boston police strike",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Boston_police_strike",
+      "relatedPagesCount": 2
+    },
+    {
+      "id": "09-13-2007-1e83a212",
+      "year": 2007,
+      "text": "The McLaren F1 team are found guilty of possessing confidential information from the Ferrari team, fined $100 million, and excluded from the constructors' championship standings.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/0/03/McLarenF1Team.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/McLarenF1Team.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "canonicalKey": "mclarenf1team.png",
+        "width": 316,
+        "height": 316,
+        "title": "McLaren",
+        "description": "British auto racing team",
+        "extract": "McLaren Racing Limited, currently competing in Formula One as McLaren Mastercard F1 Team, is a British motor racing team based at the McLaren Technology Centre in Woking, Surrey, England. The team is a subsidiary of the McLaren Group, wholly owned by Mumtalakat Holding Company.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/McLaren",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/en/0/03/McLarenF1Team.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/McLarenF1Team.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "canonicalKey": "mclarenf1team.png",
+          "width": 316,
+          "height": 316,
+          "title": "McLaren",
+          "description": "British auto racing team",
+          "extract": "McLaren Racing Limited, currently competing in Formula One as McLaren Mastercard F1 Team, is a British motor racing team based at the McLaren Technology Centre in Woking, Surrey, England. The team is a subsidiary of the McLaren Group, wholly owned by Mumtalakat Holding Company.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/McLaren",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/F1_valencia-2010.JPG/3840px-F1_valencia-2010.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/F1_valencia-2010.JPG/330px-F1_valencia-2010.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "f1_valencia-2010.jpg",
+          "width": 4288,
+          "height": 2848,
+          "title": "2007 Formula One espionage controversy",
+          "description": "Scandal among the McLaren, Ferrari, and Renault F1 racing teams",
+          "extract": "The 2007 Formula One espionage controversy, also known as Spygate and Stepneygate, was a set of accusations among Formula One racing teams that confidential technical information had been passed between them. It involved the McLaren, Ferrari and Renault F1 teams.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/2007_Formula_One_espionage_controversy",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/McLarenBruce.jpg/500px-McLarenBruce.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/McLarenBruce.jpg/500px-McLarenBruce.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "mclarenbruce.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "The McLaren Racing team's founder Bruce McLaren",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/McLaren",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "McLaren",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/McLaren",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-13-1982-b1b12950",
+      "year": 1982,
+      "text": "Spantax Flight 995 crashes at Málaga Airport during a rejected takeoff, killing 50 of the 394 people on board.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 130,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Spantax_DC-10-30_Volpati-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Spantax_DC-10-30_Volpati-1.jpg/330px-Spantax_DC-10-30_Volpati-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "spantax_dc-10-30_volpati-1.jpg",
+        "width": 1024,
+        "height": 679,
+        "title": "Spantax Flight 995",
+        "description": "1982 aviation accident in Spain",
+        "extract": "Spantax Flight 995 was an international charter flight from Madrid–Barajas Airport to New York via Málaga Airport. On 13 September 1982, when the DC-10 aircraft was rolling for take-off from Malaga, the pilot felt a strong and worsening vibration and aborted the take-off. The aircraft was unable to stop in the runway available and overran the runway, hitting numerous structures, crossing the nearby highway, collided with several vehicles before bursting into flames. A total of 50 people were killed in the accident.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Spantax_Flight_995",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Spantax_DC-10-30_Volpati-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Spantax_DC-10-30_Volpati-1.jpg/330px-Spantax_DC-10-30_Volpati-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "spantax_dc-10-30_volpati-1.jpg",
+          "width": 1024,
+          "height": 679,
+          "title": "Spantax Flight 995",
+          "description": "1982 aviation accident in Spain",
+          "extract": "Spantax Flight 995 was an international charter flight from Madrid–Barajas Airport to New York via Málaga Airport. On 13 September 1982, when the DC-10 aircraft was rolling for take-off from Malaga, the pilot felt a strong and worsening vibration and aborted the take-off. The aircraft was unable to stop in the runway available and overran the runway, hitting numerous structures, crossing the nearby highway, collided with several vehicles before bursting into flames. A total of 50 people were killed in the accident.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Spantax_Flight_995",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Malaga_%28AGP_-_LEMG%29_AN1863602.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Malaga_%28AGP_-_LEMG%29_AN1863602.jpg/330px-Malaga_%28AGP_-_LEMG%29_AN1863602.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "malaga_(agp_-_lemg)_an1863602.jpg",
+          "width": 1050,
+          "height": 700,
+          "title": "Málaga Airport",
+          "description": "International airport serving Costa del Sol, Málaga, Spain",
+          "extract": "Málaga–Costa del Sol Airport is the fourth busiest airport in Spain after Madrid–Barajas, Barcelona–El Prat and Palma de Mallorca. It is significant for Spanish tourism as the main international airport serving the Costa del Sol. It is 8 km (5.0 mi) southwest of Málaga and 5 km (3.1 mi) north of Torremolinos. The airport has flight connections to over 40 countries worldwide, and over 14.4 million passengers passed through it in 2015. In 2023, 22.4 million passengers passed through Málaga Airport. The airport operates with three terminals and two runways.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/M%C3%A1laga_Airport",
           "score": 10
         }
       ],
@@ -555,77 +635,9 @@
         "name": "Ciencia y Tecnología",
         "icon": "🚀"
       },
-      "mainPageTitle": "Goiânia accident",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Goi%C3%A2nia_accident",
-      "relatedPagesCount": 4
-    },
-    {
-      "id": "09-13-1788-2414a70a",
-      "year": 1788,
-      "text": "The Congress of the Confederation sets the date for the first presidential election in the United States, and New York City becomes the country's temporary capital.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 85,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "view_of_empire_state_building_from_rockefeller_center_new_york_city_dllu_(cropped).jpg",
-        "width": 8207,
-        "height": 4616,
-        "title": "New York City",
-        "description": "Most populous city in the United States",
-        "extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance and commerce, culture, entertainment and media, academics and scientific output, the arts and fashion—and as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/New_York_City",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/3840px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/330px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "view_of_empire_state_building_from_rockefeller_center_new_york_city_dllu_(cropped).jpg",
-          "width": 8207,
-          "height": 4616,
-          "title": "New York City",
-          "description": "Most populous city in the United States",
-          "extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance and commerce, culture, entertainment and media, academics and scientific output, the arts and fashion—and as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/New_York_City",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Independence_Hall.jpg/1280px-Independence_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Independence_Hall.jpg/1280px-Independence_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "independence_hall.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Independence_Hall",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Congress_of_the_Confederation",
-          "score": 8
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/General_George_Washington_Resigning_his_Commission.jpg/1280px-General_George_Washington_Resigning_his_Commission.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/General_George_Washington_Resigning_his_Commission.jpg/1280px-General_George_Washington_Resigning_his_Commission.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "general_george_washington_resigning_his_commission.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "General George Washington Resigning His Commission, an 1824 portrait of George Washington by John Trumbull",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Congress_of_the_Confederation",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
-      },
-      "mainPageTitle": "Congress of the Confederation",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Congress_of_the_Confederation",
-      "relatedPagesCount": 2
+      "mainPageTitle": "Spantax Flight 995",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Spantax_Flight_995",
+      "relatedPagesCount": 3
     }
   ]
 }

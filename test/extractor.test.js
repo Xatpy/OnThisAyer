@@ -91,6 +91,25 @@ describe('Extractor Core Tests', () => {
       assert.ok(score911 >= 140, `Expected score911 >= 140, got ${score911}`);
       assert.ok(score911 > scoreRoutineSpace, `Expected 9/11 (${score911}) to outscore routine space mission (${scoreRoutineSpace})`);
     });
+
+    it('penalizes routine space shuttle and resupply missions as low impact noise', () => {
+      const scoreRoutineShuttle = calculateMarketingScore(
+        'NASA launches Space Shuttle Discovery on STS-51.',
+        [{ title: 'STS-51', description: 'Space Shuttle mission' }],
+        1993,
+        10
+      );
+      const scoreJfkSpeech = calculateMarketingScore(
+        'US President John F. Kennedy delivers his "We choose to go to the Moon" speech at Rice University.',
+        [{ title: 'We choose to go to the Moon', description: 'Address on the space program' }],
+        1962,
+        10,
+        true
+      );
+      assert.ok(scoreRoutineShuttle <= 50, `Expected routine shuttle <= 50, got ${scoreRoutineShuttle}`);
+      assert.ok(scoreJfkSpeech >= 150, `Expected JFK speech >= 150, got ${scoreJfkSpeech}`);
+      assert.ok(scoreJfkSpeech > scoreRoutineShuttle * 2, 'JFK historic speech should overwhelmingly outscore routine shuttle flight');
+    });
   });
 
   describe('Serialized Curation Writes', () => {

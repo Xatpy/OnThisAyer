@@ -8,526 +8,62 @@
   "eventsWithImages": 10,
   "events": [
     {
-      "id": "09-24-2023-baca6c5f",
-      "year": 2023,
-      "text": "NASA's OSIRIS-REx capsule containing samples from the asteroid 101955 Bennu successfully lands back on Earth.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 130,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/OSIRIS-REx_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/OSIRIS-REx_spacecraft_model.png/330px-OSIRIS-REx_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "osiris-rex_spacecraft_model.png",
-        "width": 2068,
-        "height": 2096,
-        "title": "OSIRIS-REx",
-        "description": "NASA asteroid sample return mission (2016-2023)",
-        "extract": "OSIRIS-REx was a NASA asteroid-study and sample-return mission that visited and collected samples from 101955 Bennu, a carbonaceous near-Earth asteroid. The material, returned in September 2023, is expected to enable scientists to learn more about the formation and evolution of the Solar System, its initial stages of planet formation, and the source of organic compounds that led to the formation of life on Earth. Following the completion of the primary OSIRIS-REx mission, the spacecraft, renamed as OSIRIS-APEX, began a follow-up mission to asteroid 99942 Apophis.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/OSIRIS-REx",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/OSIRIS-REx_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/OSIRIS-REx_spacecraft_model.png/330px-OSIRIS-REx_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "osiris-rex_spacecraft_model.png",
-          "width": 2068,
-          "height": 2096,
-          "title": "OSIRIS-REx",
-          "description": "NASA asteroid sample return mission (2016-2023)",
-          "extract": "OSIRIS-REx was a NASA asteroid-study and sample-return mission that visited and collected samples from 101955 Bennu, a carbonaceous near-Earth asteroid. The material, returned in September 2023, is expected to enable scientists to learn more about the formation and evolution of the Solar System, its initial stages of planet formation, and the source of organic compounds that led to the formation of life on Earth. Following the completion of the primary OSIRIS-REx mission, the spacecraft, renamed as OSIRIS-APEX, began a follow-up mission to asteroid 99942 Apophis.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/OSIRIS-REx",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Bennu_mosaic_OSIRIS-REx_%28square%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bennu_mosaic_OSIRIS-REx_%28square%29.png/330px-Bennu_mosaic_OSIRIS-REx_%28square%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "bennu_mosaic_osiris-rex_(square).png",
-          "width": 2500,
-          "height": 2500,
-          "title": "101955 Bennu",
-          "description": "Carbonaceous Apollo asteroid",
-          "extract": "101955 Bennu (provisional designation 1999 RQ36) is a carbonaceous asteroid in the Apollo group, discovered by the LINEAR Project on 11 September 1999. It is a potentially hazardous object that is listed on the Sentry Risk Table and has the second highest cumulative rating on the Palermo scale. It has a cumulative chance of around 1 in 1,750 of impacting Earth between 2178 and 2290 with the greatest risk being on 24 September 2182. It is named after Bennu, the ancient Egyptian mythological bird associated with the Sun, creation, and rebirth.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/101955_Bennu",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NASA_HQ_Building.jpg/1280px-NASA_HQ_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "nasa_hq_building.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "NASA_HQ_Building",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/NASA",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "NASA",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/NASA",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "09-24-2014-2c42e4ca",
-      "year": 2014,
-      "text": "The Mars Orbiter Mission makes India the first Asian nation to reach Mars orbit, and the first nation in the world to do so in its first attempt.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 2,
-      "imageScore": 10,
-      "marketingScore": 130,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg/330px-Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "mars_orbiter_mission_over_mars_(15237158879).jpg",
-        "width": 3651,
-        "height": 3453,
-        "title": "Mars Orbiter Mission",
-        "description": "Indian orbiter mission to Mars (2013–2022)",
-        "extract": "Mars Orbiter Mission (MOM), unofficially known as Mangalyaan, is a space probe orbiting Mars since 24 September 2014. It was launched on 5 November 2013 by the Indian Space Research Organisation (ISRO). It was India's first interplanetary mission and it made ISRO the fourth space agency to achieve Mars orbit, after Soviet space program, NASA, and the European Space Agency. It made India the first Asian nation to reach Martian orbit. It also made ISRO the first national space agency in the world to do so with an indigenously developed propulsion system and the second national space agency to succeed on its maiden attempt, after the European Space Agency accomplished this in 2003 using a Roscosmos Soyuz/Fregat rocket.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Orbiter_Mission",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg/330px-Mars_Orbiter_Mission_Over_Mars_%2815237158879%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "mars_orbiter_mission_over_mars_(15237158879).jpg",
-          "width": 3651,
-          "height": 3453,
-          "title": "Mars Orbiter Mission",
-          "description": "Indian orbiter mission to Mars (2013–2022)",
-          "extract": "Mars Orbiter Mission (MOM), unofficially known as Mangalyaan, is a space probe orbiting Mars since 24 September 2014. It was launched on 5 November 2013 by the Indian Space Research Organisation (ISRO). It was India's first interplanetary mission and it made ISRO the fourth space agency to achieve Mars orbit, after Soviet space program, NASA, and the European Space Agency. It made India the first Asian nation to reach Martian orbit. It also made ISRO the first national space agency in the world to do so with an indigenously developed propulsion system and the second national space agency to succeed on its maiden attempt, after the European Space Agency accomplished this in 2003 using a Roscosmos Soyuz/Fregat rocket.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Orbiter_Mission",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mars_Orbiter_Mission_Mission_Insignia.png/500px-Mars_Orbiter_Mission_Mission_Insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mars_Orbiter_Mission_Mission_Insignia.png/500px-Mars_Orbiter_Mission_Mission_Insignia.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "mars_orbiter_mission_mission_insignia.png",
-          "width": 800,
-          "height": 600,
-          "title": "Mars_Orbiter_Mission_Mission_Insignia",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Mars_Orbiter_Mission",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Mars Orbiter Mission",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Mars_Orbiter_Mission",
-      "relatedPagesCount": 1
-    },
-    {
-      "id": "09-24-2019-3797bf98",
-      "year": 2019,
-      "text": "The Supreme Court of the United Kingdom unanimously ruled that advice given by Prime Minister Boris Johnson to Queen Elizabeth II that Parliament should be prorogued was unlawful.",
+      "id": "09-24-1964-63975d18",
+      "year": 1964,
+      "text": "The Warren Commission released its report to the U.S. president, concluding that Lee Harvey Oswald acted alone in the assassination of John F. Kennedy. The report was made public three days later.",
       "isFeatured": true,
       "hasImage": true,
       "imagesCount": 3,
       "imageScore": 10,
-      "marketingScore": 90,
+      "marketingScore": 180,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/330px-Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "boris_johnson_official_portrait_(cropped).jpg",
-        "width": 1122,
-        "height": 1578,
-        "title": "Boris Johnson",
-        "description": "Prime Minister of the United Kingdom from 2019 to 2022",
-        "extract": "Alexander Boris de Pfeffel Johnson is a British politician and writer who was Prime Minister of the United Kingdom and Leader of the Conservative Party from 2019 to 2022. He was previously Foreign Secretary from 2016 to 2018 and Mayor of London from 2008 to 2016. He was Member of Parliament (MP) for Henley from 2001 to 2008 and for Uxbridge and South Ruislip from 2015 to 2023.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Boris_Johnson",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Warren_commission_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Warren_commission_cover.jpg/330px-Warren_commission_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "warren_commission_cover.jpg",
+        "width": 586,
+        "height": 753,
+        "title": "Warren Commission",
+        "description": "Investigation of President Kennedy's assassination",
+        "extract": "The President's Commission on the Assassination of President Kennedy, known unofficially as the Warren Commission, was established by President Lyndon B. Johnson through Executive Order 11130 on November 29, 1963, to investigate the assassination of United States president John F. Kennedy that had taken place on November 22, 1963.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Warren_Commission",
         "score": 10
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/330px-Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "boris_johnson_official_portrait_(cropped).jpg",
-          "width": 1122,
-          "height": 1578,
-          "title": "Boris Johnson",
-          "description": "Prime Minister of the United Kingdom from 2019 to 2022",
-          "extract": "Alexander Boris de Pfeffel Johnson is a British politician and writer who was Prime Minister of the United Kingdom and Leader of the Conservative Party from 2019 to 2022. He was previously Foreign Secretary from 2016 to 2018 and Mayor of London from 2008 to 2016. He was Member of Parliament (MP) for Henley from 2001 to 2008 and for Uxbridge and South Ruislip from 2015 to 2023.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Boris_Johnson",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Warren_commission_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Warren_commission_cover.jpg/330px-Warren_commission_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "warren_commission_cover.jpg",
+          "width": 586,
+          "height": 753,
+          "title": "Warren Commission",
+          "description": "Investigation of President Kennedy's assassination",
+          "extract": "The President's Commission on the Assassination of President Kennedy, known unofficially as the Warren Commission, was established by President Lyndon B. Johnson through Executive Order 11130 on November 29, 1963, to investigate the assassination of United States president John F. Kennedy that had taken place on November 22, 1963.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Warren_Commission",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "queen_elizabeth_ii_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
-          "width": 739,
-          "height": 985,
-          "title": "Elizabeth II",
-          "description": "Queen of the United Kingdom from 1952 to 2022",
-          "extract": "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lee_Harvey_Oswald_colour_mug_shot_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Lee_Harvey_Oswald_colour_mug_shot_%284x5_cropped%29.jpg/330px-Lee_Harvey_Oswald_colour_mug_shot_%284x5_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lee_harvey_oswald_colour_mug_shot_(4x5_cropped).jpg",
+          "width": 881,
+          "height": 1087,
+          "title": "Lee Harvey Oswald",
+          "description": "Assassin of John F. Kennedy (1939–1963)",
+          "extract": "Lee Harvey Oswald was a U.S. Marine veteran, who assassinated John F. Kennedy, the 35th president of the United States, on November 22, 1963.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Lee_Harvey_Oswald",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Middlesex_Guildhall_by_Kelsey_Farish_%282%29.jpg/500px-Middlesex_Guildhall_by_Kelsey_Farish_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Middlesex_Guildhall_by_Kelsey_Farish_%282%29.jpg/500px-Middlesex_Guildhall_by_Kelsey_Farish_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "middlesex_guildhall_by_kelsey_farish_(2).jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Middlesex_Guildhall_by_Kelsey_Farish_(2)",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_Kingdom",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "music_art",
-        "name": "Música y Arte",
-        "icon": "🎵"
-      },
-      "mainPageTitle": "Supreme Court of the United Kingdom",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_Kingdom",
-      "relatedPagesCount": 5
-    },
-    {
-      "id": "09-24-1929-10fb6fc6",
-      "year": 1929,
-      "text": "Jimmy Doolittle performs the first flight without a window, proving that full instrument flying from take off to landing is possible.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 90,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lt._General_James_Doolittle%2C_head_and_shoulders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lt._General_James_Doolittle%2C_head_and_shoulders.jpg/330px-Lt._General_James_Doolittle%2C_head_and_shoulders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "lt._general_james_doolittle,_head_and_shoulders.jpg",
-        "width": 2490,
-        "height": 3254,
-        "title": "Jimmy Doolittle",
-        "description": "American general and aviator (1896–1993)",
-        "extract": "James Harold \"Jimmy\" Doolittle was an American military general and aviation pioneer who received the Medal of Honor for his raid on Japan during World War II, known as the Doolittle Raid in his honor. He made early coast-to-coast flights and record-breaking speed flights, won many flying races, and helped develop and flight-test instrument flying. According to the FAA, he was the first pilot ever to perform a successful instrument flight.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Jimmy_Doolittle",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lt._General_James_Doolittle%2C_head_and_shoulders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Lt._General_James_Doolittle%2C_head_and_shoulders.jpg/330px-Lt._General_James_Doolittle%2C_head_and_shoulders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "lt._general_james_doolittle,_head_and_shoulders.jpg",
-          "width": 2490,
-          "height": 3254,
-          "title": "Jimmy Doolittle",
-          "description": "American general and aviator (1896–1993)",
-          "extract": "James Harold \"Jimmy\" Doolittle was an American military general and aviation pioneer who received the Medal of Honor for his raid on Japan during World War II, known as the Doolittle Raid in his honor. He made early coast-to-coast flights and record-breaking speed flights, won many flying races, and helped develop and flight-test instrument flying. According to the FAA, he was the first pilot ever to perform a successful instrument flight.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jimmy_Doolittle",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/JFK_Motorcade_GettyImages-517330536.jpg/3840px-JFK_Motorcade_GettyImages-517330536.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/JFK_Motorcade_GettyImages-517330536.jpg/330px-JFK_Motorcade_GettyImages-517330536.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jfk_motorcade_gettyimages-517330536.jpg",
+          "width": 5224,
+          "height": 4066,
+          "title": "Assassination of John F. Kennedy",
+          "description": "1963 assassination in Dallas, Texas",
+          "extract": "On Friday, November 22, 1963, John F. Kennedy, the 35th president of the United States, was assassinated while riding in a presidential motorcade through Dealey Plaza in Dallas, Texas. Kennedy was in the vehicle with First Lady Jacqueline Kennedy, Texas governor John Connally, and Connally's wife Nellie, when he was fatally shot from the nearby Texas School Book Depository by Lee Harvey Oswald, a former U.S. Marine. The motorcade rushed to Parkland Memorial Hospital, where Kennedy was pronounced dead about 30 minutes after the shooting; Connally was also wounded in the attack but recovered. Vice President Lyndon B. Johnson was hastily sworn in as president two hours and eight minutes later aboard Air Force One at Dallas Love Field.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy",
           "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Curtiss_Racer_NASA_GPN-2000-001310.jpg/1280px-Curtiss_Racer_NASA_GPN-2000-001310.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Curtiss_Racer_NASA_GPN-2000-001310.jpg/1280px-Curtiss_Racer_NASA_GPN-2000-001310.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "curtiss_racer_nasa_gpn-2000-001310.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Doolittle on his Curtiss R3C-2 Racer, the plane in which he won the Schneider Trophy in 1925",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jimmy_Doolittle",
-          "score": 8
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/JimmyDoolittle.jpeg/1280px-JimmyDoolittle.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/JimmyDoolittle.jpeg/1280px-JimmyDoolittle.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "jimmydoolittle.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": "Doolittle in a pre–World War II photo",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jimmy_Doolittle",
-          "score": 8
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "Jimmy Doolittle",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Jimmy_Doolittle",
-      "relatedPagesCount": 1
-    },
-    {
-      "id": "09-24-2009-8cda6adc",
-      "year": 2009,
-      "text": "South African Airlink Flight 8911 crashes near Durban International Airport in Durban, South Africa, killing the captain and injuring the rest of the crew.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 85,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Airlink_-_British_Aerospace_Jetstream_41_-_ZS-NRM_-_Johannesburg_International.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Airlink_-_British_Aerospace_Jetstream_41_-_ZS-NRM_-_Johannesburg_International.jpg/330px-Airlink_-_British_Aerospace_Jetstream_41_-_ZS-NRM_-_Johannesburg_International.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "airlink_-_british_aerospace_jetstream_41_-_zs-nrm_-_johannesburg_international.jpg",
-        "width": 1600,
-        "height": 1067,
-        "title": "South African Airlink Flight 8911",
-        "description": "2009 aviation accident",
-        "extract": "South African Airlink Flight 8911 was a positioning flight from Durban International Airport to Pietermaritzburg Airport, South Africa, operated by a British Aerospace Jetstream 41, crashed into the grounds of Merebank Secondary School, Durban shortly after take-off on 24 September 2009, injuring the three occupants of the aircraft and one on the ground. The captain of the flight subsequently died of his injuries on 7 October 2009.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/South_African_Airlink_Flight_8911",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Airlink_-_British_Aerospace_Jetstream_41_-_ZS-NRM_-_Johannesburg_International.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Airlink_-_British_Aerospace_Jetstream_41_-_ZS-NRM_-_Johannesburg_International.jpg/330px-Airlink_-_British_Aerospace_Jetstream_41_-_ZS-NRM_-_Johannesburg_International.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "airlink_-_british_aerospace_jetstream_41_-_zs-nrm_-_johannesburg_international.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": "South African Airlink Flight 8911",
-          "description": "2009 aviation accident",
-          "extract": "South African Airlink Flight 8911 was a positioning flight from Durban International Airport to Pietermaritzburg Airport, South Africa, operated by a British Aerospace Jetstream 41, crashed into the grounds of Merebank Secondary School, Durban shortly after take-off on 24 September 2009, injuring the three occupants of the aircraft and one on the ground. The captain of the flight subsequently died of his injuries on 7 October 2009.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/South_African_Airlink_Flight_8911",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Durban_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Durban_Airport.jpg/330px-Durban_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "durban_airport.jpg",
-          "width": 370,
-          "height": 278,
-          "title": "Durban International Airport",
-          "description": "Former commercial airport of Durban, South Africa (1951–2010)",
-          "extract": "Durban International Airport was the international airport of Durban from 1951 until 2010, when it was replaced by King Shaka International Airport, 60 kilometres (37 mi) to the north. The airport is co-located with AFB Durban.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Durban_International_Airport",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg/3840px-Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg/330px-Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "durban_from_the_balcony_(dennis_sylvester_hurd)_1.jpg",
-          "width": 4032,
-          "height": 2268,
-          "title": "Durban",
-          "description": "City in South Africa",
-          "extract": "Durban is the third-most populous city in South Africa, after Johannesburg and Cape Town, and the largest city in the province of KwaZulu-Natal. Situated on the east coast of South Africa, on the Natal Bay of the Indian Ocean, Durban is the busiest port city in sub-Saharan Africa and was formerly named Port Natal. North of the harbour and city centre lies the mouth of the Umgeni River; the flat city centre rises to the hills of the Berea on the west; and to the south, running along the coast, is the Bluff.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Durban",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "science_tech",
-        "name": "Ciencia y Tecnología",
-        "icon": "🚀"
-      },
-      "mainPageTitle": "South African Airlink Flight 8911",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/South_African_Airlink_Flight_8911",
-      "relatedPagesCount": 3
-    },
-    {
-      "id": "09-24-1975-e99c5ce0",
-      "year": 1975,
-      "text": "Dougal Haston and Doug Scott of the Southwest Face expedition became the first people to reach the summit of Mount Everest by ascending one of its faces.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 85,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dougal_Haston_Profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dougal_Haston_Profile.jpg/330px-Dougal_Haston_Profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "dougal_haston_profile.jpg",
-        "width": 675,
-        "height": 800,
-        "title": "Dougal Haston",
-        "description": "British mountain climber (1940–1977)",
-        "extract": "Duncan \"Dougal\" Curdy MacSporran Haston was a Scottish mountaineer noted for his exploits in the British Isles, Alps, and the Himalayas. From 1967 he was the director of the International School of Mountaineering at Leysin, Switzerland, a role he held until his death in an avalanche while skiing above Leysin.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Dougal_Haston",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dougal_Haston_Profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dougal_Haston_Profile.jpg/330px-Dougal_Haston_Profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "dougal_haston_profile.jpg",
-          "width": 675,
-          "height": 800,
-          "title": "Dougal Haston",
-          "description": "British mountain climber (1940–1977)",
-          "extract": "Duncan \"Dougal\" Curdy MacSporran Haston was a Scottish mountaineer noted for his exploits in the British Isles, Alps, and the Himalayas. From 1967 he was the director of the International School of Mountaineering at Leysin, Switzerland, a role he held until his death in an avalanche while skiing above Leysin.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Dougal_Haston",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Doug_Scott_in_2015_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Doug_Scott_in_2015_%28cropped%29.jpg/330px-Doug_Scott_in_2015_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "doug_scott_in_2015_(cropped).jpg",
-          "width": 1065,
-          "height": 1275,
-          "title": "Doug Scott",
-          "description": "English mountaineer and author (1941–2020)",
-          "extract": "Douglas Keith Scott was an English mountaineer and climbing author, noted for being on the team that made the first ascent of the south-west face of Mount Everest on 24 September 1975. In receiving one of mountaineering's highest honours, the Piolet d'Or Lifetime Achievement Award, his personal style and his climbs were described as \"visionary\".",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Doug_Scott",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mount_Everest_Southwest_Face%2C_November_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mount_Everest_Southwest_Face%2C_November_2012.jpg/330px-Mount_Everest_Southwest_Face%2C_November_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "mount_everest_southwest_face,_november_2012.jpg",
-          "width": 1232,
-          "height": 1723,
-          "title": "1975 British Mount Everest Southwest Face expedition",
-          "description": "Himalayan ascent requiring rock climbing techniques",
-          "extract": "The 1975 British Mount Everest Southwest Face expedition was the first to successfully climb Mount Everest by ascending one of its faces rather than along its ridges. In the post-monsoon season Chris Bonington led the expedition that used rock climbing techniques to put fixed ropes up the face from the Western Cwm to just below the South Summit. A key aspect of the success of the climb was the scaling of the cliffs of the Rock Band at about 8,200 metres (27,000 ft) by Nick Estcourt and Tut Braithwaite.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/1975_British_Mount_Everest_Southwest_Face_expedition",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "cinema_tv",
-        "name": "Cine y TV",
-        "icon": "🎬"
-      },
-      "mainPageTitle": "Dougal Haston",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Dougal_Haston",
-      "relatedPagesCount": 5
-    },
-    {
-      "id": "09-24-1869-b074e0a8",
-      "year": 1869,
-      "text": "Jay Gould, James Fisk, and other speculators plotted but failed to control the United States gold market, causing prices to plummet.",
-      "isFeatured": true,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 85,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jay_Gould_-_Bain_News_Service_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jay_Gould_-_Bain_News_Service_%28cropped%29.jpg/330px-Jay_Gould_-_Bain_News_Service_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "jay_gould_-_bain_news_service_(cropped).jpg",
-        "width": 2144,
-        "height": 2820,
-        "title": "Jay Gould",
-        "description": "American railroad magnate (1836–1892)",
-        "extract": "Jay Gould was an American railroad magnate and financial speculator who founded the Gould business dynasty. He is generally identified as one of the robber barons of the Gilded Age. His sharp and often unscrupulous business practices made him one of the wealthiest men of the late 19th century. Gould was an unpopular figure during his life and remains controversial.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Jay_Gould",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jay_Gould_-_Bain_News_Service_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jay_Gould_-_Bain_News_Service_%28cropped%29.jpg/330px-Jay_Gould_-_Bain_News_Service_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "jay_gould_-_bain_news_service_(cropped).jpg",
-          "width": 2144,
-          "height": 2820,
-          "title": "Jay Gould",
-          "description": "American railroad magnate (1836–1892)",
-          "extract": "Jay Gould was an American railroad magnate and financial speculator who founded the Gould business dynasty. He is generally identified as one of the robber barons of the Gilded Age. His sharp and often unscrupulous business practices made him one of the wealthiest men of the late 19th century. Gould was an unpopular figure during his life and remains controversial.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Jay_Gould",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/James_Fisk%2C_portrait%2C_Gilded_age_financier.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/James_Fisk%2C_portrait%2C_Gilded_age_financier.png/330px-James_Fisk%2C_portrait%2C_Gilded_age_financier.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "james_fisk,_portrait,_gilded_age_financier.png",
-          "width": 464,
-          "height": 578,
-          "title": "James Fisk (financier)",
-          "description": "American businessman (1835–1872)",
-          "extract": "James Fisk Jr. was an American stockbroker and corporate executive who was one of the robber barons of the Gilded Age. He achieved much ill-fame for his role in Black Friday in 1869, where he and his partner Jay Gould befriended the unsuspecting President Ulysses S. Grant in an attempt to use the President's good name in a scheme to corner the gold market in New York City. On January 7, 1872, Fisk was assassinated in New York City by his former mistress's new lover, Edward Stiles Stokes, who was attempting to blackmail him.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/James_Fisk_(financier)",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Everybody_works_but_the_vacant_lot_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Everybody_works_but_the_vacant_lot_%28cropped%29.jpg/330px-Everybody_works_but_the_vacant_lot_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "everybody_works_but_the_vacant_lot_(cropped).jpg",
-          "width": 1863,
-          "height": 1268,
-          "title": "Speculation",
-          "description": "Engaging in risky financial transactions",
-          "extract": "In finance, speculation is the purchase of an asset with the hope that that asset will become more valuable in a brief amount of time.\nThe term can also refer to short sales, in which the speculator hopes for a decline in value. Speculation often has a pejorative connotation, as the activity is linked to bubbles, economic downturns, and financial crises.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Speculation",
-          "score": 10
-        }
-      ],
-      "category": {
-        "id": "sports",
-        "name": "Deportes",
-        "icon": "🏆"
-      },
-      "mainPageTitle": "Jay Gould",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Jay_Gould",
-      "relatedPagesCount": 5
-    },
-    {
-      "id": "09-24-2015-8fad8fd5",
-      "year": 2015,
-      "text": "At least 1,100 people are killed and another 934 wounded after a stampede during the Hajj in Saudi Arabia.",
-      "isFeatured": false,
-      "hasImage": true,
-      "imagesCount": 3,
-      "imageScore": 10,
-      "marketingScore": 65,
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_way_to_Jamarat_Bridge_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/The_way_to_Jamarat_Bridge_3.JPG/330px-The_way_to_Jamarat_Bridge_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "the_way_to_jamarat_bridge_3.jpg",
-        "width": 3072,
-        "height": 2304,
-        "title": "2015 Mina crowd crush",
-        "description": "Crowd crush incident in Saudi Arabia",
-        "extract": "On 24 September 2015, a fatal crowd crush resulted in the death of more than 2,000 individuals, many of whom were suffocated or crushed, during the annual Hajj pilgrimage in Mina, Mecca, Saudi Arabia, making it the deadliest Hajj disaster in history. Estimates of the number of dead vary: the Associated Press reported 2,411 dead, while Agence France-Presse reported 2,236 killed. Based on the total of the individual national reports cited in the table below, at least 2,431 people died. The government of Saudi Arabia officially reported two days after the event that there had been 769 deaths and 934 injured. These figures remained official at the time of the next year's Hajj and were never updated. The largest number of victims were from Iran, followed by Mali and Nigeria.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/2015_Mina_crowd_crush",
-        "score": 10
-      },
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_way_to_Jamarat_Bridge_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/The_way_to_Jamarat_Bridge_3.JPG/330px-The_way_to_Jamarat_Bridge_3.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "the_way_to_jamarat_bridge_3.jpg",
-          "width": 3072,
-          "height": 2304,
-          "title": "2015 Mina crowd crush",
-          "description": "Crowd crush incident in Saudi Arabia",
-          "extract": "On 24 September 2015, a fatal crowd crush resulted in the death of more than 2,000 individuals, many of whom were suffocated or crushed, during the annual Hajj pilgrimage in Mina, Mecca, Saudi Arabia, making it the deadliest Hajj disaster in history. Estimates of the number of dead vary: the Associated Press reported 2,411 dead, while Agence France-Presse reported 2,236 killed. Based on the total of the individual national reports cited in the table below, at least 2,431 people died. The government of Saudi Arabia officially reported two days after the event that there had been 769 deaths and 934 injured. These figures remained official at the time of the next year's Hajj and were never updated. The largest number of victims were from Iran, followed by Mali and Nigeria.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/2015_Mina_crowd_crush",
-          "score": 10
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_sprawling_Jamarat_bridge_-_Flickr_-_Al_Jazeera_English.jpg/500px-The_sprawling_Jamarat_bridge_-_Flickr_-_Al_Jazeera_English.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_sprawling_Jamarat_bridge_-_Flickr_-_Al_Jazeera_English.jpg/500px-The_sprawling_Jamarat_bridge_-_Flickr_-_Al_Jazeera_English.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "the_sprawling_jamarat_bridge_-_flickr_-_al_jazeera_english.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "The Jamaraat Bridge complex",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/2015_Mina_crowd_crush",
-          "score": 8
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Some_perspective_on_Mina_-_Flickr_-_Al_Jazeera_English.jpg/500px-Some_perspective_on_Mina_-_Flickr_-_Al_Jazeera_English.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Some_perspective_on_Mina_-_Flickr_-_Al_Jazeera_English.jpg/500px-Some_perspective_on_Mina_-_Flickr_-_Al_Jazeera_English.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "some_perspective_on_mina_-_flickr_-_al_jazeera_english.jpg",
-          "width": 800,
-          "height": 600,
-          "title": "Tent city at Mina in 2009",
-          "description": "",
-          "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/2015_Mina_crowd_crush",
-          "score": 8
         }
       ],
       "category": {
@@ -535,9 +71,9 @@
         "name": "Historia y Mundo",
         "icon": "🏛️"
       },
-      "mainPageTitle": "2015 Mina crowd crush",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/2015_Mina_crowd_crush",
-      "relatedPagesCount": 1
+      "mainPageTitle": "Warren Commission",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Warren_Commission",
+      "relatedPagesCount": 3
     },
     {
       "id": "09-24-2008-e5382ff5",
@@ -547,10 +83,10 @@
       "hasImage": true,
       "imagesCount": 2,
       "imageScore": 10,
-      "marketingScore": 65,
+      "marketingScore": 140,
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Thabo_Mbeki%2C_August_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Thabo_Mbeki%2C_August_2023.jpg/330px-Thabo_Mbeki%2C_August_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Thabo_Mbeki%2C_August_2023.jpg/330px-Thabo_Mbeki%2C_August_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
         "canonicalKey": "thabo_mbeki,_august_2023.jpg",
         "width": 1184,
         "height": 1572,
@@ -563,7 +99,7 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Thabo_Mbeki%2C_August_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Thabo_Mbeki%2C_August_2023.jpg/330px-Thabo_Mbeki%2C_August_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Thabo_Mbeki%2C_August_2023.jpg/330px-Thabo_Mbeki%2C_August_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
           "canonicalKey": "thabo_mbeki,_august_2023.jpg",
           "width": 1184,
           "height": 1572,
@@ -596,50 +132,434 @@
       "relatedPagesCount": 1
     },
     {
-      "id": "09-24-2007-6e9044eb",
-      "year": 2007,
-      "text": "Between 30,000 and 100,000 people take part in anti-government protests in Yangon, Burma, the largest in 20 years.",
+      "id": "09-24-1960-f04c840b",
+      "year": 1960,
+      "text": "USS Enterprise, the world's first nuclear-powered aircraft carrier, is launched.",
       "isFeatured": false,
       "hasImage": true,
       "imagesCount": 2,
       "imageScore": 10,
-      "marketingScore": 65,
+      "marketingScore": 130,
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/2007_Myanmar_protests_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-        "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2007_Myanmar_protests_7.jpg/330px-2007_Myanmar_protests_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-        "canonicalKey": "2007_myanmar_protests_7.jpg",
-        "width": 2816,
-        "height": 2112,
-        "title": "Saffron Revolution",
-        "description": "Series of protests in Myanmar in 2007",
-        "extract": "The Saffron Revolution was a series of economic and political protests and demonstrations that took place during August, September and October 2007 in Myanmar. The protests were triggered by the decision of the national military government to remove subsidies on the sales prices of fuel. The national government is the only supplier of fuels and the removal of the price subsidy immediately caused diesel and petrol prices to increase by 66–100% and the price of compressed natural gas for buses to increase 500% in less than a week.",
-        "wikiUrl": "https://en.wikipedia.org/wiki/Saffron_Revolution",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/USS_Enterprise_%28CVN-65%29_underway_in_the_Atlantic_Ocean_on_14_June_2004_%28040614-N-0119G-020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/USS_Enterprise_%28CVN-65%29_underway_in_the_Atlantic_Ocean_on_14_June_2004_%28040614-N-0119G-020%29.jpg/330px-USS_Enterprise_%28CVN-65%29_underway_in_the_Atlantic_Ocean_on_14_June_2004_%28040614-N-0119G-020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "uss_enterprise_(cvn-65)_underway_in_the_atlantic_ocean_on_14_june_2004_(040614-n-0119g-020).jpg",
+        "width": 2100,
+        "height": 1500,
+        "title": "USS Enterprise (CVN-65)",
+        "description": "Decommissioned United States Navy aircraft carrier",
+        "extract": "USS Enterprise (CVN-65), formerly CVA(N)-65, is a decommissioned United States Navy aircraft carrier. In 1958, she became the first nuclear-powered aircraft carrier in the United States Navy, and the world, as well as the eighth United States naval vessel to bear the name. Like her predecessor of World War II fame, she is nicknamed \"Big E\". At 1,123 feet (342 m), she is the longest naval vessel ever built and the only ship of her class, which was originally planned to have five other ships. Her 93,284-long-ton (94,781 t) displacement ranks her class as the third-largest carrier class, after the Nimitz class and the Gerald R. Ford class. Enterprise had a crew of some 4,600 service members.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/USS_Enterprise_(CVN-65)",
         "score": 10
       },
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/2007_Myanmar_protests_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2007_Myanmar_protests_7.jpg/330px-2007_Myanmar_protests_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-          "canonicalKey": "2007_myanmar_protests_7.jpg",
-          "width": 2816,
-          "height": 2112,
-          "title": "Saffron Revolution",
-          "description": "Series of protests in Myanmar in 2007",
-          "extract": "The Saffron Revolution was a series of economic and political protests and demonstrations that took place during August, September and October 2007 in Myanmar. The protests were triggered by the decision of the national military government to remove subsidies on the sales prices of fuel. The national government is the only supplier of fuels and the removal of the price subsidy immediately caused diesel and petrol prices to increase by 66–100% and the price of compressed natural gas for buses to increase 500% in less than a week.",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Saffron_Revolution",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/USS_Enterprise_%28CVN-65%29_underway_in_the_Atlantic_Ocean_on_14_June_2004_%28040614-N-0119G-020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/USS_Enterprise_%28CVN-65%29_underway_in_the_Atlantic_Ocean_on_14_June_2004_%28040614-N-0119G-020%29.jpg/330px-USS_Enterprise_%28CVN-65%29_underway_in_the_Atlantic_Ocean_on_14_June_2004_%28040614-N-0119G-020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "uss_enterprise_(cvn-65)_underway_in_the_atlantic_ocean_on_14_june_2004_(040614-n-0119g-020).jpg",
+          "width": 2100,
+          "height": 1500,
+          "title": "USS Enterprise (CVN-65)",
+          "description": "Decommissioned United States Navy aircraft carrier",
+          "extract": "USS Enterprise (CVN-65), formerly CVA(N)-65, is a decommissioned United States Navy aircraft carrier. In 1958, she became the first nuclear-powered aircraft carrier in the United States Navy, and the world, as well as the eighth United States naval vessel to bear the name. Like her predecessor of World War II fame, she is nicknamed \"Big E\". At 1,123 feet (342 m), she is the longest naval vessel ever built and the only ship of her class, which was originally planned to have five other ships. Her 93,284-long-ton (94,781 t) displacement ranks her class as the third-largest carrier class, after the Nimitz class and the Gerald R. Ford class. Enterprise had a crew of some 4,600 service members.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/USS_Enterprise_(CVN-65)",
           "score": 10
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2007_Myanmar_protests.jpg/500px-2007_Myanmar_protests.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2007_Myanmar_protests.jpg/500px-2007_Myanmar_protests.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-          "canonicalKey": "2007_myanmar_protests.jpg",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/USS_Enterprise_%28CVN-65%29_underway_in_the_Atlantic_Ocean_on_14_June_2004_%28040614-N-0119G-020%29.jpg/1280px-USS_Enterprise_%28CVN-65%29_underway_in_the_Atlantic_Ocean_on_14_June_2004_%28040614-N-0119G-020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/USS_Enterprise_%28CVN-65%29_underway_in_the_Atlantic_Ocean_on_14_June_2004_%28040614-N-0119G-020%29.jpg/1280px-USS_Enterprise_%28CVN-65%29_underway_in_the_Atlantic_Ocean_on_14_June_2004_%28040614-N-0119G-020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "uss_enterprise_(cvn-65).jpg",
           "width": 800,
           "height": 600,
-          "title": "Protesting monks gathering at the Shwedagon Pagoda in Yangon",
+          "title": "USS_Enterprise_(CVN-65)",
           "description": "",
           "extract": "",
-          "wikiUrl": "https://en.wikipedia.org/wiki/Saffron_Revolution",
+          "wikiUrl": "https://en.wikipedia.org/wiki/USS_Enterprise_(CVN-65)",
           "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "USS Enterprise (CVN-65)",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/USS_Enterprise_(CVN-65)",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "09-24-1932-4e722643",
+      "year": 1932,
+      "text": "Mahatma Gandhi and B. R. Ambedkar agree to the Poona Pact, which reserved seats in the Indian provincial legislatures for the \"Depressed Classes\" (Untouchables).",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/330px-Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "mahatma-gandhi,_studio,_1931.jpg",
+        "width": 2620,
+        "height": 3270,
+        "title": "Mahatma Gandhi",
+        "description": "Indian independence activist (1869–1948)",
+        "extract": "Mohandas Karamchand Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā, first applied to him in 1914 in South Africa, is now used throughout the world.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/330px-Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mahatma-gandhi,_studio,_1931.jpg",
+          "width": 2620,
+          "height": 3270,
+          "title": "Mahatma Gandhi",
+          "description": "Indian independence activist (1869–1948)",
+          "extract": "Mohandas Karamchand Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā, first applied to him in 1914 in South Africa, is now used throughout the world.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Dr._Bhimrao_Ambedkar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Dr._Bhimrao_Ambedkar.jpg/330px-Dr._Bhimrao_Ambedkar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dr._bhimrao_ambedkar.jpg",
+          "width": 1229,
+          "height": 1600,
+          "title": "B. R. Ambedkar",
+          "description": "Indian jurist, economist, politician and social reformer (1891–1956)",
+          "extract": "Bhimrao Ramji Ambedkar was an Indian jurist, economist, social reformer and politician who chaired the committee that drafted the Constitution of India based on the debates of the Constituent Assembly of India and the first draft of Sir Benegal Narsing Rau. Ambedkar served as Law and Justice minister in the first cabinet of Jawaharlal Nehru. He later renounced Hinduism and converted to Buddhism, inspiring the Dalit Buddhist movement.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/B._R._Ambedkar",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Mahatma Gandhi",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+      "relatedPagesCount": 3
+    },
+    {
+      "id": "09-24-1929-10fb6fc6",
+      "year": 1929,
+      "text": "Jimmy Doolittle performs the first flight without a window, proving that full instrument flying from take off to landing is possible.",
+      "isFeatured": false,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 120,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lt._General_James_Doolittle%2C_head_and_shoulders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Lt._General_James_Doolittle%2C_head_and_shoulders.jpg/330px-Lt._General_James_Doolittle%2C_head_and_shoulders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "lt._general_james_doolittle,_head_and_shoulders.jpg",
+        "width": 2490,
+        "height": 3254,
+        "title": "Jimmy Doolittle",
+        "description": "American general and aviator (1896–1993)",
+        "extract": "James Harold \"Jimmy\" Doolittle was an American military general and aviation pioneer who received the Medal of Honor for his raid on Japan during World War II, known as the Doolittle Raid in his honor. He made early coast-to-coast flights and record-breaking speed flights, won many flying races, and helped develop and flight-test instrument flying. According to the FAA, he was the first pilot ever to perform a successful instrument flight.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jimmy_Doolittle",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lt._General_James_Doolittle%2C_head_and_shoulders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Lt._General_James_Doolittle%2C_head_and_shoulders.jpg/330px-Lt._General_James_Doolittle%2C_head_and_shoulders.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "lt._general_james_doolittle,_head_and_shoulders.jpg",
+          "width": 2490,
+          "height": 3254,
+          "title": "Jimmy Doolittle",
+          "description": "American general and aviator (1896–1993)",
+          "extract": "James Harold \"Jimmy\" Doolittle was an American military general and aviation pioneer who received the Medal of Honor for his raid on Japan during World War II, known as the Doolittle Raid in his honor. He made early coast-to-coast flights and record-breaking speed flights, won many flying races, and helped develop and flight-test instrument flying. According to the FAA, he was the first pilot ever to perform a successful instrument flight.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jimmy_Doolittle",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Curtiss_Racer_NASA_GPN-2000-001310.jpg/1280px-Curtiss_Racer_NASA_GPN-2000-001310.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Curtiss_Racer_NASA_GPN-2000-001310.jpg/1280px-Curtiss_Racer_NASA_GPN-2000-001310.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "curtiss_racer_nasa_gpn-2000-001310.jpg",
+          "width": 800,
+          "height": 600,
+          "title": "Doolittle on his Curtiss R3C-2 Racer, the plane in which he won the Schneider Trophy in 1925",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jimmy_Doolittle",
+          "score": 8
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/JimmyDoolittle.jpeg/1280px-JimmyDoolittle.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/JimmyDoolittle.jpeg/1280px-JimmyDoolittle.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "canonicalKey": "jimmydoolittle.jpeg",
+          "width": 800,
+          "height": 600,
+          "title": "Doolittle in a pre–World War II photo",
+          "description": "",
+          "extract": "",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jimmy_Doolittle",
+          "score": 8
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Jimmy Doolittle",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Jimmy_Doolittle",
+      "relatedPagesCount": 1
+    },
+    {
+      "id": "09-24-1877-27ed5a7e",
+      "year": 1877,
+      "text": "At the Battle of Shiroyama (depicted), the final engagement of the Satsuma Rebellion, the Imperial Japanese Army defeated rebel samurai of the Satsuma Domain led by Saigō Takamori.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 115,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/ShiroyamaBattle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/ShiroyamaBattle.jpg/330px-ShiroyamaBattle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "shiroyamabattle.jpg",
+        "width": 1425,
+        "height": 965,
+        "title": "Battle of Shiroyama",
+        "description": "1877 final battle of the Satsuma Rebellion",
+        "extract": "The Battle of Shiroyama  took place on 24 September 1877, in Kagoshima, Japan. It was the final battle of the Satsuma Rebellion, where the heavily outnumbered samurai under Saigō Takamori made their last stand against Imperial Japanese Army troops under the command of General Yamagata Aritomo and Admiral Kawamura Sumiyoshi. The battle culminated in the annihilation of Saigō and his army, marking the end of the Satsuma Rebellion. The Imperial Army's victory consolidated their power, and the Satsuma Rebellion was the last instance of internal mutiny seen in the Empire of Japan.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Shiroyama",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/ShiroyamaBattle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/ShiroyamaBattle.jpg/330px-ShiroyamaBattle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "shiroyamabattle.jpg",
+          "width": 1425,
+          "height": 965,
+          "title": "Battle of Shiroyama",
+          "description": "1877 final battle of the Satsuma Rebellion",
+          "extract": "The Battle of Shiroyama  took place on 24 September 1877, in Kagoshima, Japan. It was the final battle of the Satsuma Rebellion, where the heavily outnumbered samurai under Saigō Takamori made their last stand against Imperial Japanese Army troops under the command of General Yamagata Aritomo and Admiral Kawamura Sumiyoshi. The battle culminated in the annihilation of Saigō and his army, marking the end of the Satsuma Rebellion. The Imperial Army's victory consolidated their power, and the Satsuma Rebellion was the last instance of internal mutiny seen in the Empire of Japan.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Battle_of_Shiroyama",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Samurai_on_horseback0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Samurai_on_horseback0.jpg/330px-Samurai_on_horseback0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "samurai_on_horseback0.jpg",
+          "width": 1688,
+          "height": 2528,
+          "title": "Samurai",
+          "description": "Professional warrior class in Japan",
+          "extract": "The samurai  were members of the professional warrior class in pre-industrial Japan, who served as retainers to the lords. These men came from warrior families and trained from a young age in military arts through private instruction. Swordsmanship, archery, and horsemanship were the primary martial skills; and often in Japanese history, only samurai had the right to even possess these weapons. These weapons required years of training to master, and this commitment made the samurai superior to conscripts and militia, the latter who were typically given only days of training. The samurai also studied literature, calligraphy, and Confucian philosophy, befitting their roles as bureaucrats under the shoguns.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Samurai",
+          "score": 10
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Kagoshimajo.jpg/3840px-Kagoshimajo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Kagoshimajo.jpg/330px-Kagoshimajo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "kagoshimajo.jpg",
+          "width": 3864,
+          "height": 2592,
+          "title": "Satsuma Domain",
+          "description": "Japanese historical feudal estate (1600–1871)",
+          "extract": "The Satsuma Domain , briefly known as the Kagoshima Domain , was a domain (han) of the Tokugawa shogunate of Japan during the Edo period from 1600 to 1871.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Satsuma_Domain",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Battle of Shiroyama",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Battle_of_Shiroyama",
+      "relatedPagesCount": 6
+    },
+    {
+      "id": "09-24-1869-b074e0a8",
+      "year": 1869,
+      "text": "Jay Gould, James Fisk, and other speculators plotted but failed to control the United States gold market, causing prices to plummet.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 115,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jay_Gould_-_Bain_News_Service_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Jay_Gould_-_Bain_News_Service_%28cropped%29.jpg/330px-Jay_Gould_-_Bain_News_Service_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "jay_gould_-_bain_news_service_(cropped).jpg",
+        "width": 2144,
+        "height": 2820,
+        "title": "Jay Gould",
+        "description": "American railroad magnate (1836–1892)",
+        "extract": "Jay Gould was an American railroad magnate and financial speculator who founded the Gould business dynasty. He is generally identified as one of the robber barons of the Gilded Age. His sharp and often unscrupulous business practices made him one of the wealthiest men of the late 19th century. Gould was an unpopular figure during his life and remains controversial.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Jay_Gould",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Jay_Gould_-_Bain_News_Service_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Jay_Gould_-_Bain_News_Service_%28cropped%29.jpg/330px-Jay_Gould_-_Bain_News_Service_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "jay_gould_-_bain_news_service_(cropped).jpg",
+          "width": 2144,
+          "height": 2820,
+          "title": "Jay Gould",
+          "description": "American railroad magnate (1836–1892)",
+          "extract": "Jay Gould was an American railroad magnate and financial speculator who founded the Gould business dynasty. He is generally identified as one of the robber barons of the Gilded Age. His sharp and often unscrupulous business practices made him one of the wealthiest men of the late 19th century. Gould was an unpopular figure during his life and remains controversial.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Jay_Gould",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/James_Fisk%2C_portrait%2C_Gilded_age_financier.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/James_Fisk%2C_portrait%2C_Gilded_age_financier.png/330px-James_Fisk%2C_portrait%2C_Gilded_age_financier.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "james_fisk,_portrait,_gilded_age_financier.png",
+          "width": 464,
+          "height": 578,
+          "title": "James Fisk (financier)",
+          "description": "American businessman (1835–1872)",
+          "extract": "James Fisk Jr. was an American stockbroker and corporate executive who was one of the robber barons of the Gilded Age. He achieved much ill-fame for his role in Black Friday in 1869, where he and his partner Jay Gould befriended the unsuspecting President Ulysses S. Grant in an attempt to use the President's good name in a scheme to corner the gold market in New York City. On January 7, 1872, Fisk was assassinated in New York City by his former mistress's new lover, Edward Stiles Stokes, who was attempting to blackmail him.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/James_Fisk_(financier)",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Everybody_works_but_the_vacant_lot_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Everybody_works_but_the_vacant_lot_%28cropped%29.jpg/330px-Everybody_works_but_the_vacant_lot_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "everybody_works_but_the_vacant_lot_(cropped).jpg",
+          "width": 1863,
+          "height": 1268,
+          "title": "Speculation",
+          "description": "Engaging in risky financial transactions",
+          "extract": "In finance, speculation is the purchase of an asset with the hope that that asset will become more valuable in a brief amount of time.\nThe term can also refer to short sales, in which the speculator hopes for a decline in value. Speculation often has a pejorative connotation, as the activity is linked to bubbles, economic downturns, and financial crises.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Speculation",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Jay Gould",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Jay_Gould",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "09-24-2019-3797bf98",
+      "year": 2019,
+      "text": "The Supreme Court of the United Kingdom unanimously ruled that advice given by Prime Minister Boris Johnson to Queen Elizabeth II that Parliament should be prorogued was unlawful.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 110,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/330px-Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "boris_johnson_official_portrait_(cropped).jpg",
+        "width": 1122,
+        "height": 1578,
+        "title": "Boris Johnson",
+        "description": "Prime Minister of the United Kingdom from 2019 to 2022",
+        "extract": "Alexander Boris de Pfeffel Johnson is a British politician and writer who was Prime Minister of the United Kingdom and Leader of the Conservative Party from 2019 to 2022. He was previously Foreign Secretary from 2016 to 2018 and Mayor of London from 2008 to 2016. He was Member of Parliament (MP) for Henley from 2001 to 2008 and for Uxbridge and South Ruislip from 2015 to 2023.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Boris_Johnson",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg/330px-Boris_Johnson_official_portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "boris_johnson_official_portrait_(cropped).jpg",
+          "width": 1122,
+          "height": 1578,
+          "title": "Boris Johnson",
+          "description": "Prime Minister of the United Kingdom from 2019 to 2022",
+          "extract": "Alexander Boris de Pfeffel Johnson is a British politician and writer who was Prime Minister of the United Kingdom and Leader of the Conservative Party from 2019 to 2022. He was previously Foreign Secretary from 2016 to 2018 and Mayor of London from 2008 to 2016. He was Member of Parliament (MP) for Henley from 2001 to 2008 and for Uxbridge and South Ruislip from 2015 to 2023.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Boris_Johnson",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "queen_elizabeth_ii_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg",
+          "width": 739,
+          "height": 985,
+          "title": "Elizabeth II",
+          "description": "Queen of the United Kingdom from 1952 to 2022",
+          "extract": "Elizabeth II was Queen of the United Kingdom and other Commonwealth realms from 6 February 1952 until her death in 2022. She was queen regnant of 32 sovereign states during her lifetime and was the monarch of 15 realms at her death. Her reign of 70 years and 214 days is the longest of any British monarch, the second-longest of any sovereign state, and the longest of any queen regnant in history.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Elizabeth_II",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Supreme Court of the United Kingdom",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_Kingdom",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "09-24-1975-e99c5ce0",
+      "year": 1975,
+      "text": "Dougal Haston and Doug Scott of the Southwest Face expedition became the first people to reach the summit of Mount Everest by ascending one of its faces.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 3,
+      "imageScore": 10,
+      "marketingScore": 105,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dougal_Haston_Profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Dougal_Haston_Profile.jpg/330px-Dougal_Haston_Profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "dougal_haston_profile.jpg",
+        "width": 675,
+        "height": 800,
+        "title": "Dougal Haston",
+        "description": "British mountain climber (1940–1977)",
+        "extract": "Duncan \"Dougal\" Curdy MacSporran Haston was a Scottish mountaineer noted for his exploits in the British Isles, Alps, and the Himalayas. From 1967 he was the director of the International School of Mountaineering at Leysin, Switzerland, a role he held until his death in an avalanche while skiing above Leysin.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Dougal_Haston",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dougal_Haston_Profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Dougal_Haston_Profile.jpg/330px-Dougal_Haston_Profile.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "dougal_haston_profile.jpg",
+          "width": 675,
+          "height": 800,
+          "title": "Dougal Haston",
+          "description": "British mountain climber (1940–1977)",
+          "extract": "Duncan \"Dougal\" Curdy MacSporran Haston was a Scottish mountaineer noted for his exploits in the British Isles, Alps, and the Himalayas. From 1967 he was the director of the International School of Mountaineering at Leysin, Switzerland, a role he held until his death in an avalanche while skiing above Leysin.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Dougal_Haston",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Doug_Scott_in_2015_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Doug_Scott_in_2015_%28cropped%29.jpg/330px-Doug_Scott_in_2015_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "doug_scott_in_2015_(cropped).jpg",
+          "width": 1065,
+          "height": 1275,
+          "title": "Doug Scott",
+          "description": "English mountaineer and author (1941–2020)",
+          "extract": "Douglas Keith Scott was an English mountaineer and climbing author, noted for being on the team that made the first ascent of the south-west face of Mount Everest on 24 September 1975. In receiving one of mountaineering's highest honours, the Piolet d'Or Lifetime Achievement Award, his personal style and his climbs were described as \"visionary\".",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Doug_Scott",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mount_Everest_Southwest_Face%2C_November_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Mount_Everest_Southwest_Face%2C_November_2012.jpg/330px-Mount_Everest_Southwest_Face%2C_November_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "mount_everest_southwest_face,_november_2012.jpg",
+          "width": 1232,
+          "height": 1723,
+          "title": "1975 British Mount Everest Southwest Face expedition",
+          "description": "Himalayan ascent requiring rock climbing techniques",
+          "extract": "The 1975 British Mount Everest Southwest Face expedition was the first to successfully climb Mount Everest by ascending one of its faces rather than along its ridges. In the post-monsoon season Chris Bonington led the expedition that used rock climbing techniques to put fixed ropes up the face from the Western Cwm to just below the South Summit. A key aspect of the success of the climb was the scaling of the cliffs of the Rock Band at about 8,200 metres (27,000 ft) by Nick Estcourt and Tut Braithwaite.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/1975_British_Mount_Everest_Southwest_Face_expedition",
+          "score": 10
         }
       ],
       "category": {
@@ -647,9 +567,65 @@
         "name": "Cine y TV",
         "icon": "🎬"
       },
-      "mainPageTitle": "Saffron Revolution",
-      "mainPageUrl": "https://en.wikipedia.org/wiki/Saffron_Revolution",
-      "relatedPagesCount": 1
+      "mainPageTitle": "Dougal Haston",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Dougal_Haston",
+      "relatedPagesCount": 5
+    },
+    {
+      "id": "09-24-1941-207e20e5",
+      "year": 1941,
+      "text": "Operation Barbarossa: A Wehrmacht training event known as the Mogilev Conference began, marking an increase in violence against Jews and other civilians in the areas under General Max von Schenckendorff's command.",
+      "isFeatured": true,
+      "hasImage": true,
+      "imagesCount": 2,
+      "imageScore": 10,
+      "marketingScore": 100,
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Operation_Barbarossa_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+        "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Operation_Barbarossa_collage.jpg/330px-Operation_Barbarossa_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+        "canonicalKey": "operation_barbarossa_collage.jpg",
+        "width": 1080,
+        "height": 1440,
+        "title": "Operation Barbarossa",
+        "description": "1941 Axis invasion of the Soviet Union during WWII",
+        "extract": "Operation Barbarossa was the invasion of the Soviet Union by Nazi Germany and several of its European Axis allies starting on Sunday, 22 June 1941, during World War II. More than 3.8 million Axis troops invaded the western Soviet Union along a 2,900-kilometer (1,800 mi) front, with the main goal of capturing territory up to a line between Arkhangelsk and Astrakhan, known as the A–A line. The attack became the largest and costliest military offensive in human history, with around 10 million combatants taking part in the opening phase and over 8 million casualties by the end of the operation on 5 December 1941. It marked a major escalation of World War II, opened the Eastern Front—the largest and deadliest land war in history—and brought the Soviet Union into the Allied powers.",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Barbarossa",
+        "score": 10
+      },
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Operation_Barbarossa_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Operation_Barbarossa_collage.jpg/330px-Operation_Barbarossa_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "operation_barbarossa_collage.jpg",
+          "width": 1080,
+          "height": 1440,
+          "title": "Operation Barbarossa",
+          "description": "1941 Axis invasion of the Soviet Union during WWII",
+          "extract": "Operation Barbarossa was the invasion of the Soviet Union by Nazi Germany and several of its European Axis allies starting on Sunday, 22 June 1941, during World War II. More than 3.8 million Axis troops invaded the western Soviet Union along a 2,900-kilometer (1,800 mi) front, with the main goal of capturing territory up to a line between Arkhangelsk and Astrakhan, known as the A–A line. The attack became the largest and costliest military offensive in human history, with around 10 million combatants taking part in the opening phase and over 8 million casualties by the end of the operation on 5 December 1941. It marked a major escalation of World War II, opened the Eastern Front—the largest and deadliest land war in history—and brought the Soviet Union into the Allied powers.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Operation_Barbarossa",
+          "score": 10
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Max_von_Schenckendorff_Wehrmacht_General.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+          "thumbnailUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Max_von_Schenckendorff_Wehrmacht_General.jpg/330px-Max_von_Schenckendorff_Wehrmacht_General.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+          "canonicalKey": "max_von_schenckendorff_wehrmacht_general.jpg",
+          "width": 455,
+          "height": 613,
+          "title": "Max von Schenckendorff",
+          "description": "German general (1875–1943)",
+          "extract": "Max von Schenckendorff was a German military general in the Wehrmacht of Nazi Germany during World War II. He was the commander of Army Group Centre Rear Area, the area of military jurisdiction in the rear of Army Group Centre, from March 1941 until his death in 1943. He organized the Mogilev conference, in which Wehrmacht and SS officers discussed \"bandit fighting\" tactics, meaning the mass murder of Jews and other real or perceived enemies. The conference resulted in an intensification of the genocide that was already taking place in Army Group Centre Rear Area. Max von Schenckendorff died of a heart attack on July 6, 1943, while on leave in Krummhübel in the Giant Mountains.",
+          "wikiUrl": "https://en.wikipedia.org/wiki/Max_von_Schenckendorff",
+          "score": 10
+        }
+      ],
+      "category": {
+        "id": "history",
+        "name": "Historia y Mundo",
+        "icon": "🏛️"
+      },
+      "mainPageTitle": "Operation Barbarossa",
+      "mainPageUrl": "https://en.wikipedia.org/wiki/Operation_Barbarossa",
+      "relatedPagesCount": 4
     }
   ]
 }
