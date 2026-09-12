@@ -1,256 +1,484 @@
 {
-  "text": "On this day, September 21st: In 2003: The Galileo spacecraft is terminated by sending it into Jupiter's atmosphere. In 1937: J. And in 1776: Part of New York City is burned shortly after being occupied by British forces.",
+  "text": "On this day, September 21st: In 2001: A Tribute to Heroes is broadcast by over 35 network and cable channels, raising over $200 million for the victims of the September 11 attacks. In 2013: Unidentified gunmen began a three-day attack on the upmarket Westgate shopping mall in Nairobi, Kenya, resulting in the deaths of 67 people with at least another 175 wounded. And in 1942: The Holocaust in Ukraine: In Dunaivtsi, Ukraine, Nazis murder 2,588 Jews.",
   "voice": "en-US-ChristopherNeural",
-  "durationMs": 18512,
-  "durationSeconds": 18.512,
+  "durationMs": 34405,
+  "durationSeconds": 34.405,
   "sentences": [
     {
-      "text": "On this day, September 21st: In 2003: The Galileo spacecraft is terminated by sending it into Jupiter's atmosphere.",
+      "text": "On this day, September 21st: In 2001: A Tribute to Heroes is broadcast by over 35 network and cable channels, raising over $200 million for the victims of the September 11 attacks.",
       "startMs": 100,
-      "endMs": 8740,
-      "durationMs": 8640
+      "endMs": 12990,
+      "durationMs": 12890
     },
     {
-      "text": "In 1937: J.",
-      "startMs": 8690,
-      "endMs": 11643,
-      "durationMs": 2952
+      "text": "In 2013: Unidentified gunmen began a three-day attack on the upmarket Westgate shopping mall in Nairobi, Kenya, resulting in the deaths of 67 people with at least another 175 wounded.",
+      "startMs": 12940,
+      "endMs": 25595,
+      "durationMs": 12655
     },
     {
-      "text": "And in 1776: Part of New York City is burned shortly after being occupied by British forces.",
-      "startMs": 11643,
-      "endMs": 18512,
-      "durationMs": 6869
+      "text": "And in 1942: The Holocaust in Ukraine: In Dunaivtsi, Ukraine, Nazis murder 2,588 Jews.",
+      "startMs": 25595,
+      "endMs": 34405,
+      "durationMs": 8810
     }
   ],
   "words": [
     {
       "text": "On",
       "startMs": 100,
-      "endMs": 276,
+      "endMs": 273,
       "timestampMs": 100
     },
     {
       "text": "this",
-      "startMs": 276,
-      "endMs": 629,
-      "timestampMs": 276
+      "startMs": 273,
+      "endMs": 619,
+      "timestampMs": 273
     },
     {
       "text": "day,",
-      "startMs": 629,
-      "endMs": 982,
-      "timestampMs": 629
+      "startMs": 619,
+      "endMs": 965,
+      "timestampMs": 619
     },
     {
       "text": "September",
-      "startMs": 982,
-      "endMs": 1775,
-      "timestampMs": 982
+      "startMs": 965,
+      "endMs": 1744,
+      "timestampMs": 965
     },
     {
       "text": "21st:",
-      "startMs": 1775,
-      "endMs": 2216,
-      "timestampMs": 1775
+      "startMs": 1744,
+      "endMs": 2176,
+      "timestampMs": 1744
     },
     {
       "text": "In",
-      "startMs": 2216,
-      "endMs": 2392,
-      "timestampMs": 2216
+      "startMs": 2176,
+      "endMs": 2349,
+      "timestampMs": 2176
     },
     {
-      "text": "2003:",
-      "startMs": 2392,
-      "endMs": 2833,
-      "timestampMs": 2392
+      "text": "2001:",
+      "startMs": 2349,
+      "endMs": 2782,
+      "timestampMs": 2349
     },
     {
-      "text": "The",
-      "startMs": 2833,
-      "endMs": 3098,
-      "timestampMs": 2833
+      "text": "A",
+      "startMs": 2782,
+      "endMs": 2868,
+      "timestampMs": 2782
     },
     {
-      "text": "Galileo",
-      "startMs": 3098,
-      "endMs": 3715,
-      "timestampMs": 3098
+      "text": "Tribute",
+      "startMs": 2868,
+      "endMs": 3474,
+      "timestampMs": 2868
     },
     {
-      "text": "spacecraft",
-      "startMs": 3715,
-      "endMs": 4597,
-      "timestampMs": 3715
+      "text": "to",
+      "startMs": 3474,
+      "endMs": 3647,
+      "timestampMs": 3474
+    },
+    {
+      "text": "Heroes",
+      "startMs": 3647,
+      "endMs": 4166,
+      "timestampMs": 3647
     },
     {
       "text": "is",
-      "startMs": 4597,
-      "endMs": 4773,
-      "timestampMs": 4597
+      "startMs": 4166,
+      "endMs": 4339,
+      "timestampMs": 4166
     },
     {
-      "text": "terminated",
-      "startMs": 4773,
-      "endMs": 5655,
-      "timestampMs": 4773
+      "text": "broadcast",
+      "startMs": 4339,
+      "endMs": 5118,
+      "timestampMs": 4339
     },
     {
       "text": "by",
-      "startMs": 5655,
-      "endMs": 5831,
-      "timestampMs": 5655
+      "startMs": 5118,
+      "endMs": 5291,
+      "timestampMs": 5118
     },
     {
-      "text": "sending",
-      "startMs": 5831,
-      "endMs": 6448,
-      "timestampMs": 5831
+      "text": "over",
+      "startMs": 5291,
+      "endMs": 5637,
+      "timestampMs": 5291
     },
     {
-      "text": "it",
-      "startMs": 6448,
-      "endMs": 6624,
-      "timestampMs": 6448
+      "text": "35",
+      "startMs": 5637,
+      "endMs": 5810,
+      "timestampMs": 5637
     },
     {
-      "text": "into",
-      "startMs": 6624,
-      "endMs": 6977,
-      "timestampMs": 6624
+      "text": "network",
+      "startMs": 5810,
+      "endMs": 6415,
+      "timestampMs": 5810
     },
     {
-      "text": "Jupiter's",
-      "startMs": 6977,
-      "endMs": 7771,
-      "timestampMs": 6977
+      "text": "and",
+      "startMs": 6415,
+      "endMs": 6675,
+      "timestampMs": 6415
     },
     {
-      "text": "atmosphere.",
-      "startMs": 7771,
-      "endMs": 8740,
-      "timestampMs": 7771
+      "text": "cable",
+      "startMs": 6675,
+      "endMs": 7108,
+      "timestampMs": 6675
     },
     {
-      "text": "In",
-      "startMs": 8690,
-      "endMs": 9347,
-      "timestampMs": 8690
+      "text": "channels,",
+      "startMs": 7108,
+      "endMs": 7886,
+      "timestampMs": 7108
     },
     {
-      "text": "1937:",
-      "startMs": 9347,
-      "endMs": 10987,
-      "timestampMs": 9347
+      "text": "raising",
+      "startMs": 7886,
+      "endMs": 8492,
+      "timestampMs": 7886
     },
     {
-      "text": "J.",
-      "startMs": 10987,
-      "endMs": 11643,
-      "timestampMs": 10987
+      "text": "over",
+      "startMs": 8492,
+      "endMs": 8838,
+      "timestampMs": 8492
     },
     {
-      "text": "And",
-      "startMs": 11643,
-      "endMs": 11914,
-      "timestampMs": 11643
+      "text": "$200",
+      "startMs": 8838,
+      "endMs": 9184,
+      "timestampMs": 8838
     },
     {
-      "text": "in",
-      "startMs": 11914,
-      "endMs": 12095,
-      "timestampMs": 11914
+      "text": "million",
+      "startMs": 9184,
+      "endMs": 9789,
+      "timestampMs": 9184
     },
     {
-      "text": "1776:",
-      "startMs": 12095,
-      "endMs": 12547,
-      "timestampMs": 12095
+      "text": "for",
+      "startMs": 9789,
+      "endMs": 10049,
+      "timestampMs": 9789
     },
     {
-      "text": "Part",
-      "startMs": 12547,
-      "endMs": 12908,
-      "timestampMs": 12547
+      "text": "the",
+      "startMs": 10049,
+      "endMs": 10309,
+      "timestampMs": 10049
+    },
+    {
+      "text": "victims",
+      "startMs": 10309,
+      "endMs": 10914,
+      "timestampMs": 10309
     },
     {
       "text": "of",
-      "startMs": 12908,
-      "endMs": 13089,
-      "timestampMs": 12908
+      "startMs": 10914,
+      "endMs": 11087,
+      "timestampMs": 10914
     },
     {
-      "text": "New",
-      "startMs": 13089,
-      "endMs": 13360,
-      "timestampMs": 13089
+      "text": "the",
+      "startMs": 11087,
+      "endMs": 11347,
+      "timestampMs": 11087
     },
     {
-      "text": "York",
-      "startMs": 13360,
-      "endMs": 13722,
-      "timestampMs": 13360
+      "text": "September",
+      "startMs": 11347,
+      "endMs": 12125,
+      "timestampMs": 11347
     },
     {
-      "text": "City",
-      "startMs": 13722,
-      "endMs": 14083,
-      "timestampMs": 13722
+      "text": "11",
+      "startMs": 12125,
+      "endMs": 12298,
+      "timestampMs": 12125
     },
     {
-      "text": "is",
-      "startMs": 14083,
-      "endMs": 14264,
-      "timestampMs": 14083
+      "text": "attacks.",
+      "startMs": 12298,
+      "endMs": 12990,
+      "timestampMs": 12298
     },
     {
-      "text": "burned",
-      "startMs": 14264,
-      "endMs": 14806,
-      "timestampMs": 14264
+      "text": "In",
+      "startMs": 12940,
+      "endMs": 13105,
+      "timestampMs": 12940
     },
     {
-      "text": "shortly",
-      "startMs": 14806,
-      "endMs": 15439,
-      "timestampMs": 14806
+      "text": "2013:",
+      "startMs": 13105,
+      "endMs": 13516,
+      "timestampMs": 13105
     },
     {
-      "text": "after",
-      "startMs": 15439,
-      "endMs": 15891,
-      "timestampMs": 15439
+      "text": "Unidentified",
+      "startMs": 13516,
+      "endMs": 14502,
+      "timestampMs": 13516
     },
     {
-      "text": "being",
-      "startMs": 15891,
-      "endMs": 16343,
-      "timestampMs": 15891
+      "text": "gunmen",
+      "startMs": 14502,
+      "endMs": 14995,
+      "timestampMs": 14502
     },
     {
-      "text": "occupied",
-      "startMs": 16343,
-      "endMs": 17066,
-      "timestampMs": 16343
+      "text": "began",
+      "startMs": 14995,
+      "endMs": 15406,
+      "timestampMs": 14995
     },
     {
-      "text": "by",
-      "startMs": 17066,
-      "endMs": 17247,
-      "timestampMs": 17066
+      "text": "a",
+      "startMs": 15406,
+      "endMs": 15488,
+      "timestampMs": 15406
     },
     {
-      "text": "British",
-      "startMs": 17247,
-      "endMs": 17879,
-      "timestampMs": 17247
+      "text": "three-day",
+      "startMs": 15488,
+      "endMs": 16227,
+      "timestampMs": 15488
     },
     {
-      "text": "forces.",
-      "startMs": 17879,
-      "endMs": 18512,
-      "timestampMs": 17879
+      "text": "attack",
+      "startMs": 16227,
+      "endMs": 16720,
+      "timestampMs": 16227
+    },
+    {
+      "text": "on",
+      "startMs": 16720,
+      "endMs": 16885,
+      "timestampMs": 16720
+    },
+    {
+      "text": "the",
+      "startMs": 16885,
+      "endMs": 17131,
+      "timestampMs": 16885
+    },
+    {
+      "text": "upmarket",
+      "startMs": 17131,
+      "endMs": 17789,
+      "timestampMs": 17131
+    },
+    {
+      "text": "Westgate",
+      "startMs": 17789,
+      "endMs": 18446,
+      "timestampMs": 17789
+    },
+    {
+      "text": "shopping",
+      "startMs": 18446,
+      "endMs": 19104,
+      "timestampMs": 18446
+    },
+    {
+      "text": "mall",
+      "startMs": 19104,
+      "endMs": 19432,
+      "timestampMs": 19104
+    },
+    {
+      "text": "in",
+      "startMs": 19432,
+      "endMs": 19597,
+      "timestampMs": 19432
+    },
+    {
+      "text": "Nairobi,",
+      "startMs": 19597,
+      "endMs": 20254,
+      "timestampMs": 19597
+    },
+    {
+      "text": "Kenya,",
+      "startMs": 20254,
+      "endMs": 20747,
+      "timestampMs": 20254
+    },
+    {
+      "text": "resulting",
+      "startMs": 20747,
+      "endMs": 21487,
+      "timestampMs": 20747
+    },
+    {
+      "text": "in",
+      "startMs": 21487,
+      "endMs": 21651,
+      "timestampMs": 21487
+    },
+    {
+      "text": "the",
+      "startMs": 21651,
+      "endMs": 21897,
+      "timestampMs": 21651
+    },
+    {
+      "text": "deaths",
+      "startMs": 21897,
+      "endMs": 22390,
+      "timestampMs": 21897
+    },
+    {
+      "text": "of",
+      "startMs": 22390,
+      "endMs": 22555,
+      "timestampMs": 22390
+    },
+    {
+      "text": "67",
+      "startMs": 22555,
+      "endMs": 22719,
+      "timestampMs": 22555
+    },
+    {
+      "text": "people",
+      "startMs": 22719,
+      "endMs": 23212,
+      "timestampMs": 22719
+    },
+    {
+      "text": "with",
+      "startMs": 23212,
+      "endMs": 23541,
+      "timestampMs": 23212
+    },
+    {
+      "text": "at",
+      "startMs": 23541,
+      "endMs": 23705,
+      "timestampMs": 23541
+    },
+    {
+      "text": "least",
+      "startMs": 23705,
+      "endMs": 24116,
+      "timestampMs": 23705
+    },
+    {
+      "text": "another",
+      "startMs": 24116,
+      "endMs": 24691,
+      "timestampMs": 24116
+    },
+    {
+      "text": "175",
+      "startMs": 24691,
+      "endMs": 24938,
+      "timestampMs": 24691
+    },
+    {
+      "text": "wounded.",
+      "startMs": 24938,
+      "endMs": 25595,
+      "timestampMs": 24938
+    },
+    {
+      "text": "And",
+      "startMs": 25595,
+      "endMs": 25957,
+      "timestampMs": 25595
+    },
+    {
+      "text": "in",
+      "startMs": 25957,
+      "endMs": 26199,
+      "timestampMs": 25957
+    },
+    {
+      "text": "1942:",
+      "startMs": 26199,
+      "endMs": 26802,
+      "timestampMs": 26199
+    },
+    {
+      "text": "The",
+      "startMs": 26802,
+      "endMs": 27164,
+      "timestampMs": 26802
+    },
+    {
+      "text": "Holocaust",
+      "startMs": 27164,
+      "endMs": 28250,
+      "timestampMs": 27164
+    },
+    {
+      "text": "in",
+      "startMs": 28250,
+      "endMs": 28492,
+      "timestampMs": 28250
+    },
+    {
+      "text": "Ukraine:",
+      "startMs": 28492,
+      "endMs": 29457,
+      "timestampMs": 28492
+    },
+    {
+      "text": "In",
+      "startMs": 29457,
+      "endMs": 29698,
+      "timestampMs": 29457
+    },
+    {
+      "text": "Dunaivtsi,",
+      "startMs": 29698,
+      "endMs": 30905,
+      "timestampMs": 29698
+    },
+    {
+      "text": "Ukraine,",
+      "startMs": 30905,
+      "endMs": 31871,
+      "timestampMs": 30905
+    },
+    {
+      "text": "Nazis",
+      "startMs": 31871,
+      "endMs": 32474,
+      "timestampMs": 31871
+    },
+    {
+      "text": "murder",
+      "startMs": 32474,
+      "endMs": 33198,
+      "timestampMs": 32474
+    },
+    {
+      "text": "2,588",
+      "startMs": 33198,
+      "endMs": 33801,
+      "timestampMs": 33198
+    },
+    {
+      "text": "Jews.",
+      "startMs": 33801,
+      "endMs": 34405,
+      "timestampMs": 33801
     }
   ]
 }

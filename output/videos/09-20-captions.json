@@ -1,376 +1,340 @@
 {
-  "text": "On this day, September 20th: In 1989: USAir Flight 5050 crashes into Bowery Bay during a rejected takeoff from LaGuardia Airport, killing two people. In 1967: The Cunard Liner Queen Elizabeth 2 is launched in Clydebank, Scotland. And in 1946: The first Cannes Film Festival is held, having been delayed for seven years due to World War II.",
+  "text": "On this day, September 20th: In 1944: Second World War: Allied forces captured San Marino from the German Army. In 2001: In an address to a joint session of Congress and the American people, U.S. And in 1962: James Meredith, an African American, is temporarily barred from entering the University of Mississippi.",
   "voice": "en-US-ChristopherNeural",
-  "durationMs": 25702,
-  "durationSeconds": 25.702,
+  "durationMs": 23095,
+  "durationSeconds": 23.095,
   "sentences": [
     {
-      "text": "On this day, September 20th: In 1989: USAir Flight 5050 crashes into Bowery Bay during a rejected takeoff from LaGuardia Airport, killing two people.",
+      "text": "On this day, September 20th: In 1944: Second World War: Allied forces captured San Marino from the German Army.",
       "startMs": 100,
-      "endMs": 11729,
-      "durationMs": 11629
+      "endMs": 8895,
+      "durationMs": 8795
     },
     {
-      "text": "In 1967: The Cunard Liner Queen Elizabeth 2 is launched in Clydebank, Scotland.",
-      "startMs": 11679,
-      "endMs": 18298,
-      "durationMs": 6619
+      "text": "In 2001: In an address to a joint session of Congress and the American people, U.S.",
+      "startMs": 8845,
+      "endMs": 14988,
+      "durationMs": 6143
     },
     {
-      "text": "And in 1946: The first Cannes Film Festival is held, having been delayed for seven years due to World War II.",
-      "startMs": 18298,
-      "endMs": 25702,
-      "durationMs": 7405
+      "text": "And in 1962: James Meredith, an African American, is temporarily barred from entering the University of Mississippi.",
+      "startMs": 14988,
+      "endMs": 23095,
+      "durationMs": 8107
     }
   ],
   "words": [
     {
       "text": "On",
       "startMs": 100,
-      "endMs": 285,
+      "endMs": 289,
       "timestampMs": 100
     },
     {
       "text": "this",
-      "startMs": 285,
-      "endMs": 654,
-      "timestampMs": 285
+      "startMs": 289,
+      "endMs": 667,
+      "timestampMs": 289
     },
     {
       "text": "day,",
-      "startMs": 654,
-      "endMs": 1023,
-      "timestampMs": 654
+      "startMs": 667,
+      "endMs": 1046,
+      "timestampMs": 667
     },
     {
       "text": "September",
-      "startMs": 1023,
-      "endMs": 1854,
-      "timestampMs": 1023
+      "startMs": 1046,
+      "endMs": 1897,
+      "timestampMs": 1046
     },
     {
       "text": "20th:",
-      "startMs": 1854,
-      "endMs": 2315,
-      "timestampMs": 1854
+      "startMs": 1897,
+      "endMs": 2370,
+      "timestampMs": 1897
     },
     {
       "text": "In",
-      "startMs": 2315,
-      "endMs": 2500,
-      "timestampMs": 2315
+      "startMs": 2370,
+      "endMs": 2559,
+      "timestampMs": 2370
     },
     {
-      "text": "1989:",
-      "startMs": 2500,
-      "endMs": 2961,
-      "timestampMs": 2500
+      "text": "1944:",
+      "startMs": 2559,
+      "endMs": 3032,
+      "timestampMs": 2559
     },
     {
-      "text": "USAir",
-      "startMs": 2961,
-      "endMs": 3422,
-      "timestampMs": 2961
-    },
-    {
-      "text": "Flight",
-      "startMs": 3422,
-      "endMs": 3976,
-      "timestampMs": 3422
-    },
-    {
-      "text": "5050",
-      "startMs": 3976,
-      "endMs": 4345,
-      "timestampMs": 3976
-    },
-    {
-      "text": "crashes",
-      "startMs": 4345,
-      "endMs": 4991,
-      "timestampMs": 4345
-    },
-    {
-      "text": "into",
-      "startMs": 4991,
-      "endMs": 5361,
-      "timestampMs": 4991
-    },
-    {
-      "text": "Bowery",
-      "startMs": 5361,
-      "endMs": 5914,
-      "timestampMs": 5361
-    },
-    {
-      "text": "Bay",
-      "startMs": 5914,
-      "endMs": 6191,
-      "timestampMs": 5914
-    },
-    {
-      "text": "during",
-      "startMs": 6191,
-      "endMs": 6745,
-      "timestampMs": 6191
-    },
-    {
-      "text": "a",
-      "startMs": 6745,
-      "endMs": 6837,
-      "timestampMs": 6745
-    },
-    {
-      "text": "rejected",
-      "startMs": 6837,
-      "endMs": 7576,
-      "timestampMs": 6837
-    },
-    {
-      "text": "takeoff",
-      "startMs": 7576,
-      "endMs": 8222,
-      "timestampMs": 7576
-    },
-    {
-      "text": "from",
-      "startMs": 8222,
-      "endMs": 8591,
-      "timestampMs": 8222
-    },
-    {
-      "text": "LaGuardia",
-      "startMs": 8591,
-      "endMs": 9421,
-      "timestampMs": 8591
-    },
-    {
-      "text": "Airport,",
-      "startMs": 9421,
-      "endMs": 10160,
-      "timestampMs": 9421
-    },
-    {
-      "text": "killing",
-      "startMs": 10160,
-      "endMs": 10806,
-      "timestampMs": 10160
-    },
-    {
-      "text": "two",
-      "startMs": 10806,
-      "endMs": 11083,
-      "timestampMs": 10806
-    },
-    {
-      "text": "people.",
-      "startMs": 11083,
-      "endMs": 11729,
-      "timestampMs": 11083
-    },
-    {
-      "text": "In",
-      "startMs": 11679,
-      "endMs": 11876,
-      "timestampMs": 11679
-    },
-    {
-      "text": "1967:",
-      "startMs": 11876,
-      "endMs": 12370,
-      "timestampMs": 11876
-    },
-    {
-      "text": "The",
-      "startMs": 12370,
-      "endMs": 12666,
-      "timestampMs": 12370
-    },
-    {
-      "text": "Cunard",
-      "startMs": 12666,
-      "endMs": 13259,
-      "timestampMs": 12666
-    },
-    {
-      "text": "Liner",
-      "startMs": 13259,
-      "endMs": 13753,
-      "timestampMs": 13259
-    },
-    {
-      "text": "Queen",
-      "startMs": 13753,
-      "endMs": 14247,
-      "timestampMs": 13753
-    },
-    {
-      "text": "Elizabeth",
-      "startMs": 14247,
-      "endMs": 15136,
-      "timestampMs": 14247
-    },
-    {
-      "text": "2",
-      "startMs": 15136,
-      "endMs": 15235,
-      "timestampMs": 15136
-    },
-    {
-      "text": "is",
-      "startMs": 15235,
-      "endMs": 15433,
-      "timestampMs": 15235
-    },
-    {
-      "text": "launched",
-      "startMs": 15433,
-      "endMs": 16223,
-      "timestampMs": 15433
-    },
-    {
-      "text": "in",
-      "startMs": 16223,
-      "endMs": 16421,
-      "timestampMs": 16223
-    },
-    {
-      "text": "Clydebank,",
-      "startMs": 16421,
-      "endMs": 17408,
-      "timestampMs": 16421
-    },
-    {
-      "text": "Scotland.",
-      "startMs": 17408,
-      "endMs": 18298,
-      "timestampMs": 17408
-    },
-    {
-      "text": "And",
-      "startMs": 18298,
-      "endMs": 18547,
-      "timestampMs": 18298
-    },
-    {
-      "text": "in",
-      "startMs": 18547,
-      "endMs": 18714,
-      "timestampMs": 18547
-    },
-    {
-      "text": "1946:",
-      "startMs": 18714,
-      "endMs": 19130,
-      "timestampMs": 18714
-    },
-    {
-      "text": "The",
-      "startMs": 19130,
-      "endMs": 19379,
-      "timestampMs": 19130
-    },
-    {
-      "text": "first",
-      "startMs": 19379,
-      "endMs": 19795,
-      "timestampMs": 19379
-    },
-    {
-      "text": "Cannes",
-      "startMs": 19795,
-      "endMs": 20294,
-      "timestampMs": 19795
-    },
-    {
-      "text": "Film",
-      "startMs": 20294,
-      "endMs": 20627,
-      "timestampMs": 20294
-    },
-    {
-      "text": "Festival",
-      "startMs": 20627,
-      "endMs": 21293,
-      "timestampMs": 20627
-    },
-    {
-      "text": "is",
-      "startMs": 21293,
-      "endMs": 21459,
-      "timestampMs": 21293
-    },
-    {
-      "text": "held,",
-      "startMs": 21459,
-      "endMs": 21875,
-      "timestampMs": 21459
-    },
-    {
-      "text": "having",
-      "startMs": 21875,
-      "endMs": 22374,
-      "timestampMs": 21875
-    },
-    {
-      "text": "been",
-      "startMs": 22374,
-      "endMs": 22707,
-      "timestampMs": 22374
-    },
-    {
-      "text": "delayed",
-      "startMs": 22707,
-      "endMs": 23290,
-      "timestampMs": 22707
-    },
-    {
-      "text": "for",
-      "startMs": 23290,
-      "endMs": 23539,
-      "timestampMs": 23290
-    },
-    {
-      "text": "seven",
-      "startMs": 23539,
-      "endMs": 23955,
-      "timestampMs": 23539
-    },
-    {
-      "text": "years",
-      "startMs": 23955,
-      "endMs": 24371,
-      "timestampMs": 23955
-    },
-    {
-      "text": "due",
-      "startMs": 24371,
-      "endMs": 24621,
-      "timestampMs": 24371
-    },
-    {
-      "text": "to",
-      "startMs": 24621,
-      "endMs": 24787,
-      "timestampMs": 24621
+      "text": "Second",
+      "startMs": 3032,
+      "endMs": 3599,
+      "timestampMs": 3032
     },
     {
       "text": "World",
-      "startMs": 24787,
-      "endMs": 25203,
-      "timestampMs": 24787
+      "startMs": 3599,
+      "endMs": 4072,
+      "timestampMs": 3599
     },
     {
-      "text": "War",
-      "startMs": 25203,
-      "endMs": 25453,
-      "timestampMs": 25203
+      "text": "War:",
+      "startMs": 4072,
+      "endMs": 4450,
+      "timestampMs": 4072
     },
     {
-      "text": "II.",
-      "startMs": 25453,
-      "endMs": 25702,
-      "timestampMs": 25453
+      "text": "Allied",
+      "startMs": 4450,
+      "endMs": 5018,
+      "timestampMs": 4450
+    },
+    {
+      "text": "forces",
+      "startMs": 5018,
+      "endMs": 5585,
+      "timestampMs": 5018
+    },
+    {
+      "text": "captured",
+      "startMs": 5585,
+      "endMs": 6342,
+      "timestampMs": 5585
+    },
+    {
+      "text": "San",
+      "startMs": 6342,
+      "endMs": 6625,
+      "timestampMs": 6342
+    },
+    {
+      "text": "Marino",
+      "startMs": 6625,
+      "endMs": 7193,
+      "timestampMs": 6625
+    },
+    {
+      "text": "from",
+      "startMs": 7193,
+      "endMs": 7571,
+      "timestampMs": 7193
+    },
+    {
+      "text": "the",
+      "startMs": 7571,
+      "endMs": 7855,
+      "timestampMs": 7571
+    },
+    {
+      "text": "German",
+      "startMs": 7855,
+      "endMs": 8422,
+      "timestampMs": 7855
+    },
+    {
+      "text": "Army.",
+      "startMs": 8422,
+      "endMs": 8895,
+      "timestampMs": 8422
+    },
+    {
+      "text": "In",
+      "startMs": 8845,
+      "endMs": 9026,
+      "timestampMs": 8845
+    },
+    {
+      "text": "2001:",
+      "startMs": 9026,
+      "endMs": 9478,
+      "timestampMs": 9026
+    },
+    {
+      "text": "In",
+      "startMs": 9478,
+      "endMs": 9658,
+      "timestampMs": 9478
+    },
+    {
+      "text": "an",
+      "startMs": 9658,
+      "endMs": 9839,
+      "timestampMs": 9658
+    },
+    {
+      "text": "address",
+      "startMs": 9839,
+      "endMs": 10471,
+      "timestampMs": 9839
+    },
+    {
+      "text": "to",
+      "startMs": 10471,
+      "endMs": 10652,
+      "timestampMs": 10471
+    },
+    {
+      "text": "a",
+      "startMs": 10652,
+      "endMs": 10742,
+      "timestampMs": 10652
+    },
+    {
+      "text": "joint",
+      "startMs": 10742,
+      "endMs": 11194,
+      "timestampMs": 10742
+    },
+    {
+      "text": "session",
+      "startMs": 11194,
+      "endMs": 11826,
+      "timestampMs": 11194
+    },
+    {
+      "text": "of",
+      "startMs": 11826,
+      "endMs": 12007,
+      "timestampMs": 11826
+    },
+    {
+      "text": "Congress",
+      "startMs": 12007,
+      "endMs": 12730,
+      "timestampMs": 12007
+    },
+    {
+      "text": "and",
+      "startMs": 12730,
+      "endMs": 13001,
+      "timestampMs": 12730
+    },
+    {
+      "text": "the",
+      "startMs": 13001,
+      "endMs": 13272,
+      "timestampMs": 13001
+    },
+    {
+      "text": "American",
+      "startMs": 13272,
+      "endMs": 13994,
+      "timestampMs": 13272
+    },
+    {
+      "text": "people,",
+      "startMs": 13994,
+      "endMs": 14627,
+      "timestampMs": 13994
+    },
+    {
+      "text": "U.S.",
+      "startMs": 14627,
+      "endMs": 14988,
+      "timestampMs": 14627
+    },
+    {
+      "text": "And",
+      "startMs": 14988,
+      "endMs": 15231,
+      "timestampMs": 14988
+    },
+    {
+      "text": "in",
+      "startMs": 15231,
+      "endMs": 15393,
+      "timestampMs": 15231
+    },
+    {
+      "text": "1962:",
+      "startMs": 15393,
+      "endMs": 15799,
+      "timestampMs": 15393
+    },
+    {
+      "text": "James",
+      "startMs": 15799,
+      "endMs": 16204,
+      "timestampMs": 15799
+    },
+    {
+      "text": "Meredith,",
+      "startMs": 16204,
+      "endMs": 16934,
+      "timestampMs": 16204
+    },
+    {
+      "text": "an",
+      "startMs": 16934,
+      "endMs": 17096,
+      "timestampMs": 16934
+    },
+    {
+      "text": "African",
+      "startMs": 17096,
+      "endMs": 17663,
+      "timestampMs": 17096
+    },
+    {
+      "text": "American,",
+      "startMs": 17663,
+      "endMs": 18393,
+      "timestampMs": 17663
+    },
+    {
+      "text": "is",
+      "startMs": 18393,
+      "endMs": 18555,
+      "timestampMs": 18393
+    },
+    {
+      "text": "temporarily",
+      "startMs": 18555,
+      "endMs": 19447,
+      "timestampMs": 18555
+    },
+    {
+      "text": "barred",
+      "startMs": 19447,
+      "endMs": 19933,
+      "timestampMs": 19447
+    },
+    {
+      "text": "from",
+      "startMs": 19933,
+      "endMs": 20258,
+      "timestampMs": 19933
+    },
+    {
+      "text": "entering",
+      "startMs": 20258,
+      "endMs": 20906,
+      "timestampMs": 20258
+    },
+    {
+      "text": "the",
+      "startMs": 20906,
+      "endMs": 21150,
+      "timestampMs": 20906
+    },
+    {
+      "text": "University",
+      "startMs": 21150,
+      "endMs": 21960,
+      "timestampMs": 21150
+    },
+    {
+      "text": "of",
+      "startMs": 21960,
+      "endMs": 22122,
+      "timestampMs": 21960
+    },
+    {
+      "text": "Mississippi.",
+      "startMs": 22122,
+      "endMs": 23095,
+      "timestampMs": 22122
     }
   ]
 }

@@ -1,562 +1,442 @@
 {
-  "text": "On this day, September 25th: In 1998: PauknAir Flight 4101, a British Aerospace 146, crashes near Melilla Airport in Melilla, Spain, killing 38 people. In 1987: Fijian Governor-General Penaia Ganilau is overthrown in a coup d'état led by Lieutenant colonel Sitiveni Rabuka. And in 1906: Leonardo Torres Quevedo demonstrates the Telekino in the Bilbao Abra, guiding an electric boat from the shore with people on board, which was controlled at a distance over 2 km, in what is considered to be the origin of modern wireless remote-control operation principles.",
+  "text": "On this day, September 25th: In 1944: Second World War: British troops began their withdrawal from the Battle of Arnhem in the Netherlands, ending the Allies' Operation Market Garden in defeat. In 1998: PauknAir Flight 4101, a British Aerospace 146, crashes near Melilla Airport in Melilla, Spain, killing 38 people. And in 1987: Fijian Governor-General Penaia Ganilau is overthrown in a coup d'état led by Lieutenant colonel Sitiveni Rabuka.",
   "voice": "en-US-ChristopherNeural",
-  "durationMs": 38583,
-  "durationSeconds": 38.583,
+  "durationMs": 32036,
+  "durationSeconds": 32.036,
   "sentences": [
     {
-      "text": "On this day, September 25th: In 1998: PauknAir Flight 4101, a British Aerospace 146, crashes near Melilla Airport in Melilla, Spain, killing 38 people.",
+      "text": "On this day, September 25th: In 1944: Second World War: British troops began their withdrawal from the Battle of Arnhem in the Netherlands, ending the Allies' Operation Market Garden in defeat.",
       "startMs": 100,
-      "endMs": 13443,
-      "durationMs": 13343
+      "endMs": 12312,
+      "durationMs": 12212
     },
     {
-      "text": "In 1987: Fijian Governor-General Penaia Ganilau is overthrown in a coup d'état led by Lieutenant colonel Sitiveni Rabuka.",
-      "startMs": 13393,
-      "endMs": 21917,
-      "durationMs": 8524
+      "text": "In 1998: PauknAir Flight 4101, a British Aerospace 146, crashes near Melilla Airport in Melilla, Spain, killing 38 people.",
+      "startMs": 12262,
+      "endMs": 23298,
+      "durationMs": 11036
     },
     {
-      "text": "And in 1906: Leonardo Torres Quevedo demonstrates the Telekino in the Bilbao Abra, guiding an electric boat from the shore with people on board, which was controlled at a distance over 2 km, in what is considered to be the origin of modern wireless remote-control operation principles.",
-      "startMs": 21917,
-      "endMs": 38583,
-      "durationMs": 16667
+      "text": "And in 1987: Fijian Governor-General Penaia Ganilau is overthrown in a coup d'état led by Lieutenant colonel Sitiveni Rabuka.",
+      "startMs": 23298,
+      "endMs": 32036,
+      "durationMs": 8738
     }
   ],
   "words": [
     {
       "text": "On",
       "startMs": 100,
-      "endMs": 308,
+      "endMs": 250,
       "timestampMs": 100
     },
     {
       "text": "this",
-      "startMs": 308,
-      "endMs": 725,
-      "timestampMs": 308
+      "startMs": 250,
+      "endMs": 550,
+      "timestampMs": 250
     },
     {
       "text": "day,",
-      "startMs": 725,
-      "endMs": 1142,
-      "timestampMs": 725
+      "startMs": 550,
+      "endMs": 849,
+      "timestampMs": 550
     },
     {
       "text": "September",
-      "startMs": 1142,
-      "endMs": 2081,
-      "timestampMs": 1142
+      "startMs": 849,
+      "endMs": 1523,
+      "timestampMs": 849
     },
     {
       "text": "25th:",
-      "startMs": 2081,
-      "endMs": 2602,
-      "timestampMs": 2081
+      "startMs": 1523,
+      "endMs": 1898,
+      "timestampMs": 1523
     },
     {
       "text": "In",
-      "startMs": 2602,
-      "endMs": 2810,
-      "timestampMs": 2602
+      "startMs": 1898,
+      "endMs": 2048,
+      "timestampMs": 1898
     },
     {
-      "text": "1998:",
-      "startMs": 2810,
-      "endMs": 3331,
-      "timestampMs": 2810
+      "text": "1944:",
+      "startMs": 2048,
+      "endMs": 2423,
+      "timestampMs": 2048
     },
     {
-      "text": "PauknAir",
-      "startMs": 3331,
-      "endMs": 4165,
-      "timestampMs": 3331
+      "text": "Second",
+      "startMs": 2423,
+      "endMs": 2872,
+      "timestampMs": 2423
     },
     {
-      "text": "Flight",
-      "startMs": 4165,
-      "endMs": 4791,
-      "timestampMs": 4165
+      "text": "World",
+      "startMs": 2872,
+      "endMs": 3247,
+      "timestampMs": 2872
     },
     {
-      "text": "4101,",
-      "startMs": 4791,
-      "endMs": 5312,
-      "timestampMs": 4791
-    },
-    {
-      "text": "a",
-      "startMs": 5312,
-      "endMs": 5416,
-      "timestampMs": 5312
+      "text": "War:",
+      "startMs": 3247,
+      "endMs": 3546,
+      "timestampMs": 3247
     },
     {
       "text": "British",
-      "startMs": 5416,
-      "endMs": 6146,
-      "timestampMs": 5416
+      "startMs": 3546,
+      "endMs": 4071,
+      "timestampMs": 3546
     },
     {
-      "text": "Aerospace",
-      "startMs": 6146,
-      "endMs": 7084,
-      "timestampMs": 6146
+      "text": "troops",
+      "startMs": 4071,
+      "endMs": 4520,
+      "timestampMs": 4071
     },
     {
-      "text": "146,",
-      "startMs": 7084,
-      "endMs": 7501,
-      "timestampMs": 7084
+      "text": "began",
+      "startMs": 4520,
+      "endMs": 4895,
+      "timestampMs": 4520
     },
     {
-      "text": "crashes",
-      "startMs": 7501,
-      "endMs": 8231,
-      "timestampMs": 7501
+      "text": "their",
+      "startMs": 4895,
+      "endMs": 5269,
+      "timestampMs": 4895
     },
     {
-      "text": "near",
-      "startMs": 8231,
-      "endMs": 8648,
-      "timestampMs": 8231
-    },
-    {
-      "text": "Melilla",
-      "startMs": 8648,
-      "endMs": 9377,
-      "timestampMs": 8648
-    },
-    {
-      "text": "Airport",
-      "startMs": 9377,
-      "endMs": 10107,
-      "timestampMs": 9377
-    },
-    {
-      "text": "in",
-      "startMs": 10107,
-      "endMs": 10316,
-      "timestampMs": 10107
-    },
-    {
-      "text": "Melilla,",
-      "startMs": 10316,
-      "endMs": 11150,
-      "timestampMs": 10316
-    },
-    {
-      "text": "Spain,",
-      "startMs": 11150,
-      "endMs": 11775,
-      "timestampMs": 11150
-    },
-    {
-      "text": "killing",
-      "startMs": 11775,
-      "endMs": 12505,
-      "timestampMs": 11775
-    },
-    {
-      "text": "38",
-      "startMs": 12505,
-      "endMs": 12713,
-      "timestampMs": 12505
-    },
-    {
-      "text": "people.",
-      "startMs": 12713,
-      "endMs": 13443,
-      "timestampMs": 12713
-    },
-    {
-      "text": "In",
-      "startMs": 13393,
-      "endMs": 13557,
-      "timestampMs": 13393
-    },
-    {
-      "text": "1987:",
-      "startMs": 13557,
-      "endMs": 13967,
-      "timestampMs": 13557
-    },
-    {
-      "text": "Fijian",
-      "startMs": 13967,
-      "endMs": 14458,
-      "timestampMs": 13967
-    },
-    {
-      "text": "Governor-General",
-      "startMs": 14458,
-      "endMs": 15770,
-      "timestampMs": 14458
-    },
-    {
-      "text": "Penaia",
-      "startMs": 15770,
-      "endMs": 16261,
-      "timestampMs": 15770
-    },
-    {
-      "text": "Ganilau",
-      "startMs": 16261,
-      "endMs": 16835,
-      "timestampMs": 16261
-    },
-    {
-      "text": "is",
-      "startMs": 16835,
-      "endMs": 16999,
-      "timestampMs": 16835
-    },
-    {
-      "text": "overthrown",
-      "startMs": 16999,
-      "endMs": 17819,
-      "timestampMs": 16999
-    },
-    {
-      "text": "in",
-      "startMs": 17819,
-      "endMs": 17983,
-      "timestampMs": 17819
-    },
-    {
-      "text": "a",
-      "startMs": 17983,
-      "endMs": 18065,
-      "timestampMs": 17983
-    },
-    {
-      "text": "coup",
-      "startMs": 18065,
-      "endMs": 18392,
-      "timestampMs": 18065
-    },
-    {
-      "text": "d'état",
-      "startMs": 18392,
-      "endMs": 18884,
-      "timestampMs": 18392
-    },
-    {
-      "text": "led",
-      "startMs": 18884,
-      "endMs": 19130,
-      "timestampMs": 18884
-    },
-    {
-      "text": "by",
-      "startMs": 19130,
-      "endMs": 19294,
-      "timestampMs": 19130
-    },
-    {
-      "text": "Lieutenant",
-      "startMs": 19294,
-      "endMs": 20114,
-      "timestampMs": 19294
-    },
-    {
-      "text": "colonel",
-      "startMs": 20114,
-      "endMs": 20687,
-      "timestampMs": 20114
-    },
-    {
-      "text": "Sitiveni",
-      "startMs": 20687,
-      "endMs": 21343,
-      "timestampMs": 20687
-    },
-    {
-      "text": "Rabuka.",
-      "startMs": 21343,
-      "endMs": 21917,
-      "timestampMs": 21343
-    },
-    {
-      "text": "And",
-      "startMs": 21917,
-      "endMs": 22126,
-      "timestampMs": 21917
-    },
-    {
-      "text": "in",
-      "startMs": 22126,
-      "endMs": 22265,
-      "timestampMs": 22126
-    },
-    {
-      "text": "1906:",
-      "startMs": 22265,
-      "endMs": 22614,
-      "timestampMs": 22265
-    },
-    {
-      "text": "Leonardo",
-      "startMs": 22614,
-      "endMs": 23172,
-      "timestampMs": 22614
-    },
-    {
-      "text": "Torres",
-      "startMs": 23172,
-      "endMs": 23590,
-      "timestampMs": 23172
-    },
-    {
-      "text": "Quevedo",
-      "startMs": 23590,
-      "endMs": 24078,
-      "timestampMs": 23590
-    },
-    {
-      "text": "demonstrates",
-      "startMs": 24078,
-      "endMs": 24915,
-      "timestampMs": 24078
-    },
-    {
-      "text": "the",
-      "startMs": 24915,
-      "endMs": 25124,
-      "timestampMs": 24915
-    },
-    {
-      "text": "Telekino",
-      "startMs": 25124,
-      "endMs": 25682,
-      "timestampMs": 25124
-    },
-    {
-      "text": "in",
-      "startMs": 25682,
-      "endMs": 25822,
-      "timestampMs": 25682
-    },
-    {
-      "text": "the",
-      "startMs": 25822,
-      "endMs": 26031,
-      "timestampMs": 25822
-    },
-    {
-      "text": "Bilbao",
-      "startMs": 26031,
-      "endMs": 26449,
-      "timestampMs": 26031
-    },
-    {
-      "text": "Abra,",
-      "startMs": 26449,
-      "endMs": 26798,
-      "timestampMs": 26449
-    },
-    {
-      "text": "guiding",
-      "startMs": 26798,
-      "endMs": 27286,
-      "timestampMs": 26798
-    },
-    {
-      "text": "an",
-      "startMs": 27286,
-      "endMs": 27426,
-      "timestampMs": 27286
-    },
-    {
-      "text": "electric",
-      "startMs": 27426,
-      "endMs": 27984,
-      "timestampMs": 27426
-    },
-    {
-      "text": "boat",
-      "startMs": 27984,
-      "endMs": 28263,
-      "timestampMs": 27984
+      "text": "withdrawal",
+      "startMs": 5269,
+      "endMs": 6019,
+      "timestampMs": 5269
     },
     {
       "text": "from",
-      "startMs": 28263,
-      "endMs": 28541,
-      "timestampMs": 28263
+      "startMs": 6019,
+      "endMs": 6318,
+      "timestampMs": 6019
     },
     {
       "text": "the",
-      "startMs": 28541,
-      "endMs": 28751,
-      "timestampMs": 28541
+      "startMs": 6318,
+      "endMs": 6543,
+      "timestampMs": 6318
     },
     {
-      "text": "shore",
-      "startMs": 28751,
-      "endMs": 29099,
-      "timestampMs": 28751
-    },
-    {
-      "text": "with",
-      "startMs": 29099,
-      "endMs": 29378,
-      "timestampMs": 29099
-    },
-    {
-      "text": "people",
-      "startMs": 29378,
-      "endMs": 29797,
-      "timestampMs": 29378
-    },
-    {
-      "text": "on",
-      "startMs": 29797,
-      "endMs": 29936,
-      "timestampMs": 29797
-    },
-    {
-      "text": "board,",
-      "startMs": 29936,
-      "endMs": 30355,
-      "timestampMs": 29936
-    },
-    {
-      "text": "which",
-      "startMs": 30355,
-      "endMs": 30703,
-      "timestampMs": 30355
-    },
-    {
-      "text": "was",
-      "startMs": 30703,
-      "endMs": 30912,
-      "timestampMs": 30703
-    },
-    {
-      "text": "controlled",
-      "startMs": 30912,
-      "endMs": 31610,
-      "timestampMs": 30912
-    },
-    {
-      "text": "at",
-      "startMs": 31610,
-      "endMs": 31749,
-      "timestampMs": 31610
-    },
-    {
-      "text": "a",
-      "startMs": 31749,
-      "endMs": 31819,
-      "timestampMs": 31749
-    },
-    {
-      "text": "distance",
-      "startMs": 31819,
-      "endMs": 32377,
-      "timestampMs": 31819
-    },
-    {
-      "text": "over",
-      "startMs": 32377,
-      "endMs": 32656,
-      "timestampMs": 32377
-    },
-    {
-      "text": "2",
-      "startMs": 32656,
-      "endMs": 32726,
-      "timestampMs": 32656
-    },
-    {
-      "text": "km,",
-      "startMs": 32726,
-      "endMs": 32935,
-      "timestampMs": 32726
-    },
-    {
-      "text": "in",
-      "startMs": 32935,
-      "endMs": 33074,
-      "timestampMs": 32935
-    },
-    {
-      "text": "what",
-      "startMs": 33074,
-      "endMs": 33353,
-      "timestampMs": 33074
-    },
-    {
-      "text": "is",
-      "startMs": 33353,
-      "endMs": 33493,
-      "timestampMs": 33353
-    },
-    {
-      "text": "considered",
-      "startMs": 33493,
-      "endMs": 34190,
-      "timestampMs": 33493
-    },
-    {
-      "text": "to",
-      "startMs": 34190,
-      "endMs": 34329,
-      "timestampMs": 34190
-    },
-    {
-      "text": "be",
-      "startMs": 34329,
-      "endMs": 34469,
-      "timestampMs": 34329
-    },
-    {
-      "text": "the",
-      "startMs": 34469,
-      "endMs": 34678,
-      "timestampMs": 34469
-    },
-    {
-      "text": "origin",
-      "startMs": 34678,
-      "endMs": 35097,
-      "timestampMs": 34678
+      "text": "Battle",
+      "startMs": 6543,
+      "endMs": 6993,
+      "timestampMs": 6543
     },
     {
       "text": "of",
-      "startMs": 35097,
-      "endMs": 35236,
-      "timestampMs": 35097
+      "startMs": 6993,
+      "endMs": 7142,
+      "timestampMs": 6993
     },
     {
-      "text": "modern",
-      "startMs": 35236,
-      "endMs": 35654,
-      "timestampMs": 35236
+      "text": "Arnhem",
+      "startMs": 7142,
+      "endMs": 7592,
+      "timestampMs": 7142
     },
     {
-      "text": "wireless",
-      "startMs": 35654,
-      "endMs": 36212,
-      "timestampMs": 35654
+      "text": "in",
+      "startMs": 7592,
+      "endMs": 7742,
+      "timestampMs": 7592
     },
     {
-      "text": "remote-control",
-      "startMs": 36212,
-      "endMs": 37189,
-      "timestampMs": 36212
+      "text": "the",
+      "startMs": 7742,
+      "endMs": 7967,
+      "timestampMs": 7742
     },
     {
-      "text": "operation",
-      "startMs": 37189,
-      "endMs": 37816,
-      "timestampMs": 37189
+      "text": "Netherlands,",
+      "startMs": 7967,
+      "endMs": 8866,
+      "timestampMs": 7967
     },
     {
-      "text": "principles.",
-      "startMs": 37816,
-      "endMs": 38583,
-      "timestampMs": 37816
+      "text": "ending",
+      "startMs": 8866,
+      "endMs": 9315,
+      "timestampMs": 8866
+    },
+    {
+      "text": "the",
+      "startMs": 9315,
+      "endMs": 9540,
+      "timestampMs": 9315
+    },
+    {
+      "text": "Allies'",
+      "startMs": 9540,
+      "endMs": 10064,
+      "timestampMs": 9540
+    },
+    {
+      "text": "Operation",
+      "startMs": 10064,
+      "endMs": 10739,
+      "timestampMs": 10064
+    },
+    {
+      "text": "Market",
+      "startMs": 10739,
+      "endMs": 11188,
+      "timestampMs": 10739
+    },
+    {
+      "text": "Garden",
+      "startMs": 11188,
+      "endMs": 11638,
+      "timestampMs": 11188
+    },
+    {
+      "text": "in",
+      "startMs": 11638,
+      "endMs": 11787,
+      "timestampMs": 11638
+    },
+    {
+      "text": "defeat.",
+      "startMs": 11787,
+      "endMs": 12312,
+      "timestampMs": 11787
+    },
+    {
+      "text": "In",
+      "startMs": 12262,
+      "endMs": 12474,
+      "timestampMs": 12262
+    },
+    {
+      "text": "1998:",
+      "startMs": 12474,
+      "endMs": 13005,
+      "timestampMs": 12474
+    },
+    {
+      "text": "PauknAir",
+      "startMs": 13005,
+      "endMs": 13854,
+      "timestampMs": 13005
+    },
+    {
+      "text": "Flight",
+      "startMs": 13854,
+      "endMs": 14490,
+      "timestampMs": 13854
+    },
+    {
+      "text": "4101,",
+      "startMs": 14490,
+      "endMs": 15021,
+      "timestampMs": 14490
+    },
+    {
+      "text": "a",
+      "startMs": 15021,
+      "endMs": 15127,
+      "timestampMs": 15021
+    },
+    {
+      "text": "British",
+      "startMs": 15127,
+      "endMs": 15870,
+      "timestampMs": 15127
+    },
+    {
+      "text": "Aerospace",
+      "startMs": 15870,
+      "endMs": 16825,
+      "timestampMs": 15870
+    },
+    {
+      "text": "146,",
+      "startMs": 16825,
+      "endMs": 17249,
+      "timestampMs": 16825
+    },
+    {
+      "text": "crashes",
+      "startMs": 17249,
+      "endMs": 17992,
+      "timestampMs": 17249
+    },
+    {
+      "text": "near",
+      "startMs": 17992,
+      "endMs": 18416,
+      "timestampMs": 17992
+    },
+    {
+      "text": "Melilla",
+      "startMs": 18416,
+      "endMs": 19159,
+      "timestampMs": 18416
+    },
+    {
+      "text": "Airport",
+      "startMs": 19159,
+      "endMs": 19902,
+      "timestampMs": 19159
+    },
+    {
+      "text": "in",
+      "startMs": 19902,
+      "endMs": 20114,
+      "timestampMs": 19902
+    },
+    {
+      "text": "Melilla,",
+      "startMs": 20114,
+      "endMs": 20963,
+      "timestampMs": 20114
+    },
+    {
+      "text": "Spain,",
+      "startMs": 20963,
+      "endMs": 21600,
+      "timestampMs": 20963
+    },
+    {
+      "text": "killing",
+      "startMs": 21600,
+      "endMs": 22343,
+      "timestampMs": 21600
+    },
+    {
+      "text": "38",
+      "startMs": 22343,
+      "endMs": 22555,
+      "timestampMs": 22343
+    },
+    {
+      "text": "people.",
+      "startMs": 22555,
+      "endMs": 23298,
+      "timestampMs": 22555
+    },
+    {
+      "text": "And",
+      "startMs": 23298,
+      "endMs": 23543,
+      "timestampMs": 23298
+    },
+    {
+      "text": "in",
+      "startMs": 23543,
+      "endMs": 23706,
+      "timestampMs": 23543
+    },
+    {
+      "text": "1987:",
+      "startMs": 23706,
+      "endMs": 24114,
+      "timestampMs": 23706
+    },
+    {
+      "text": "Fijian",
+      "startMs": 24114,
+      "endMs": 24604,
+      "timestampMs": 24114
+    },
+    {
+      "text": "Governor-General",
+      "startMs": 24604,
+      "endMs": 25911,
+      "timestampMs": 24604
+    },
+    {
+      "text": "Penaia",
+      "startMs": 25911,
+      "endMs": 26401,
+      "timestampMs": 25911
+    },
+    {
+      "text": "Ganilau",
+      "startMs": 26401,
+      "endMs": 26973,
+      "timestampMs": 26401
+    },
+    {
+      "text": "is",
+      "startMs": 26973,
+      "endMs": 27136,
+      "timestampMs": 26973
+    },
+    {
+      "text": "overthrown",
+      "startMs": 27136,
+      "endMs": 27952,
+      "timestampMs": 27136
+    },
+    {
+      "text": "in",
+      "startMs": 27952,
+      "endMs": 28116,
+      "timestampMs": 27952
+    },
+    {
+      "text": "a",
+      "startMs": 28116,
+      "endMs": 28197,
+      "timestampMs": 28116
+    },
+    {
+      "text": "coup",
+      "startMs": 28197,
+      "endMs": 28524,
+      "timestampMs": 28197
+    },
+    {
+      "text": "d'état",
+      "startMs": 28524,
+      "endMs": 29014,
+      "timestampMs": 28524
+    },
+    {
+      "text": "led",
+      "startMs": 29014,
+      "endMs": 29259,
+      "timestampMs": 29014
+    },
+    {
+      "text": "by",
+      "startMs": 29259,
+      "endMs": 29422,
+      "timestampMs": 29259
+    },
+    {
+      "text": "Lieutenant",
+      "startMs": 29422,
+      "endMs": 30239,
+      "timestampMs": 29422
+    },
+    {
+      "text": "colonel",
+      "startMs": 30239,
+      "endMs": 30811,
+      "timestampMs": 30239
+    },
+    {
+      "text": "Sitiveni",
+      "startMs": 30811,
+      "endMs": 31464,
+      "timestampMs": 30811
+    },
+    {
+      "text": "Rabuka.",
+      "startMs": 31464,
+      "endMs": 32036,
+      "timestampMs": 31464
     }
   ]
 }

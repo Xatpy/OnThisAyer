@@ -1,364 +1,466 @@
 {
-  "text": "On this day, September 16th: In 2021: Inspiration4, the first private orbital crewed spaceflight, is launched from the Kennedy Space Center. In 1996: Space Shuttle Atlantis is launched on STS-79 to dock with the Russian space station Mir. And in 1961: Pakistan establishes its Space and Upper Atmosphere Research Commission with Abdus Salam as its head.",
+  "text": "On this day, September 16th: In 1940: Second World War: Italian forces captured the town of Sidi Barrani, but their invasion of Egypt progressed no further. In 2021: Inspiration4, the first private orbital crewed spaceflight, is launched from the Kennedy Space Center. And in 1982: A Lebanese militia under the direct command of Elie Hobeika carried out a massacre in the Palestinian refugee camp of Sabra and Shatila, killing at least 460 civilians.",
   "voice": "en-US-ChristopherNeural",
-  "durationMs": 25512,
-  "durationSeconds": 25.512,
+  "durationMs": 30536,
+  "durationSeconds": 30.536,
   "sentences": [
     {
-      "text": "On this day, September 16th: In 2021: Inspiration4, the first private orbital crewed spaceflight, is launched from the Kennedy Space Center.",
+      "text": "On this day, September 16th: In 1940: Second World War: Italian forces captured the town of Sidi Barrani, but their invasion of Egypt progressed no further.",
       "startMs": 100,
-      "endMs": 10074,
-      "durationMs": 9974
+      "endMs": 11110,
+      "durationMs": 11010
     },
     {
-      "text": "In 1996: Space Shuttle Atlantis is launched on STS-79 to dock with the Russian space station Mir.",
-      "startMs": 10024,
-      "endMs": 17738,
+      "text": "In 2021: Inspiration4, the first private orbital crewed spaceflight, is launched from the Kennedy Space Center.",
+      "startMs": 11060,
+      "endMs": 18774,
       "durationMs": 7714
     },
     {
-      "text": "And in 1961: Pakistan establishes its Space and Upper Atmosphere Research Commission with Abdus Salam as its head.",
-      "startMs": 17738,
-      "endMs": 25512,
-      "durationMs": 7774
+      "text": "And in 1982: A Lebanese militia under the direct command of Elie Hobeika carried out a massacre in the Palestinian refugee camp of Sabra and Shatila, killing at least 460 civilians.",
+      "startMs": 18774,
+      "endMs": 30536,
+      "durationMs": 11762
     }
   ],
   "words": [
     {
       "text": "On",
       "startMs": 100,
-      "endMs": 266,
+      "endMs": 268,
       "timestampMs": 100
     },
     {
       "text": "this",
-      "startMs": 266,
-      "endMs": 599,
-      "timestampMs": 266
+      "startMs": 268,
+      "endMs": 604,
+      "timestampMs": 268
     },
     {
       "text": "day,",
-      "startMs": 599,
-      "endMs": 931,
-      "timestampMs": 599
+      "startMs": 604,
+      "endMs": 940,
+      "timestampMs": 604
     },
     {
       "text": "September",
-      "startMs": 931,
-      "endMs": 1679,
-      "timestampMs": 931
+      "startMs": 940,
+      "endMs": 1697,
+      "timestampMs": 940
     },
     {
       "text": "16th:",
-      "startMs": 1679,
-      "endMs": 2095,
-      "timestampMs": 1679
+      "startMs": 1697,
+      "endMs": 2117,
+      "timestampMs": 1697
     },
     {
       "text": "In",
-      "startMs": 2095,
-      "endMs": 2261,
-      "timestampMs": 2095
+      "startMs": 2117,
+      "endMs": 2285,
+      "timestampMs": 2117
+    },
+    {
+      "text": "1940:",
+      "startMs": 2285,
+      "endMs": 2705,
+      "timestampMs": 2285
+    },
+    {
+      "text": "Second",
+      "startMs": 2705,
+      "endMs": 3210,
+      "timestampMs": 2705
+    },
+    {
+      "text": "World",
+      "startMs": 3210,
+      "endMs": 3630,
+      "timestampMs": 3210
+    },
+    {
+      "text": "War:",
+      "startMs": 3630,
+      "endMs": 3966,
+      "timestampMs": 3630
+    },
+    {
+      "text": "Italian",
+      "startMs": 3966,
+      "endMs": 4554,
+      "timestampMs": 3966
+    },
+    {
+      "text": "forces",
+      "startMs": 4554,
+      "endMs": 5058,
+      "timestampMs": 4554
+    },
+    {
+      "text": "captured",
+      "startMs": 5058,
+      "endMs": 5731,
+      "timestampMs": 5058
+    },
+    {
+      "text": "the",
+      "startMs": 5731,
+      "endMs": 5983,
+      "timestampMs": 5731
+    },
+    {
+      "text": "town",
+      "startMs": 5983,
+      "endMs": 6319,
+      "timestampMs": 5983
+    },
+    {
+      "text": "of",
+      "startMs": 6319,
+      "endMs": 6487,
+      "timestampMs": 6319
+    },
+    {
+      "text": "Sidi",
+      "startMs": 6487,
+      "endMs": 6823,
+      "timestampMs": 6487
+    },
+    {
+      "text": "Barrani,",
+      "startMs": 6823,
+      "endMs": 7496,
+      "timestampMs": 6823
+    },
+    {
+      "text": "but",
+      "startMs": 7496,
+      "endMs": 7748,
+      "timestampMs": 7496
+    },
+    {
+      "text": "their",
+      "startMs": 7748,
+      "endMs": 8168,
+      "timestampMs": 7748
+    },
+    {
+      "text": "invasion",
+      "startMs": 8168,
+      "endMs": 8840,
+      "timestampMs": 8168
+    },
+    {
+      "text": "of",
+      "startMs": 8840,
+      "endMs": 9008,
+      "timestampMs": 8840
+    },
+    {
+      "text": "Egypt",
+      "startMs": 9008,
+      "endMs": 9429,
+      "timestampMs": 9008
+    },
+    {
+      "text": "progressed",
+      "startMs": 9429,
+      "endMs": 10269,
+      "timestampMs": 9429
+    },
+    {
+      "text": "no",
+      "startMs": 10269,
+      "endMs": 10437,
+      "timestampMs": 10269
+    },
+    {
+      "text": "further.",
+      "startMs": 10437,
+      "endMs": 11110,
+      "timestampMs": 10437
+    },
+    {
+      "text": "In",
+      "startMs": 11060,
+      "endMs": 11220,
+      "timestampMs": 11060
     },
     {
       "text": "2021:",
-      "startMs": 2261,
-      "endMs": 2677,
-      "timestampMs": 2261
+      "startMs": 11220,
+      "endMs": 11622,
+      "timestampMs": 11220
     },
     {
       "text": "Inspiration4,",
-      "startMs": 2677,
-      "endMs": 3757,
-      "timestampMs": 2677
+      "startMs": 11622,
+      "endMs": 12667,
+      "timestampMs": 11622
     },
     {
       "text": "the",
-      "startMs": 3757,
-      "endMs": 4006,
-      "timestampMs": 3757
+      "startMs": 12667,
+      "endMs": 12908,
+      "timestampMs": 12667
     },
     {
       "text": "first",
-      "startMs": 4006,
-      "endMs": 4422,
-      "timestampMs": 4006
+      "startMs": 12908,
+      "endMs": 13310,
+      "timestampMs": 12908
     },
     {
       "text": "private",
-      "startMs": 4422,
-      "endMs": 5004,
-      "timestampMs": 4422
+      "startMs": 13310,
+      "endMs": 13872,
+      "timestampMs": 13310
     },
     {
       "text": "orbital",
-      "startMs": 5004,
-      "endMs": 5586,
-      "timestampMs": 5004
+      "startMs": 13872,
+      "endMs": 14435,
+      "timestampMs": 13872
     },
     {
       "text": "crewed",
-      "startMs": 5586,
-      "endMs": 6084,
-      "timestampMs": 5586
+      "startMs": 14435,
+      "endMs": 14917,
+      "timestampMs": 14435
     },
     {
       "text": "spaceflight,",
-      "startMs": 6084,
-      "endMs": 7082,
-      "timestampMs": 6084
+      "startMs": 14917,
+      "endMs": 15881,
+      "timestampMs": 14917
     },
     {
       "text": "is",
-      "startMs": 7082,
-      "endMs": 7248,
-      "timestampMs": 7082
+      "startMs": 15881,
+      "endMs": 16042,
+      "timestampMs": 15881
     },
     {
       "text": "launched",
-      "startMs": 7248,
-      "endMs": 7913,
-      "timestampMs": 7248
+      "startMs": 16042,
+      "endMs": 16685,
+      "timestampMs": 16042
     },
     {
       "text": "from",
-      "startMs": 7913,
-      "endMs": 8245,
-      "timestampMs": 7913
+      "startMs": 16685,
+      "endMs": 17006,
+      "timestampMs": 16685
     },
     {
       "text": "the",
-      "startMs": 8245,
-      "endMs": 8495,
-      "timestampMs": 8245
+      "startMs": 17006,
+      "endMs": 17247,
+      "timestampMs": 17006
     },
     {
       "text": "Kennedy",
-      "startMs": 8495,
-      "endMs": 9076,
-      "timestampMs": 8495
+      "startMs": 17247,
+      "endMs": 17810,
+      "timestampMs": 17247
     },
     {
       "text": "Space",
-      "startMs": 9076,
-      "endMs": 9492,
-      "timestampMs": 9076
+      "startMs": 17810,
+      "endMs": 18211,
+      "timestampMs": 17810
     },
     {
       "text": "Center.",
-      "startMs": 9492,
-      "endMs": 10074,
-      "timestampMs": 9492
-    },
-    {
-      "text": "In",
-      "startMs": 10024,
-      "endMs": 10214,
-      "timestampMs": 10024
-    },
-    {
-      "text": "1996:",
-      "startMs": 10214,
-      "endMs": 10690,
-      "timestampMs": 10214
-    },
-    {
-      "text": "Space",
-      "startMs": 10690,
-      "endMs": 11167,
-      "timestampMs": 10690
-    },
-    {
-      "text": "Shuttle",
-      "startMs": 11167,
-      "endMs": 11833,
-      "timestampMs": 11167
-    },
-    {
-      "text": "Atlantis",
-      "startMs": 11833,
-      "endMs": 12595,
-      "timestampMs": 11833
-    },
-    {
-      "text": "is",
-      "startMs": 12595,
-      "endMs": 12786,
-      "timestampMs": 12595
-    },
-    {
-      "text": "launched",
-      "startMs": 12786,
-      "endMs": 13548,
-      "timestampMs": 12786
-    },
-    {
-      "text": "on",
-      "startMs": 13548,
-      "endMs": 13738,
-      "timestampMs": 13548
-    },
-    {
-      "text": "STS-79",
-      "startMs": 13738,
-      "endMs": 14310,
-      "timestampMs": 13738
-    },
-    {
-      "text": "to",
-      "startMs": 14310,
-      "endMs": 14500,
-      "timestampMs": 14310
-    },
-    {
-      "text": "dock",
-      "startMs": 14500,
-      "endMs": 14881,
-      "timestampMs": 14500
-    },
-    {
-      "text": "with",
-      "startMs": 14881,
-      "endMs": 15262,
-      "timestampMs": 14881
-    },
-    {
-      "text": "the",
-      "startMs": 15262,
-      "endMs": 15548,
-      "timestampMs": 15262
-    },
-    {
-      "text": "Russian",
-      "startMs": 15548,
-      "endMs": 16214,
-      "timestampMs": 15548
-    },
-    {
-      "text": "space",
-      "startMs": 16214,
-      "endMs": 16690,
-      "timestampMs": 16214
-    },
-    {
-      "text": "station",
-      "startMs": 16690,
-      "endMs": 17357,
-      "timestampMs": 16690
-    },
-    {
-      "text": "Mir.",
-      "startMs": 17357,
-      "endMs": 17738,
-      "timestampMs": 17357
+      "startMs": 18211,
+      "endMs": 18774,
+      "timestampMs": 18211
     },
     {
       "text": "And",
-      "startMs": 17738,
-      "endMs": 17979,
-      "timestampMs": 17738
+      "startMs": 18774,
+      "endMs": 19007,
+      "timestampMs": 18774
     },
     {
       "text": "in",
-      "startMs": 17979,
-      "endMs": 18139,
-      "timestampMs": 17979
+      "startMs": 19007,
+      "endMs": 19163,
+      "timestampMs": 19007
     },
     {
-      "text": "1961:",
-      "startMs": 18139,
-      "endMs": 18540,
-      "timestampMs": 18139
+      "text": "1982:",
+      "startMs": 19163,
+      "endMs": 19553,
+      "timestampMs": 19163
     },
     {
-      "text": "Pakistan",
-      "startMs": 18540,
-      "endMs": 19181,
-      "timestampMs": 18540
+      "text": "A",
+      "startMs": 19553,
+      "endMs": 19631,
+      "timestampMs": 19553
     },
     {
-      "text": "establishes",
-      "startMs": 19181,
-      "endMs": 20062,
-      "timestampMs": 19181
+      "text": "Lebanese",
+      "startMs": 19631,
+      "endMs": 20254,
+      "timestampMs": 19631
     },
     {
-      "text": "its",
-      "startMs": 20062,
-      "endMs": 20303,
-      "timestampMs": 20062
+      "text": "militia",
+      "startMs": 20254,
+      "endMs": 20799,
+      "timestampMs": 20254
     },
     {
-      "text": "Space",
-      "startMs": 20303,
-      "endMs": 20703,
-      "timestampMs": 20303
+      "text": "under",
+      "startMs": 20799,
+      "endMs": 21189,
+      "timestampMs": 20799
+    },
+    {
+      "text": "the",
+      "startMs": 21189,
+      "endMs": 21422,
+      "timestampMs": 21189
+    },
+    {
+      "text": "direct",
+      "startMs": 21422,
+      "endMs": 21890,
+      "timestampMs": 21422
+    },
+    {
+      "text": "command",
+      "startMs": 21890,
+      "endMs": 22435,
+      "timestampMs": 21890
+    },
+    {
+      "text": "of",
+      "startMs": 22435,
+      "endMs": 22591,
+      "timestampMs": 22435
+    },
+    {
+      "text": "Elie",
+      "startMs": 22591,
+      "endMs": 22902,
+      "timestampMs": 22591
+    },
+    {
+      "text": "Hobeika",
+      "startMs": 22902,
+      "endMs": 23447,
+      "timestampMs": 22902
+    },
+    {
+      "text": "carried",
+      "startMs": 23447,
+      "endMs": 23993,
+      "timestampMs": 23447
+    },
+    {
+      "text": "out",
+      "startMs": 23993,
+      "endMs": 24226,
+      "timestampMs": 23993
+    },
+    {
+      "text": "a",
+      "startMs": 24226,
+      "endMs": 24304,
+      "timestampMs": 24226
+    },
+    {
+      "text": "massacre",
+      "startMs": 24304,
+      "endMs": 24927,
+      "timestampMs": 24304
+    },
+    {
+      "text": "in",
+      "startMs": 24927,
+      "endMs": 25083,
+      "timestampMs": 24927
+    },
+    {
+      "text": "the",
+      "startMs": 25083,
+      "endMs": 25317,
+      "timestampMs": 25083
+    },
+    {
+      "text": "Palestinian",
+      "startMs": 25317,
+      "endMs": 26174,
+      "timestampMs": 25317
+    },
+    {
+      "text": "refugee",
+      "startMs": 26174,
+      "endMs": 26719,
+      "timestampMs": 26174
+    },
+    {
+      "text": "camp",
+      "startMs": 26719,
+      "endMs": 27031,
+      "timestampMs": 26719
+    },
+    {
+      "text": "of",
+      "startMs": 27031,
+      "endMs": 27186,
+      "timestampMs": 27031
+    },
+    {
+      "text": "Sabra",
+      "startMs": 27186,
+      "endMs": 27576,
+      "timestampMs": 27186
     },
     {
       "text": "and",
-      "startMs": 20703,
-      "endMs": 20944,
-      "timestampMs": 20703
+      "startMs": 27576,
+      "endMs": 27809,
+      "timestampMs": 27576
     },
     {
-      "text": "Upper",
-      "startMs": 20944,
-      "endMs": 21345,
-      "timestampMs": 20944
+      "text": "Shatila,",
+      "startMs": 27809,
+      "endMs": 28433,
+      "timestampMs": 27809
     },
     {
-      "text": "Atmosphere",
-      "startMs": 21345,
-      "endMs": 22146,
-      "timestampMs": 21345
+      "text": "killing",
+      "startMs": 28433,
+      "endMs": 28978,
+      "timestampMs": 28433
     },
     {
-      "text": "Research",
-      "startMs": 22146,
-      "endMs": 22787,
-      "timestampMs": 22146
+      "text": "at",
+      "startMs": 28978,
+      "endMs": 29134,
+      "timestampMs": 28978
     },
     {
-      "text": "Commission",
-      "startMs": 22787,
-      "endMs": 23588,
-      "timestampMs": 22787
+      "text": "least",
+      "startMs": 29134,
+      "endMs": 29523,
+      "timestampMs": 29134
     },
     {
-      "text": "with",
-      "startMs": 23588,
-      "endMs": 23909,
-      "timestampMs": 23588
+      "text": "460",
+      "startMs": 29523,
+      "endMs": 29757,
+      "timestampMs": 29523
     },
     {
-      "text": "Abdus",
-      "startMs": 23909,
-      "endMs": 24310,
-      "timestampMs": 23909
-    },
-    {
-      "text": "Salam",
-      "startMs": 24310,
-      "endMs": 24710,
-      "timestampMs": 24310
-    },
-    {
-      "text": "as",
-      "startMs": 24710,
-      "endMs": 24871,
-      "timestampMs": 24710
-    },
-    {
-      "text": "its",
-      "startMs": 24871,
-      "endMs": 25111,
-      "timestampMs": 24871
-    },
-    {
-      "text": "head.",
-      "startMs": 25111,
-      "endMs": 25512,
-      "timestampMs": 25111
+      "text": "civilians.",
+      "startMs": 29757,
+      "endMs": 30536,
+      "timestampMs": 29757
     }
   ]
 }

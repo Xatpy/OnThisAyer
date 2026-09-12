@@ -156,7 +156,7 @@ export function categorizeEvent(text, pages = []) {
   return { id: 'general', name: 'Hito Histórico', icon: '✨' };
 }
 
-export const SENSITIVE_CONTENT_REGEX = /\b(nude|nudity|naked|shirtless|topless|sensual|erotic|erotica|sexual|sexy|lingerie|underwear|bikini|swimsuit|playboy|penthouse|hustler|porn|pornograph|coitus|intercourse|kissing|genital|breasts|penis|vagina|fetish|bdsm|incest|adultery|rape|assault|child abuse|pedophil|prostitut)\b|u2_songs_of_innocence/i;
+export const SENSITIVE_CONTENT_REGEX = /\b(nude|nudity|naked|shirtless|topless|sensual|erotic|erotica|sexual|sexy|lingerie|underwear|bikini|swimsuit|playboy|penthouse|hustler|porn|pornograph|coitus|intercourse|kissing|genital|breasts|penis|vagina|fetish|bdsm|incest|adultery|rape|sexual assault|child abuse|pedophil|prostitut)\b|u2_songs_of_innocence/i;
 
 export function isSensitiveContent(text, images = []) {
   if (SENSITIVE_CONTENT_REGEX.test(text || '')) return true;

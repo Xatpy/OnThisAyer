@@ -1,484 +1,226 @@
 {
-  "text": "On this day, September 24th: In 2023: NASA's OSIRIS-REx capsule containing samples from the asteroid 101955 Bennu successfully lands back on Earth. In 2014: The Mars Orbiter Mission makes India the first Asian nation to reach Mars orbit, and the first nation in the world to do so in its first attempt. And in 1929: Jimmy Doolittle performs the first flight without a window, proving that full instrument flying from take off to landing is possible.",
+  "text": "On this day, September 24th: In 1964: The Warren Commission released its report to the U.S. In 2008: Thabo Mbeki resigns as president of South Africa. And in 1932: Mahatma Gandhi and B.",
   "voice": "en-US-ChristopherNeural",
-  "durationMs": 30821,
-  "durationSeconds": 30.821,
+  "durationMs": 16286,
+  "durationSeconds": 16.286,
   "sentences": [
     {
-      "text": "On this day, September 24th: In 2023: NASA's OSIRIS-REx capsule containing samples from the asteroid 101955 Bennu successfully lands back on Earth.",
+      "text": "On this day, September 24th: In 1964: The Warren Commission released its report to the U.S.",
       "startMs": 100,
-      "endMs": 12502,
-      "durationMs": 12402
+      "endMs": 7419,
+      "durationMs": 7319
     },
     {
-      "text": "In 2014: The Mars Orbiter Mission makes India the first Asian nation to reach Mars orbit, and the first nation in the world to do so in its first attempt.",
-      "startMs": 12452,
-      "endMs": 21917,
-      "durationMs": 9464
+      "text": "In 2008: Thabo Mbeki resigns as president of South Africa.",
+      "startMs": 7369,
+      "endMs": 12321,
+      "durationMs": 4952
     },
     {
-      "text": "And in 1929: Jimmy Doolittle performs the first flight without a window, proving that full instrument flying from take off to landing is possible.",
-      "startMs": 21917,
-      "endMs": 30821,
-      "durationMs": 8905
+      "text": "And in 1932: Mahatma Gandhi and B.",
+      "startMs": 12321,
+      "endMs": 16286,
+      "durationMs": 3964
     }
   ],
   "words": [
     {
       "text": "On",
       "startMs": 100,
-      "endMs": 297,
+      "endMs": 293,
       "timestampMs": 100
     },
     {
       "text": "this",
-      "startMs": 297,
-      "endMs": 691,
-      "timestampMs": 297
+      "startMs": 293,
+      "endMs": 678,
+      "timestampMs": 293
     },
     {
       "text": "day,",
-      "startMs": 691,
-      "endMs": 1084,
-      "timestampMs": 691
+      "startMs": 678,
+      "endMs": 1063,
+      "timestampMs": 678
     },
     {
       "text": "September",
-      "startMs": 1084,
-      "endMs": 1970,
-      "timestampMs": 1084
+      "startMs": 1063,
+      "endMs": 1930,
+      "timestampMs": 1063
     },
     {
       "text": "24th:",
-      "startMs": 1970,
-      "endMs": 2462,
-      "timestampMs": 1970
+      "startMs": 1930,
+      "endMs": 2411,
+      "timestampMs": 1930
     },
     {
       "text": "In",
-      "startMs": 2462,
-      "endMs": 2659,
-      "timestampMs": 2462
+      "startMs": 2411,
+      "endMs": 2604,
+      "timestampMs": 2411
     },
     {
-      "text": "2023:",
-      "startMs": 2659,
-      "endMs": 3151,
-      "timestampMs": 2659
-    },
-    {
-      "text": "NASA's",
-      "startMs": 3151,
-      "endMs": 3742,
-      "timestampMs": 3151
-    },
-    {
-      "text": "OSIRIS-REx",
-      "startMs": 3742,
-      "endMs": 4726,
-      "timestampMs": 3742
-    },
-    {
-      "text": "capsule",
-      "startMs": 4726,
-      "endMs": 5415,
-      "timestampMs": 4726
-    },
-    {
-      "text": "containing",
-      "startMs": 5415,
-      "endMs": 6400,
-      "timestampMs": 5415
-    },
-    {
-      "text": "samples",
-      "startMs": 6400,
-      "endMs": 7089,
-      "timestampMs": 6400
-    },
-    {
-      "text": "from",
-      "startMs": 7089,
-      "endMs": 7482,
-      "timestampMs": 7089
-    },
-    {
-      "text": "the",
-      "startMs": 7482,
-      "endMs": 7778,
-      "timestampMs": 7482
-    },
-    {
-      "text": "asteroid",
-      "startMs": 7778,
-      "endMs": 8565,
-      "timestampMs": 7778
-    },
-    {
-      "text": "101955",
-      "startMs": 8565,
-      "endMs": 9156,
-      "timestampMs": 8565
-    },
-    {
-      "text": "Bennu",
-      "startMs": 9156,
-      "endMs": 9648,
-      "timestampMs": 9156
-    },
-    {
-      "text": "successfully",
-      "startMs": 9648,
-      "endMs": 10829,
-      "timestampMs": 9648
-    },
-    {
-      "text": "lands",
-      "startMs": 10829,
-      "endMs": 11321,
-      "timestampMs": 10829
-    },
-    {
-      "text": "back",
-      "startMs": 11321,
-      "endMs": 11715,
-      "timestampMs": 11321
-    },
-    {
-      "text": "on",
-      "startMs": 11715,
-      "endMs": 11912,
-      "timestampMs": 11715
-    },
-    {
-      "text": "Earth.",
-      "startMs": 11912,
-      "endMs": 12502,
-      "timestampMs": 11912
-    },
-    {
-      "text": "In",
-      "startMs": 12452,
-      "endMs": 12604,
-      "timestampMs": 12452
-    },
-    {
-      "text": "2014:",
-      "startMs": 12604,
-      "endMs": 12982,
-      "timestampMs": 12604
+      "text": "1964:",
+      "startMs": 2604,
+      "endMs": 3085,
+      "timestampMs": 2604
     },
     {
       "text": "The",
-      "startMs": 12982,
-      "endMs": 13210,
-      "timestampMs": 12982
+      "startMs": 3085,
+      "endMs": 3374,
+      "timestampMs": 3085
     },
     {
-      "text": "Mars",
-      "startMs": 13210,
-      "endMs": 13512,
-      "timestampMs": 13210
+      "text": "Warren",
+      "startMs": 3374,
+      "endMs": 3952,
+      "timestampMs": 3374
     },
     {
-      "text": "Orbiter",
-      "startMs": 13512,
-      "endMs": 14042,
-      "timestampMs": 13512
+      "text": "Commission",
+      "startMs": 3952,
+      "endMs": 4915,
+      "timestampMs": 3952
     },
     {
-      "text": "Mission",
-      "startMs": 14042,
-      "endMs": 14572,
-      "timestampMs": 14042
-    },
-    {
-      "text": "makes",
-      "startMs": 14572,
-      "endMs": 14951,
-      "timestampMs": 14572
-    },
-    {
-      "text": "India",
-      "startMs": 14951,
-      "endMs": 15330,
-      "timestampMs": 14951
-    },
-    {
-      "text": "the",
-      "startMs": 15330,
-      "endMs": 15557,
-      "timestampMs": 15330
-    },
-    {
-      "text": "first",
-      "startMs": 15557,
-      "endMs": 15935,
-      "timestampMs": 15557
-    },
-    {
-      "text": "Asian",
-      "startMs": 15935,
-      "endMs": 16314,
-      "timestampMs": 15935
-    },
-    {
-      "text": "nation",
-      "startMs": 16314,
-      "endMs": 16768,
-      "timestampMs": 16314
-    },
-    {
-      "text": "to",
-      "startMs": 16768,
-      "endMs": 16920,
-      "timestampMs": 16768
-    },
-    {
-      "text": "reach",
-      "startMs": 16920,
-      "endMs": 17298,
-      "timestampMs": 16920
-    },
-    {
-      "text": "Mars",
-      "startMs": 17298,
-      "endMs": 17601,
-      "timestampMs": 17298
-    },
-    {
-      "text": "orbit,",
-      "startMs": 17601,
-      "endMs": 18055,
-      "timestampMs": 17601
-    },
-    {
-      "text": "and",
-      "startMs": 18055,
-      "endMs": 18282,
-      "timestampMs": 18055
-    },
-    {
-      "text": "the",
-      "startMs": 18282,
-      "endMs": 18510,
-      "timestampMs": 18282
-    },
-    {
-      "text": "first",
-      "startMs": 18510,
-      "endMs": 18888,
-      "timestampMs": 18510
-    },
-    {
-      "text": "nation",
-      "startMs": 18888,
-      "endMs": 19342,
-      "timestampMs": 18888
-    },
-    {
-      "text": "in",
-      "startMs": 19342,
-      "endMs": 19494,
-      "timestampMs": 19342
-    },
-    {
-      "text": "the",
-      "startMs": 19494,
-      "endMs": 19721,
-      "timestampMs": 19494
-    },
-    {
-      "text": "world",
-      "startMs": 19721,
-      "endMs": 20100,
-      "timestampMs": 19721
-    },
-    {
-      "text": "to",
-      "startMs": 20100,
-      "endMs": 20251,
-      "timestampMs": 20100
-    },
-    {
-      "text": "do",
-      "startMs": 20251,
-      "endMs": 20402,
-      "timestampMs": 20251
-    },
-    {
-      "text": "so",
-      "startMs": 20402,
-      "endMs": 20554,
-      "timestampMs": 20402
-    },
-    {
-      "text": "in",
-      "startMs": 20554,
-      "endMs": 20705,
-      "timestampMs": 20554
+      "text": "released",
+      "startMs": 4915,
+      "endMs": 5686,
+      "timestampMs": 4915
     },
     {
       "text": "its",
-      "startMs": 20705,
-      "endMs": 20932,
-      "timestampMs": 20705
+      "startMs": 5686,
+      "endMs": 5974,
+      "timestampMs": 5686
     },
     {
-      "text": "first",
-      "startMs": 20932,
-      "endMs": 21311,
-      "timestampMs": 20932
-    },
-    {
-      "text": "attempt.",
-      "startMs": 21311,
-      "endMs": 21917,
-      "timestampMs": 21311
-    },
-    {
-      "text": "And",
-      "startMs": 21917,
-      "endMs": 22134,
-      "timestampMs": 21917
-    },
-    {
-      "text": "in",
-      "startMs": 22134,
-      "endMs": 22279,
-      "timestampMs": 22134
-    },
-    {
-      "text": "1929:",
-      "startMs": 22279,
-      "endMs": 22641,
-      "timestampMs": 22279
-    },
-    {
-      "text": "Jimmy",
-      "startMs": 22641,
-      "endMs": 23003,
-      "timestampMs": 22641
-    },
-    {
-      "text": "Doolittle",
-      "startMs": 23003,
-      "endMs": 23654,
-      "timestampMs": 23003
-    },
-    {
-      "text": "performs",
-      "startMs": 23654,
-      "endMs": 24233,
-      "timestampMs": 23654
-    },
-    {
-      "text": "the",
-      "startMs": 24233,
-      "endMs": 24451,
-      "timestampMs": 24233
-    },
-    {
-      "text": "first",
-      "startMs": 24451,
-      "endMs": 24813,
-      "timestampMs": 24451
-    },
-    {
-      "text": "flight",
-      "startMs": 24813,
-      "endMs": 25247,
-      "timestampMs": 24813
-    },
-    {
-      "text": "without",
-      "startMs": 25247,
-      "endMs": 25754,
-      "timestampMs": 25247
-    },
-    {
-      "text": "a",
-      "startMs": 25754,
-      "endMs": 25826,
-      "timestampMs": 25754
-    },
-    {
-      "text": "window,",
-      "startMs": 25826,
-      "endMs": 26333,
-      "timestampMs": 25826
-    },
-    {
-      "text": "proving",
-      "startMs": 26333,
-      "endMs": 26840,
-      "timestampMs": 26333
-    },
-    {
-      "text": "that",
-      "startMs": 26840,
-      "endMs": 27129,
-      "timestampMs": 26840
-    },
-    {
-      "text": "full",
-      "startMs": 27129,
-      "endMs": 27419,
-      "timestampMs": 27129
-    },
-    {
-      "text": "instrument",
-      "startMs": 27419,
-      "endMs": 28143,
-      "timestampMs": 27419
-    },
-    {
-      "text": "flying",
-      "startMs": 28143,
-      "endMs": 28577,
-      "timestampMs": 28143
-    },
-    {
-      "text": "from",
-      "startMs": 28577,
-      "endMs": 28867,
-      "timestampMs": 28577
-    },
-    {
-      "text": "take",
-      "startMs": 28867,
-      "endMs": 29156,
-      "timestampMs": 28867
-    },
-    {
-      "text": "off",
-      "startMs": 29156,
-      "endMs": 29374,
-      "timestampMs": 29156
+      "text": "report",
+      "startMs": 5974,
+      "endMs": 6552,
+      "timestampMs": 5974
     },
     {
       "text": "to",
-      "startMs": 29374,
-      "endMs": 29518,
-      "timestampMs": 29374
+      "startMs": 6552,
+      "endMs": 6745,
+      "timestampMs": 6552
     },
     {
-      "text": "landing",
-      "startMs": 29518,
-      "endMs": 30025,
-      "timestampMs": 29518
+      "text": "the",
+      "startMs": 6745,
+      "endMs": 7034,
+      "timestampMs": 6745
     },
     {
-      "text": "is",
-      "startMs": 30025,
-      "endMs": 30170,
-      "timestampMs": 30025
+      "text": "U.S.",
+      "startMs": 7034,
+      "endMs": 7419,
+      "timestampMs": 7034
     },
     {
-      "text": "possible.",
-      "startMs": 30170,
-      "endMs": 30821,
-      "timestampMs": 30170
+      "text": "In",
+      "startMs": 7369,
+      "endMs": 7571,
+      "timestampMs": 7369
+    },
+    {
+      "text": "2008:",
+      "startMs": 7571,
+      "endMs": 8077,
+      "timestampMs": 7571
+    },
+    {
+      "text": "Thabo",
+      "startMs": 8077,
+      "endMs": 8582,
+      "timestampMs": 8077
+    },
+    {
+      "text": "Mbeki",
+      "startMs": 8582,
+      "endMs": 9087,
+      "timestampMs": 8582
+    },
+    {
+      "text": "resigns",
+      "startMs": 9087,
+      "endMs": 9795,
+      "timestampMs": 9087
+    },
+    {
+      "text": "as",
+      "startMs": 9795,
+      "endMs": 9997,
+      "timestampMs": 9795
+    },
+    {
+      "text": "president",
+      "startMs": 9997,
+      "endMs": 10906,
+      "timestampMs": 9997
+    },
+    {
+      "text": "of",
+      "startMs": 10906,
+      "endMs": 11109,
+      "timestampMs": 10906
+    },
+    {
+      "text": "South",
+      "startMs": 11109,
+      "endMs": 11614,
+      "timestampMs": 11109
+    },
+    {
+      "text": "Africa.",
+      "startMs": 11614,
+      "endMs": 12321,
+      "timestampMs": 11614
+    },
+    {
+      "text": "And",
+      "startMs": 12321,
+      "endMs": 12746,
+      "timestampMs": 12321
+    },
+    {
+      "text": "in",
+      "startMs": 12746,
+      "endMs": 13029,
+      "timestampMs": 12746
+    },
+    {
+      "text": "1932:",
+      "startMs": 13029,
+      "endMs": 13737,
+      "timestampMs": 13029
+    },
+    {
+      "text": "Mahatma",
+      "startMs": 13737,
+      "endMs": 14728,
+      "timestampMs": 13737
+    },
+    {
+      "text": "Gandhi",
+      "startMs": 14728,
+      "endMs": 15578,
+      "timestampMs": 14728
+    },
+    {
+      "text": "and",
+      "startMs": 15578,
+      "endMs": 16003,
+      "timestampMs": 15578
+    },
+    {
+      "text": "B.",
+      "startMs": 16003,
+      "endMs": 16286,
+      "timestampMs": 16003
     }
   ]
 }

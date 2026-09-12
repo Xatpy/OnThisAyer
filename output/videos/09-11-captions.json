@@ -1,568 +1,580 @@
 {
-  "text": "On this day, September 11th: In 2011: A dedication ceremony is held at the United States National September 11 Memorial on the 10th anniversary of the September 11 attacks in New York City, and the memorial opens to family members. In 2025: Former Brazilian president Jair Bolsonaro was sentenced to 27 years in prison for his involvement in a coup plot. And in 1995: Mir EO-19, the first expedition to the Russian space station Mir launched on an American Space Shuttle, returned to Earth after approximately 75 days in space.",
+  "text": "On this day, September 11th: In 2001: al-Qaeda hijacked four passenger airliners to carry out a series of terrorist attacks against targets in New York City and the area of Washington, D.C., killing 2,977 people. In 2011: A dedication ceremony is held at the United States National September 11 Memorial on the 10th anniversary of the September 11 attacks in New York City, and the memorial opens to family members. And in 2025: Former Brazilian president Jair Bolsonaro was sentenced to 27 years in prison for his involvement in a coup plot.",
   "voice": "en-US-ChristopherNeural",
-  "durationMs": 34988,
-  "durationSeconds": 34.988,
+  "durationMs": 35393,
+  "durationSeconds": 35.393,
   "sentences": [
     {
-      "text": "On this day, September 11th: In 2011: A dedication ceremony is held at the United States National September 11 Memorial on the 10th anniversary of the September 11 attacks in New York City, and the memorial opens to family members.",
+      "text": "On this day, September 11th: In 2001: al-Qaeda hijacked four passenger airliners to carry out a series of terrorist attacks against targets in New York City and the area of Washington, D.C., killing 2,977 people.",
       "startMs": 100,
-      "endMs": 14514,
-      "durationMs": 14414
+      "endMs": 14693,
+      "durationMs": 14593
     },
     {
-      "text": "In 2025: Former Brazilian president Jair Bolsonaro was sentenced to 27 years in prison for his involvement in a coup plot.",
-      "startMs": 14464,
-      "endMs": 22917,
-      "durationMs": 8452
+      "text": "In 2011: A dedication ceremony is held at the United States National September 11 Memorial on the 10th anniversary of the September 11 attacks in New York City, and the memorial opens to family members.",
+      "startMs": 14643,
+      "endMs": 26810,
+      "durationMs": 12167
     },
     {
-      "text": "And in 1995: Mir EO-19, the first expedition to the Russian space station Mir launched on an American Space Shuttle, returned to Earth after approximately 75 days in space.",
-      "startMs": 22917,
-      "endMs": 34988,
-      "durationMs": 12071
+      "text": "And in 2025: Former Brazilian president Jair Bolsonaro was sentenced to 27 years in prison for his involvement in a coup plot.",
+      "startMs": 26810,
+      "endMs": 35393,
+      "durationMs": 8583
     }
   ],
   "words": [
     {
       "text": "On",
       "startMs": 100,
-      "endMs": 250,
+      "endMs": 264,
       "timestampMs": 100
     },
     {
       "text": "this",
-      "startMs": 250,
-      "endMs": 550,
-      "timestampMs": 250
+      "startMs": 264,
+      "endMs": 592,
+      "timestampMs": 264
     },
     {
       "text": "day,",
-      "startMs": 550,
-      "endMs": 851,
-      "timestampMs": 550
+      "startMs": 592,
+      "endMs": 920,
+      "timestampMs": 592
     },
     {
       "text": "September",
-      "startMs": 851,
-      "endMs": 1526,
-      "timestampMs": 851
+      "startMs": 920,
+      "endMs": 1658,
+      "timestampMs": 920
     },
     {
       "text": "11th:",
-      "startMs": 1526,
-      "endMs": 1902,
-      "timestampMs": 1526
+      "startMs": 1658,
+      "endMs": 2068,
+      "timestampMs": 1658
     },
     {
       "text": "In",
-      "startMs": 1902,
-      "endMs": 2052,
-      "timestampMs": 1902
+      "startMs": 2068,
+      "endMs": 2232,
+      "timestampMs": 2068
     },
     {
-      "text": "2011:",
-      "startMs": 2052,
-      "endMs": 2427,
-      "timestampMs": 2052
+      "text": "2001:",
+      "startMs": 2232,
+      "endMs": 2641,
+      "timestampMs": 2232
     },
     {
-      "text": "A",
-      "startMs": 2427,
-      "endMs": 2502,
-      "timestampMs": 2427
+      "text": "al-Qaeda",
+      "startMs": 2641,
+      "endMs": 3297,
+      "timestampMs": 2641
     },
     {
-      "text": "dedication",
-      "startMs": 2502,
-      "endMs": 3253,
-      "timestampMs": 2502
+      "text": "hijacked",
+      "startMs": 3297,
+      "endMs": 3953,
+      "timestampMs": 3297
     },
     {
-      "text": "ceremony",
-      "startMs": 3253,
-      "endMs": 3854,
-      "timestampMs": 3253
+      "text": "four",
+      "startMs": 3953,
+      "endMs": 4281,
+      "timestampMs": 3953
     },
     {
-      "text": "is",
-      "startMs": 3854,
-      "endMs": 4004,
-      "timestampMs": 3854
+      "text": "passenger",
+      "startMs": 4281,
+      "endMs": 5019,
+      "timestampMs": 4281
     },
     {
-      "text": "held",
-      "startMs": 4004,
-      "endMs": 4304,
-      "timestampMs": 4004
-    },
-    {
-      "text": "at",
-      "startMs": 4304,
-      "endMs": 4454,
-      "timestampMs": 4304
-    },
-    {
-      "text": "the",
-      "startMs": 4454,
-      "endMs": 4680,
-      "timestampMs": 4454
-    },
-    {
-      "text": "United",
-      "startMs": 4680,
-      "endMs": 5130,
-      "timestampMs": 4680
-    },
-    {
-      "text": "States",
-      "startMs": 5130,
-      "endMs": 5580,
-      "timestampMs": 5130
-    },
-    {
-      "text": "National",
-      "startMs": 5580,
-      "endMs": 6181,
-      "timestampMs": 5580
-    },
-    {
-      "text": "September",
-      "startMs": 6181,
-      "endMs": 6857,
-      "timestampMs": 6181
-    },
-    {
-      "text": "11",
-      "startMs": 6857,
-      "endMs": 7007,
-      "timestampMs": 6857
-    },
-    {
-      "text": "Memorial",
-      "startMs": 7007,
-      "endMs": 7607,
-      "timestampMs": 7007
-    },
-    {
-      "text": "on",
-      "startMs": 7607,
-      "endMs": 7758,
-      "timestampMs": 7607
-    },
-    {
-      "text": "the",
-      "startMs": 7758,
-      "endMs": 7983,
-      "timestampMs": 7758
-    },
-    {
-      "text": "10th",
-      "startMs": 7983,
-      "endMs": 8283,
-      "timestampMs": 7983
-    },
-    {
-      "text": "anniversary",
-      "startMs": 8283,
-      "endMs": 9109,
-      "timestampMs": 8283
-    },
-    {
-      "text": "of",
-      "startMs": 9109,
-      "endMs": 9259,
-      "timestampMs": 9109
-    },
-    {
-      "text": "the",
-      "startMs": 9259,
-      "endMs": 9484,
-      "timestampMs": 9259
-    },
-    {
-      "text": "September",
-      "startMs": 9484,
-      "endMs": 10160,
-      "timestampMs": 9484
-    },
-    {
-      "text": "11",
-      "startMs": 10160,
-      "endMs": 10310,
-      "timestampMs": 10160
-    },
-    {
-      "text": "attacks",
-      "startMs": 10310,
-      "endMs": 10836,
-      "timestampMs": 10310
-    },
-    {
-      "text": "in",
-      "startMs": 10836,
-      "endMs": 10986,
-      "timestampMs": 10836
-    },
-    {
-      "text": "New",
-      "startMs": 10986,
-      "endMs": 11211,
-      "timestampMs": 10986
-    },
-    {
-      "text": "York",
-      "startMs": 11211,
-      "endMs": 11511,
-      "timestampMs": 11211
-    },
-    {
-      "text": "City,",
-      "startMs": 11511,
-      "endMs": 11887,
-      "timestampMs": 11511
-    },
-    {
-      "text": "and",
-      "startMs": 11887,
-      "endMs": 12112,
-      "timestampMs": 11887
-    },
-    {
-      "text": "the",
-      "startMs": 12112,
-      "endMs": 12337,
-      "timestampMs": 12112
-    },
-    {
-      "text": "memorial",
-      "startMs": 12337,
-      "endMs": 12938,
-      "timestampMs": 12337
-    },
-    {
-      "text": "opens",
-      "startMs": 12938,
-      "endMs": 13313,
-      "timestampMs": 12938
+      "text": "airliners",
+      "startMs": 5019,
+      "endMs": 5757,
+      "timestampMs": 5019
     },
     {
       "text": "to",
-      "startMs": 13313,
-      "endMs": 13463,
-      "timestampMs": 13313
+      "startMs": 5757,
+      "endMs": 5921,
+      "timestampMs": 5757
     },
     {
-      "text": "family",
-      "startMs": 13463,
-      "endMs": 13914,
-      "timestampMs": 13463
+      "text": "carry",
+      "startMs": 5921,
+      "endMs": 6331,
+      "timestampMs": 5921
     },
     {
-      "text": "members.",
-      "startMs": 13914,
-      "endMs": 14514,
-      "timestampMs": 13914
-    },
-    {
-      "text": "In",
-      "startMs": 14464,
-      "endMs": 14630,
-      "timestampMs": 14464
-    },
-    {
-      "text": "2025:",
-      "startMs": 14630,
-      "endMs": 15044,
-      "timestampMs": 14630
-    },
-    {
-      "text": "Former",
-      "startMs": 15044,
-      "endMs": 15542,
-      "timestampMs": 15044
-    },
-    {
-      "text": "Brazilian",
-      "startMs": 15542,
-      "endMs": 16287,
-      "timestampMs": 15542
-    },
-    {
-      "text": "president",
-      "startMs": 16287,
-      "endMs": 17033,
-      "timestampMs": 16287
-    },
-    {
-      "text": "Jair",
-      "startMs": 17033,
-      "endMs": 17365,
-      "timestampMs": 17033
-    },
-    {
-      "text": "Bolsonaro",
-      "startMs": 17365,
-      "endMs": 18110,
-      "timestampMs": 17365
-    },
-    {
-      "text": "was",
-      "startMs": 18110,
-      "endMs": 18359,
-      "timestampMs": 18110
-    },
-    {
-      "text": "sentenced",
-      "startMs": 18359,
-      "endMs": 19105,
-      "timestampMs": 18359
-    },
-    {
-      "text": "to",
-      "startMs": 19105,
-      "endMs": 19271,
-      "timestampMs": 19105
-    },
-    {
-      "text": "27",
-      "startMs": 19271,
-      "endMs": 19436,
-      "timestampMs": 19271
-    },
-    {
-      "text": "years",
-      "startMs": 19436,
-      "endMs": 19851,
-      "timestampMs": 19436
-    },
-    {
-      "text": "in",
-      "startMs": 19851,
-      "endMs": 20016,
-      "timestampMs": 19851
-    },
-    {
-      "text": "prison",
-      "startMs": 20016,
-      "endMs": 20514,
-      "timestampMs": 20016
-    },
-    {
-      "text": "for",
-      "startMs": 20514,
-      "endMs": 20762,
-      "timestampMs": 20514
-    },
-    {
-      "text": "his",
-      "startMs": 20762,
-      "endMs": 21011,
-      "timestampMs": 20762
-    },
-    {
-      "text": "involvement",
-      "startMs": 21011,
-      "endMs": 21922,
-      "timestampMs": 21011
-    },
-    {
-      "text": "in",
-      "startMs": 21922,
-      "endMs": 22088,
-      "timestampMs": 21922
+      "text": "out",
+      "startMs": 6331,
+      "endMs": 6577,
+      "timestampMs": 6331
     },
     {
       "text": "a",
-      "startMs": 22088,
-      "endMs": 22171,
-      "timestampMs": 22088
+      "startMs": 6577,
+      "endMs": 6659,
+      "timestampMs": 6577
     },
     {
-      "text": "coup",
-      "startMs": 22171,
-      "endMs": 22502,
-      "timestampMs": 22171
+      "text": "series",
+      "startMs": 6659,
+      "endMs": 7150,
+      "timestampMs": 6659
     },
     {
-      "text": "plot.",
-      "startMs": 22502,
-      "endMs": 22917,
-      "timestampMs": 22502
+      "text": "of",
+      "startMs": 7150,
+      "endMs": 7314,
+      "timestampMs": 7150
     },
     {
-      "text": "And",
-      "startMs": 22917,
-      "endMs": 23168,
-      "timestampMs": 22917
+      "text": "terrorist",
+      "startMs": 7314,
+      "endMs": 8052,
+      "timestampMs": 7314
+    },
+    {
+      "text": "attacks",
+      "startMs": 8052,
+      "endMs": 8626,
+      "timestampMs": 8052
+    },
+    {
+      "text": "against",
+      "startMs": 8626,
+      "endMs": 9200,
+      "timestampMs": 8626
+    },
+    {
+      "text": "targets",
+      "startMs": 9200,
+      "endMs": 9774,
+      "timestampMs": 9200
     },
     {
       "text": "in",
-      "startMs": 23168,
-      "endMs": 23336,
-      "timestampMs": 23168
+      "startMs": 9774,
+      "endMs": 9938,
+      "timestampMs": 9774
     },
     {
-      "text": "1995:",
-      "startMs": 23336,
-      "endMs": 23755,
-      "timestampMs": 23336
+      "text": "New",
+      "startMs": 9938,
+      "endMs": 10184,
+      "timestampMs": 9938
     },
     {
-      "text": "Mir",
-      "startMs": 23755,
-      "endMs": 24006,
-      "timestampMs": 23755
+      "text": "York",
+      "startMs": 10184,
+      "endMs": 10512,
+      "timestampMs": 10184
     },
     {
-      "text": "EO-19,",
-      "startMs": 24006,
-      "endMs": 24509,
-      "timestampMs": 24006
+      "text": "City",
+      "startMs": 10512,
+      "endMs": 10840,
+      "timestampMs": 10512
     },
     {
-      "text": "the",
-      "startMs": 24509,
-      "endMs": 24761,
-      "timestampMs": 24509
-    },
-    {
-      "text": "first",
-      "startMs": 24761,
-      "endMs": 25180,
-      "timestampMs": 24761
-    },
-    {
-      "text": "expedition",
-      "startMs": 25180,
-      "endMs": 26018,
-      "timestampMs": 25180
-    },
-    {
-      "text": "to",
-      "startMs": 26018,
-      "endMs": 26186,
-      "timestampMs": 26018
+      "text": "and",
+      "startMs": 10840,
+      "endMs": 11086,
+      "timestampMs": 10840
     },
     {
       "text": "the",
-      "startMs": 26186,
-      "endMs": 26438,
-      "timestampMs": 26186
+      "startMs": 11086,
+      "endMs": 11332,
+      "timestampMs": 11086
     },
     {
-      "text": "Russian",
-      "startMs": 26438,
-      "endMs": 27024,
-      "timestampMs": 26438
+      "text": "area",
+      "startMs": 11332,
+      "endMs": 11660,
+      "timestampMs": 11332
     },
     {
-      "text": "space",
-      "startMs": 27024,
-      "endMs": 27443,
-      "timestampMs": 27024
+      "text": "of",
+      "startMs": 11660,
+      "endMs": 11823,
+      "timestampMs": 11660
     },
     {
-      "text": "station",
-      "startMs": 27443,
-      "endMs": 28030,
-      "timestampMs": 27443
+      "text": "Washington,",
+      "startMs": 11823,
+      "endMs": 12725,
+      "timestampMs": 11823
     },
     {
-      "text": "Mir",
-      "startMs": 28030,
-      "endMs": 28282,
-      "timestampMs": 28030
+      "text": "D.C.,",
+      "startMs": 12725,
+      "endMs": 13135,
+      "timestampMs": 12725
     },
     {
-      "text": "launched",
-      "startMs": 28282,
-      "endMs": 28952,
-      "timestampMs": 28282
+      "text": "killing",
+      "startMs": 13135,
+      "endMs": 13709,
+      "timestampMs": 13135
+    },
+    {
+      "text": "2,977",
+      "startMs": 13709,
+      "endMs": 14119,
+      "timestampMs": 13709
+    },
+    {
+      "text": "people.",
+      "startMs": 14119,
+      "endMs": 14693,
+      "timestampMs": 14119
+    },
+    {
+      "text": "In",
+      "startMs": 14643,
+      "endMs": 14788,
+      "timestampMs": 14643
+    },
+    {
+      "text": "2011:",
+      "startMs": 14788,
+      "endMs": 15150,
+      "timestampMs": 14788
+    },
+    {
+      "text": "A",
+      "startMs": 15150,
+      "endMs": 15222,
+      "timestampMs": 15150
+    },
+    {
+      "text": "dedication",
+      "startMs": 15222,
+      "endMs": 15946,
+      "timestampMs": 15222
+    },
+    {
+      "text": "ceremony",
+      "startMs": 15946,
+      "endMs": 16526,
+      "timestampMs": 15946
+    },
+    {
+      "text": "is",
+      "startMs": 16526,
+      "endMs": 16671,
+      "timestampMs": 16526
+    },
+    {
+      "text": "held",
+      "startMs": 16671,
+      "endMs": 16960,
+      "timestampMs": 16671
+    },
+    {
+      "text": "at",
+      "startMs": 16960,
+      "endMs": 17105,
+      "timestampMs": 16960
+    },
+    {
+      "text": "the",
+      "startMs": 17105,
+      "endMs": 17322,
+      "timestampMs": 17105
+    },
+    {
+      "text": "United",
+      "startMs": 17322,
+      "endMs": 17757,
+      "timestampMs": 17322
+    },
+    {
+      "text": "States",
+      "startMs": 17757,
+      "endMs": 18191,
+      "timestampMs": 17757
+    },
+    {
+      "text": "National",
+      "startMs": 18191,
+      "endMs": 18771,
+      "timestampMs": 18191
+    },
+    {
+      "text": "September",
+      "startMs": 18771,
+      "endMs": 19423,
+      "timestampMs": 18771
+    },
+    {
+      "text": "11",
+      "startMs": 19423,
+      "endMs": 19567,
+      "timestampMs": 19423
+    },
+    {
+      "text": "Memorial",
+      "startMs": 19567,
+      "endMs": 20147,
+      "timestampMs": 19567
     },
     {
       "text": "on",
-      "startMs": 28952,
-      "endMs": 29120,
-      "timestampMs": 28952
+      "startMs": 20147,
+      "endMs": 20292,
+      "timestampMs": 20147
     },
     {
-      "text": "an",
-      "startMs": 29120,
-      "endMs": 29288,
-      "timestampMs": 29120
+      "text": "the",
+      "startMs": 20292,
+      "endMs": 20509,
+      "timestampMs": 20292
     },
     {
-      "text": "American",
-      "startMs": 29288,
-      "endMs": 29958,
-      "timestampMs": 29288
+      "text": "10th",
+      "startMs": 20509,
+      "endMs": 20799,
+      "timestampMs": 20509
     },
     {
-      "text": "Space",
-      "startMs": 29958,
-      "endMs": 30377,
-      "timestampMs": 29958
+      "text": "anniversary",
+      "startMs": 20799,
+      "endMs": 21595,
+      "timestampMs": 20799
     },
     {
-      "text": "Shuttle,",
-      "startMs": 30377,
-      "endMs": 31048,
-      "timestampMs": 30377
+      "text": "of",
+      "startMs": 21595,
+      "endMs": 21740,
+      "timestampMs": 21595
     },
     {
-      "text": "returned",
-      "startMs": 31048,
-      "endMs": 31719,
-      "timestampMs": 31048
+      "text": "the",
+      "startMs": 21740,
+      "endMs": 21957,
+      "timestampMs": 21740
     },
     {
-      "text": "to",
-      "startMs": 31719,
-      "endMs": 31886,
-      "timestampMs": 31719
+      "text": "September",
+      "startMs": 21957,
+      "endMs": 22609,
+      "timestampMs": 21957
     },
     {
-      "text": "Earth",
-      "startMs": 31886,
-      "endMs": 32306,
-      "timestampMs": 31886
+      "text": "11",
+      "startMs": 22609,
+      "endMs": 22754,
+      "timestampMs": 22609
     },
     {
-      "text": "after",
-      "startMs": 32306,
-      "endMs": 32725,
-      "timestampMs": 32306
-    },
-    {
-      "text": "approximately",
-      "startMs": 32725,
-      "endMs": 33814,
-      "timestampMs": 32725
-    },
-    {
-      "text": "75",
-      "startMs": 33814,
-      "endMs": 33982,
-      "timestampMs": 33814
-    },
-    {
-      "text": "days",
-      "startMs": 33982,
-      "endMs": 34317,
-      "timestampMs": 33982
+      "text": "attacks",
+      "startMs": 22754,
+      "endMs": 23261,
+      "timestampMs": 22754
     },
     {
       "text": "in",
-      "startMs": 34317,
-      "endMs": 34485,
-      "timestampMs": 34317
+      "startMs": 23261,
+      "endMs": 23406,
+      "timestampMs": 23261
     },
     {
-      "text": "space.",
-      "startMs": 34485,
-      "endMs": 34988,
-      "timestampMs": 34485
+      "text": "New",
+      "startMs": 23406,
+      "endMs": 23623,
+      "timestampMs": 23406
+    },
+    {
+      "text": "York",
+      "startMs": 23623,
+      "endMs": 23913,
+      "timestampMs": 23623
+    },
+    {
+      "text": "City,",
+      "startMs": 23913,
+      "endMs": 24275,
+      "timestampMs": 23913
+    },
+    {
+      "text": "and",
+      "startMs": 24275,
+      "endMs": 24492,
+      "timestampMs": 24275
+    },
+    {
+      "text": "the",
+      "startMs": 24492,
+      "endMs": 24709,
+      "timestampMs": 24492
+    },
+    {
+      "text": "memorial",
+      "startMs": 24709,
+      "endMs": 25289,
+      "timestampMs": 24709
+    },
+    {
+      "text": "opens",
+      "startMs": 25289,
+      "endMs": 25651,
+      "timestampMs": 25289
+    },
+    {
+      "text": "to",
+      "startMs": 25651,
+      "endMs": 25796,
+      "timestampMs": 25651
+    },
+    {
+      "text": "family",
+      "startMs": 25796,
+      "endMs": 26230,
+      "timestampMs": 25796
+    },
+    {
+      "text": "members.",
+      "startMs": 26230,
+      "endMs": 26810,
+      "timestampMs": 26230
+    },
+    {
+      "text": "And",
+      "startMs": 26810,
+      "endMs": 27055,
+      "timestampMs": 26810
+    },
+    {
+      "text": "in",
+      "startMs": 27055,
+      "endMs": 27218,
+      "timestampMs": 27055
+    },
+    {
+      "text": "2025:",
+      "startMs": 27218,
+      "endMs": 27627,
+      "timestampMs": 27218
+    },
+    {
+      "text": "Former",
+      "startMs": 27627,
+      "endMs": 28117,
+      "timestampMs": 27627
+    },
+    {
+      "text": "Brazilian",
+      "startMs": 28117,
+      "endMs": 28853,
+      "timestampMs": 28117
+    },
+    {
+      "text": "president",
+      "startMs": 28853,
+      "endMs": 29589,
+      "timestampMs": 28853
+    },
+    {
+      "text": "Jair",
+      "startMs": 29589,
+      "endMs": 29916,
+      "timestampMs": 29589
+    },
+    {
+      "text": "Bolsonaro",
+      "startMs": 29916,
+      "endMs": 30652,
+      "timestampMs": 29916
+    },
+    {
+      "text": "was",
+      "startMs": 30652,
+      "endMs": 30897,
+      "timestampMs": 30652
+    },
+    {
+      "text": "sentenced",
+      "startMs": 30897,
+      "endMs": 31633,
+      "timestampMs": 30897
+    },
+    {
+      "text": "to",
+      "startMs": 31633,
+      "endMs": 31796,
+      "timestampMs": 31633
+    },
+    {
+      "text": "27",
+      "startMs": 31796,
+      "endMs": 31960,
+      "timestampMs": 31796
+    },
+    {
+      "text": "years",
+      "startMs": 31960,
+      "endMs": 32368,
+      "timestampMs": 31960
+    },
+    {
+      "text": "in",
+      "startMs": 32368,
+      "endMs": 32532,
+      "timestampMs": 32368
+    },
+    {
+      "text": "prison",
+      "startMs": 32532,
+      "endMs": 33022,
+      "timestampMs": 32532
+    },
+    {
+      "text": "for",
+      "startMs": 33022,
+      "endMs": 33267,
+      "timestampMs": 33022
+    },
+    {
+      "text": "his",
+      "startMs": 33267,
+      "endMs": 33513,
+      "timestampMs": 33267
+    },
+    {
+      "text": "involvement",
+      "startMs": 33513,
+      "endMs": 34412,
+      "timestampMs": 33513
+    },
+    {
+      "text": "in",
+      "startMs": 34412,
+      "endMs": 34575,
+      "timestampMs": 34412
+    },
+    {
+      "text": "a",
+      "startMs": 34575,
+      "endMs": 34657,
+      "timestampMs": 34575
+    },
+    {
+      "text": "coup",
+      "startMs": 34657,
+      "endMs": 34984,
+      "timestampMs": 34657
+    },
+    {
+      "text": "plot.",
+      "startMs": 34984,
+      "endMs": 35393,
+      "timestampMs": 34984
     }
   ]
 }

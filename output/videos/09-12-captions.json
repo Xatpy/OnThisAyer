@@ -1,274 +1,430 @@
 {
-  "text": "On this day, September 12th: In 2013: NASA confirms that its Voyager 1 probe has become the first manmade object to enter interstellar space. In 2003: Iraq War: In Fallujah, U.S. And in 1993: NASA launches Space Shuttle Discovery on STS-51.",
+  "text": "On this day, September 12th: In 1962: In a speech at Rice Stadium in Houston, U.S. In 1942: World War II: The Imperial Japanese Army began the Battle of Edson's Ridge in an effort to retake Henderson Field on Guadalcanal in the Solomon Islands from the Allies. And in 2003: The first public release of Steam, a distribution service for computer games, was made available for download.",
   "voice": "en-US-ChristopherNeural",
-  "durationMs": 20690,
-  "durationSeconds": 20.69,
+  "durationMs": 26321,
+  "durationSeconds": 26.321,
   "sentences": [
     {
-      "text": "On this day, September 12th: In 2013: NASA confirms that its Voyager 1 probe has become the first manmade object to enter interstellar space.",
+      "text": "On this day, September 12th: In 1962: In a speech at Rice Stadium in Houston, U.S.",
       "startMs": 100,
-      "endMs": 10050,
-      "durationMs": 9950
+      "endMs": 7419,
+      "durationMs": 7319
     },
     {
-      "text": "In 2003: Iraq War: In Fallujah, U.S.",
-      "startMs": 10000,
-      "endMs": 14714,
-      "durationMs": 4714
+      "text": "In 1942: World War II: The Imperial Japanese Army began the Battle of Edson's Ridge in an effort to retake Henderson Field on Guadalcanal in the Solomon Islands from the Allies.",
+      "startMs": 7369,
+      "endMs": 18310,
+      "durationMs": 10940
     },
     {
-      "text": "And in 1993: NASA launches Space Shuttle Discovery on STS-51.",
-      "startMs": 14714,
-      "endMs": 20690,
-      "durationMs": 5976
+      "text": "And in 2003: The first public release of Steam, a distribution service for computer games, was made available for download.",
+      "startMs": 18310,
+      "endMs": 26321,
+      "durationMs": 8012
     }
   ],
   "words": [
     {
       "text": "On",
       "startMs": 100,
-      "endMs": 269,
+      "endMs": 318,
       "timestampMs": 100
     },
     {
       "text": "this",
-      "startMs": 269,
-      "endMs": 606,
-      "timestampMs": 269
+      "startMs": 318,
+      "endMs": 755,
+      "timestampMs": 318
     },
     {
       "text": "day,",
-      "startMs": 606,
-      "endMs": 943,
-      "timestampMs": 606
+      "startMs": 755,
+      "endMs": 1192,
+      "timestampMs": 755
     },
     {
       "text": "September",
-      "startMs": 943,
-      "endMs": 1702,
-      "timestampMs": 943
+      "startMs": 1192,
+      "endMs": 2176,
+      "timestampMs": 1192
     },
     {
       "text": "12th:",
-      "startMs": 1702,
-      "endMs": 2124,
-      "timestampMs": 1702
+      "startMs": 2176,
+      "endMs": 2722,
+      "timestampMs": 2176
     },
     {
       "text": "In",
-      "startMs": 2124,
-      "endMs": 2292,
-      "timestampMs": 2124
+      "startMs": 2722,
+      "endMs": 2940,
+      "timestampMs": 2722
     },
     {
-      "text": "2013:",
-      "startMs": 2292,
-      "endMs": 2714,
-      "timestampMs": 2292
-    },
-    {
-      "text": "NASA",
-      "startMs": 2714,
-      "endMs": 3051,
-      "timestampMs": 2714
-    },
-    {
-      "text": "confirms",
-      "startMs": 3051,
-      "endMs": 3726,
-      "timestampMs": 3051
-    },
-    {
-      "text": "that",
-      "startMs": 3726,
-      "endMs": 4063,
-      "timestampMs": 3726
-    },
-    {
-      "text": "its",
-      "startMs": 4063,
-      "endMs": 4316,
-      "timestampMs": 4063
-    },
-    {
-      "text": "Voyager",
-      "startMs": 4316,
-      "endMs": 4906,
-      "timestampMs": 4316
-    },
-    {
-      "text": "1",
-      "startMs": 4906,
-      "endMs": 4991,
-      "timestampMs": 4906
-    },
-    {
-      "text": "probe",
-      "startMs": 4991,
-      "endMs": 5412,
-      "timestampMs": 4991
-    },
-    {
-      "text": "has",
-      "startMs": 5412,
-      "endMs": 5665,
-      "timestampMs": 5412
-    },
-    {
-      "text": "become",
-      "startMs": 5665,
-      "endMs": 6171,
-      "timestampMs": 5665
-    },
-    {
-      "text": "the",
-      "startMs": 6171,
-      "endMs": 6424,
-      "timestampMs": 6171
-    },
-    {
-      "text": "first",
-      "startMs": 6424,
-      "endMs": 6846,
-      "timestampMs": 6424
-    },
-    {
-      "text": "manmade",
-      "startMs": 6846,
-      "endMs": 7436,
-      "timestampMs": 6846
-    },
-    {
-      "text": "object",
-      "startMs": 7436,
-      "endMs": 7942,
-      "timestampMs": 7436
-    },
-    {
-      "text": "to",
-      "startMs": 7942,
-      "endMs": 8111,
-      "timestampMs": 7942
-    },
-    {
-      "text": "enter",
-      "startMs": 8111,
-      "endMs": 8532,
-      "timestampMs": 8111
-    },
-    {
-      "text": "interstellar",
-      "startMs": 8532,
-      "endMs": 9544,
-      "timestampMs": 8532
-    },
-    {
-      "text": "space.",
-      "startMs": 9544,
-      "endMs": 10050,
-      "timestampMs": 9544
+      "text": "1962:",
+      "startMs": 2940,
+      "endMs": 3486,
+      "timestampMs": 2940
     },
     {
       "text": "In",
-      "startMs": 10000,
-      "endMs": 10314,
-      "timestampMs": 10000
+      "startMs": 3486,
+      "endMs": 3705,
+      "timestampMs": 3486
     },
     {
-      "text": "2003:",
-      "startMs": 10314,
-      "endMs": 11100,
-      "timestampMs": 10314
+      "text": "a",
+      "startMs": 3705,
+      "endMs": 3814,
+      "timestampMs": 3705
     },
     {
-      "text": "Iraq",
-      "startMs": 11100,
-      "endMs": 11729,
-      "timestampMs": 11100
+      "text": "speech",
+      "startMs": 3814,
+      "endMs": 4470,
+      "timestampMs": 3814
     },
     {
-      "text": "War:",
-      "startMs": 11729,
-      "endMs": 12357,
-      "timestampMs": 11729
+      "text": "at",
+      "startMs": 4470,
+      "endMs": 4688,
+      "timestampMs": 4470
     },
     {
-      "text": "In",
-      "startMs": 12357,
-      "endMs": 12671,
-      "timestampMs": 12357
+      "text": "Rice",
+      "startMs": 4688,
+      "endMs": 5125,
+      "timestampMs": 4688
     },
     {
-      "text": "Fallujah,",
-      "startMs": 12671,
-      "endMs": 14086,
-      "timestampMs": 12671
-    },
-    {
-      "text": "U.S.",
-      "startMs": 14086,
-      "endMs": 14714,
-      "timestampMs": 14086
-    },
-    {
-      "text": "And",
-      "startMs": 14714,
-      "endMs": 15059,
-      "timestampMs": 14714
+      "text": "Stadium",
+      "startMs": 5125,
+      "endMs": 5890,
+      "timestampMs": 5125
     },
     {
       "text": "in",
-      "startMs": 15059,
-      "endMs": 15289,
-      "timestampMs": 15059
+      "startMs": 5890,
+      "endMs": 6108,
+      "timestampMs": 5890
     },
     {
-      "text": "1993:",
-      "startMs": 15289,
-      "endMs": 15864,
-      "timestampMs": 15289
+      "text": "Houston,",
+      "startMs": 6108,
+      "endMs": 6982,
+      "timestampMs": 6108
     },
     {
-      "text": "NASA",
-      "startMs": 15864,
-      "endMs": 16323,
-      "timestampMs": 15864
+      "text": "U.S.",
+      "startMs": 6982,
+      "endMs": 7419,
+      "timestampMs": 6982
     },
     {
-      "text": "launches",
-      "startMs": 16323,
-      "endMs": 17243,
-      "timestampMs": 16323
+      "text": "In",
+      "startMs": 7369,
+      "endMs": 7518,
+      "timestampMs": 7369
     },
     {
-      "text": "Space",
-      "startMs": 17243,
-      "endMs": 17817,
-      "timestampMs": 17243
+      "text": "1942:",
+      "startMs": 7518,
+      "endMs": 7890,
+      "timestampMs": 7518
     },
     {
-      "text": "Shuttle",
-      "startMs": 17817,
-      "endMs": 18622,
-      "timestampMs": 17817
+      "text": "World",
+      "startMs": 7890,
+      "endMs": 8262,
+      "timestampMs": 7890
     },
     {
-      "text": "Discovery",
-      "startMs": 18622,
-      "endMs": 19656,
-      "timestampMs": 18622
+      "text": "War",
+      "startMs": 8262,
+      "endMs": 8485,
+      "timestampMs": 8262
+    },
+    {
+      "text": "II:",
+      "startMs": 8485,
+      "endMs": 8709,
+      "timestampMs": 8485
+    },
+    {
+      "text": "The",
+      "startMs": 8709,
+      "endMs": 8932,
+      "timestampMs": 8709
+    },
+    {
+      "text": "Imperial",
+      "startMs": 8932,
+      "endMs": 9527,
+      "timestampMs": 8932
+    },
+    {
+      "text": "Japanese",
+      "startMs": 9527,
+      "endMs": 10123,
+      "timestampMs": 9527
+    },
+    {
+      "text": "Army",
+      "startMs": 10123,
+      "endMs": 10420,
+      "timestampMs": 10123
+    },
+    {
+      "text": "began",
+      "startMs": 10420,
+      "endMs": 10793,
+      "timestampMs": 10420
+    },
+    {
+      "text": "the",
+      "startMs": 10793,
+      "endMs": 11016,
+      "timestampMs": 10793
+    },
+    {
+      "text": "Battle",
+      "startMs": 11016,
+      "endMs": 11462,
+      "timestampMs": 11016
+    },
+    {
+      "text": "of",
+      "startMs": 11462,
+      "endMs": 11611,
+      "timestampMs": 11462
+    },
+    {
+      "text": "Edson's",
+      "startMs": 11611,
+      "endMs": 12132,
+      "timestampMs": 11611
+    },
+    {
+      "text": "Ridge",
+      "startMs": 12132,
+      "endMs": 12504,
+      "timestampMs": 12132
+    },
+    {
+      "text": "in",
+      "startMs": 12504,
+      "endMs": 12653,
+      "timestampMs": 12504
+    },
+    {
+      "text": "an",
+      "startMs": 12653,
+      "endMs": 12802,
+      "timestampMs": 12653
+    },
+    {
+      "text": "effort",
+      "startMs": 12802,
+      "endMs": 13249,
+      "timestampMs": 12802
+    },
+    {
+      "text": "to",
+      "startMs": 13249,
+      "endMs": 13397,
+      "timestampMs": 13249
+    },
+    {
+      "text": "retake",
+      "startMs": 13397,
+      "endMs": 13844,
+      "timestampMs": 13397
+    },
+    {
+      "text": "Henderson",
+      "startMs": 13844,
+      "endMs": 14514,
+      "timestampMs": 13844
+    },
+    {
+      "text": "Field",
+      "startMs": 14514,
+      "endMs": 14886,
+      "timestampMs": 14514
     },
     {
       "text": "on",
-      "startMs": 19656,
-      "endMs": 19886,
-      "timestampMs": 19656
+      "startMs": 14886,
+      "endMs": 15035,
+      "timestampMs": 14886
     },
     {
-      "text": "STS-51.",
-      "startMs": 19886,
-      "endMs": 20690,
-      "timestampMs": 19886
+      "text": "Guadalcanal",
+      "startMs": 15035,
+      "endMs": 15853,
+      "timestampMs": 15035
+    },
+    {
+      "text": "in",
+      "startMs": 15853,
+      "endMs": 16002,
+      "timestampMs": 15853
+    },
+    {
+      "text": "the",
+      "startMs": 16002,
+      "endMs": 16226,
+      "timestampMs": 16002
+    },
+    {
+      "text": "Solomon",
+      "startMs": 16226,
+      "endMs": 16747,
+      "timestampMs": 16226
+    },
+    {
+      "text": "Islands",
+      "startMs": 16747,
+      "endMs": 17268,
+      "timestampMs": 16747
+    },
+    {
+      "text": "from",
+      "startMs": 17268,
+      "endMs": 17565,
+      "timestampMs": 17268
+    },
+    {
+      "text": "the",
+      "startMs": 17565,
+      "endMs": 17789,
+      "timestampMs": 17565
+    },
+    {
+      "text": "Allies.",
+      "startMs": 17789,
+      "endMs": 18310,
+      "timestampMs": 17789
+    },
+    {
+      "text": "And",
+      "startMs": 18310,
+      "endMs": 18541,
+      "timestampMs": 18310
+    },
+    {
+      "text": "in",
+      "startMs": 18541,
+      "endMs": 18695,
+      "timestampMs": 18541
+    },
+    {
+      "text": "2003:",
+      "startMs": 18695,
+      "endMs": 19080,
+      "timestampMs": 18695
+    },
+    {
+      "text": "The",
+      "startMs": 19080,
+      "endMs": 19311,
+      "timestampMs": 19080
+    },
+    {
+      "text": "first",
+      "startMs": 19311,
+      "endMs": 19696,
+      "timestampMs": 19311
+    },
+    {
+      "text": "public",
+      "startMs": 19696,
+      "endMs": 20158,
+      "timestampMs": 19696
+    },
+    {
+      "text": "release",
+      "startMs": 20158,
+      "endMs": 20698,
+      "timestampMs": 20158
+    },
+    {
+      "text": "of",
+      "startMs": 20698,
+      "endMs": 20852,
+      "timestampMs": 20698
+    },
+    {
+      "text": "Steam,",
+      "startMs": 20852,
+      "endMs": 21314,
+      "timestampMs": 20852
+    },
+    {
+      "text": "a",
+      "startMs": 21314,
+      "endMs": 21391,
+      "timestampMs": 21314
+    },
+    {
+      "text": "distribution",
+      "startMs": 21391,
+      "endMs": 22315,
+      "timestampMs": 21391
+    },
+    {
+      "text": "service",
+      "startMs": 22315,
+      "endMs": 22855,
+      "timestampMs": 22315
+    },
+    {
+      "text": "for",
+      "startMs": 22855,
+      "endMs": 23086,
+      "timestampMs": 22855
+    },
+    {
+      "text": "computer",
+      "startMs": 23086,
+      "endMs": 23702,
+      "timestampMs": 23086
+    },
+    {
+      "text": "games,",
+      "startMs": 23702,
+      "endMs": 24164,
+      "timestampMs": 23702
+    },
+    {
+      "text": "was",
+      "startMs": 24164,
+      "endMs": 24395,
+      "timestampMs": 24164
+    },
+    {
+      "text": "made",
+      "startMs": 24395,
+      "endMs": 24704,
+      "timestampMs": 24395
+    },
+    {
+      "text": "available",
+      "startMs": 24704,
+      "endMs": 25397,
+      "timestampMs": 24704
+    },
+    {
+      "text": "for",
+      "startMs": 25397,
+      "endMs": 25628,
+      "timestampMs": 25397
+    },
+    {
+      "text": "download.",
+      "startMs": 25628,
+      "endMs": 26321,
+      "timestampMs": 25628
     }
   ]
 }

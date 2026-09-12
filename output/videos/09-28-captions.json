@@ -1,358 +1,472 @@
 {
-  "text": "On this day, September 28th: In 2008: Falcon 1 becomes the first privately developed liquid-fuel ground-launched vehicle to put a payload into orbit by the RatSat mission. In 1994: The cruise ferry MS Estonia sinks in the Baltic Sea, killing 852 people. And in 2023: The Sycamore Gap tree in Northumberland, England, was illegally felled.",
+  "text": "On this day, September 28th: In 2012: War in Somalia: Somali National Army forces and their AMISOM and Raskamboni allies launched an offensive against Al-Shabaab in the latter's last major stronghold of Kismayo. In 1928: Scottish biologist and pharmacologist Alexander Fleming discovered penicillin when he noticed a bacteria-killing mould growing in his laboratory. And in 2008: The Singapore Grand Prix is held as Formula One's inaugural night race, with Fernando Alonso winning the event.",
   "voice": "en-US-ChristopherNeural",
-  "durationMs": 24583,
-  "durationSeconds": 24.583,
+  "durationMs": 31702,
+  "durationSeconds": 31.702,
   "sentences": [
     {
-      "text": "On this day, September 28th: In 2008: Falcon 1 becomes the first privately developed liquid-fuel ground-launched vehicle to put a payload into orbit by the RatSat mission.",
+      "text": "On this day, September 28th: In 2012: War in Somalia: Somali National Army forces and their AMISOM and Raskamboni allies launched an offensive against Al-Shabaab in the latter's last major stronghold of Kismayo.",
       "startMs": 100,
-      "endMs": 10931,
-      "durationMs": 10831
+      "endMs": 14014,
+      "durationMs": 13914
     },
     {
-      "text": "In 1994: The cruise ferry MS Estonia sinks in the Baltic Sea, killing 852 people.",
-      "startMs": 10881,
-      "endMs": 18214,
-      "durationMs": 7333
+      "text": "In 1928: Scottish biologist and pharmacologist Alexander Fleming discovered penicillin when he noticed a bacteria-killing mould growing in his laboratory.",
+      "startMs": 13964,
+      "endMs": 23429,
+      "durationMs": 9464
     },
     {
-      "text": "And in 2023: The Sycamore Gap tree in Northumberland, England, was illegally felled.",
-      "startMs": 18214,
-      "endMs": 24583,
-      "durationMs": 6369
+      "text": "And in 2008: The Singapore Grand Prix is held as Formula One's inaugural night race, with Fernando Alonso winning the event.",
+      "startMs": 23429,
+      "endMs": 31702,
+      "durationMs": 8274
     }
   ],
   "words": [
     {
       "text": "On",
       "startMs": 100,
-      "endMs": 249,
+      "endMs": 255,
       "timestampMs": 100
     },
     {
       "text": "this",
-      "startMs": 249,
-      "endMs": 548,
-      "timestampMs": 249
+      "startMs": 255,
+      "endMs": 566,
+      "timestampMs": 255
     },
     {
       "text": "day,",
-      "startMs": 548,
-      "endMs": 847,
-      "timestampMs": 548
+      "startMs": 566,
+      "endMs": 877,
+      "timestampMs": 566
     },
     {
       "text": "September",
-      "startMs": 847,
-      "endMs": 1519,
-      "timestampMs": 847
+      "startMs": 877,
+      "endMs": 1577,
+      "timestampMs": 877
     },
     {
       "text": "28th:",
-      "startMs": 1519,
-      "endMs": 1893,
-      "timestampMs": 1519
+      "startMs": 1577,
+      "endMs": 1966,
+      "timestampMs": 1577
     },
     {
       "text": "In",
-      "startMs": 1893,
-      "endMs": 2042,
-      "timestampMs": 1893
+      "startMs": 1966,
+      "endMs": 2121,
+      "timestampMs": 1966
     },
     {
-      "text": "2008:",
-      "startMs": 2042,
-      "endMs": 2416,
-      "timestampMs": 2042
+      "text": "2012:",
+      "startMs": 2121,
+      "endMs": 2510,
+      "timestampMs": 2121
     },
     {
-      "text": "Falcon",
-      "startMs": 2416,
-      "endMs": 2864,
-      "timestampMs": 2416
+      "text": "War",
+      "startMs": 2510,
+      "endMs": 2743,
+      "timestampMs": 2510
     },
     {
-      "text": "1",
-      "startMs": 2864,
-      "endMs": 2938,
-      "timestampMs": 2864
+      "text": "in",
+      "startMs": 2743,
+      "endMs": 2898,
+      "timestampMs": 2743
     },
     {
-      "text": "becomes",
-      "startMs": 2938,
-      "endMs": 3461,
-      "timestampMs": 2938
+      "text": "Somalia:",
+      "startMs": 2898,
+      "endMs": 3520,
+      "timestampMs": 2898
+    },
+    {
+      "text": "Somali",
+      "startMs": 3520,
+      "endMs": 3987,
+      "timestampMs": 3520
+    },
+    {
+      "text": "National",
+      "startMs": 3987,
+      "endMs": 4609,
+      "timestampMs": 3987
+    },
+    {
+      "text": "Army",
+      "startMs": 4609,
+      "endMs": 4919,
+      "timestampMs": 4609
+    },
+    {
+      "text": "forces",
+      "startMs": 4919,
+      "endMs": 5386,
+      "timestampMs": 4919
+    },
+    {
+      "text": "and",
+      "startMs": 5386,
+      "endMs": 5619,
+      "timestampMs": 5386
+    },
+    {
+      "text": "their",
+      "startMs": 5619,
+      "endMs": 6008,
+      "timestampMs": 5619
+    },
+    {
+      "text": "AMISOM",
+      "startMs": 6008,
+      "endMs": 6474,
+      "timestampMs": 6008
+    },
+    {
+      "text": "and",
+      "startMs": 6474,
+      "endMs": 6707,
+      "timestampMs": 6474
+    },
+    {
+      "text": "Raskamboni",
+      "startMs": 6707,
+      "endMs": 7485,
+      "timestampMs": 6707
+    },
+    {
+      "text": "allies",
+      "startMs": 7485,
+      "endMs": 7951,
+      "timestampMs": 7485
+    },
+    {
+      "text": "launched",
+      "startMs": 7951,
+      "endMs": 8573,
+      "timestampMs": 7951
+    },
+    {
+      "text": "an",
+      "startMs": 8573,
+      "endMs": 8728,
+      "timestampMs": 8573
+    },
+    {
+      "text": "offensive",
+      "startMs": 8728,
+      "endMs": 9428,
+      "timestampMs": 8728
+    },
+    {
+      "text": "against",
+      "startMs": 9428,
+      "endMs": 9972,
+      "timestampMs": 9428
+    },
+    {
+      "text": "Al-Shabaab",
+      "startMs": 9972,
+      "endMs": 10749,
+      "timestampMs": 9972
+    },
+    {
+      "text": "in",
+      "startMs": 10749,
+      "endMs": 10905,
+      "timestampMs": 10749
     },
     {
       "text": "the",
-      "startMs": 3461,
-      "endMs": 3685,
-      "timestampMs": 3461
+      "startMs": 10905,
+      "endMs": 11138,
+      "timestampMs": 10905
     },
     {
-      "text": "first",
-      "startMs": 3685,
-      "endMs": 4059,
-      "timestampMs": 3685
+      "text": "latter's",
+      "startMs": 11138,
+      "endMs": 11760,
+      "timestampMs": 11138
     },
     {
-      "text": "privately",
-      "startMs": 4059,
-      "endMs": 4731,
-      "timestampMs": 4059
+      "text": "last",
+      "startMs": 11760,
+      "endMs": 12071,
+      "timestampMs": 11760
     },
     {
-      "text": "developed",
-      "startMs": 4731,
-      "endMs": 5403,
-      "timestampMs": 4731
+      "text": "major",
+      "startMs": 12071,
+      "endMs": 12460,
+      "timestampMs": 12071
     },
     {
-      "text": "liquid-fuel",
-      "startMs": 5403,
-      "endMs": 6225,
-      "timestampMs": 5403
+      "text": "stronghold",
+      "startMs": 12460,
+      "endMs": 13237,
+      "timestampMs": 12460
     },
     {
-      "text": "ground-launched",
-      "startMs": 6225,
-      "endMs": 7346,
-      "timestampMs": 6225
+      "text": "of",
+      "startMs": 13237,
+      "endMs": 13392,
+      "timestampMs": 13237
     },
     {
-      "text": "vehicle",
-      "startMs": 7346,
-      "endMs": 7868,
-      "timestampMs": 7346
+      "text": "Kismayo.",
+      "startMs": 13392,
+      "endMs": 14014,
+      "timestampMs": 13392
     },
     {
-      "text": "to",
-      "startMs": 7868,
-      "endMs": 8018,
-      "timestampMs": 7868
+      "text": "In",
+      "startMs": 13964,
+      "endMs": 14104,
+      "timestampMs": 13964
     },
     {
-      "text": "put",
-      "startMs": 8018,
-      "endMs": 8242,
-      "timestampMs": 8018
+      "text": "1928:",
+      "startMs": 14104,
+      "endMs": 14455,
+      "timestampMs": 14104
+    },
+    {
+      "text": "Scottish",
+      "startMs": 14455,
+      "endMs": 15016,
+      "timestampMs": 14455
+    },
+    {
+      "text": "biologist",
+      "startMs": 15016,
+      "endMs": 15647,
+      "timestampMs": 15016
+    },
+    {
+      "text": "and",
+      "startMs": 15647,
+      "endMs": 15857,
+      "timestampMs": 15647
+    },
+    {
+      "text": "pharmacologist",
+      "startMs": 15857,
+      "endMs": 16839,
+      "timestampMs": 15857
+    },
+    {
+      "text": "Alexander",
+      "startMs": 16839,
+      "endMs": 17470,
+      "timestampMs": 16839
+    },
+    {
+      "text": "Fleming",
+      "startMs": 17470,
+      "endMs": 17960,
+      "timestampMs": 17470
+    },
+    {
+      "text": "discovered",
+      "startMs": 17960,
+      "endMs": 18661,
+      "timestampMs": 17960
+    },
+    {
+      "text": "penicillin",
+      "startMs": 18661,
+      "endMs": 19362,
+      "timestampMs": 18661
+    },
+    {
+      "text": "when",
+      "startMs": 19362,
+      "endMs": 19643,
+      "timestampMs": 19362
+    },
+    {
+      "text": "he",
+      "startMs": 19643,
+      "endMs": 19783,
+      "timestampMs": 19643
+    },
+    {
+      "text": "noticed",
+      "startMs": 19783,
+      "endMs": 20274,
+      "timestampMs": 19783
     },
     {
       "text": "a",
-      "startMs": 8242,
-      "endMs": 8317,
-      "timestampMs": 8242
+      "startMs": 20274,
+      "endMs": 20344,
+      "timestampMs": 20274
     },
     {
-      "text": "payload",
-      "startMs": 8317,
-      "endMs": 8839,
-      "timestampMs": 8317
+      "text": "bacteria-killing",
+      "startMs": 20344,
+      "endMs": 21466,
+      "timestampMs": 20344
     },
     {
-      "text": "into",
-      "startMs": 8839,
-      "endMs": 9138,
-      "timestampMs": 8839
+      "text": "mould",
+      "startMs": 21466,
+      "endMs": 21816,
+      "timestampMs": 21466
     },
     {
-      "text": "orbit",
-      "startMs": 9138,
-      "endMs": 9512,
-      "timestampMs": 9138
-    },
-    {
-      "text": "by",
-      "startMs": 9512,
-      "endMs": 9661,
-      "timestampMs": 9512
-    },
-    {
-      "text": "the",
-      "startMs": 9661,
-      "endMs": 9885,
-      "timestampMs": 9661
-    },
-    {
-      "text": "RatSat",
-      "startMs": 9885,
-      "endMs": 10333,
-      "timestampMs": 9885
-    },
-    {
-      "text": "mission.",
-      "startMs": 10333,
-      "endMs": 10931,
-      "timestampMs": 10333
-    },
-    {
-      "text": "In",
-      "startMs": 10881,
-      "endMs": 11100,
-      "timestampMs": 10881
-    },
-    {
-      "text": "1994:",
-      "startMs": 11100,
-      "endMs": 11647,
-      "timestampMs": 11100
-    },
-    {
-      "text": "The",
-      "startMs": 11647,
-      "endMs": 11975,
-      "timestampMs": 11647
-    },
-    {
-      "text": "cruise",
-      "startMs": 11975,
-      "endMs": 12632,
-      "timestampMs": 11975
-    },
-    {
-      "text": "ferry",
-      "startMs": 12632,
-      "endMs": 13179,
-      "timestampMs": 12632
-    },
-    {
-      "text": "MS",
-      "startMs": 13179,
-      "endMs": 13398,
-      "timestampMs": 13179
-    },
-    {
-      "text": "Estonia",
-      "startMs": 13398,
-      "endMs": 14165,
-      "timestampMs": 13398
-    },
-    {
-      "text": "sinks",
-      "startMs": 14165,
-      "endMs": 14712,
-      "timestampMs": 14165
+      "text": "growing",
+      "startMs": 21816,
+      "endMs": 22307,
+      "timestampMs": 21816
     },
     {
       "text": "in",
-      "startMs": 14712,
-      "endMs": 14931,
-      "timestampMs": 14712
+      "startMs": 22307,
+      "endMs": 22447,
+      "timestampMs": 22307
     },
     {
-      "text": "the",
-      "startMs": 14931,
-      "endMs": 15259,
-      "timestampMs": 14931
+      "text": "his",
+      "startMs": 22447,
+      "endMs": 22657,
+      "timestampMs": 22447
     },
     {
-      "text": "Baltic",
-      "startMs": 15259,
-      "endMs": 15916,
-      "timestampMs": 15259
-    },
-    {
-      "text": "Sea,",
-      "startMs": 15916,
-      "endMs": 16354,
-      "timestampMs": 15916
-    },
-    {
-      "text": "killing",
-      "startMs": 16354,
-      "endMs": 17120,
-      "timestampMs": 16354
-    },
-    {
-      "text": "852",
-      "startMs": 17120,
-      "endMs": 17448,
-      "timestampMs": 17120
-    },
-    {
-      "text": "people.",
-      "startMs": 17448,
-      "endMs": 18214,
-      "timestampMs": 17448
+      "text": "laboratory.",
+      "startMs": 22657,
+      "endMs": 23429,
+      "timestampMs": 22657
     },
     {
       "text": "And",
-      "startMs": 18214,
-      "endMs": 18480,
-      "timestampMs": 18214
+      "startMs": 23429,
+      "endMs": 23667,
+      "timestampMs": 23429
     },
     {
       "text": "in",
-      "startMs": 18480,
-      "endMs": 18657,
-      "timestampMs": 18480
+      "startMs": 23667,
+      "endMs": 23826,
+      "timestampMs": 23667
     },
     {
-      "text": "2023:",
-      "startMs": 18657,
-      "endMs": 19099,
-      "timestampMs": 18657
+      "text": "2008:",
+      "startMs": 23826,
+      "endMs": 24224,
+      "timestampMs": 23826
     },
     {
       "text": "The",
-      "startMs": 19099,
-      "endMs": 19364,
-      "timestampMs": 19099
+      "startMs": 24224,
+      "endMs": 24463,
+      "timestampMs": 24224
     },
     {
-      "text": "Sycamore",
-      "startMs": 19364,
-      "endMs": 20072,
-      "timestampMs": 19364
+      "text": "Singapore",
+      "startMs": 24463,
+      "endMs": 25179,
+      "timestampMs": 24463
     },
     {
-      "text": "Gap",
-      "startMs": 20072,
-      "endMs": 20337,
-      "timestampMs": 20072
+      "text": "Grand",
+      "startMs": 25179,
+      "endMs": 25577,
+      "timestampMs": 25179
     },
     {
-      "text": "tree",
-      "startMs": 20337,
-      "endMs": 20691,
-      "timestampMs": 20337
+      "text": "Prix",
+      "startMs": 25577,
+      "endMs": 25895,
+      "timestampMs": 25577
     },
     {
-      "text": "in",
-      "startMs": 20691,
-      "endMs": 20868,
-      "timestampMs": 20691
+      "text": "is",
+      "startMs": 25895,
+      "endMs": 26054,
+      "timestampMs": 25895
     },
     {
-      "text": "Northumberland,",
-      "startMs": 20868,
-      "endMs": 22195,
-      "timestampMs": 20868
+      "text": "held",
+      "startMs": 26054,
+      "endMs": 26372,
+      "timestampMs": 26054
     },
     {
-      "text": "England,",
-      "startMs": 22195,
-      "endMs": 22903,
-      "timestampMs": 22195
+      "text": "as",
+      "startMs": 26372,
+      "endMs": 26531,
+      "timestampMs": 26372
     },
     {
-      "text": "was",
-      "startMs": 22903,
-      "endMs": 23168,
-      "timestampMs": 22903
+      "text": "Formula",
+      "startMs": 26531,
+      "endMs": 27088,
+      "timestampMs": 26531
     },
     {
-      "text": "illegally",
-      "startMs": 23168,
-      "endMs": 23964,
-      "timestampMs": 23168
+      "text": "One's",
+      "startMs": 27088,
+      "endMs": 27486,
+      "timestampMs": 27088
     },
     {
-      "text": "felled.",
-      "startMs": 23964,
-      "endMs": 24583,
-      "timestampMs": 23964
+      "text": "inaugural",
+      "startMs": 27486,
+      "endMs": 28202,
+      "timestampMs": 27486
+    },
+    {
+      "text": "night",
+      "startMs": 28202,
+      "endMs": 28600,
+      "timestampMs": 28202
+    },
+    {
+      "text": "race,",
+      "startMs": 28600,
+      "endMs": 28997,
+      "timestampMs": 28600
+    },
+    {
+      "text": "with",
+      "startMs": 28997,
+      "endMs": 29316,
+      "timestampMs": 28997
+    },
+    {
+      "text": "Fernando",
+      "startMs": 29316,
+      "endMs": 29952,
+      "timestampMs": 29316
+    },
+    {
+      "text": "Alonso",
+      "startMs": 29952,
+      "endMs": 30429,
+      "timestampMs": 29952
+    },
+    {
+      "text": "winning",
+      "startMs": 30429,
+      "endMs": 30986,
+      "timestampMs": 30429
+    },
+    {
+      "text": "the",
+      "startMs": 30986,
+      "endMs": 31225,
+      "timestampMs": 30986
+    },
+    {
+      "text": "event.",
+      "startMs": 31225,
+      "endMs": 31702,
+      "timestampMs": 31225
     }
   ]
 }
